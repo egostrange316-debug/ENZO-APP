@@ -1,0 +1,27 @@
+{
+  "name": "kids-english-backend",
+  "version": "1.0.0",
+  "description": "Bolalar uchun inglizcha o'rganish ilovasi — kunlik reja, oylik obuna va AI (Gemini) asosidagi backend tizimi",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "create-admin": "node scripts/createAdmin.js",
+    "migrate": "node scripts/migrateFromSupabase.js",
+    "test": "node --test --test-concurrency=1 tests/*.test.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.0",
+    "express-rate-limit": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
