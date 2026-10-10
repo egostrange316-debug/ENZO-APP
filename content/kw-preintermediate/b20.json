@@ -1,0 +1,1498 @@
+[
+ {
+  "unit": 162,
+  "title": "newspaper",
+  "vocabulary": [
+   {
+    "word": "read a newspaper",
+    "translation_uz": "gazeta o'qimoq",
+    "example_sentence": "My grandfather reads a newspaper after breakfast."
+   },
+   {
+    "word": "buy a newspaper",
+    "translation_uz": "gazeta sotib olmoq",
+    "example_sentence": "I bought a newspaper at the station."
+   },
+   {
+    "word": "a daily newspaper",
+    "translation_uz": "kundalik gazeta",
+    "example_sentence": "A daily newspaper comes out every day."
+   },
+   {
+    "word": "a local newspaper",
+    "translation_uz": "mahalliy gazeta",
+    "example_sentence": "My aunt works for a local newspaper."
+   },
+   {
+    "word": "a newspaper article",
+    "translation_uz": "gazeta maqolasi",
+    "example_sentence": "I read a newspaper article about space."
+   },
+   {
+    "word": "the front page",
+    "translation_uz": "gazetaning birinchi sahifasi",
+    "example_sentence": "The big news is on the front page."
+   },
+   {
+    "word": "in the newspaper",
+    "translation_uz": "gazetada",
+    "example_sentence": "I saw our school in the newspaper."
+   },
+   {
+    "word": "a newspaper headline",
+    "translation_uz": "gazeta sarlavhasi",
+    "example_sentence": "The headline was very funny."
+   },
+   {
+    "word": "deliver newspapers",
+    "translation_uz": "gazeta tarqatmoq",
+    "example_sentence": "Ali delivers newspapers before school."
+   },
+   {
+    "word": "a newspaper reporter",
+    "translation_uz": "gazeta muxbiri",
+    "example_sentence": "The reporter asked the mayor a question."
+   },
+   {
+    "word": "wrap in newspaper",
+    "translation_uz": "gazetaga o'ramoq",
+    "example_sentence": "Mum wrapped the plates in newspaper."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandfather likes to ___ the newspaper after breakfast.",
+    "correct_word": "read",
+    "options": [
+     "drink",
+     "wear",
+     "cook",
+     "read"
+    ]
+   },
+   {
+    "sentence_with_blank": "I saw a photo of our school ___ the newspaper.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "to",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The big news was on the ___ page of the newspaper.",
+    "correct_word": "front",
+    "options": [
+     "soft",
+     "front",
+     "wet",
+     "green"
+    ]
+   },
+   {
+    "sentence_with_blank": "She works for a ___ newspaper in our small town.",
+    "correct_word": "local",
+    "options": [
+     "hungry",
+     "local",
+     "quiet",
+     "heavy"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every morning Tom ___ newspapers to the houses on our street.",
+    "correct_word": "delivers",
+    "options": [
+     "delivers",
+     "drinks",
+     "sleeps",
+     "paints"
+    ]
+   },
+   {
+    "sentence_with_blank": "I read an interesting ___ about dogs in the newspaper.",
+    "correct_word": "article",
+    "options": [
+     "spoon",
+     "window",
+     "pillow",
+     "article"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Morning Newspaper",
+   "text": "Every morning my father buys a newspaper on his way to work. He likes to read it on the bus. Yesterday there was a newspaper article about our school on the front page. The headline said, \"Students Plant One Hundred Trees\". My father was very proud because I helped plant the trees. He showed the article to his friends at work. Now we keep it at home.",
+   "key_words": [
+    {
+     "word": "proud",
+     "translation_uz": "faxrlangan"
+    },
+    {
+     "word": "plant",
+     "translation_uz": "ekmoq"
+    },
+    {
+     "word": "headline",
+     "translation_uz": "sarlavha"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where does the writer's father read the newspaper?",
+     "options": [
+      "At home",
+      "In the car",
+      "On the bus",
+      "At school"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was the article about?",
+     "options": [
+      "A football match",
+      "A new shop",
+      "The writer's school",
+      "The weather"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where was the article?",
+     "options": [
+      "On the last page",
+      "On the front page",
+      "In a magazine",
+      "On the radio"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Newspaper Job",
+   "script": "My cousin Omar delivers newspapers in the morning. He gets up at five o'clock. He takes a daily newspaper to forty houses. It is a local newspaper, so it has news about our town. After work he reads the front page with a cup of tea. He says the sports article is the best part.",
+   "questions": [
+    {
+     "question": "How many houses does Omar take newspapers to?",
+     "options": [
+      "Forty",
+      "Fourteen",
+      "Fifty",
+      "Four"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What time does Omar get up?",
+     "options": [
+      "At six o'clock",
+      "At seven o'clock",
+      "At four o'clock",
+      "At five o'clock"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Omar like best?",
+     "options": [
+      "The headline",
+      "The pictures",
+      "The weather",
+      "The sports article"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I read a newspaper.",
+    "The news is in the newspaper.",
+    "He delivers newspapers."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Newspapers",
+    "question_text": "Do you read a newspaper?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sometimes",
+     "news"
+    ]
+   },
+   {
+    "topic": "Newspapers",
+    "question_text": "Who buys a newspaper in your family?",
+    "hint_words": [
+     "my father",
+     "my mother",
+     "buys",
+     "morning"
+    ]
+   },
+   {
+    "topic": "Newspapers",
+    "question_text": "Why do people read newspapers?",
+    "hint_words": [
+     "news",
+     "sport",
+     "learn",
+     "interesting"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 163,
+  "title": "magazine",
+  "vocabulary": [
+   {
+    "word": "read a magazine",
+    "translation_uz": "jurnal o'qimoq",
+    "example_sentence": "She reads a magazine in the waiting room."
+   },
+   {
+    "word": "buy a magazine",
+    "translation_uz": "jurnal sotib olmoq",
+    "example_sentence": "I bought a magazine about animals."
+   },
+   {
+    "word": "a monthly magazine",
+    "translation_uz": "oylik jurnal",
+    "example_sentence": "A monthly magazine comes out once a month."
+   },
+   {
+    "word": "a weekly magazine",
+    "translation_uz": "haftalik jurnal",
+    "example_sentence": "We get a weekly magazine at home."
+   },
+   {
+    "word": "a fashion magazine",
+    "translation_uz": "moda jurnali",
+    "example_sentence": "My sister loves her fashion magazine."
+   },
+   {
+    "word": "a sports magazine",
+    "translation_uz": "sport jurnali",
+    "example_sentence": "He has a sports magazine about football."
+   },
+   {
+    "word": "a magazine cover",
+    "translation_uz": "jurnal muqovasi",
+    "example_sentence": "The magazine cover shows a big tiger."
+   },
+   {
+    "word": "an article in a magazine",
+    "translation_uz": "jurnaldagi maqola",
+    "example_sentence": "I wrote an article in the school magazine."
+   },
+   {
+    "word": "subscribe to a magazine",
+    "translation_uz": "jurnalga obuna bo'lmoq",
+    "example_sentence": "We subscribe to a science magazine."
+   },
+   {
+    "word": "flick through a magazine",
+    "translation_uz": "jurnalni varaqlab ko'rmoq",
+    "example_sentence": "He flicked through a magazine while he waited."
+   },
+   {
+    "word": "a magazine for teenagers",
+    "translation_uz": "o'smirlar uchun jurnal",
+    "example_sentence": "This is a magazine for teenagers."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Dad likes to ___ a magazine while he drinks tea.",
+    "correct_word": "read",
+    "options": [
+     "eat",
+     "kick",
+     "read",
+     "sing"
+    ]
+   },
+   {
+    "sentence_with_blank": "We get a ___ magazine, so a new one comes every week.",
+    "correct_word": "weekly",
+    "options": [
+     "yearly",
+     "weekly",
+     "hourly",
+     "sunny"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a photo of a famous singer on the magazine ___.",
+    "correct_word": "cover",
+    "options": [
+     "cover",
+     "window",
+     "door",
+     "floor"
+    ]
+   },
+   {
+    "sentence_with_blank": "I want to ___ to a science magazine so it comes to my house.",
+    "correct_word": "subscribe",
+    "options": [
+     "subscribe",
+     "climb",
+     "throw",
+     "whisper"
+    ]
+   },
+   {
+    "sentence_with_blank": "She wrote an article ___ the school magazine.",
+    "correct_word": "in",
+    "options": [
+     "of",
+     "from",
+     "with",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister loves her fashion ___.",
+    "correct_word": "magazine",
+    "options": [
+     "kitchen",
+     "bridge",
+     "magazine",
+     "ticket"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Favourite Magazine",
+   "text": "I have a favourite magazine about animals. It is a monthly magazine, so a new one comes every month. We subscribe to it, and the postman brings it to our house. The magazine cover always has a beautiful photo. Last month there was an article about pandas. I flicked through the pages and read it twice. Then I showed the magazine to my teacher.",
+   "key_words": [
+    {
+     "word": "subscribe",
+     "translation_uz": "obuna bo'lmoq"
+    },
+    {
+     "word": "postman",
+     "translation_uz": "pochtachi"
+    },
+    {
+     "word": "twice",
+     "translation_uz": "ikki marta"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How often does the magazine come?",
+     "options": [
+      "Every week",
+      "Every month",
+      "Every day",
+      "Every year"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the article about?",
+     "options": [
+      "Tigers",
+      "Pandas",
+      "Fish",
+      "Birds"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who brings the magazine to the house?",
+     "options": [
+      "The postman",
+      "The teacher",
+      "The writer's mother",
+      "A neighbour"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Waiting Room",
+   "script": "I was at the dentist yesterday. In the waiting room there were many magazines on a small table. I picked up a sports magazine and flicked through it. There was an article about a young swimmer. Next to me, a girl read a fashion magazine. After ten minutes the dentist called my name. I took the sports magazine home, but my mum said, \"Please put it back!\"",
+   "questions": [
+    {
+     "question": "Where was the speaker?",
+     "options": [
+      "At school",
+      "At a shop",
+      "At the library",
+      "At the dentist"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Which magazine did the speaker pick up?",
+     "options": [
+      "A fashion magazine",
+      "A science magazine",
+      "A sports magazine",
+      "An animal magazine"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did the speaker wait?",
+     "options": [
+      "Two minutes",
+      "An hour",
+      "About ten minutes",
+      "All day"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I read a magazine.",
+    "It is a monthly magazine.",
+    "Look at the magazine cover."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Magazines",
+    "question_text": "What magazine do you like?",
+    "hint_words": [
+     "animals",
+     "sport",
+     "cartoons",
+     "fashion"
+    ]
+   },
+   {
+    "topic": "Magazines",
+    "question_text": "Do you read a magazine every month?",
+    "hint_words": [
+     "yes",
+     "no",
+     "often",
+     "monthly"
+    ]
+   },
+   {
+    "topic": "Magazines",
+    "question_text": "Would you like to write an article for a magazine?",
+    "hint_words": [
+     "about",
+     "write",
+     "school",
+     "photo"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 164,
+  "title": "pen, pencil",
+  "vocabulary": [
+   {
+    "word": "write with a pen",
+    "translation_uz": "ruchka bilan yozmoq",
+    "example_sentence": "Please write with a blue pen."
+   },
+   {
+    "word": "a ballpoint pen",
+    "translation_uz": "sharikli ruchka",
+    "example_sentence": "I lost my ballpoint pen."
+   },
+   {
+    "word": "a felt-tip pen",
+    "translation_uz": "flomaster",
+    "example_sentence": "She drew a flower with a felt-tip pen."
+   },
+   {
+    "word": "a pen runs out",
+    "translation_uz": "ruchkaning siyohi tugamoq",
+    "example_sentence": "My pen ran out in the exam."
+   },
+   {
+    "word": "borrow a pen",
+    "translation_uz": "ruchka qarz olmoq",
+    "example_sentence": "Can I borrow a pen, please?"
+   },
+   {
+    "word": "in pencil",
+    "translation_uz": "qalamda",
+    "example_sentence": "Please do the drawing in pencil."
+   },
+   {
+    "word": "sharpen a pencil",
+    "translation_uz": "qalamni o'tkirlamoq",
+    "example_sentence": "The teacher sharpened a pencil for him."
+   },
+   {
+    "word": "a pencil case",
+    "translation_uz": "qalamdon",
+    "example_sentence": "My pencil case is full of pens."
+   },
+   {
+    "word": "a pencil sharpener",
+    "translation_uz": "qalamtarosh",
+    "example_sentence": "I need a pencil sharpener."
+   },
+   {
+    "word": "a pen and paper",
+    "translation_uz": "ruchka va qog'oz",
+    "example_sentence": "Bring a pen and paper to class."
+   },
+   {
+    "word": "a red pencil",
+    "translation_uz": "qizil qalam",
+    "example_sentence": "The teacher marks mistakes with a red pencil."
+   },
+   {
+    "word": "rub out with a rubber",
+    "translation_uz": "o'chirg'ich bilan o'chirmoq",
+    "example_sentence": "He rubbed out the wrong word."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ with a blue pen, not a pencil.",
+    "correct_word": "write",
+    "options": [
+     "sleep",
+     "write",
+     "drink",
+     "jump"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I ___ a pen from you? Mine is at home.",
+    "correct_word": "borrow",
+    "options": [
+     "borrow",
+     "build",
+     "break",
+     "boil"
+    ]
+   },
+   {
+    "sentence_with_blank": "I did my drawing ___ pencil, so I can rub it out.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "at",
+     "by",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher will ___ your pencil because it is blunt.",
+    "correct_word": "sharpen",
+    "options": [
+     "cook",
+     "wash",
+     "carry",
+     "sharpen"
+    ]
+   },
+   {
+    "sentence_with_blank": "My pen ___ out in the middle of the test.",
+    "correct_word": "ran",
+    "options": [
+     "ate",
+     "fell",
+     "ran",
+     "sat"
+    ]
+   },
+   {
+    "sentence_with_blank": "Put your pens and pencils in your pencil ___.",
+    "correct_word": "case",
+    "options": [
+     "plate",
+     "case",
+     "road",
+     "coat"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Bad Morning",
+   "text": "This morning I could not find my pencil case. I looked under my bed and in my bag, but it was not there. At school, my teacher said, \"Write your answers with a pen.\" I asked my friend, \"Can I borrow a pen?\" She gave me a blue ballpoint pen. Then my teacher asked us to draw a picture in pencil. My friend gave me a pencil too. After school I found my pencil case in the kitchen.",
+   "key_words": [
+    {
+     "word": "answers",
+     "translation_uz": "javoblar"
+    },
+    {
+     "word": "bag",
+     "translation_uz": "sumka"
+    },
+    {
+     "word": "kitchen",
+     "translation_uz": "oshxona"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer lose?",
+     "options": [
+      "The pencil case",
+      "A bag",
+      "A book",
+      "A phone"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the friend give the writer first?",
+     "options": [
+      "A blue pen",
+      "A red pencil",
+      "A rubber",
+      "A ruler"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where was the pencil case at last?",
+     "options": [
+      "Under the bed",
+      "In the bag",
+      "At school",
+      "In the kitchen"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Art Class",
+   "script": "In art class today we used felt-tip pens and pencils. The teacher said, \"First draw the picture in pencil. Then use a felt-tip pen.\" Sara's pencil was blunt, so she used the pencil sharpener. My pen ran out, so I borrowed a green one from Tim. We drew a big tree. At the end, the teacher put our pictures on the wall.",
+   "questions": [
+    {
+     "question": "What did the children use in art class?",
+     "options": [
+      "Paint and brushes",
+      "Only crayons",
+      "Felt-tip pens and pencils",
+      "Computers"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did Sara use the pencil sharpener?",
+     "options": [
+      "Her pen ran out",
+      "Her pencil was blunt",
+      "She lost her rubber",
+      "She liked it"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the children draw?",
+     "options": [
+      "A house",
+      "A big tree",
+      "A dog",
+      "A boat"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Can I borrow a pen?",
+    "My pen ran out.",
+    "Sharpen your pencil."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Pens and pencils",
+    "question_text": "What is in your pencil case?",
+    "hint_words": [
+     "pen",
+     "pencil",
+     "rubber",
+     "ruler"
+    ]
+   },
+   {
+    "topic": "Pens and pencils",
+    "question_text": "Do you like writing with a pen or a pencil?",
+    "hint_words": [
+     "pen",
+     "pencil",
+     "better",
+     "because"
+    ]
+   },
+   {
+    "topic": "Pens and pencils",
+    "question_text": "Do you ever borrow a pen from a friend?",
+    "hint_words": [
+     "sometimes",
+     "never",
+     "borrow",
+     "forget"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 165,
+  "title": "paper, form",
+  "vocabulary": [
+   {
+    "word": "a piece of paper",
+    "translation_uz": "bir parcha qog'oz",
+    "example_sentence": "Can I have a piece of paper?"
+   },
+   {
+    "word": "a sheet of paper",
+    "translation_uz": "bir varaq qog'oz",
+    "example_sentence": "Take a clean sheet of paper."
+   },
+   {
+    "word": "on paper",
+    "translation_uz": "qog'ozda",
+    "example_sentence": "Write your ideas on paper first."
+   },
+   {
+    "word": "recycle paper",
+    "translation_uz": "qog'ozni qayta ishlamoq",
+    "example_sentence": "We recycle paper at our school."
+   },
+   {
+    "word": "waste paper",
+    "translation_uz": "qog'ozni isrof qilmoq",
+    "example_sentence": "Don't waste paper, please."
+   },
+   {
+    "word": "a paper bag",
+    "translation_uz": "qog'oz xalta",
+    "example_sentence": "She put the apples in a paper bag."
+   },
+   {
+    "word": "tear up the paper",
+    "translation_uz": "qog'ozni yirtmoq",
+    "example_sentence": "He tore up the paper and threw it away."
+   },
+   {
+    "word": "fill in a form",
+    "translation_uz": "anketani to'ldirmoq",
+    "example_sentence": "Please fill in this form."
+   },
+   {
+    "word": "fill out a form",
+    "translation_uz": "blankani to'ldirmoq",
+    "example_sentence": "You must fill out the form with a pen."
+   },
+   {
+    "word": "an application form",
+    "translation_uz": "ariza blankasi",
+    "example_sentence": "I sent in my application form for the club."
+   },
+   {
+    "word": "sign a form",
+    "translation_uz": "blankaga imzo chekmoq",
+    "example_sentence": "Mum signed the form for the school trip."
+   },
+   {
+    "word": "hand in a form",
+    "translation_uz": "blankani topshirmoq",
+    "example_sentence": "Hand in your form by Friday."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can I have a piece of ___ for my drawing?",
+    "correct_word": "paper",
+    "options": [
+     "paper",
+     "water",
+     "cheese",
+     "music"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ paper at school to help the planet.",
+    "correct_word": "recycle",
+    "options": [
+     "invent",
+     "paint",
+     "borrow",
+     "recycle"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ in this form with your name and age.",
+    "correct_word": "fill",
+    "options": [
+     "take",
+     "make",
+     "fill",
+     "look"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum had to ___ the form for our school trip.",
+    "correct_word": "sign",
+    "options": [
+     "drink",
+     "jump",
+     "sign",
+     "fix"
+    ]
+   },
+   {
+    "sentence_with_blank": "Write your ideas ___ paper before you start.",
+    "correct_word": "on",
+    "options": [
+     "up",
+     "on",
+     "out",
+     "off"
+    ]
+   },
+   {
+    "sentence_with_blank": "You must ___ in your form by Friday.",
+    "correct_word": "hand",
+    "options": [
+     "hand",
+     "eat",
+     "run",
+     "sit"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Joining a Club",
+   "text": "I want to join the chess club at school. First, I took a form from my teacher. It was an application form on a sheet of white paper. I filled it in with a black pen. I wrote my name, my age and my class. Then Dad signed the form. On Monday I handed it in. The teacher smiled and said, \"Welcome to the club!\"",
+   "key_words": [
+    {
+     "word": "join",
+     "translation_uz": "qo'shilmoq"
+    },
+    {
+     "word": "age",
+     "translation_uz": "yosh"
+    },
+    {
+     "word": "smiled",
+     "translation_uz": "jilmaydi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Which club does the writer want to join?",
+     "options": [
+      "The art club",
+      "The music club",
+      "The football club",
+      "The chess club"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who signed the form?",
+     "options": [
+      "The teacher",
+      "Mum",
+      "A friend",
+      "Dad"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When did the writer hand in the form?",
+     "options": [
+      "On Friday",
+      "On Sunday",
+      "On Monday",
+      "On Tuesday"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Saving Paper",
+   "script": "Our class has a plan to save paper. We do not waste paper any more. When we make a mistake, we do not tear up the sheet. We use the other side of the paper. Every Friday we put old paper in a big box, and a worker takes it to the factory to recycle. Today we also filled out a form so our school can get a prize for the plan.",
+   "questions": [
+    {
+     "question": "When do the children put old paper in the box?",
+     "options": [
+      "Every Monday",
+      "Every Friday",
+      "Every morning",
+      "Once a year"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What do they do when they make a mistake?",
+     "options": [
+      "Use the other side of the paper",
+      "Tear up the sheet",
+      "Buy new paper",
+      "Ask the teacher"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did they fill out a form?",
+     "options": [
+      "To get a prize for the plan",
+      "To join a club",
+      "To go on a trip",
+      "To buy paper"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Fill in the form.",
+    "I need a piece of paper.",
+    "We recycle paper."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Paper and forms",
+    "question_text": "Do you waste paper at school?",
+    "hint_words": [
+     "never",
+     "sometimes",
+     "recycle",
+     "paper"
+    ]
+   },
+   {
+    "topic": "Paper and forms",
+    "question_text": "When do you fill in a form?",
+    "hint_words": [
+     "school",
+     "club",
+     "trip",
+     "name"
+    ]
+   },
+   {
+    "topic": "Paper and forms",
+    "question_text": "What do you write on a piece of paper?",
+    "hint_words": [
+     "notes",
+     "words",
+     "drawing",
+     "list"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 166,
+  "title": "envelope, stamp, address",
+  "vocabulary": [
+   {
+    "word": "put a letter in an envelope",
+    "translation_uz": "xatni konvertga solmoq",
+    "example_sentence": "She put the letter in an envelope."
+   },
+   {
+    "word": "seal an envelope",
+    "translation_uz": "konvertni yopishtirmoq",
+    "example_sentence": "Seal the envelope and write the address."
+   },
+   {
+    "word": "open an envelope",
+    "translation_uz": "konvertni ochmoq",
+    "example_sentence": "He opened the envelope carefully."
+   },
+   {
+    "word": "a stamp collection",
+    "translation_uz": "marka kolleksiyasi",
+    "example_sentence": "My uncle has a big stamp collection."
+   },
+   {
+    "word": "collect stamps",
+    "translation_uz": "marka yig'moq",
+    "example_sentence": "I collect stamps from many countries."
+   },
+   {
+    "word": "stick a stamp on",
+    "translation_uz": "markani yopishtirmoq",
+    "example_sentence": "Stick a stamp on the envelope."
+   },
+   {
+    "word": "a first-class stamp",
+    "translation_uz": "birinchi toifadagi marka",
+    "example_sentence": "I bought a first-class stamp."
+   },
+   {
+    "word": "write the address",
+    "translation_uz": "manzilni yozmoq",
+    "example_sentence": "Write the address clearly."
+   },
+   {
+    "word": "a home address",
+    "translation_uz": "uy manzili",
+    "example_sentence": "Please give me your home address."
+   },
+   {
+    "word": "an email address",
+    "translation_uz": "elektron pochta manzili",
+    "example_sentence": "What is your email address?"
+   },
+   {
+    "word": "change your address",
+    "translation_uz": "manzilni o'zgartirmoq",
+    "example_sentence": "They changed their address last month."
+   },
+   {
+    "word": "the address on the envelope",
+    "translation_uz": "konvertdagi manzil",
+    "example_sentence": "The address on the envelope was wrong."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ a stamp on the envelope before you post it.",
+    "correct_word": "stick",
+    "options": [
+     "eat",
+     "sing",
+     "pour",
+     "stick"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle likes to ___ stamps from different countries.",
+    "correct_word": "collect",
+    "options": [
+     "dig",
+     "wash",
+     "collect",
+     "hide"
+    ]
+   },
+   {
+    "sentence_with_blank": "She put the letter ___ an envelope.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "in",
+     "under",
+     "over"
+    ]
+   },
+   {
+    "sentence_with_blank": "Write your home ___ at the top of the page.",
+    "correct_word": "address",
+    "options": [
+     "stamp",
+     "address",
+     "pencil",
+     "coin"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ the envelope and read the birthday card.",
+    "correct_word": "opened",
+    "options": [
+     "opened",
+     "painted",
+     "kicked",
+     "watered"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ their address when they moved to a new town.",
+    "correct_word": "changed",
+    "options": [
+     "ate",
+     "grew",
+     "rode",
+     "changed"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Letter from Grandma",
+   "text": "Yesterday a letter came for me. The address on the envelope was in my grandma's neat writing. In the corner there was a beautiful stamp with a bird. I opened the envelope carefully and found a birthday card and a photo. Grandma knows that I collect stamps, so she kept the stamp for my collection. I wrote my reply and put it in an envelope. Then I stuck a stamp on it and wrote her address.",
+   "key_words": [
+    {
+     "word": "neat",
+     "translation_uz": "saranjom"
+    },
+    {
+     "word": "corner",
+     "translation_uz": "burchak"
+    },
+    {
+     "word": "reply",
+     "translation_uz": "javob"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Whose writing was on the envelope?",
+     "options": [
+      "Dad's",
+      "The teacher's",
+      "Grandma's",
+      "A friend's"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was on the stamp?",
+     "options": [
+      "A flower",
+      "A car",
+      "A bird",
+      "A house"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was inside the envelope?",
+     "options": [
+      "Money",
+      "A birthday card and a photo",
+      "A key",
+      "A map"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Post Office",
+   "script": "Last Saturday I went to the post office with my brother. He wanted to send a letter to his penfriend in Spain. First he wrote the address on the envelope. Then he sealed it and bought a stamp. The woman asked, \"Do you want a first-class stamp?\" He said yes. I looked at the big stamp collection on the wall. It had stamps from fifty countries.",
+   "questions": [
+    {
+     "question": "Who did the brother write to?",
+     "options": [
+      "His penfriend in Spain",
+      "His teacher",
+      "His uncle",
+      "His cousin"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the woman ask about?",
+     "options": [
+      "The address",
+      "The weight",
+      "The colour",
+      "A first-class stamp"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How many countries were the stamps from?",
+     "options": [
+      "Fifteen",
+      "Five",
+      "Twenty",
+      "Fifty"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Stick a stamp on it.",
+    "Write your address.",
+    "I collect stamps."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Letters",
+    "question_text": "Do you collect stamps?",
+    "hint_words": [
+     "yes",
+     "no",
+     "collection",
+     "countries"
+    ]
+   },
+   {
+    "topic": "Letters",
+    "question_text": "What is your home address?",
+    "hint_words": [
+     "street",
+     "city",
+     "number",
+     "I live"
+    ]
+   },
+   {
+    "topic": "Letters",
+    "question_text": "Do you write letters or send emails?",
+    "hint_words": [
+     "letters",
+     "emails",
+     "phone",
+     "because"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 167,
+  "title": "parcel, package",
+  "vocabulary": [
+   {
+    "word": "send a parcel",
+    "translation_uz": "posilka jo'natmoq",
+    "example_sentence": "We sent a parcel to my aunt."
+   },
+   {
+    "word": "receive a parcel",
+    "translation_uz": "posilka olmoq",
+    "example_sentence": "I received a parcel this morning."
+   },
+   {
+    "word": "wrap a parcel",
+    "translation_uz": "posilkani o'ramoq",
+    "example_sentence": "Dad wrapped the parcel in brown paper."
+   },
+   {
+    "word": "open a parcel",
+    "translation_uz": "posilkani ochmoq",
+    "example_sentence": "She opened the parcel with scissors."
+   },
+   {
+    "word": "a heavy parcel",
+    "translation_uz": "og'ir posilka",
+    "example_sentence": "It is a heavy parcel, so carry it carefully."
+   },
+   {
+    "word": "deliver a parcel",
+    "translation_uz": "posilkani yetkazib bermoq",
+    "example_sentence": "The courier delivers parcels every day."
+   },
+   {
+    "word": "a parcel arrives",
+    "translation_uz": "posilka yetib keladi",
+    "example_sentence": "The parcel arrived on Tuesday."
+   },
+   {
+    "word": "collect a parcel",
+    "translation_uz": "posilkani olib ketmoq",
+    "example_sentence": "I collected a parcel from the post office."
+   },
+   {
+    "word": "a package holiday",
+    "translation_uz": "turistik paket sayohat",
+    "example_sentence": "They booked a package holiday to Turkey."
+   },
+   {
+    "word": "a package of biscuits",
+    "translation_uz": "bir paket pechenye",
+    "example_sentence": "She bought a package of biscuits."
+   },
+   {
+    "word": "a small package",
+    "translation_uz": "kichkina bog'lam",
+    "example_sentence": "There is a small package for you."
+   },
+   {
+    "word": "tie up a parcel",
+    "translation_uz": "posilkani bog'lamoq",
+    "example_sentence": "Tie up the parcel with string."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We want to ___ a parcel to my cousin in Tashkent.",
+    "correct_word": "send",
+    "options": [
+     "drink",
+     "fly",
+     "send",
+     "sleep"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ the parcel in brown paper and tied it with string.",
+    "correct_word": "wrapped",
+    "options": [
+     "ate",
+     "wrapped",
+     "cooked",
+     "grew"
+    ]
+   },
+   {
+    "sentence_with_blank": "The parcel was so ___ that I could not lift it.",
+    "correct_word": "heavy",
+    "options": [
+     "heavy",
+     "sweet",
+     "loud",
+     "cold"
+    ]
+   },
+   {
+    "sentence_with_blank": "The postman will ___ the parcel to our door tomorrow.",
+    "correct_word": "deliver",
+    "options": [
+     "deliver",
+     "hide",
+     "borrow",
+     "invent"
+    ]
+   },
+   {
+    "sentence_with_blank": "She opened the parcel ___ scissors.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "of",
+     "at",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "They booked a package ___ to the seaside.",
+    "correct_word": "holiday",
+    "options": [
+     "lesson",
+     "kitchen",
+     "holiday",
+     "pocket"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Waiting for a Parcel",
+   "text": "I am waiting for a parcel from my uncle. He sent it last week from another city. It is a small package, but my mum says it is quite heavy. I think it is a present for my birthday. Every day I ask, \"Has the parcel arrived?\" Today the courier delivered it at four o'clock. I opened the parcel very quickly. Inside there was a big set of colour pencils!",
+   "key_words": [
+    {
+     "word": "courier",
+     "translation_uz": "kuryer"
+    },
+    {
+     "word": "present",
+     "translation_uz": "sovg'a"
+    },
+    {
+     "word": "quickly",
+     "translation_uz": "tez"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who sent the parcel?",
+     "options": [
+      "The writer's aunt",
+      "The writer's uncle",
+      "The teacher",
+      "A friend"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When did the courier deliver it?",
+     "options": [
+      "At noon",
+      "At four o'clock",
+      "At ten o'clock",
+      "In the evening"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was inside the parcel?",
+     "options": [
+      "Colour pencils",
+      "A book",
+      "A toy car",
+      "Sweets"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Holiday Plans",
+   "script": "My family is going on a package holiday to the seaside. We booked it last month. Mum packed our bags and Dad wrapped a parcel for my grandma. It is a package of tea and a small blanket. Tomorrow we will send the parcel from the post office. Then on Saturday we will go to the airport. I cannot wait to swim in the sea!",
+   "questions": [
+    {
+     "question": "What kind of holiday are they going on?",
+     "options": [
+      "A camping trip",
+      "A school trip",
+      "A city tour",
+      "A package holiday"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Dad wrap?",
+     "options": [
+      "A birthday cake",
+      "A toy",
+      "A parcel for Grandma",
+      "A suitcase"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where will they send the parcel from?",
+     "options": [
+      "The airport",
+      "The school",
+      "The post office",
+      "The hotel"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She sent a parcel.",
+    "The parcel is heavy.",
+    "Open the package."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Parcels",
+    "question_text": "Did you ever get a parcel?",
+    "hint_words": [
+     "yes",
+     "no",
+     "present",
+     "from"
+    ]
+   },
+   {
+    "topic": "Parcels",
+    "question_text": "Who do you send parcels to?",
+    "hint_words": [
+     "family",
+     "friends",
+     "gift",
+     "send"
+    ]
+   },
+   {
+    "topic": "Parcels",
+    "question_text": "Would you like a package holiday?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sea",
+     "hotel"
+    ]
+   }
+  ]
+ }
+]

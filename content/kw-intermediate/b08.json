@@ -1,0 +1,2321 @@
+[
+ {
+  "unit": 58,
+  "title": "sport",
+  "vocabulary": [
+   {
+    "word": "play a sport",
+    "translation_uz": "sport bilan shug'ullanmoq",
+    "example_sentence": "Which sport do you play at the weekend?"
+   },
+   {
+    "word": "do sport",
+    "translation_uz": "sport bilan shug'ullanmoq (umumiy)",
+    "example_sentence": "I do sport three times a week."
+   },
+   {
+    "word": "take up a sport",
+    "translation_uz": "sportga qiziqib qolmoq",
+    "example_sentence": "He took up a new sport after moving to the city."
+   },
+   {
+    "word": "watch sport on TV",
+    "translation_uz": "sportni televizorda ko'rmoq",
+    "example_sentence": "My grandfather loves watching sport on TV."
+   },
+   {
+    "word": "a team / individual sport",
+    "translation_uz": "jamoaviy / yakka sport",
+    "example_sentence": "Tennis is an individual sport, but football is a team sport."
+   },
+   {
+    "word": "a water / winter sport",
+    "translation_uz": "suv / qish sporti",
+    "example_sentence": "Skiing is a popular winter sport."
+   },
+   {
+    "word": "a popular / dangerous sport",
+    "translation_uz": "mashhur / xavfli sport",
+    "example_sentence": "Cricket is a very popular sport in India."
+   },
+   {
+    "word": "professional sport",
+    "translation_uz": "professional sport",
+    "example_sentence": "Professional sport is a full-time job for some people."
+   },
+   {
+    "word": "be good at sport",
+    "translation_uz": "sportda yaxshi bo'lmoq",
+    "example_sentence": "My sister is good at sport and wins many medals."
+   },
+   {
+    "word": "be keen on sport",
+    "translation_uz": "sportga qiziqmoq",
+    "example_sentence": "Our class is very keen on sport."
+   },
+   {
+    "word": "sports centre / sports club",
+    "translation_uz": "sport markazi / sport klubi",
+    "example_sentence": "She joined a sports club near her school."
+   },
+   {
+    "word": "sports equipment",
+    "translation_uz": "sport anjomlari",
+    "example_sentence": "The shop sells cheap sports equipment."
+   },
+   {
+    "word": "a sports fan / sporty",
+    "translation_uz": "sport muxlisi / sportchan",
+    "example_sentence": "My dad is a big sports fan."
+   },
+   {
+    "word": "a sports car / sports day",
+    "translation_uz": "sport mashinasi / sport kuni",
+    "example_sentence": "Sports day is the best day of the school year."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "What sport do you ___ in your free time?",
+    "correct_word": "play",
+    "options": [
+     "play",
+     "make",
+     "take",
+     "go"
+    ]
+   },
+   {
+    "sentence_with_blank": "She decided to ___ up a new sport: rock climbing.",
+    "correct_word": "take",
+    "options": [
+     "set",
+     "take",
+     "hold",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "Football is a team ___, but running is often individual.",
+    "correct_word": "sport",
+    "options": [
+     "sports",
+     "sporty",
+     "sport",
+     "sporting"
+    ]
+   },
+   {
+    "sentence_with_blank": "Skiing is a popular ___ sport in the mountains.",
+    "correct_word": "winter",
+    "options": [
+     "snowy",
+     "cold",
+     "frozen",
+     "winter"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is not very good ___ sport, but he tries hard.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "in",
+     "on",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every school has a sports ___ where pupils can train.",
+    "correct_word": "centre",
+    "options": [
+     "garden",
+     "centre",
+     "shop",
+     "road"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Sport in My Life",
+   "text": "I am keen on sport, and I play at least one sport every day. In summer I swim, and in winter I play ice hockey, which is a team sport. My brother is not as sporty as I am, but he loves watching sport on TV with our father. Last year I took up tennis at the local sports club. At first I was not very good at it, but my coach gave me useful advice. Now I am training for a school competition. Sports equipment can be expensive, so I saved my pocket money for a new racket.",
+   "key_words": [
+    {
+     "word": "coach",
+     "translation_uz": "murabbiy"
+    },
+    {
+     "word": "racket",
+     "translation_uz": "raketka"
+    },
+    {
+     "word": "pocket money",
+     "translation_uz": "cho'ntak puli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the narrator play in winter?",
+     "options": [
+      "Ice hockey",
+      "Tennis",
+      "Football",
+      "Swimming"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the narrator take up tennis?",
+     "options": [
+      "At school",
+      "At a local sports club",
+      "At a park",
+      "At a gym abroad"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did the narrator buy a new racket?",
+     "options": [
+      "It was a gift",
+      "By selling a bike",
+      "By saving pocket money",
+      "By winning a prize"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing a Sport",
+   "script": "Coach: Welcome to the sports centre. Which sport would you like to try? Boy: I want to do a team sport. I am good at running, but I get bored alone. Coach: Then I suggest basketball. It's popular, and we train on Tuesdays and Thursdays. Boy: Do I need special sports equipment? Coach: Only a pair of trainers. We have the balls here. Boy: Great. My friend plays here too, so I'm keen to start.",
+   "questions": [
+    {
+     "question": "Why does the boy want a team sport?",
+     "options": [
+      "He is afraid of water.",
+      "He loves winter sport.",
+      "His coach said so.",
+      "He gets bored alone."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "On which days does the team train?",
+     "options": [
+      "Tuesdays and Thursdays",
+      "Mondays and Fridays",
+      "Wednesdays only",
+      "Every weekend"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What equipment does the boy need?",
+     "options": [
+      "A helmet",
+      "A pair of trainers",
+      "A racket",
+      "A swimsuit"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I play a sport every weekend.",
+    "She is very good at sport.",
+    "He took up a winter sport."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "My favourite sport",
+    "question_text": "Which sport do you like to play or watch?",
+    "hint_words": [
+     "team",
+     "fast",
+     "exciting",
+     "fan"
+    ]
+   },
+   {
+    "topic": "Sport at school",
+    "question_text": "Is sport important at school? Why?",
+    "hint_words": [
+     "healthy",
+     "friends",
+     "fun",
+     "teacher"
+    ]
+   },
+   {
+    "topic": "A new sport",
+    "question_text": "Which new sport would you like to take up?",
+    "hint_words": [
+     "swimming",
+     "climbing",
+     "tennis",
+     "skiing"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 59,
+  "title": "team",
+  "vocabulary": [
+   {
+    "word": "a football / basketball team",
+    "translation_uz": "futbol / basketbol jamoasi",
+    "example_sentence": "He plays in the school basketball team."
+   },
+   {
+    "word": "join a team",
+    "translation_uz": "jamoaga qo'shilmoq",
+    "example_sentence": "She joined the swimming team last year."
+   },
+   {
+    "word": "be in / on a team",
+    "translation_uz": "jamoada bo'lmoq",
+    "example_sentence": "Who is on the team this season?"
+   },
+   {
+    "word": "captain a team",
+    "translation_uz": "jamoani boshqarmoq (sardor bo'lmoq)",
+    "example_sentence": "Ali captains the school football team."
+   },
+   {
+    "word": "pick / choose a team",
+    "translation_uz": "jamoani tanlamoq",
+    "example_sentence": "The teacher picks the team on Friday."
+   },
+   {
+    "word": "a team member",
+    "translation_uz": "jamoa a'zosi",
+    "example_sentence": "Every team member must come to practice."
+   },
+   {
+    "word": "the team captain",
+    "translation_uz": "jamoa sardori",
+    "example_sentence": "The team captain spoke to the referee."
+   },
+   {
+    "word": "a team coach",
+    "translation_uz": "jamoa murabbiyi",
+    "example_sentence": "Our team coach is very strict but fair."
+   },
+   {
+    "word": "the home / away team",
+    "translation_uz": "uy / mehmon jamoasi",
+    "example_sentence": "The home team won by two goals."
+   },
+   {
+    "word": "a national team",
+    "translation_uz": "milliy terma jamoa",
+    "example_sentence": "He dreams of playing for the national team."
+   },
+   {
+    "word": "team spirit",
+    "translation_uz": "jamoaviy ruh",
+    "example_sentence": "Good team spirit helps us win matches."
+   },
+   {
+    "word": "teamwork",
+    "translation_uz": "jamoaviy ish",
+    "example_sentence": "Teamwork is the key to success."
+   },
+   {
+    "word": "work as a team",
+    "translation_uz": "jamoa bo'lib ishlamoq",
+    "example_sentence": "We work as a team to finish the project."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He wants to ___ the school football team.",
+    "correct_word": "join",
+    "options": [
+     "enter",
+     "join",
+     "attend",
+     "accept"
+    ]
+   },
+   {
+    "sentence_with_blank": "Good ___ is the key to success in any team.",
+    "correct_word": "teamwork",
+    "options": [
+     "teamed",
+     "teams",
+     "teamwork",
+     "teammate"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ team has to travel to the other town for the game.",
+    "correct_word": "away",
+    "options": [
+     "foreign",
+     "far",
+     "distant",
+     "away"
+    ]
+   },
+   {
+    "sentence_with_blank": "We always ___ as a team, and nobody is left alone.",
+    "correct_word": "work",
+    "options": [
+     "work",
+     "do",
+     "make",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "The coach says good team ___ is more important than skill.",
+    "correct_word": "spirit",
+    "options": [
+     "soul",
+     "spirit",
+     "mood",
+     "heart"
+    ]
+   },
+   {
+    "sentence_with_blank": "Who is going to ___ the team this year?",
+    "correct_word": "captain",
+    "options": [
+     "boss",
+     "order",
+     "captain",
+     "drive"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our Class Team",
+   "text": "This year our class has a very good basketball team. There are ten team members, and Dilnoza is the team captain. Our coach, Mr Rustam, says teamwork is more important than talent. At first we lost many games because everybody wanted to score. Then we learned to work as a team and pass the ball. The team spirit is great now. Last Saturday we played against the away team from the next town, and we won by six points. Everyone in the team was so happy that we went out for ice cream.",
+   "key_words": [
+    {
+     "word": "score",
+     "translation_uz": "gol/ochko kiritmoq"
+    },
+    {
+     "word": "talent",
+     "translation_uz": "iste'dod"
+    },
+    {
+     "word": "pass the ball",
+     "translation_uz": "to'pni uzatmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who is the team captain?",
+     "options": [
+      "Rustam",
+      "Dilnoza",
+      "The narrator",
+      "The coach's son"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did the team lose many games at first?",
+     "options": [
+      "They had no coach.",
+      "They were too young.",
+      "Everybody wanted to score.",
+      "They did not train."
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How did they celebrate the win?",
+     "options": [
+      "They went to a cinema.",
+      "They played again.",
+      "They visited the coach.",
+      "They had ice cream."
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing the Team",
+   "script": "Teacher: Today we will pick a team for the school tournament. Who wants to join? Boy: I do! I play in the football team at my club. Teacher: Good. We also need a team captain. Girl: I think Anvar should be the captain, because he has a lot of team spirit. Teacher: I agree. Remember, a good team member helps others and listens to the coach. The first practice is tomorrow after lessons.",
+   "questions": [
+    {
+     "question": "What are they choosing the team for?",
+     "options": [
+      "A school tournament",
+      "A birthday party",
+      "A trip abroad",
+      "A music show"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why does the girl suggest Anvar?",
+     "options": [
+      "He is the tallest.",
+      "He has team spirit.",
+      "He scores most goals.",
+      "He is the coach's friend."
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When is the first practice?",
+     "options": [
+      "Next week",
+      "This evening",
+      "Tomorrow after lessons",
+      "On Saturday"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She joined the school swimming team.",
+    "Teamwork is very important to us.",
+    "The home team won the match."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "A team I know",
+    "question_text": "Do you belong to a team? Tell me about it.",
+    "hint_words": [
+     "members",
+     "captain",
+     "coach",
+     "practice"
+    ]
+   },
+   {
+    "topic": "Teamwork",
+    "question_text": "Why is teamwork important in life?",
+    "hint_words": [
+     "help",
+     "share",
+     "trust",
+     "success"
+    ]
+   },
+   {
+    "topic": "Captain",
+    "question_text": "What makes a good team captain?",
+    "hint_words": [
+     "listen",
+     "kind",
+     "fair",
+     "leader"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 60,
+  "title": "game",
+  "vocabulary": [
+   {
+    "word": "play a game",
+    "translation_uz": "o'yin o'ynamoq",
+    "example_sentence": "Let's play a game after dinner."
+   },
+   {
+    "word": "win a game",
+    "translation_uz": "o'yinda g'alaba qozonmoq",
+    "example_sentence": "Our team won the game 3-1."
+   },
+   {
+    "word": "lose a game",
+    "translation_uz": "o'yinda yutqazmoq",
+    "example_sentence": "They lost the game in the last minute."
+   },
+   {
+    "word": "a board game",
+    "translation_uz": "stol o'yini",
+    "example_sentence": "We play a board game every Sunday."
+   },
+   {
+    "word": "a computer / video game",
+    "translation_uz": "kompyuter / video o'yin",
+    "example_sentence": "He spends too long playing video games."
+   },
+   {
+    "word": "a ball game",
+    "translation_uz": "to'p o'yini",
+    "example_sentence": "Children love playing ball games in the park."
+   },
+   {
+    "word": "a game of chess / cards",
+    "translation_uz": "shaxmat / karta o'yini",
+    "example_sentence": "My grandfather taught me a game of chess."
+   },
+   {
+    "word": "a fair game",
+    "translation_uz": "adolatli o'yin",
+    "example_sentence": "The referee made sure the game was fair."
+   },
+   {
+    "word": "the rules of a game",
+    "translation_uz": "o'yin qoidalari",
+    "example_sentence": "Read the rules of the game before we start."
+   },
+   {
+    "word": "the first / second half of the game",
+    "translation_uz": "o'yinning birinchi / ikkinchi yarmi",
+    "example_sentence": "They scored in the second half of the game."
+   },
+   {
+    "word": "the Olympic Games",
+    "translation_uz": "Olimpiya o'yinlari",
+    "example_sentence": "The Olympic Games take place every four years."
+   },
+   {
+    "word": "a game show",
+    "translation_uz": "teleo'yin",
+    "example_sentence": "My mother loves watching game shows."
+   },
+   {
+    "word": "game over",
+    "translation_uz": "o'yin tugadi",
+    "example_sentence": "When the screen said \"Game over\", he sighed."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Would you like to ___ a game of chess?",
+    "correct_word": "play",
+    "options": [
+     "do",
+     "run",
+     "play",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our team didn't ___ the game, but we enjoyed it.",
+    "correct_word": "win",
+    "options": [
+     "earn",
+     "gain",
+     "take",
+     "win"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please read the ___ of the game carefully.",
+    "correct_word": "rules",
+    "options": [
+     "rules",
+     "orders",
+     "signs",
+     "lists"
+    ]
+   },
+   {
+    "sentence_with_blank": "They scored two goals in the second ___ of the game.",
+    "correct_word": "half",
+    "options": [
+     "side",
+     "half",
+     "piece",
+     "hand"
+    ]
+   },
+   {
+    "sentence_with_blank": "We spent the whole rainy afternoon playing a board ___.",
+    "correct_word": "game",
+    "options": [
+     "play",
+     "sport",
+     "game",
+     "match"
+    ]
+   },
+   {
+    "sentence_with_blank": "The Olympic ___ will be held in a different city next time.",
+    "correct_word": "Games",
+    "options": [
+     "Plays",
+     "Matches",
+     "Sports",
+     "Games"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Game Night",
+   "text": "Every Friday evening my family has a game night. We turn off our phones and sit round the table. Usually we play a board game, but sometimes we play a game of cards. My uncle always reads the rules of the game aloud, because the little ones forget them. Last week I won the game for the first time, and everybody clapped. My cousin lost the game, but he was a good sport and laughed. After the game we eat tea and sweets. Game night is my favourite time of the week, because we are all together.",
+   "key_words": [
+    {
+     "word": "clap",
+     "translation_uz": "qarsak chalmoq"
+    },
+    {
+     "word": "good sport",
+     "translation_uz": "o'yinda sofdil"
+    },
+    {
+     "word": "aloud",
+     "translation_uz": "ovoz chiqarib"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the family have game night?",
+     "options": [
+      "On Sunday morning",
+      "Every day",
+      "On Friday evening",
+      "On Saturday night"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who reads the rules aloud?",
+     "options": [
+      "The grandmother",
+      "The cousin",
+      "The narrator",
+      "The uncle"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What happened last week?",
+     "options": [
+      "The narrator won the game.",
+      "The narrator lost the game.",
+      "The cousin won the game.",
+      "The game was cancelled."
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Video Game",
+   "script": "Mother: Tom, you have been playing that video game for two hours. Tom: But Mum, I'm in the last level. If I lose this game, I have to start again. Mother: Well, one more try. Then we play a board game with your sister. Tom: Okay. Oh no, game over! I lost the game. Mother: Never mind. Remember the rules of our house: games are fun, but family time comes first. Tom: You're right. Let's play chess.",
+   "questions": [
+    {
+     "question": "How long has Tom been playing?",
+     "options": [
+      "Twenty minutes",
+      "Two hours",
+      "All day",
+      "Half an hour"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What happened to Tom's game?",
+     "options": [
+      "He won the game.",
+      "The game broke.",
+      "He lost the game.",
+      "His sister took it."
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will they play at the end?",
+     "options": [
+      "Cards",
+      "A video game",
+      "A ball game",
+      "Chess"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We play a board game on Sundays.",
+    "They lost the game in the end.",
+    "Please read the rules of the game."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Favourite game",
+    "question_text": "What is your favourite game to play with friends?",
+    "hint_words": [
+     "board",
+     "cards",
+     "video",
+     "outdoors"
+    ]
+   },
+   {
+    "topic": "Winning and losing",
+    "question_text": "How do you feel when you lose a game?",
+    "hint_words": [
+     "sad",
+     "fair",
+     "try again",
+     "good sport"
+    ]
+   },
+   {
+    "topic": "Video games",
+    "question_text": "Are video games good or bad for children?",
+    "hint_words": [
+     "time",
+     "fun",
+     "learn",
+     "eyes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 61,
+  "title": "race, competition and match",
+  "vocabulary": [
+   {
+    "word": "run a race",
+    "translation_uz": "poygada yugurmoq",
+    "example_sentence": "She ran a race for her school."
+   },
+   {
+    "word": "win / lose a race",
+    "translation_uz": "poygada yutmoq / yutqazmoq",
+    "example_sentence": "He won the race by a few seconds."
+   },
+   {
+    "word": "a horse / car / relay race",
+    "translation_uz": "ot / mashina / estafeta poygasi",
+    "example_sentence": "The relay race was exciting to watch."
+   },
+   {
+    "word": "a race against time",
+    "translation_uz": "vaqt bilan poyga",
+    "example_sentence": "Doctors often work in a race against time."
+   },
+   {
+    "word": "enter a competition",
+    "translation_uz": "tanlovga qatnashmoq",
+    "example_sentence": "I entered a drawing competition."
+   },
+   {
+    "word": "win / take part in a competition",
+    "translation_uz": "tanlovda g'alaba qozonmoq / qatnashmoq",
+    "example_sentence": "Over fifty children took part in the competition."
+   },
+   {
+    "word": "a competition for something",
+    "translation_uz": "biror narsa uchun tanlov",
+    "example_sentence": "There is a competition for the best story."
+   },
+   {
+    "word": "be in competition with",
+    "translation_uz": "... bilan raqobatlashmoq",
+    "example_sentence": "The two shops are in competition with each other."
+   },
+   {
+    "word": "play a match",
+    "translation_uz": "o'yin o'ynamoq",
+    "example_sentence": "We play a match against another school."
+   },
+   {
+    "word": "watch a football match",
+    "translation_uz": "futbol o'yinini tomosha qilmoq",
+    "example_sentence": "Dad and I watched a football match on Sunday."
+   },
+   {
+    "word": "a tennis / cricket / chess match",
+    "translation_uz": "tennis / kriket / shaxmat o'yini",
+    "example_sentence": "The tennis match lasted three hours."
+   },
+   {
+    "word": "a close match",
+    "translation_uz": "qizg'in o'yin",
+    "example_sentence": "It was a close match, and the result was 2-2."
+   },
+   {
+    "word": "a match between two teams",
+    "translation_uz": "ikki jamoa orasidagi o'yin",
+    "example_sentence": "A match between two strong teams is always exciting."
+   },
+   {
+    "word": "compete / competitor",
+    "translation_uz": "raqobatlashmoq / raqib",
+    "example_sentence": "Each competitor wore a number on the shirt."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The boy ___ a race in front of the whole school.",
+    "correct_word": "ran",
+    "options": [
+     "held",
+     "played",
+     "made",
+     "ran"
+    ]
+   },
+   {
+    "sentence_with_blank": "More than a hundred children ___ part in the competition.",
+    "correct_word": "took",
+    "options": [
+     "took",
+     "got",
+     "made",
+     "gave"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our school will ___ a match against a team from Samarkand.",
+    "correct_word": "play",
+    "options": [
+     "do",
+     "play",
+     "hold",
+     "run"
+    ]
+   },
+   {
+    "sentence_with_blank": "They are in ___ with each other for the best price.",
+    "correct_word": "competition",
+    "options": [
+     "race",
+     "match",
+     "competition",
+     "fight"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a very ___ match, and nobody knew who would win.",
+    "correct_word": "close",
+    "options": [
+     "near",
+     "short",
+     "thin",
+     "close"
+    ]
+   },
+   {
+    "sentence_with_blank": "Doctors worked in a race ___ time to save the patient.",
+    "correct_word": "against",
+    "options": [
+     "against",
+     "with",
+     "for",
+     "under"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Sports Weekend",
+   "text": "Last weekend our town held a sports festival. In the morning I entered a running race for children under twelve. There were twenty competitors, and I came fourth, which made me proud. In the afternoon my brother played in a football match. It was a close match between two strong teams, and the score was 2-2 until the last minute. Then our team scored, and everyone shouted with joy. In the evening there was a drawing competition for younger children. My little sister took part in it and received a certificate. It was a lovely day for the whole family.",
+   "key_words": [
+    {
+     "word": "festival",
+     "translation_uz": "bayram / festival"
+    },
+    {
+     "word": "certificate",
+     "translation_uz": "guvohnoma"
+    },
+    {
+     "word": "competitor",
+     "translation_uz": "raqib / ishtirokchi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many competitors were in the race?",
+     "options": [
+      "Twelve",
+      "Forty",
+      "Four",
+      "Twenty"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was the score before the last minute?",
+     "options": [
+      "2-2",
+      "1-0",
+      "3-3",
+      "0-0"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the narrator's sister receive?",
+     "options": [
+      "A medal",
+      "A certificate",
+      "A cup",
+      "A football"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Radio Report",
+   "script": "Reporter: Good evening. Today's big sports story is the city marathon, a race of forty-two kilometres. More than two thousand competitors took part. The winner finished in just over two hours, and the crowd cheered loudly. In football, a match between two local teams ended in a draw, 1-1. It was a close match, and both coaches said they were happy. Finally, a reminder: the school chess competition starts next Monday. You can enter at the library until Friday.",
+   "questions": [
+    {
+     "question": "How long is the marathon race?",
+     "options": [
+      "Ten kilometres",
+      "Twenty kilometres",
+      "Forty-two kilometres",
+      "Five kilometres"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How did the football match end?",
+     "options": [
+      "With a 3-0 win",
+      "With a 2-1 win",
+      "In a 0-0 draw",
+      "In a 1-1 draw"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where can listeners enter the chess competition?",
+     "options": [
+      "At the library",
+      "At the school gate",
+      "On the internet",
+      "At the stadium"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He won the race by two seconds.",
+    "Many children entered the competition.",
+    "It was a very close match."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "A race",
+    "question_text": "Have you ever run in a race? Tell me about it.",
+    "hint_words": [
+     "fast",
+     "finish",
+     "win",
+     "friends"
+    ]
+   },
+   {
+    "topic": "A competition",
+    "question_text": "Which competition would you like to enter?",
+    "hint_words": [
+     "drawing",
+     "singing",
+     "chess",
+     "science"
+    ]
+   },
+   {
+    "topic": "A match",
+    "question_text": "Which match have you enjoyed watching the most?",
+    "hint_words": [
+     "football",
+     "goals",
+     "crowd",
+     "exciting"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 62,
+  "title": "victory",
+  "vocabulary": [
+   {
+    "word": "win a victory",
+    "translation_uz": "g'alabaga erishmoq",
+    "example_sentence": "The small team won a great victory."
+   },
+   {
+    "word": "a famous / great victory",
+    "translation_uz": "mashhur / buyuk g'alaba",
+    "example_sentence": "It was a famous victory in the history of our school."
+   },
+   {
+    "word": "a narrow victory",
+    "translation_uz": "arang qo'lga kiritilgan g'alaba",
+    "example_sentence": "They had a narrow victory by one point."
+   },
+   {
+    "word": "an easy / comfortable victory",
+    "translation_uz": "oson g'alaba",
+    "example_sentence": "Our team had an easy victory."
+   },
+   {
+    "word": "a victory over / against someone",
+    "translation_uz": "kimdir ustidan g'alaba",
+    "example_sentence": "This is our first victory over our rivals."
+   },
+   {
+    "word": "a victory for someone",
+    "translation_uz": "kimningdir g'alabasi",
+    "example_sentence": "The result was a victory for fair play."
+   },
+   {
+    "word": "celebrate a victory",
+    "translation_uz": "g'alabani nishonlamoq",
+    "example_sentence": "The fans celebrated the victory in the streets."
+   },
+   {
+    "word": "achieve / gain victory",
+    "translation_uz": "g'alabani qo'lga kiritmoq",
+    "example_sentence": "After years of effort, they gained victory."
+   },
+   {
+    "word": "a victory parade",
+    "translation_uz": "g'alaba paradi",
+    "example_sentence": "Thousands of people came to the victory parade."
+   },
+   {
+    "word": "a moral victory",
+    "translation_uz": "ma'naviy g'alaba",
+    "example_sentence": "Losing bravely can feel like a moral victory."
+   },
+   {
+    "word": "be victorious",
+    "translation_uz": "g'olib bo'lmoq",
+    "example_sentence": "The national team was victorious in the final."
+   },
+   {
+    "word": "the winning goal / winner",
+    "translation_uz": "g'alaba golini / g'olib",
+    "example_sentence": "Rustam scored the winning goal."
+   },
+   {
+    "word": "victory in the final",
+    "translation_uz": "finaldagi g'alaba",
+    "example_sentence": "Their victory in the final surprised everyone."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The small village team ___ a great victory against the city club.",
+    "correct_word": "won",
+    "options": [
+     "won",
+     "made",
+     "took",
+     "held"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a ___ victory, with only one point between the teams.",
+    "correct_word": "narrow",
+    "options": [
+     "thin",
+     "narrow",
+     "short",
+     "low"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is our first victory ___ our old rivals.",
+    "correct_word": "over",
+    "options": [
+     "on",
+     "at",
+     "over",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The fans came into the streets to ___ the victory.",
+    "correct_word": "celebrate",
+    "options": [
+     "congratulate",
+     "wish",
+     "thank",
+     "celebrate"
+    ]
+   },
+   {
+    "sentence_with_blank": "After a long season, the team finally ___ victory.",
+    "correct_word": "gained",
+    "options": [
+     "gained",
+     "caught",
+     "made",
+     "held"
+    ]
+   },
+   {
+    "sentence_with_blank": "He scored the ___ goal in the last minute.",
+    "correct_word": "winning",
+    "options": [
+     "won",
+     "winning",
+     "win",
+     "wins"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day to Remember",
+   "text": "Last Sunday our school won a great victory. We played in the final of the city football tournament against the best team in town. Nobody expected us to win, so it was a famous victory. The score was 2-1, and it was a narrow victory because the other team nearly scored at the end. Our captain, Bobur, scored the winning goal. After the match, the players celebrated with their families and the coach gave a short speech. He said that hard work and team spirit had achieved this victory. We carried the cup home proudly.",
+   "key_words": [
+    {
+     "word": "tournament",
+     "translation_uz": "turnir"
+    },
+    {
+     "word": "speech",
+     "translation_uz": "nutq"
+    },
+    {
+     "word": "proudly",
+     "translation_uz": "faxr bilan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who did the school play in the final?",
+     "options": [
+      "The best team in town",
+      "A team from abroad",
+      "Last year's champions",
+      "Their teachers"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who scored the winning goal?",
+     "options": [
+      "The coach",
+      "Bobur",
+      "A teacher",
+      "The goalkeeper"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the coach say in his speech?",
+     "options": [
+      "The game was easy.",
+      "The other team was bad.",
+      "Hard work and team spirit achieved the victory.",
+      "Luck helped the team."
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "After the Final",
+   "script": "Interviewer: Congratulations on your victory! How do you feel? Captain: Amazing. It was a narrow victory, but we deserved it. Interviewer: What was the secret? Captain: Teamwork. We trained every day, and we believed in each other. Interviewer: Will you celebrate tonight? Captain: Yes, we are going to have a small party at my house. Tomorrow there is a victory parade through the town centre, and our parents will come too.",
+   "questions": [
+    {
+     "question": "How does the captain describe the victory?",
+     "options": [
+      "Easy",
+      "Unlucky",
+      "Boring",
+      "Narrow"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the captain say was the secret?",
+     "options": [
+      "Teamwork",
+      "Money",
+      "A new coach",
+      "Luck"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will happen tomorrow?",
+     "options": [
+      "Another final",
+      "A victory parade",
+      "A school exam",
+      "A press trip"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "They celebrated their great victory.",
+    "It was a narrow victory for us.",
+    "He scored the winning goal."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "A great victory",
+    "question_text": "Tell me about a victory you remember well.",
+    "hint_words": [
+     "match",
+     "team",
+     "happy",
+     "celebrate"
+    ]
+   },
+   {
+    "topic": "Celebrating",
+    "question_text": "How do people celebrate a victory in your country?",
+    "hint_words": [
+     "party",
+     "family",
+     "streets",
+     "food"
+    ]
+   },
+   {
+    "topic": "Fair play",
+    "question_text": "Is winning more important than playing fairly?",
+    "hint_words": [
+     "honest",
+     "rules",
+     "respect",
+     "fair"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 63,
+  "title": "defeat",
+  "vocabulary": [
+   {
+    "word": "suffer a defeat",
+    "translation_uz": "mag'lubiyatga uchramoq",
+    "example_sentence": "The team suffered a heavy defeat."
+   },
+   {
+    "word": "admit defeat",
+    "translation_uz": "mag'lubiyatni tan olmoq",
+    "example_sentence": "He was a big man and admitted defeat politely."
+   },
+   {
+    "word": "accept defeat",
+    "translation_uz": "mag'lubiyatni qabul qilmoq",
+    "example_sentence": "It is hard to accept defeat gracefully."
+   },
+   {
+    "word": "a heavy / crushing defeat",
+    "translation_uz": "og'ir mag'lubiyat",
+    "example_sentence": "A heavy defeat made the players very sad."
+   },
+   {
+    "word": "a narrow defeat",
+    "translation_uz": "arang mag'lubiyat",
+    "example_sentence": "A narrow defeat is still painful."
+   },
+   {
+    "word": "a defeat by / at the hands of",
+    "translation_uz": "kimdir tomonidan mag'lubiyat",
+    "example_sentence": "Their defeat by the visitors was a surprise."
+   },
+   {
+    "word": "a defeat in the final",
+    "translation_uz": "finaldagi mag'lubiyat",
+    "example_sentence": "A defeat in the final is hard to forget."
+   },
+   {
+    "word": "a first / second defeat",
+    "translation_uz": "birinchi / ikkinchi mag'lubiyat",
+    "example_sentence": "This was their second defeat of the season."
+   },
+   {
+    "word": "learn from defeat",
+    "translation_uz": "mag'lubiyatdan o'rganmoq",
+    "example_sentence": "Good players learn from defeat."
+   },
+   {
+    "word": "defeat an opponent",
+    "translation_uz": "raqibni mag'lub etmoq",
+    "example_sentence": "She defeated her opponent in two sets."
+   },
+   {
+    "word": "be defeated",
+    "translation_uz": "mag'lub bo'lmoq",
+    "example_sentence": "We were defeated, but we did our best."
+   },
+   {
+    "word": "a defeated team",
+    "translation_uz": "mag'lub jamoa",
+    "example_sentence": "The defeated team shook hands with the winners."
+   },
+   {
+    "word": "go down in defeat",
+    "translation_uz": "mag'lubiyat bilan tugamoq",
+    "example_sentence": "The brave players went down in defeat."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "After the match, the coach had to ___ defeat.",
+    "correct_word": "admit",
+    "options": [
+     "tell",
+     "admit",
+     "agree",
+     "say"
+    ]
+   },
+   {
+    "sentence_with_blank": "The team suffered a ___ defeat, losing 6-0.",
+    "correct_word": "heavy",
+    "options": [
+     "strong",
+     "deep",
+     "heavy",
+     "large"
+    ]
+   },
+   {
+    "sentence_with_blank": "We were beaten by a stronger team, but we can learn ___ defeat.",
+    "correct_word": "from",
+    "options": [
+     "of",
+     "with",
+     "by",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ her opponent in the final set.",
+    "correct_word": "defeated",
+    "options": [
+     "defeated",
+     "lost",
+     "failed",
+     "dropped"
+    ]
+   },
+   {
+    "sentence_with_blank": "The home team was ___ for the first time this year.",
+    "correct_word": "defeated",
+    "options": [
+     "defeat",
+     "defeated",
+     "defeating",
+     "defeats"
+    ]
+   },
+   {
+    "sentence_with_blank": "The defeated players shook ___ with the winners.",
+    "correct_word": "hands",
+    "options": [
+     "fingers",
+     "arms",
+     "hands",
+     "palms"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Learning from a Loss",
+   "text": "Last month my basketball team suffered a heavy defeat. We lost 60-24 against a much stronger team. After the match some players were angry, but our coach asked us to accept defeat politely. We shook hands with the other players and congratulated them. In the evening the coach explained that every defeat teaches something new. We watched the game on video and saw our mistakes. Since then we have practised more, and in the next match we lost by only two points. It was still a defeat, but a narrow one, and we felt proud of our progress.",
+   "key_words": [
+    {
+     "word": "congratulate",
+     "translation_uz": "tabriklamoq"
+    },
+    {
+     "word": "mistake",
+     "translation_uz": "xato"
+    },
+    {
+     "word": "progress",
+     "translation_uz": "taraqqiyot"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the score of the heavy defeat?",
+     "options": [
+      "24-60",
+      "60-24",
+      "50-30",
+      "24-24"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the coach ask the players to do?",
+     "options": [
+      "Play again at once",
+      "Leave the court",
+      "Accept defeat politely",
+      "Blame the referee"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened in the next match?",
+     "options": [
+      "The team won easily.",
+      "The team was cancelled.",
+      "The team lost heavily.",
+      "The team lost by only two points."
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Hard Evening",
+   "script": "Dad: You look sad, Eldor. Eldor: We suffered a heavy defeat today. I played badly. Dad: Everybody loses sometimes. Even great athletes know the feeling of defeat. The important thing is to accept defeat and learn from it. Eldor: The other team defeated us 5-0. Dad: Then you know what to practise. Tomorrow we can train together in the park. Eldor: Thanks, Dad. I'll try again, and next time I'll do better.",
+   "questions": [
+    {
+     "question": "Why is Eldor sad?",
+     "options": [
+      "His team lost heavily.",
+      "He was ill.",
+      "He lost his bag.",
+      "He failed a test."
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was the score?",
+     "options": [
+      "5-5",
+      "5-0",
+      "1-0",
+      "0-5"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will Dad and Eldor do tomorrow?",
+     "options": [
+      "Watch a film",
+      "Visit the coach",
+      "Train together in the park",
+      "Go to a match"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Our team suffered a heavy defeat.",
+    "He admitted defeat and shook hands.",
+    "We can learn from every defeat."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Losing",
+    "question_text": "How do you feel after a defeat?",
+    "hint_words": [
+     "sad",
+     "angry",
+     "disappointed",
+     "try again"
+    ]
+   },
+   {
+    "topic": "Learning from defeat",
+    "question_text": "What can people learn from a defeat?",
+    "hint_words": [
+     "mistakes",
+     "practise",
+     "patience",
+     "respect"
+    ]
+   },
+   {
+    "topic": "Being a good loser",
+    "question_text": "How can you show respect after a defeat?",
+    "hint_words": [
+     "shake hands",
+     "congratulate",
+     "smile",
+     "calm"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 64,
+  "title": "prize",
+  "vocabulary": [
+   {
+    "word": "win a prize",
+    "translation_uz": "sovrin yutib olmoq",
+    "example_sentence": "He won a prize for the best drawing."
+   },
+   {
+    "word": "receive a prize",
+    "translation_uz": "sovrin olmoq",
+    "example_sentence": "She received her prize at a special ceremony."
+   },
+   {
+    "word": "award / give a prize",
+    "translation_uz": "sovrin topshirmoq",
+    "example_sentence": "The mayor awarded the prizes to the winners."
+   },
+   {
+    "word": "first / second / third prize",
+    "translation_uz": "birinchi / ikkinchi / uchinchi o'rin sovrini",
+    "example_sentence": "She came away with the first prize."
+   },
+   {
+    "word": "a cash prize",
+    "translation_uz": "pul mukofoti",
+    "example_sentence": "The winner gets a cash prize of fifty dollars."
+   },
+   {
+    "word": "a prize for something",
+    "translation_uz": "biror narsa uchun sovrin",
+    "example_sentence": "He got a prize for good behaviour."
+   },
+   {
+    "word": "a top / major prize",
+    "translation_uz": "asosiy sovrin",
+    "example_sentence": "The top prize was a new bicycle."
+   },
+   {
+    "word": "a prize-winning story",
+    "translation_uz": "sovrin olgan hikoya",
+    "example_sentence": "Her prize-winning story was published in a magazine."
+   },
+   {
+    "word": "the Nobel Prize",
+    "translation_uz": "Nobel mukofoti",
+    "example_sentence": "The Nobel Prize is given to great scientists."
+   },
+   {
+    "word": "a prize draw",
+    "translation_uz": "sovrinli lotereya",
+    "example_sentence": "Everyone can enter the prize draw for free."
+   },
+   {
+    "word": "a consolation prize",
+    "translation_uz": "tasalli sovrini",
+    "example_sentence": "He got a small consolation prize."
+   },
+   {
+    "word": "prize money",
+    "translation_uz": "sovrin puli",
+    "example_sentence": "The prize money will be shared by the team."
+   },
+   {
+    "word": "be proud of the prize",
+    "translation_uz": "sovrin bilan faxrlanmoq",
+    "example_sentence": "Her family was proud of the prize."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My cousin hopes to ___ a prize in the science fair.",
+    "correct_word": "win",
+    "options": [
+     "gain",
+     "earn",
+     "win",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "The school director will ___ the prizes at the end of the year.",
+    "correct_word": "award",
+    "options": [
+     "offer",
+     "pay",
+     "bring",
+     "award"
+    ]
+   },
+   {
+    "sentence_with_blank": "She won first ___ in the swimming race.",
+    "correct_word": "prize",
+    "options": [
+     "prize",
+     "win",
+     "gift",
+     "price"
+    ]
+   },
+   {
+    "sentence_with_blank": "He received a prize ___ his excellent work.",
+    "correct_word": "for",
+    "options": [
+     "to",
+     "for",
+     "by",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ prize was a trip to the sea.",
+    "correct_word": "top",
+    "options": [
+     "upper",
+     "lower",
+     "top",
+     "low"
+    ]
+   },
+   {
+    "sentence_with_blank": "Each child who took part got a small ___ prize.",
+    "correct_word": "consolation",
+    "options": [
+     "comfort",
+     "pity",
+     "kind",
+     "consolation"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Reading Prize",
+   "text": "Every year our school gives a prize for the best young reader. To win the prize, you have to read twenty books and write a short report on each one. This year I decided to take part. I read adventure stories and a few books about animals. In June the director announced the winners at a ceremony. I was nervous, but I won second prize! The first prize was a tablet, but my prize was a set of colouring pens and a book voucher. My family was proud of me, and my teacher said a prize is not just a thing; it is a reward for hard work.",
+   "key_words": [
+    {
+     "word": "ceremony",
+     "translation_uz": "marosim"
+    },
+    {
+     "word": "voucher",
+     "translation_uz": "kupon"
+    },
+    {
+     "word": "reward",
+     "translation_uz": "mukofot"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many books must a reader read to win?",
+     "options": [
+      "Ten",
+      "Thirty",
+      "Twenty",
+      "Five"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which prize did the narrator win?",
+     "options": [
+      "First prize",
+      "Third prize",
+      "Consolation prize",
+      "Second prize"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was the first prize?",
+     "options": [
+      "A tablet",
+      "Colouring pens",
+      "A book voucher",
+      "A bicycle"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Quiz Show",
+   "script": "Presenter: And now, the moment you have waited for! The winner of tonight's quiz is Madina from class eight! Madina, you have won the top prize, a cash prize of two hundred dollars. Madina: Wow, I can't believe it! Presenter: What will you do with the prize money? Madina: I'll share some with my brother, and the rest I'll save for university. Presenter: A wise decision. Congratulations once again. Everyone else will receive a small consolation prize at the door.",
+   "questions": [
+    {
+     "question": "Who won the quiz?",
+     "options": [
+      "Her brother",
+      "Madina",
+      "The presenter",
+      "A boy from class five"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How much was the cash prize?",
+     "options": [
+      "Fifty dollars",
+      "Twenty dollars",
+      "Two hundred dollars",
+      "A thousand dollars"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will Madina save money for?",
+     "options": [
+      "A holiday",
+      "A phone",
+      "A bicycle",
+      "University"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She won a prize in the competition.",
+    "The top prize is a new bicycle.",
+    "Everyone got a small consolation prize."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "A prize I won",
+    "question_text": "Have you ever won a prize? What was it?",
+    "hint_words": [
+     "competition",
+     "medal",
+     "proud",
+     "happy"
+    ]
+   },
+   {
+    "topic": "Good prizes",
+    "question_text": "What kind of prize would you like to win?",
+    "hint_words": [
+     "trip",
+     "money",
+     "book",
+     "phone"
+    ]
+   },
+   {
+    "topic": "Prizes at school",
+    "question_text": "Should schools give prizes? Why or why not?",
+    "hint_words": [
+     "motivate",
+     "fair",
+     "hard work",
+     "everyone"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 65,
+  "title": "strength",
+  "vocabulary": [
+   {
+    "word": "physical strength",
+    "translation_uz": "jismoniy kuch",
+    "example_sentence": "Lifting heavy boxes needs physical strength."
+   },
+   {
+    "word": "great / enormous strength",
+    "translation_uz": "katta kuch",
+    "example_sentence": "The elephant has enormous strength."
+   },
+   {
+    "word": "have the strength to",
+    "translation_uz": "...ga kuchi yetmoq",
+    "example_sentence": "He didn't have the strength to climb any higher."
+   },
+   {
+    "word": "lose strength",
+    "translation_uz": "kuchni yo'qotmoq",
+    "example_sentence": "After the illness, she lost strength."
+   },
+   {
+    "word": "gain / build up strength",
+    "translation_uz": "kuch to'plamoq",
+    "example_sentence": "Swimming helps to build up strength."
+   },
+   {
+    "word": "regain your strength",
+    "translation_uz": "kuchni qayta tiklamoq",
+    "example_sentence": "He needs some rest to regain his strength."
+   },
+   {
+    "word": "strength of character",
+    "translation_uz": "xarakter mustahkamligi",
+    "example_sentence": "She showed great strength of character."
+   },
+   {
+    "word": "the strengths and weaknesses",
+    "translation_uz": "kuchli va zaif tomonlar",
+    "example_sentence": "Every person has strengths and weaknesses."
+   },
+   {
+    "word": "on the strength of",
+    "translation_uz": "... asosida",
+    "example_sentence": "He got the job on the strength of his skills."
+   },
+   {
+    "word": "the strength of the wind",
+    "translation_uz": "shamol kuchi",
+    "example_sentence": "The strength of the wind broke the old tree."
+   },
+   {
+    "word": "strong / strengthen",
+    "translation_uz": "kuchli / kuchaytirmoq",
+    "example_sentence": "Exercise can strengthen your muscles."
+   },
+   {
+    "word": "strength training",
+    "translation_uz": "kuch mashqlari",
+    "example_sentence": "Strength training is good for teenagers if done carefully."
+   },
+   {
+    "word": "with all your strength",
+    "translation_uz": "butun kuchi bilan",
+    "example_sentence": "He pushed the door with all his strength."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He is trying to build ___ strength by training twice a week.",
+    "correct_word": "up",
+    "options": [
+     "on",
+     "out",
+     "off",
+     "up"
+    ]
+   },
+   {
+    "sentence_with_blank": "She showed great strength of ___ during the difficult time.",
+    "correct_word": "character",
+    "options": [
+     "character",
+     "person",
+     "mind-set",
+     "looks"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the long run, he did not have the ___ to walk home.",
+    "correct_word": "strength",
+    "options": [
+     "strong",
+     "strength",
+     "strengthen",
+     "stronger"
+    ]
+   },
+   {
+    "sentence_with_blank": "He pushed the stone with all his ___.",
+    "correct_word": "strength",
+    "options": [
+     "strong",
+     "strongly",
+     "strength",
+     "strengthen"
+    ]
+   },
+   {
+    "sentence_with_blank": "Doing push-ups can ___ your arm muscles.",
+    "correct_word": "strengthen",
+    "options": [
+     "strength",
+     "strong",
+     "strongly",
+     "strengthen"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every person has strengths and ___.",
+    "correct_word": "weaknesses",
+    "options": [
+     "weaknesses",
+     "weaks",
+     "weakly",
+     "weakened"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Becoming Stronger",
+   "text": "My older brother wants to build up his strength, so he goes to a sports centre three times a week. At first he did not have the strength to lift even a small weight. His coach explained that physical strength comes slowly, and it is important not to hurry. Now my brother can lift much more, and he says his strength is growing. He also eats well and sleeps eight hours. He told me that strength is not only about muscles; it is also about strength of character. Last month he had a cold and lost some strength, but he soon regained it.",
+   "key_words": [
+    {
+     "word": "weight",
+     "translation_uz": "og'irlik"
+    },
+    {
+     "word": "muscle",
+     "translation_uz": "mushak"
+    },
+    {
+     "word": "regain",
+     "translation_uz": "qaytarib olmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How often does the brother go to the sports centre?",
+     "options": [
+      "Every day",
+      "Once a month",
+      "Twice a day",
+      "Three times a week"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the coach say about strength?",
+     "options": [
+      "It comes slowly.",
+      "It comes overnight.",
+      "It is not important.",
+      "It only depends on food."
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the brother lose some strength last month?",
+     "options": [
+      "He broke his arm.",
+      "He had a cold.",
+      "He stopped training.",
+      "He was on holiday."
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Climbing Wall",
+   "script": "Instructor: Well done, Zara! You have real strength in your arms. Zara: Thank you. I started strength training a month ago. Instructor: It shows. Climbing needs strength, but also a clear mind. Zara: My legs are tired now. I don't have the strength to try again. Instructor: Have a rest and drink some water. You'll soon regain your strength. Remember, it's good to know your strengths and weaknesses.",
+   "questions": [
+    {
+     "question": "What does Zara have in her arms?",
+     "options": [
+      "A bandage",
+      "A pain",
+      "Real strength",
+      "A new bracelet"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why doesn't Zara try again?",
+     "options": [
+      "The wall is closed.",
+      "It is raining.",
+      "She is afraid.",
+      "Her legs are tired."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the instructor advise?",
+     "options": [
+      "Rest and drink water",
+      "Go home",
+      "Climb faster",
+      "Skip lunch"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He has the strength to do it.",
+    "She pushed with all her strength.",
+    "Rest helps you regain your strength."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Being strong",
+    "question_text": "Why is it good to be physically strong?",
+    "hint_words": [
+     "healthy",
+     "work",
+     "sport",
+     "confidence"
+    ]
+   },
+   {
+    "topic": "Strength of character",
+    "question_text": "What does strength of character mean to you?",
+    "hint_words": [
+     "brave",
+     "honest",
+     "patient",
+     "help"
+    ]
+   },
+   {
+    "topic": "My strengths",
+    "question_text": "What are your strengths and weaknesses?",
+    "hint_words": [
+     "good at",
+     "bad at",
+     "improve",
+     "practise"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 66,
+  "title": "energy and exercise",
+  "vocabulary": [
+   {
+    "word": "have a lot of energy",
+    "translation_uz": "ko'p energiyaga ega bo'lmoq",
+    "example_sentence": "Small children have a lot of energy."
+   },
+   {
+    "word": "save / waste energy",
+    "translation_uz": "energiyani tejamoq / bekor sarflamoq",
+    "example_sentence": "Turn off the lights to save energy."
+   },
+   {
+    "word": "full of energy",
+    "translation_uz": "energiyaga to'la",
+    "example_sentence": "She came back from the park full of energy."
+   },
+   {
+    "word": "use up energy",
+    "translation_uz": "energiyani sarflamoq",
+    "example_sentence": "Running uses up a lot of energy."
+   },
+   {
+    "word": "give / need energy",
+    "translation_uz": "energiya bermoq / kerak bo'lmoq",
+    "example_sentence": "Breakfast gives you energy for the day."
+   },
+   {
+    "word": "solar / wind energy",
+    "translation_uz": "quyosh / shamol energiyasi",
+    "example_sentence": "Solar energy is clean and cheap."
+   },
+   {
+    "word": "an energy drink / energy bar",
+    "translation_uz": "energetik ichimlik / energiya batoni",
+    "example_sentence": "Doctors advise children not to drink energy drinks."
+   },
+   {
+    "word": "do exercise",
+    "translation_uz": "jismoniy mashq qilmoq",
+    "example_sentence": "I do exercise for thirty minutes every morning."
+   },
+   {
+    "word": "take / get exercise",
+    "translation_uz": "mashq qilmoq / harakat qilmoq",
+    "example_sentence": "Dogs need to get exercise every day."
+   },
+   {
+    "word": "regular / gentle exercise",
+    "translation_uz": "muntazam / yengil mashq",
+    "example_sentence": "Gentle exercise is good for older people."
+   },
+   {
+    "word": "an exercise class",
+    "translation_uz": "mashg'ulot darsi",
+    "example_sentence": "She goes to an exercise class on Mondays."
+   },
+   {
+    "word": "exercise your body / brain",
+    "translation_uz": "tanani / miyani mashq qildirmoq",
+    "example_sentence": "Puzzles exercise your brain."
+   },
+   {
+    "word": "an exercise bike",
+    "translation_uz": "velotrenajyor",
+    "example_sentence": "My father uses an exercise bike at home."
+   },
+   {
+    "word": "energetic / exercise hard",
+    "translation_uz": "baquvvat / qattiq mashq qilmoq",
+    "example_sentence": "The energetic puppy ran around the garden."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Children usually have a lot of ___, and they don't want to sit still.",
+    "correct_word": "energy",
+    "options": [
+     "energy",
+     "laziness",
+     "noise",
+     "hunger"
+    ]
+   },
+   {
+    "sentence_with_blank": "You should try to ___ exercise every day.",
+    "correct_word": "get",
+    "options": [
+     "make",
+     "get",
+     "build",
+     "have"
+    ]
+   },
+   {
+    "sentence_with_blank": "Breakfast gives you ___ for the school day.",
+    "correct_word": "energy",
+    "options": [
+     "energetic",
+     "energies",
+     "energy",
+     "energise"
+    ]
+   },
+   {
+    "sentence_with_blank": "Turning off the lights helps us ___ energy.",
+    "correct_word": "save",
+    "options": [
+     "lose",
+     "hold",
+     "spare",
+     "save"
+    ]
+   },
+   {
+    "sentence_with_blank": "Walking is a form of gentle ___.",
+    "correct_word": "exercise",
+    "options": [
+     "exercise",
+     "exercising",
+     "exercised",
+     "exerciser"
+    ]
+   },
+   {
+    "sentence_with_blank": "Solar and wind ___ are cleaner than coal.",
+    "correct_word": "energy",
+    "options": [
+     "force",
+     "energy",
+     "strength",
+     "fuel"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Morning Exercise",
+   "text": "I wake up at six every morning and do exercise for twenty minutes. First I stretch, then I do some jumping and push-ups. My mother says regular exercise gives me energy for the whole day, and she is right. When I skip my exercise, I feel tired in class. After school I walk to the park with my dog, who is full of energy and needs to get exercise too. Our teacher told us that energy drinks are not healthy, so I drink water and eat fruit instead. At weekends my family cycles in the country, and we always come home happy and hungry.",
+   "key_words": [
+    {
+     "word": "stretch",
+     "translation_uz": "cho'zilmoq"
+    },
+    {
+     "word": "push-up",
+     "translation_uz": "qo'llarga tayanib turib-yotish"
+    },
+    {
+     "word": "skip",
+     "translation_uz": "tashlab ketmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long does the narrator exercise in the morning?",
+     "options": [
+      "Twenty minutes",
+      "An hour",
+      "Five minutes",
+      "Two hours"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happens when the narrator skips exercise?",
+     "options": [
+      "He or she feels hungry.",
+      "He or she feels tired in class.",
+      "He or she gets a headache.",
+      "He or she feels sleepy at night."
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the narrator drink instead of energy drinks?",
+     "options": [
+      "Tea",
+      "Juice",
+      "Water",
+      "Milk"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Energy at Home",
+   "script": "Mother: Laziz, you have so much energy today. Laziz: I know! I did my exercise early, and I feel great. Mother: Good. Can you help me save energy? Please turn off the lights in empty rooms. Laziz: Of course. Our teacher told us that solar energy is the future. Mother: She is right. Maybe we can put solar panels on our roof one day. Laziz: That would be wonderful. Now, can I take the dog for a run? He needs exercise too.",
+   "questions": [
+    {
+     "question": "Why does Laziz feel great?",
+     "options": [
+      "He slept late.",
+      "He ate a big lunch.",
+      "He won a prize.",
+      "He did exercise early."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How can Laziz help save energy?",
+     "options": [
+      "By turning off the lights",
+      "By closing the windows",
+      "By cooking dinner",
+      "By walking to school"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Laziz want to do with the dog?",
+     "options": [
+      "Wash it",
+      "Take it for a run",
+      "Feed it",
+      "Teach it tricks"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Regular exercise gives you energy.",
+    "She is full of energy today.",
+    "Please save energy at home."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "My exercise",
+    "question_text": "What exercise do you do to stay healthy?",
+    "hint_words": [
+     "running",
+     "stretching",
+     "cycling",
+     "football"
+    ]
+   },
+   {
+    "topic": "Energy",
+    "question_text": "What gives you energy during the day?",
+    "hint_words": [
+     "breakfast",
+     "sleep",
+     "water",
+     "fruit"
+    ]
+   },
+   {
+    "topic": "Saving energy",
+    "question_text": "How can we save energy at home?",
+    "hint_words": [
+     "lights",
+     "water",
+     "solar",
+     "heating"
+    ]
+   }
+  ]
+ }
+]

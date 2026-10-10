@@ -1,0 +1,1513 @@
+[
+ {
+  "unit": 82,
+  "title": "coffee",
+  "vocabulary": [
+   {
+    "word": "make coffee",
+    "translation_uz": "kofe tayyorlamoq",
+    "example_sentence": "Dad makes coffee every morning."
+   },
+   {
+    "word": "a cup of coffee",
+    "translation_uz": "bir piyola kofe",
+    "example_sentence": "Would you like a cup of coffee?"
+   },
+   {
+    "word": "have a coffee",
+    "translation_uz": "kofe ichmoq",
+    "example_sentence": "Let's have a coffee after school."
+   },
+   {
+    "word": "black coffee",
+    "translation_uz": "sutsiz kofe",
+    "example_sentence": "My uncle drinks black coffee."
+   },
+   {
+    "word": "white coffee",
+    "translation_uz": "sutli kofe",
+    "example_sentence": "I'd like a white coffee, please."
+   },
+   {
+    "word": "strong coffee",
+    "translation_uz": "kuchli kofe",
+    "example_sentence": "Strong coffee keeps some adults awake."
+   },
+   {
+    "word": "instant coffee",
+    "translation_uz": "tez eruvchi kofe",
+    "example_sentence": "Instant coffee is quick to make."
+   },
+   {
+    "word": "coffee with milk",
+    "translation_uz": "sutli kofe (sut qo'shilgan)",
+    "example_sentence": "She likes coffee with milk."
+   },
+   {
+    "word": "coffee with sugar",
+    "translation_uz": "shakarli kofe",
+    "example_sentence": "He takes coffee with sugar."
+   },
+   {
+    "word": "a coffee shop",
+    "translation_uz": "kofexona",
+    "example_sentence": "We met at the coffee shop."
+   },
+   {
+    "word": "a coffee break",
+    "translation_uz": "kofe tanaffusi",
+    "example_sentence": "The teachers have a coffee break at eleven."
+   },
+   {
+    "word": "coffee beans",
+    "translation_uz": "kofe donalari",
+    "example_sentence": "Coffee beans grow on small trees."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Would you like a cup of ___?",
+    "correct_word": "coffee",
+    "options": [
+     "ticket",
+     "coffee",
+     "seat",
+     "bill"
+    ]
+   },
+   {
+    "sentence_with_blank": "I take my coffee ___ milk and no sugar.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "from",
+     "with",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ a cup of strong coffee every morning.",
+    "correct_word": "drinks",
+    "options": [
+     "eats",
+     "cuts",
+     "paints",
+     "drinks"
+    ]
+   },
+   {
+    "sentence_with_blank": "I prefer ___ coffee, with no milk.",
+    "correct_word": "black",
+    "options": [
+     "black",
+     "loud",
+     "short",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's take a short ___ break.",
+    "correct_word": "coffee",
+    "options": [
+     "ticket",
+     "coffee",
+     "seat",
+     "road"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ some coffee for our guests?",
+    "correct_word": "make",
+    "options": [
+     "wear",
+     "ride",
+     "make",
+     "climb"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Coffee at Grandpa's",
+   "text": "My grandfather loves coffee. Every morning he makes coffee in a small pot. He likes it strong, with a little sugar. At eleven o'clock he has a coffee break in the garden. Sometimes he takes me to the coffee shop, where I have a glass of juice and he has a cup of black coffee.",
+   "key_words": [
+    {
+     "word": "pot",
+     "translation_uz": "qozoncha"
+    },
+    {
+     "word": "garden",
+     "translation_uz": "bog'"
+    },
+    {
+     "word": "juice",
+     "translation_uz": "sharbat"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How does Grandpa like his coffee?",
+     "options": [
+      "Weak, with milk",
+      "Cold, with ice",
+      "Sweet, with cream",
+      "Strong, with a little sugar"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where does he have his coffee break?",
+     "options": [
+      "In the garden",
+      "At work",
+      "In the car",
+      "At school"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer have at the coffee shop?",
+     "options": [
+      "A cup of coffee",
+      "A glass of juice",
+      "A bar of chocolate",
+      "A bottle of water"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Coffee Shop",
+   "script": "I am at a coffee shop with my mother. She asks for a white coffee, and I ask for a glass of milk. The waiter brings a cup of coffee and my milk. Mum puts in one spoon of sugar. She says the coffee is too hot, so we wait a few minutes.",
+   "questions": [
+    {
+     "question": "What does Mum order?",
+     "options": [
+      "Black coffee",
+      "Tea",
+      "A white coffee",
+      "Juice"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the speaker order?",
+     "options": [
+      "A coffee",
+      "A tea",
+      "A juice",
+      "A glass of milk"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why do they wait?",
+     "options": [
+      "The coffee is too hot",
+      "The cup is empty",
+      "The bill is high",
+      "The shop is full"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I make coffee.",
+    "Black coffee, please.",
+    "We have a coffee break."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Coffee",
+    "question_text": "Do your parents drink coffee?",
+    "hint_words": [
+     "yes",
+     "morning",
+     "cup",
+     "strong"
+    ]
+   },
+   {
+    "topic": "Coffee",
+    "question_text": "Do you prefer coffee or tea?",
+    "hint_words": [
+     "coffee",
+     "tea",
+     "prefer",
+     "like"
+    ]
+   },
+   {
+    "topic": "Coffee",
+    "question_text": "How do you make a cup of coffee?",
+    "hint_words": [
+     "hot water",
+     "spoon",
+     "sugar",
+     "milk"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 83,
+  "title": "tea",
+  "vocabulary": [
+   {
+    "word": "make a cup of tea",
+    "translation_uz": "bir piyola choy damlamoq",
+    "example_sentence": "I'll make a cup of tea for you."
+   },
+   {
+    "word": "a pot of tea",
+    "translation_uz": "bir choynak choy",
+    "example_sentence": "Grandma brought a pot of tea."
+   },
+   {
+    "word": "green tea",
+    "translation_uz": "ko'k choy",
+    "example_sentence": "Green tea is popular in Uzbekistan."
+   },
+   {
+    "word": "black tea",
+    "translation_uz": "qora choy",
+    "example_sentence": "We drink black tea after lunch."
+   },
+   {
+    "word": "herbal tea",
+    "translation_uz": "o'simlik choyi",
+    "example_sentence": "Herbal tea with mint is lovely."
+   },
+   {
+    "word": "strong tea",
+    "translation_uz": "kuchli choy",
+    "example_sentence": "Grandpa likes strong tea."
+   },
+   {
+    "word": "weak tea",
+    "translation_uz": "yengil choy",
+    "example_sentence": "Weak tea is better for me."
+   },
+   {
+    "word": "tea with lemon",
+    "translation_uz": "limonli choy",
+    "example_sentence": "I like tea with lemon."
+   },
+   {
+    "word": "tea with honey",
+    "translation_uz": "asalli choy",
+    "example_sentence": "Tea with honey is good for a sore throat."
+   },
+   {
+    "word": "pour tea",
+    "translation_uz": "choy quymoq",
+    "example_sentence": "Please pour tea into the cups."
+   },
+   {
+    "word": "a tea bag",
+    "translation_uz": "choy paketi",
+    "example_sentence": "Put a tea bag in the cup."
+   },
+   {
+    "word": "drink tea",
+    "translation_uz": "choy ichmoq",
+    "example_sentence": "We drink tea with our guests."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Would you like a ___ of tea?",
+    "correct_word": "cup",
+    "options": [
+     "bar",
+     "seat",
+     "tour",
+     "cup"
+    ]
+   },
+   {
+    "sentence_with_blank": "Green tea is good ___ your health.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "at",
+     "on",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "She poured hot tea ___ the cups.",
+    "correct_word": "into",
+    "options": [
+     "behind",
+     "into",
+     "after",
+     "beside"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like my tea with ___ and no sugar.",
+    "correct_word": "lemon",
+    "options": [
+     "shoes",
+     "stairs",
+     "lemon",
+     "chairs"
+    ]
+   },
+   {
+    "sentence_with_blank": "Put a tea ___ in the cup.",
+    "correct_word": "bag",
+    "options": [
+     "road",
+     "queue",
+     "ticket",
+     "bag"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful, the tea is very ___; wait a minute.",
+    "correct_word": "hot",
+    "options": [
+     "hot",
+     "tall",
+     "blue",
+     "loud"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Tea Time",
+   "text": "In my family tea is very important. When guests come, Grandma makes a big pot of green tea. She pours the tea into small cups and gives the first cup to the oldest guest. We drink tea with sweets and bread. My father likes strong black tea with lemon, but I prefer weak tea with a little honey.",
+   "key_words": [
+    {
+     "word": "guest",
+     "translation_uz": "mehmon"
+    },
+    {
+     "word": "sweets",
+     "translation_uz": "shirinliklar"
+    },
+    {
+     "word": "prefer",
+     "translation_uz": "afzal ko'rmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Grandma make for guests?",
+     "options": [
+      "Black coffee",
+      "A pot of green tea",
+      "Fruit juice",
+      "Hot milk"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who gets the first cup?",
+     "options": [
+      "The writer",
+      "Dad",
+      "The oldest guest",
+      "The youngest child"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How does the writer like tea?",
+     "options": [
+      "Strong, with lemon",
+      "With milk",
+      "With lots of sugar",
+      "Weak, with a little honey"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Making Tea",
+   "script": "First I fill the kettle with water and switch it on. Then I put two tea bags in the pot. When the water is hot, I pour it into the pot. We wait five minutes. Then I pour the tea into four cups. My sister likes tea with milk, but I like it with lemon.",
+   "questions": [
+    {
+     "question": "How many tea bags go in the pot?",
+     "options": [
+      "Two",
+      "One",
+      "Four",
+      "Five"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long do they wait?",
+     "options": [
+      "One minute",
+      "Five minutes",
+      "Ten minutes",
+      "An hour"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How does the speaker like tea?",
+     "options": [
+      "With milk",
+      "With honey",
+      "With lemon",
+      "With sugar"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I make a cup of tea.",
+    "Green tea is good.",
+    "Pour the tea."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Tea",
+    "question_text": "Do you like green tea or black tea?",
+    "hint_words": [
+     "green",
+     "black",
+     "prefer",
+     "like"
+    ]
+   },
+   {
+    "topic": "Tea",
+    "question_text": "How do you drink your tea?",
+    "hint_words": [
+     "sugar",
+     "lemon",
+     "milk",
+     "honey"
+    ]
+   },
+   {
+    "topic": "Tea",
+    "question_text": "When do you drink tea at home?",
+    "hint_words": [
+     "morning",
+     "evening",
+     "guests",
+     "after"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 84,
+  "title": "beer",
+  "vocabulary": [
+   {
+    "word": "a glass of beer",
+    "translation_uz": "bir stakan pivo",
+    "example_sentence": "The man ordered a glass of beer at the café."
+   },
+   {
+    "word": "a bottle of beer",
+    "translation_uz": "bir shisha pivo",
+    "example_sentence": "There is a bottle of beer on the table."
+   },
+   {
+    "word": "a can of beer",
+    "translation_uz": "bir banka pivo",
+    "example_sentence": "He opened a can of cold beer."
+   },
+   {
+    "word": "a pint of beer",
+    "translation_uz": "bir pint pivo",
+    "example_sentence": "In Britain, people often order a pint of beer."
+   },
+   {
+    "word": "order a beer",
+    "translation_uz": "pivo buyurtma qilmoq",
+    "example_sentence": "The waiter asked if he wanted to order a beer."
+   },
+   {
+    "word": "a cold beer",
+    "translation_uz": "sovuq pivo",
+    "example_sentence": "A cold beer is popular on a hot day."
+   },
+   {
+    "word": "non-alcoholic beer",
+    "translation_uz": "alkogolsiz pivo",
+    "example_sentence": "Non-alcoholic beer has no alcohol in it."
+   },
+   {
+    "word": "brew beer",
+    "translation_uz": "pivo tayyorlamoq (qaynatmoq)",
+    "example_sentence": "They brew beer in a big factory."
+   },
+   {
+    "word": "beer is made from",
+    "translation_uz": "pivo ... dan tayyorlanadi",
+    "example_sentence": "Beer is made from water, barley and hops."
+   },
+   {
+    "word": "a beer glass",
+    "translation_uz": "pivo qadahi",
+    "example_sentence": "A beer glass is tall and wide."
+   },
+   {
+    "word": "a beer garden",
+    "translation_uz": "pivo bog'i (ochiq havodagi pivoxona)",
+    "example_sentence": "Families sit in the beer garden in summer."
+   },
+   {
+    "word": "only for adults",
+    "translation_uz": "faqat kattalar uchun",
+    "example_sentence": "Beer is only for adults."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The man ordered a ___ of beer at the café.",
+    "correct_word": "glass",
+    "options": [
+     "pair",
+     "glass",
+     "pile",
+     "piece"
+    ]
+   },
+   {
+    "sentence_with_blank": "Beer is ___ from water, barley and hops.",
+    "correct_word": "made",
+    "options": [
+     "cut",
+     "built",
+     "made",
+     "drawn"
+    ]
+   },
+   {
+    "sentence_with_blank": "Some people ___ beer in a big factory called a brewery.",
+    "correct_word": "brew",
+    "options": [
+     "wear",
+     "dig",
+     "ride",
+     "brew"
+    ]
+   },
+   {
+    "sentence_with_blank": "Adults can ___ a beer in a restaurant, but children cannot.",
+    "correct_word": "order",
+    "options": [
+     "order",
+     "climb",
+     "wash",
+     "hide"
+    ]
+   },
+   {
+    "sentence_with_blank": "Non-___ beer is a drink with no alcohol.",
+    "correct_word": "alcoholic",
+    "options": [
+     "sleepy",
+     "alcoholic",
+     "yellow",
+     "loud"
+    ]
+   },
+   {
+    "sentence_with_blank": "He opened a ___ of cold beer.",
+    "correct_word": "can",
+    "options": [
+     "bar",
+     "seat",
+     "can",
+     "road"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "How Beer Is Made",
+   "text": "Beer is a drink that adults can buy in shops and restaurants. It is made from water, barley and hops. People brew beer in a factory called a brewery. In some countries families sit in a beer garden in summer, and children have lemonade. Non-alcoholic beer has no alcohol, but it is still not a drink for small children.",
+   "key_words": [
+    {
+     "word": "barley",
+     "translation_uz": "arpa"
+    },
+    {
+     "word": "factory",
+     "translation_uz": "fabrika"
+    },
+    {
+     "word": "lemonade",
+     "translation_uz": "limonad"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is beer made from?",
+     "options": [
+      "Milk and sugar",
+      "Fruit and honey",
+      "Tea and lemon",
+      "Water, barley and hops"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where do people brew beer?",
+     "options": [
+      "In a brewery",
+      "In a school",
+      "In a garden",
+      "At a bus station"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do children have in a beer garden?",
+     "options": [
+      "Beer",
+      "Lemonade",
+      "Coffee",
+      "Wine"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Beer Garden",
+   "script": "It is a hot Saturday, and a family sits in a beer garden. Dad orders a cold beer, and Mum asks for a glass of water. The children have lemonade. The waiter brings the drinks on a tray. Then he asks if they want something to eat.",
+   "questions": [
+    {
+     "question": "What does Dad order?",
+     "options": [
+      "Lemonade",
+      "Tea",
+      "A cold beer",
+      "Water"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Mum ask for?",
+     "options": [
+      "A cold beer",
+      "Coffee",
+      "Juice",
+      "A glass of water"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do the children have?",
+     "options": [
+      "Lemonade",
+      "Beer",
+      "Milk",
+      "Water"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He orders a beer.",
+    "A glass of beer.",
+    "Beer is for adults."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Drinks",
+    "question_text": "What do you drink on a hot day?",
+    "hint_words": [
+     "water",
+     "juice",
+     "cold",
+     "lemonade"
+    ]
+   },
+   {
+    "topic": "Drinks",
+    "question_text": "What drinks are only for adults?",
+    "hint_words": [
+     "beer",
+     "wine",
+     "coffee",
+     "adults"
+    ]
+   },
+   {
+    "topic": "Drinks",
+    "question_text": "What does a waiter bring to a table?",
+    "hint_words": [
+     "drinks",
+     "food",
+     "tray",
+     "menu"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 85,
+  "title": "wine",
+  "vocabulary": [
+   {
+    "word": "a glass of wine",
+    "translation_uz": "bir qadah vino",
+    "example_sentence": "The waiter brought a glass of wine to the guest."
+   },
+   {
+    "word": "a bottle of wine",
+    "translation_uz": "bir shisha vino",
+    "example_sentence": "They shared a bottle of wine at dinner."
+   },
+   {
+    "word": "red wine",
+    "translation_uz": "qizil vino",
+    "example_sentence": "Red wine is made from dark grapes."
+   },
+   {
+    "word": "white wine",
+    "translation_uz": "oq vino",
+    "example_sentence": "White wine goes well with fish."
+   },
+   {
+    "word": "dry wine",
+    "translation_uz": "quruq vino",
+    "example_sentence": "Dry wine is not sweet."
+   },
+   {
+    "word": "sweet wine",
+    "translation_uz": "shirin vino",
+    "example_sentence": "Sweet wine is often served with dessert."
+   },
+   {
+    "word": "a wine list",
+    "translation_uz": "vinolar ro'yxati",
+    "example_sentence": "The waiter gave us the wine list."
+   },
+   {
+    "word": "pour wine",
+    "translation_uz": "vino quymoq",
+    "example_sentence": "He poured wine into the glasses."
+   },
+   {
+    "word": "wine is made from grapes",
+    "translation_uz": "vino uzumdan tayyorlanadi",
+    "example_sentence": "Wine is made from grapes."
+   },
+   {
+    "word": "make wine",
+    "translation_uz": "vino tayyorlamoq",
+    "example_sentence": "In autumn the family makes wine from their grapes."
+   },
+   {
+    "word": "a wine glass",
+    "translation_uz": "vino qadahi",
+    "example_sentence": "A wine glass has a long stem."
+   },
+   {
+    "word": "a wine cellar",
+    "translation_uz": "vino yerto'lasi",
+    "example_sentence": "The old house has a wine cellar."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Wine is made ___ grapes.",
+    "correct_word": "from",
+    "options": [
+     "by",
+     "at",
+     "up",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "The waiter gave my uncle the wine ___.",
+    "correct_word": "list",
+    "options": [
+     "list",
+     "tour",
+     "licence",
+     "queue"
+    ]
+   },
+   {
+    "sentence_with_blank": "The restaurant has red wine and ___ wine.",
+    "correct_word": "white",
+    "options": [
+     "tall",
+     "white",
+     "fast",
+     "loud"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ a little wine into the glass.",
+    "correct_word": "poured",
+    "options": [
+     "painted",
+     "sat",
+     "poured",
+     "wore"
+    ]
+   },
+   {
+    "sentence_with_blank": "Grapes grow in a vineyard, and people ___ wine from them.",
+    "correct_word": "make",
+    "options": [
+     "ride",
+     "read",
+     "tell",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandfather has an old wine ___ under the house.",
+    "correct_word": "cellar",
+    "options": [
+     "cellar",
+     "seat",
+     "tour",
+     "driver"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Vineyard",
+   "text": "Our neighbour has a small vineyard behind his house. In autumn he picks the grapes and makes wine. He keeps the bottles in a cool wine cellar. Wine is made from grapes, and it is a drink for adults only. The children help to pick the grapes, and then they eat some of them as a sweet snack.",
+   "key_words": [
+    {
+     "word": "vineyard",
+     "translation_uz": "uzumzor"
+    },
+    {
+     "word": "pick",
+     "translation_uz": "terib olmoq"
+    },
+    {
+     "word": "cool",
+     "translation_uz": "salqin"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the vineyard?",
+     "options": [
+      "In the city centre",
+      "Behind the neighbour's house",
+      "Next to the school",
+      "By the river"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where does he keep the bottles?",
+     "options": [
+      "In the kitchen",
+      "In the garage",
+      "In a wine cellar",
+      "In a shop"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do the children do?",
+     "options": [
+      "Make the wine",
+      "Sell the bottles",
+      "Drink the wine",
+      "Help pick the grapes"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Reading the Wine List",
+   "script": "A couple sits at a table in a restaurant. The waiter brings the menu and a wine list. The man chooses a glass of red wine. The woman chooses water with lemon. The waiter pours the wine and the water, and then he takes their order for dinner.",
+   "questions": [
+    {
+     "question": "What does the waiter bring?",
+     "options": [
+      "A menu and a wine list",
+      "A bill",
+      "A cake",
+      "A bottle of milk"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the woman choose?",
+     "options": [
+      "Red wine",
+      "Water with lemon",
+      "White wine",
+      "Tea"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the waiter take at the end?",
+     "options": [
+      "Their coats",
+      "Their money",
+      "Their order for dinner",
+      "Their tickets"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "A glass of wine.",
+    "Red wine or white wine?",
+    "Wine is made from grapes."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Grapes",
+    "question_text": "Do you like grapes?",
+    "hint_words": [
+     "yes",
+     "sweet",
+     "eat",
+     "fruit"
+    ]
+   },
+   {
+    "topic": "Wine",
+    "question_text": "What can you see on a wine list?",
+    "hint_words": [
+     "names",
+     "prices",
+     "red",
+     "white"
+    ]
+   },
+   {
+    "topic": "Autumn",
+    "question_text": "What fruits do people pick in autumn?",
+    "hint_words": [
+     "grapes",
+     "apples",
+     "pick",
+     "garden"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 86,
+  "title": "bottle, glass",
+  "vocabulary": [
+   {
+    "word": "a bottle of water",
+    "translation_uz": "bir shisha suv",
+    "example_sentence": "Take a bottle of water on the trip."
+   },
+   {
+    "word": "a bottle of milk",
+    "translation_uz": "bir shisha sut",
+    "example_sentence": "A bottle of milk is in the fridge."
+   },
+   {
+    "word": "a plastic bottle",
+    "translation_uz": "plastik shisha",
+    "example_sentence": "Do not throw a plastic bottle in the river."
+   },
+   {
+    "word": "open a bottle",
+    "translation_uz": "shishani ochmoq",
+    "example_sentence": "Can you open this bottle for me?"
+   },
+   {
+    "word": "recycle bottles",
+    "translation_uz": "shishalarni qayta ishlashga topshirmoq",
+    "example_sentence": "We recycle bottles at school."
+   },
+   {
+    "word": "a glass of water",
+    "translation_uz": "bir stakan suv",
+    "example_sentence": "I drink a glass of water every morning."
+   },
+   {
+    "word": "a glass of juice",
+    "translation_uz": "bir stakan sharbat",
+    "example_sentence": "She poured a glass of juice for her brother."
+   },
+   {
+    "word": "fill a glass",
+    "translation_uz": "stakanni to'ldirmoq",
+    "example_sentence": "Fill the glass with cold water."
+   },
+   {
+    "word": "a broken glass",
+    "translation_uz": "singan stakan",
+    "example_sentence": "Be careful with that broken glass."
+   },
+   {
+    "word": "made of glass",
+    "translation_uz": "shishadan yasalgan",
+    "example_sentence": "This window is made of glass."
+   },
+   {
+    "word": "a glass door",
+    "translation_uz": "shisha eshik",
+    "example_sentence": "He walked into a glass door."
+   },
+   {
+    "word": "a drinking glass",
+    "translation_uz": "ichimlik stakani",
+    "example_sentence": "Put the drinking glass on the table."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please bring me a ___ of water.",
+    "correct_word": "glass",
+    "options": [
+     "pair",
+     "glass",
+     "piece",
+     "slice"
+    ]
+   },
+   {
+    "sentence_with_blank": "We should ___ plastic bottles, not throw them away.",
+    "correct_word": "recycle",
+    "options": [
+     "ride",
+     "draw",
+     "recycle",
+     "taste"
+    ]
+   },
+   {
+    "sentence_with_blank": "This window is made ___ glass.",
+    "correct_word": "of",
+    "options": [
+     "by",
+     "at",
+     "for",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful! The glass is ___ and may cut you.",
+    "correct_word": "broken",
+    "options": [
+     "broken",
+     "sweet",
+     "fast",
+     "blind"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ the bottle? I can't.",
+    "correct_word": "open",
+    "options": [
+     "eat",
+     "open",
+     "ride",
+     "wear"
+    ]
+   },
+   {
+    "sentence_with_blank": "She filled the ___ with orange juice.",
+    "correct_word": "glass",
+    "options": [
+     "stair",
+     "ticket",
+     "glass",
+     "queue"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Clean Beach Day",
+   "text": "Last Saturday our class cleaned the beach. We found many plastic bottles and a broken glass. Our teacher gave everyone gloves and a big bag. We put the bottles in one bag to recycle them. After the work, we sat down and drank a glass of cold juice. Then we took a bottle of water each for the way home.",
+   "key_words": [
+    {
+     "word": "beach",
+     "translation_uz": "plyaj"
+    },
+    {
+     "word": "gloves",
+     "translation_uz": "qo'lqoplar"
+    },
+    {
+     "word": "teacher",
+     "translation_uz": "o'qituvchi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class clean?",
+     "options": [
+      "The school",
+      "A river",
+      "A park",
+      "The beach"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did they find?",
+     "options": [
+      "Plastic bottles and a broken glass",
+      "Old shoes",
+      "Gold coins",
+      "A lost bag"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did they drink after the work?",
+     "options": [
+      "Tea",
+      "A glass of cold juice",
+      "Milk",
+      "Coffee"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Kitchen",
+   "script": "I am helping Mum in the kitchen. First I fill a glass with water for her. Then I open a bottle of milk and pour some into a cup. Mum says, \"Be careful with the glass bowls. They are made of glass and can break.\" At the end we put the empty bottles in the recycling box.",
+   "questions": [
+    {
+     "question": "What does the speaker fill with water?",
+     "options": [
+      "A bottle",
+      "A bowl",
+      "A glass",
+      "A pot"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the speaker open?",
+     "options": [
+      "A bottle of juice",
+      "A jar",
+      "A box",
+      "A bottle of milk"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where do the empty bottles go?",
+     "options": [
+      "In the recycling box",
+      "In the fridge",
+      "On the table",
+      "In the garden"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Fill the glass.",
+    "Open the bottle.",
+    "It is made of glass."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Bottles",
+    "question_text": "Do you carry a bottle of water to school?",
+    "hint_words": [
+     "yes",
+     "always",
+     "water",
+     "bag"
+    ]
+   },
+   {
+    "topic": "Glass",
+    "question_text": "What things are made of glass?",
+    "hint_words": [
+     "window",
+     "glass",
+     "bottle",
+     "door"
+    ]
+   },
+   {
+    "topic": "Recycling",
+    "question_text": "Do you recycle bottles at home?",
+    "hint_words": [
+     "yes",
+     "no",
+     "bin",
+     "plastic"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 87,
+  "title": "cup",
+  "vocabulary": [
+   {
+    "word": "a cup of tea",
+    "translation_uz": "bir piyola choy",
+    "example_sentence": "She drank a cup of tea."
+   },
+   {
+    "word": "a cup of coffee",
+    "translation_uz": "bir piyola kofe",
+    "example_sentence": "He needs a cup of coffee in the morning."
+   },
+   {
+    "word": "a cup of sugar",
+    "translation_uz": "bir piyola shakar",
+    "example_sentence": "Add a cup of sugar to the cake mix."
+   },
+   {
+    "word": "a coffee cup",
+    "translation_uz": "kofe finjoni",
+    "example_sentence": "The coffee cup is on the shelf."
+   },
+   {
+    "word": "a tea cup",
+    "translation_uz": "choy piyolasi",
+    "example_sentence": "Grandma has a pretty tea cup."
+   },
+   {
+    "word": "a paper cup",
+    "translation_uz": "qog'oz stakan",
+    "example_sentence": "We drank juice from paper cups at the picnic."
+   },
+   {
+    "word": "an empty cup",
+    "translation_uz": "bo'sh piyola",
+    "example_sentence": "Put the empty cup in the sink."
+   },
+   {
+    "word": "a cup and saucer",
+    "translation_uz": "piyola va likopcha",
+    "example_sentence": "She put a cup and saucer on the tray."
+   },
+   {
+    "word": "wash the cups",
+    "translation_uz": "piyolalarni yuvmoq",
+    "example_sentence": "I wash the cups after tea."
+   },
+   {
+    "word": "break a cup",
+    "translation_uz": "piyolani sindirmoq",
+    "example_sentence": "Oh no! I broke a cup."
+   },
+   {
+    "word": "drink from a cup",
+    "translation_uz": "piyoladan ichmoq",
+    "example_sentence": "The baby learns to drink from a cup."
+   },
+   {
+    "word": "win the cup",
+    "translation_uz": "kubokni yutmoq",
+    "example_sentence": "Our team won the cup last year."
+   },
+   {
+    "word": "the World Cup",
+    "translation_uz": "Jahon chempionati kubogi",
+    "example_sentence": "Millions of people watch the World Cup."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Would you like a ___ of tea?",
+    "correct_word": "cup",
+    "options": [
+     "bar",
+     "road",
+     "seat",
+     "cup"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the cups after dinner.",
+    "correct_word": "wash",
+    "options": [
+     "wash",
+     "ride",
+     "sing",
+     "grow"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ a cup, sorry! It fell on the floor.",
+    "correct_word": "broke",
+    "options": [
+     "read",
+     "broke",
+     "slept",
+     "walked"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our team ___ the cup last year.",
+    "correct_word": "won",
+    "options": [
+     "wore",
+     "walked",
+     "won",
+     "waited"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her cup is ___, so she wants more tea.",
+    "correct_word": "empty",
+    "options": [
+     "heavy",
+     "tall",
+     "early",
+     "empty"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't drink ___ a broken cup.",
+    "correct_word": "from",
+    "options": [
+     "from",
+     "to",
+     "by",
+     "up"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Football Cup Day",
+   "text": "Our school team played in the final of the cup on Saturday. Before the match, Mum made a big pot of tea and filled paper cups for all the parents. We won the cup, two goals to one! The captain held the cup high, and everyone cheered. After the match we washed the cups and went home very tired but happy.",
+   "key_words": [
+    {
+     "word": "final",
+     "translation_uz": "final"
+    },
+    {
+     "word": "captain",
+     "translation_uz": "sardor"
+    },
+    {
+     "word": "cheer",
+     "translation_uz": "olqishlamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Mum fill the paper cups with?",
+     "options": [
+      "Juice",
+      "Tea",
+      "Milk",
+      "Coffee"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the score?",
+     "options": [
+      "One goal to none",
+      "Three goals to two",
+      "Two goals to one",
+      "Zero to zero"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did they do after the match?",
+     "options": [
+      "Played again",
+      "Ate dinner out",
+      "Went to school",
+      "Washed the cups"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Broken Cup",
+   "script": "This morning I broke a cup in the kitchen. It was my mother's favourite tea cup, and it was white with blue flowers. I told her the truth. She was not angry. She said, \"A cup is only a cup.\" Then we cleaned the floor and made a new cup of tea for me and one for her.",
+   "questions": [
+    {
+     "question": "What did the speaker break?",
+     "options": [
+      "A tea cup",
+      "A glass",
+      "A plate",
+      "A bottle"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What colour was the cup?",
+     "options": [
+      "Red",
+      "White with blue flowers",
+      "Green",
+      "Black and yellow"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did Mum feel?",
+     "options": [
+      "She was very angry",
+      "She was sad",
+      "She was not angry",
+      "She was afraid"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I broke a cup.",
+    "A cup of tea, please.",
+    "Wash the cups."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Cups",
+    "question_text": "What is your favourite cup like?",
+    "hint_words": [
+     "colour",
+     "big",
+     "small",
+     "blue"
+    ]
+   },
+   {
+    "topic": "Cups",
+    "question_text": "How many cups of tea do you drink a day?",
+    "hint_words": [
+     "one",
+     "two",
+     "three",
+     "none"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "Which team do you want to win the cup?",
+    "hint_words": [
+     "team",
+     "football",
+     "win",
+     "cup"
+    ]
+   }
+  ]
+ }
+]

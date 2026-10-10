@@ -1,0 +1,1834 @@
+[
+ {
+  "unit": 106,
+  "title": "friend",
+  "vocabulary": [
+   {
+    "word": "a close friend",
+    "translation_uz": "yaqin do'st",
+    "example_sentence": "Maria is my closest friend."
+   },
+   {
+    "word": "a best friend",
+    "translation_uz": "eng yaqin do'st",
+    "example_sentence": "My best friend lives next door."
+   },
+   {
+    "word": "an old friend",
+    "translation_uz": "eski do'st",
+    "example_sentence": "I met an old friend at the station."
+   },
+   {
+    "word": "a childhood friend",
+    "translation_uz": "bolalikdagi do'st",
+    "example_sentence": "He is a childhood friend from my village."
+   },
+   {
+    "word": "make friends",
+    "translation_uz": "do'st orttirmoq",
+    "example_sentence": "It is easy to make friends at a sports club."
+   },
+   {
+    "word": "make friends with",
+    "translation_uz": "bilan do'stlashmoq",
+    "example_sentence": "She made friends with a girl from Spain."
+   },
+   {
+    "word": "be friends with",
+    "translation_uz": "bilan do'st bo'lmoq",
+    "example_sentence": "I have been friends with Ali for ten years."
+   },
+   {
+    "word": "a friend of mine",
+    "translation_uz": "mening bir do'stim",
+    "example_sentence": "A friend of mine is a good singer."
+   },
+   {
+    "word": "keep in touch",
+    "translation_uz": "aloqada bo'lib turmoq",
+    "example_sentence": "We keep in touch by phone and email."
+   },
+   {
+    "word": "lose touch with",
+    "translation_uz": "bilan aloqani yo'qotmoq",
+    "example_sentence": "I lost touch with my old classmates."
+   },
+   {
+    "word": "get on well with",
+    "translation_uz": "bilan chiqishmoq",
+    "example_sentence": "I get on well with my new friends."
+   },
+   {
+    "word": "a true friend",
+    "translation_uz": "chin do'st",
+    "example_sentence": "A true friend tells you the truth."
+   },
+   {
+    "word": "friendly / friendship",
+    "translation_uz": "samimiy / do'stlik",
+    "example_sentence": "Their friendship is strong."
+   },
+   {
+    "word": "fall out with a friend",
+    "translation_uz": "do'sti bilan urishib qolmoq",
+    "example_sentence": "He fell out with a friend over a silly joke."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is not easy to ___ friends in a new city.",
+    "correct_word": "make",
+    "options": [
+     "make",
+     "do",
+     "build up",
+     "have"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is my ___ friend; we share all our secrets.",
+    "correct_word": "closest",
+    "options": [
+     "nearest",
+     "closest",
+     "next",
+     "tightest"
+    ]
+   },
+   {
+    "sentence_with_blank": "We live far apart, but we keep in ___ by video call.",
+    "correct_word": "touch",
+    "options": [
+     "contact",
+     "talk",
+     "touch",
+     "hand"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have been friends ___ him since primary school.",
+    "correct_word": "with",
+    "options": [
+     "to",
+     "by",
+     "for",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "After moving, I lost ___ with many old friends.",
+    "correct_word": "touch",
+    "options": [
+     "touch",
+     "track",
+     "contact",
+     "link"
+    ]
+   },
+   {
+    "sentence_with_blank": "The two boys ___ out with each other and did not speak for a week.",
+    "correct_word": "fell",
+    "options": [
+     "went",
+     "fell",
+     "dropped",
+     "came"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Two Friends",
+   "text": "Sofia and Lena have been friends since they were five. They are childhood friends who grew up on the same street. When Sofia's family moved to another city, the girls were afraid they would lose touch. But they kept in touch by writing long letters and later by video calls. Once they fell out over a small mistake, but they made up in a few days. Sofia says a true friend is someone who stays with you in good times and bad times. This summer Lena will visit her.",
+   "key_words": [
+    {
+     "word": "childhood friend",
+     "translation_uz": "bolalikdagi do'st"
+    },
+    {
+     "word": "keep in touch",
+     "translation_uz": "aloqada bo'lmoq"
+    },
+    {
+     "word": "fall out",
+     "translation_uz": "urishib qolmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long have Sofia and Lena been friends?",
+     "options": [
+      "Since they were five",
+      "For one year",
+      "Since last summer",
+      "Since secondary school"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the girls keep in touch?",
+     "options": [
+      "By meeting every day",
+      "By sending gifts",
+      "By letters and video calls",
+      "They did not"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will Lena do this summer?",
+     "options": [
+      "Move house",
+      "Visit Sofia",
+      "Write a book",
+      "Start school"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Making Friends",
+   "script": "Ben: Hi, I am Ben. I am new here. Carl: Nice to meet you, Ben. I am Carl. Do you want to sit with us? Ben: Thanks. I find it hard to make friends in a new school. Carl: Do not worry. We all felt the same. My best friend, Tim, is in the football club. You can join us. Ben: I would love that. At my old school I had a close friend, but we are losing touch. Carl: Send him a message. A true friend will answer.",
+   "questions": [
+    {
+     "question": "Why does Ben feel worried?",
+     "options": [
+      "He lost his bag",
+      "He has no homework",
+      "He dislikes football",
+      "He finds it hard to make friends"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who is Tim?",
+     "options": [
+      "Ben's brother",
+      "The teacher",
+      "A new student",
+      "Carl's best friend"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Carl advise Ben to do?",
+     "options": [
+      "Send his old friend a message",
+      "Change the school",
+      "Stop playing",
+      "Forget his friend"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "She is my best friend.",
+    "We keep in touch.",
+    "He made friends quickly."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Friends",
+    "question_text": "Who is your best friend and why?",
+    "hint_words": [
+     "best friend",
+     "kind",
+     "funny",
+     "because"
+    ]
+   },
+   {
+    "topic": "Friends",
+    "question_text": "How do you make friends in a new place?",
+    "hint_words": [
+     "join",
+     "club",
+     "talk",
+     "smile"
+    ]
+   },
+   {
+    "topic": "Friends",
+    "question_text": "How do you keep in touch with friends who live far away?",
+    "hint_words": [
+     "phone",
+     "message",
+     "video call",
+     "often"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 107,
+  "title": "enemy",
+  "vocabulary": [
+   {
+    "word": "a common enemy",
+    "translation_uz": "umumiy dushman",
+    "example_sentence": "The two teams found a common enemy in the weather."
+   },
+   {
+    "word": "make enemies",
+    "translation_uz": "dushman orttirmoq",
+    "example_sentence": "Be careful with words; you can make enemies easily."
+   },
+   {
+    "word": "an old enemy",
+    "translation_uz": "eski dushman",
+    "example_sentence": "The two kings were old enemies."
+   },
+   {
+    "word": "a deadly / bitter enemy",
+    "translation_uz": "qattiq dushman",
+    "example_sentence": "The cat and the dog were bitter enemies."
+   },
+   {
+    "word": "be enemies",
+    "translation_uz": "dushman bo'lmoq",
+    "example_sentence": "They were enemies for many years, then friends."
+   },
+   {
+    "word": "your own worst enemy",
+    "translation_uz": "o'zining eng yomon dushmani",
+    "example_sentence": "Lazy people can be their own worst enemy."
+   },
+   {
+    "word": "an enemy of something",
+    "translation_uz": "biror narsaning dushmani",
+    "example_sentence": "Sugar is an enemy of healthy teeth."
+   },
+   {
+    "word": "the enemy army / forces",
+    "translation_uz": "dushman qo'shini",
+    "example_sentence": "The enemy army left the city in the story."
+   },
+   {
+    "word": "defeat the enemy",
+    "translation_uz": "dushmanni mag'lub etmoq",
+    "example_sentence": "In the old tale, the hero defeated the enemy."
+   },
+   {
+    "word": "enemy / enemies (plural)",
+    "translation_uz": "dushman / dushmanlar",
+    "example_sentence": "He has no enemies at school."
+   },
+   {
+    "word": "rival / opponent",
+    "translation_uz": "raqib",
+    "example_sentence": "Our rival team won last year."
+   },
+   {
+    "word": "hostile / hostility",
+    "translation_uz": "dushmanona / adovat",
+    "example_sentence": "The man gave us a hostile look."
+   },
+   {
+    "word": "turn into an enemy",
+    "translation_uz": "dushmanga aylanmoq",
+    "example_sentence": "A small argument can turn a friend into an enemy."
+   },
+   {
+    "word": "forgive and forget",
+    "translation_uz": "kechirmoq va unutmoq",
+    "example_sentence": "It is better to forgive and forget."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Be polite to people, or you will ___ enemies.",
+    "correct_word": "make",
+    "options": [
+     "get",
+     "make",
+     "do",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "In the old story, the hero ___ the enemy and saved the village.",
+    "correct_word": "defeated",
+    "options": [
+     "won",
+     "passed",
+     "defeated",
+     "broke"
+    ]
+   },
+   {
+    "sentence_with_blank": "Cats and dogs are often said to be natural ___.",
+    "correct_word": "enemies",
+    "options": [
+     "enemy",
+     "rivalry",
+     "hostile",
+     "enemies"
+    ]
+   },
+   {
+    "sentence_with_blank": "Eating too much sugar is an ___ of healthy teeth.",
+    "correct_word": "enemy",
+    "options": [
+     "enemy",
+     "example",
+     "error",
+     "image"
+    ]
+   },
+   {
+    "sentence_with_blank": "Fear can be your own worst ___.",
+    "correct_word": "enemy",
+    "options": [
+     "friend",
+     "enemy",
+     "teacher",
+     "chance"
+    ]
+   },
+   {
+    "sentence_with_blank": "The two kings were bitter ___ and fought many battles.",
+    "correct_word": "enemies",
+    "options": [
+     "partners",
+     "relatives",
+     "enemies",
+     "guests"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Two Neighbours",
+   "text": "In our street there lived two neighbours, Mr Hadi and Mr Omar. For many years they were enemies because of a small fence between their gardens. They did not talk, and each gave the other a hostile look. One winter, a big storm broke both fences. Now they had a common enemy: the weather. They worked together to repair the damage. After a week, Mr Hadi brought tea, and the two men laughed together. The neighbours learned that it is better to forgive and forget than to make enemies.",
+   "key_words": [
+    {
+     "word": "hostile look",
+     "translation_uz": "dushmanona nigoh"
+    },
+    {
+     "word": "common enemy",
+     "translation_uz": "umumiy dushman"
+    },
+    {
+     "word": "forgive and forget",
+     "translation_uz": "kechirib unutmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why were the two men enemies?",
+     "options": [
+      "Because of money",
+      "Because of a fence",
+      "Because of a dog",
+      "Because of a car"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was their common enemy?",
+     "options": [
+      "A thief",
+      "The neighbour's dog",
+      "The council",
+      "The storm"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Mr Hadi bring after a week?",
+     "options": [
+      "Tea",
+      "Flowers",
+      "A new fence",
+      "Bread"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A School Rivalry",
+   "script": "Our class and the class next door are great rivals in sport. Last year they won the football match, and we won the running race. Some students say the other class is our enemy, but our teacher disagrees. She says a rival makes us work harder. She also says it is easy to make enemies with unkind words, but hard to make friends again. So before each match, the two teams now shake hands. This year we hope to defeat them, but we will still be friends afterwards.",
+   "questions": [
+    {
+     "question": "What do the two classes compete in?",
+     "options": [
+      "Music",
+      "Cooking",
+      "Sport",
+      "Art"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the teacher say about rivals?",
+     "options": [
+      "They make us work harder",
+      "They are dangerous",
+      "They should stay away",
+      "They are always wrong"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do the teams do before each match?",
+     "options": [
+      "Sing a song",
+      "Draw a picture",
+      "Change shirts",
+      "Shake hands"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "He has no enemies.",
+    "They were old enemies.",
+    "Do not make enemies."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Enemy",
+    "question_text": "Do you think people can stop being enemies? How?",
+    "hint_words": [
+     "talk",
+     "forgive",
+     "understand",
+     "together"
+    ]
+   },
+   {
+    "topic": "Enemy",
+    "question_text": "What is a healthy way to compete with a rival?",
+    "hint_words": [
+     "fair",
+     "play",
+     "respect",
+     "shake hands"
+    ]
+   },
+   {
+    "topic": "Enemy",
+    "question_text": "Is it better to forgive and forget? Why?",
+    "hint_words": [
+     "better",
+     "peace",
+     "angry",
+     "friend"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 108,
+  "title": "marriage",
+  "vocabulary": [
+   {
+    "word": "get married",
+    "translation_uz": "turmush qurmoq",
+    "example_sentence": "They got married last summer."
+   },
+   {
+    "word": "get married to someone",
+    "translation_uz": "birov bilan turmush qurmoq",
+    "example_sentence": "She got married to a doctor."
+   },
+   {
+    "word": "marry someone",
+    "translation_uz": "birovga uylanmoq / turmushga chiqmoq",
+    "example_sentence": "He wants to marry his old friend."
+   },
+   {
+    "word": "a happy marriage",
+    "translation_uz": "baxtli nikoh",
+    "example_sentence": "My grandparents have a happy marriage."
+   },
+   {
+    "word": "a wedding ceremony",
+    "translation_uz": "to'y marosimi",
+    "example_sentence": "The wedding ceremony was held in a garden."
+   },
+   {
+    "word": "attend a wedding",
+    "translation_uz": "to'yda qatnashmoq",
+    "example_sentence": "We attended my cousin's wedding."
+   },
+   {
+    "word": "the bride and groom",
+    "translation_uz": "kelin va kuyov",
+    "example_sentence": "The bride and groom danced first."
+   },
+   {
+    "word": "a wedding ring",
+    "translation_uz": "nikoh uzugi",
+    "example_sentence": "He wears a gold wedding ring."
+   },
+   {
+    "word": "propose to someone",
+    "translation_uz": "turmush qurishni taklif qilmoq",
+    "example_sentence": "He proposed to her on a bridge."
+   },
+   {
+    "word": "be engaged to",
+    "translation_uz": "bilan unashtirilgan bo'lmoq",
+    "example_sentence": "She is engaged to a teacher."
+   },
+   {
+    "word": "a married couple",
+    "translation_uz": "turmush qurgan er-xotin",
+    "example_sentence": "The married couple moved to a new flat."
+   },
+   {
+    "word": "celebrate an anniversary",
+    "translation_uz": "yubileyni nishonlamoq",
+    "example_sentence": "Our parents celebrate their wedding anniversary every June."
+   },
+   {
+    "word": "husband / wife / spouse",
+    "translation_uz": "er / xotin / turmush o'rtog'i",
+    "example_sentence": "Her husband works in a bank."
+   },
+   {
+    "word": "on honeymoon",
+    "translation_uz": "asal oyida",
+    "example_sentence": "The couple went on honeymoon to the sea."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My cousin is going to get ___ next month.",
+    "correct_word": "married",
+    "options": [
+     "marry",
+     "wedding",
+     "married",
+     "marrying"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is engaged ___ a girl from his village.",
+    "correct_word": "to",
+    "options": [
+     "with",
+     "for",
+     "at",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many relatives ___ the wedding and wished the couple luck.",
+    "correct_word": "attended",
+    "options": [
+     "attended",
+     "entered",
+     "passed",
+     "held"
+    ]
+   },
+   {
+    "sentence_with_blank": "He knelt down and ___ to her on the beach.",
+    "correct_word": "proposed",
+    "options": [
+     "asked",
+     "proposed",
+     "offered",
+     "invited"
+    ]
+   },
+   {
+    "sentence_with_blank": "They have had a very happy ___ for thirty years.",
+    "correct_word": "marriage",
+    "options": [
+     "married",
+     "wedding",
+     "marriage",
+     "marrying"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the wedding, the couple went on ___ to the mountains.",
+    "correct_word": "honeymoon",
+    "options": [
+     "engagement",
+     "ceremony",
+     "anniversary",
+     "honeymoon"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Village Wedding",
+   "text": "Last Saturday, my cousin Nodir got married to a girl called Dilfuza. They had been engaged for six months. The wedding ceremony took place in our village, and more than two hundred guests attended. The bride wore a beautiful white dress, and the groom wore a dark suit and a wedding ring. There was music, dancing and a lot of delicious food. Everyone wished the married couple a long and happy marriage. After the wedding, they went on honeymoon to the lake for a week.",
+   "key_words": [
+    {
+     "word": "engaged",
+     "translation_uz": "unashtirilgan"
+    },
+    {
+     "word": "wedding ceremony",
+     "translation_uz": "to'y marosimi"
+    },
+    {
+     "word": "honeymoon",
+     "translation_uz": "asal oyi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long were Nodir and Dilfuza engaged?",
+     "options": [
+      "One year",
+      "Two weeks",
+      "Six months",
+      "Three years"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did the ceremony take place?",
+     "options": [
+      "In the village",
+      "In a hotel",
+      "On a boat",
+      "In another country"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the couple go after the wedding?",
+     "options": [
+      "To the mountains",
+      "To the capital",
+      "To the desert",
+      "To a lake"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "An Anniversary",
+   "script": "Girl: Dad, tell me how you met Mum. Dad: We met at university. I proposed to her three years later, and she said yes. Girl: And then you got married? Dad: Yes, in the spring. We had a small ceremony with our families. Girl: Today is your wedding anniversary, right? Dad: Correct, twenty years. We are going to celebrate with a family dinner. Girl: I made a card for you both. Dad: Thank you. It will make her very happy.",
+   "questions": [
+    {
+     "question": "Where did the parents meet?",
+     "options": [
+      "At work",
+      "At university",
+      "On a train",
+      "At a wedding"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When did Dad propose?",
+     "options": [
+      "The next day",
+      "Three years later",
+      "Ten years later",
+      "On the first day"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How many years of marriage are they celebrating?",
+     "options": [
+      "Ten",
+      "Thirty",
+      "Twenty",
+      "Fifteen"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "They got married in spring.",
+    "He proposed to her.",
+    "The bride wore white."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Marriage",
+    "question_text": "What is a traditional wedding like in your country?",
+    "hint_words": [
+     "guests",
+     "food",
+     "music",
+     "family"
+    ]
+   },
+   {
+    "topic": "Marriage",
+    "question_text": "At what age do people usually get married in your country?",
+    "hint_words": [
+     "usually",
+     "twenties",
+     "get married",
+     "later"
+    ]
+   },
+   {
+    "topic": "Marriage",
+    "question_text": "What makes a marriage happy?",
+    "hint_words": [
+     "respect",
+     "love",
+     "talk",
+     "together"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 109,
+  "title": "divorce",
+  "vocabulary": [
+   {
+    "word": "get a divorce",
+    "translation_uz": "ajrashmoq",
+    "example_sentence": "They decided to get a divorce."
+   },
+   {
+    "word": "get divorced",
+    "translation_uz": "ajrashib ketmoq",
+    "example_sentence": "Her parents got divorced when she was ten."
+   },
+   {
+    "word": "be divorced",
+    "translation_uz": "ajrashgan bo'lmoq",
+    "example_sentence": "My aunt is divorced and lives with her son."
+   },
+   {
+    "word": "divorce someone",
+    "translation_uz": "birov bilan ajrashmoq",
+    "example_sentence": "He divorced his wife after many years."
+   },
+   {
+    "word": "file for divorce",
+    "translation_uz": "ajrashish uchun ariza bermoq",
+    "example_sentence": "She filed for divorce last month."
+   },
+   {
+    "word": "a divorced couple",
+    "translation_uz": "ajrashgan er-xotin",
+    "example_sentence": "The divorced couple still work together as parents."
+   },
+   {
+    "word": "separate / separation",
+    "translation_uz": "ajralmoq / ajralish",
+    "example_sentence": "They separated for a year before the divorce."
+   },
+   {
+    "word": "the divorce rate",
+    "translation_uz": "ajrashish ko'rsatkichi",
+    "example_sentence": "The divorce rate is lower in some countries."
+   },
+   {
+    "word": "a single parent",
+    "translation_uz": "yolg'iz ota yoki ona",
+    "example_sentence": "Her mother is a single parent."
+   },
+   {
+    "word": "share custody of the children",
+    "translation_uz": "bolalar ustidan birgalikda vasiylik qilmoq",
+    "example_sentence": "The parents share custody of the children."
+   },
+   {
+    "word": "live apart",
+    "translation_uz": "alohida yashamoq",
+    "example_sentence": "Her parents live apart but stay friendly."
+   },
+   {
+    "word": "an unhappy marriage",
+    "translation_uz": "baxtsiz nikoh",
+    "example_sentence": "Some people stay in an unhappy marriage too long."
+   },
+   {
+    "word": "an ex-husband / ex-wife",
+    "translation_uz": "sobiq er / sobiq xotin",
+    "example_sentence": "He speaks politely to his ex-wife."
+   },
+   {
+    "word": "cope with a change",
+    "translation_uz": "o'zgarishga ko'nikmoq",
+    "example_sentence": "Children need time to cope with such a change."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Her parents decided to get a ___ last year.",
+    "correct_word": "divorce",
+    "options": [
+     "divorced",
+     "divorcing",
+     "divide",
+     "divorce"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle got ___ ten years ago and now lives alone.",
+    "correct_word": "divorced",
+    "options": [
+     "divorced",
+     "divorce",
+     "divorcing",
+     "divide"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the divorce, the parents live ___ but see the children often.",
+    "correct_word": "apart",
+    "options": [
+     "together",
+     "apart",
+     "back",
+     "aside"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her mother is a single ___ and works two jobs.",
+    "correct_word": "parent",
+    "options": [
+     "couple",
+     "child",
+     "parent",
+     "member"
+    ]
+   },
+   {
+    "sentence_with_blank": "The couple decided to ___ for a divorce after talking to a lawyer.",
+    "correct_word": "file",
+    "options": [
+     "fill",
+     "take",
+     "put",
+     "file"
+    ]
+   },
+   {
+    "sentence_with_blank": "Children often need time to ___ with this big change.",
+    "correct_word": "cope",
+    "options": [
+     "cope",
+     "play",
+     "fight",
+     "fill"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "When Parents Separate",
+   "text": "Last year, Emma's parents decided to get a divorce. At first, Emma felt sad and confused. Her mother and father lived apart, and Emma stayed with her mother during the week. They share custody of the children, so Emma spends weekends with her father. Her teacher spoke to her kindly, and her friends listened to her. After a few months, Emma started to cope with the change. She says that her parents are not a couple any more, but they are still her parents, and they love her.",
+   "key_words": [
+    {
+     "word": "get a divorce",
+     "translation_uz": "ajrashmoq"
+    },
+    {
+     "word": "live apart",
+     "translation_uz": "alohida yashamoq"
+    },
+    {
+     "word": "cope with",
+     "translation_uz": "ko'nikmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who does Emma stay with during the week?",
+     "options": [
+      "Her father",
+      "Her aunt",
+      "Her teacher",
+      "Her mother"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How did Emma feel at first?",
+     "options": [
+      "Angry at school",
+      "Sad and confused",
+      "Very happy",
+      "Bored"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Emma say at the end?",
+     "options": [
+      "She will live alone",
+      "Her parents are enemies",
+      "Her parents still love her",
+      "She has no friends"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talk with a Counsellor",
+   "script": "Counsellor: Hello, Sam. I understand your parents are getting a divorce. Sam: Yes, they separated two months ago. Counsellor: How do you feel about it? Sam: Sometimes sad, sometimes fine. Counsellor: That is normal. It is not your fault. Many children cope well after some time. Sam: My dad lives in a flat near us. Counsellor: Good. You can see both parents. Talk to someone you trust when you feel worried. Sam: I will talk to my grandmother. She always listens to me.",
+   "questions": [
+    {
+     "question": "When did Sam's parents separate?",
+     "options": [
+      "Two months ago",
+      "Two years ago",
+      "Last week",
+      "Ten days ago"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the counsellor say about the divorce?",
+     "options": [
+      "It is Sam's fault",
+      "It will never end",
+      "It is not Sam's fault",
+      "It is a secret"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who will Sam talk to?",
+     "options": [
+      "His teacher",
+      "His grandmother",
+      "His cousin",
+      "His neighbour"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "They got divorced last year.",
+    "My parents live apart.",
+    "She is a single parent."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Divorce",
+    "question_text": "Why is it important to be kind to a friend whose parents have divorced?",
+    "hint_words": [
+     "kind",
+     "listen",
+     "friend",
+     "not ask"
+    ]
+   },
+   {
+    "topic": "Divorce",
+    "question_text": "Who can children talk to when their family changes?",
+    "hint_words": [
+     "parent",
+     "teacher",
+     "grandparent",
+     "counsellor"
+    ]
+   },
+   {
+    "topic": "Divorce",
+    "question_text": "What can parents do to help their children after a divorce?",
+    "hint_words": [
+     "talk",
+     "explain",
+     "love",
+     "support"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 110,
+  "title": "love",
+  "vocabulary": [
+   {
+    "word": "fall in love with",
+    "translation_uz": "sevib qolmoq",
+    "example_sentence": "He fell in love with her at first sight."
+   },
+   {
+    "word": "be in love with",
+    "translation_uz": "sevgida bo'lmoq",
+    "example_sentence": "She is in love with a boy from her class."
+   },
+   {
+    "word": "love at first sight",
+    "translation_uz": "birinchi ko'rishdagi sevgi",
+    "example_sentence": "In the film, it was love at first sight."
+   },
+   {
+    "word": "a love story",
+    "translation_uz": "sevgi hikoyasi",
+    "example_sentence": "I read a beautiful love story."
+   },
+   {
+    "word": "a love letter",
+    "translation_uz": "sevgi maktubi",
+    "example_sentence": "He wrote her a long love letter."
+   },
+   {
+    "word": "send / give your love",
+    "translation_uz": "salom yo'llamoq, mehr izhor qilmoq",
+    "example_sentence": "Please give my love to your grandmother."
+   },
+   {
+    "word": "with love",
+    "translation_uz": "mehr bilan (xat oxirida)",
+    "example_sentence": "Write \"With love\" at the end of the card."
+   },
+   {
+    "word": "love someone dearly",
+    "translation_uz": "birovni juda yaxshi ko'rmoq",
+    "example_sentence": "She loves her little brother dearly."
+   },
+   {
+    "word": "love doing something",
+    "translation_uz": "biror ishni yaxshi ko'rmoq",
+    "example_sentence": "I love swimming in the sea."
+   },
+   {
+    "word": "a love of something",
+    "translation_uz": "biror narsaga muhabbat",
+    "example_sentence": "He has a love of music."
+   },
+   {
+    "word": "lovely / lovable",
+    "translation_uz": "yoqimli / sevimli",
+    "example_sentence": "What a lovely garden!"
+   },
+   {
+    "word": "a loving family",
+    "translation_uz": "mehribon oila",
+    "example_sentence": "They grew up in a loving family."
+   },
+   {
+    "word": "fall out of love",
+    "translation_uz": "sevgisi so'nmoq",
+    "example_sentence": "Sadly, they fell out of love."
+   },
+   {
+    "word": "parental / brotherly love",
+    "translation_uz": "ota-ona / birodarlik mehri",
+    "example_sentence": "Parental love gives children confidence."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He fell ___ love with her on the first day of school.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister is deeply ___ love with a boy from her class.",
+    "correct_word": "in",
+    "options": [
+     "with",
+     "in",
+     "of",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was love at first ___ for them.",
+    "correct_word": "sight",
+    "options": [
+     "look",
+     "time",
+     "sight",
+     "meet"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please give my ___ to your parents.",
+    "correct_word": "love",
+    "options": [
+     "like",
+     "kiss",
+     "wish",
+     "love"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has a great ___ of music and plays the violin every day.",
+    "correct_word": "love",
+    "options": [
+     "love",
+     "like",
+     "lover",
+     "loving"
+    ]
+   },
+   {
+    "sentence_with_blank": "They grew up in a very ___ family.",
+    "correct_word": "loving",
+    "options": [
+     "lovely",
+     "loving",
+     "loved",
+     "lover"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Loving Family",
+   "text": "I grew up in a loving family. My mother loves cooking, and my father has a great love of old books. When I was small, my grandparents told me love stories from their village. My grandfather says he fell in love with my grandmother at first sight, at a wedding. He wrote her a long love letter, and she kept it for many years. At the end of every phone call, my grandmother says, \"Give my love to everyone.\" I think a family with love is the best home for a child.",
+   "key_words": [
+    {
+     "word": "love at first sight",
+     "translation_uz": "birinchi ko'rishdagi sevgi"
+    },
+    {
+     "word": "love letter",
+     "translation_uz": "sevgi maktubi"
+    },
+    {
+     "word": "give my love",
+     "translation_uz": "salom yo'llamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the writer's father love?",
+     "options": [
+      "Old books",
+      "Football",
+      "Travelling",
+      "Fishing"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the grandfather meet the grandmother?",
+     "options": [
+      "At school",
+      "At the market",
+      "At a wedding",
+      "On a bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the grandmother say on the phone?",
+     "options": [
+      "Come home soon",
+      "Give my love to everyone",
+      "Eat more bread",
+      "Call me tomorrow"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Writing a Card",
+   "script": "Lisa: I want to write a card for Grandma's birthday. Dad: Good idea. What will you write? Lisa: Happy birthday, Grandma, and thank you for everything. Dad: Add something warm at the end. Lisa: Like \"With love\"? Dad: Perfect. And you can send her your love from the whole family. Lisa: I love her stories. Maybe I will say that too. Dad: She will be delighted. She has a great love of children and flowers, so we can add a flower to the card.",
+   "questions": [
+    {
+     "question": "What is Lisa writing?",
+     "options": [
+      "A shopping list",
+      "A school essay",
+      "A letter to a friend",
+      "A birthday card"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How does Dad suggest ending the card?",
+     "options": [
+      "Goodbye",
+      "See you",
+      "Best wishes only",
+      "With love"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Grandma love?",
+     "options": [
+      "Children and flowers",
+      "Cars and trains",
+      "Football",
+      "Computers"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He fell in love.",
+    "I love swimming.",
+    "She wrote a love letter."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Love",
+    "question_text": "What do you love doing in your free time?",
+    "hint_words": [
+     "love",
+     "playing",
+     "reading",
+     "with friends"
+    ]
+   },
+   {
+    "topic": "Love",
+    "question_text": "Do you believe in love at first sight?",
+    "hint_words": [
+     "believe",
+     "maybe",
+     "film",
+     "real life"
+    ]
+   },
+   {
+    "topic": "Love",
+    "question_text": "How do you show love to your family?",
+    "hint_words": [
+     "help",
+     "hug",
+     "gift",
+     "say"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 111,
+  "title": "respect",
+  "vocabulary": [
+   {
+    "word": "show respect for",
+    "translation_uz": "hurmat ko'rsatmoq",
+    "example_sentence": "Show respect for your teachers."
+   },
+   {
+    "word": "have respect for",
+    "translation_uz": "hurmat qilmoq",
+    "example_sentence": "I have great respect for my grandfather."
+   },
+   {
+    "word": "earn someone's respect",
+    "translation_uz": "birovning hurmatini qozonmoq",
+    "example_sentence": "He earned the respect of his team."
+   },
+   {
+    "word": "lose respect for",
+    "translation_uz": "hurmatini yo'qotmoq",
+    "example_sentence": "I lost respect for him after he lied."
+   },
+   {
+    "word": "treat someone with respect",
+    "translation_uz": "hurmat bilan munosabatda bo'lmoq",
+    "example_sentence": "Treat everyone with respect."
+   },
+   {
+    "word": "mutual respect",
+    "translation_uz": "o'zaro hurmat",
+    "example_sentence": "Good friendships are built on mutual respect."
+   },
+   {
+    "word": "respect someone's opinion",
+    "translation_uz": "birovning fikrini hurmat qilmoq",
+    "example_sentence": "I respect your opinion, but I disagree."
+   },
+   {
+    "word": "respect the rules",
+    "translation_uz": "qoidalarni hurmat qilmoq",
+    "example_sentence": "Please respect the rules of the library."
+   },
+   {
+    "word": "self-respect",
+    "translation_uz": "o'zini hurmat qilish",
+    "example_sentence": "Honest work gives you self-respect."
+   },
+   {
+    "word": "respected / respectful",
+    "translation_uz": "hurmatli / hurmatga sazovor",
+    "example_sentence": "He is a respected doctor."
+   },
+   {
+    "word": "with all due respect",
+    "translation_uz": "hurmat bilan aytganda",
+    "example_sentence": "With all due respect, I think you are wrong."
+   },
+   {
+    "word": "in some / many respects",
+    "translation_uz": "ba'zi jihatlardan",
+    "example_sentence": "In many respects, the two cities are alike."
+   },
+   {
+    "word": "pay your respects",
+    "translation_uz": "hurmat bajo keltirmoq",
+    "example_sentence": "They paid their respects at the memorial."
+   },
+   {
+    "word": "respectable / disrespectful",
+    "translation_uz": "obro'li / hurmatsiz",
+    "example_sentence": "It is disrespectful to laugh at old people."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Students should show ___ for their teachers.",
+    "correct_word": "respect",
+    "options": [
+     "respected",
+     "respect",
+     "respectful",
+     "respecting"
+    ]
+   },
+   {
+    "sentence_with_blank": "He earned the ___ of everyone by working hard and telling the truth.",
+    "correct_word": "respect",
+    "options": [
+     "love",
+     "thank",
+     "respect",
+     "favour"
+    ]
+   },
+   {
+    "sentence_with_blank": "Good friendships are built on mutual ___.",
+    "correct_word": "respect",
+    "options": [
+     "respected",
+     "respectful",
+     "respecting",
+     "respect"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the rules of the swimming pool.",
+    "correct_word": "respect",
+    "options": [
+     "respect",
+     "lose",
+     "miss",
+     "pass"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is ___ to interrupt older people when they speak.",
+    "correct_word": "disrespectful",
+    "options": [
+     "respected",
+     "disrespectful",
+     "respectful",
+     "respectable"
+    ]
+   },
+   {
+    "sentence_with_blank": "I do not agree, but I ___ your opinion.",
+    "correct_word": "respect",
+    "options": [
+     "lose",
+     "miss",
+     "respect",
+     "hide"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Respect at School",
+   "text": "Our school has a simple rule: show respect for everyone. We treat teachers, cleaners and classmates with respect. If a student speaks in a rude way, he has to say sorry. Our head teacher says respect must be earned, but it should also be given. When we disagree, we respect each other's opinions and listen carefully. In many respects, this rule makes our school a calm place. I have great respect for our history teacher, because he is patient and fair. I hope every school will have such a rule.",
+   "key_words": [
+    {
+     "word": "treat with respect",
+     "translation_uz": "hurmat bilan munosabatda bo'lmoq"
+    },
+    {
+     "word": "earn respect",
+     "translation_uz": "hurmat qozonmoq"
+    },
+    {
+     "word": "opinion",
+     "translation_uz": "fikr"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is the main rule at the school?",
+     "options": [
+      "Wear a uniform",
+      "Show respect for everyone",
+      "Never talk",
+      "Arrive early"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What must a rude student do?",
+     "options": [
+      "Leave school",
+      "Clean the room",
+      "Write a letter",
+      "Say sorry"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why does the writer respect the history teacher?",
+     "options": [
+      "He is patient and fair",
+      "He is funny",
+      "He is young",
+      "He gives easy tests"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Polite Talk",
+   "script": "Anya: Did you hear how Mark spoke to the bus driver? Tim: Yes, it was very disrespectful. Anya: I lost respect for him a little. Tim: Me too. But maybe he was having a bad day. Anya: Still, we should treat everyone with respect. Tim: My father says respect is a two-way street. If you show it, you get it. Anya: That is true. Let us talk to Mark after school. Tim: Good plan. We will be calm and kind.",
+   "questions": [
+    {
+     "question": "What did Mark do?",
+     "options": [
+      "He lost his ticket",
+      "He helped an old man",
+      "He was rude to the bus driver",
+      "He was late"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Tim's father say?",
+     "options": [
+      "Respect is a two-way street",
+      "Respect is old-fashioned",
+      "Respect is easy to buy",
+      "Respect is not needed"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will Anya and Tim do after school?",
+     "options": [
+      "Call the driver",
+      "Go to the library",
+      "Play football",
+      "Talk to Mark"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Show respect for others.",
+    "I respect your opinion.",
+    "Treat people with respect."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Respect",
+    "question_text": "How do you show respect to older people?",
+    "hint_words": [
+     "listen",
+     "polite",
+     "help",
+     "greet"
+    ]
+   },
+   {
+    "topic": "Respect",
+    "question_text": "What rules should everyone respect at school?",
+    "hint_words": [
+     "rules",
+     "quiet",
+     "listen",
+     "on time"
+    ]
+   },
+   {
+    "topic": "Respect",
+    "question_text": "Who do you have great respect for? Why?",
+    "hint_words": [
+     "respect",
+     "because",
+     "helped",
+     "honest"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 112,
+  "title": "family",
+  "vocabulary": [
+   {
+    "word": "a close family",
+    "translation_uz": "jips oila",
+    "example_sentence": "They are a close family."
+   },
+   {
+    "word": "a big / small family",
+    "translation_uz": "katta / kichik oila",
+    "example_sentence": "I come from a big family."
+   },
+   {
+    "word": "the immediate family",
+    "translation_uz": "yaqin qarindoshlar",
+    "example_sentence": "Only the immediate family came to dinner."
+   },
+   {
+    "word": "an extended family",
+    "translation_uz": "katta urug'-aymoq",
+    "example_sentence": "An extended family lives in one house."
+   },
+   {
+    "word": "start a family",
+    "translation_uz": "oila qurmoq, farzand ko'rmoq",
+    "example_sentence": "They want to start a family soon."
+   },
+   {
+    "word": "bring up children",
+    "translation_uz": "bolalarni tarbiyalamoq",
+    "example_sentence": "She brought up three children alone."
+   },
+   {
+    "word": "run in the family",
+    "translation_uz": "oilaviy xususiyat bo'lmoq",
+    "example_sentence": "Music runs in the family."
+   },
+   {
+    "word": "a family tree",
+    "translation_uz": "shajara",
+    "example_sentence": "We drew our family tree for homework."
+   },
+   {
+    "word": "a family member",
+    "translation_uz": "oila a'zosi",
+    "example_sentence": "Each family member helps at home."
+   },
+   {
+    "word": "family life / family values",
+    "translation_uz": "oilaviy hayot / oilaviy qadriyatlar",
+    "example_sentence": "He talks a lot about family values."
+   },
+   {
+    "word": "get together as a family",
+    "translation_uz": "oila bo'lib yig'ilmoq",
+    "example_sentence": "We get together every Friday for dinner."
+   },
+   {
+    "word": "relatives / distant relative",
+    "translation_uz": "qarindoshlar / uzoq qarindosh",
+    "example_sentence": "A distant relative lives in Samarkand."
+   },
+   {
+    "word": "look after the family",
+    "translation_uz": "oilaga qaramoq",
+    "example_sentence": "He works hard to look after his family."
+   },
+   {
+    "word": "take after",
+    "translation_uz": "o'xshab ketmoq",
+    "example_sentence": "I take after my father in many ways."
+   },
+   {
+    "word": "have a lot in common",
+    "translation_uz": "ko'p umumiy jihatga ega bo'lmoq",
+    "example_sentence": "My sister and I have a lot in common."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I come from a big ___ with four brothers and two sisters.",
+    "correct_word": "family",
+    "options": [
+     "families",
+     "familiar",
+     "family",
+     "familial"
+    ]
+   },
+   {
+    "sentence_with_blank": "Musical talent seems to run ___ the family.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "at",
+     "by",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "They want to start a ___ after they buy their own flat.",
+    "correct_word": "family",
+    "options": [
+     "family",
+     "house",
+     "couple",
+     "school"
+    ]
+   },
+   {
+    "sentence_with_blank": "My parents ___ up three children in a small village.",
+    "correct_word": "brought",
+    "options": [
+     "took",
+     "brought",
+     "grew",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our ___ tree goes back more than a hundred years.",
+    "correct_word": "family",
+    "options": [
+     "tribe",
+     "house",
+     "family",
+     "relative"
+    ]
+   },
+   {
+    "sentence_with_blank": "On Fridays the whole family gets ___ for dinner.",
+    "correct_word": "together",
+    "options": [
+     "along",
+     "across",
+     "over",
+     "together"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Big Family",
+   "text": "I come from a big, close family. Besides my parents and two sisters, my grandparents live with us, so we are an extended family. On Fridays, we all get together for dinner, and relatives often visit. Music runs in the family: my grandfather plays the dutar, and I take after him. Last month, we made a family tree for a school project. I learned about distant relatives I had never met. My mother says family life is not always easy, but our family values are respect and love. I feel lucky.",
+   "key_words": [
+    {
+     "word": "extended family",
+     "translation_uz": "katta oila"
+    },
+    {
+     "word": "run in the family",
+     "translation_uz": "oilaviy xususiyat bo'lmoq"
+    },
+    {
+     "word": "family tree",
+     "translation_uz": "shajara"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who lives with the writer's family?",
+     "options": [
+      "An uncle",
+      "A cousin",
+      "The grandparents",
+      "A neighbour"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What runs in the family?",
+     "options": [
+      "Music",
+      "Football",
+      "Cooking",
+      "Painting"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the writer make for a school project?",
+     "options": [
+      "A map",
+      "A poster of animals",
+      "A video",
+      "A family tree"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Family Photo",
+   "script": "Teacher: Please tell us about the family in your photo. Boy: This is my immediate family: my mum, dad and my little sister. And here are my grandparents and my uncle. Teacher: You look a lot like your father. Boy: Yes, everyone says I take after him. My sister and I have a lot in common, too. We both love drawing. Teacher: Do you spend time together as a family? Boy: Yes, we get together every Sunday. My mother cooks and we play board games.",
+   "questions": [
+    {
+     "question": "Who is in the immediate family?",
+     "options": [
+      "Grandparents only",
+      "Mum, dad and a little sister",
+      "An aunt and uncle",
+      "Two brothers"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who does the boy take after?",
+     "options": [
+      "His uncle",
+      "His father",
+      "His grandmother",
+      "His teacher"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the family do on Sundays?",
+     "options": [
+      "Visit the zoo",
+      "Go shopping",
+      "Get together and play board games",
+      "Watch TV alone"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I come from a big family.",
+    "He takes after his father.",
+    "We drew a family tree."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Family",
+    "question_text": "Tell me about your family.",
+    "hint_words": [
+     "mother",
+     "father",
+     "brother",
+     "sister"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "What does your family do together at weekends?",
+    "hint_words": [
+     "weekend",
+     "cook",
+     "visit",
+     "watch"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "Who do you take after in your family?",
+    "hint_words": [
+     "take after",
+     "looks",
+     "character",
+     "father"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1759 @@
+[
+ {
+  "unit": 30,
+  "title": "job",
+  "vocabulary": [
+   {
+    "word": "apply for a job",
+    "translation_uz": "ishga ariza bermoq",
+    "example_sentence": "She applied for a job at the new bookshop."
+   },
+   {
+    "word": "get a job",
+    "translation_uz": "ish topmoq",
+    "example_sentence": "It was hard to get a job right after school."
+   },
+   {
+    "word": "lose your job",
+    "translation_uz": "ishdan ayrilmoq",
+    "example_sentence": "Many people lost their jobs when the factory closed."
+   },
+   {
+    "word": "quit a job",
+    "translation_uz": "ishdan ketmoq (o'z xohishi bilan)",
+    "example_sentence": "He quit his job to start his own business."
+   },
+   {
+    "word": "offer someone a job",
+    "translation_uz": "kimgadir ish taklif qilmoq",
+    "example_sentence": "The company offered her a job in the marketing team."
+   },
+   {
+    "word": "a full-time job",
+    "translation_uz": "to'liq stavkadagi ish",
+    "example_sentence": "My aunt has a full-time job at a hospital."
+   },
+   {
+    "word": "a part-time job",
+    "translation_uz": "yarim stavkadagi ish",
+    "example_sentence": "Many students have a part-time job in the evenings."
+   },
+   {
+    "word": "a well-paid job",
+    "translation_uz": "yaxshi haq to'lanadigan ish",
+    "example_sentence": "A well-paid job does not always make you happy."
+   },
+   {
+    "word": "do a good job",
+    "translation_uz": "ishni yaxshi bajarmoq",
+    "example_sentence": "The team did a good job on the website."
+   },
+   {
+    "word": "job satisfaction",
+    "translation_uz": "ishdan qoniqish",
+    "example_sentence": "Job satisfaction is more important to her than money."
+   },
+   {
+    "word": "a job vacancy",
+    "translation_uz": "bo'sh ish o'rni",
+    "example_sentence": "There is a job vacancy at the library."
+   },
+   {
+    "word": "be out of work",
+    "translation_uz": "ishsiz qolmoq",
+    "example_sentence": "He has been out of work since March."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She wrote a long letter to ___ for a job at the museum.",
+    "correct_word": "apply",
+    "options": [
+     "get",
+     "apply",
+     "offer",
+     "wait"
+    ]
+   },
+   {
+    "sentence_with_blank": "After ten years in the same office, he decided to ___ his job.",
+    "correct_word": "quit",
+    "options": [
+     "miss",
+     "catch",
+     "quit",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "The manager said the new assistant had done a very good ___.",
+    "correct_word": "job",
+    "options": [
+     "work",
+     "task",
+     "duty",
+     "job"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom works part-time, so he only has a ___ job.",
+    "correct_word": "part-time",
+    "options": [
+     "part-time",
+     "full-time",
+     "well-paid",
+     "dream"
+    ]
+   },
+   {
+    "sentence_with_blank": "The firm wants to ___ me a job in its London office.",
+    "correct_word": "offer",
+    "options": [
+     "show",
+     "offer",
+     "tell",
+     "lend"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many workers were ___ of work after the factory closed down.",
+    "correct_word": "out",
+    "options": [
+     "under",
+     "away",
+     "out",
+     "free"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Job at the Café",
+   "text": "Last spring my older sister Dilya applied for a job at a small café near our house. She wrote a short letter and went to an interview the next day. The owner liked her and offered her a part-time job on weekends. It is not a well-paid job, but she says she enjoys it. She does a good job, and customers often thank her for her smile. Her friend Aziz lost his job at a shop, so he is looking for a new one now. Dilya told him about a job vacancy at the café, and he has already sent his letter.",
+   "key_words": [
+    {
+     "word": "interview",
+     "translation_uz": "suhbat, intervyu"
+    },
+    {
+     "word": "customer",
+     "translation_uz": "mijoz"
+    },
+    {
+     "word": "owner",
+     "translation_uz": "egasi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did Dilya get the job?",
+     "options": [
+      "She wrote a letter and went to an interview",
+      "A friend gave it to her",
+      "She answered an advert on TV",
+      "Her father is the owner"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When does Dilya work?",
+     "options": [
+      "Every evening",
+      "On weekends",
+      "Only in summer",
+      "Five days a week"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why is Aziz looking for a new job?",
+     "options": [
+      "He quit to travel",
+      "He wants to study",
+      "He lost his job at a shop",
+      "He has moved house"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Job News",
+   "script": "Maria: Have you heard? Karim has found a new job! Ben: Really? I thought he lost his job in the autumn. Maria: He did, and he was out of work for four months. Then he saw a job vacancy at the town library and applied for it. Ben: Is it a full-time job? Maria: No, it is part-time, three days a week. The pay is not great, but he says the people are kind and he is happy with it.",
+   "questions": [
+    {
+     "question": "How long was Karim out of work?",
+     "options": [
+      "Two weeks",
+      "One year",
+      "Six months",
+      "Four months"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where is Karim's new job?",
+     "options": [
+      "At the town library",
+      "At a school",
+      "In a café",
+      "At a bank"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How many days a week does he work?",
+     "options": [
+      "Five",
+      "Three",
+      "Two",
+      "Four"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "She applied for a job.",
+    "He lost his job in May.",
+    "It is a part-time job."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Jobs",
+    "question_text": "Have you ever had a part-time job? What did you do?",
+    "hint_words": [
+     "part-time",
+     "work",
+     "money",
+     "weekend"
+    ]
+   },
+   {
+    "topic": "Jobs",
+    "question_text": "What is more important to you: a well-paid job or job satisfaction?",
+    "hint_words": [
+     "important",
+     "money",
+     "happy",
+     "because"
+    ]
+   },
+   {
+    "topic": "Jobs",
+    "question_text": "What kind of job would you like to get in the future?",
+    "hint_words": [
+     "I would like",
+     "job",
+     "because",
+     "future"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 31,
+  "title": "career",
+  "vocabulary": [
+   {
+    "word": "start a career",
+    "translation_uz": "karyerani boshlamoq",
+    "example_sentence": "She started her career as a young journalist."
+   },
+   {
+    "word": "have a successful career",
+    "translation_uz": "muvaffaqiyatli karyeraga ega bo'lmoq",
+    "example_sentence": "He had a successful career in banking."
+   },
+   {
+    "word": "pursue a career in",
+    "translation_uz": "... sohasida karyera qilmoq",
+    "example_sentence": "She wants to pursue a career in medicine."
+   },
+   {
+    "word": "a career change",
+    "translation_uz": "kasbni o'zgartirish",
+    "example_sentence": "At forty he decided on a career change."
+   },
+   {
+    "word": "a career path",
+    "translation_uz": "karyera yo'li",
+    "example_sentence": "Teaching can be a rewarding career path."
+   },
+   {
+    "word": "career prospects",
+    "translation_uz": "karyera istiqbollari",
+    "example_sentence": "Graduates with languages have good career prospects."
+   },
+   {
+    "word": "career advice",
+    "translation_uz": "karyera bo'yicha maslahat",
+    "example_sentence": "Our school gives career advice to older students."
+   },
+   {
+    "word": "a career in teaching",
+    "translation_uz": "o'qituvchilik sohasidagi karyera",
+    "example_sentence": "He is thinking about a career in teaching."
+   },
+   {
+    "word": "climb the career ladder",
+    "translation_uz": "karyera zinapoyasidan ko'tarilmoq",
+    "example_sentence": "It took her years to climb the career ladder."
+   },
+   {
+    "word": "a promising career",
+    "translation_uz": "umidli karyera",
+    "example_sentence": "The young footballer has a promising career."
+   },
+   {
+    "word": "be at the height of your career",
+    "translation_uz": "karyerasining cho'qqisida bo'lmoq",
+    "example_sentence": "The singer was at the height of her career in 1998."
+   },
+   {
+    "word": "a career break",
+    "translation_uz": "karyeradagi tanaffus",
+    "example_sentence": "She took a career break to look after her children."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He wants to ___ a career in engineering after university.",
+    "correct_word": "pursue",
+    "options": [
+     "chase",
+     "carry",
+     "pursue",
+     "spend"
+    ]
+   },
+   {
+    "sentence_with_blank": "At the age of 45 she made a big career ___ and became a nurse.",
+    "correct_word": "change",
+    "options": [
+     "exchange",
+     "turn",
+     "swap",
+     "change"
+    ]
+   },
+   {
+    "sentence_with_blank": "Young people with computer skills have excellent career ___.",
+    "correct_word": "prospects",
+    "options": [
+     "prospects",
+     "futures",
+     "hopes",
+     "plans"
+    ]
+   },
+   {
+    "sentence_with_blank": "The school gives ___ advice to students who are choosing subjects.",
+    "correct_word": "career",
+    "options": [
+     "study",
+     "career",
+     "health",
+     "travel"
+    ]
+   },
+   {
+    "sentence_with_blank": "She worked hard and slowly ___ the career ladder in the company.",
+    "correct_word": "climbed",
+    "options": [
+     "jumped",
+     "walked",
+     "climbed",
+     "crossed"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is a promising young actor with a bright ___ ahead.",
+    "correct_word": "career",
+    "options": [
+     "courses",
+     "careers",
+     "jobs",
+     "career"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Uncle's Career",
+   "text": "My uncle Rustam started his career as a bus driver twenty years ago. He worked hard and learned to repair engines too. Slowly he climbed the career ladder and became the manager of the whole depot. Last year he decided on a career change. He now teaches young people how to drive and keep cars safe. He says it is the most rewarding career path he has ever followed. The school gives students career advice, and my uncle often visits to talk about his work. Many students ask him about career prospects in transport.",
+   "key_words": [
+    {
+     "word": "depot",
+     "translation_uz": "avtopark"
+    },
+    {
+     "word": "rewarding",
+     "translation_uz": "mamnuniyat keltiradigan"
+    },
+    {
+     "word": "repair",
+     "translation_uz": "ta'mirlamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was Rustam's first job?",
+     "options": [
+      "Teacher",
+      "Bus driver",
+      "Engineer",
+      "Mechanic only"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did he do last year?",
+     "options": [
+      "Retired",
+      "Moved abroad",
+      "Changed his career",
+      "Bought a bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do students ask him about?",
+     "options": [
+      "Cars he sells",
+      "Holidays",
+      "Exam results",
+      "Career prospects in transport"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing a Path",
+   "script": "Teacher: So, Anna, what would you like to do after school? Anna: I would like to pursue a career in medicine, but I am not sure. Teacher: It is a long career path, but the prospects are very good. You could talk to our career adviser on Thursday. Anna: Thank you. My mother had a career break when I was born, and now she is a pharmacist. Teacher: Then she can give you advice too. Anna: Yes, I will ask her tonight.",
+   "questions": [
+    {
+     "question": "What career does Anna think about?",
+     "options": [
+      "Medicine",
+      "Law",
+      "Teaching",
+      "Banking"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When can Anna see the career adviser?",
+     "options": [
+      "On Monday",
+      "On Thursday",
+      "Tomorrow",
+      "Next month"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is Anna's mother's job now?",
+     "options": [
+      "Doctor",
+      "Teacher",
+      "Pharmacist",
+      "Nurse"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She started her career early.",
+    "He wants a career in teaching.",
+    "My career prospects are good."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Careers",
+    "question_text": "What career would you like to have? Why?",
+    "hint_words": [
+     "career",
+     "because",
+     "interesting",
+     "help"
+    ]
+   },
+   {
+    "topic": "Careers",
+    "question_text": "Do you know someone with a successful career? Describe it.",
+    "hint_words": [
+     "successful",
+     "started",
+     "worked",
+     "now"
+    ]
+   },
+   {
+    "topic": "Careers",
+    "question_text": "Is it a good idea to change your career later in life?",
+    "hint_words": [
+     "change",
+     "new",
+     "brave",
+     "why"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 32,
+  "title": "staff and duty",
+  "vocabulary": [
+   {
+    "word": "a member of staff",
+    "translation_uz": "xodim",
+    "example_sentence": "A member of staff will help you at the desk."
+   },
+   {
+    "word": "the teaching staff",
+    "translation_uz": "pedagogik jamoa",
+    "example_sentence": "The teaching staff meet every Monday morning."
+   },
+   {
+    "word": "be short of staff",
+    "translation_uz": "xodim yetishmaslik",
+    "example_sentence": "The hospital is short of staff this winter."
+   },
+   {
+    "word": "hire new staff",
+    "translation_uz": "yangi xodimlarni yollamoq",
+    "example_sentence": "The shop wants to hire new staff before the holidays."
+   },
+   {
+    "word": "a staff meeting",
+    "translation_uz": "xodimlar yig'ilishi",
+    "example_sentence": "There is a staff meeting at four o'clock."
+   },
+   {
+    "word": "be on duty",
+    "translation_uz": "navbatchilikda bo'lmoq",
+    "example_sentence": "Who is on duty at the weekend?"
+   },
+   {
+    "word": "be off duty",
+    "translation_uz": "navbatchilikdan bo'sh bo'lmoq",
+    "example_sentence": "The nurse was off duty and went home."
+   },
+   {
+    "word": "do your duty",
+    "translation_uz": "burchini bajarmoq",
+    "example_sentence": "Every citizen should do their duty."
+   },
+   {
+    "word": "have a duty to",
+    "translation_uz": "... majburiyati bo'lmoq",
+    "example_sentence": "Doctors have a duty to help patients."
+   },
+   {
+    "word": "a duty officer",
+    "translation_uz": "navbatchi xodim",
+    "example_sentence": "Please tell the duty officer about the problem."
+   },
+   {
+    "word": "take on extra duties",
+    "translation_uz": "qo'shimcha vazifalarni o'z zimmasiga olmoq",
+    "example_sentence": "She took on extra duties when her boss left."
+   },
+   {
+    "word": "night duty",
+    "translation_uz": "tungi navbatchilik",
+    "example_sentence": "My brother is on night duty at the station."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The manager asked every member of ___ to come to the meeting.",
+    "correct_word": "staff",
+    "options": [
+     "stuff",
+     "team",
+     "crowd",
+     "staff"
+    ]
+   },
+   {
+    "sentence_with_blank": "The restaurant is short of ___ because two cooks are ill.",
+    "correct_word": "staff",
+    "options": [
+     "staff",
+     "stock",
+     "stuff",
+     "food"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dr Lee finished at six, so she was ___ duty by seven.",
+    "correct_word": "off",
+    "options": [
+     "out",
+     "off",
+     "down",
+     "away"
+    ]
+   },
+   {
+    "sentence_with_blank": "Parents have a ___ to look after their children.",
+    "correct_word": "duty",
+    "options": [
+     "tax",
+     "favour",
+     "duty",
+     "habit"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ask the ___ officer if you need help in the evening.",
+    "correct_word": "duty",
+    "options": [
+     "work",
+     "service",
+     "office",
+     "duty"
+    ]
+   },
+   {
+    "sentence_with_blank": "The company plans to ___ new staff for the summer season.",
+    "correct_word": "hire",
+    "options": [
+     "hire",
+     "borrow",
+     "rent",
+     "lend"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Busy Hospital",
+   "text": "The city hospital is short of staff this month. Several members of staff are ill, and the managers want to hire new staff as soon as possible. Nurse Gulnora was on duty last night, and she did not go home until eight in the morning. Today she is off duty and wants to sleep. At the staff meeting, the head doctor thanked everyone for doing their duty in a difficult time. He also said that the duty officer will make a new timetable. Some nurses will take on extra duties for a few weeks.",
+   "key_words": [
+    {
+     "word": "timetable",
+     "translation_uz": "jadval"
+    },
+    {
+     "word": "difficult",
+     "translation_uz": "qiyin"
+    },
+    {
+     "word": "ill",
+     "translation_uz": "kasal"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why is the hospital short of staff?",
+     "options": [
+      "Many are on holiday",
+      "The hospital is closing",
+      "Several members of staff are ill",
+      "Nobody wants the job"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who was on duty last night?",
+     "options": [
+      "The head doctor",
+      "The duty officer",
+      "A new nurse",
+      "Gulnora"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who will make a new timetable?",
+     "options": [
+      "The duty officer",
+      "The head doctor",
+      "Gulnora",
+      "The managers"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Staff Meeting",
+   "script": "Boss: Good morning, everyone. First, we are short of staff in the kitchen, so we will hire two new cooks. Second, Peter will be on duty at the weekend instead of Sara. Sara: That is fine, I am off duty on Saturday anyway. Boss: Third, the teaching staff from the language school will visit us on Friday. Please be polite. And remember, it is our duty to keep the place clean. Thank you, that is all.",
+   "questions": [
+    {
+     "question": "How many cooks will the boss hire?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who is on duty at the weekend?",
+     "options": [
+      "Sara",
+      "The boss",
+      "Peter",
+      "A visitor"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When will the visitors come?",
+     "options": [
+      "On Saturday",
+      "On Monday",
+      "On Sunday",
+      "On Friday"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She is on duty tonight.",
+    "We are short of staff.",
+    "He did his duty well."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Work",
+    "question_text": "Have you ever been on duty at school? What did you do?",
+    "hint_words": [
+     "duty",
+     "clean",
+     "class",
+     "teacher"
+    ]
+   },
+   {
+    "topic": "Work",
+    "question_text": "Why is it hard when a place is short of staff?",
+    "hint_words": [
+     "busy",
+     "tired",
+     "customers",
+     "slow"
+    ]
+   },
+   {
+    "topic": "Work",
+    "question_text": "What duties do you have at home?",
+    "hint_words": [
+     "I have to",
+     "wash",
+     "help",
+     "every day"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 33,
+  "title": "qualification and interview",
+  "vocabulary": [
+   {
+    "word": "gain a qualification",
+    "translation_uz": "malaka olmoq",
+    "example_sentence": "She gained a qualification in nursing."
+   },
+   {
+    "word": "have the right qualifications",
+    "translation_uz": "kerakli malakaga ega bo'lmoq",
+    "example_sentence": "He has the right qualifications for the job."
+   },
+   {
+    "word": "a teaching qualification",
+    "translation_uz": "o'qituvchilik malakasi",
+    "example_sentence": "A teaching qualification is needed for this post."
+   },
+   {
+    "word": "be qualified for",
+    "translation_uz": "... uchun malakali bo'lmoq",
+    "example_sentence": "She is well qualified for the position."
+   },
+   {
+    "word": "qualify as a doctor",
+    "translation_uz": "shifokor malakasini olmoq",
+    "example_sentence": "It takes years to qualify as a doctor."
+   },
+   {
+    "word": "a job interview",
+    "translation_uz": "ish suhbati",
+    "example_sentence": "I have a job interview on Tuesday."
+   },
+   {
+    "word": "attend an interview",
+    "translation_uz": "suhbatga bormoq",
+    "example_sentence": "Six people attended an interview that day."
+   },
+   {
+    "word": "be called for an interview",
+    "translation_uz": "suhbatga chaqirilmoq",
+    "example_sentence": "He was called for an interview on Monday."
+   },
+   {
+    "word": "prepare for an interview",
+    "translation_uz": "suhbatga tayyorlanmoq",
+    "example_sentence": "Prepare for an interview by reading about the company."
+   },
+   {
+    "word": "perform well at an interview",
+    "translation_uz": "suhbatda yaxshi chiqish qilmoq",
+    "example_sentence": "She performed well at the interview and felt proud."
+   },
+   {
+    "word": "interview someone for a post",
+    "translation_uz": "kimnidir lavozim uchun suhbatdan o'tkazmoq",
+    "example_sentence": "They will interview ten people for the post."
+   },
+   {
+    "word": "an interviewer and an interviewee",
+    "translation_uz": "suhbat oluvchi va suhbatdosh (nomzod)",
+    "example_sentence": "The interviewer smiled at the nervous interviewee."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He has all the right ___ for the job, including a degree.",
+    "correct_word": "qualifications",
+    "options": [
+     "qualifications",
+     "qualify",
+     "qualified",
+     "qualifying"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was ___ for an interview after sending her CV.",
+    "correct_word": "called",
+    "options": [
+     "taken",
+     "called",
+     "held",
+     "made"
+    ]
+   },
+   {
+    "sentence_with_blank": "Before the interview, you should ___ by learning about the company.",
+    "correct_word": "prepare",
+    "options": [
+     "repeat",
+     "prefer",
+     "prepare",
+     "repair"
+    ]
+   },
+   {
+    "sentence_with_blank": "It takes about six years to ___ as a doctor.",
+    "correct_word": "qualify",
+    "options": [
+     "qualified",
+     "quality",
+     "qualifying",
+     "qualify"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ asked her three questions about her experience.",
+    "correct_word": "interviewer",
+    "options": [
+     "interviewer",
+     "interviewee",
+     "interviewed",
+     "interviewing"
+    ]
+   },
+   {
+    "sentence_with_blank": "He performed ___ at the interview and got the job.",
+    "correct_word": "well",
+    "options": [
+     "good",
+     "well",
+     "nice",
+     "best"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Ready for the Interview",
+   "text": "Last month Sanjar was called for an interview at a travel company. He has the right qualifications because he finished a course in tourism and speaks three languages. To prepare for the interview, he read about the company and practised answers with his sister. On the day, he arrived early and wore a clean white shirt. The interviewer asked about his experience and his plans. Sanjar felt nervous, but he performed well. Two days later, the company phoned and offered him the post.",
+   "key_words": [
+    {
+     "word": "experience",
+     "translation_uz": "tajriba"
+    },
+    {
+     "word": "nervous",
+     "translation_uz": "hayajonlangan"
+    },
+    {
+     "word": "post",
+     "translation_uz": "lavozim"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What qualification did Sanjar have?",
+     "options": [
+      "A teaching degree",
+      "A medical certificate",
+      "A driving licence",
+      "A course in tourism"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who helped Sanjar practise?",
+     "options": [
+      "His sister",
+      "His teacher",
+      "His father",
+      "A friend"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened two days later?",
+     "options": [
+      "He took another test",
+      "The company offered him the post",
+      "He was refused",
+      "He started a course"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Interview Tips",
+   "script": "Presenter: Today we have advice for job interviews. First, check that you have the right qualifications for the job. Next, prepare for the interview. Learn about the company and think of questions. On the day, arrive ten minutes early. During the interview, speak clearly and smile. Finally, if you do not get the post, do not be sad. Ask the interviewer how you can do better next time.",
+   "questions": [
+    {
+     "question": "When should you arrive?",
+     "options": [
+      "One hour early",
+      "On time exactly",
+      "Ten minutes early",
+      "Fifteen minutes late"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What should you learn about?",
+     "options": [
+      "The interviewer's family",
+      "The city",
+      "The salary only",
+      "The company"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What can you ask if you fail?",
+     "options": [
+      "How to do better",
+      "Who got the job",
+      "Why it was hard",
+      "When to come back"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I have a job interview tomorrow.",
+    "She is well qualified for it.",
+    "He prepared for the interview."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Interviews",
+    "question_text": "Have you ever had an interview? How did it feel?",
+    "hint_words": [
+     "nervous",
+     "questions",
+     "ready",
+     "felt"
+    ]
+   },
+   {
+    "topic": "Interviews",
+    "question_text": "What qualifications do you need for your dream job?",
+    "hint_words": [
+     "degree",
+     "course",
+     "skills",
+     "need"
+    ]
+   },
+   {
+    "topic": "Interviews",
+    "question_text": "How can a person prepare for an interview?",
+    "hint_words": [
+     "prepare",
+     "practise",
+     "early",
+     "research"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 34,
+  "title": "skill",
+  "vocabulary": [
+   {
+    "word": "learn a skill",
+    "translation_uz": "ko'nikma o'rganmoq",
+    "example_sentence": "You can learn a new skill at any age."
+   },
+   {
+    "word": "develop skills",
+    "translation_uz": "ko'nikmalarni rivojlantirmoq",
+    "example_sentence": "Reading helps you develop your language skills."
+   },
+   {
+    "word": "improve your skills",
+    "translation_uz": "ko'nikmalarni yaxshilamoq",
+    "example_sentence": "I want to improve my computer skills."
+   },
+   {
+    "word": "have good communication skills",
+    "translation_uz": "yaxshi muloqot ko'nikmalariga ega bo'lmoq",
+    "example_sentence": "A guide must have good communication skills."
+   },
+   {
+    "word": "a practical skill",
+    "translation_uz": "amaliy ko'nikma",
+    "example_sentence": "Cooking is a very practical skill."
+   },
+   {
+    "word": "a skilled worker",
+    "translation_uz": "malakali ishchi",
+    "example_sentence": "The company needs skilled workers."
+   },
+   {
+    "word": "be skilled at",
+    "translation_uz": "... da mohir bo'lmoq",
+    "example_sentence": "She is skilled at drawing portraits."
+   },
+   {
+    "word": "lack the skills",
+    "translation_uz": "ko'nikmalar yetishmaslik",
+    "example_sentence": "Some applicants lack the skills for the post."
+   },
+   {
+    "word": "language skills",
+    "translation_uz": "til ko'nikmalari",
+    "example_sentence": "Good language skills open many doors."
+   },
+   {
+    "word": "skill and experience",
+    "translation_uz": "mahorat va tajriba",
+    "example_sentence": "The job needs skill and experience."
+   },
+   {
+    "word": "computer skills",
+    "translation_uz": "kompyuter ko'nikmalari",
+    "example_sentence": "Basic computer skills are useful everywhere."
+   },
+   {
+    "word": "a skilful player",
+    "translation_uz": "mohir o'yinchi",
+    "example_sentence": "He is a skilful player with a great left foot."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Children can ___ many useful skills at the summer camp.",
+    "correct_word": "learn",
+    "options": [
+     "buy",
+     "learn",
+     "win",
+     "break"
+    ]
+   },
+   {
+    "sentence_with_blank": "Good communication ___ are important for a teacher.",
+    "correct_word": "skills",
+    "options": [
+     "skilled",
+     "skilful",
+     "skills",
+     "skillfully"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister is very skilled ___ painting small pictures.",
+    "correct_word": "at",
+    "options": [
+     "of",
+     "for",
+     "by",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Some of the applicants ___ the skills needed for the job, so they were refused.",
+    "correct_word": "lack",
+    "options": [
+     "lack",
+     "hold",
+     "show",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "The job needs both skill ___ experience.",
+    "correct_word": "and",
+    "options": [
+     "or",
+     "and",
+     "but",
+     "so"
+    ]
+   },
+   {
+    "sentence_with_blank": "Practising every day will ___ your English skills.",
+    "correct_word": "improve",
+    "options": [
+     "catch",
+     "spend",
+     "improve",
+     "miss"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Useful Skill",
+   "text": "Last summer Emin decided to learn a new skill. He joined a short course in woodwork at the youth centre. His teacher was a skilled worker with thirty years of experience. At first Emin lacked the practical skills and made many mistakes. Slowly he began to improve, and by August he could make a small chair. He says the course also helped him develop patience and good communication skills, because the students worked in pairs. Now he is skilled at using simple tools, and his mother keeps his chair in the kitchen.",
+   "key_words": [
+    {
+     "word": "woodwork",
+     "translation_uz": "duradgorlik"
+    },
+    {
+     "word": "patience",
+     "translation_uz": "sabr-toqat"
+    },
+    {
+     "word": "tools",
+     "translation_uz": "asboblar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did Emin take the course?",
+     "options": [
+      "At the youth centre",
+      "At school",
+      "At a factory",
+      "At home"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long was the teacher's experience?",
+     "options": [
+      "Three years",
+      "Thirty years",
+      "Ten years",
+      "Twenty years"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Emin make by August?",
+     "options": [
+      "A table",
+      "A shelf",
+      "A small chair",
+      "A box"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Skills for the Job",
+   "script": "Interviewer: Tell me about your skills. Candidate: I have good language skills. I speak English and Russian, and I am learning German. Interviewer: And computer skills? Candidate: I am skilled at using spreadsheets, but I would like to improve my design skills. Interviewer: That is fine. This job needs good communication skills most of all. Candidate: I worked in a shop for two years, so I talk to people every day.",
+   "questions": [
+    {
+     "question": "Which languages does the candidate speak well?",
+     "options": [
+      "English and German",
+      "Russian and German",
+      "English and French",
+      "English and Russian"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What would the candidate like to improve?",
+     "options": [
+      "Design skills",
+      "Language skills",
+      "Maths skills",
+      "Typing skills"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the candidate work for two years?",
+     "options": [
+      "In a school",
+      "In a shop",
+      "At a bank",
+      "In an office"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I want to learn a new skill.",
+    "She has good language skills.",
+    "He is skilled at drawing."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Skills",
+    "question_text": "What new skill would you like to learn?",
+    "hint_words": [
+     "learn",
+     "new",
+     "useful",
+     "because"
+    ]
+   },
+   {
+    "topic": "Skills",
+    "question_text": "What are you skilled at?",
+    "hint_words": [
+     "good at",
+     "skill",
+     "practise",
+     "every day"
+    ]
+   },
+   {
+    "topic": "Skills",
+    "question_text": "Which skills do you need to be a good teacher?",
+    "hint_words": [
+     "patient",
+     "communication",
+     "explain",
+     "kind"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 35,
+  "title": "training",
+  "vocabulary": [
+   {
+    "word": "receive training",
+    "translation_uz": "o'qitish/tayyorgarlik olmoq",
+    "example_sentence": "New nurses receive training for six months."
+   },
+   {
+    "word": "provide training",
+    "translation_uz": "trening/tayyorgarlik bermoq",
+    "example_sentence": "The company provides training for all staff."
+   },
+   {
+    "word": "on-the-job training",
+    "translation_uz": "ish joyida o'qitish",
+    "example_sentence": "He got on-the-job training in the factory."
+   },
+   {
+    "word": "a training course",
+    "translation_uz": "o'quv kursi",
+    "example_sentence": "I am taking a training course in first aid."
+   },
+   {
+    "word": "a training session",
+    "translation_uz": "mashg'ulot",
+    "example_sentence": "The training session starts at nine o'clock."
+   },
+   {
+    "word": "undergo training",
+    "translation_uz": "tayyorgarlikdan o'tmoq",
+    "example_sentence": "Pilots undergo training for several years."
+   },
+   {
+    "word": "be in training",
+    "translation_uz": "tayyorgarlikda bo'lmoq",
+    "example_sentence": "She is in training for the city marathon."
+   },
+   {
+    "word": "train as a nurse",
+    "translation_uz": "hamshira bo'lib tayyorlanmoq",
+    "example_sentence": "My cousin trained as a nurse in Samarkand."
+   },
+   {
+    "word": "train someone to do something",
+    "translation_uz": "kimnidir biror ishga o'rgatmoq",
+    "example_sentence": "They train guides to speak to large groups."
+   },
+   {
+    "word": "a trainee",
+    "translation_uz": "stajyor, o'quvchi xodim",
+    "example_sentence": "The trainee is learning how to use the machines."
+   },
+   {
+    "word": "a trainer",
+    "translation_uz": "murabbiy, o'qituvchi",
+    "example_sentence": "Our trainer is strict but fair."
+   },
+   {
+    "word": "staff training",
+    "translation_uz": "xodimlarni o'qitish",
+    "example_sentence": "Staff training happens twice a year."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "All new workers ___ training before they start.",
+    "correct_word": "receive",
+    "options": [
+     "catch",
+     "spend",
+     "receive",
+     "miss"
+    ]
+   },
+   {
+    "sentence_with_blank": "The firm ___ training for its staff every spring.",
+    "correct_word": "provides",
+    "options": [
+     "lends",
+     "sells",
+     "borrows",
+     "provides"
+    ]
+   },
+   {
+    "sentence_with_blank": "He learned to use the machine through on-the-___ training.",
+    "correct_word": "job",
+    "options": [
+     "job",
+     "work",
+     "task",
+     "duty"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is in ___ for the swimming championship.",
+    "correct_word": "training",
+    "options": [
+     "trained",
+     "training",
+     "train",
+     "trainee"
+    ]
+   },
+   {
+    "sentence_with_blank": "After school he ___ as an electrician.",
+    "correct_word": "trained",
+    "options": [
+     "learned",
+     "studied",
+     "trained",
+     "taught"
+    ]
+   },
+   {
+    "sentence_with_blank": "The new ___ is learning to use the machines.",
+    "correct_word": "trainee",
+    "options": [
+     "trainer",
+     "train",
+     "training",
+     "trainee"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Learning on the Job",
+   "text": "When Lola started at the bakery, she was a trainee. She received training for two months, mostly on-the-job training. Her trainer, Mr Karimov, showed her how to mix dough and how to keep the kitchen clean. Every Friday there was a short training session about safety. Lola says it was hard in the beginning, but the course gave her confidence. Now she is helping to train a new trainee herself. The bakery provides training for every worker, because the owner believes that good bread needs good people.",
+   "key_words": [
+    {
+     "word": "dough",
+     "translation_uz": "xamir"
+    },
+    {
+     "word": "confidence",
+     "translation_uz": "ishonch"
+    },
+    {
+     "word": "safety",
+     "translation_uz": "xavfsizlik"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long did Lola's training last?",
+     "options": [
+      "Two weeks",
+      "Two months",
+      "One year",
+      "Six months"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who was her trainer?",
+     "options": [
+      "The owner",
+      "Her mother",
+      "Mr Karimov",
+      "A new trainee"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened every Friday?",
+     "options": [
+      "A bread tasting",
+      "A day off",
+      "A team lunch",
+      "A safety training session"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Marathon Training",
+   "script": "Reporter: How long have you been in training for the marathon? Runner: About six months. I train five times a week with my trainer. Reporter: Is it hard? Runner: Yes, but the training sessions are fun, and I have met many new friends. Reporter: What do you eat? Runner: Mostly pasta and fruit. I also rest a lot, because my trainer says rest is part of training. The race is in April, and I cannot wait.",
+   "questions": [
+    {
+     "question": "How long has the runner trained?",
+     "options": [
+      "About six months",
+      "About two years",
+      "Three weeks",
+      "One month"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How often does the runner train?",
+     "options": [
+      "Every day",
+      "Five times a week",
+      "Twice a week",
+      "Once a week"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When is the race?",
+     "options": [
+      "In June",
+      "In May",
+      "In April",
+      "In March"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She is in training now.",
+    "He took a training course.",
+    "The trainer was very kind."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Training",
+    "question_text": "Have you ever taken a training course? What was it?",
+    "hint_words": [
+     "course",
+     "learned",
+     "teacher",
+     "enjoyed"
+    ]
+   },
+   {
+    "topic": "Training",
+    "question_text": "Why is on-the-job training useful?",
+    "hint_words": [
+     "practice",
+     "real",
+     "learn",
+     "mistakes"
+    ]
+   },
+   {
+    "topic": "Training",
+    "question_text": "Do you do any sports training? Describe it.",
+    "hint_words": [
+     "train",
+     "week",
+     "coach",
+     "run"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 36,
+  "title": "wage, salary and pay",
+  "vocabulary": [
+   {
+    "word": "earn a good wage",
+    "translation_uz": "yaxshi maosh topmoq",
+    "example_sentence": "A skilled builder can earn a good wage."
+   },
+   {
+    "word": "a weekly wage",
+    "translation_uz": "haftalik ish haqi",
+    "example_sentence": "His weekly wage is paid on Fridays."
+   },
+   {
+    "word": "the minimum wage",
+    "translation_uz": "eng kam ish haqi",
+    "example_sentence": "The minimum wage went up this year."
+   },
+   {
+    "word": "a monthly salary",
+    "translation_uz": "oylik maosh",
+    "example_sentence": "She receives a monthly salary of two million som."
+   },
+   {
+    "word": "a high/low salary",
+    "translation_uz": "yuqori/past maosh",
+    "example_sentence": "A teacher's salary is often lower than expected."
+   },
+   {
+    "word": "a salary increase",
+    "translation_uz": "maosh oshishi",
+    "example_sentence": "He asked his boss for a salary increase."
+   },
+   {
+    "word": "get a pay rise",
+    "translation_uz": "maoshni oshirib olmoq",
+    "example_sentence": "Everyone in the team got a pay rise in January."
+   },
+   {
+    "word": "pay cut",
+    "translation_uz": "maoshning qisqarishi",
+    "example_sentence": "The company announced a pay cut for managers."
+   },
+   {
+    "word": "be paid by the hour",
+    "translation_uz": "soatbay haq olmoq",
+    "example_sentence": "Waiters here are paid by the hour."
+   },
+   {
+    "word": "equal pay",
+    "translation_uz": "teng haq to'lash",
+    "example_sentence": "Men and women should receive equal pay."
+   },
+   {
+    "word": "pay for overtime",
+    "translation_uz": "qo'shimcha ish soati uchun to'lamoq",
+    "example_sentence": "The factory pays extra for overtime."
+   },
+   {
+    "word": "be well/badly paid",
+    "translation_uz": "yaxshi/yomon haq to'lanmoq",
+    "example_sentence": "Nurses are often badly paid for the hard work they do."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Many students get a part-time job to ___ a little extra money.",
+    "correct_word": "earn",
+    "options": [
+     "win",
+     "lend",
+     "owe",
+     "earn"
+    ]
+   },
+   {
+    "sentence_with_blank": "He asked the manager for a pay ___ after two years.",
+    "correct_word": "rise",
+    "options": [
+     "rise",
+     "grow",
+     "lift",
+     "climb"
+    ]
+   },
+   {
+    "sentence_with_blank": "Waiters in this café are paid ___ the hour.",
+    "correct_word": "by",
+    "options": [
+     "with",
+     "by",
+     "on",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "A teacher usually receives a monthly ___, not a weekly wage.",
+    "correct_word": "salary",
+    "options": [
+     "rent",
+     "prize",
+     "salary",
+     "fine"
+    ]
+   },
+   {
+    "sentence_with_blank": "The government raised the minimum ___ for workers paid by the hour.",
+    "correct_word": "wage",
+    "options": [
+     "fee",
+     "tax",
+     "bill",
+     "wage"
+    ]
+   },
+   {
+    "sentence_with_blank": "Workers are paid extra for ___ if they stay after their normal hours.",
+    "correct_word": "overtime",
+    "options": [
+     "overtime",
+     "holidays",
+     "bonuses",
+     "breaks"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Pay Day",
+   "text": "Bobur works at a supermarket and earns a weekly wage. He is paid by the hour, so he checks his timetable carefully. Last year the shop gave all staff a small pay rise. This month Bobur worked overtime during the holidays and got extra money. His older sister, Zarina, is a teacher, and she receives a monthly salary. She says her salary is not high, but the work makes her happy. Bobur wants to save money from his wage for a university course.",
+   "key_words": [
+    {
+     "word": "extra",
+     "translation_uz": "qo'shimcha"
+    },
+    {
+     "word": "save",
+     "translation_uz": "jamg'armoq"
+    },
+    {
+     "word": "supermarket",
+     "translation_uz": "supermarket"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How is Bobur paid?",
+     "options": [
+      "By the day",
+      "By the year",
+      "By the hour",
+      "By the sale"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did Bobur get extra money?",
+     "options": [
+      "He won a prize",
+      "He changed shops",
+      "He had a birthday",
+      "He worked overtime"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Bobur want to save for?",
+     "options": [
+      "A university course",
+      "A new phone",
+      "A holiday",
+      "A car"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Salary Talk",
+   "script": "Dad: How was your first month at work? Son: Good! I got my first salary yesterday. It is not very high, but I am happy. Dad: Are you paid monthly? Son: Yes, on the fifth of every month. My manager said I may get a pay rise after the summer if I do a good job. Dad: That is good news. Remember to save a part of your wage. Son: I will. I want to buy a laptop.",
+   "questions": [
+    {
+     "question": "When is the son paid?",
+     "options": [
+      "Every Friday",
+      "On the fifth of every month",
+      "On the last day of the month",
+      "Every two weeks"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When may he get a pay rise?",
+     "options": [
+      "Next week",
+      "In winter",
+      "After the summer",
+      "At once"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the son want to buy?",
+     "options": [
+      "A bike",
+      "A phone",
+      "A watch",
+      "A laptop"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "He earns a good wage.",
+    "She got a pay rise.",
+    "I receive a monthly salary."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Money",
+    "question_text": "Do you think teachers earn a good salary? Why?",
+    "hint_words": [
+     "teachers",
+     "salary",
+     "hard work",
+     "should"
+    ]
+   },
+   {
+    "topic": "Money",
+    "question_text": "Would you like to get paid by the hour or monthly?",
+    "hint_words": [
+     "prefer",
+     "hour",
+     "monthly",
+     "because"
+    ]
+   },
+   {
+    "topic": "Money",
+    "question_text": "What would you do with your first wage?",
+    "hint_words": [
+     "save",
+     "buy",
+     "family",
+     "first"
+    ]
+   }
+  ]
+ }
+]

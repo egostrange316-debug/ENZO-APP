@@ -1,0 +1,6282 @@
+[
+ {
+  "unit": 86,
+  "title": "meeting",
+  "vocabulary": [
+   {
+    "word": "hold a meeting",
+    "translation_uz": "yig'ilish o'tkazmoq",
+    "example_sentence": "The class council holds a meeting every Friday."
+   },
+   {
+    "word": "attend a meeting",
+    "translation_uz": "yig'ilishda qatnashmoq",
+    "example_sentence": "All the team captains must attend the meeting."
+   },
+   {
+    "word": "call a meeting",
+    "translation_uz": "yig'ilish chaqirmoq",
+    "example_sentence": "The headteacher called a meeting about the school trip."
+   },
+   {
+    "word": "cancel a meeting",
+    "translation_uz": "yig'ilishni bekor qilmoq",
+    "example_sentence": "They had to cancel the meeting because of the storm."
+   },
+   {
+    "word": "arrange a meeting",
+    "translation_uz": "uchrashuv belgilamoq",
+    "example_sentence": "Can you arrange a meeting with the coach for Monday?"
+   },
+   {
+    "word": "a meeting about / with",
+    "translation_uz": "...haqida / ... bilan yig'ilish",
+    "example_sentence": "I have a meeting with my tutor about my project."
+   },
+   {
+    "word": "in a meeting",
+    "translation_uz": "yig'ilishda (band)",
+    "example_sentence": "Mum can't answer the phone because she is in a meeting."
+   },
+   {
+    "word": "a team meeting",
+    "translation_uz": "jamoa yig'ilishi",
+    "example_sentence": "We discussed the new schedule at the team meeting."
+   },
+   {
+    "word": "a chance meeting",
+    "translation_uz": "tasodifiy uchrashuv",
+    "example_sentence": "A chance meeting at the library led to a lasting friendship."
+   },
+   {
+    "word": "the meeting ends / breaks up",
+    "translation_uz": "yig'ilish tugaydi",
+    "example_sentence": "The meeting broke up at half past four."
+   },
+   {
+    "word": "meet / meeting / meet up",
+    "translation_uz": "uchrashmoq / uchrashuv / ko'rishmoq",
+    "example_sentence": "Let's meet up after the meeting for a snack."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The school council will ___ a meeting on Thursday.",
+    "correct_word": "hold",
+    "options": [
+     "make",
+     "take",
+     "hold",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "Nobody could ___ the meeting because the bus was late.",
+    "correct_word": "attend",
+    "options": [
+     "enter",
+     "attend",
+     "visit",
+     "join to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a meeting ___ my English teacher at two o'clock.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "for",
+     "of",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please don't call her now; she is ___ a meeting.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "under",
+     "on",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our first meeting was a ___ meeting; we did not plan it at all.",
+    "correct_word": "chance",
+    "options": [
+     "chance",
+     "hard",
+     "heavy",
+     "strong"
+    ]
+   },
+   {
+    "sentence_with_blank": "The head ___ a meeting to talk about the new rules.",
+    "correct_word": "called",
+    "options": [
+     "said",
+     "put",
+     "called",
+     "made up"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Student Council",
+   "text": "Every second Friday the student council holds a meeting in Room 12. Last week Amina arranged a meeting with the headteacher about a new library corner. Twenty students attended, and everyone was allowed to give an idea. The meeting lasted almost an hour, so the biology teacher, who was in a meeting next door, asked them to speak more quietly. In the end the headteacher agreed to the plan. A chance meeting in the corridor with the librarian also helped, because she offered to give them a few old shelves.",
+   "key_words": [
+    {
+     "word": "hold a meeting",
+     "translation_uz": "yig'ilish o'tkazmoq"
+    },
+    {
+     "word": "attend",
+     "translation_uz": "qatnashmoq"
+    },
+    {
+     "word": "headteacher",
+     "translation_uz": "maktab direktori"
+    },
+    {
+     "word": "agree to",
+     "translation_uz": "rozi bo'lmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who arranged a meeting with the headteacher?",
+     "options": [
+      "Her biology teacher",
+      "The librarian",
+      "Amina",
+      "A group of parents"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the students want?",
+     "options": [
+      "A longer break",
+      "A new library corner",
+      "A school trip",
+      "A bigger gym"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "About how long did the meeting last?",
+     "options": [
+      "Almost an hour",
+      "Ten minutes",
+      "Two hours",
+      "All day"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the biology teacher speak to the students?",
+     "options": [
+      "He was lost",
+      "He wanted to join",
+      "He was their coach",
+      "He was in a meeting next door"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the librarian offer?",
+     "options": [
+      "Some new books",
+      "A free room",
+      "Some old shelves",
+      "Cups of tea"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How many students attended?",
+     "options": [
+      "Ten",
+      "Twenty",
+      "Fifty",
+      "Five"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Is Dad Free?",
+   "script": "Sara: Dad, are you free to help me with my science poster? Dad: Not right now, Sara. I'm in a meeting until three. Sara: Oh. Is it a long meeting? Dad: It's a team meeting about our new project, and the manager has called it for noon. Sara: Could we arrange a time later? Dad: Of course. Let's meet at four, after the meeting ends. I'll buy ice cream on the way home. Sara: Great, see you at four!",
+   "questions": [
+    {
+     "question": "Why can't Dad help Sara now?",
+     "options": [
+      "He is asleep",
+      "He is shopping",
+      "He is driving",
+      "He is in a meeting"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who called the meeting?",
+     "options": [
+      "Sara",
+      "The teacher",
+      "The manager",
+      "Dad's friend"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What kind of meeting is it?",
+     "options": [
+      "A school meeting",
+      "A team meeting",
+      "A chance meeting",
+      "A football meeting"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When will Sara and Dad meet?",
+     "options": [
+      "At four",
+      "At noon",
+      "At three",
+      "At five"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will Dad buy?",
+     "options": [
+      "Pizza",
+      "A poster",
+      "Fruit",
+      "Ice cream"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Sara need help with?",
+     "options": [
+      "A maths test",
+      "A history essay",
+      "A science poster",
+      "A drawing"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "We have a meeting on Monday.",
+    "He cancelled the meeting.",
+    "Please attend the team meeting."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Meetings",
+    "question_text": "Have you ever attended a meeting? What was it about?",
+    "hint_words": [
+     "school",
+     "family",
+     "teacher",
+     "topic"
+    ]
+   },
+   {
+    "topic": "Planning",
+    "question_text": "How do you arrange a meeting with friends?",
+    "hint_words": [
+     "phone",
+     "message",
+     "time",
+     "place"
+    ]
+   },
+   {
+    "topic": "Chance",
+    "question_text": "Tell me about a chance meeting you remember.",
+    "hint_words": [
+     "by chance",
+     "met",
+     "surprised",
+     "friend"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 87,
+  "title": "memory",
+  "vocabulary": [
+   {
+    "word": "have a good / bad memory",
+    "translation_uz": "xotirasi yaxshi / yomon bo'lmoq",
+    "example_sentence": "My grandmother has a good memory for dates."
+   },
+   {
+    "word": "a bad memory for names",
+    "translation_uz": "ismlarni eslab qola olmaslik",
+    "example_sentence": "I have a terrible memory for names, so I write them down."
+   },
+   {
+    "word": "a vivid memory",
+    "translation_uz": "yorqin xotira",
+    "example_sentence": "She has a vivid memory of her first day at school."
+   },
+   {
+    "word": "a happy / fond memory",
+    "translation_uz": "yoqimli xotira",
+    "example_sentence": "Our trip to the mountains is a fond memory."
+   },
+   {
+    "word": "memory of something",
+    "translation_uz": "biror narsaning xotirasi",
+    "example_sentence": "I have no memory of that conversation."
+   },
+   {
+    "word": "bring back memories",
+    "translation_uz": "xotiralarni qaytarmoq",
+    "example_sentence": "The smell of bread brings back memories of my village."
+   },
+   {
+    "word": "from memory",
+    "translation_uz": "yoddan",
+    "example_sentence": "He played the whole song from memory."
+   },
+   {
+    "word": "in memory of",
+    "translation_uz": "xotirasiga bag'ishlab",
+    "example_sentence": "The class planted a tree in memory of their old teacher."
+   },
+   {
+    "word": "lose your memory",
+    "translation_uz": "xotirasini yo'qotmoq",
+    "example_sentence": "In the film, the hero loses his memory after an accident."
+   },
+   {
+    "word": "computer memory",
+    "translation_uz": "kompyuter xotirasi",
+    "example_sentence": "My old laptop has very little memory."
+   },
+   {
+    "word": "memorise / memorable / memorial",
+    "translation_uz": "yodlamoq / esda qoladigan / yodgorlik",
+    "example_sentence": "It was a memorable day, so I will never forget it."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister has a good ___ for faces.",
+    "correct_word": "memory",
+    "options": [
+     "memory",
+     "thought",
+     "head",
+     "mind"
+    ]
+   },
+   {
+    "sentence_with_blank": "She recited the long poem ___ memory.",
+    "correct_word": "from",
+    "options": [
+     "with",
+     "at",
+     "from",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "This old photo ___ back memories of our holiday.",
+    "correct_word": "brings",
+    "options": [
+     "brings",
+     "gives",
+     "carries",
+     "takes"
+    ]
+   },
+   {
+    "sentence_with_blank": "The garden was made ___ memory of the school's first headteacher.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "with",
+     "at",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a vivid ___ of my grandfather's kitchen.",
+    "correct_word": "memory",
+    "options": [
+     "memorise",
+     "memory",
+     "remember",
+     "memorable"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a truly ___ evening; I will never forget the music.",
+    "correct_word": "memorable",
+    "options": [
+     "memoried",
+     "memorable",
+     "memorial",
+     "memorised"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Box of Memories",
+   "text": "Last weekend Dilya found an old box in the attic. Inside there were photos, a school diary and a small wooden horse. The horse brought back memories of her grandfather, who made it for her when she was five. She has a vivid memory of him sitting on the porch with a knife and a piece of wood. Dilya showed the photos to her mother, who has a better memory for names and could say who everybody was. Then they decided to put the wooden horse on the shelf in memory of him.",
+   "key_words": [
+    {
+     "word": "attic",
+     "translation_uz": "cherdak"
+    },
+    {
+     "word": "bring back memories",
+     "translation_uz": "xotiralarni qaytarmoq"
+    },
+    {
+     "word": "vivid",
+     "translation_uz": "yorqin"
+    },
+    {
+     "word": "in memory of",
+     "translation_uz": "xotirasiga"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did Dilya find the box?",
+     "options": [
+      "In the garage",
+      "In school",
+      "In a shop",
+      "In the attic"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who made the wooden horse?",
+     "options": [
+      "Her mother",
+      "Her teacher",
+      "Her grandfather",
+      "Her friend"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How old was Dilya when she got the horse?",
+     "options": [
+      "Three",
+      "Five",
+      "Ten",
+      "Twelve"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who could say the names of the people in the photos?",
+     "options": [
+      "Her mother",
+      "Her father",
+      "Her brother",
+      "Her aunt"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did they do with the horse in the end?",
+     "options": [
+      "Gave it away",
+      "Sold it",
+      "Painted it",
+      "Put it on a shelf"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the horse bring back?",
+     "options": [
+      "A lost key",
+      "A school song",
+      "Memories of her grandfather",
+      "A birthday cake"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Quiz Night",
+   "script": "Host: Welcome to our school quiz night! Tom, you have a very good memory. How do you do it? Tom: I don't know. I just have a good memory for numbers, but a bad memory for names. Host: Funny! Next question. Can you recite the school song from memory? Tom: Yes, I learned it last year. It brings back memories of my first day here. Host: Wonderful. This quiz is held in memory of Mr Karim, our old maths teacher, and the prize is a new dictionary. Tom: Then I will try my best.",
+   "questions": [
+    {
+     "question": "What is Tom good at remembering?",
+     "options": [
+      "Numbers",
+      "Names",
+      "Faces",
+      "Songs only"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is he bad at remembering?",
+     "options": [
+      "Numbers",
+      "Dates",
+      "Songs",
+      "Names"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Tom recite from memory?",
+     "options": [
+      "A poem",
+      "A maths rule",
+      "The school song",
+      "A list of prizes"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the song bring back?",
+     "options": [
+      "His holiday",
+      "Memories of his first day",
+      "A football match",
+      "A birthday"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who is the quiz held in memory of?",
+     "options": [
+      "Mr Karim",
+      "The host",
+      "Tom's uncle",
+      "A student"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the prize?",
+     "options": [
+      "A trophy",
+      "Some money",
+      "A book of songs",
+      "A new dictionary"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She has a good memory.",
+    "He sang it from memory.",
+    "It was a happy memory."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Memory",
+    "question_text": "Do you have a good memory? What are you good at remembering?",
+    "hint_words": [
+     "names",
+     "dates",
+     "faces",
+     "numbers"
+    ]
+   },
+   {
+    "topic": "Childhood",
+    "question_text": "What is your earliest memory?",
+    "hint_words": [
+     "young",
+     "remember",
+     "house",
+     "family"
+    ]
+   },
+   {
+    "topic": "Remembering",
+    "question_text": "How do you memorise new English words?",
+    "hint_words": [
+     "write",
+     "repeat",
+     "cards",
+     "practise"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 88,
+  "title": "method",
+  "vocabulary": [
+   {
+    "word": "a method of / for doing",
+    "translation_uz": "biror ishni qilish usuli",
+    "example_sentence": "What is the best method of learning new words?"
+   },
+   {
+    "word": "an effective method",
+    "translation_uz": "samarali usul",
+    "example_sentence": "Flash cards are an effective method for revision."
+   },
+   {
+    "word": "a traditional method",
+    "translation_uz": "an'anaviy usul",
+    "example_sentence": "They still bake bread by a traditional method."
+   },
+   {
+    "word": "a modern method",
+    "translation_uz": "zamonaviy usul",
+    "example_sentence": "The school uses modern methods of teaching."
+   },
+   {
+    "word": "the teaching method",
+    "translation_uz": "o'qitish usuli",
+    "example_sentence": "The new teaching method uses games and songs."
+   },
+   {
+    "word": "use a method",
+    "translation_uz": "usuldan foydalanmoq",
+    "example_sentence": "You can use this method to check your answers."
+   },
+   {
+    "word": "try a new method",
+    "translation_uz": "yangi usulni sinab ko'rmoq",
+    "example_sentence": "If it does not work, try a new method."
+   },
+   {
+    "word": "a simple / easy method",
+    "translation_uz": "oddiy / oson usul",
+    "example_sentence": "There is a simple method for dividing big numbers."
+   },
+   {
+    "word": "a method of payment",
+    "translation_uz": "to'lov usuli",
+    "example_sentence": "Cash is the only method of payment in the small shop."
+   },
+   {
+    "word": "the scientific method",
+    "translation_uz": "ilmiy usul",
+    "example_sentence": "In science class we learned the scientific method."
+   },
+   {
+    "word": "methodical / methodically",
+    "translation_uz": "tizimli / tizimli ravishda",
+    "example_sentence": "She works methodically, one step at a time."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "What is the best ___ of learning to type quickly?",
+    "correct_word": "method",
+    "options": [
+     "method",
+     "way out",
+     "answer",
+     "idea"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is a simple method ___ cooking rice.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "by",
+     "about",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "The shop accepts only one method of ___ : cash.",
+    "correct_word": "payment",
+    "options": [
+     "paid",
+     "payment",
+     "pay",
+     "paying"
+    ]
+   },
+   {
+    "sentence_with_blank": "If one method does not work, you should ___ another one.",
+    "correct_word": "try",
+    "options": [
+     "try",
+     "hold",
+     "wait",
+     "take part"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many schools now use a ___ method of teaching with tablets.",
+    "correct_word": "modern",
+    "options": [
+     "ancient",
+     "tidy",
+     "narrow",
+     "modern"
+    ]
+   },
+   {
+    "sentence_with_blank": "Anvar is very ___ ; he checks every step of his work in order.",
+    "correct_word": "methodical",
+    "options": [
+     "methodic",
+     "method",
+     "methodical",
+     "methods"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A New Way to Learn",
+   "text": "Our teacher, Mr Rustam, tried a new method of teaching spelling. Instead of copying the words ten times, we play a game with cards. It is a very effective method, because we remember the words much better. At first, some students preferred the traditional method, but now everybody likes the cards. Last week we tested the two methods in a small experiment, just like in the scientific method. The card game won easily, so our teacher will use it again next term.",
+   "key_words": [
+    {
+     "word": "spelling",
+     "translation_uz": "imlo"
+    },
+    {
+     "word": "effective",
+     "translation_uz": "samarali"
+    },
+    {
+     "word": "experiment",
+     "translation_uz": "tajriba"
+    },
+    {
+     "word": "term",
+     "translation_uz": "chorak"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who tried a new teaching method?",
+     "options": [
+      "Mr Rustam",
+      "The headteacher",
+      "A student",
+      "A parent"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the new method?",
+     "options": [
+      "Copying words ten times",
+      "Online tests",
+      "Reading aloud",
+      "A game with cards"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why is it effective?",
+     "options": [
+      "It is very short",
+      "It is silent",
+      "Students remember words better",
+      "It needs no teacher"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the students do last week?",
+     "options": [
+      "A trip",
+      "A small experiment",
+      "A concert",
+      "A long exam"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which method won?",
+     "options": [
+      "The card game",
+      "Copying words",
+      "The old method",
+      "Neither"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When will the teacher use the method again?",
+     "options": [
+      "Tomorrow only",
+      "Never",
+      "Last week",
+      "Next term"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Phone Shopping",
+   "script": "Mia: Dad, how can I pay for this game online? Dad: There are several methods of payment. You can use a card, or I can pay for you. Mia: Is there a simple method? Dad: Yes, the easiest method is to use my phone. Mia: But is it safe? Dad: It is a modern method and very safe. Watch me. I do it methodically, one step at a time: first the code, then the button. Mia: Wow, that took only ten seconds! Dad: See? A good method saves time.",
+   "questions": [
+    {
+     "question": "What does Mia want to buy?",
+     "options": [
+      "A book",
+      "A game",
+      "A phone",
+      "A bike"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Mia ask about?",
+     "options": [
+      "Methods of payment",
+      "Prices",
+      "Colours",
+      "Delivery"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the easiest method, according to Dad?",
+     "options": [
+      "Using cash",
+      "Using a cheque",
+      "Walking to the shop",
+      "Using his phone"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How does Dad describe the method?",
+     "options": [
+      "Old and slow",
+      "Difficult",
+      "Modern and safe",
+      "Free"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did the payment take?",
+     "options": [
+      "Ten minutes",
+      "Ten seconds",
+      "An hour",
+      "One day"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does a good method save?",
+     "options": [
+      "Time",
+      "Money only",
+      "Paper",
+      "Space"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "This is an effective method.",
+    "Try another method of payment.",
+    "He works in a methodical way."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Learning",
+    "question_text": "What is your favourite method of learning English?",
+    "hint_words": [
+     "songs",
+     "films",
+     "cards",
+     "speaking"
+    ]
+   },
+   {
+    "topic": "Teaching",
+    "question_text": "Which teaching method do you like best at school?",
+    "hint_words": [
+     "games",
+     "group work",
+     "videos",
+     "talking"
+    ]
+   },
+   {
+    "topic": "Cooking",
+    "question_text": "Do you know a simple method for making a meal?",
+    "hint_words": [
+     "boil",
+     "fry",
+     "mix",
+     "easy"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 89,
+  "title": "mind",
+  "vocabulary": [
+   {
+    "word": "change your mind",
+    "translation_uz": "fikrini o'zgartirmoq",
+    "example_sentence": "I wanted pizza, but I changed my mind and ordered soup."
+   },
+   {
+    "word": "make up your mind",
+    "translation_uz": "qaror qilmoq",
+    "example_sentence": "Please make up your mind; the waiter is waiting."
+   },
+   {
+    "word": "keep / bear in mind",
+    "translation_uz": "yodda tutmoq",
+    "example_sentence": "Keep in mind that the shop closes at six."
+   },
+   {
+    "word": "have something on your mind",
+    "translation_uz": "xayolida biror narsa bo'lmoq",
+    "example_sentence": "You look quiet. Do you have something on your mind?"
+   },
+   {
+    "word": "cross your mind",
+    "translation_uz": "xayolidan o'tmoq",
+    "example_sentence": "It never crossed my mind that she might be shy."
+   },
+   {
+    "word": "speak your mind",
+    "translation_uz": "fikrini ochiq aytmoq",
+    "example_sentence": "Don't be afraid to speak your mind in class."
+   },
+   {
+    "word": "be in two minds about",
+    "translation_uz": "ikkilanmoq",
+    "example_sentence": "I'm in two minds about joining the chess club."
+   },
+   {
+    "word": "have in mind",
+    "translation_uz": "ko'zda tutmoq",
+    "example_sentence": "Which present do you have in mind for Mum?"
+   },
+   {
+    "word": "an open mind",
+    "translation_uz": "ochiq fikr",
+    "example_sentence": "Try the new food with an open mind."
+   },
+   {
+    "word": "never mind",
+    "translation_uz": "hechqisi yo'q",
+    "example_sentence": "Never mind, we can try again tomorrow."
+   },
+   {
+    "word": "state of mind",
+    "translation_uz": "ruhiy holat",
+    "example_sentence": "Sleep helps you stay in a calm state of mind."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I can't decide yet. Give me a minute to ___ up my mind.",
+    "correct_word": "make",
+    "options": [
+     "make",
+     "do",
+     "get",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "He said he'd go, but then he ___ his mind.",
+    "correct_word": "changed",
+    "options": [
+     "changed",
+     "moved",
+     "swapped",
+     "turned"
+    ]
+   },
+   {
+    "sentence_with_blank": "It never ___ my mind that the train could be late.",
+    "correct_word": "crossed",
+    "options": [
+     "crossed",
+     "hit",
+     "passed",
+     "touched"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ in mind that the exam starts at nine sharp.",
+    "correct_word": "keep",
+    "options": [
+     "hold on",
+     "get",
+     "carry",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sofia is ___ two minds about moving to a new school.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "in",
+     "on",
+     "between"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't be shy! Speak your ___ at the meeting.",
+    "correct_word": "mind",
+    "options": [
+     "thought",
+     "idea",
+     "mind",
+     "head"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Which Hobby?",
+   "text": "Jasur could not make up his mind. His school offered football, chess and drawing clubs, and he was in two minds about which to join. His friend Ali said, \"Keep in mind that football is only on Tuesdays.\" Jasur had something on his mind, because he also wanted time to do his homework. In the end he decided to try each club with an open mind for a week. He changed his mind twice, but finally chose chess. \"Never mind the choice,\" said Ali. \"You can always change it.\"",
+   "key_words": [
+    {
+     "word": "make up your mind",
+     "translation_uz": "qaror qilmoq"
+    },
+    {
+     "word": "open mind",
+     "translation_uz": "ochiq fikr"
+    },
+    {
+     "word": "choose",
+     "translation_uz": "tanlamoq"
+    },
+    {
+     "word": "finally",
+     "translation_uz": "nihoyat"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was Jasur's problem?",
+     "options": [
+      "He lost his bag",
+      "He could not choose a club",
+      "He was ill",
+      "He had no friends"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When is football on?",
+     "options": [
+      "Tuesdays",
+      "Mondays",
+      "Fridays",
+      "Every day"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why else was Jasur worried?",
+     "options": [
+      "He had no shoes",
+      "He disliked school",
+      "He was late",
+      "He needed time for homework"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did he try the clubs?",
+     "options": [
+      "A day",
+      "A month",
+      "A week",
+      "A year"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which club did he choose?",
+     "options": [
+      "Football",
+      "Chess",
+      "Drawing",
+      "Music"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Ali say at the end?",
+     "options": [
+      "He can change it",
+      "He must stay",
+      "He should stop",
+      "He should ask the teacher"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Lunch Order",
+   "script": "Waiter: Have you made up your mind yet? Girl: I'm in two minds. Soup or pasta? Boy: Bear in mind the soup is very hot today. Girl: Hmm, I had pasta yesterday. I'll change my mind and have soup. Boy: You look worried. Is something on your mind? Girl: Yes, I forgot my maths book. It never crossed my mind to check my bag. Boy: Never mind, you can share mine.",
+   "questions": [
+    {
+     "question": "What can't the girl decide between?",
+     "options": [
+      "Tea and juice",
+      "Rice and bread",
+      "Soup and pasta",
+      "Cake and fruit"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the boy say about the soup?",
+     "options": [
+      "It is cheap",
+      "It is very hot",
+      "It is cold",
+      "It is spicy"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the girl eat yesterday?",
+     "options": [
+      "Pasta",
+      "Soup",
+      "Salad",
+      "Pizza"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does she finally order?",
+     "options": [
+      "Pasta",
+      "Salad",
+      "Nothing",
+      "Soup"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did she forget?",
+     "options": [
+      "Her lunch money",
+      "Her coat",
+      "Her maths book",
+      "Her phone"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the boy offer?",
+     "options": [
+      "To pay",
+      "To share his book",
+      "To go home",
+      "To ask the teacher"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Have you made up your mind?",
+    "Keep this in mind.",
+    "I changed my mind."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Decisions",
+    "question_text": "Is it easy for you to make up your mind? Why or why not?",
+    "hint_words": [
+     "quickly",
+     "slowly",
+     "think",
+     "choose"
+    ]
+   },
+   {
+    "topic": "Opinions",
+    "question_text": "Do you speak your mind in class?",
+    "hint_words": [
+     "shy",
+     "always",
+     "sometimes",
+     "teacher"
+    ]
+   },
+   {
+    "topic": "Worries",
+    "question_text": "What is on your mind this week?",
+    "hint_words": [
+     "exam",
+     "trip",
+     "friend",
+     "homework"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 90,
+  "title": "mistake",
+  "vocabulary": [
+   {
+    "word": "make a mistake",
+    "translation_uz": "xato qilmoq",
+    "example_sentence": "Everyone makes a mistake sometimes."
+   },
+   {
+    "word": "by mistake",
+    "translation_uz": "adashib",
+    "example_sentence": "I took your pen by mistake."
+   },
+   {
+    "word": "a big / serious mistake",
+    "translation_uz": "katta xato",
+    "example_sentence": "Forgetting the password was a serious mistake."
+   },
+   {
+    "word": "a silly / stupid mistake",
+    "translation_uz": "ahmoqona xato",
+    "example_sentence": "I made a silly mistake in the last sum."
+   },
+   {
+    "word": "a spelling mistake",
+    "translation_uz": "imlo xatosi",
+    "example_sentence": "There are three spelling mistakes in my essay."
+   },
+   {
+    "word": "a common mistake",
+    "translation_uz": "keng tarqalgan xato",
+    "example_sentence": "Mixing up 'their' and 'there' is a common mistake."
+   },
+   {
+    "word": "correct a mistake",
+    "translation_uz": "xatoni tuzatmoq",
+    "example_sentence": "Please correct the mistakes in your homework."
+   },
+   {
+    "word": "learn from your mistakes",
+    "translation_uz": "xatolaridan o'rganmoq",
+    "example_sentence": "Good students learn from their mistakes."
+   },
+   {
+    "word": "admit a mistake",
+    "translation_uz": "xatoni tan olmoq",
+    "example_sentence": "He was brave enough to admit his mistake."
+   },
+   {
+    "word": "it is a mistake to do",
+    "translation_uz": "...qilish xato",
+    "example_sentence": "It is a mistake to leave your homework until midnight."
+   },
+   {
+    "word": "mistake A for B",
+    "translation_uz": "A ni B bilan adashtirmoq",
+    "example_sentence": "I mistook the stranger for my cousin."
+   },
+   {
+    "word": "mistaken / mistakenly",
+    "translation_uz": "xato / xatoga yo'l qo'yib",
+    "example_sentence": "She mistakenly thought the shop was open."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I put on your coat ___ mistake; they look the same.",
+    "correct_word": "by",
+    "options": [
+     "with",
+     "in",
+     "for",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't worry. Everybody can ___ a mistake.",
+    "correct_word": "make",
+    "options": [
+     "do",
+     "have",
+     "take",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "There are two spelling ___ in your text.",
+    "correct_word": "mistakes",
+    "options": [
+     "wrongs",
+     "mistakes",
+     "faults",
+     "errors of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the mistakes with a red pen.",
+    "correct_word": "correct",
+    "options": [
+     "repair",
+     "correct",
+     "mend",
+     "fix up"
+    ]
+   },
+   {
+    "sentence_with_blank": "It would be a ___ mistake to ignore the safety rules.",
+    "correct_word": "serious",
+    "options": [
+     "loud",
+     "serious",
+     "narrow",
+     "slow"
+    ]
+   },
+   {
+    "sentence_with_blank": "I think you have ___ me for my twin brother.",
+    "correct_word": "mistaken",
+    "options": [
+     "mistaken",
+     "mixed",
+     "wrong",
+     "taken"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Wrong Backpack",
+   "text": "On Monday morning Karim picked up a blue backpack and took it to school. In class he opened it and found a football and a lunch box he had never seen before. He had taken someone else's bag by mistake, because it looked exactly like his. It was a silly mistake, he thought, and he quickly admitted it to his teacher. A boy from the next class had also taken a bag by mistake. They met in the corridor and laughed, then they swapped. \"The lesson,\" said Karim, \"is to put a name on your bag!\"",
+   "key_words": [
+    {
+     "word": "backpack",
+     "translation_uz": "ryukzak"
+    },
+    {
+     "word": "by mistake",
+     "translation_uz": "adashib"
+    },
+    {
+     "word": "admit",
+     "translation_uz": "tan olmoq"
+    },
+    {
+     "word": "swap",
+     "translation_uz": "almashtirmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What colour was the backpack?",
+     "options": [
+      "Red",
+      "Black",
+      "Blue",
+      "Green"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Karim find inside?",
+     "options": [
+      "Books and pens",
+      "A football and a lunch box",
+      "A phone",
+      "A coat"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did he take the wrong bag?",
+     "options": [
+      "It looked like his",
+      "He was in a hurry",
+      "It was heavy",
+      "His was broken"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who did he tell?",
+     "options": [
+      "His mother",
+      "The headteacher",
+      "A stranger",
+      "His teacher"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the boy from the next class do?",
+     "options": [
+      "He lost his shoes",
+      "He was angry",
+      "He also took a wrong bag",
+      "He went home"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is Karim's lesson?",
+     "options": [
+      "Never go to school",
+      "Put a name on your bag",
+      "Buy a new bag",
+      "Leave bags at home"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Checking the Test",
+   "script": "Teacher: Let's look at your tests. Most of you made a few mistakes. Pupil: I made a silly mistake in question four. I wrote the wrong number by mistake. Teacher: That's a common mistake when we hurry. Please correct it now. Pupil: Done! And I made a spelling mistake in the last line. Teacher: Good. Remember, it is no problem to make a mistake, but it is important to learn from it. Pupil: I'll check my work twice next time.",
+   "questions": [
+    {
+     "question": "Which question had a silly mistake?",
+     "options": [
+      "Question two",
+      "Question ten",
+      "The last question",
+      "Question four"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the pupil write by mistake?",
+     "options": [
+      "The wrong date",
+      "The wrong name",
+      "The wrong number",
+      "The wrong word"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the teacher call the first mistake?",
+     "options": [
+      "Rare",
+      "Common",
+      "Funny",
+      "Big"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What other mistake did the pupil make?",
+     "options": [
+      "A spelling mistake",
+      "A maths mistake",
+      "A drawing mistake",
+      "A speaking mistake"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is important, according to the teacher?",
+     "options": [
+      "Finishing quickly",
+      "Writing small",
+      "Working alone",
+      "Learning from mistakes"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will the pupil do next time?",
+     "options": [
+      "Skip the test",
+      "Ask a friend",
+      "Check his work twice",
+      "Use a pencil"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I made a silly mistake.",
+    "She took it by mistake.",
+    "Learn from your mistakes."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Mistakes",
+    "question_text": "What is a common mistake English learners make?",
+    "hint_words": [
+     "spelling",
+     "grammar",
+     "words",
+     "tenses"
+    ]
+   },
+   {
+    "topic": "Learning",
+    "question_text": "Have you ever learned something from a mistake?",
+    "hint_words": [
+     "yes",
+     "once",
+     "lesson",
+     "next time"
+    ]
+   },
+   {
+    "topic": "Admit",
+    "question_text": "Is it easy to admit a mistake? Why?",
+    "hint_words": [
+     "hard",
+     "proud",
+     "sorry",
+     "honest"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 91,
+  "title": "moment",
+  "vocabulary": [
+   {
+    "word": "at the moment",
+    "translation_uz": "hozir",
+    "example_sentence": "I can't talk at the moment; I'm cooking."
+   },
+   {
+    "word": "for a moment",
+    "translation_uz": "bir lahzaga",
+    "example_sentence": "She stopped for a moment to listen."
+   },
+   {
+    "word": "in a moment",
+    "translation_uz": "hozir, bir ozdan keyin",
+    "example_sentence": "I'll be with you in a moment."
+   },
+   {
+    "word": "(just) a moment",
+    "translation_uz": "bir daqiqa",
+    "example_sentence": "Just a moment, please. I'll find the key."
+   },
+   {
+    "word": "at the last moment",
+    "translation_uz": "oxirgi lahzada",
+    "example_sentence": "The goalkeeper saved the ball at the last moment."
+   },
+   {
+    "word": "the moment (that) ...",
+    "translation_uz": "...ning o'sha zahoti",
+    "example_sentence": "The moment I sat down, the phone rang."
+   },
+   {
+    "word": "any moment now",
+    "translation_uz": "har lahzada",
+    "example_sentence": "The bus will arrive any moment now."
+   },
+   {
+    "word": "from that moment on",
+    "translation_uz": "o'sha paytdan boshlab",
+    "example_sentence": "From that moment on, we were best friends."
+   },
+   {
+    "word": "a magical / special moment",
+    "translation_uz": "sehrli / maxsus lahza",
+    "example_sentence": "Seeing the snow for the first time was a magical moment."
+   },
+   {
+    "word": "the right moment",
+    "translation_uz": "to'g'ri payt",
+    "example_sentence": "Wait for the right moment to ask him."
+   },
+   {
+    "word": "a moment of silence",
+    "translation_uz": "bir daqiqalik sukunat",
+    "example_sentence": "We kept a moment of silence at the ceremony."
+   },
+   {
+    "word": "have a moment",
+    "translation_uz": "bo'sh vaqti bo'lmoq",
+    "example_sentence": "Do you have a moment to look at my drawing?"
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I'm sorry, I'm busy ___ the moment.",
+    "correct_word": "at",
+    "options": [
+     "by",
+     "in",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "Wait here. I'll be back ___ a moment.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "with",
+     "at",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "He jumped on the train ___ the last moment.",
+    "correct_word": "at",
+    "options": [
+     "in",
+     "at",
+     "on",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ she saw the cake, she smiled.",
+    "correct_word": "moment",
+    "options": [
+     "moment",
+     "hour",
+     "minute of",
+     "time"
+    ]
+   },
+   {
+    "sentence_with_blank": "Do you have a ___ to check my homework?",
+    "correct_word": "moment",
+    "options": [
+     "hour",
+     "day",
+     "week",
+     "moment"
+    ]
+   },
+   {
+    "sentence_with_blank": "The rain stopped and we looked ___ a moment at the rainbow.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "until",
+     "within",
+     "since"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Rainbow",
+   "text": "At the moment I am on holiday with my grandparents in the mountains. Yesterday it rained heavily, and we stayed inside. Then, any moment now, the clouds seemed to open, and the sun came out. We ran outside, and for a moment nobody said anything because a huge rainbow stood over the valley. It was a magical moment. My grandfather said that you must wait for the right moment to take a photo, so I waited and took one just before the colours faded.",
+   "key_words": [
+    {
+     "word": "valley",
+     "translation_uz": "vodiy"
+    },
+    {
+     "word": "rainbow",
+     "translation_uz": "kamalak"
+    },
+    {
+     "word": "fade",
+     "translation_uz": "so'nmoq"
+    },
+    {
+     "word": "magical",
+     "translation_uz": "sehrli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the writer on holiday?",
+     "options": [
+      "At the sea",
+      "In a big city",
+      "In a forest camp",
+      "In the mountains"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was the weather like yesterday?",
+     "options": [
+      "Snowy",
+      "Windy and dry",
+      "Rainy",
+      "Foggy"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened when the sun came out?",
+     "options": [
+      "A storm began",
+      "A rainbow appeared",
+      "It got dark",
+      "It snowed"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the writer call the moment?",
+     "options": [
+      "Magical",
+      "Boring",
+      "Scary",
+      "Short only"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who gave advice about photos?",
+     "options": [
+      "His teacher",
+      "His cousin",
+      "A stranger",
+      "His grandfather"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When did the writer take the photo?",
+     "options": [
+      "Before the rain",
+      "At night",
+      "Just before the colours faded",
+      "After the rainbow went"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Waiting for the Show",
+   "script": "Lena: Is the show starting? Ben: Just a moment, I'll check. Not yet. They said it begins in a moment. Lena: I hope we don't miss it. Last time we arrived at the last moment and had no seats. Ben: The moment the lights go down, everyone will be quiet. Lena: Look, the curtain is moving! It will begin any moment now. Ben: I love this part. It's always a special moment.",
+   "questions": [
+    {
+     "question": "What are Lena and Ben waiting for?",
+     "options": [
+      "A show",
+      "A bus",
+      "A film at home",
+      "A lesson"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Ben do first?",
+     "options": [
+      "He leaves",
+      "He buys snacks",
+      "He sleeps",
+      "He checks"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What happened last time?",
+     "options": [
+      "They were early",
+      "They got a prize",
+      "They had no seats",
+      "They got lost"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happens when the lights go down?",
+     "options": [
+      "The show ends",
+      "Everyone is quiet",
+      "People talk",
+      "Ben leaves"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is moving?",
+     "options": [
+      "The curtain",
+      "The seats",
+      "The stage door",
+      "The lights"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How does Ben feel about this part?",
+     "options": [
+      "He is afraid",
+      "He is bored",
+      "He is angry",
+      "He loves it"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Just a moment, please.",
+    "He left at the last moment.",
+    "It was a magical moment."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Now",
+    "question_text": "What are you doing at the moment?",
+    "hint_words": [
+     "reading",
+     "speaking",
+     "sitting",
+     "studying"
+    ]
+   },
+   {
+    "topic": "Special",
+    "question_text": "Tell me about a special moment in your life.",
+    "hint_words": [
+     "birthday",
+     "trip",
+     "family",
+     "win"
+    ]
+   },
+   {
+    "topic": "Timing",
+    "question_text": "What is the right moment to call a friend?",
+    "hint_words": [
+     "evening",
+     "free",
+     "weekend",
+     "not late"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 92,
+  "title": "movement",
+  "vocabulary": [
+   {
+    "word": "a sudden movement",
+    "translation_uz": "to'satdan harakat",
+    "example_sentence": "A sudden movement frightened the cat."
+   },
+   {
+    "word": "a slight movement",
+    "translation_uz": "salgina harakat",
+    "example_sentence": "I saw a slight movement behind the curtain."
+   },
+   {
+    "word": "movement of the body / hands",
+    "translation_uz": "tana / qo'l harakati",
+    "example_sentence": "Dancing needs smooth movement of the arms."
+   },
+   {
+    "word": "make a movement",
+    "translation_uz": "harakat qilmoq",
+    "example_sentence": "Don't make any movement; the bird will fly away."
+   },
+   {
+    "word": "a slow / graceful movement",
+    "translation_uz": "sekin / nafis harakat",
+    "example_sentence": "The swan glided with slow, graceful movements."
+   },
+   {
+    "word": "movement of the planets",
+    "translation_uz": "sayyoralar harakati",
+    "example_sentence": "We studied the movement of the planets in science."
+   },
+   {
+    "word": "the freedom of movement",
+    "translation_uz": "erkin harakatlanish",
+    "example_sentence": "A seat belt should still give you some freedom of movement."
+   },
+   {
+    "word": "a movement for / against",
+    "translation_uz": "...ni yoqlab / ...ga qarshi harakat",
+    "example_sentence": "There is a movement for cleaner rivers in our region."
+   },
+   {
+    "word": "join a movement",
+    "translation_uz": "harakatga qo'shilmoq",
+    "example_sentence": "Many students joined the recycling movement."
+   },
+   {
+    "word": "the environmental movement",
+    "translation_uz": "ekologik harakat",
+    "example_sentence": "The environmental movement started small."
+   },
+   {
+    "word": "on the move",
+    "translation_uz": "yo'lda, harakatda",
+    "example_sentence": "Birds are on the move in autumn."
+   },
+   {
+    "word": "move / movement / moving",
+    "translation_uz": "harakatlanmoq / harakat / ta'sirli",
+    "example_sentence": "The film was very moving."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I noticed a slight ___ in the grass.",
+    "correct_word": "movement",
+    "options": [
+     "movement",
+     "move to",
+     "moving",
+     "motion of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Doctors say daily ___ of the legs keeps us healthy.",
+    "correct_word": "movement",
+    "options": [
+     "moved",
+     "movement",
+     "moment",
+     "moving"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many young people have joined the movement ___ cleaner air.",
+    "correct_word": "for",
+    "options": [
+     "of by",
+     "from",
+     "at",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "In autumn, thousands of birds are ___ the move.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "on",
+     "by",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "She made a sudden ___ and knocked over the glass.",
+    "correct_word": "movement",
+    "options": [
+     "move on",
+     "moving",
+     "moved",
+     "movement"
+    ]
+   },
+   {
+    "sentence_with_blank": "The study of the ___ of the planets is called astronomy.",
+    "correct_word": "movement",
+    "options": [
+     "movements of",
+     "movement",
+     "moment",
+     "moving"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Quiet Morning",
+   "text": "Early in the morning, Zafar sat very still near the pond. He did not want to make any sudden movement, because a heron was standing in the water. For a long time there was only a slight movement of the reeds. Then the bird opened its wings with a slow, graceful movement and flew away. Zafar smiled. His teacher had told the class about a local movement to protect the pond, and he decided to join it. Watching wild animals, he thought, teaches you patience.",
+   "key_words": [
+    {
+     "word": "pond",
+     "translation_uz": "hovuz"
+    },
+    {
+     "word": "heron",
+     "translation_uz": "baliqchi qush (vodiy qushi)"
+    },
+    {
+     "word": "protect",
+     "translation_uz": "himoya qilmoq"
+    },
+    {
+     "word": "patience",
+     "translation_uz": "sabr"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did Zafar sit?",
+     "options": [
+      "Near a pond",
+      "On a bridge",
+      "In a boat",
+      "In a park café"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did he avoid sudden movements?",
+     "options": [
+      "He was sleepy",
+      "He was cold",
+      "He was hiding from a dog",
+      "A bird was in the water"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What moved a little in the water?",
+     "options": [
+      "The fish",
+      "A boat",
+      "The reeds",
+      "A stone"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How did the bird fly away?",
+     "options": [
+      "Very quickly",
+      "With slow, graceful movement",
+      "With loud noise",
+      "It did not fly"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did his teacher tell the class about?",
+     "options": [
+      "A movement to protect the pond",
+      "A football game",
+      "A school trip",
+      "A film"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Zafar decide to do?",
+     "options": [
+      "Move away",
+      "Catch the bird",
+      "Paint the pond",
+      "Join the movement"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Dance Class",
+   "script": "Coach: Good evening, everyone. Today we will practise smooth movement. Watch my arms. A slow, graceful movement is better than a sudden one. Girl: Like this? Coach: Yes! Don't make any quick movement with your head. Boy: I have a pain in my leg. Coach: Then keep it still for a moment. Dancing needs freedom of movement, but never push too hard. Remember, a good dancer is always on the move, but never in a hurry.",
+   "questions": [
+    {
+     "question": "What will the class practise today?",
+     "options": [
+      "Fast jumping",
+      "Smooth movement",
+      "Singing",
+      "Painting"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which kind of movement is better?",
+     "options": [
+      "Slow and graceful",
+      "Sudden",
+      "Loud",
+      "Short"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What shouldn't the girl do with her head?",
+     "options": [
+      "Look at the coach",
+      "Lift it",
+      "Relax it",
+      "Make quick movements"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What problem does the boy have?",
+     "options": [
+      "A cold",
+      "Lost shoes",
+      "A pain in his leg",
+      "A late bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does dancing need?",
+     "options": [
+      "Silence only",
+      "Freedom of movement",
+      "A big room",
+      "Expensive clothes"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is a good dancer never?",
+     "options": [
+      "In a hurry",
+      "Happy",
+      "On time",
+      "Tired"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I saw a slight movement.",
+    "Don't make a sudden movement.",
+    "She joined the movement."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sports",
+    "question_text": "Which movements do you do in your favourite sport?",
+    "hint_words": [
+     "run",
+     "jump",
+     "throw",
+     "kick"
+    ]
+   },
+   {
+    "topic": "Animals",
+    "question_text": "What animals have graceful movements?",
+    "hint_words": [
+     "swan",
+     "cat",
+     "deer",
+     "fish"
+    ]
+   },
+   {
+    "topic": "Movement",
+    "question_text": "Have you ever joined a movement or club for a good cause?",
+    "hint_words": [
+     "clean",
+     "help",
+     "school",
+     "recycle"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 93,
+  "title": "need",
+  "vocabulary": [
+   {
+    "word": "a need for",
+    "translation_uz": "...ga ehtiyoj",
+    "example_sentence": "There is a great need for volunteers at the shelter."
+   },
+   {
+    "word": "in need of",
+    "translation_uz": "...ga muhtoj",
+    "example_sentence": "The old bridge is badly in need of repair."
+   },
+   {
+    "word": "there is no need to",
+    "translation_uz": "...ning keragi yo'q",
+    "example_sentence": "There is no need to shout; I can hear you."
+   },
+   {
+    "word": "meet a need / needs",
+    "translation_uz": "ehtiyojni qondirmoq",
+    "example_sentence": "The new clinic meets the needs of the village."
+   },
+   {
+    "word": "basic needs",
+    "translation_uz": "asosiy ehtiyojlar",
+    "example_sentence": "Food, water and a home are our basic needs."
+   },
+   {
+    "word": "special needs",
+    "translation_uz": "maxsus ehtiyojlar",
+    "example_sentence": "The school helps children with special needs."
+   },
+   {
+    "word": "a real / urgent need",
+    "translation_uz": "haqiqiy / shoshilinch ehtiyoj",
+    "example_sentence": "There is an urgent need for clean water."
+   },
+   {
+    "word": "if need be",
+    "translation_uz": "kerak bo'lsa",
+    "example_sentence": "I will stay late, if need be."
+   },
+   {
+    "word": "feel the need to",
+    "translation_uz": "...ga ehtiyoj sezmoq",
+    "example_sentence": "Sometimes I feel the need to be alone."
+   },
+   {
+    "word": "need to do / needn't",
+    "translation_uz": "...ishi kerak / shart emas",
+    "example_sentence": "You need to bring a pencil; you needn't bring a ruler."
+   },
+   {
+    "word": "needy / needless",
+    "translation_uz": "muhtoj / keraksiz",
+    "example_sentence": "Needless to say, we were delighted."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "There is a great need ___ more doctors in the region.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "about",
+     "on",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The family was in need ___ help after the flood.",
+    "correct_word": "of",
+    "options": [
+     "to",
+     "for",
+     "of",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ to say, we were very happy with the result.",
+    "correct_word": "Needless",
+    "options": [
+     "Pointless",
+     "Useless",
+     "Careless",
+     "Needless"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is no need ___ hurry; we have plenty of time.",
+    "correct_word": "to",
+    "options": [
+     "in",
+     "for",
+     "to",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Food, water and sleep are ___ needs.",
+    "correct_word": "basic",
+    "options": [
+     "strong",
+     "wide",
+     "tall",
+     "basic"
+    ]
+   },
+   {
+    "sentence_with_blank": "A small shop on the corner ___ the needs of local people.",
+    "correct_word": "meets",
+    "options": [
+     "does",
+     "takes",
+     "gives to",
+     "meets"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Helping the Shelter",
+   "text": "The animal shelter in our town is in need of help. There is a great need for blankets and food, because many dogs arrived after the cold winter. Our class decided to meet this need by holding a small collection. There was no need to ask twice; everyone brought something. Kamila brought two blankets, and Oybek brought tins of food. If need be, we will collect again next month. The shelter manager said the dogs have basic needs, such as warmth and care, and we helped to meet them.",
+   "key_words": [
+    {
+     "word": "shelter",
+     "translation_uz": "boshpana"
+    },
+    {
+     "word": "blanket",
+     "translation_uz": "ko'rpa"
+    },
+    {
+     "word": "collection",
+     "translation_uz": "yig'ish"
+    },
+    {
+     "word": "warmth",
+     "translation_uz": "iliqlik"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the shelter need?",
+     "options": [
+      "Toys",
+      "Blankets and food",
+      "New doors",
+      "Cages only"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did more dogs arrive?",
+     "options": [
+      "The winter was cold",
+      "A show ended",
+      "A shop closed",
+      "A fire started"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the class hold?",
+     "options": [
+      "A concert",
+      "A race",
+      "A party",
+      "A small collection"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Kamila bring?",
+     "options": [
+      "Tins of food",
+      "A toy",
+      "Two blankets",
+      "A dog"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When might they collect again?",
+     "options": [
+      "Tomorrow",
+      "Next month",
+      "Next year",
+      "Never"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What are the dogs' basic needs?",
+     "options": [
+      "Warmth and care",
+      "Games",
+      "Medals",
+      "Photos"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Packing List",
+   "script": "Mum: We're going camping. What do we really need? Dan: We need a tent and a torch. Mum: Good. There is no need to bring the big radio, though. Dan: But I feel the need to listen to music. Mum: You can use your phone. If need be, we can charge it in the car. Dan: Fine. Do we need food? Mum: Of course, but we needn't buy it all today. The shop in the village meets all our needs.",
+   "questions": [
+    {
+     "question": "Where are they going?",
+     "options": [
+      "To a hotel",
+      "To a museum",
+      "Camping",
+      "To the sea by plane"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do they need?",
+     "options": [
+      "A big radio",
+      "A tent and a torch",
+      "A boat",
+      "Skis"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What shouldn't Dan bring?",
+     "options": [
+      "The big radio",
+      "His phone",
+      "A torch",
+      "A tent"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What can Dan use for music?",
+     "options": [
+      "A radio",
+      "A laptop",
+      "A guitar",
+      "His phone"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where can they charge the phone?",
+     "options": [
+      "At the tent",
+      "At school",
+      "In the car",
+      "In a shop"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What meets all their needs?",
+     "options": [
+      "The campsite",
+      "The shop in the village",
+      "The tent",
+      "The car"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "There is no need to wait.",
+    "The village is in need of water.",
+    "We feel the need to help."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Needs",
+    "question_text": "What do people need to stay healthy?",
+    "hint_words": [
+     "food",
+     "sleep",
+     "exercise",
+     "water"
+    ]
+   },
+   {
+    "topic": "Helping",
+    "question_text": "Is there a need for help in your area?",
+    "hint_words": [
+     "volunteer",
+     "clean",
+     "old people",
+     "animals"
+    ]
+   },
+   {
+    "topic": "Packing",
+    "question_text": "What do you need for a school day?",
+    "hint_words": [
+     "books",
+     "pens",
+     "bag",
+     "lunch"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 94,
+  "title": "number",
+  "vocabulary": [
+   {
+    "word": "a large / small number of",
+    "translation_uz": "katta / kichik miqdor...",
+    "example_sentence": "A large number of people came to the festival."
+   },
+   {
+    "word": "the number of ... is",
+    "translation_uz": "...ning soni",
+    "example_sentence": "The number of students in our class is twenty."
+   },
+   {
+    "word": "a number of",
+    "translation_uz": "bir nechta",
+    "example_sentence": "A number of books were missing from the shelf."
+   },
+   {
+    "word": "a phone number",
+    "translation_uz": "telefon raqami",
+    "example_sentence": "What is your phone number?"
+   },
+   {
+    "word": "dial a number",
+    "translation_uz": "raqam terish",
+    "example_sentence": "He dialled the number and waited."
+   },
+   {
+    "word": "a wrong number",
+    "translation_uz": "noto'g'ri raqam",
+    "example_sentence": "I'm sorry, you have the wrong number."
+   },
+   {
+    "word": "an even / odd number",
+    "translation_uz": "juft / toq son",
+    "example_sentence": "Six is an even number; seven is odd."
+   },
+   {
+    "word": "the number one ...",
+    "translation_uz": "birinchi raqamli ...",
+    "example_sentence": "Football is the number one sport in town."
+   },
+   {
+    "word": "in large numbers",
+    "translation_uz": "ommaviy ravishda",
+    "example_sentence": "Tourists come in large numbers in summer."
+   },
+   {
+    "word": "the number rises / falls",
+    "translation_uz": "soni oshadi / kamayadi",
+    "example_sentence": "The number of cars on the road is rising."
+   },
+   {
+    "word": "a house / bus number",
+    "translation_uz": "uy / avtobus raqami",
+    "example_sentence": "Take bus number twelve to the museum."
+   },
+   {
+    "word": "numerous / numeral",
+    "translation_uz": "ko'p sonli / raqam",
+    "example_sentence": "Numerous visitors have signed the book."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A large ___ of people watched the parade.",
+    "correct_word": "number",
+    "options": [
+     "quantity of",
+     "amount",
+     "deal",
+     "number"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ of students in the club is growing.",
+    "correct_word": "number",
+    "options": [
+     "amount",
+     "pile",
+     "count of",
+     "number"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sorry, I dialled the wrong ___ .",
+    "correct_word": "number",
+    "options": [
+     "number",
+     "digit of",
+     "line of",
+     "phone"
+    ]
+   },
+   {
+    "sentence_with_blank": "Eight is an ___ number; nine is odd.",
+    "correct_word": "even",
+    "options": [
+     "even",
+     "flat",
+     "equal",
+     "same"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tourists arrive in large ___ in July.",
+    "correct_word": "numbers",
+    "options": [
+     "amounts",
+     "quantities",
+     "numbers",
+     "groups of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Seven is an odd number, so it cannot be divided ___ two.",
+    "correct_word": "by",
+    "options": [
+     "on",
+     "in",
+     "by",
+     "with"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Counting the Birds",
+   "text": "Last weekend, our class counted birds in the park for a science project. We wrote down the number of birds on each tree and later added the numbers together. A large number of sparrows lived in the oak tree, and a small number of ducks swam on the lake. The total number was forty-six, an even number. Our teacher said the number of birds rises in spring, so we will count again in April. We kept the results in a notebook with a phone number on the cover in case we lost it.",
+   "key_words": [
+    {
+     "word": "count",
+     "translation_uz": "sanamoq"
+    },
+    {
+     "word": "sparrow",
+     "translation_uz": "chumchuq"
+    },
+    {
+     "word": "total",
+     "translation_uz": "jami"
+    },
+    {
+     "word": "result",
+     "translation_uz": "natija"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class count?",
+     "options": [
+      "Trees",
+      "Cars",
+      "Birds",
+      "Visitors"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did a large number of birds live?",
+     "options": [
+      "On the lake",
+      "In the oak tree",
+      "On the roof",
+      "In the grass"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What swam on the lake?",
+     "options": [
+      "A few ducks",
+      "Many swans",
+      "Fish only",
+      "Geese"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was the total?",
+     "options": [
+      "Sixty-four",
+      "Forty-nine",
+      "Twenty",
+      "Forty-six"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When will they count again?",
+     "options": [
+      "In winter",
+      "Next week",
+      "In April",
+      "In June"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why is a phone number on the notebook?",
+     "options": [
+      "To call birds",
+      "In case it is lost",
+      "For the teacher's mum",
+      "For a competition"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Phone Call",
+   "script": "Emma: Hello, is that Mr Brown? Man: I'm sorry, you have the wrong number. Emma: Oh, I'm sorry. What number did I dial? Man: This is 5-5-0-1-2-3. Emma: I wanted 5-5-0-1-3-2. I see, the numbers are almost the same! Man: Don't worry, a number of people call us by mistake. Emma: Thank you. I'll dial again carefully. Man: Good luck!",
+   "questions": [
+    {
+     "question": "Who answers the phone?",
+     "options": [
+      "Emma's friend",
+      "Emma's teacher",
+      "A girl",
+      "A man"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is wrong with the call?",
+     "options": [
+      "Bad signal",
+      "Nobody answers",
+      "Wrong number",
+      "A busy line"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What number did Emma want?",
+     "options": [
+      "550123",
+      "550132",
+      "555132",
+      "501234"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What number did she dial?",
+     "options": [
+      "550123",
+      "550132",
+      "550231",
+      "123550"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the man say?",
+     "options": [
+      "He is angry",
+      "He will help her",
+      "He is leaving",
+      "Others also call by mistake"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will Emma do?",
+     "options": [
+      "Stop calling",
+      "Send a text",
+      "Dial again carefully",
+      "Go to his house"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "What is your phone number?",
+    "He dialled the wrong number.",
+    "A large number came."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Numbers",
+    "question_text": "What is your lucky number? Why?",
+    "hint_words": [
+     "birthday",
+     "seven",
+     "favourite",
+     "team"
+    ]
+   },
+   {
+    "topic": "Phone",
+    "question_text": "Do you remember your friends' phone numbers?",
+    "hint_words": [
+     "yes",
+     "no",
+     "phone",
+     "contacts"
+    ]
+   },
+   {
+    "topic": "Crowds",
+    "question_text": "Does a large number of people visit your town in summer?",
+    "hint_words": [
+     "tourists",
+     "holiday",
+     "hot",
+     "festival"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 95,
+  "title": "occasion",
+  "vocabulary": [
+   {
+    "word": "a special occasion",
+    "translation_uz": "maxsus holat",
+    "example_sentence": "We use the new plates only on special occasions."
+   },
+   {
+    "word": "on this / that occasion",
+    "translation_uz": "bu / o'sha holatda",
+    "example_sentence": "On that occasion I forgot my keys."
+   },
+   {
+    "word": "on one occasion",
+    "translation_uz": "bir safar",
+    "example_sentence": "On one occasion he walked five kilometres to school."
+   },
+   {
+    "word": "on several / many occasions",
+    "translation_uz": "bir necha marta",
+    "example_sentence": "I have met her on several occasions."
+   },
+   {
+    "word": "a formal / informal occasion",
+    "translation_uz": "rasmiy / norasmiy holat",
+    "example_sentence": "A school concert is a formal occasion."
+   },
+   {
+    "word": "a family occasion",
+    "translation_uz": "oilaviy tadbir",
+    "example_sentence": "A wedding is a big family occasion."
+   },
+   {
+    "word": "mark the occasion",
+    "translation_uz": "voqeani nishonlamoq",
+    "example_sentence": "We cooked a cake to mark the occasion."
+   },
+   {
+    "word": "rise to the occasion",
+    "translation_uz": "vaziyatga munosib bo'lmoq",
+    "example_sentence": "The young goalkeeper rose to the occasion."
+   },
+   {
+    "word": "an occasion for",
+    "translation_uz": "...uchun sabab",
+    "example_sentence": "The prize was an occasion for celebration."
+   },
+   {
+    "word": "no occasion to do",
+    "translation_uz": "...uchun sabab yo'q",
+    "example_sentence": "There was no occasion to complain."
+   },
+   {
+    "word": "dress for the occasion",
+    "translation_uz": "vaziyatga mos kiyinmoq",
+    "example_sentence": "Dress for the occasion; it is a smart event."
+   },
+   {
+    "word": "occasional / occasionally",
+    "translation_uz": "vaqti-vaqti bilan / goh-goh",
+    "example_sentence": "We occasionally eat out on Sundays."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We eat in the dining room only on special ___ .",
+    "correct_word": "occasions",
+    "options": [
+     "days off",
+     "parties",
+     "times of",
+     "occasions"
+    ]
+   },
+   {
+    "sentence_with_blank": "He has been late ___ several occasions.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "at",
+     "by",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "She rose ___ the occasion and gave a perfect speech.",
+    "correct_word": "to",
+    "options": [
+     "over",
+     "in",
+     "to",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "A wedding is a ___ occasion that brings the whole family together.",
+    "correct_word": "family",
+    "options": [
+     "narrow",
+     "family",
+     "thin",
+     "wild"
+    ]
+   },
+   {
+    "sentence_with_blank": "We baked a cake to ___ the occasion.",
+    "correct_word": "mark",
+    "options": [
+     "count",
+     "mark",
+     "draw",
+     "write"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a formal occasion, so everyone wore a ___ .",
+    "correct_word": "suit",
+    "options": [
+     "swimsuit",
+     "T-shirt",
+     "suit",
+     "tracksuit"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Cousin's Wedding",
+   "text": "Last Saturday was a special occasion for our family, because my cousin got married. It was a formal occasion, so we all dressed for the occasion. I wore a new blue jacket, and my sister wore a long green dress. On several occasions during the day, someone gave a speech, and my uncle even sang a song. On one occasion the music stopped, and a little boy danced alone. Everybody laughed and clapped. We cut a big cake to mark the occasion, and we took photos until it was dark.",
+   "key_words": [
+    {
+     "word": "wedding",
+     "translation_uz": "to'y"
+    },
+    {
+     "word": "speech",
+     "translation_uz": "nutq"
+    },
+    {
+     "word": "clap",
+     "translation_uz": "qarsak chalmoq"
+    },
+    {
+     "word": "dress",
+     "translation_uz": "kiyinmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the special occasion?",
+     "options": [
+      "A birthday",
+      "A school day",
+      "A match",
+      "A wedding"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the writer wear?",
+     "options": [
+      "A green dress",
+      "A uniform",
+      "A new blue jacket",
+      "A tracksuit"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who sang a song?",
+     "options": [
+      "The cousin",
+      "The uncle",
+      "The sister",
+      "A boy"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who danced alone when the music stopped?",
+     "options": [
+      "A little boy",
+      "The groom",
+      "The cousin",
+      "The writer"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did people react?",
+     "options": [
+      "They left",
+      "They cried",
+      "They shouted",
+      "They laughed and clapped"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did they cut a cake?",
+     "options": [
+      "For a game",
+      "Because it was late",
+      "To mark the occasion",
+      "For lunch only"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "What to Wear",
+   "script": "Aisha: Mum, what should I wear to Grandma's party? Mum: It's a family occasion, but not a formal one. You can dress up a little. Aisha: Is it a special occasion? Mum: Yes, she is seventy! On that occasion last year, you wore a dress. Aisha: And I rose to the occasion by singing! Mum: You did. We should mark the occasion with a nice gift. Aisha: I'll make a card. Occasionally, a handmade gift is the best.",
+   "questions": [
+    {
+     "question": "What is Aisha going to?",
+     "options": [
+      "Grandma's party",
+      "A concert",
+      "A match",
+      "An exam"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How old is Grandma?",
+     "options": [
+      "Sixty",
+      "Eighty",
+      "Fifty",
+      "Seventy"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What kind of occasion is it?",
+     "options": [
+      "Formal and quiet",
+      "A school event",
+      "Family, not formal",
+      "A sports day"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Aisha do last year?",
+     "options": [
+      "She danced",
+      "She sang",
+      "She cooked",
+      "She stayed home"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What gift will she make?",
+     "options": [
+      "A card",
+      "A cake",
+      "A scarf",
+      "A photo book"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Mum want to do?",
+     "options": [
+      "Cancel the party",
+      "Wear old clothes",
+      "Visit later",
+      "Mark the occasion with a gift"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "It is a special occasion.",
+    "On that occasion, I was late.",
+    "Dress for the occasion."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Celebrations",
+    "question_text": "What is a special occasion in your family?",
+    "hint_words": [
+     "birthday",
+     "holiday",
+     "wedding",
+     "Navruz"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "What do you wear on formal occasions?",
+    "hint_words": [
+     "suit",
+     "dress",
+     "shoes",
+     "smart"
+    ]
+   },
+   {
+    "topic": "Gifts",
+    "question_text": "How do you mark an important occasion?",
+    "hint_words": [
+     "cake",
+     "gift",
+     "photos",
+     "meal"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 96,
+  "title": "offer",
+  "vocabulary": [
+   {
+    "word": "make an offer",
+    "translation_uz": "taklif qilmoq",
+    "example_sentence": "The shop made me an offer for my old bike."
+   },
+   {
+    "word": "accept an offer",
+    "translation_uz": "taklifni qabul qilmoq",
+    "example_sentence": "She accepted the offer of a lift home."
+   },
+   {
+    "word": "turn down / refuse an offer",
+    "translation_uz": "taklifni rad etmoq",
+    "example_sentence": "He turned down the offer because he was busy."
+   },
+   {
+    "word": "a generous offer",
+    "translation_uz": "saxiy taklif",
+    "example_sentence": "Their offer of free tickets was very generous."
+   },
+   {
+    "word": "a special offer",
+    "translation_uz": "maxsus taklif",
+    "example_sentence": "Trainers are on special offer this week."
+   },
+   {
+    "word": "on offer",
+    "translation_uz": "sotuvda, taklif etilgan",
+    "example_sentence": "There are many sports on offer at our club."
+   },
+   {
+    "word": "a job offer",
+    "translation_uz": "ish taklifi",
+    "example_sentence": "Her father got a job offer from a school abroad."
+   },
+   {
+    "word": "an offer of help",
+    "translation_uz": "yordam taklifi",
+    "example_sentence": "Thank you for your offer of help."
+   },
+   {
+    "word": "offer to do something",
+    "translation_uz": "...ishni qilishni taklif qilmoq",
+    "example_sentence": "I offered to carry her bags."
+   },
+   {
+    "word": "offer someone something",
+    "translation_uz": "kimgadir biror narsa taklif qilmoq",
+    "example_sentence": "The waiter offered us some water."
+   },
+   {
+    "word": "an offer you can't refuse",
+    "translation_uz": "rad etib bo'lmaydigan taklif",
+    "example_sentence": "A free trip to the zoo was an offer we couldn't refuse."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The shop ___ me a good offer for my bike.",
+    "correct_word": "made",
+    "options": [
+     "made",
+     "did",
+     "gave out",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "Thank you for your offer ___ help.",
+    "correct_word": "of",
+    "options": [
+     "at",
+     "with",
+     "of",
+     "for to"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mia ___ the offer of a ride and walked home.",
+    "correct_word": "turned down",
+    "options": [
+     "put down",
+     "turned up",
+     "turned down",
+     "took off"
+    ]
+   },
+   {
+    "sentence_with_blank": "These jackets are ___ special offer until Sunday.",
+    "correct_word": "on",
+    "options": [
+     "by",
+     "in",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "Aziz ___ to help me with my homework.",
+    "correct_word": "offered",
+    "options": [
+     "offered",
+     "proposed me",
+     "suggested me",
+     "advised"
+    ]
+   },
+   {
+    "sentence_with_blank": "They gave us a ___ offer: two tickets for the price of one.",
+    "correct_word": "generous",
+    "options": [
+     "heavy",
+     "generous",
+     "long",
+     "tall"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Kind Neighbour",
+   "text": "Our neighbour, Mrs Nilufar, made us a generous offer last week. She said we could pick apples from her garden, because her tree was full. My mother accepted the offer with a big smile. We took two baskets and picked for an hour. Mrs Nilufar also offered to teach me how to bake an apple pie. At first I wanted to turn down the offer because I thought it was too difficult, but I am glad I accepted. The pie was delicious, and now I know her recipe too.",
+   "key_words": [
+    {
+     "word": "neighbour",
+     "translation_uz": "qo'shni"
+    },
+    {
+     "word": "generous",
+     "translation_uz": "saxiy"
+    },
+    {
+     "word": "basket",
+     "translation_uz": "savat"
+    },
+    {
+     "word": "recipe",
+     "translation_uz": "retsept"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Mrs Nilufar offer?",
+     "options": [
+      "Apples from her garden",
+      "A cake",
+      "A lift to school",
+      "A puppy"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who accepted the offer?",
+     "options": [
+      "The writer's teacher",
+      "The writer's brother",
+      "A stranger",
+      "The writer's mother"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did they pick apples?",
+     "options": [
+      "All day",
+      "Ten minutes",
+      "An hour",
+      "A week"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did she offer to teach?",
+     "options": [
+      "How to knit",
+      "How to bake an apple pie",
+      "How to play chess",
+      "How to sing"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did the writer want to refuse?",
+     "options": [
+      "It seemed too difficult",
+      "He was lazy",
+      "He was ill",
+      "He disliked apples"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How was the pie?",
+     "options": [
+      "Burnt",
+      "Too sweet",
+      "Cold",
+      "Delicious"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Shop",
+   "script": "Shop assistant: Good afternoon. These football boots are on special offer this week. Boy: How much are they? Shop assistant: Half price. And if you buy two pairs, I'll make you an even better offer: a free bag. Boy: That's a generous offer, but I only need one pair. Shop assistant: Then may I offer you a discount card? Boy: Yes, please. I accept that offer! Thank you for your help.",
+   "questions": [
+    {
+     "question": "What is on special offer?",
+     "options": [
+      "Bags",
+      "Football boots",
+      "T-shirts",
+      "Balls"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How much are the boots?",
+     "options": [
+      "Half price",
+      "Free",
+      "Double price",
+      "Full price"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the offer for two pairs?",
+     "options": [
+      "A free ball",
+      "A free shirt",
+      "Free delivery",
+      "A free bag"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Does the boy need two pairs?",
+     "options": [
+      "Yes, for his team",
+      "Yes, for his brother",
+      "No, only one",
+      "He does not know"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the assistant offer instead?",
+     "options": [
+      "A discount shirt",
+      "A discount card",
+      "A gift box",
+      "Nothing"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the boy do?",
+     "options": [
+      "Accepts the offer",
+      "Refuses and leaves",
+      "Calls his mum",
+      "Takes the bag"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I accepted the offer.",
+    "He turned down the offer.",
+    "Thank you for your offer."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Offers",
+    "question_text": "Has anyone ever made you a generous offer?",
+    "hint_words": [
+     "gift",
+     "help",
+     "friend",
+     "yes"
+    ]
+   },
+   {
+    "topic": "Help",
+    "question_text": "What can you offer to do at home to help your family?",
+    "hint_words": [
+     "cook",
+     "clean",
+     "shop",
+     "wash up"
+    ]
+   },
+   {
+    "topic": "Shopping",
+    "question_text": "Do you like special offers when you shop?",
+    "hint_words": [
+     "cheap",
+     "sale",
+     "buy",
+     "save"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 97,
+  "title": "opinion",
+  "vocabulary": [
+   {
+    "word": "in my opinion",
+    "translation_uz": "mening fikrimcha",
+    "example_sentence": "In my opinion, the film was too long."
+   },
+   {
+    "word": "express / give an opinion",
+    "translation_uz": "fikr bildirmoq",
+    "example_sentence": "Everyone should have the right to express an opinion."
+   },
+   {
+    "word": "ask for someone's opinion",
+    "translation_uz": "birovning fikrini so'ramoq",
+    "example_sentence": "The teacher asked for our opinion about homework."
+   },
+   {
+    "word": "have an opinion about / on",
+    "translation_uz": "...haqida fikrga ega bo'lmoq",
+    "example_sentence": "Do you have an opinion on school uniforms?"
+   },
+   {
+    "word": "form an opinion",
+    "translation_uz": "fikr shakllantirmoq",
+    "example_sentence": "Read both texts before you form an opinion."
+   },
+   {
+    "word": "change your opinion",
+    "translation_uz": "fikrini o'zgartirmoq",
+    "example_sentence": "After the trip, he changed his opinion of the city."
+   },
+   {
+    "word": "a strong opinion",
+    "translation_uz": "qat'iy fikr",
+    "example_sentence": "My uncle has strong opinions about football."
+   },
+   {
+    "word": "a high / low opinion of",
+    "translation_uz": "...haqida yuqori / past fikrda bo'lmoq",
+    "example_sentence": "She has a high opinion of her new teacher."
+   },
+   {
+    "word": "a difference of opinion",
+    "translation_uz": "fikrlar farqi",
+    "example_sentence": "We had a difference of opinion about the music."
+   },
+   {
+    "word": "public opinion",
+    "translation_uz": "jamoatchilik fikri",
+    "example_sentence": "Public opinion is for building a new park."
+   },
+   {
+    "word": "an opinion poll",
+    "translation_uz": "so'rovnoma",
+    "example_sentence": "An opinion poll showed most people prefer buses."
+   },
+   {
+    "word": "a matter of opinion",
+    "translation_uz": "fikrga bog'liq masala",
+    "example_sentence": "Which food is best is a matter of opinion."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "___ my opinion, the second song is better.",
+    "correct_word": "In",
+    "options": [
+     "In",
+     "For",
+     "On",
+     "At"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our teacher asked ___ our opinion about the trip.",
+    "correct_word": "for",
+    "options": [
+     "to",
+     "at",
+     "for",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "They had a difference ___ opinion about where to go.",
+    "correct_word": "of",
+    "options": [
+     "in",
+     "on",
+     "from",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a high opinion ___ my science teacher.",
+    "correct_word": "of",
+    "options": [
+     "on",
+     "of",
+     "for",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Which colour is nicest is a ___ of opinion.",
+    "correct_word": "matter",
+    "options": [
+     "thing",
+     "case",
+     "matter",
+     "fact"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't ___ an opinion before you hear both sides.",
+    "correct_word": "form",
+    "options": [
+     "form",
+     "make up",
+     "take",
+     "do"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Should We Wear Uniforms?",
+   "text": "In our class we had a long discussion about school uniforms. The teacher asked for everyone's opinion, and we all had strong opinions. In my opinion, uniforms save time in the morning. Dilnoza has a low opinion of them, because she thinks they are boring. It was a difference of opinion that was never going to end, so we ran a small opinion poll. Fourteen students voted for uniforms and eleven voted against. Public opinion in the school seems to be on the side of uniforms, but our teacher says opinions can change.",
+   "key_words": [
+    {
+     "word": "discussion",
+     "translation_uz": "muhokama"
+    },
+    {
+     "word": "vote",
+     "translation_uz": "ovoz bermoq"
+    },
+    {
+     "word": "boring",
+     "translation_uz": "zerikarli"
+    },
+    {
+     "word": "against",
+     "translation_uz": "qarshi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class discuss?",
+     "options": [
+      "Homework",
+      "School uniforms",
+      "A trip",
+      "Sports day"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the writer think?",
+     "options": [
+      "Uniforms save time",
+      "Uniforms are boring",
+      "Uniforms cost a lot",
+      "Uniforms are too hot"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Dilnoza think?",
+     "options": [
+      "Uniforms are cheap",
+      "Uniforms are smart",
+      "Uniforms are warm",
+      "Uniforms are boring"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did they run?",
+     "options": [
+      "A race",
+      "A quiz",
+      "An opinion poll",
+      "A fair"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How many voted for uniforms?",
+     "options": [
+      "Eleven",
+      "Fourteen",
+      "Twenty-five",
+      "Five"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the teacher say about opinions?",
+     "options": [
+      "They can change",
+      "They never change",
+      "They are wrong",
+      "They are boring"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Which Film?",
+   "script": "Nora: What do you think of the new space film? Ali: In my opinion, it's fantastic. I have a high opinion of the director. Nora: Really? I formed a different opinion. I think the story is weak. Ali: That's a matter of opinion! Nora: True, it's a difference of opinion, nothing more. Let's ask for Sam's opinion. Ali: Good idea. Sam hasn't seen it yet, though. Nora: Then he can form his own opinion next weekend.",
+   "questions": [
+    {
+     "question": "What film are they discussing?",
+     "options": [
+      "A cartoon",
+      "A sports film",
+      "A space film",
+      "A history film"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Ali think of the film?",
+     "options": [
+      "It is weak",
+      "It is fantastic",
+      "It is boring",
+      "It is scary"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Nora think about the story?",
+     "options": [
+      "It is weak",
+      "It is clever",
+      "It is long",
+      "It is sad"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Ali say it is?",
+     "options": [
+      "A mistake",
+      "A secret",
+      "A lie",
+      "A matter of opinion"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why can't Sam give an opinion yet?",
+     "options": [
+      "He is away",
+      "He is shy",
+      "He has not seen the film",
+      "He is ill"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When can Sam form his opinion?",
+     "options": [
+      "Tomorrow",
+      "Next weekend",
+      "Tonight",
+      "Next year"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "In my opinion, it is good.",
+    "She has strong opinions.",
+    "Please give your opinion."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Opinions",
+    "question_text": "What is your opinion of school food?",
+    "hint_words": [
+     "tasty",
+     "cold",
+     "healthy",
+     "boring"
+    ]
+   },
+   {
+    "topic": "Debate",
+    "question_text": "Do you enjoy a difference of opinion with friends?",
+    "hint_words": [
+     "fun",
+     "argue",
+     "listen",
+     "calm"
+    ]
+   },
+   {
+    "topic": "Change",
+    "question_text": "Have you ever changed your opinion about a person or a film?",
+    "hint_words": [
+     "first",
+     "later",
+     "wrong",
+     "surprised"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 98,
+  "title": "opportunity",
+  "vocabulary": [
+   {
+    "word": "have / get the opportunity to",
+    "translation_uz": "...imkoniyatiga ega bo'lmoq",
+    "example_sentence": "I got the opportunity to visit a farm."
+   },
+   {
+    "word": "take an opportunity",
+    "translation_uz": "imkoniyatdan foydalanmoq",
+    "example_sentence": "She took the opportunity to practise her English."
+   },
+   {
+    "word": "miss an opportunity",
+    "translation_uz": "imkoniyatni boy bermoq",
+    "example_sentence": "Don't miss the opportunity to join the trip."
+   },
+   {
+    "word": "give someone the opportunity",
+    "translation_uz": "kimgadir imkoniyat bermoq",
+    "example_sentence": "The camp gave us the opportunity to try new sports."
+   },
+   {
+    "word": "a golden / rare opportunity",
+    "translation_uz": "oltin / noyob imkoniyat",
+    "example_sentence": "Meeting the author was a rare opportunity."
+   },
+   {
+    "word": "a great / wonderful opportunity",
+    "translation_uz": "ajoyib imkoniyat",
+    "example_sentence": "The exchange year is a great opportunity."
+   },
+   {
+    "word": "an opportunity for / to do",
+    "translation_uz": "...uchun imkoniyat",
+    "example_sentence": "The concert is an opportunity for young singers."
+   },
+   {
+    "word": "equal opportunities",
+    "translation_uz": "teng imkoniyatlar",
+    "example_sentence": "Schools should give equal opportunities to everyone."
+   },
+   {
+    "word": "job opportunities",
+    "translation_uz": "ish imkoniyatlari",
+    "example_sentence": "There are many job opportunities in the city."
+   },
+   {
+    "word": "at the first opportunity",
+    "translation_uz": "birinchi imkoniyatdayoq",
+    "example_sentence": "I will call you at the first opportunity."
+   },
+   {
+    "word": "make the most of an opportunity",
+    "translation_uz": "imkoniyatdan to'liq foydalanmoq",
+    "example_sentence": "Make the most of every opportunity to speak English."
+   },
+   {
+    "word": "opportunity knocks",
+    "translation_uz": "imkoniyat eshik qoqadi",
+    "example_sentence": "Opportunity knocks only once, they say."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Don't ___ the opportunity to see the museum for free.",
+    "correct_word": "miss",
+    "options": [
+     "break",
+     "miss",
+     "hold",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "She took the opportunity ___ ask the author a question.",
+    "correct_word": "to",
+    "options": [
+     "of",
+     "to",
+     "for to",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "The festival is a great opportunity ___ young artists.",
+    "correct_word": "for",
+    "options": [
+     "to",
+     "for",
+     "from",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'll write to you ___ the first opportunity.",
+    "correct_word": "at",
+    "options": [
+     "by",
+     "at",
+     "on",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every child should have ___ opportunities at school.",
+    "correct_word": "equal",
+    "options": [
+     "even",
+     "flat",
+     "equal",
+     "same as"
+    ]
+   },
+   {
+    "sentence_with_blank": "This trip ___ us the opportunity to see real mountains.",
+    "correct_word": "gave",
+    "options": [
+     "did",
+     "made",
+     "gave",
+     "brought up"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Exchange Year",
+   "text": "Last year Nargiza got a wonderful opportunity: she could spend a year at a school in Scotland. It was a rare opportunity, because only five students from her city were chosen. She took the opportunity at once, and her parents gave her their full support. In Scotland she made the most of every opportunity to practise English and to meet people. She also had the opportunity to go hiking in the mountains. When she returned, she told her class that nobody should miss an opportunity like this if there is a chance to apply.",
+   "key_words": [
+    {
+     "word": "exchange",
+     "translation_uz": "almashinuv"
+    },
+    {
+     "word": "support",
+     "translation_uz": "qo'llab-quvvatlash"
+    },
+    {
+     "word": "apply",
+     "translation_uz": "ariza bermoq"
+    },
+    {
+     "word": "hiking",
+     "translation_uz": "piyoda sayohat"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did Nargiza spend a year?",
+     "options": [
+      "In Italy",
+      "In Canada",
+      "In Scotland",
+      "In Spain"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How many students from her city were chosen?",
+     "options": [
+      "Fifty",
+      "Five",
+      "Two",
+      "Ten"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did her parents give her?",
+     "options": [
+      "Full support",
+      "Money only",
+      "A car",
+      "Homework"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did she do in the mountains?",
+     "options": [
+      "Ski",
+      "Swim",
+      "Fish",
+      "Go hiking"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did she practise?",
+     "options": [
+      "Spanish",
+      "Music",
+      "English",
+      "Chess"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is her advice?",
+     "options": [
+      "Stay at home",
+      "Don't miss such an opportunity",
+      "Study maths",
+      "Never travel"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Camp News",
+   "script": "Counsellor: Good news! The camp is giving us the opportunity to try rock climbing. Kids: Wow! Counsellor: It's a rare opportunity, because the climbing wall is usually closed. So make the most of it. Camper: Can anyone try it? Counsellor: Yes, everyone gets equal opportunities, but you must wear a helmet. Camper: I will take the opportunity at once! Counsellor: Good, but sign up at the first opportunity, because places are limited.",
+   "questions": [
+    {
+     "question": "What are the campers offered?",
+     "options": [
+      "Swimming",
+      "Sailing",
+      "Cycling",
+      "Rock climbing"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why is it a rare opportunity?",
+     "options": [
+      "It is expensive",
+      "It is dangerous",
+      "The wall is usually closed",
+      "It is far away"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who can try it?",
+     "options": [
+      "Only older campers",
+      "Everyone",
+      "Only the strongest",
+      "Only teachers"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What must they wear?",
+     "options": [
+      "A helmet",
+      "Boots only",
+      "A uniform",
+      "A cap"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the camper do?",
+     "options": [
+      "Refuses",
+      "Goes home",
+      "Waits a week",
+      "Takes the opportunity at once"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why should they sign up soon?",
+     "options": [
+      "It is free",
+      "It rains later",
+      "Places are limited",
+      "Camp ends"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She took the opportunity.",
+    "Don't miss this opportunity.",
+    "It was a rare opportunity."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Chances",
+    "question_text": "What is a great opportunity you would like to have?",
+    "hint_words": [
+     "travel",
+     "study",
+     "meet",
+     "learn"
+    ]
+   },
+   {
+    "topic": "English",
+    "question_text": "How do you get opportunities to practise English?",
+    "hint_words": [
+     "films",
+     "talk",
+     "friends",
+     "online"
+    ]
+   },
+   {
+    "topic": "Fairness",
+    "question_text": "Why are equal opportunities important at school?",
+    "hint_words": [
+     "fair",
+     "everyone",
+     "learn",
+     "chance"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 99,
+  "title": "order",
+  "vocabulary": [
+   {
+    "word": "in order to",
+    "translation_uz": "...uchun",
+    "example_sentence": "He saved money in order to buy a camera."
+   },
+   {
+    "word": "in alphabetical order",
+    "translation_uz": "alifbo tartibida",
+    "example_sentence": "The names are listed in alphabetical order."
+   },
+   {
+    "word": "put in order",
+    "translation_uz": "tartibga solmoq",
+    "example_sentence": "Please put your books in order on the shelf."
+   },
+   {
+    "word": "in the right / wrong order",
+    "translation_uz": "to'g'ri / noto'g'ri tartibda",
+    "example_sentence": "Put the pictures in the right order."
+   },
+   {
+    "word": "out of order",
+    "translation_uz": "ishlamayapti",
+    "example_sentence": "The lift is out of order today."
+   },
+   {
+    "word": "in working order",
+    "translation_uz": "ishlaydigan holatda",
+    "example_sentence": "The old clock is still in working order."
+   },
+   {
+    "word": "place / put in an order",
+    "translation_uz": "buyurtma bermoq",
+    "example_sentence": "We placed an order for six pizzas."
+   },
+   {
+    "word": "take an order",
+    "translation_uz": "buyurtma qabul qilmoq",
+    "example_sentence": "The waiter took our order quickly."
+   },
+   {
+    "word": "made to order",
+    "translation_uz": "buyurtma bo'yicha tayyorlangan",
+    "example_sentence": "The cake was made to order."
+   },
+   {
+    "word": "give / follow orders",
+    "translation_uz": "buyruq bermoq / bajarmoq",
+    "example_sentence": "Soldiers follow orders; we follow school rules."
+   },
+   {
+    "word": "law and order",
+    "translation_uz": "qonun va tartib",
+    "example_sentence": "Police help to keep law and order."
+   },
+   {
+    "word": "order of importance",
+    "translation_uz": "muhimlik tartibi",
+    "example_sentence": "List the jobs in order of importance."
+   },
+   {
+    "word": "orderly / tidy",
+    "translation_uz": "tartibli",
+    "example_sentence": "Her desk is always orderly."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She saved her pocket money ___ order to buy a guitar.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "for",
+     "by",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The sign says the lift is ___ order.",
+    "correct_word": "out of",
+    "options": [
+     "without",
+     "not in",
+     "off of",
+     "out of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please put the cards in alphabetical ___ .",
+    "correct_word": "order",
+    "options": [
+     "line",
+     "series",
+     "row of",
+     "order"
+    ]
+   },
+   {
+    "sentence_with_blank": "The waiter ___ our order and left for the kitchen.",
+    "correct_word": "took",
+    "options": [
+     "had",
+     "made",
+     "took",
+     "gave"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ an order for new books at the shop.",
+    "correct_word": "placed",
+    "options": [
+     "held",
+     "sat",
+     "placed",
+     "kept"
+    ]
+   },
+   {
+    "sentence_with_blank": "This cake was ___ to order for my sister.",
+    "correct_word": "made",
+    "options": [
+     "made",
+     "sent",
+     "given",
+     "taken"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Putting the Library in Order",
+   "text": "The school library was in a mess last week. The books were on the floor, and many were not in the right order. Our teacher asked us to put them in order, and we worked for two hours. First we sorted the books in alphabetical order by the author's name. Then we noticed that the computer was out of order, so the librarian placed an order for a new one. She said it would arrive in a week. Finally, the shelves looked tidy, and the librarian thanked us. \"A library in working order is a happy place,\" she said.",
+   "key_words": [
+    {
+     "word": "mess",
+     "translation_uz": "tartibsizlik"
+    },
+    {
+     "word": "sort",
+     "translation_uz": "saralamoq"
+    },
+    {
+     "word": "author",
+     "translation_uz": "muallif"
+    },
+    {
+     "word": "tidy",
+     "translation_uz": "ozoda"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the problem in the library?",
+     "options": [
+      "No books",
+      "No teacher",
+      "No light",
+      "Books were out of order"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did the students work?",
+     "options": [
+      "Ten minutes",
+      "All day",
+      "Two hours",
+      "One hour"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How did they sort the books?",
+     "options": [
+      "By colour",
+      "By author, alphabetically",
+      "By size",
+      "By price"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was out of order?",
+     "options": [
+      "The computer",
+      "The lamp",
+      "The door",
+      "The clock"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the librarian do about it?",
+     "options": [
+      "Threw it away",
+      "Fixed it herself",
+      "Ignored it",
+      "Placed an order for a new one"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When will the new one arrive?",
+     "options": [
+      "Tomorrow",
+      "In a year",
+      "In a week",
+      "Today"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Pizza Night",
+   "script": "Waiter: Are you ready to order? Girl: Yes, please. A large cheese pizza and two lemonades. Waiter: Certainly. The sauce is made to order, so it may take twenty minutes. Girl: That's fine. Is the toilet working? A sign says it's out of order. Waiter: Only the one downstairs. The one upstairs is in working order. Girl: Thanks. Could you take our order for dessert later? Waiter: Of course, I'll come back when you're ready.",
+   "questions": [
+    {
+     "question": "What does the girl order?",
+     "options": [
+      "A cheese pizza and two lemonades",
+      "Two pizzas",
+      "Pasta",
+      "A cake"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long may it take?",
+     "options": [
+      "Five minutes",
+      "One hour",
+      "Two hours",
+      "Twenty minutes"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why will it take time?",
+     "options": [
+      "The cook is late",
+      "The oven is broken",
+      "The sauce is made to order",
+      "They are busy"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is out of order?",
+     "options": [
+      "The oven",
+      "The toilet downstairs",
+      "The door",
+      "The table"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which toilet works?",
+     "options": [
+      "The one upstairs",
+      "None",
+      "The one downstairs",
+      "The one outside"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will the waiter do later?",
+     "options": [
+      "Close the shop",
+      "Bring the bill at once",
+      "Make tea",
+      "Take the dessert order"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Put them in the right order.",
+    "The lift is out of order.",
+    "We placed an order."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Tidy",
+    "question_text": "How do you keep your room in order?",
+    "hint_words": [
+     "tidy",
+     "books",
+     "clothes",
+     "desk"
+    ]
+   },
+   {
+    "topic": "Restaurant",
+    "question_text": "What do you order in a restaurant?",
+    "hint_words": [
+     "soup",
+     "pizza",
+     "drink",
+     "dessert"
+    ]
+   },
+   {
+    "topic": "Rules",
+    "question_text": "Why do we need law and order?",
+    "hint_words": [
+     "safe",
+     "rules",
+     "police",
+     "fair"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 100,
+  "title": "person",
+  "vocabulary": [
+   {
+    "word": "a kind / friendly person",
+    "translation_uz": "mehribon / xushmuomala odam",
+    "example_sentence": "Our new teacher is a very kind person."
+   },
+   {
+    "word": "in person",
+    "translation_uz": "shaxsan",
+    "example_sentence": "I want to thank her in person."
+   },
+   {
+    "word": "per person",
+    "translation_uz": "bir kishiga",
+    "example_sentence": "The ticket costs five dollars per person."
+   },
+   {
+    "word": "a person who ...",
+    "translation_uz": "...gan odam",
+    "example_sentence": "A person who reads a lot learns many words."
+   },
+   {
+    "word": "a private / shy person",
+    "translation_uz": "yopiq / uyatchan odam",
+    "example_sentence": "My brother is a shy person."
+   },
+   {
+    "word": "the right person for the job",
+    "translation_uz": "ish uchun mos odam",
+    "example_sentence": "Aziza is the right person for the job."
+   },
+   {
+    "word": "a morning / evening person",
+    "translation_uz": "ertalab / kechqurun faolroq odam",
+    "example_sentence": "I'm not a morning person; I hate early classes."
+   },
+   {
+    "word": "a person of ... character",
+    "translation_uz": "...xarakterli odam",
+    "example_sentence": "He is a person of strong character."
+   },
+   {
+    "word": "first / second / third person",
+    "translation_uz": "birinchi / ikkinchi / uchinchi shaxs",
+    "example_sentence": "'I' is the first person."
+   },
+   {
+    "word": "a young / old person",
+    "translation_uz": "yosh / keksa odam",
+    "example_sentence": "An old person got on the bus."
+   },
+   {
+    "word": "an interesting person",
+    "translation_uz": "qiziqarli odam",
+    "example_sentence": "I met an interesting person at the camp."
+   },
+   {
+    "word": "personal / personality",
+    "translation_uz": "shaxsiy / shaxsiyat",
+    "example_sentence": "She has a warm personality."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The ticket costs ten dollars ___ person.",
+    "correct_word": "per",
+    "options": [
+     "on",
+     "by",
+     "per",
+     "each of"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'd like to meet the singer ___ person.",
+    "correct_word": "in",
+    "options": [
+     "with",
+     "by",
+     "on",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Rustam is the right ___ for the job.",
+    "correct_word": "person",
+    "options": [
+     "people",
+     "personality",
+     "person",
+     "persons of"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin is a shy ___ ; he rarely speaks to strangers.",
+    "correct_word": "person",
+    "options": [
+     "person",
+     "personal",
+     "persons",
+     "personally"
+    ]
+   },
+   {
+    "sentence_with_blank": "A person ___ never gives up will succeed.",
+    "correct_word": "who",
+    "options": [
+     "what",
+     "which",
+     "who",
+     "whom"
+    ]
+   },
+   {
+    "sentence_with_blank": "Zarina has a warm ___ and makes friends easily.",
+    "correct_word": "personality",
+    "options": [
+     "personality",
+     "person",
+     "personal",
+     "personally"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Choosing a Class Captain",
+   "text": "Our class needed a new captain, and the teacher asked who was the right person for the job. Several students put up their hands. Bobur is a friendly person who always helps others. Madina is a shy person, but she is also very fair. The teacher said she was looking for a person who listens well. In the end the class chose Madina, because she has a calm personality. She thanked everybody in person the next morning. \"I am not an early person,\" she joked, \"but I will try to arrive on time every day.\"",
+   "key_words": [
+    {
+     "word": "captain",
+     "translation_uz": "sardor"
+    },
+    {
+     "word": "fair",
+     "translation_uz": "adolatli"
+    },
+    {
+     "word": "calm",
+     "translation_uz": "xotirjam"
+    },
+    {
+     "word": "joke",
+     "translation_uz": "hazillashmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class need?",
+     "options": [
+      "A new captain",
+      "A new teacher",
+      "A new room",
+      "A new rule"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is Bobur like?",
+     "options": [
+      "Shy",
+      "Rude",
+      "Lazy",
+      "Friendly"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is Madina like?",
+     "options": [
+      "Loud",
+      "Angry",
+      "Shy but fair",
+      "Lazy"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the teacher look for?",
+     "options": [
+      "A strong person",
+      "A person who listens well",
+      "A tall person",
+      "A fast runner"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who did the class choose?",
+     "options": [
+      "Madina",
+      "Bobur",
+      "The teacher",
+      "Nobody"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Madina promise?",
+     "options": [
+      "To stay late",
+      "To sing",
+      "To be a teacher",
+      "To arrive on time"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Trip Fee",
+   "script": "Guide: Welcome! The trip to the lake costs eight dollars per person. Parent: Do we pay in person or online? Guide: You can do either. If you come in person, ask for Mrs Karimova. She is the right person to help you. Parent: Is she friendly? Guide: Yes, she's a very kind person. She's also an early person, so come before nine. Parent: Thank you. My son is a shy person, so I hope he enjoys it. Guide: Don't worry, our group leaders are great with shy children.",
+   "questions": [
+    {
+     "question": "What does the trip cost?",
+     "options": [
+      "Free",
+      "Eight dollars per person",
+      "Ten dollars per family",
+      "Five dollars"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is the trip to?",
+     "options": [
+      "The lake",
+      "The zoo",
+      "A mountain",
+      "The sea"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who can help in person?",
+     "options": [
+      "The guide",
+      "A parent",
+      "A driver",
+      "Mrs Karimova"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When is Mrs Karimova available?",
+     "options": [
+      "After noon",
+      "At night",
+      "Before nine",
+      "At weekends"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is the son like?",
+     "options": [
+      "Noisy",
+      "Shy",
+      "Rude",
+      "Very tall"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the guide say about leaders?",
+     "options": [
+      "They are great with shy children",
+      "They are strict",
+      "They are late",
+      "They are new"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "She is a kind person.",
+    "He paid in person.",
+    "It costs five dollars per person."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "People",
+    "question_text": "What kind of person is your best friend?",
+    "hint_words": [
+     "kind",
+     "funny",
+     "clever",
+     "loyal"
+    ]
+   },
+   {
+    "topic": "Habits",
+    "question_text": "Are you a morning person or an evening person?",
+    "hint_words": [
+     "early",
+     "late",
+     "sleepy",
+     "energy"
+    ]
+   },
+   {
+    "topic": "Meeting",
+    "question_text": "Who would you like to meet in person?",
+    "hint_words": [
+     "singer",
+     "player",
+     "author",
+     "scientist"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 101,
+  "title": "place",
+  "vocabulary": [
+   {
+    "word": "take place",
+    "translation_uz": "bo'lib o'tmoq",
+    "example_sentence": "The concert will take place in the park."
+   },
+   {
+    "word": "in the first place",
+    "translation_uz": "avvalo, birinchi navbatda",
+    "example_sentence": "Why did you go there in the first place?"
+   },
+   {
+    "word": "take the place of",
+    "translation_uz": "...ning o'rnini egallamoq",
+    "example_sentence": "Nothing can take the place of a good friend."
+   },
+   {
+    "word": "in place of",
+    "translation_uz": "o'rniga",
+    "example_sentence": "We used honey in place of sugar."
+   },
+   {
+    "word": "out of place",
+    "translation_uz": "joyiga to'g'ri kelmaydigan",
+    "example_sentence": "He felt out of place at the fancy party."
+   },
+   {
+    "word": "all over the place",
+    "translation_uz": "hamma yoqda",
+    "example_sentence": "Her toys were all over the place."
+   },
+   {
+    "word": "a place to live / to eat",
+    "translation_uz": "yashash / ovqatlanish joyi",
+    "example_sentence": "We are looking for a place to live."
+   },
+   {
+    "word": "put in place",
+    "translation_uz": "joriy qilmoq, o'rnatmoq",
+    "example_sentence": "The school put new rules in place."
+   },
+   {
+    "word": "fall into place",
+    "translation_uz": "hammasi joyiga tushmoq",
+    "example_sentence": "Once I saw the map, everything fell into place."
+   },
+   {
+    "word": "a place of work",
+    "translation_uz": "ish joyi",
+    "example_sentence": "A hospital is a busy place of work."
+   },
+   {
+    "word": "come first / second place",
+    "translation_uz": "birinchi / ikkinchi o'rinni olmoq",
+    "example_sentence": "Our team came second place in the quiz."
+   },
+   {
+    "word": "in the right / wrong place",
+    "translation_uz": "to'g'ri / noto'g'ri joyda",
+    "example_sentence": "I put my keys in the wrong place."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The match will ___ place at four o'clock.",
+    "correct_word": "take",
+    "options": [
+     "make",
+     "have",
+     "hold",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "Nobody can ___ the place of my grandmother.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "keep",
+     "grab",
+     "get"
+    ]
+   },
+   {
+    "sentence_with_blank": "He used butter ___ place of oil.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "at",
+     "in",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "I felt out ___ place at the grown-ups' party.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "off",
+     "in",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her books were lying all ___ the place.",
+    "correct_word": "over",
+    "options": [
+     "above",
+     "across of",
+     "over",
+     "along"
+    ]
+   },
+   {
+    "sentence_with_blank": "Why did you say yes in the first ___ ?",
+    "correct_word": "place",
+    "options": [
+     "step",
+     "row",
+     "place",
+     "time"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Lost Key",
+   "text": "Last Sunday our school sports day took place in the park. In the morning Farhod could not find his shoes, which were all over the place in his messy room. He had to wear his sister's trainers in place of his own, and he felt a bit out of place. His team came second, and everyone was very happy. At lunch he realised why the shoes were missing in the first place: his little brother had put them in the garden. After he found out, everything fell into place. He promised to keep his things in the right place from now on.",
+   "key_words": [
+    {
+     "word": "messy",
+     "translation_uz": "tartibsiz"
+    },
+    {
+     "word": "realise",
+     "translation_uz": "tushunib yetmoq"
+    },
+    {
+     "word": "garden",
+     "translation_uz": "bog'"
+    },
+    {
+     "word": "promise",
+     "translation_uz": "va'da bermoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the sports day take place?",
+     "options": [
+      "At school",
+      "In the park",
+      "At the stadium",
+      "In a hall"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was missing?",
+     "options": [
+      "Farhod's shoes",
+      "His bag",
+      "His ball",
+      "His coat"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Farhod wear instead?",
+     "options": [
+      "Boots",
+      "Slippers",
+      "Nothing",
+      "His sister's trainers"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where were the shoes?",
+     "options": [
+      "In the car",
+      "At school",
+      "In the garden",
+      "In the kitchen"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who put them there?",
+     "options": [
+      "His sister",
+      "His little brother",
+      "His dad",
+      "A friend"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which place did the team get?",
+     "options": [
+      "Second",
+      "First",
+      "Third",
+      "Last"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Finding a Flat",
+   "script": "Agent: Hello. What kind of place are you looking for? Woman: A place to live near my work. Agent: Nice. The building is not far, and the rent is fair. Woman: Why is the last flat on your list so cheap? Agent: The lift is old, and in the first place, it is on the top floor. Woman: I see. Could we visit? The viewing will take place on Friday, won't it? Agent: Yes, at ten. Woman: Good. If it is clean, everything will fall into place.",
+   "questions": [
+    {
+     "question": "What does the woman want?",
+     "options": [
+      "A place to eat",
+      "A shop",
+      "A place to live near work",
+      "An office"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why is the last flat cheap?",
+     "options": [
+      "It is dirty",
+      "The lift is old",
+      "It is small",
+      "It has no windows"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which floor is it on?",
+     "options": [
+      "The top floor",
+      "The ground floor",
+      "The second floor",
+      "The basement"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When will the viewing take place?",
+     "options": [
+      "On Monday",
+      "On Sunday",
+      "Tomorrow",
+      "On Friday"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What time is the viewing?",
+     "options": [
+      "Nine",
+      "Two",
+      "Ten",
+      "Five"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the woman hope?",
+     "options": [
+      "It will be cheaper",
+      "Everything will fall into place",
+      "It will rain",
+      "The agent will leave"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The match takes place today.",
+    "Everything fell into place.",
+    "He felt out of place."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Places",
+    "question_text": "What is your favourite place in your town?",
+    "hint_words": [
+     "park",
+     "café",
+     "library",
+     "river"
+    ]
+   },
+   {
+    "topic": "Events",
+    "question_text": "What events take place in your school?",
+    "hint_words": [
+     "concert",
+     "sports day",
+     "exam",
+     "fair"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you keep your things in the right place?",
+    "hint_words": [
+     "tidy",
+     "messy",
+     "desk",
+     "room"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 102,
+  "title": "plan",
+  "vocabulary": [
+   {
+    "word": "make a plan",
+    "translation_uz": "reja tuzmoq",
+    "example_sentence": "Let's make a plan for the weekend."
+   },
+   {
+    "word": "have plans",
+    "translation_uz": "rejalari bo'lmoq",
+    "example_sentence": "Do you have plans for tonight?"
+   },
+   {
+    "word": "change / cancel plans",
+    "translation_uz": "rejalarni o'zgartirmoq / bekor qilmoq",
+    "example_sentence": "Rain made us change our plans."
+   },
+   {
+    "word": "plan to do something",
+    "translation_uz": "...ni rejalashtirmoq",
+    "example_sentence": "We plan to visit the museum."
+   },
+   {
+    "word": "plan for the future",
+    "translation_uz": "kelajak rejasi",
+    "example_sentence": "What is your plan for the future?"
+   },
+   {
+    "word": "according to plan",
+    "translation_uz": "reja bo'yicha",
+    "example_sentence": "Everything went according to plan."
+   },
+   {
+    "word": "go wrong / go to plan",
+    "translation_uz": "rejadagidek bormoq",
+    "example_sentence": "The party did not go to plan."
+   },
+   {
+    "word": "a detailed / rough plan",
+    "translation_uz": "batafsil / taxminiy reja",
+    "example_sentence": "I have only a rough plan so far."
+   },
+   {
+    "word": "draw up a plan",
+    "translation_uz": "reja tuzib chiqmoq",
+    "example_sentence": "The class drew up a plan for the school garden."
+   },
+   {
+    "word": "a plan of action",
+    "translation_uz": "harakat rejasi",
+    "example_sentence": "We need a plan of action before we start."
+   },
+   {
+    "word": "a lesson plan",
+    "translation_uz": "dars rejasi",
+    "example_sentence": "The teacher wrote a lesson plan for the week."
+   },
+   {
+    "word": "plan ahead",
+    "translation_uz": "oldindan rejalashtirmoq",
+    "example_sentence": "If you plan ahead, you save time."
+   },
+   {
+    "word": "a floor plan",
+    "translation_uz": "uyning rejasi, chizmasi",
+    "example_sentence": "The floor plan shows four rooms."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Let's ___ a plan for our science project.",
+    "correct_word": "make",
+    "options": [
+     "build up",
+     "take",
+     "do",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "We were going to the beach, but we had to change our ___ because of the rain.",
+    "correct_word": "plans",
+    "options": [
+     "ways",
+     "plans",
+     "steps",
+     "moves"
+    ]
+   },
+   {
+    "sentence_with_blank": "The trip went ___ plan, and everybody arrived on time.",
+    "correct_word": "according to",
+    "options": [
+     "along",
+     "according",
+     "according to",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ to learn the guitar this year.",
+    "correct_word": "plan",
+    "options": [
+     "plan",
+     "expect of",
+     "wish",
+     "hope for"
+    ]
+   },
+   {
+    "sentence_with_blank": "The architect showed us the floor ___ of the new school.",
+    "correct_word": "plan",
+    "options": [
+     "plan",
+     "map",
+     "chart of",
+     "list"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is wise to plan ___ before a long journey.",
+    "correct_word": "ahead",
+    "options": [
+     "forward",
+     "away",
+     "ahead",
+     "before"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Garden Plan",
+   "text": "Our class had a plan to build a garden behind the gym. First we made a rough plan on paper, and then we drew up a detailed plan with a floor plan of the beds. We did not plan to spend much money, so we asked parents for old tools. At first the idea did not go to plan, because the soil was too hard. We changed our plans and started with flower pots instead. In May everything went according to plan, and the first tomatoes grew. Our teacher says that if you plan ahead, even a small garden can succeed.",
+   "key_words": [
+    {
+     "word": "soil",
+     "translation_uz": "tuproq"
+    },
+    {
+     "word": "flower pot",
+     "translation_uz": "gul tuvak"
+    },
+    {
+     "word": "tools",
+     "translation_uz": "asboblar"
+    },
+    {
+     "word": "succeed",
+     "translation_uz": "muvaffaqiyat qozonmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class plan to build?",
+     "options": [
+      "A library",
+      "A stage",
+      "A garden",
+      "A pond"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where is it?",
+     "options": [
+      "In the park",
+      "Behind the gym",
+      "Near the gate",
+      "On the roof"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did they ask parents for?",
+     "options": [
+      "Old tools",
+      "Money",
+      "Seeds only",
+      "Trees"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the first idea not go well?",
+     "options": [
+      "It rained",
+      "There was no sun",
+      "The tools broke",
+      "The soil was too hard"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did they start with instead?",
+     "options": [
+      "Rocks",
+      "Trees",
+      "Flower pots",
+      "A fence"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What grew in May?",
+     "options": [
+      "Apples",
+      "Tomatoes",
+      "Grass only",
+      "Pumpkins"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Weekend Plans",
+   "script": "Leyla: Do you have any plans for Saturday? Omar: Not yet. I planned to go cycling, but the weather forecast says rain. Leyla: Then we should change our plans. How about the cinema? Omar: Good idea. Let's make a plan: lunch at noon, the film at two. Leyla: Is that a rough plan or a detailed one? Omar: Rough! But if things go according to plan, we'll be home by six. Leyla: Perfect. I'll text the others.",
+   "questions": [
+    {
+     "question": "What did Omar plan to do?",
+     "options": [
+      "Visit a museum",
+      "Swim",
+      "Play football",
+      "Go cycling"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why do they change their plans?",
+     "options": [
+      "Omar is ill",
+      "The shop is closed",
+      "The forecast says rain",
+      "They have homework"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is the new idea?",
+     "options": [
+      "A picnic",
+      "The cinema",
+      "A concert",
+      "A walk"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When is lunch?",
+     "options": [
+      "At noon",
+      "At six",
+      "At two",
+      "At eight"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When is the film?",
+     "options": [
+      "At noon",
+      "At six",
+      "At four",
+      "At two"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will Leyla do?",
+     "options": [
+      "Buy the tickets",
+      "Cook",
+      "Text the others",
+      "Call a taxi"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Do you have any plans?",
+    "The plan went wrong.",
+    "We made a detailed plan."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weekend",
+    "question_text": "What are your plans for this weekend?",
+    "hint_words": [
+     "friends",
+     "family",
+     "sport",
+     "rest"
+    ]
+   },
+   {
+    "topic": "Future",
+    "question_text": "What is your plan for the future?",
+    "hint_words": [
+     "study",
+     "job",
+     "travel",
+     "family"
+    ]
+   },
+   {
+    "topic": "Problems",
+    "question_text": "Have your plans ever gone wrong? What happened?",
+    "hint_words": [
+     "rain",
+     "late",
+     "lost",
+     "changed"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 103,
+  "title": "position",
+  "vocabulary": [
+   {
+    "word": "in a good / difficult position",
+    "translation_uz": "yaxshi / qiyin ahvolda",
+    "example_sentence": "The team is in a good position to win."
+   },
+   {
+    "word": "put yourself in someone's position",
+    "translation_uz": "o'zingizni birovning o'rniga qo'ymoq",
+    "example_sentence": "Put yourself in my position; what would you do?"
+   },
+   {
+    "word": "be in no position to",
+    "translation_uz": "...ga holati yo'q",
+    "example_sentence": "I'm in no position to give advice."
+   },
+   {
+    "word": "in position",
+    "translation_uz": "o'z o'rnida",
+    "example_sentence": "The players were already in position."
+   },
+   {
+    "word": "take up a position",
+    "translation_uz": "o'rin egallamoq",
+    "example_sentence": "The guard took up a position by the gate."
+   },
+   {
+    "word": "a sitting / standing position",
+    "translation_uz": "o'tirgan / turgan holat",
+    "example_sentence": "Read with your back in a straight sitting position."
+   },
+   {
+    "word": "a job position",
+    "translation_uz": "ish o'rni",
+    "example_sentence": "She applied for a position at the library."
+   },
+   {
+    "word": "hold a position",
+    "translation_uz": "lavozimni egallamoq",
+    "example_sentence": "He holds a high position in the company."
+   },
+   {
+    "word": "a position on",
+    "translation_uz": "...ga munosabat, nuqtai nazar",
+    "example_sentence": "What is your position on school homework?"
+   },
+   {
+    "word": "first / second position",
+    "translation_uz": "birinchi / ikkinchi o'rin",
+    "example_sentence": "She finished in second position."
+   },
+   {
+    "word": "change position",
+    "translation_uz": "joyini o'zgartirmoq",
+    "example_sentence": "The cat changed position in her sleep."
+   },
+   {
+    "word": "positive / positively",
+    "translation_uz": "ijobiy / ijobiy ravishda",
+    "example_sentence": "Think positively about the test."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The team is ___ a good position to win the cup.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "on",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Try to ___ yourself in my position.",
+    "correct_word": "put",
+    "options": [
+     "bring",
+     "put",
+     "set up",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am in no position ___ give you advice.",
+    "correct_word": "to",
+    "options": [
+     "of",
+     "to",
+     "for",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "The runner finished in first ___ .",
+    "correct_word": "position",
+    "options": [
+     "level",
+     "position",
+     "rank of",
+     "point"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ a high position in the bank.",
+    "correct_word": "holds",
+    "options": [
+     "keeps",
+     "carries",
+     "holds",
+     "owns"
+    ]
+   },
+   {
+    "sentence_with_blank": "What is your position ___ homework on weekends?",
+    "correct_word": "on",
+    "options": [
+     "of",
+     "by",
+     "at",
+     "on"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Football Match",
+   "text": "In the final minutes the score was one-all, and our team was in a difficult position. The coach told every player to take up a good position on the field. Sardor, who plays in defence, was in position near the goal when the ball came. He passed it quickly to Kamol, who ran forward and scored. We finished in first position in the league! Later the coach said that a team in a good position must also stay humble. \"Put yourself in the position of the other team,\" he said. \"They played well, too.\"",
+   "key_words": [
+    {
+     "word": "defence",
+     "translation_uz": "himoya"
+    },
+    {
+     "word": "humble",
+     "translation_uz": "kamtar"
+    },
+    {
+     "word": "league",
+     "translation_uz": "liga"
+    },
+    {
+     "word": "score",
+     "translation_uz": "gol urmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the score near the end?",
+     "options": [
+      "Two-nil",
+      "Three-one",
+      "Nil-nil",
+      "One-all"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the coach tell the players to do?",
+     "options": [
+      "Go home",
+      "Rest",
+      "Take up a good position",
+      "Shout"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where was Sardor?",
+     "options": [
+      "In the stands",
+      "In defence near the goal",
+      "On the bench",
+      "In the kitchen"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who scored the goal?",
+     "options": [
+      "Kamol",
+      "Sardor",
+      "The coach",
+      "A parent"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What position did the team finish in?",
+     "options": [
+      "Second",
+      "Third",
+      "Last",
+      "First"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the coach ask them to do?",
+     "options": [
+      "Practise more",
+      "Win again",
+      "Think about the other team",
+      "Sing"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Job Interview",
+   "script": "Interviewer: Thank you for coming. You applied for the position of library assistant. Why do you want it? Student: I love books, and I think I'm in a good position to help younger children. Interviewer: Good. What do you do if a visitor is upset? Student: I put myself in the visitor's position and try to understand. Interviewer: Excellent. Are you able to work on Saturdays? Student: Yes. Interviewer: Then I'm pleased to say we'd like to offer you the position.",
+   "questions": [
+    {
+     "question": "What position did the student apply for?",
+     "options": [
+      "Library assistant",
+      "Teacher",
+      "Guard",
+      "Cook"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the student love?",
+     "options": [
+      "Music",
+      "Maths",
+      "Sports",
+      "Books"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who does he want to help?",
+     "options": [
+      "Teachers",
+      "Parents",
+      "Younger children",
+      "Visitors only"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does he do if a visitor is upset?",
+     "options": [
+      "Leaves",
+      "Tries to understand",
+      "Calls the manager",
+      "Smiles"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Can he work on Saturdays?",
+     "options": [
+      "Yes",
+      "No",
+      "Sometimes",
+      "Only mornings"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the interviewer say at the end?",
+     "options": [
+      "They need more time",
+      "He is too young",
+      "He should wait",
+      "They would like to offer him the position"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "They took up a position.",
+    "Put yourself in my position.",
+    "She applied for the position."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sport",
+    "question_text": "What position do you play in your favourite team?",
+    "hint_words": [
+     "goalkeeper",
+     "defender",
+     "striker",
+     "captain"
+    ]
+   },
+   {
+    "topic": "Empathy",
+    "question_text": "Can you put yourself in someone else's position? When?",
+    "hint_words": [
+     "friend",
+     "sad",
+     "help",
+     "listen"
+    ]
+   },
+   {
+    "topic": "Jobs",
+    "question_text": "What position would you like in the future?",
+    "hint_words": [
+     "doctor",
+     "teacher",
+     "manager",
+     "pilot"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 104,
+  "title": "possibility",
+  "vocabulary": [
+   {
+    "word": "a strong possibility",
+    "translation_uz": "kuchli ehtimol",
+    "example_sentence": "There is a strong possibility of rain tonight."
+   },
+   {
+    "word": "a slight / small possibility",
+    "translation_uz": "kichik ehtimol",
+    "example_sentence": "There's a slight possibility that the train is late."
+   },
+   {
+    "word": "a real possibility",
+    "translation_uz": "real ehtimol",
+    "example_sentence": "Snow is a real possibility this weekend."
+   },
+   {
+    "word": "a remote / distant possibility",
+    "translation_uz": "uzoq ehtimol",
+    "example_sentence": "A trip to Mars is still a remote possibility."
+   },
+   {
+    "word": "the possibility of doing",
+    "translation_uz": "...ning ehtimoli",
+    "example_sentence": "Is there any possibility of winning?"
+   },
+   {
+    "word": "there is a possibility that",
+    "translation_uz": "...ehtimoli bor",
+    "example_sentence": "There is a possibility that school will close early."
+   },
+   {
+    "word": "explore possibilities",
+    "translation_uz": "imkoniyatlarni o'rganmoq",
+    "example_sentence": "We explored all the possibilities before deciding."
+   },
+   {
+    "word": "rule out a possibility",
+    "translation_uz": "ehtimolni inkor etmoq",
+    "example_sentence": "You cannot rule out the possibility of a mistake."
+   },
+   {
+    "word": "endless possibilities",
+    "translation_uz": "cheksiz imkoniyatlar",
+    "example_sentence": "The internet offers endless possibilities."
+   },
+   {
+    "word": "no possibility of",
+    "translation_uz": "...ehtimoli yo'q",
+    "example_sentence": "There is no possibility of a refund."
+   },
+   {
+    "word": "possible / impossible",
+    "translation_uz": "mumkin / imkonsiz",
+    "example_sentence": "It is impossible to finish today."
+   },
+   {
+    "word": "possibly",
+    "translation_uz": "ehtimol",
+    "example_sentence": "I can possibly come on Saturday."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "There is a strong ___ of rain tomorrow.",
+    "correct_word": "possibility",
+    "options": [
+     "possible",
+     "possibility",
+     "possibly",
+     "impossible"
+    ]
+   },
+   {
+    "sentence_with_blank": "We cannot rule ___ the possibility of delay.",
+    "correct_word": "out",
+    "options": [
+     "away",
+     "off",
+     "out",
+     "down"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is there any possibility ___ finding the lost phone?",
+    "correct_word": "of",
+    "options": [
+     "in",
+     "about",
+     "of",
+     "for to"
+    ]
+   },
+   {
+    "sentence_with_blank": "A holiday on the Moon is only a ___ possibility, not a plan.",
+    "correct_word": "remote",
+    "options": [
+     "hard",
+     "remote",
+     "short",
+     "narrow"
+    ]
+   },
+   {
+    "sentence_with_blank": "A computer offers ___ possibilities for learning.",
+    "correct_word": "endless",
+    "options": [
+     "small",
+     "endless",
+     "tall",
+     "closed"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a ___ that the match will be moved to Sunday.",
+    "correct_word": "possibility",
+    "options": [
+     "chance of",
+     "possibility",
+     "probable",
+     "maybe"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Weather Forecast",
+   "text": "Tomorrow is the school picnic, and the forecast is not clear. The weather expert said there is a slight possibility of rain in the morning, but a strong possibility of sun in the afternoon. We cannot rule out the possibility of wind, so we should bring jumpers. The teacher explored all the possibilities and decided to move the picnic to the afternoon. If it rains, there is also the possibility of using the gym. A trip to the sea is a remote possibility, because the bus is too expensive. Whatever happens, we will enjoy our day.",
+   "key_words": [
+    {
+     "word": "forecast",
+     "translation_uz": "ob-havo bashorati"
+    },
+    {
+     "word": "expert",
+     "translation_uz": "mutaxassis"
+    },
+    {
+     "word": "jumper",
+     "translation_uz": "kofta"
+    },
+    {
+     "word": "expensive",
+     "translation_uz": "qimmat"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is tomorrow?",
+     "options": [
+      "The school picnic",
+      "An exam",
+      "A holiday",
+      "A concert"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is there a slight possibility of?",
+     "options": [
+      "Snow",
+      "Sun all day",
+      "A storm",
+      "Rain in the morning"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What should students bring?",
+     "options": [
+      "Umbrellas only",
+      "Swimsuits",
+      "Jumpers",
+      "Skis"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the teacher decide?",
+     "options": [
+      "Cancel it",
+      "Move the picnic to the afternoon",
+      "Hold it at night",
+      "Go to the sea"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the alternative if it rains?",
+     "options": [
+      "Using the gym",
+      "Going home",
+      "A cinema",
+      "Waiting"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why is the sea only a remote possibility?",
+     "options": [
+      "It is far",
+      "It is cold",
+      "It is closed",
+      "The bus is too expensive"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Maths Contest",
+   "script": "Kid: Do you think I can win the maths contest? Teacher: There is a real possibility, Aron. You practise every day. Kid: But last year I came fifth. Teacher: Then there's a strong possibility you'll improve. We can't rule out a surprise, either. Kid: What if I make a silly mistake? Teacher: That is always a possibility. Explore all the questions first, and keep calm. Kid: Thank you. There are endless possibilities in numbers, aren't there? Teacher: Exactly!",
+   "questions": [
+    {
+     "question": "What does Aron want to win?",
+     "options": [
+      "A race",
+      "A maths contest",
+      "A quiz show",
+      "A chess game"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How does the teacher describe his chance?",
+     "options": [
+      "A real possibility",
+      "A remote possibility",
+      "No possibility",
+      "A slight possibility"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened last year?",
+     "options": [
+      "He won",
+      "He missed it",
+      "He cried",
+      "He came fifth"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is Aron worried about?",
+     "options": [
+      "The room",
+      "The weather",
+      "A silly mistake",
+      "The bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the teacher advise?",
+     "options": [
+      "Run fast",
+      "Read all the questions first",
+      "Work alone",
+      "Guess"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Aron say about numbers?",
+     "options": [
+      "They have endless possibilities",
+      "They are boring",
+      "They are cold",
+      "They are tricky"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "There is a strong possibility.",
+    "It is a remote possibility.",
+    "We explored all the possibilities."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weather",
+    "question_text": "What is the possibility of rain where you live in spring?",
+    "hint_words": [
+     "often",
+     "rare",
+     "clouds",
+     "umbrella"
+    ]
+   },
+   {
+    "topic": "Future",
+    "question_text": "What possibilities do you have after school?",
+    "hint_words": [
+     "university",
+     "work",
+     "travel",
+     "course"
+    ]
+   },
+   {
+    "topic": "Chances",
+    "question_text": "Is there a possibility that you will visit another country this year?",
+    "hint_words": [
+     "maybe",
+     "plans",
+     "money",
+     "holiday"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 105,
+  "title": "power",
+  "vocabulary": [
+   {
+    "word": "come to power",
+    "translation_uz": "hokimiyatga kelmoq",
+    "example_sentence": "The new president came to power last year."
+   },
+   {
+    "word": "in power",
+    "translation_uz": "hokimiyatda",
+    "example_sentence": "The mayor has been in power for ten years."
+   },
+   {
+    "word": "have power over",
+    "translation_uz": "...ustidan hokimiyatga ega bo'lmoq",
+    "example_sentence": "Parents have power over small children."
+   },
+   {
+    "word": "the power to do",
+    "translation_uz": "...qilish kuchi / vakolati",
+    "example_sentence": "The teacher has the power to give detention."
+   },
+   {
+    "word": "do everything in your power",
+    "translation_uz": "qo'lidan kelganini qilmoq",
+    "example_sentence": "I will do everything in my power to help you."
+   },
+   {
+    "word": "within your power",
+    "translation_uz": "qo'lingdan keladigan",
+    "example_sentence": "It is within her power to change things."
+   },
+   {
+    "word": "solar / wind / nuclear power",
+    "translation_uz": "quyosh / shamol / yadro energiyasi",
+    "example_sentence": "Wind power is clean and renewable."
+   },
+   {
+    "word": "a power cut",
+    "translation_uz": "elektr uzilishi",
+    "example_sentence": "We had a power cut during the storm."
+   },
+   {
+    "word": "a power station",
+    "translation_uz": "elektrostansiya",
+    "example_sentence": "The new power station supplies the whole town."
+   },
+   {
+    "word": "the power of ...",
+    "translation_uz": "...ning kuchi",
+    "example_sentence": "Never forget the power of kind words."
+   },
+   {
+    "word": "a world / great power",
+    "translation_uz": "jahon / buyuk davlat",
+    "example_sentence": "Some great powers meet every year."
+   },
+   {
+    "word": "powerful / powerless",
+    "translation_uz": "qudratli / ojiz",
+    "example_sentence": "He felt powerless when the lights went out."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The mayor has been ___ power for eight years.",
+    "correct_word": "in",
+    "options": [
+     "by",
+     "over",
+     "on",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "We had a ___ cut in the storm, so we lit candles.",
+    "correct_word": "power",
+    "options": [
+     "current",
+     "energy",
+     "light",
+     "power"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'll do everything in my ___ to help you.",
+    "correct_word": "power",
+    "options": [
+     "force",
+     "strength of",
+     "hand",
+     "power"
+    ]
+   },
+   {
+    "sentence_with_blank": "Solar ___ comes from the sun.",
+    "correct_word": "power",
+    "options": [
+     "fire",
+     "light up",
+     "power",
+     "heat of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Parents have power ___ their children until they grow up.",
+    "correct_word": "over",
+    "options": [
+     "on",
+     "at",
+     "over",
+     "above to"
+    ]
+   },
+   {
+    "sentence_with_blank": "She felt ___ when she could not help the injured bird.",
+    "correct_word": "powerless",
+    "options": [
+     "powerful",
+     "powered",
+     "empowered",
+     "powerless"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Power Cut",
+   "text": "On Friday evening there was a big storm, and we had a power cut. The whole street went dark, and the power station said it would take two hours to fix. My brother felt powerless because he could not play his game. Dad did everything in his power to make it fun: he lit a candle, and we played cards. Mum told us about wind power, which she has studied at work. She says the sun and wind give us clean energy, and that the power of nature can be safe if we use it wisely. Finally, the lights came back, and we cheered.",
+   "key_words": [
+    {
+     "word": "storm",
+     "translation_uz": "bo'ron"
+    },
+    {
+     "word": "candle",
+     "translation_uz": "sham"
+    },
+    {
+     "word": "energy",
+     "translation_uz": "energiya"
+    },
+    {
+     "word": "wisely",
+     "translation_uz": "oqilona"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What happened on Friday?",
+     "options": [
+      "A match",
+      "A storm and a power cut",
+      "A party",
+      "An exam"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long did the power station say it would take?",
+     "options": [
+      "Two hours",
+      "Ten minutes",
+      "A day",
+      "A week"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the brother feel powerless?",
+     "options": [
+      "He was cold",
+      "He was sick",
+      "He was hungry",
+      "He could not play his game"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Dad do?",
+     "options": [
+      "Went out",
+      "Called a plumber",
+      "Lit a candle and played cards",
+      "Slept"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Mum talk about?",
+     "options": [
+      "Football",
+      "Wind power",
+      "Cooking",
+      "School"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What happened at the end?",
+     "options": [
+      "The lights came back",
+      "It snowed",
+      "They left",
+      "They slept"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Energy Lesson",
+   "script": "Teacher: Today we will learn about power. Where does electricity come from? Pupil: From a power station. Teacher: Correct. Some power stations use coal, but others use solar power, wind power or water. Pupil: Which kind of power is best? Teacher: Clean power, like wind and solar. Pupil: Do they come to power quickly? Teacher: Slowly, but more countries are putting them in place. Pupil: What if there is a power cut? Teacher: Then we use a torch, and we do everything in our power to save energy.",
+   "questions": [
+    {
+     "question": "What is the lesson about?",
+     "options": [
+      "Maths",
+      "History",
+      "Power",
+      "Art"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where does electricity come from?",
+     "options": [
+      "A shop",
+      "A power station",
+      "A garden",
+      "A bank"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What kinds of clean power are mentioned?",
+     "options": [
+      "Wind and solar",
+      "Coal and oil",
+      "Gas",
+      "Wood"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Which power does the teacher call best?",
+     "options": [
+      "Cheap power",
+      "Old power",
+      "Quiet power",
+      "Clean power"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How quickly are clean power sources growing?",
+     "options": [
+      "Instantly",
+      "Not at all",
+      "Slowly",
+      "Overnight"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do they use in a power cut?",
+     "options": [
+      "A candle only",
+      "A torch",
+      "A phone only",
+      "A fire"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We had a power cut.",
+    "Wind power is clean.",
+    "He came to power."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Energy",
+    "question_text": "Which kind of power do you think is the best? Why?",
+    "hint_words": [
+     "solar",
+     "wind",
+     "clean",
+     "safe"
+    ]
+   },
+   {
+    "topic": "Power cut",
+    "question_text": "What do you do during a power cut?",
+    "hint_words": [
+     "candle",
+     "torch",
+     "games",
+     "talk"
+    ]
+   },
+   {
+    "topic": "Words",
+    "question_text": "What is the power of kind words?",
+    "hint_words": [
+     "help",
+     "friends",
+     "happy",
+     "strong"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1604 @@
+[
+ {
+  "unit": 130,
+  "title": "pocket, belt, button, zip",
+  "vocabulary": [
+   {
+    "word": "put it in your pocket",
+    "translation_uz": "cho'ntakka solmoq",
+    "example_sentence": "He put the sweets in his pocket."
+   },
+   {
+    "word": "a hole in your pocket",
+    "translation_uz": "cho'ntakdagi teshik",
+    "example_sentence": "I lost my coin through a hole in my pocket."
+   },
+   {
+    "word": "pocket money",
+    "translation_uz": "cho'ntak puli",
+    "example_sentence": "I get pocket money every Friday."
+   },
+   {
+    "word": "a back pocket",
+    "translation_uz": "orqa cho'ntak",
+    "example_sentence": "He keeps his phone in his back pocket."
+   },
+   {
+    "word": "empty your pockets",
+    "translation_uz": "cho'ntaklarni bo'shatmoq",
+    "example_sentence": "Empty your pockets before washing the trousers."
+   },
+   {
+    "word": "fasten your belt",
+    "translation_uz": "kamarni bog'lamoq",
+    "example_sentence": "Fasten your belt, the trousers are loose."
+   },
+   {
+    "word": "a leather belt",
+    "translation_uz": "charm kamar",
+    "example_sentence": "Dad bought a leather belt."
+   },
+   {
+    "word": "tighten your belt",
+    "translation_uz": "kamarni tortmoq",
+    "example_sentence": "He tightened his belt a little."
+   },
+   {
+    "word": "a seat belt",
+    "translation_uz": "xavfsizlik kamari",
+    "example_sentence": "Always wear your seat belt in the car."
+   },
+   {
+    "word": "sew on a button",
+    "translation_uz": "tugma tikmoq",
+    "example_sentence": "Grandma sewed a button on my coat."
+   },
+   {
+    "word": "a button comes off",
+    "translation_uz": "tugma uzilib tushmoq",
+    "example_sentence": "A button came off my shirt."
+   },
+   {
+    "word": "do up a button",
+    "translation_uz": "tugmani qadamoq",
+    "example_sentence": "Do up the top button."
+   },
+   {
+    "word": "push the button",
+    "translation_uz": "tugmani bosmoq",
+    "example_sentence": "Push the button to call the lift."
+   },
+   {
+    "word": "pull up the zip",
+    "translation_uz": "zanjirni tortib yopmoq",
+    "example_sentence": "Pull up the zip on your jacket."
+   },
+   {
+    "word": "the zip is stuck",
+    "translation_uz": "zanjir qisilib qolgan",
+    "example_sentence": "The zip on my bag is stuck."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He put the keys in his coat ___.",
+    "correct_word": "pocket",
+    "options": [
+     "pocket",
+     "belt",
+     "zip",
+     "tooth",
+     "button"
+    ]
+   },
+   {
+    "sentence_with_blank": "My jacket has a hole in the ___, so I lost a coin.",
+    "correct_word": "pocket",
+    "options": [
+     "pocket",
+     "button",
+     "belt",
+     "lens",
+     "sell"
+    ]
+   },
+   {
+    "sentence_with_blank": "A button came ___ my shirt during the game.",
+    "correct_word": "off",
+    "options": [
+     "off",
+     "on",
+     "at",
+     "for",
+     "key"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ your seat belt in the car.",
+    "correct_word": "fasten",
+    "options": [
+     "fasten",
+     "sell",
+     "cook",
+     "paint",
+     "button"
+    ]
+   },
+   {
+    "sentence_with_blank": "Grandma ___ on a new button with a needle and thread.",
+    "correct_word": "sewed",
+    "options": [
+     "sewed",
+     "kicked",
+     "drank",
+     "built",
+     "sell"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ on my jacket is stuck, and I can't close it.",
+    "correct_word": "zip",
+    "options": [
+     "zip",
+     "key",
+     "wallet",
+     "watch",
+     "belt"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Lost Coin",
+   "text": "On Friday I get pocket money from Dad. This week I put the coins in my back pocket. On my way to the shop, I noticed there was a hole in the pocket, and one coin was gone! Also, a button came off my coat, and the zip on my bag was stuck. Mum sewed the button on and fixed the hole. Then she gave me another coin. I put it in my front pocket this time.",
+   "key_words": [
+    {
+     "word": "coin",
+     "translation_uz": "tanga"
+    },
+    {
+     "word": "noticed",
+     "translation_uz": "payqadi"
+    },
+    {
+     "word": "fixed",
+     "translation_uz": "tuzatdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the writer put the coins at first?",
+     "options": [
+      "In the bag",
+      "In his or her back pocket",
+      "In a wallet",
+      "In a belt"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was wrong with the pocket?",
+     "options": [
+      "It had a hole",
+      "It was too small",
+      "It was dirty",
+      "It was torn off"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the writer put the new coin?",
+     "options": [
+      "In the back pocket",
+      "In the bag",
+      "In the front pocket",
+      "In the shoe"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Car",
+   "script": "We were driving to my grandfather's house. Dad said, \"Fasten your seat belts, please.\" My little brother pushed a button and the window opened. It was cold, so I pulled up the zip on my jacket. Dad has a leather belt with a big silver buckle. Grandpa waited at the gate. When we arrived, he put some sweets in my pocket.",
+   "questions": [
+    {
+     "question": "What did Dad ask them to do?",
+     "options": [
+      "Fasten their seat belts",
+      "Open the windows",
+      "Be quiet",
+      "Close their eyes"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened when the brother pushed the button?",
+     "options": [
+      "The radio came on",
+      "The door opened",
+      "The light turned off",
+      "The window opened"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Grandpa put in the writer's pocket?",
+     "options": [
+      "A coin",
+      "Some sweets",
+      "A key",
+      "A toy"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Put it in your pocket.",
+    "Do up the button.",
+    "Pull up the zip."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Clothes details",
+    "question_text": "Do you get pocket money?",
+    "hint_words": [
+     "yes",
+     "no",
+     "every week",
+     "Friday"
+    ]
+   },
+   {
+    "topic": "Clothes details",
+    "question_text": "What do you keep in your pockets?",
+    "hint_words": [
+     "keys",
+     "coins",
+     "phone",
+     "I keep"
+    ]
+   },
+   {
+    "topic": "Clothes details",
+    "question_text": "Do you wear a belt?",
+    "hint_words": [
+     "yes",
+     "no",
+     "trousers",
+     "sometimes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 131,
+  "title": "bag",
+  "vocabulary": [
+   {
+    "word": "pack your bag",
+    "translation_uz": "sumkangizni yig'moq",
+    "example_sentence": "Pack your bag the night before school."
+   },
+   {
+    "word": "carry a bag",
+    "translation_uz": "sumka ko'tarmoq",
+    "example_sentence": "She carried a heavy bag home."
+   },
+   {
+    "word": "open your bag",
+    "translation_uz": "sumkangizni ochmoq",
+    "example_sentence": "Open your bag and get out your book."
+   },
+   {
+    "word": "a school bag",
+    "translation_uz": "maktab sumkasi",
+    "example_sentence": "My school bag is very heavy."
+   },
+   {
+    "word": "a plastic bag",
+    "translation_uz": "polietilen paket",
+    "example_sentence": "Don't throw a plastic bag in the river."
+   },
+   {
+    "word": "a shopping bag",
+    "translation_uz": "xarid sumkasi",
+    "example_sentence": "Mum took a shopping bag to the market."
+   },
+   {
+    "word": "a bag of sweets",
+    "translation_uz": "bir paket shirinlik",
+    "example_sentence": "He bought a bag of sweets."
+   },
+   {
+    "word": "a sleeping bag",
+    "translation_uz": "uyqu xaltasi",
+    "example_sentence": "We slept in sleeping bags in the tent."
+   },
+   {
+    "word": "a handbag",
+    "translation_uz": "ayollar sumkasi",
+    "example_sentence": "Mum put her keys in her handbag."
+   },
+   {
+    "word": "leave your bag",
+    "translation_uz": "sumkangizni qoldirmoq",
+    "example_sentence": "I left my bag on the bus."
+   },
+   {
+    "word": "a bag on your back",
+    "translation_uz": "yelkadagi sumka",
+    "example_sentence": "He had a bag on his back."
+   },
+   {
+    "word": "a bag of flour",
+    "translation_uz": "bir qop un",
+    "example_sentence": "We need a bag of flour for the cake."
+   },
+   {
+    "word": "an overnight bag",
+    "translation_uz": "bir kechalik sumka",
+    "example_sentence": "I packed an overnight bag for grandma's house."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ your bag before you go to bed.",
+    "correct_word": "pack",
+    "options": [
+     "pack",
+     "drink",
+     "cut",
+     "shave",
+     "left"
+    ]
+   },
+   {
+    "sentence_with_blank": "I forgot my school bag; I ___ it on the bus.",
+    "correct_word": "left",
+    "options": [
+     "left",
+     "ate",
+     "wore",
+     "brushed",
+     "cup"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum bought a ___ of flour to bake a cake.",
+    "correct_word": "bag",
+    "options": [
+     "bag",
+     "pair",
+     "glass",
+     "cup",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "We slept in warm sleeping ___ in the tent.",
+    "correct_word": "bags",
+    "options": [
+     "bags",
+     "coats",
+     "shoes",
+     "hats",
+     "shave"
+    ]
+   },
+   {
+    "sentence_with_blank": "She carried a heavy shopping ___ home from the market.",
+    "correct_word": "bag",
+    "options": [
+     "bag",
+     "ring",
+     "glass",
+     "belt",
+     "bags"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't throw a plastic bag ___ the river.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "from",
+     "with",
+     "of",
+     "belt"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Packing a Bag",
+   "text": "On Friday evening I pack my bag for school. First I open my bag and take out the old papers. Then I put in my books, a pencil case and a bottle of water. My school bag is quite heavy, so I carry it on my back. Last week I left my bag at my friend's house. Fortunately, he brought it to school. Now I always check my bag twice.",
+   "key_words": [
+    {
+     "word": "fortunately",
+     "translation_uz": "baxtimizga"
+    },
+    {
+     "word": "check",
+     "translation_uz": "tekshirmoq"
+    },
+    {
+     "word": "pencil case",
+     "translation_uz": "qalamdon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the writer pack the bag?",
+     "options": [
+      "On Monday morning",
+      "On Sunday",
+      "On Friday evening",
+      "At lunch"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did the writer leave the bag last week?",
+     "options": [
+      "At a friend's house",
+      "On the bus",
+      "At the shop",
+      "In the park"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer do now?",
+     "options": [
+      "Packs it in the morning",
+      "Checks the bag twice",
+      "Buys a new bag",
+      "Carries it by hand"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Camping",
+   "script": "Our class went camping last weekend. Each of us had a sleeping bag and an overnight bag. My bag had a torch, a bag of sweets and a plastic bag for rubbish. The teacher carried the heavy bag with food. At night it was cold, but my sleeping bag was warm. In the morning we picked up all the rubbish and put it in the plastic bag.",
+   "questions": [
+    {
+     "question": "What was in the plastic bag at the end?",
+     "options": [
+      "Food",
+      "Sweets",
+      "Clothes",
+      "Rubbish"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who carried the heavy food bag?",
+     "options": [
+      "The teacher",
+      "The writer",
+      "A friend",
+      "The cook"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why was the writer warm at night?",
+     "options": [
+      "There was a fire",
+      "The sleeping bag was warm",
+      "The tent was big",
+      "It was summer"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Pack your bag.",
+    "I carry a school bag.",
+    "He left his bag."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Bags",
+    "question_text": "What do you carry in your school bag?",
+    "hint_words": [
+     "books",
+     "pencil case",
+     "water",
+     "I carry"
+    ]
+   },
+   {
+    "topic": "Bags",
+    "question_text": "Is your bag heavy?",
+    "hint_words": [
+     "yes",
+     "no",
+     "very",
+     "light"
+    ]
+   },
+   {
+    "topic": "Bags",
+    "question_text": "Do you pack your bag in the evening?",
+    "hint_words": [
+     "yes",
+     "evening",
+     "morning",
+     "pack"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 132,
+  "title": "wallet, card",
+  "vocabulary": [
+   {
+    "word": "a leather wallet",
+    "translation_uz": "charm hamyon",
+    "example_sentence": "Dad has a brown leather wallet."
+   },
+   {
+    "word": "lose your wallet",
+    "translation_uz": "hamyoningizni yo'qotmoq",
+    "example_sentence": "He lost his wallet on the bus."
+   },
+   {
+    "word": "take out your wallet",
+    "translation_uz": "hamyonni chiqarmoq",
+    "example_sentence": "He took out his wallet to pay."
+   },
+   {
+    "word": "find a wallet",
+    "translation_uz": "hamyon topmoq",
+    "example_sentence": "She found a wallet in the park."
+   },
+   {
+    "word": "a wallet full of money",
+    "translation_uz": "pul to'la hamyon",
+    "example_sentence": "He had a wallet full of money."
+   },
+   {
+    "word": "steal a wallet",
+    "translation_uz": "hamyonni o'g'irlamoq",
+    "example_sentence": "A thief stole her wallet."
+   },
+   {
+    "word": "pay by card",
+    "translation_uz": "karta bilan to'lamoq",
+    "example_sentence": "Can I pay by card?"
+   },
+   {
+    "word": "a credit card",
+    "translation_uz": "kredit karta",
+    "example_sentence": "Mum paid with a credit card."
+   },
+   {
+    "word": "a birthday card",
+    "translation_uz": "tug'ilgan kun otkritkasi",
+    "example_sentence": "I made a birthday card for Dad."
+   },
+   {
+    "word": "send a card",
+    "translation_uz": "otkritka yubormoq",
+    "example_sentence": "I sent a card to my aunt."
+   },
+   {
+    "word": "a postcard",
+    "translation_uz": "pochta otkritkasi",
+    "example_sentence": "I sent a postcard from the sea."
+   },
+   {
+    "word": "a library card",
+    "translation_uz": "kutubxona kartasi",
+    "example_sentence": "I show my library card to borrow books."
+   },
+   {
+    "word": "play cards",
+    "translation_uz": "qarta o'ynamoq",
+    "example_sentence": "We play cards on rainy days."
+   },
+   {
+    "word": "an ID card",
+    "translation_uz": "shaxsni tasdiqlovchi karta",
+    "example_sentence": "Show your ID card, please."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He took out his ___ and paid for the bread.",
+    "correct_word": "wallet",
+    "options": [
+     "wallet",
+     "scarf",
+     "glove",
+     "pillow",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I pay ___ card in this shop?",
+    "correct_word": "by",
+    "options": [
+     "by",
+     "in",
+     "on",
+     "at",
+     "clock"
+    ]
+   },
+   {
+    "sentence_with_blank": "I made a birthday ___ for my grandmother.",
+    "correct_word": "card",
+    "options": [
+     "card",
+     "coat",
+     "comb",
+     "clock",
+     "bake"
+    ]
+   },
+   {
+    "sentence_with_blank": "Someone ___ his wallet on the crowded bus.",
+    "correct_word": "stole",
+    "options": [
+     "stole",
+     "built",
+     "wrote",
+     "sewed",
+     "glove"
+    ]
+   },
+   {
+    "sentence_with_blank": "You need a library card to ___ books.",
+    "correct_word": "borrow",
+    "options": [
+     "borrow",
+     "wear",
+     "bake",
+     "fry",
+     "coat"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ cards on the train to pass the time.",
+    "correct_word": "played",
+    "options": [
+     "played",
+     "painted",
+     "sewed",
+     "grew",
+     "wear"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Found Wallet",
+   "text": "Last Saturday I found a leather wallet in the park. It was full of money and it had an ID card inside. I did not take anything. I gave the wallet to my father, and he phoned the owner. The man was very happy. He said he had lost his wallet on the bus. As a thank you, he sent me a card with a drawing of a dog. I put the card on my wall.",
+   "key_words": [
+    {
+     "word": "owner",
+     "translation_uz": "egasi"
+    },
+    {
+     "word": "thank you",
+     "translation_uz": "rahmat"
+    },
+    {
+     "word": "drawing",
+     "translation_uz": "rasm"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the writer find the wallet?",
+     "options": [
+      "On the bus",
+      "In the park",
+      "At school",
+      "In a shop"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was inside the wallet?",
+     "options": [
+      "Money and an ID card",
+      "A key",
+      "Sweets",
+      "A photograph only"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the owner send as a thank you?",
+     "options": [
+      "A new wallet",
+      "Some money",
+      "A card with a drawing of a dog",
+      "A toy dog"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Shop",
+   "script": "Yesterday Mum and I went to the supermarket. At the till, Mum took out her wallet. The shop assistant said, \"Do you pay by card or cash?\" Mum paid by credit card. We also bought a birthday card for my cousin and a postcard for me to collect. At home we played cards, and I won twice.",
+   "questions": [
+    {
+     "question": "What did Mum take out at the till?",
+     "options": [
+      "Her bag",
+      "Her phone",
+      "Her wallet",
+      "Her keys"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who is the birthday card for?",
+     "options": [
+      "The writer's cousin",
+      "The writer's mother",
+      "The shop assistant",
+      "The teacher"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did they do at home?",
+     "options": [
+      "Cooked dinner",
+      "Watched TV",
+      "Sent a postcard",
+      "Played cards"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Take out your wallet.",
+    "I pay by card.",
+    "Send a birthday card."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Money and cards",
+    "question_text": "Do you have a wallet?",
+    "hint_words": [
+     "yes",
+     "no",
+     "leather",
+     "my"
+    ]
+   },
+   {
+    "topic": "Money and cards",
+    "question_text": "When do people send birthday cards?",
+    "hint_words": [
+     "birthday",
+     "friends",
+     "family",
+     "send"
+    ]
+   },
+   {
+    "topic": "Money and cards",
+    "question_text": "Do you play cards?",
+    "hint_words": [
+     "yes",
+     "no",
+     "with",
+     "friends"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 133,
+  "title": "key, ring",
+  "vocabulary": [
+   {
+    "word": "a front door key",
+    "translation_uz": "kirish eshigi kaliti",
+    "example_sentence": "Mum has the front door key."
+   },
+   {
+    "word": "turn the key",
+    "translation_uz": "kalitni burmoq",
+    "example_sentence": "Turn the key to the right."
+   },
+   {
+    "word": "lock the door with a key",
+    "translation_uz": "eshikni kalit bilan qulflamoq",
+    "example_sentence": "He locked the door with a key."
+   },
+   {
+    "word": "lose your keys",
+    "translation_uz": "kalitlarni yo'qotmoq",
+    "example_sentence": "I lost my keys in the park."
+   },
+   {
+    "word": "a bunch of keys",
+    "translation_uz": "bir dasta kalit",
+    "example_sentence": "The caretaker has a bunch of keys."
+   },
+   {
+    "word": "a key ring",
+    "translation_uz": "kalit taqinchog'i",
+    "example_sentence": "My key ring has a small football on it."
+   },
+   {
+    "word": "the key to success",
+    "translation_uz": "muvaffaqiyat kaliti",
+    "example_sentence": "Practice is the key to success."
+   },
+   {
+    "word": "a gold ring",
+    "translation_uz": "oltin uzuk",
+    "example_sentence": "Grandma has a gold ring."
+   },
+   {
+    "word": "wear a ring",
+    "translation_uz": "uzuk taqmoq",
+    "example_sentence": "She wears a ring on her finger."
+   },
+   {
+    "word": "an engagement ring",
+    "translation_uz": "unashtiruv uzugi",
+    "example_sentence": "He bought an engagement ring."
+   },
+   {
+    "word": "the phone rings",
+    "translation_uz": "telefon jiringlamoq",
+    "example_sentence": "The phone rang at midnight."
+   },
+   {
+    "word": "give someone a ring",
+    "translation_uz": "birovga qo'ng'iroq qilmoq",
+    "example_sentence": "Give me a ring tomorrow."
+   },
+   {
+    "word": "a ring on your finger",
+    "translation_uz": "barmoqdagi uzuk",
+    "example_sentence": "She has a silver ring on her finger."
+   },
+   {
+    "word": "the bell rings",
+    "translation_uz": "qo'ng'iroq chalinmoq",
+    "example_sentence": "The bell rings at nine o'clock."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Turn the ___ to the right to open the door.",
+    "correct_word": "key",
+    "options": [
+     "key",
+     "ring",
+     "coat",
+     "sock",
+     "belt"
+    ]
+   },
+   {
+    "sentence_with_blank": "She wears a silver ___ on her little finger.",
+    "correct_word": "ring",
+    "options": [
+     "ring",
+     "key",
+     "belt",
+     "zip",
+     "walks"
+    ]
+   },
+   {
+    "sentence_with_blank": "I lost my house ___ and can't get in.",
+    "correct_word": "keys",
+    "options": [
+     "keys",
+     "rings",
+     "walls",
+     "stairs",
+     "key"
+    ]
+   },
+   {
+    "sentence_with_blank": "The school bell ___ at nine o'clock.",
+    "correct_word": "rings",
+    "options": [
+     "rings",
+     "grows",
+     "walks",
+     "paints",
+     "walls"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ the door with a key and left.",
+    "correct_word": "locked",
+    "options": [
+     "locked",
+     "cooked",
+     "sang",
+     "wore",
+     "key"
+    ]
+   },
+   {
+    "sentence_with_blank": "Give me a ___ when you arrive home.",
+    "correct_word": "ring",
+    "options": [
+     "ring",
+     "key",
+     "bag",
+     "zip",
+     "grows"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Lost Keys",
+   "text": "This morning I could not find my keys. I looked in my bag and in my pockets. Mum has a big bunch of keys with a key ring in the shape of a star. I only have one front door key. Finally I found it under my bed, next to Grandma's gold ring. I do not know how it got there! I locked the door, and the school bell was already ringing when I arrived.",
+   "key_words": [
+    {
+     "word": "bunch",
+     "translation_uz": "dasta"
+    },
+    {
+     "word": "finally",
+     "translation_uz": "nihoyat"
+    },
+    {
+     "word": "shape",
+     "translation_uz": "shakl"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where was the key at last?",
+     "options": [
+      "In the bag",
+      "In the pocket",
+      "Under the bed",
+      "On the table"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What shape is Mum's key ring?",
+     "options": [
+      "A star",
+      "A circle",
+      "A heart",
+      "A football"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was next to the key?",
+     "options": [
+      "A coin",
+      "Grandma's gold ring",
+      "A glove",
+      "A watch"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Birthday Gift",
+   "script": "For her birthday, Aigul got a small gold ring from her parents. She wears the ring on her finger every day. Her father also gave her a key ring with a tiny house. \"This is the key to our new home,\" he said, and he gave her a key. The phone rang and it was her grandmother. Aigul told her about the ring, and Grandma said, \"Give me a ring tomorrow.\"",
+   "questions": [
+    {
+     "question": "What gift did Aigul get from her parents?",
+     "options": [
+      "A new bag",
+      "A small gold ring",
+      "A phone",
+      "A bicycle"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was on the key ring?",
+     "options": [
+      "A tiny house",
+      "A star",
+      "A football",
+      "A flower"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who phoned Aigul?",
+     "options": [
+      "Her father",
+      "Her teacher",
+      "A friend",
+      "Her grandmother"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Turn the key.",
+    "She wears a gold ring.",
+    "The phone rings."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Keys and rings",
+    "question_text": "Where do you keep your house key?",
+    "hint_words": [
+     "pocket",
+     "bag",
+     "keys",
+     "I keep"
+    ]
+   },
+   {
+    "topic": "Keys and rings",
+    "question_text": "Does anyone in your family wear a ring?",
+    "hint_words": [
+     "yes",
+     "mother",
+     "gold",
+     "finger"
+    ]
+   },
+   {
+    "topic": "Keys and rings",
+    "question_text": "Have you ever lost your keys?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "found"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 134,
+  "title": "glasses, lenses",
+  "vocabulary": [
+   {
+    "word": "wear glasses",
+    "translation_uz": "ko'zoynak taqmoq",
+    "example_sentence": "My grandfather wears glasses."
+   },
+   {
+    "word": "put on your glasses",
+    "translation_uz": "ko'zoynagingizni taqmoq",
+    "example_sentence": "Put on your glasses to read."
+   },
+   {
+    "word": "take off your glasses",
+    "translation_uz": "ko'zoynakni yechmoq",
+    "example_sentence": "He took off his glasses and rubbed his eyes."
+   },
+   {
+    "word": "a pair of glasses",
+    "translation_uz": "bir dona ko'zoynak",
+    "example_sentence": "I need a new pair of glasses."
+   },
+   {
+    "word": "reading glasses",
+    "translation_uz": "o'qish ko'zoynagi",
+    "example_sentence": "Grandma uses reading glasses."
+   },
+   {
+    "word": "sunglasses",
+    "translation_uz": "quyosh ko'zoynagi",
+    "example_sentence": "Wear sunglasses on the beach."
+   },
+   {
+    "word": "break your glasses",
+    "translation_uz": "ko'zoynakni sindirmoq",
+    "example_sentence": "He broke his glasses while playing."
+   },
+   {
+    "word": "clean your glasses",
+    "translation_uz": "ko'zoynakni artmoq",
+    "example_sentence": "Clean your glasses with a soft cloth."
+   },
+   {
+    "word": "a glass of water",
+    "translation_uz": "bir stakan suv",
+    "example_sentence": "I drank a glass of water."
+   },
+   {
+    "word": "contact lenses",
+    "translation_uz": "kontakt linzalar",
+    "example_sentence": "She wears contact lenses instead of glasses."
+   },
+   {
+    "word": "put in your lenses",
+    "translation_uz": "linzalarni solmoq",
+    "example_sentence": "She puts in her lenses every morning."
+   },
+   {
+    "word": "thick lenses",
+    "translation_uz": "qalin linzalar",
+    "example_sentence": "His glasses have thick lenses."
+   },
+   {
+    "word": "a camera lens",
+    "translation_uz": "kamera linzasi",
+    "example_sentence": "The camera lens is very expensive."
+   },
+   {
+    "word": "a magnifying glass",
+    "translation_uz": "kattalashtiruvchi oyna",
+    "example_sentence": "The detective used a magnifying glass."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandfather can't read without his ___.",
+    "correct_word": "glasses",
+    "options": [
+     "glasses",
+     "gloves",
+     "socks",
+     "hat",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's very sunny, so ___ on your sunglasses.",
+    "correct_word": "put",
+    "options": [
+     "put",
+     "get",
+     "hit",
+     "lay",
+     "grew"
+    ]
+   },
+   {
+    "sentence_with_blank": "I dropped my glasses and ___ them.",
+    "correct_word": "broke",
+    "options": [
+     "broke",
+     "built",
+     "wore",
+     "grew",
+     "kick"
+    ]
+   },
+   {
+    "sentence_with_blank": "She doesn't wear glasses; she uses contact ___.",
+    "correct_word": "lenses",
+    "options": [
+     "lenses",
+     "ties",
+     "coats",
+     "teeth",
+     "glasses"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ your glasses with a soft cloth.",
+    "correct_word": "clean",
+    "options": [
+     "clean",
+     "drink",
+     "kick",
+     "fry",
+     "lay"
+    ]
+   },
+   {
+    "sentence_with_blank": "The detective looked at the footprint with a magnifying ___.",
+    "correct_word": "glass",
+    "options": [
+     "glass",
+     "ring",
+     "bag",
+     "pocket",
+     "coats"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "New Glasses",
+   "text": "Last month the teacher noticed that I could not read the board. So Mum took me to the eye doctor. I need glasses! I chose a pair with thick black frames. At first I forgot to put them on, but now I wear them all day. Last week I dropped them and broke one side, but Dad fixed them. I clean my glasses every evening with a soft cloth.",
+   "key_words": [
+    {
+     "word": "eye doctor",
+     "translation_uz": "ko'z shifokori"
+    },
+    {
+     "word": "frames",
+     "translation_uz": "ramka"
+    },
+    {
+     "word": "cloth",
+     "translation_uz": "mato"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer go to the eye doctor?",
+     "options": [
+      "He or she lost a tooth",
+      "He or she could not read the board",
+      "He or she had a cold",
+      "He or she lost a ring"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What kind of glasses did the writer choose?",
+     "options": [
+      "Thick black ones",
+      "Round gold ones",
+      "Sunglasses",
+      "Thin red ones"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who fixed the broken glasses?",
+     "options": [
+      "Mum",
+      "The teacher",
+      "Dad",
+      "The eye doctor"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Contact Lenses",
+   "script": "My older sister Madina wears contact lenses. Before, she wore glasses with thick lenses, and she was shy. Now she puts in her lenses every morning and feels more confident. She still keeps her old glasses for reading at night. On the beach she wears sunglasses. Once she lost one lens in the sea, and we looked for it for an hour. We never found it.",
+   "questions": [
+    {
+     "question": "What did Madina wear before the lenses?",
+     "options": [
+      "Sunglasses",
+      "Nothing",
+      "Reading glasses only",
+      "Glasses with thick lenses"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When does she put in the lenses?",
+     "options": [
+      "Every morning",
+      "Every night",
+      "At the beach",
+      "On Sundays"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened at the beach?",
+     "options": [
+      "She broke her glasses",
+      "She lost a lens in the sea",
+      "She found a ring",
+      "She forgot her bag"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I wear glasses.",
+    "Put on your sunglasses.",
+    "She wears contact lenses."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Seeing",
+    "question_text": "Do you wear glasses?",
+    "hint_words": [
+     "yes",
+     "no",
+     "my",
+     "reading"
+    ]
+   },
+   {
+    "topic": "Seeing",
+    "question_text": "When do people wear sunglasses?",
+    "hint_words": [
+     "sunny",
+     "summer",
+     "beach",
+     "wear"
+    ]
+   },
+   {
+    "topic": "Seeing",
+    "question_text": "Would you like contact lenses?",
+    "hint_words": [
+     "yes",
+     "no",
+     "maybe",
+     "glasses"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 135,
+  "title": "umbrella, watch",
+  "vocabulary": [
+   {
+    "word": "put up an umbrella",
+    "translation_uz": "soyabonni ochmoq",
+    "example_sentence": "Put up your umbrella, it's raining."
+   },
+   {
+    "word": "take an umbrella",
+    "translation_uz": "soyabon olmoq",
+    "example_sentence": "Take an umbrella with you."
+   },
+   {
+    "word": "a folding umbrella",
+    "translation_uz": "yig'iladigan soyabon",
+    "example_sentence": "My folding umbrella fits in my bag."
+   },
+   {
+    "word": "under an umbrella",
+    "translation_uz": "soyabon ostida",
+    "example_sentence": "We walked under one umbrella."
+   },
+   {
+    "word": "leave your umbrella",
+    "translation_uz": "soyabonni qoldirmoq",
+    "example_sentence": "I left my umbrella on the train."
+   },
+   {
+    "word": "an umbrella blows inside out",
+    "translation_uz": "soyabon shamolda teskari bo'lib ketmoq",
+    "example_sentence": "My umbrella blew inside out in the wind."
+   },
+   {
+    "word": "wear a watch",
+    "translation_uz": "soat taqmoq",
+    "example_sentence": "He wears a watch on his left arm."
+   },
+   {
+    "word": "a wristwatch",
+    "translation_uz": "qo'l soati",
+    "example_sentence": "My wristwatch is a present from Dad."
+   },
+   {
+    "word": "watch TV",
+    "translation_uz": "televizor ko'rmoq",
+    "example_sentence": "We watch TV after dinner."
+   },
+   {
+    "word": "watch a film",
+    "translation_uz": "film tomosha qilmoq",
+    "example_sentence": "Let's watch a film tonight."
+   },
+   {
+    "word": "watch out",
+    "translation_uz": "ehtiyot bo'l",
+    "example_sentence": "Watch out for the car!"
+   },
+   {
+    "word": "keep watch",
+    "translation_uz": "qo'riqlab turmoq",
+    "example_sentence": "A guard keeps watch at night."
+   },
+   {
+    "word": "my watch is slow",
+    "translation_uz": "soatim orqada qolmoqda",
+    "example_sentence": "My watch is five minutes slow."
+   },
+   {
+    "word": "set your watch",
+    "translation_uz": "soatni to'g'rilamoq",
+    "example_sentence": "Set your watch by the clock."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It's raining, so ___ up your umbrella.",
+    "correct_word": "put",
+    "options": [
+     "put",
+     "cut",
+     "bake",
+     "hit",
+     "watch"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wears a ___ on his wrist to check the time.",
+    "correct_word": "watch",
+    "options": [
+     "watch",
+     "glove",
+     "tie",
+     "belt",
+     "inside"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's ___ a film after dinner.",
+    "correct_word": "watch",
+    "options": [
+     "watch",
+     "hear",
+     "say",
+     "hold",
+     "left"
+    ]
+   },
+   {
+    "sentence_with_blank": "My umbrella blew ___ out in the strong wind.",
+    "correct_word": "inside",
+    "options": [
+     "inside",
+     "under",
+     "over",
+     "down",
+     "hit"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ out! The floor is wet.",
+    "correct_word": "watch",
+    "options": [
+     "watch",
+     "drink",
+     "wear",
+     "paint",
+     "inside"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ my umbrella on the bus, and now I don't have it.",
+    "correct_word": "left",
+    "options": [
+     "left",
+     "wore",
+     "grew",
+     "cooked",
+     "paint"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Rainy Day",
+   "text": "Yesterday it rained all day, and I forgot to take my umbrella. My friend Jasur put up his folding umbrella, and we walked home under one umbrella. The wind was strong, and it nearly blew inside out. I looked at my watch. It was already five, but my watch was ten minutes slow. At home I watched a film about the sea with my sister.",
+   "key_words": [
+    {
+     "word": "forgot",
+     "translation_uz": "unutdi"
+    },
+    {
+     "word": "wind",
+     "translation_uz": "shamol"
+    },
+    {
+     "word": "sea",
+     "translation_uz": "dengiz"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer walk under one umbrella?",
+     "options": [
+      "Umbrellas were free",
+      "It was a game",
+      "He or she forgot to take an umbrella",
+      "Jasur had two"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was wrong with the watch?",
+     "options": [
+      "It was ten minutes slow",
+      "It was broken",
+      "It was lost",
+      "It was fast"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the writer do at home?",
+     "options": [
+      "Played cards",
+      "Watched a film about the sea",
+      "Did homework",
+      "Cooked dinner"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Grandpa's Watch",
+   "script": "My grandfather has an old gold watch. He wears it every day on his left wrist. He sets it by the church clock each Sunday. When it rains, he always takes his black umbrella and says, \"Watch out for puddles!\" Last week he left his umbrella at the post office, but a kind lady brought it back. He gave her a big smile.",
+   "questions": [
+    {
+     "question": "Which wrist does Grandpa wear the watch on?",
+     "options": [
+      "The left wrist",
+      "The right wrist",
+      "Both wrists",
+      "His pocket"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Grandpa say when it rains?",
+     "options": [
+      "Put up your umbrella",
+      "Wear your coat",
+      "Let's go home",
+      "Watch out for puddles"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where did he leave his umbrella?",
+     "options": [
+      "On the bus",
+      "At the post office",
+      "At school",
+      "At home"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Put up your umbrella.",
+    "He wears a watch.",
+    "Watch out for the car."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Umbrella and watch",
+    "question_text": "Do you carry an umbrella when it rains?",
+    "hint_words": [
+     "yes",
+     "no",
+     "I take",
+     "small"
+    ]
+   },
+   {
+    "topic": "Umbrella and watch",
+    "question_text": "Do you wear a watch?",
+    "hint_words": [
+     "yes",
+     "no",
+     "my",
+     "phone"
+    ]
+   },
+   {
+    "topic": "Umbrella and watch",
+    "question_text": "What do you like to watch on TV?",
+    "hint_words": [
+     "films",
+     "cartoons",
+     "football",
+     "I like"
+    ]
+   }
+  ]
+ }
+]

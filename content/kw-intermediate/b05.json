@@ -1,0 +1,1794 @@
+[
+ {
+  "unit": 38,
+  "title": "trip",
+  "vocabulary": [
+   {
+    "word": "go on a trip",
+    "translation_uz": "sayohatga chiqmoq",
+    "example_sentence": "Our class is going on a trip to the mountains."
+   },
+   {
+    "word": "take a trip",
+    "translation_uz": "sayohat qilmoq",
+    "example_sentence": "They took a trip to Bukhara last spring."
+   },
+   {
+    "word": "a business trip",
+    "translation_uz": "xizmat safari",
+    "example_sentence": "My father is away on a business trip."
+   },
+   {
+    "word": "a school trip",
+    "translation_uz": "maktab sayohati",
+    "example_sentence": "The school trip to the museum was great fun."
+   },
+   {
+    "word": "a day trip",
+    "translation_uz": "bir kunlik sayohat",
+    "example_sentence": "We made a day trip to the lake."
+   },
+   {
+    "word": "a round trip",
+    "translation_uz": "borib-kelish sayohati",
+    "example_sentence": "A round trip to the coast takes about six hours."
+   },
+   {
+    "word": "a boat trip",
+    "translation_uz": "qayiqda sayohat",
+    "example_sentence": "The boat trip along the river was relaxing."
+   },
+   {
+    "word": "a camping trip",
+    "translation_uz": "chodirda dam olish sayohati",
+    "example_sentence": "We went on a camping trip in July."
+   },
+   {
+    "word": "plan a trip",
+    "translation_uz": "sayohatni rejalashtirmoq",
+    "example_sentence": "Let's plan a trip for the autumn break."
+   },
+   {
+    "word": "cancel a trip",
+    "translation_uz": "sayohatni bekor qilmoq",
+    "example_sentence": "They had to cancel the trip because of the storm."
+   },
+   {
+    "word": "a long/short trip",
+    "translation_uz": "uzoq/qisqa sayohat",
+    "example_sentence": "It was only a short trip, so we took no suitcase."
+   },
+   {
+    "word": "on the trip",
+    "translation_uz": "sayohat davomida",
+    "example_sentence": "Many students were sick on the trip home."
+   },
+   {
+    "word": "a trip abroad",
+    "translation_uz": "chet elga sayohat",
+    "example_sentence": "She dreams of a trip abroad."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Our teacher decided to ___ a school trip to the zoo.",
+    "correct_word": "organise",
+    "options": [
+     "stay",
+     "organise",
+     "spend",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are going ___ a day trip to the lake on Saturday.",
+    "correct_word": "on",
+    "options": [
+     "to",
+     "in",
+     "on",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle is away on a business ___ until Friday.",
+    "correct_word": "trip",
+    "options": [
+     "travel",
+     "way",
+     "walk",
+     "trip"
+    ]
+   },
+   {
+    "sentence_with_blank": "The weather was so bad that they had to ___ the trip.",
+    "correct_word": "cancel",
+    "options": [
+     "cancel",
+     "finish",
+     "lose",
+     "close"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ trip means you travel there and back again.",
+    "correct_word": "round",
+    "options": [
+     "circle",
+     "round",
+     "full",
+     "turn"
+    ]
+   },
+   {
+    "sentence_with_blank": "I will ___ a short trip to the coast next week.",
+    "correct_word": "take",
+    "options": [
+     "do",
+     "run",
+     "take",
+     "set"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Trip",
+   "text": "Last Friday our class went on a trip to a historic fort outside the city. It was only a day trip, but we left at seven in the morning. The trip took two hours by bus. Our teacher had planned it for weeks, and she gave us small maps and questions to answer. At the fort, a guide told us stories about the old soldiers. After lunch we played games in the park. On the trip home, most of us fell asleep. Everyone agreed that it was the best school trip of the year.",
+   "key_words": [
+    {
+     "word": "fort",
+     "translation_uz": "qal'a"
+    },
+    {
+     "word": "guide",
+     "translation_uz": "gid"
+    },
+    {
+     "word": "historic",
+     "translation_uz": "tarixiy"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long did the bus trip take?",
+     "options": [
+      "Two hours",
+      "One hour",
+      "Four hours",
+      "Thirty minutes"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the teacher give the students?",
+     "options": [
+      "Cameras",
+      "Small maps and questions",
+      "Tickets to a museum",
+      "Sandwiches"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did most students do on the way home?",
+     "options": [
+      "Sang songs",
+      "Played games",
+      "Fell asleep",
+      "Read books"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a Trip",
+   "script": "Lena: Shall we plan a trip for the spring holidays? Tom: Good idea. A camping trip would be nice. Lena: I would prefer a boat trip on the river. Tom: Hmm. Camping is cheaper, and we can go for three days. Lena: OK, but let's check the weather first. If it rains, we will cancel the trip and go to the cinema instead. Tom: Agreed. I will ask Sam if he wants to come too.",
+   "questions": [
+    {
+     "question": "What kind of trip does Tom prefer?",
+     "options": [
+      "A boat trip",
+      "A city trip",
+      "A business trip",
+      "A camping trip"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long could they go for?",
+     "options": [
+      "Three days",
+      "One day",
+      "A week",
+      "Two days"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will they do if it rains?",
+     "options": [
+      "Stay at home",
+      "Go to the cinema",
+      "Plan a boat trip",
+      "Visit Sam"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We went on a day trip.",
+    "She took a trip abroad.",
+    "They cancelled the school trip."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Trips",
+    "question_text": "Tell me about a school trip you remember.",
+    "hint_words": [
+     "went",
+     "bus",
+     "teacher",
+     "fun"
+    ]
+   },
+   {
+    "topic": "Trips",
+    "question_text": "Do you prefer a day trip or a long trip? Why?",
+    "hint_words": [
+     "prefer",
+     "short",
+     "long",
+     "because"
+    ]
+   },
+   {
+    "topic": "Trips",
+    "question_text": "Where would you plan a trip with your friends?",
+    "hint_words": [
+     "plan",
+     "friends",
+     "visit",
+     "beach"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 39,
+  "title": "holiday",
+  "vocabulary": [
+   {
+    "word": "go on holiday",
+    "translation_uz": "ta'tilga chiqmoq",
+    "example_sentence": "We go on holiday every August."
+   },
+   {
+    "word": "take a holiday",
+    "translation_uz": "ta'til olmoq",
+    "example_sentence": "He took a holiday after a busy year."
+   },
+   {
+    "word": "be on holiday",
+    "translation_uz": "ta'tilda bo'lmoq",
+    "example_sentence": "The manager is on holiday this week."
+   },
+   {
+    "word": "a summer holiday",
+    "translation_uz": "yozgi ta'til",
+    "example_sentence": "Our summer holiday begins in June."
+   },
+   {
+    "word": "a package holiday",
+    "translation_uz": "tayyor tur (paket)",
+    "example_sentence": "They booked a package holiday to Turkey."
+   },
+   {
+    "word": "a public holiday",
+    "translation_uz": "rasmiy dam olish kuni",
+    "example_sentence": "Navruz is a public holiday in Uzbekistan."
+   },
+   {
+    "word": "book a holiday",
+    "translation_uz": "ta'tilga joy band qilmoq",
+    "example_sentence": "Mum booked a holiday online."
+   },
+   {
+    "word": "a holiday resort",
+    "translation_uz": "dam olish kurorti",
+    "example_sentence": "The holiday resort has a huge pool."
+   },
+   {
+    "word": "a holiday romance",
+    "translation_uz": "ta'tildagi ishq-muhabbat",
+    "example_sentence": "Their holiday romance ended in September."
+   },
+   {
+    "word": "the school holidays",
+    "translation_uz": "maktab ta'tillari",
+    "example_sentence": "Prices are higher during the school holidays."
+   },
+   {
+    "word": "holiday plans",
+    "translation_uz": "ta'til rejalari",
+    "example_sentence": "What are your holiday plans this year?"
+   },
+   {
+    "word": "come back from holiday",
+    "translation_uz": "ta'tildan qaytmoq",
+    "example_sentence": "She came back from holiday with a lovely tan."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We usually go ___ holiday to the seaside in July.",
+    "correct_word": "on",
+    "options": [
+     "for",
+     "at",
+     "on",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The shop is closed because the owner is ___ holiday.",
+    "correct_word": "on",
+    "options": [
+     "at",
+     "in",
+     "for",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "Christmas Day is a ___ holiday in many countries.",
+    "correct_word": "public",
+    "options": [
+     "public",
+     "common",
+     "special",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "They booked a ___ holiday that included flights and a hotel.",
+    "correct_word": "package",
+    "options": [
+     "bundle",
+     "package",
+     "parcel",
+     "box"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are ___ a holiday for next August.",
+    "correct_word": "booking",
+    "options": [
+     "winning",
+     "inviting",
+     "booking",
+     "losing"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ holidays start on the first of June.",
+    "correct_word": "school",
+    "options": [
+     "study",
+     "class",
+     "lesson",
+     "school"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Holiday Plans",
+   "text": "The Karimov family has finally booked their summer holiday. They are going to a seaside resort for ten days. It is a package holiday, so the flights and the hotel are included. Dad took a holiday from work, and the children are already on school holidays. Their grandmother will look after the dog. The weather is usually hot in August, and the children cannot wait to swim. When they come back from holiday, they plan to visit relatives in the mountains.",
+   "key_words": [
+    {
+     "word": "resort",
+     "translation_uz": "kurort"
+    },
+    {
+     "word": "relatives",
+     "translation_uz": "qarindoshlar"
+    },
+    {
+     "word": "included",
+     "translation_uz": "kiritilgan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long is the holiday?",
+     "options": [
+      "A week",
+      "Ten days",
+      "Three weeks",
+      "Two days"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who will look after the dog?",
+     "options": [
+      "A neighbour",
+      "Their uncle",
+      "Their grandmother",
+      "Nobody"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will they do after the holiday?",
+     "options": [
+      "Go to school",
+      "Fly abroad",
+      "Paint the house",
+      "Visit relatives in the mountains"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Back from Holiday",
+   "script": "Nina: Hi Paul! You look happy. Did you just come back from holiday? Paul: Yes, we spent a week at a holiday resort by the sea. It was a package holiday, so everything was easy. Nina: Lucky you! I haven't had a holiday for two years. Paul: What are your holiday plans for the summer? Nina: Probably nothing. Monday is a public holiday, so I will just go to the park with my family.",
+   "questions": [
+    {
+     "question": "How long was Paul's holiday?",
+     "options": [
+      "A week",
+      "Two weeks",
+      "Three days",
+      "A month"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What type of holiday was it?",
+     "options": [
+      "A camping holiday",
+      "A package holiday",
+      "A city break",
+      "A business holiday"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will Nina do on Monday?",
+     "options": [
+      "Travel abroad",
+      "Go to work",
+      "Go to the park",
+      "Visit Paul"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "We are going on holiday.",
+    "It is a public holiday.",
+    "They booked a summer holiday."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Holidays",
+    "question_text": "Where did you go on your last holiday?",
+    "hint_words": [
+     "went",
+     "sea",
+     "family",
+     "week"
+    ]
+   },
+   {
+    "topic": "Holidays",
+    "question_text": "Do you prefer a package holiday or travelling alone?",
+    "hint_words": [
+     "prefer",
+     "easy",
+     "alone",
+     "because"
+    ]
+   },
+   {
+    "topic": "Holidays",
+    "question_text": "What is your favourite public holiday?",
+    "hint_words": [
+     "favourite",
+     "celebrate",
+     "family",
+     "food"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 40,
+  "title": "flight",
+  "vocabulary": [
+   {
+    "word": "catch a flight",
+    "translation_uz": "reysga ulgurmoq",
+    "example_sentence": "We have to catch a flight at six in the morning."
+   },
+   {
+    "word": "miss a flight",
+    "translation_uz": "reysdan kechikmoq",
+    "example_sentence": "He missed his flight because of the traffic."
+   },
+   {
+    "word": "book a flight",
+    "translation_uz": "reysga bilet band qilmoq",
+    "example_sentence": "I booked a flight to Istanbul last week."
+   },
+   {
+    "word": "cancel a flight",
+    "translation_uz": "reysni bekor qilmoq",
+    "example_sentence": "The airline cancelled the flight because of fog."
+   },
+   {
+    "word": "a direct flight",
+    "translation_uz": "to'g'ridan-to'g'ri reys",
+    "example_sentence": "There is a direct flight from Tashkent to Dubai."
+   },
+   {
+    "word": "a domestic flight",
+    "translation_uz": "ichki reys",
+    "example_sentence": "A domestic flight to Samarkand takes one hour."
+   },
+   {
+    "word": "an international flight",
+    "translation_uz": "xalqaro reys",
+    "example_sentence": "International flights leave from Terminal 2."
+   },
+   {
+    "word": "a connecting flight",
+    "translation_uz": "ulanuvchi reys",
+    "example_sentence": "I had a connecting flight in Frankfurt."
+   },
+   {
+    "word": "a long-haul flight",
+    "translation_uz": "uzoq masofali reys",
+    "example_sentence": "A long-haul flight can be very tiring."
+   },
+   {
+    "word": "a flight number",
+    "translation_uz": "reys raqami",
+    "example_sentence": "What is your flight number?"
+   },
+   {
+    "word": "a flight attendant",
+    "translation_uz": "bortdosh",
+    "example_sentence": "The flight attendant brought us some water."
+   },
+   {
+    "word": "the flight takes off/lands",
+    "translation_uz": "reys uchadi/qo'nadi",
+    "example_sentence": "The flight lands at nine fifteen."
+   },
+   {
+    "word": "an in-flight meal",
+    "translation_uz": "parvoz paytidagi ovqat",
+    "example_sentence": "The in-flight meal was rice and chicken."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We must leave now or we will ___ our flight.",
+    "correct_word": "miss",
+    "options": [
+     "lose",
+     "waste",
+     "forget",
+     "miss"
+    ]
+   },
+   {
+    "sentence_with_blank": "Because of the snow, the airline had to ___ the flight.",
+    "correct_word": "cancel",
+    "options": [
+     "cancel",
+     "break",
+     "erase",
+     "lose"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a ___ flight from Tashkent to London, so you do not have to change planes.",
+    "correct_word": "direct",
+    "options": [
+     "local",
+     "direct",
+     "private",
+     "quiet"
+    ]
+   },
+   {
+    "sentence_with_blank": "She works as a flight ___ and travels to many countries.",
+    "correct_word": "attendant",
+    "options": [
+     "servant",
+     "waiter",
+     "attendant",
+     "guide"
+    ]
+   },
+   {
+    "sentence_with_blank": "The plane ___ off at ten o'clock exactly.",
+    "correct_word": "took",
+    "options": [
+     "made",
+     "got",
+     "went",
+     "took"
+    ]
+   },
+   {
+    "sentence_with_blank": "I was tired after the long-___ flight from Tokyo.",
+    "correct_word": "haul",
+    "options": [
+     "haul",
+     "pull",
+     "drag",
+     "carry"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Night Flight",
+   "text": "Amina booked a flight to London for her summer course. It was a long-haul flight, but a direct one, so she did not need to change planes. She arrived at the airport early because she did not want to miss her flight. The plane took off at ten in the evening. A friendly flight attendant brought her an in-flight meal and a blanket. Amina slept for a few hours and woke up when the pilot said the flight would land in thirty minutes. She was excited to see the city lights below.",
+   "key_words": [
+    {
+     "word": "blanket",
+     "translation_uz": "adyol"
+    },
+    {
+     "word": "pilot",
+     "translation_uz": "uchuvchi"
+    },
+    {
+     "word": "course",
+     "translation_uz": "kurs"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was the flight convenient?",
+     "options": [
+      "It was very short",
+      "It was free",
+      "It was a direct flight",
+      "It left in the morning"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did Amina arrive early?",
+     "options": [
+      "She wanted to shop",
+      "She was nervous about security",
+      "She liked the café",
+      "She did not want to miss the flight"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the attendant bring?",
+     "options": [
+      "A meal and a blanket",
+      "A map",
+      "A magazine only",
+      "A new ticket"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Airport",
+   "script": "Announcement: Good afternoon. Flight number two-four-seven to Paris is now boarding at gate twelve. This is a direct flight and it will take about five hours. Passengers with a connecting flight should speak to the desk near gate ten. The flight will take off at four fifteen, and the in-flight meal will be served soon after. Please remember that all phones must be switched off. Thank you for flying with us.",
+   "questions": [
+    {
+     "question": "Which gate is the Paris flight boarding at?",
+     "options": [
+      "Gate ten",
+      "Gate twelve",
+      "Gate two",
+      "Gate four"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long will the flight take?",
+     "options": [
+      "About two hours",
+      "About ten hours",
+      "About five hours",
+      "About one hour"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What time will the plane take off?",
+     "options": [
+      "Five fifteen",
+      "Four thirty",
+      "Two forty-seven",
+      "Four fifteen"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "He missed his flight.",
+    "We booked a direct flight.",
+    "The flight lands at nine."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Flying",
+    "question_text": "Have you ever taken a flight? Describe it.",
+    "hint_words": [
+     "plane",
+     "airport",
+     "took off",
+     "window"
+    ]
+   },
+   {
+    "topic": "Flying",
+    "question_text": "What do you do on a long-haul flight?",
+    "hint_words": [
+     "watch",
+     "sleep",
+     "read",
+     "music"
+    ]
+   },
+   {
+    "topic": "Flying",
+    "question_text": "What would you do if you missed your flight?",
+    "hint_words": [
+     "ask",
+     "wait",
+     "next flight",
+     "help"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 41,
+  "title": "delay and destination",
+  "vocabulary": [
+   {
+    "word": "a long delay",
+    "translation_uz": "uzoq kechikish",
+    "example_sentence": "There was a long delay at the airport."
+   },
+   {
+    "word": "a delay of two hours",
+    "translation_uz": "ikki soatlik kechikish",
+    "example_sentence": "We had a delay of two hours."
+   },
+   {
+    "word": "be delayed",
+    "translation_uz": "kechikmoq",
+    "example_sentence": "The train was delayed by fog."
+   },
+   {
+    "word": "without delay",
+    "translation_uz": "kechiktirmasdan",
+    "example_sentence": "Please send the documents without delay."
+   },
+   {
+    "word": "cause a delay",
+    "translation_uz": "kechikishga sabab bo'lmoq",
+    "example_sentence": "Heavy snow caused delays on the roads."
+   },
+   {
+    "word": "delays to flights",
+    "translation_uz": "reyslarning kechikishi",
+    "example_sentence": "Bad weather led to delays to flights."
+   },
+   {
+    "word": "apologise for the delay",
+    "translation_uz": "kechikish uchun uzr so'ramoq",
+    "example_sentence": "The captain apologised for the delay."
+   },
+   {
+    "word": "reach your destination",
+    "translation_uz": "manzilga yetmoq",
+    "example_sentence": "We reached our destination just after midnight."
+   },
+   {
+    "word": "arrive at your destination",
+    "translation_uz": "manzilga yetib kelmoq",
+    "example_sentence": "The bus arrives at its destination at noon."
+   },
+   {
+    "word": "a popular destination",
+    "translation_uz": "mashhur manzil",
+    "example_sentence": "Istanbul is a popular destination for tourists."
+   },
+   {
+    "word": "a holiday destination",
+    "translation_uz": "ta'til manzili",
+    "example_sentence": "Which holiday destination do you prefer?"
+   },
+   {
+    "word": "final destination",
+    "translation_uz": "oxirgi manzil",
+    "example_sentence": "The final destination of this train is Samarkand."
+   },
+   {
+    "word": "a tourist destination",
+    "translation_uz": "turistik manzil",
+    "example_sentence": "Khiva is a famous tourist destination."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Our flight was ___ by two hours because of the storm.",
+    "correct_word": "delayed",
+    "options": [
+     "delayed",
+     "delaying",
+     "delay",
+     "delays"
+    ]
+   },
+   {
+    "sentence_with_blank": "The pilot apologised ___ the delay.",
+    "correct_word": "for",
+    "options": [
+     "at",
+     "for",
+     "with",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Heavy fog ___ long delays at the airport yesterday.",
+    "correct_word": "caused",
+    "options": [
+     "did",
+     "gave",
+     "caused",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "We finally ___ our destination at midnight.",
+    "correct_word": "reached",
+    "options": [
+     "arrived",
+     "came",
+     "went",
+     "reached"
+    ]
+   },
+   {
+    "sentence_with_blank": "Paris is a very ___ destination for tourists from all over the world.",
+    "correct_word": "popular",
+    "options": [
+     "popular",
+     "public",
+     "silent",
+     "empty"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please answer the email without ___.",
+    "correct_word": "delay",
+    "options": [
+     "delayed",
+     "delay",
+     "delaying",
+     "delays"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Delayed",
+   "text": "Our flight to Antalya was delayed by three hours. The airline apologised for the delay and gave every passenger a voucher for food. Heavy rain had caused delays to many flights that morning. While we waited, my brother and I read magazines and played cards. Finally the speaker said our plane was ready. Antalya is a popular holiday destination, and the plane was full of families. We reached our destination late in the evening, but the warm air and the smell of the sea made us forget the long wait.",
+   "key_words": [
+    {
+     "word": "voucher",
+     "translation_uz": "kupon"
+    },
+    {
+     "word": "airline",
+     "translation_uz": "aviakompaniya"
+    },
+    {
+     "word": "wait",
+     "translation_uz": "kutish"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long was the delay?",
+     "options": [
+      "One hour",
+      "Five hours",
+      "Thirty minutes",
+      "Three hours"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the airline give passengers?",
+     "options": [
+      "A voucher for food",
+      "Free tickets",
+      "A hotel room",
+      "A blanket"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What caused the delays?",
+     "options": [
+      "A strike",
+      "Heavy rain",
+      "A broken plane",
+      "Snow"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Travel Information",
+   "script": "Announcer: Attention please. The train to Bukhara is delayed by forty minutes because of a technical problem. We apologise for the delay. Passengers who wish to continue to the final destination, Khiva, should stay on platform three. The train will leave without delay as soon as the problem is solved. A café is open near platform one, and tea is free for children. Thank you for your patience.",
+   "questions": [
+    {
+     "question": "How long is the delay?",
+     "options": [
+      "Fourteen minutes",
+      "One hour",
+      "Forty minutes",
+      "Twenty minutes"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which platform should passengers wait on?",
+     "options": [
+      "Platform one",
+      "Platform two",
+      "Platform four",
+      "Platform three"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the final destination?",
+     "options": [
+      "Khiva",
+      "Bukhara",
+      "Samarkand",
+      "Tashkent"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "The train was delayed again.",
+    "We reached our destination safely.",
+    "Bali is a popular destination."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Delays",
+    "question_text": "Have you ever been delayed on a trip? What happened?",
+    "hint_words": [
+     "late",
+     "waited",
+     "train",
+     "bored"
+    ]
+   },
+   {
+    "topic": "Delays",
+    "question_text": "What is a popular tourist destination in your country?",
+    "hint_words": [
+     "popular",
+     "tourists",
+     "famous",
+     "city"
+    ]
+   },
+   {
+    "topic": "Delays",
+    "question_text": "What do you do when you wait for a long time?",
+    "hint_words": [
+     "read",
+     "phone",
+     "music",
+     "talk"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 42,
+  "title": "passenger",
+  "vocabulary": [
+   {
+    "word": "a passenger plane",
+    "translation_uz": "yo'lovchi samolyoti",
+    "example_sentence": "A passenger plane landed safely."
+   },
+   {
+    "word": "a passenger train",
+    "translation_uz": "yo'lovchi poyezdi",
+    "example_sentence": "The passenger train stops at every small station."
+   },
+   {
+    "word": "a passenger seat",
+    "translation_uz": "yo'lovchi o'rindig'i",
+    "example_sentence": "Children should sit in the back passenger seat."
+   },
+   {
+    "word": "board the plane",
+    "translation_uz": "samolyotga chiqmoq",
+    "example_sentence": "Passengers board the plane through gate five."
+   },
+   {
+    "word": "a fellow passenger",
+    "translation_uz": "hamsafar",
+    "example_sentence": "A fellow passenger lent me a pen."
+   },
+   {
+    "word": "an airline passenger",
+    "translation_uz": "aviayo'lovchi",
+    "example_sentence": "Every airline passenger must show a ticket."
+   },
+   {
+    "word": "a bus passenger",
+    "translation_uz": "avtobus yo'lovchisi",
+    "example_sentence": "A bus passenger left a bag on the seat."
+   },
+   {
+    "word": "a passenger list",
+    "translation_uz": "yo'lovchilar ro'yxati",
+    "example_sentence": "Your name is on the passenger list."
+   },
+   {
+    "word": "passenger numbers",
+    "translation_uz": "yo'lovchilar soni",
+    "example_sentence": "Passenger numbers rise in summer."
+   },
+   {
+    "word": "carry passengers",
+    "translation_uz": "yo'lovchilarni tashimoq",
+    "example_sentence": "The ferry carries about 200 passengers."
+   },
+   {
+    "word": "a passenger terminal",
+    "translation_uz": "yo'lovchi terminali",
+    "example_sentence": "Please wait in the passenger terminal."
+   },
+   {
+    "word": "a passenger announcement",
+    "translation_uz": "yo'lovchilarga e'lon",
+    "example_sentence": "A passenger announcement told us to stay seated."
+   },
+   {
+    "word": "a passenger service",
+    "translation_uz": "yo'lovchilarga xizmat ko'rsatish",
+    "example_sentence": "The new passenger service starts in May."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Every ___ must show a ticket before getting on the train.",
+    "correct_word": "passenger",
+    "options": [
+     "guest",
+     "passenger",
+     "driver",
+     "worker"
+    ]
+   },
+   {
+    "sentence_with_blank": "The plane will take off when all passengers are on ___.",
+    "correct_word": "board",
+    "options": [
+     "bored",
+     "boards",
+     "board",
+     "boarding"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ train stops at every small station.",
+    "correct_word": "passenger",
+    "options": [
+     "person",
+     "human",
+     "guest",
+     "passenger"
+    ]
+   },
+   {
+    "sentence_with_blank": "The big ferry can ___ about two hundred passengers.",
+    "correct_word": "carry",
+    "options": [
+     "carry",
+     "bring",
+     "lift",
+     "push"
+    ]
+   },
+   {
+    "sentence_with_blank": "A fellow ___ helped me with my bag.",
+    "correct_word": "passenger",
+    "options": [
+     "passage",
+     "passenger",
+     "message",
+     "package"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please listen to the passenger ___ about the new platform.",
+    "correct_word": "announcement",
+    "options": [
+     "advertise",
+     "advertisement",
+     "announcement",
+     "apology"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "On the Ferry",
+   "text": "Every morning a small ferry carries passengers across the river. It can take about sixty people, and most of them are workers or students. When the ferry arrives, passengers board slowly, and a man checks their tickets. There is a passenger list for large groups, but ordinary travellers just pay at the gate. Last week a fellow passenger lost his hat in the wind, and the captain turned the boat back to find it. The man was very thankful. Now the other passengers say this is the friendliest ferry in town.",
+   "key_words": [
+    {
+     "word": "ferry",
+     "translation_uz": "parom"
+    },
+    {
+     "word": "captain",
+     "translation_uz": "kapitan"
+    },
+    {
+     "word": "thankful",
+     "translation_uz": "minnatdor"
+    }
+   ],
+   "questions": [
+    {
+     "question": "About how many people can the ferry carry?",
+     "options": [
+      "Sixty",
+      "Twenty",
+      "Two hundred",
+      "Six"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the man at the gate do?",
+     "options": [
+      "Drives the boat",
+      "Checks tickets",
+      "Sells hats",
+      "Cleans the deck"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the passenger lose?",
+     "options": [
+      "His ticket",
+      "His bag",
+      "His hat",
+      "His phone"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Passenger Information",
+   "script": "Good morning, passengers. This is a short announcement about the number twelve bus. Because of road works, the bus will not stop at Park Street today. Passengers who need Park Street should get off at the library and walk five minutes. Please keep your passenger seat clean and do not leave bags in the aisle. Passenger numbers are very high on Mondays, so please move to the back of the bus if there is space. Thank you.",
+   "questions": [
+    {
+     "question": "Where should passengers get off for Park Street?",
+     "options": [
+      "At the school",
+      "At the market",
+      "At the station",
+      "At the library"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why will the bus not stop at Park Street?",
+     "options": [
+      "Because of road works",
+      "Because of a party",
+      "Because of bad weather",
+      "Because it is closed"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Which day are passenger numbers very high?",
+     "options": [
+      "Friday",
+      "Monday",
+      "Sunday",
+      "Wednesday"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The passenger train was full.",
+    "All passengers must board now.",
+    "A fellow passenger helped me."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Passengers",
+    "question_text": "Are you usually a passenger in a car, bus or train?",
+    "hint_words": [
+     "bus",
+     "train",
+     "school",
+     "usually"
+    ]
+   },
+   {
+    "topic": "Passengers",
+    "question_text": "How should passengers behave on a bus?",
+    "hint_words": [
+     "quiet",
+     "polite",
+     "seat",
+     "elderly"
+    ]
+   },
+   {
+    "topic": "Passengers",
+    "question_text": "Have you met an interesting fellow passenger?",
+    "hint_words": [
+     "talked",
+     "met",
+     "story",
+     "friendly"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 43,
+  "title": "passport and visa",
+  "vocabulary": [
+   {
+    "word": "apply for a passport",
+    "translation_uz": "pasportga ariza bermoq",
+    "example_sentence": "You can apply for a passport at the local office."
+   },
+   {
+    "word": "renew a passport",
+    "translation_uz": "pasportni yangilamoq",
+    "example_sentence": "I need to renew my passport before the trip."
+   },
+   {
+    "word": "a valid passport",
+    "translation_uz": "amaldagi pasport",
+    "example_sentence": "You need a valid passport to travel abroad."
+   },
+   {
+    "word": "an expired passport",
+    "translation_uz": "muddati o'tgan pasport",
+    "example_sentence": "An expired passport cannot be used."
+   },
+   {
+    "word": "show your passport",
+    "translation_uz": "pasportni ko'rsatmoq",
+    "example_sentence": "Please show your passport at the desk."
+   },
+   {
+    "word": "passport control",
+    "translation_uz": "pasport nazorati",
+    "example_sentence": "The queue at passport control was long."
+   },
+   {
+    "word": "a passport photo",
+    "translation_uz": "pasport uchun surat",
+    "example_sentence": "Take a passport photo to the office."
+   },
+   {
+    "word": "a tourist visa",
+    "translation_uz": "turistik viza",
+    "example_sentence": "I got a tourist visa for one month."
+   },
+   {
+    "word": "a student visa",
+    "translation_uz": "talaba vizasi",
+    "example_sentence": "She has a student visa for two years."
+   },
+   {
+    "word": "apply for a visa",
+    "translation_uz": "vizaga ariza bermoq",
+    "example_sentence": "You must apply for a visa online."
+   },
+   {
+    "word": "get/obtain a visa",
+    "translation_uz": "viza olmoq",
+    "example_sentence": "It took three weeks to obtain a visa."
+   },
+   {
+    "word": "a visa application",
+    "translation_uz": "viza uchun ariza",
+    "example_sentence": "The visa application form is on the website."
+   },
+   {
+    "word": "visa-free travel",
+    "translation_uz": "vizasiz sayohat",
+    "example_sentence": "Many countries offer visa-free travel for short stays."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "You must ___ a passport photo to the embassy.",
+    "correct_word": "bring",
+    "options": [
+     "borrow",
+     "catch",
+     "bring",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her passport is old and has already ___.",
+    "correct_word": "expired",
+    "options": [
+     "finished",
+     "ended",
+     "closed",
+     "expired"
+    ]
+   },
+   {
+    "sentence_with_blank": "Before you travel, check that your passport is ___.",
+    "correct_word": "valid",
+    "options": [
+     "valid",
+     "open",
+     "fresh",
+     "strong"
+    ]
+   },
+   {
+    "sentence_with_blank": "Foreigners must ___ their passports at passport control.",
+    "correct_word": "show",
+    "options": [
+     "tell",
+     "show",
+     "draw",
+     "talk"
+    ]
+   },
+   {
+    "sentence_with_blank": "You must apply ___ a visa online before the trip.",
+    "correct_word": "for",
+    "options": [
+     "to",
+     "of",
+     "for",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "He has a student visa, so he can ___ in the country for two years.",
+    "correct_word": "stay",
+    "options": [
+     "hold",
+     "keep",
+     "arrive",
+     "stay"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Papers for the Journey",
+   "text": "Before her trip to Japan, Malika had to organise her documents. First, she checked that her passport was valid, because it would expire soon. She decided to renew it and had a new passport photo taken. Then she went online to apply for a tourist visa. The visa application took ten minutes to fill in, and she waited two weeks for the answer. At the airport, an officer at passport control looked at her passport and the visa and smiled. Malika said that the hardest part of travelling is not the flight, but the paperwork.",
+   "key_words": [
+    {
+     "word": "document",
+     "translation_uz": "hujjat"
+    },
+    {
+     "word": "expire",
+     "translation_uz": "muddati tugamoq"
+    },
+    {
+     "word": "officer",
+     "translation_uz": "xodim"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did Malika renew her passport?",
+     "options": [
+      "She lost it",
+      "It would expire soon",
+      "The photo was old",
+      "It was damaged"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long did she wait for the visa?",
+     "options": [
+      "Ten minutes",
+      "Two months",
+      "Two weeks",
+      "One day"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Malika think is the hardest part?",
+     "options": [
+      "The flight",
+      "The food",
+      "The language",
+      "The paperwork"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At Passport Control",
+   "script": "Officer: Good evening. Passport, please. Traveller: Here you are. Officer: Thank you. Is this your first visit? Traveller: Yes, I have a tourist visa for three weeks. Officer: Your passport is valid until next year, which is fine. What is the purpose of your trip? Traveller: I want to visit friends and see the old towns. Officer: Enjoy your stay. The next person, please.",
+   "questions": [
+    {
+     "question": "How long is the traveller's visa?",
+     "options": [
+      "Three weeks",
+      "Three months",
+      "One year",
+      "One week"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What type of visa does the traveller have?",
+     "options": [
+      "A student visa",
+      "A tourist visa",
+      "A work visa",
+      "A family visa"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why is the traveller visiting?",
+     "options": [
+      "To study",
+      "To work",
+      "To visit friends and old towns",
+      "To buy things"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Show your passport, please.",
+    "I need to renew my passport.",
+    "She applied for a visa."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Documents",
+    "question_text": "Do you have a passport? Where would you like to use it?",
+    "hint_words": [
+     "passport",
+     "travel",
+     "country",
+     "would like"
+    ]
+   },
+   {
+    "topic": "Documents",
+    "question_text": "Why do some countries need a visa?",
+    "hint_words": [
+     "tourists",
+     "control",
+     "safe",
+     "rules"
+    ]
+   },
+   {
+    "topic": "Documents",
+    "question_text": "What documents do you need for a trip abroad?",
+    "hint_words": [
+     "passport",
+     "ticket",
+     "visa",
+     "money"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 44,
+  "title": "luggage and fare",
+  "vocabulary": [
+   {
+    "word": "pack your luggage",
+    "translation_uz": "yukni joylamoq",
+    "example_sentence": "I packed my luggage the night before."
+   },
+   {
+    "word": "check in your luggage",
+    "translation_uz": "yukni topshirmoq",
+    "example_sentence": "You can check in your luggage at the desk."
+   },
+   {
+    "word": "lose your luggage",
+    "translation_uz": "yukini yo'qotmoq",
+    "example_sentence": "The airline lost our luggage on the way."
+   },
+   {
+    "word": "carry-on luggage",
+    "translation_uz": "qo'l yuki",
+    "example_sentence": "Only one piece of carry-on luggage is allowed."
+   },
+   {
+    "word": "heavy/light luggage",
+    "translation_uz": "og'ir/yengil yuk",
+    "example_sentence": "He travels with light luggage."
+   },
+   {
+    "word": "excess luggage",
+    "translation_uz": "ortiqcha yuk",
+    "example_sentence": "You have to pay for excess luggage."
+   },
+   {
+    "word": "a luggage trolley",
+    "translation_uz": "yuk aravachasi",
+    "example_sentence": "Take a luggage trolley to the check-in desk."
+   },
+   {
+    "word": "a piece of luggage",
+    "translation_uz": "bir dona yuk",
+    "example_sentence": "Each passenger has one piece of luggage."
+   },
+   {
+    "word": "pay the fare",
+    "translation_uz": "yo'l haqini to'lamoq",
+    "example_sentence": "Please pay the fare when you get on the bus."
+   },
+   {
+    "word": "a bus/train/taxi fare",
+    "translation_uz": "avtobus/poyezd/taksi yo'l haqi",
+    "example_sentence": "The taxi fare to the airport is high."
+   },
+   {
+    "word": "a single fare",
+    "translation_uz": "bir tomonlama yo'l haqi",
+    "example_sentence": "A single fare costs five thousand som."
+   },
+   {
+    "word": "a return fare",
+    "translation_uz": "borib-kelish yo'l haqi",
+    "example_sentence": "A return fare is cheaper than two single tickets."
+   },
+   {
+    "word": "a cheap/expensive fare",
+    "translation_uz": "arzon/qimmat yo'l haqi",
+    "example_sentence": "We found a cheap fare to Istanbul."
+   },
+   {
+    "word": "fares go up",
+    "translation_uz": "yo'l haqi oshadi",
+    "example_sentence": "Train fares go up every January."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Passengers must ___ in their luggage at least two hours before the flight.",
+    "correct_word": "check",
+    "options": [
+     "look",
+     "test",
+     "mark",
+     "check"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ your luggage carefully before you leave for the airport.",
+    "correct_word": "pack",
+    "options": [
+     "pack",
+     "pick",
+     "pull",
+     "pay"
+    ]
+   },
+   {
+    "sentence_with_blank": "Passengers must pay extra for ___ luggage.",
+    "correct_word": "excess",
+    "options": [
+     "empty",
+     "excess",
+     "equal",
+     "enough"
+    ]
+   },
+   {
+    "sentence_with_blank": "You pay the ___ when you get on a bus.",
+    "correct_word": "fare",
+    "options": [
+     "rent",
+     "fine",
+     "fare",
+     "tax"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ fare costs less than two single fares to the same place.",
+    "correct_word": "return",
+    "options": [
+     "double",
+     "second",
+     "both",
+     "return"
+    ]
+   },
+   {
+    "sentence_with_blank": "Bus ___ go up again from the first of March.",
+    "correct_word": "fares",
+    "options": [
+     "fares",
+     "fairs",
+     "fees",
+     "pays"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Travelling Light",
+   "text": "Jasur is going to visit his aunt in another city. He has packed light luggage because he only needs clothes for two days. He keeps his carry-on luggage on the seat next to him, so he can get it quickly. The train fare is not expensive, but he bought a return ticket so he does not need to pay again. Last year his friend lost his luggage at a station, and the whole trip became difficult. Now Jasur always writes his name and phone number on his bag. He also checks his tickets twice before he leaves home.",
+   "key_words": [
+    {
+     "word": "clothes",
+     "translation_uz": "kiyim-kechak"
+    },
+    {
+     "word": "station",
+     "translation_uz": "vokzal"
+    },
+    {
+     "word": "twice",
+     "translation_uz": "ikki marta"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why is Jasur's luggage light?",
+     "options": [
+      "His bag is broken",
+      "He is going for a month",
+      "He needs clothes for only two days",
+      "He sends it by post"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did he buy a return ticket?",
+     "options": [
+      "It is the only option",
+      "It is free",
+      "His aunt asked him to",
+      "So he does not need to pay again"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does he write on his bag?",
+     "options": [
+      "His name and phone number",
+      "His address",
+      "A funny message",
+      "The train number"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Check-in Desk",
+   "script": "Clerk: Good morning. How many pieces of luggage do you have? Passenger: Two suitcases and a small bag. Clerk: The small bag can be your carry-on luggage. Please put the suitcases on the scale. The first is twenty kilos, which is fine. The second is twenty-six kilos, so you must pay for excess luggage. Passenger: How much is it? Clerk: It is five dollars in total. Passenger: Thank you. That is cheaper than I expected.",
+   "questions": [
+    {
+     "question": "How many suitcases does the passenger have?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How heavy is the second suitcase?",
+     "options": [
+      "Twenty kilos",
+      "Ten kilos",
+      "Twenty-six kilos",
+      "Thirty kilos"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How much must the passenger pay?",
+     "options": [
+      "Ten dollars",
+      "Twenty dollars",
+      "Nothing",
+      "Five dollars"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Please pack your luggage.",
+    "The taxi fare was high.",
+    "She lost her luggage once."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Luggage",
+    "question_text": "What do you always pack in your luggage?",
+    "hint_words": [
+     "clothes",
+     "phone",
+     "toothbrush",
+     "book"
+    ]
+   },
+   {
+    "topic": "Luggage",
+    "question_text": "Is it better to travel with heavy or light luggage?",
+    "hint_words": [
+     "light",
+     "easy",
+     "carry",
+     "because"
+    ]
+   },
+   {
+    "topic": "Luggage",
+    "question_text": "How much is a bus fare in your city?",
+    "hint_words": [
+     "fare",
+     "cheap",
+     "expensive",
+     "som"
+    ]
+   }
+  ]
+ }
+]

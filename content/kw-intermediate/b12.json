@@ -1,0 +1,1834 @@
+[
+ {
+  "unit": 90,
+  "title": "fun and entertainment",
+  "vocabulary": [
+   {
+    "word": "have fun",
+    "translation_uz": "maza qilmoq",
+    "example_sentence": "We had fun at the beach yesterday."
+   },
+   {
+    "word": "great / good fun",
+    "translation_uz": "juda qiziqarli",
+    "example_sentence": "Skating is great fun."
+   },
+   {
+    "word": "for fun",
+    "translation_uz": "hazil uchun, o'yin-kulgi uchun",
+    "example_sentence": "I play the guitar just for fun."
+   },
+   {
+    "word": "make fun of someone",
+    "translation_uz": "birovni masxara qilmoq",
+    "example_sentence": "It is unkind to make fun of other people."
+   },
+   {
+    "word": "fun and games",
+    "translation_uz": "o'yin-kulgi",
+    "example_sentence": "It wasn't all fun and games at camp."
+   },
+   {
+    "word": "a fun place / activity",
+    "translation_uz": "qiziqarli joy / mashg'ulot",
+    "example_sentence": "The water park is a fun place for children."
+   },
+   {
+    "word": "have a fun time",
+    "translation_uz": "vaqtni qiziq o'tkazmoq",
+    "example_sentence": "Did you have a fun time at the party?"
+   },
+   {
+    "word": "provide / offer entertainment",
+    "translation_uz": "o'yin-kulgi taqdim etmoq",
+    "example_sentence": "The hotel offers entertainment every evening."
+   },
+   {
+    "word": "a form of entertainment",
+    "translation_uz": "ko'ngilochar vosita",
+    "example_sentence": "Reading is my favourite form of entertainment."
+   },
+   {
+    "word": "live entertainment",
+    "translation_uz": "jonli konsert/shou",
+    "example_sentence": "The restaurant has live entertainment on Fridays."
+   },
+   {
+    "word": "the entertainment industry",
+    "translation_uz": "ko'ngilochar sanoat",
+    "example_sentence": "She wants to work in the entertainment industry."
+   },
+   {
+    "word": "entertain guests / an audience",
+    "translation_uz": "mehmonlarni / tomoshabinlarni xursand qilmoq",
+    "example_sentence": "The clown entertained the children for an hour."
+   },
+   {
+    "word": "an entertaining show",
+    "translation_uz": "qiziqarli shou",
+    "example_sentence": "It was a very entertaining show."
+   },
+   {
+    "word": "sound / look like fun",
+    "translation_uz": "qiziqarli tuyulmoq",
+    "example_sentence": "A picnic by the river sounds like fun."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We all had a lot of ___ at the funfair yesterday.",
+    "correct_word": "fun",
+    "options": [
+     "funnily",
+     "enjoy",
+     "funny",
+     "fun"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is unkind to make ___ of people because of their accent.",
+    "correct_word": "fun",
+    "options": [
+     "game",
+     "laugh",
+     "fun",
+     "jokes"
+    ]
+   },
+   {
+    "sentence_with_blank": "The hotel ___ live entertainment every weekend.",
+    "correct_word": "offers",
+    "options": [
+     "gets",
+     "wins",
+     "makes",
+     "offers"
+    ]
+   },
+   {
+    "sentence_with_blank": "Cinema is a popular form of ___.",
+    "correct_word": "entertainment",
+    "options": [
+     "entertainment",
+     "entertainer",
+     "entertaining",
+     "entertained"
+    ]
+   },
+   {
+    "sentence_with_blank": "The clown ___ the children with funny tricks yesterday.",
+    "correct_word": "entertained",
+    "options": [
+     "entertain",
+     "entertained",
+     "entertaining",
+     "entertainment"
+    ]
+   },
+   {
+    "sentence_with_blank": "It wasn't all fun and ___ at camp; we also had to work.",
+    "correct_word": "games",
+    "options": [
+     "toys",
+     "play",
+     "games",
+     "jokes"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Summer Camp",
+   "text": "Last August, Madina went to a summer camp near the lake. She had great fun every day. In the morning there were sports, and in the evening the camp offered live entertainment, like songs and short plays. One boy made fun of her accent at first, but the other children told him to stop. By the end of the week, they were all friends. It wasn't all fun and games, though. Everyone had to clean their own room. Madina says she wants to go back next year, because camp is the best form of entertainment she knows.",
+   "key_words": [
+    {
+     "word": "camp",
+     "translation_uz": "lager"
+    },
+    {
+     "word": "accent",
+     "translation_uz": "talaffuz, urg'u"
+    },
+    {
+     "word": "clean",
+     "translation_uz": "tozalamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where was the summer camp?",
+     "options": [
+      "Near a lake",
+      "In the mountains",
+      "In a big city",
+      "By the sea"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened with the boy's behaviour?",
+     "options": [
+      "He left the camp",
+      "The others told him to stop",
+      "He won a prize",
+      "He taught everyone songs"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did everyone have to do besides having fun?",
+     "options": [
+      "Cook dinner",
+      "Write a diary",
+      "Clean their own room",
+      "Wash the bus"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Weekend Plans",
+   "script": "Karim: What shall we do on Saturday? Lola: A picnic by the river sounds like fun. Karim: Good idea. We can play games just for fun. Lola: My little brother loves entertaining people, so let's take him. He can tell jokes and do tricks. Karim: Great. It will be a fun day.",
+   "questions": [
+    {
+     "question": "Where do they plan to go?",
+     "options": [
+      "To the cinema",
+      "To a camp",
+      "To the park only",
+      "To a picnic by the river"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will they do just for fun?",
+     "options": [
+      "Play games",
+      "Study",
+      "Cook",
+      "Run races"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who loves entertaining people?",
+     "options": [
+      "Karim",
+      "Lola's brother",
+      "Karim's cousin",
+      "Lola's teacher"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We had great fun together.",
+    "Don't make fun of him.",
+    "I play tennis for fun."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fun",
+    "question_text": "What do you do for fun at the weekend?",
+    "hint_words": [
+     "weekend",
+     "friends",
+     "play",
+     "fun"
+    ]
+   },
+   {
+    "topic": "Entertainment",
+    "question_text": "What is your favourite form of entertainment?",
+    "hint_words": [
+     "films",
+     "music",
+     "games",
+     "favourite"
+    ]
+   },
+   {
+    "topic": "Past",
+    "question_text": "Tell me about a time when you had great fun.",
+    "hint_words": [
+     "last",
+     "trip",
+     "party",
+     "great fun"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 91,
+  "title": "joke",
+  "vocabulary": [
+   {
+    "word": "tell a joke",
+    "translation_uz": "hazil aytmoq",
+    "example_sentence": "My uncle loves to tell jokes at dinner."
+   },
+   {
+    "word": "crack a joke",
+    "translation_uz": "hazil qilmoq (aytmoq)",
+    "example_sentence": "He cracked a joke to make everyone smile."
+   },
+   {
+    "word": "play a joke on someone",
+    "translation_uz": "birovga hazil qilmoq (o'ynamoq)",
+    "example_sentence": "They played a joke on their teacher on April 1st."
+   },
+   {
+    "word": "a practical joke",
+    "translation_uz": "amaliy hazil (qiziq o'yin)",
+    "example_sentence": "Hiding his shoes was a practical joke."
+   },
+   {
+    "word": "a funny / good joke",
+    "translation_uz": "kulgili / yaxshi hazil",
+    "example_sentence": "That was a really funny joke."
+   },
+   {
+    "word": "a silly joke",
+    "translation_uz": "ahmoqona hazil",
+    "example_sentence": "Dad's silly jokes make us groan."
+   },
+   {
+    "word": "an old joke",
+    "translation_uz": "eskirgan hazil",
+    "example_sentence": "I have heard that old joke before."
+   },
+   {
+    "word": "a private joke",
+    "translation_uz": "faqat o'zlari tushunadigan hazil",
+    "example_sentence": "They laughed at a private joke that nobody else understood."
+   },
+   {
+    "word": "get / see the joke",
+    "translation_uz": "hazilni tushunmoq",
+    "example_sentence": "I didn't get the joke at first."
+   },
+   {
+    "word": "take a joke",
+    "translation_uz": "hazilni ko'tara olmoq",
+    "example_sentence": "Can you take a joke?"
+   },
+   {
+    "word": "be able to take a joke",
+    "translation_uz": "hazilni qabul qila olmoq",
+    "example_sentence": "He's fun because he can take a joke."
+   },
+   {
+    "word": "It's no joke",
+    "translation_uz": "bu hazil emas",
+    "example_sentence": "Learning a new language is no joke."
+   },
+   {
+    "word": "joking apart",
+    "translation_uz": "hazilni qo'yaylik",
+    "example_sentence": "Joking apart, we need to finish this today."
+   },
+   {
+    "word": "just a joke / only joking",
+    "translation_uz": "shunchaki hazil",
+    "example_sentence": "Don't worry, I was only joking."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandfather always ___ jokes after dinner.",
+    "correct_word": "tells",
+    "options": [
+     "talks",
+     "says",
+     "speaks",
+     "tells"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children ___ a joke on their teacher by hiding her chalk.",
+    "correct_word": "played",
+    "options": [
+     "made",
+     "had",
+     "played",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "I didn't ___ the joke, so I didn't laugh.",
+    "correct_word": "get",
+    "options": [
+     "find",
+     "get",
+     "bring",
+     "have"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is great fun because he can ___ a joke.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "keep",
+     "bring",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't be angry. I was only ___.",
+    "correct_word": "joking",
+    "options": [
+     "joking",
+     "joked",
+     "jokes",
+     "joker"
+    ]
+   },
+   {
+    "sentence_with_blank": "Climbing a high mountain is no ___.",
+    "correct_word": "joke",
+    "options": [
+     "joke",
+     "trick",
+     "play",
+     "laugh"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "April Fool's Day",
+   "text": "On the first of April, my brother likes to play a joke on the family. Last year, he told us that school was closed because of snow. It was a warm day, so we didn't believe him! Our mother can take a joke, but our father was a little angry. My brother laughed and said, \"I was only joking!\" In the evening, we all told jokes at dinner. Some were old, and some were silly, but the funniest was a private joke between my sister and me. Nobody else got the joke.",
+   "key_words": [
+    {
+     "word": "believe",
+     "translation_uz": "ishonmoq"
+    },
+    {
+     "word": "snow",
+     "translation_uz": "qor"
+    },
+    {
+     "word": "angry",
+     "translation_uz": "jahli chiqqan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the brother say about school?",
+     "options": [
+      "That it was open",
+      "That it was closed",
+      "That there was a test",
+      "That it was a holiday"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who was a little angry?",
+     "options": [
+      "The mother",
+      "The sister",
+      "The father",
+      "The narrator"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who understood the private joke?",
+     "options": [
+      "The father",
+      "Everyone",
+      "The mother and brother",
+      "The narrator and the sister"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Funny Story",
+   "script": "Tom: Did you hear the joke about the clock? Ella: No, tell me. Tom: Sorry, I forgot it. It was a good joke. Ella: Typical! You always cracked jokes in class. Tom: Yes, and once I played a joke on the teacher with a rubber spider. Ella: Did she get angry? Tom: No, she can take a joke. She even laughed.",
+   "questions": [
+    {
+     "question": "What did Tom forget?",
+     "options": [
+      "The joke",
+      "The clock",
+      "The spider",
+      "The teacher's name"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did he use for the joke on the teacher?",
+     "options": [
+      "A real clock",
+      "A rubber spider",
+      "A box",
+      "A book"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did the teacher react?",
+     "options": [
+      "She cried",
+      "She shouted",
+      "She laughed",
+      "She left"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "He told a funny joke.",
+    "I was only joking.",
+    "Can you take a joke?"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Jokes",
+    "question_text": "Do you like telling jokes? Why or why not?",
+    "hint_words": [
+     "tell",
+     "funny",
+     "friends",
+     "laugh"
+    ]
+   },
+   {
+    "topic": "Pranks",
+    "question_text": "Have you ever played a joke on someone?",
+    "hint_words": [
+     "April Fool",
+     "once",
+     "laugh",
+     "friend"
+    ]
+   },
+   {
+    "topic": "Humour",
+    "question_text": "Who is the funniest person you know?",
+    "hint_words": [
+     "funny",
+     "uncle",
+     "friend",
+     "stories"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 92,
+  "title": "television and programme",
+  "vocabulary": [
+   {
+    "word": "watch television / TV",
+    "translation_uz": "televizor ko'rmoq",
+    "example_sentence": "We watch TV after dinner."
+   },
+   {
+    "word": "turn on / switch on the TV",
+    "translation_uz": "televizorni yoqmoq",
+    "example_sentence": "Could you switch on the TV, please?"
+   },
+   {
+    "word": "turn off the TV",
+    "translation_uz": "televizorni o'chirmoq",
+    "example_sentence": "Turn off the TV and do your homework."
+   },
+   {
+    "word": "on television",
+    "translation_uz": "televizorda",
+    "example_sentence": "There is a good film on television tonight."
+   },
+   {
+    "word": "a television channel",
+    "translation_uz": "televizion kanal",
+    "example_sentence": "Which channel is the match on?"
+   },
+   {
+    "word": "a satellite / cable channel",
+    "translation_uz": "sun'iy yo'ldosh / kabel kanali",
+    "example_sentence": "They have more than a hundred cable channels."
+   },
+   {
+    "word": "a television series",
+    "translation_uz": "teleserial",
+    "example_sentence": "I love this television series about animals."
+   },
+   {
+    "word": "a TV presenter",
+    "translation_uz": "teleboshlovchi",
+    "example_sentence": "The presenter welcomed the audience."
+   },
+   {
+    "word": "a news programme",
+    "translation_uz": "yangiliklar dasturi",
+    "example_sentence": "My grandfather never misses the news programme."
+   },
+   {
+    "word": "a children's programme",
+    "translation_uz": "bolalar dasturi",
+    "example_sentence": "The children's programme starts at five."
+   },
+   {
+    "word": "a documentary programme",
+    "translation_uz": "hujjatli dastur",
+    "example_sentence": "I saw a documentary programme about space."
+   },
+   {
+    "word": "a cookery / quiz programme",
+    "translation_uz": "pazandachilik / viktorina dasturi",
+    "example_sentence": "We watched a quiz programme and answered the questions."
+   },
+   {
+    "word": "a live programme",
+    "translation_uz": "jonli efir",
+    "example_sentence": "The concert was a live programme."
+   },
+   {
+    "word": "record / miss a programme",
+    "translation_uz": "dasturni yozib olmoq / o'tkazib yubormoq",
+    "example_sentence": "I missed the programme, so I will watch it online."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ off the TV; it's time to go to bed.",
+    "correct_word": "turn",
+    "options": [
+     "put",
+     "turn",
+     "give",
+     "get"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a very good film ___ television tonight.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "at",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ welcomed the guests at the start of the show.",
+    "correct_word": "presenter",
+    "options": [
+     "actor",
+     "director",
+     "audience",
+     "presenter"
+    ]
+   },
+   {
+    "sentence_with_blank": "Which ___ is the film on, Channel Four or Channel Five?",
+    "correct_word": "channel",
+    "options": [
+     "series",
+     "channel",
+     "screen",
+     "programme"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the TV on; it's time for the news.",
+    "correct_word": "turn",
+    "options": [
+     "turn",
+     "make",
+     "take",
+     "go"
+    ]
+   },
+   {
+    "sentence_with_blank": "My dad enjoys a documentary ___ about wildlife.",
+    "correct_word": "programme",
+    "options": [
+     "chapter",
+     "lesson",
+     "article",
+     "programme"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Family TV Time",
+   "text": "In our house, we watch television only in the evening. My father likes the news programme, and my mother prefers cookery programmes. My sister and I love the children's channel, where a funny presenter tells stories and shows cartoons. On Saturday there is a quiz programme with a live audience, and we all play along at home. Last week I missed my favourite series, so I recorded it. After one hour, Mum says, \"Switch off the TV!\" and we go to bed.",
+   "key_words": [
+    {
+     "word": "presenter",
+     "translation_uz": "teleboshlovchi"
+    },
+    {
+     "word": "audience",
+     "translation_uz": "tomoshabinlar"
+    },
+    {
+     "word": "cartoon",
+     "translation_uz": "multfilm"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the family watch TV?",
+     "options": [
+      "In the morning",
+      "At lunch",
+      "In the evening",
+      "At night only"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which programme does the father like?",
+     "options": [
+      "A quiz",
+      "A cookery programme",
+      "A cartoon",
+      "The news"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the narrator do when missing the series?",
+     "options": [
+      "Recorded it",
+      "Cried",
+      "Watched it live",
+      "Asked the presenter"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Which Channel?",
+   "script": "Aziza: Can I switch on the TV? There is a documentary programme about the sea. Bobur: Which channel is it on? Aziza: Channel Five. It starts in ten minutes. Bobur: Okay, but I want to see the football on Channel Two at eight. Aziza: Don't worry, the documentary finishes at seven forty-five.",
+   "questions": [
+    {
+     "question": "What is the documentary about?",
+     "options": [
+      "Football",
+      "The sea",
+      "Space",
+      "Animals"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which channel is the documentary on?",
+     "options": [
+      "Channel Two",
+      "Channel One",
+      "Channel Five",
+      "Channel Eight"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When does the football start?",
+     "options": [
+      "At seven",
+      "At nine",
+      "At seven forty-five",
+      "At eight"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Turn off the television, please.",
+    "There is a film on TV.",
+    "I missed my favourite programme."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Television",
+    "question_text": "How much television do you watch every day?",
+    "hint_words": [
+     "hours",
+     "evening",
+     "watch",
+     "every day"
+    ]
+   },
+   {
+    "topic": "Programmes",
+    "question_text": "What is your favourite TV programme?",
+    "hint_words": [
+     "series",
+     "cartoon",
+     "favourite",
+     "funny"
+    ]
+   },
+   {
+    "topic": "Opinion",
+    "question_text": "Is too much television bad for children? Why?",
+    "hint_words": [
+     "bad",
+     "eyes",
+     "homework",
+     "time"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 93,
+  "title": "concert",
+  "vocabulary": [
+   {
+    "word": "go to a concert",
+    "translation_uz": "konsertga bormoq",
+    "example_sentence": "Are you going to the concert on Friday?"
+   },
+   {
+    "word": "give / perform a concert",
+    "translation_uz": "konsert bermoq",
+    "example_sentence": "The orchestra will give a concert in the park."
+   },
+   {
+    "word": "a live concert",
+    "translation_uz": "jonli konsert",
+    "example_sentence": "I'd love to see a live concert of my favourite band."
+   },
+   {
+    "word": "a rock / pop concert",
+    "translation_uz": "rok / pop konserti",
+    "example_sentence": "Thousands of people went to the rock concert."
+   },
+   {
+    "word": "a classical concert",
+    "translation_uz": "klassik konsert",
+    "example_sentence": "My grandmother prefers a classical concert."
+   },
+   {
+    "word": "a charity concert",
+    "translation_uz": "xayriya konserti",
+    "example_sentence": "The school held a charity concert for the hospital."
+   },
+   {
+    "word": "a school concert",
+    "translation_uz": "maktab konserti",
+    "example_sentence": "I played the violin at the school concert."
+   },
+   {
+    "word": "book / buy concert tickets",
+    "translation_uz": "konsert chiptalarini band qilmoq / sotib olmoq",
+    "example_sentence": "We booked concert tickets online."
+   },
+   {
+    "word": "a concert hall",
+    "translation_uz": "konsert zali",
+    "example_sentence": "The new concert hall holds two thousand people."
+   },
+   {
+    "word": "at a concert",
+    "translation_uz": "konsertda",
+    "example_sentence": "I met my best friend at a concert."
+   },
+   {
+    "word": "a concert is sold out",
+    "translation_uz": "konsert chiptalari tugagan",
+    "example_sentence": "The concert is sold out, sadly."
+   },
+   {
+    "word": "a concert starts / ends",
+    "translation_uz": "konsert boshlanadi / tugaydi",
+    "example_sentence": "The concert starts at seven thirty."
+   },
+   {
+    "word": "cancel / postpone a concert",
+    "translation_uz": "konsertni bekor qilmoq / kechiktirmoq",
+    "example_sentence": "They postponed the concert because of the rain."
+   },
+   {
+    "word": "in concert",
+    "translation_uz": "konsert dasturida (jonli chiqish)",
+    "example_sentence": "The singer will appear in concert next month."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The band will ___ a concert in our town next month.",
+    "correct_word": "give",
+    "options": [
+     "give",
+     "do",
+     "take",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "We bought two ___ for the concert online.",
+    "correct_word": "tickets",
+    "options": [
+     "tags",
+     "tokens",
+     "notes",
+     "tickets"
+    ]
+   },
+   {
+    "sentence_with_blank": "The concert ___ at eight and finishes at ten.",
+    "correct_word": "starts",
+    "options": [
+     "comes",
+     "starts",
+     "goes",
+     "puts"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's too late; the concert is ___ out.",
+    "correct_word": "sold",
+    "options": [
+     "sold",
+     "finished",
+     "bought",
+     "taken"
+    ]
+   },
+   {
+    "sentence_with_blank": "The school held a charity ___ to raise money for the hospital.",
+    "correct_word": "concert",
+    "options": [
+     "exam",
+     "homework",
+     "lesson",
+     "concert"
+    ]
+   },
+   {
+    "sentence_with_blank": "I saw my favourite singer ___ concert last year.",
+    "correct_word": "in",
+    "options": [
+     "for",
+     "on",
+     "in",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Concert",
+   "text": "Our school concert is on Friday evening. Many students will perform songs, and my class will play a short piece on the recorder. The concert hall is in the town centre, and it is a charity concert, so all money from the tickets will help a children's hospital. The tickets are already almost sold out! I am a bit nervous, but my teacher says it will be fun. The concert starts at six o'clock and ends at about eight. After the concert, there will be tea and biscuits for everyone.",
+   "key_words": [
+    {
+     "word": "perform",
+     "translation_uz": "ijro etmoq"
+    },
+    {
+     "word": "nervous",
+     "translation_uz": "hayajonlangan"
+    },
+    {
+     "word": "recorder",
+     "translation_uz": "blokflöyta (fleyta)"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When is the school concert?",
+     "options": [
+      "On Saturday morning",
+      "On Monday",
+      "On Sunday evening",
+      "On Friday evening"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will the ticket money be used for?",
+     "options": [
+      "To help a children's hospital",
+      "To buy new chairs",
+      "To fix the school",
+      "To pay the teachers"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How does the narrator feel?",
+     "options": [
+      "Very angry",
+      "A bit nervous",
+      "Bored",
+      "Sleepy"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Booking Tickets",
+   "script": "Girl: Hello, I'd like two tickets for the pop concert on Saturday. Clerk: I'm sorry, the Saturday concert is sold out. Girl: Oh no! Are there any left for Sunday? Clerk: Yes, there are. The concert starts at seven on Sunday. Girl: Great, I'll take two tickets, please. Clerk: That's thirty dollars.",
+   "questions": [
+    {
+     "question": "Which concert is sold out?",
+     "options": [
+      "Sunday's",
+      "Friday's",
+      "Saturday's",
+      "Monday's"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What time does the Sunday concert start?",
+     "options": [
+      "At eight",
+      "At six",
+      "At nine",
+      "At seven"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How much are the two tickets?",
+     "options": [
+      "Thirty dollars",
+      "Twenty dollars",
+      "Fifteen dollars",
+      "Forty dollars"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "The concert starts at seven.",
+    "We went to a concert.",
+    "The tickets are sold out."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Concerts",
+    "question_text": "Have you ever been to a concert? What was it like?",
+    "hint_words": [
+     "loud",
+     "singer",
+     "crowd",
+     "exciting"
+    ]
+   },
+   {
+    "topic": "Music",
+    "question_text": "Which singer or band would you like to see live?",
+    "hint_words": [
+     "band",
+     "singer",
+     "live",
+     "favourite"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Does your school have concerts? Do you take part?",
+    "hint_words": [
+     "school",
+     "play",
+     "sing",
+     "take part"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 94,
+  "title": "fan and audience",
+  "vocabulary": [
+   {
+    "word": "a big / huge fan of",
+    "translation_uz": "... ning katta muxlisi",
+    "example_sentence": "I'm a huge fan of that band."
+   },
+   {
+    "word": "a football / sports fan",
+    "translation_uz": "futbol / sport muxlisi",
+    "example_sentence": "The football fans cheered loudly."
+   },
+   {
+    "word": "a film / music fan",
+    "translation_uz": "kino / musiqa muxlisi",
+    "example_sentence": "She is a real film fan."
+   },
+   {
+    "word": "a loyal fan",
+    "translation_uz": "sadoqatli muxlis",
+    "example_sentence": "He is a loyal fan of his local team."
+   },
+   {
+    "word": "fan club",
+    "translation_uz": "muxlislar klubi",
+    "example_sentence": "She joined the singer's fan club."
+   },
+   {
+    "word": "fan mail",
+    "translation_uz": "muxlislar xatlari",
+    "example_sentence": "The actor gets a lot of fan mail."
+   },
+   {
+    "word": "a large / small audience",
+    "translation_uz": "katta / kichik tomoshabin",
+    "example_sentence": "The theatre had a large audience."
+   },
+   {
+    "word": "a live audience",
+    "translation_uz": "studiyadagi tomoshabinlar",
+    "example_sentence": "The show has a live audience."
+   },
+   {
+    "word": "a young / family audience",
+    "translation_uz": "yosh / oilaviy tomoshabin",
+    "example_sentence": "The film is popular with a young audience."
+   },
+   {
+    "word": "an audience applauds",
+    "translation_uz": "tomoshabinlar qarsak chalmoqda",
+    "example_sentence": "The audience applauded for five minutes."
+   },
+   {
+    "word": "attract / entertain an audience",
+    "translation_uz": "tomoshabinlarni jalb qilmoq / xursand qilmoq",
+    "example_sentence": "The festival attracts a huge audience."
+   },
+   {
+    "word": "in the audience",
+    "translation_uz": "tomoshabinlar orasida",
+    "example_sentence": "My teacher was in the audience."
+   },
+   {
+    "word": "a television audience",
+    "translation_uz": "teletomoshabin",
+    "example_sentence": "Millions of people form the television audience."
+   },
+   {
+    "word": "play to a full house",
+    "translation_uz": "to'la zalda o'ynamoq",
+    "example_sentence": "The band played to a full house."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I'm a big ___ of that singer; I have all her albums.",
+    "correct_word": "fan",
+    "options": [
+     "fan",
+     "fond",
+     "fun",
+     "fund"
+    ]
+   },
+   {
+    "sentence_with_blank": "The singer gets a lot of fan ___ every week.",
+    "correct_word": "mail",
+    "options": [
+     "post",
+     "box",
+     "paper",
+     "mail"
+    ]
+   },
+   {
+    "sentence_with_blank": "The whole audience stood up and ___.",
+    "correct_word": "applauded",
+    "options": [
+     "applaud",
+     "applause",
+     "applauded",
+     "applauding"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a large ___ in the theatre last night.",
+    "correct_word": "audience",
+    "options": [
+     "fan",
+     "spectator",
+     "guest",
+     "audience"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle is a loyal ___ of the local football team.",
+    "correct_word": "fan",
+    "options": [
+     "audience",
+     "fan",
+     "guest",
+     "player"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin was ___ the audience, and she waved at me.",
+    "correct_word": "in",
+    "options": [
+     "with",
+     "on",
+     "in",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Football Match",
+   "text": "Sevara is a huge fan of her city's football team. She belongs to the fan club and goes to every match with her father. Last Sunday, there was a large audience of about ten thousand people in the stadium. The fans sang songs and waved flags. When the team scored, the whole audience stood up and applauded. After the match, Sevara waited outside, hoping to meet her favourite player. She didn't see him, but she wrote him a letter. She sends fan mail every month, and she hopes he will reply one day.",
+   "key_words": [
+    {
+     "word": "stadium",
+     "translation_uz": "stadion"
+    },
+    {
+     "word": "flag",
+     "translation_uz": "bayroq"
+    },
+    {
+     "word": "reply",
+     "translation_uz": "javob bermoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many people were in the stadium?",
+     "options": [
+      "About ten thousand",
+      "About a hundred",
+      "About a thousand",
+      "About a million"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Sevara do after the match?",
+     "options": [
+      "She went home early",
+      "She wrote a letter to a player",
+      "She met the player",
+      "She bought a ticket"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How often does she send fan mail?",
+     "options": [
+      "Every day",
+      "Every week",
+      "Every month",
+      "Once a year"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "After the Show",
+   "script": "Reporter: What did you think of the show? Fan: I'm a big fan of this band, and tonight they were fantastic. Reporter: How was the audience? Fan: There was a huge audience, and everyone applauded after each song. Reporter: Will you come again? Fan: Of course. I'm a member of the fan club, so I always get tickets first.",
+   "questions": [
+    {
+     "question": "What is the person?",
+     "options": [
+      "A singer",
+      "A reporter",
+      "A teacher",
+      "A fan of the band"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the audience do after each song?",
+     "options": [
+      "They applauded",
+      "They left",
+      "They slept",
+      "They shouted"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why does the fan get tickets first?",
+     "options": [
+      "She knows the singer",
+      "She is a member of the fan club",
+      "She works there",
+      "She is the manager"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "He is a huge fan.",
+    "The audience applauded loudly.",
+    "She wrote fan mail."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fans",
+    "question_text": "Are you a fan of any team, band or actor?",
+    "hint_words": [
+     "fan of",
+     "team",
+     "band",
+     "actor"
+    ]
+   },
+   {
+    "topic": "Audience",
+    "question_text": "How do you behave as part of an audience?",
+    "hint_words": [
+     "clap",
+     "quiet",
+     "listen",
+     "phone"
+    ]
+   },
+   {
+    "topic": "Opinion",
+    "question_text": "Why do people join fan clubs?",
+    "hint_words": [
+     "meet",
+     "tickets",
+     "news",
+     "love"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 95,
+  "title": "film",
+  "vocabulary": [
+   {
+    "word": "watch / see a film",
+    "translation_uz": "film ko'rmoq",
+    "example_sentence": "Let's watch a film tonight."
+   },
+   {
+    "word": "go to the cinema",
+    "translation_uz": "kinoga bormoq",
+    "example_sentence": "We go to the cinema twice a month."
+   },
+   {
+    "word": "make / direct a film",
+    "translation_uz": "film suratga olmoq / rejissyorlik qilmoq",
+    "example_sentence": "He wants to make a film about his town."
+   },
+   {
+    "word": "shoot a film",
+    "translation_uz": "film suratga olmoq (syomka)",
+    "example_sentence": "They shot the film in the mountains."
+   },
+   {
+    "word": "a film is based on",
+    "translation_uz": "film ... asosida yaratilgan",
+    "example_sentence": "The film is based on a true story."
+   },
+   {
+    "word": "a film is set in",
+    "translation_uz": "filmning voqealari ... da bo'ladi",
+    "example_sentence": "The film is set in Paris."
+   },
+   {
+    "word": "star in a film",
+    "translation_uz": "filmda bosh rolni o'ynamoq",
+    "example_sentence": "She starred in two films last year."
+   },
+   {
+    "word": "a feature / short film",
+    "translation_uz": "to'liq metrajli / qisqa metrajli film",
+    "example_sentence": "He made a short film at school."
+   },
+   {
+    "word": "an action / horror / comedy film",
+    "translation_uz": "jangari / qo'rqinchli / komediya filmi",
+    "example_sentence": "I prefer a comedy film to a horror film."
+   },
+   {
+    "word": "an animated film",
+    "translation_uz": "multiplikatsion film",
+    "example_sentence": "My brother loves animated films."
+   },
+   {
+    "word": "a film review",
+    "translation_uz": "film sharhi",
+    "example_sentence": "I read a film review before buying tickets."
+   },
+   {
+    "word": "a film critic",
+    "translation_uz": "kino tanqidchisi",
+    "example_sentence": "The film critic gave it four stars."
+   },
+   {
+    "word": "a film director",
+    "translation_uz": "kino rejissyori",
+    "example_sentence": "The film director won a prize."
+   },
+   {
+    "word": "release a film",
+    "translation_uz": "filmni ekranga chiqarmoq",
+    "example_sentence": "The studio will release the film in June."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The film is ___ on a true story from the 1990s.",
+    "correct_word": "based",
+    "options": [
+     "built",
+     "taken",
+     "based",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is a love story ___ in a small village by the sea.",
+    "correct_word": "set",
+    "options": [
+     "put",
+     "laid",
+     "set",
+     "taken"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ in her first big film at the age of eighteen.",
+    "correct_word": "starred",
+    "options": [
+     "produced",
+     "starred",
+     "directed",
+     "wrote"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ the film in the desert.",
+    "correct_word": "shot",
+    "options": [
+     "shot",
+     "pointed",
+     "threw",
+     "hit"
+    ]
+   },
+   {
+    "sentence_with_blank": "I read a film ___ before choosing what to watch.",
+    "correct_word": "review",
+    "options": [
+     "director",
+     "screen",
+     "review",
+     "price"
+    ]
+   },
+   {
+    "sentence_with_blank": "The film will be ___ in cinemas next summer.",
+    "correct_word": "released",
+    "options": [
+     "released",
+     "closed",
+     "freed",
+     "lent"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Film Night",
+   "text": "Every Friday, Jamshid and his friends watch a film together. Last week, they chose an animated film based on an old story. It is set in a small village in the mountains. The film director spent three years making it, and it was shot with the help of many artists. Before going to the cinema, Jamshid read a film review. The film critic gave it four stars out of five. The friends agreed with the critic. They loved the music most of all and came out smiling.",
+   "key_words": [
+    {
+     "word": "animated",
+     "translation_uz": "multiplikatsion"
+    },
+    {
+     "word": "critic",
+     "translation_uz": "tanqidchi"
+    },
+    {
+     "word": "agree",
+     "translation_uz": "rozi bo'lmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of film did the friends choose?",
+     "options": [
+      "A horror film",
+      "An animated film",
+      "A comedy",
+      "A documentary"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is the film set?",
+     "options": [
+      "In a big city",
+      "On a ship",
+      "In a mountain village",
+      "In a desert"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did they like most of all?",
+     "options": [
+      "The costumes",
+      "The popcorn",
+      "The ending only",
+      "The music"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing a Film",
+   "script": "Mum: Which film do you want to see? Son: There is a new action film at the cinema, but I read a bad review. Mum: Let's see a comedy then. There is one starring my favourite actress. Son: Is it based on a book? Mum: Yes, it is, and it's set in a small seaside town. Son: Sounds good. Let's go on Saturday.",
+   "questions": [
+    {
+     "question": "Why doesn't the son choose the action film?",
+     "options": [
+      "He read a bad review",
+      "It is too long",
+      "It is sold out",
+      "It is too scary"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who stars in the comedy?",
+     "options": [
+      "The son's friend",
+      "Mum's favourite actress",
+      "The director",
+      "A teacher"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When will they go?",
+     "options": [
+      "On Friday",
+      "On Sunday",
+      "On Saturday",
+      "Tomorrow morning"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "We watched a comedy film.",
+    "The film is set in Paris.",
+    "I read a film review."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Films",
+    "question_text": "What kind of films do you like best?",
+    "hint_words": [
+     "comedy",
+     "action",
+     "animated",
+     "favourite"
+    ]
+   },
+   {
+    "topic": "Cinema",
+    "question_text": "Do you prefer the cinema or watching films at home? Why?",
+    "hint_words": [
+     "cinema",
+     "home",
+     "popcorn",
+     "big screen"
+    ]
+   },
+   {
+    "topic": "Story",
+    "question_text": "Tell me about a film you saw recently.",
+    "hint_words": [
+     "story",
+     "actor",
+     "main",
+     "ending"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 96,
+  "title": "music and song",
+  "vocabulary": [
+   {
+    "word": "listen to music",
+    "translation_uz": "musiqa tinglamoq",
+    "example_sentence": "I listen to music on the way to school."
+   },
+   {
+    "word": "play music",
+    "translation_uz": "musiqa chalmoq / qo'ymoq",
+    "example_sentence": "They play music at lunch time."
+   },
+   {
+    "word": "compose music",
+    "translation_uz": "musiqa bastalamoq",
+    "example_sentence": "He wants to compose music for films."
+   },
+   {
+    "word": "a piece of music",
+    "translation_uz": "musiqa asari",
+    "example_sentence": "She played a lovely piece of music."
+   },
+   {
+    "word": "a music lesson / a music teacher",
+    "translation_uz": "musiqa darsi / musiqa o'qituvchisi",
+    "example_sentence": "Our music teacher plays the piano."
+   },
+   {
+    "word": "classical / pop / folk music",
+    "translation_uz": "klassik / pop / xalq musiqasi",
+    "example_sentence": "My dad likes folk music."
+   },
+   {
+    "word": "live / background music",
+    "translation_uz": "jonli / fon musiqasi",
+    "example_sentence": "The shop plays soft background music."
+   },
+   {
+    "word": "sing a song",
+    "translation_uz": "qo'shiq aytmoq",
+    "example_sentence": "The children sang a song about spring."
+   },
+   {
+    "word": "write a song",
+    "translation_uz": "qo'shiq yozmoq",
+    "example_sentence": "She writes her own songs."
+   },
+   {
+    "word": "learn a song",
+    "translation_uz": "qo'shiqni yodlamoq",
+    "example_sentence": "We learned a new song in English class."
+   },
+   {
+    "word": "a hit song",
+    "translation_uz": "mashhur qo'shiq",
+    "example_sentence": "This hit song was number one for six weeks."
+   },
+   {
+    "word": "a love / folk / pop song",
+    "translation_uz": "sevgi / xalq / pop qo'shig'i",
+    "example_sentence": "Grandma often hums a folk song."
+   },
+   {
+    "word": "the words / lyrics of a song",
+    "translation_uz": "qo'shiq so'zlari",
+    "example_sentence": "I don't know the lyrics of this song."
+   },
+   {
+    "word": "a song is about",
+    "translation_uz": "qo'shiq ... haqida",
+    "example_sentence": "The song is about friendship."
+   },
+   {
+    "word": "have a song in your head",
+    "translation_uz": "qo'shiq xayolingizdan ketmasligi",
+    "example_sentence": "I've had that song in my head all day."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I like to ___ to music when I do my homework.",
+    "correct_word": "listen",
+    "options": [
+     "listen",
+     "watch",
+     "look",
+     "hear"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children ___ a song about the seasons.",
+    "correct_word": "sang",
+    "options": [
+     "sang",
+     "said",
+     "told",
+     "spoke"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother wants to ___ music for video games.",
+    "correct_word": "compose",
+    "options": [
+     "compose",
+     "draw",
+     "paint",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you tell me the ___ of this song?",
+    "correct_word": "words",
+    "options": [
+     "letters",
+     "pages",
+     "sounds",
+     "words"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is a very famous ___ of music by Mozart.",
+    "correct_word": "piece",
+    "options": [
+     "slice",
+     "group",
+     "piece",
+     "part"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's a love song; the song is ___ two friends.",
+    "correct_word": "about",
+    "options": [
+     "with",
+     "about",
+     "for",
+     "in"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our Music Teacher",
+   "text": "Our music teacher, Mr Anvarov, loves all kinds of music. In class, we listen to classical music and learn folk songs from different countries. Last month, he asked us to write our own song. My group wrote a pop song about friendship. It was hard to find the right words, but we finally had a nice tune. Mr Anvarov helped us to compose the music on the piano. On Friday, we will sing the song at the school concert. I hope the audience likes it. I already have the song in my head all day long.",
+   "key_words": [
+    {
+     "word": "tune",
+     "translation_uz": "kuy"
+    },
+    {
+     "word": "friendship",
+     "translation_uz": "do'stlik"
+    },
+    {
+     "word": "finally",
+     "translation_uz": "nihoyat"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of song did the group write?",
+     "options": [
+      "A folk song about the sea",
+      "A classical piece",
+      "A pop song about friendship",
+      "A love song"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who helped compose the music?",
+     "options": [
+      "The director",
+      "A parent",
+      "A friend",
+      "Mr Anvarov"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where will they sing the song?",
+     "options": [
+      "At the school concert",
+      "On television",
+      "In the park",
+      "At a wedding"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Radio Request",
+   "script": "Presenter: Welcome to the music hour. Our first caller is Dilya. Dilya, what song would you like? Dilya: Hello! I'd like to hear the new hit song by Aziz. Presenter: Why that one? Dilya: The song is about friendship, and the lyrics are lovely. I have it in my head all day. Presenter: Then let's play it now.",
+   "questions": [
+    {
+     "question": "What does Dilya request?",
+     "options": [
+      "A classical piece",
+      "A new hit song",
+      "An old folk song",
+      "A lesson"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the song about?",
+     "options": [
+      "Love",
+      "Summer",
+      "Friendship",
+      "The sea"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why does she like it?",
+     "options": [
+      "It is very old",
+      "It is short",
+      "Her teacher wrote it",
+      "The lyrics are lovely"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She sings a folk song.",
+    "I listen to music daily.",
+    "The song is about friendship."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Music",
+    "question_text": "What kind of music do you like to listen to?",
+    "hint_words": [
+     "pop",
+     "classical",
+     "folk",
+     "rock"
+    ]
+   },
+   {
+    "topic": "Songs",
+    "question_text": "Can you sing a song in English? Tell me about it.",
+    "hint_words": [
+     "learn",
+     "sing",
+     "chorus",
+     "favourite"
+    ]
+   },
+   {
+    "topic": "Instruments",
+    "question_text": "Do you play an instrument? Would you like to?",
+    "hint_words": [
+     "guitar",
+     "piano",
+     "play",
+     "lesson"
+    ]
+   }
+  ]
+ }
+]

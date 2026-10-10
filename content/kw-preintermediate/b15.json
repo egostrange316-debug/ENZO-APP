@@ -1,0 +1,1584 @@
+[
+ {
+  "unit": 122,
+  "title": "trousers, shirt",
+  "vocabulary": [
+   {
+    "word": "put on your trousers",
+    "translation_uz": "shimingizni kiymoq",
+    "example_sentence": "Put on your trousers, it's cold."
+   },
+   {
+    "word": "take off your trousers",
+    "translation_uz": "shimingizni yechmoq",
+    "example_sentence": "He took off his wet trousers."
+   },
+   {
+    "word": "a pair of trousers",
+    "translation_uz": "bir juft shim",
+    "example_sentence": "I bought a pair of trousers yesterday."
+   },
+   {
+    "word": "tight trousers",
+    "translation_uz": "tor shim",
+    "example_sentence": "These trousers are too tight for me."
+   },
+   {
+    "word": "baggy trousers",
+    "translation_uz": "keng shim",
+    "example_sentence": "He likes wearing baggy trousers."
+   },
+   {
+    "word": "iron your trousers",
+    "translation_uz": "shimni dazmollamoq",
+    "example_sentence": "Mum irons my trousers on Sunday."
+   },
+   {
+    "word": "wear a shirt",
+    "translation_uz": "ko'ylak kiymoq",
+    "example_sentence": "He wears a shirt to school."
+   },
+   {
+    "word": "button up your shirt",
+    "translation_uz": "ko'ylak tugmasini qadamoq",
+    "example_sentence": "Button up your shirt, please."
+   },
+   {
+    "word": "tuck in your shirt",
+    "translation_uz": "ko'ylakni shimga tiqmoq",
+    "example_sentence": "Tuck in your shirt before the photo."
+   },
+   {
+    "word": "a short-sleeved shirt",
+    "translation_uz": "qisqa yengli ko'ylak",
+    "example_sentence": "I wear a short-sleeved shirt in summer."
+   },
+   {
+    "word": "a striped shirt",
+    "translation_uz": "yo'l-yo'l ko'ylak",
+    "example_sentence": "Dad has a blue striped shirt."
+   },
+   {
+    "word": "a clean shirt",
+    "translation_uz": "toza ko'ylak",
+    "example_sentence": "Put on a clean shirt, please."
+   },
+   {
+    "word": "a T-shirt",
+    "translation_uz": "futbolka",
+    "example_sentence": "My new T-shirt is red."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is cold outside, so ___ on your trousers.",
+    "correct_word": "put",
+    "options": [
+     "put",
+     "wash up",
+     "fall",
+     "throw",
+     "pair"
+    ]
+   },
+   {
+    "sentence_with_blank": "I bought a ___ of trousers for school.",
+    "correct_word": "pair",
+    "options": [
+     "pair",
+     "piece",
+     "pack",
+     "box",
+     "tuck"
+    ]
+   },
+   {
+    "sentence_with_blank": "These trousers are too ___; I can't sit down.",
+    "correct_word": "tight",
+    "options": [
+     "tight",
+     "sweet",
+     "early",
+     "quiet",
+     "cuts"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ in your shirt before dinner at grandma's.",
+    "correct_word": "tuck",
+    "options": [
+     "tuck",
+     "drop",
+     "hit",
+     "burn",
+     "throw"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum ___ my shirt every Sunday evening.",
+    "correct_word": "irons",
+    "options": [
+     "irons",
+     "drinks",
+     "plays",
+     "cuts",
+     "early"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wore a ___ shirt with blue and white lines.",
+    "correct_word": "striped",
+    "options": [
+     "striped",
+     "thirsty",
+     "narrow",
+     "noisy",
+     "drinks"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Getting Ready",
+   "text": "Every morning I get ready for school. First I take off my pyjamas and put on a clean shirt. Mum irons my shirt the night before. Then I put on my dark trousers. They are a bit tight, so Mum bought a new pair yesterday. They are baggy, and I like them. I button up my shirt and tuck it in. Then I eat breakfast.",
+   "key_words": [
+    {
+     "word": "pyjamas",
+     "translation_uz": "pijama"
+    },
+    {
+     "word": "breakfast",
+     "translation_uz": "nonushta"
+    },
+    {
+     "word": "yesterday",
+     "translation_uz": "kecha"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does Mum iron the shirt?",
+     "options": [
+      "In the morning",
+      "On Sunday",
+      "The night before",
+      "At lunchtime"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did Mum buy new trousers?",
+     "options": [
+      "The old ones were a bit tight",
+      "They were dirty",
+      "They were too long",
+      "They were lost"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer do before breakfast?",
+     "options": [
+      "Washes the shirt",
+      "Irons the trousers",
+      "Goes to school",
+      "Buttons up and tucks in the shirt"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Shopping for Clothes",
+   "script": "Yesterday I went shopping with my dad. I needed a new shirt for my cousin's party. I tried a striped shirt, but it was too big. Then I tried a short-sleeved shirt, and it fitted well. Dad also bought a pair of grey trousers. At home I put them on, and they looked great. I will iron the shirt tomorrow.",
+   "questions": [
+    {
+     "question": "What did the writer need for the party?",
+     "options": [
+      "New shoes",
+      "A new shirt",
+      "A hat",
+      "A coat"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why didn't he buy the striped shirt?",
+     "options": [
+      "It was too big",
+      "It was too tight",
+      "It was too dear",
+      "It was dirty"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What colour were the trousers?",
+     "options": [
+      "Blue",
+      "Black",
+      "Grey",
+      "White"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Put on your trousers.",
+    "He wears a clean shirt.",
+    "Tuck in your shirt."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Clothes",
+    "question_text": "Do you like wearing trousers or shorts?",
+    "hint_words": [
+     "trousers",
+     "shorts",
+     "I like",
+     "comfortable"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "What colour is your favourite shirt?",
+    "hint_words": [
+     "my favourite",
+     "blue",
+     "white",
+     "red"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "Who irons your clothes?",
+    "hint_words": [
+     "Mum",
+     "I",
+     "irons",
+     "clothes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 123,
+  "title": "tie, sweater",
+  "vocabulary": [
+   {
+    "word": "wear a tie",
+    "translation_uz": "galstuk taqmoq",
+    "example_sentence": "My uncle wears a tie to work."
+   },
+   {
+    "word": "tie a tie",
+    "translation_uz": "galstuk bog'lamoq",
+    "example_sentence": "Can you tie a tie?"
+   },
+   {
+    "word": "loosen your tie",
+    "translation_uz": "galstukni bo'shatmoq",
+    "example_sentence": "He loosened his tie after the meeting."
+   },
+   {
+    "word": "a school tie",
+    "translation_uz": "maktab galstugi",
+    "example_sentence": "Our school tie is green and yellow."
+   },
+   {
+    "word": "a silk tie",
+    "translation_uz": "ipak galstuk",
+    "example_sentence": "Dad got a silk tie for his birthday."
+   },
+   {
+    "word": "tie your shoelaces",
+    "translation_uz": "poyabzal bog'ichini bog'lamoq",
+    "example_sentence": "Tie your shoelaces before you run."
+   },
+   {
+    "word": "tie a knot",
+    "translation_uz": "tugun bog'lamoq",
+    "example_sentence": "She tied a knot in the rope."
+   },
+   {
+    "word": "a woollen sweater",
+    "translation_uz": "jun sviter",
+    "example_sentence": "I have a warm woollen sweater."
+   },
+   {
+    "word": "pull on a sweater",
+    "translation_uz": "sviterni kiyib olmoq",
+    "example_sentence": "He pulled on his sweater and went out."
+   },
+   {
+    "word": "knit a sweater",
+    "translation_uz": "sviter to'qimoq",
+    "example_sentence": "Grandma knitted me a sweater."
+   },
+   {
+    "word": "a V-neck sweater",
+    "translation_uz": "V shaklida yoqali sviter",
+    "example_sentence": "Dad wears a grey V-neck sweater."
+   },
+   {
+    "word": "a sweater with a hole",
+    "translation_uz": "teshigi bor sviter",
+    "example_sentence": "I have a sweater with a hole in it."
+   },
+   {
+    "word": "take off your sweater",
+    "translation_uz": "sviteringni yechmoq",
+    "example_sentence": "Take off your sweater, it's hot in here."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My uncle always ___ a tie at the office.",
+    "correct_word": "wears",
+    "options": [
+     "wears",
+     "eats",
+     "drinks",
+     "opens",
+     "knitted"
+    ]
+   },
+   {
+    "sentence_with_blank": "Grandma ___ me a woollen sweater for winter.",
+    "correct_word": "knitted",
+    "options": [
+     "knitted",
+     "drove",
+     "drank",
+     "kicked",
+     "give"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is hot in here, so I will ___ off my sweater.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "make",
+     "tell",
+     "give",
+     "planted"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ a tie? I never learned how.",
+    "correct_word": "tie",
+    "options": [
+     "tie",
+     "boil",
+     "sing",
+     "wash",
+     "drinks"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ his tie because he felt hot.",
+    "correct_word": "loosened",
+    "options": [
+     "loosened",
+     "painted",
+     "planted",
+     "closed",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our school ___ is green with yellow lines.",
+    "correct_word": "tie",
+    "options": [
+     "tie",
+     "tooth",
+     "tail",
+     "tent",
+     "painted"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Grandma's Sweater",
+   "text": "My grandmother loves to knit. Last winter she knitted me a woollen sweater. It is blue with a white pattern. I pull it on every cold morning. My father wears a tie to work, and Grandma knitted a tie for him too. He tied it for the first time at our family dinner. Everybody laughed because it was too short. Now he wears it at home only.",
+   "key_words": [
+    {
+     "word": "knit",
+     "translation_uz": "to'qimoq"
+    },
+    {
+     "word": "pattern",
+     "translation_uz": "naqsh"
+    },
+    {
+     "word": "laughed",
+     "translation_uz": "kuldi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What colour is the writer's sweater?",
+     "options": [
+      "Red",
+      "Blue with a white pattern",
+      "Green and yellow",
+      "Grey"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Grandma knit for Father?",
+     "options": [
+      "A tie",
+      "A hat",
+      "A scarf",
+      "Socks"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did everybody laugh?",
+     "options": [
+      "The tie was silk",
+      "The sweater had a hole",
+      "The tie was too short",
+      "Father fell down"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "School Photo Day",
+   "script": "Today was school photo day. Our teacher said, \"Wear your school tie and a clean sweater.\" I could not tie my tie, so my friend Bobur helped me. Then we tied our shoelaces and stood in line. It was hot in the hall, so I took off my sweater. The photographer said, \"Smile!\" and took the picture. I loosened my tie after that.",
+   "questions": [
+    {
+     "question": "Who helped the writer with the tie?",
+     "options": [
+      "The teacher",
+      "Dad",
+      "The photographer",
+      "Bobur"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did the writer take off the sweater?",
+     "options": [
+      "It had a hole",
+      "It was hot in the hall",
+      "It was dirty",
+      "The teacher asked"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What happened first?",
+     "options": [
+      "The teacher told them what to wear",
+      "The photo was taken",
+      "They loosened the ties",
+      "Bobur tied his laces"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He wears a tie.",
+    "I have a woollen sweater.",
+    "Tie your shoelaces."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Clothes",
+    "question_text": "Do you wear a tie at school?",
+    "hint_words": [
+     "yes",
+     "no",
+     "school tie",
+     "we"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "Do you have a warm sweater?",
+    "hint_words": [
+     "yes",
+     "woollen",
+     "warm",
+     "winter"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "Can you tie a tie?",
+    "hint_words": [
+     "yes",
+     "no",
+     "I can",
+     "learn"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 124,
+  "title": "dress, coat, hat",
+  "vocabulary": [
+   {
+    "word": "wear a dress",
+    "translation_uz": "ko'ylak (ayollar) kiymoq",
+    "example_sentence": "She wears a dress to parties."
+   },
+   {
+    "word": "put on a dress",
+    "translation_uz": "ko'ylak kiyib olmoq",
+    "example_sentence": "She put on a red dress."
+   },
+   {
+    "word": "a summer dress",
+    "translation_uz": "yozgi ko'ylak",
+    "example_sentence": "I love my yellow summer dress."
+   },
+   {
+    "word": "a wedding dress",
+    "translation_uz": "kelinlik libosi",
+    "example_sentence": "The bride wore a white wedding dress."
+   },
+   {
+    "word": "dress up",
+    "translation_uz": "bezanib kiyinmoq",
+    "example_sentence": "Children like to dress up for Halloween."
+   },
+   {
+    "word": "get dressed",
+    "translation_uz": "kiyinmoq",
+    "example_sentence": "Get dressed, we are late."
+   },
+   {
+    "word": "a winter coat",
+    "translation_uz": "qishki palto",
+    "example_sentence": "Wear your winter coat, it is snowing."
+   },
+   {
+    "word": "hang up your coat",
+    "translation_uz": "paltoni ilib qo'ymoq",
+    "example_sentence": "Hang up your coat by the door."
+   },
+   {
+    "word": "a raincoat",
+    "translation_uz": "yomg'irpo'sh",
+    "example_sentence": "Take your raincoat, it may rain."
+   },
+   {
+    "word": "do up your coat",
+    "translation_uz": "paltoni tugmalamoq",
+    "example_sentence": "Do up your coat, it's freezing."
+   },
+   {
+    "word": "wear a hat",
+    "translation_uz": "bosh kiyim kiymoq",
+    "example_sentence": "Wear a hat in the sun."
+   },
+   {
+    "word": "take off your hat",
+    "translation_uz": "bosh kiyimingizni yechmoq",
+    "example_sentence": "Take off your hat in the house."
+   },
+   {
+    "word": "a woolly hat",
+    "translation_uz": "jun qalpoq",
+    "example_sentence": "He has a woolly hat with a pompom."
+   },
+   {
+    "word": "a straw hat",
+    "translation_uz": "poxol shlyapa",
+    "example_sentence": "Grandpa wears a straw hat in summer."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She ___ a beautiful red dress to the party.",
+    "correct_word": "wore",
+    "options": [
+     "wore",
+     "ate",
+     "rode",
+     "fixed",
+     "hang"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ up your coat by the door.",
+    "correct_word": "hang",
+    "options": [
+     "hang",
+     "drink",
+     "pay",
+     "jump",
+     "sell"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's snowing, so ___ on your winter coat.",
+    "correct_word": "put",
+    "options": [
+     "put",
+     "get",
+     "hit",
+     "sell",
+     "pocket"
+    ]
+   },
+   {
+    "sentence_with_blank": "Get ___; the bus comes in five minutes.",
+    "correct_word": "dressed",
+    "options": [
+     "dressed",
+     "dress",
+     "coat",
+     "hatted",
+     "ate"
+    ]
+   },
+   {
+    "sentence_with_blank": "In the sun, you should wear a straw ___.",
+    "correct_word": "hat",
+    "options": [
+     "hat",
+     "sock",
+     "pocket",
+     "belt",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bride wore a white ___ dress.",
+    "correct_word": "wedding",
+    "options": [
+     "wedding",
+     "kitchen",
+     "summer",
+     "school",
+     "hatted"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Snowy Day",
+   "text": "This morning it snowed a lot. I got dressed quickly and put on my winter coat. Mum gave me a woolly hat with a red pompom. \"Do up your coat,\" she said. At school I hung up my coat and took off my hat. My friend Laylo wore a new dress and looked lovely. After school we made a snowman and gave it my old hat.",
+   "key_words": [
+    {
+     "word": "snowman",
+     "translation_uz": "qorbobo"
+    },
+    {
+     "word": "lovely",
+     "translation_uz": "chiroyli"
+    },
+    {
+     "word": "pompom",
+     "translation_uz": "qalpoq popugi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What colour is the pompom on the hat?",
+     "options": [
+      "Red",
+      "White",
+      "Blue",
+      "Green"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Laylo wear?",
+     "options": [
+      "A coat",
+      "A raincoat",
+      "A new dress",
+      "A uniform"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did they give the snowman?",
+     "options": [
+      "A scarf",
+      "The writer's old hat",
+      "A new coat",
+      "A carrot only"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Wedding",
+   "script": "On Saturday we went to my cousin's wedding. I wore a green dress and a small white hat. My brother put on a dark coat. The bride wore a long white wedding dress. It was raining, so we hung up our wet raincoats at the door. Then everybody danced, and my grandmother, who wore a straw hat, danced the most.",
+   "questions": [
+    {
+     "question": "What did the writer wear?",
+     "options": [
+      "A white wedding dress",
+      "A green dress and a white hat",
+      "A dark coat",
+      "A straw hat"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did they hang up their raincoats?",
+     "options": [
+      "They were wet",
+      "They were new",
+      "They were too big",
+      "They were old"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who danced the most?",
+     "options": [
+      "The bride",
+      "The brother",
+      "The writer",
+      "Grandmother"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She wears a dress.",
+    "Hang up your coat.",
+    "He has a woolly hat."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Clothes",
+    "question_text": "What do you wear in winter?",
+    "hint_words": [
+     "coat",
+     "hat",
+     "warm",
+     "I wear"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "Do you like wearing a hat?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sun",
+     "cap"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "What do you wear to a party?",
+    "hint_words": [
+     "dress",
+     "shirt",
+     "new",
+     "nice"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 125,
+  "title": "uniform",
+  "vocabulary": [
+   {
+    "word": "wear a uniform",
+    "translation_uz": "forma kiymoq",
+    "example_sentence": "Children wear a uniform at our school."
+   },
+   {
+    "word": "a school uniform",
+    "translation_uz": "maktab formasi",
+    "example_sentence": "My school uniform is dark blue."
+   },
+   {
+    "word": "in uniform",
+    "translation_uz": "formada",
+    "example_sentence": "The soldier was in uniform."
+   },
+   {
+    "word": "a police uniform",
+    "translation_uz": "politsiya formasi",
+    "example_sentence": "The man in a police uniform helped us."
+   },
+   {
+    "word": "a nurse's uniform",
+    "translation_uz": "hamshira formasi",
+    "example_sentence": "She wore a white nurse's uniform."
+   },
+   {
+    "word": "a football uniform",
+    "translation_uz": "futbol formasi",
+    "example_sentence": "Our football uniform is yellow."
+   },
+   {
+    "word": "put on your uniform",
+    "translation_uz": "formangizni kiymoq",
+    "example_sentence": "He put on his uniform and left."
+   },
+   {
+    "word": "change out of your uniform",
+    "translation_uz": "formani almashtirmoq",
+    "example_sentence": "I change out of my uniform at home."
+   },
+   {
+    "word": "a smart uniform",
+    "translation_uz": "chiroyli forma",
+    "example_sentence": "The pilot looked smart in his uniform."
+   },
+   {
+    "word": "take your uniform to the cleaner's",
+    "translation_uz": "formani kimyoviy tozalashga topshirmoq",
+    "example_sentence": "Dad took his uniform to the cleaner's."
+   },
+   {
+    "word": "a uniform with a badge",
+    "translation_uz": "nishonli forma",
+    "example_sentence": "The guard wore a uniform with a badge."
+   },
+   {
+    "word": "a uniform jacket",
+    "translation_uz": "forma kurtkasi",
+    "example_sentence": "The uniform jacket has gold buttons."
+   },
+   {
+    "word": "be required to wear a uniform",
+    "translation_uz": "forma kiyishi shart bo'lmoq",
+    "example_sentence": "Pupils are required to wear a uniform."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "At our school, all children ___ a uniform.",
+    "correct_word": "wear",
+    "options": [
+     "wear",
+     "hear",
+     "spill",
+     "grow",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The officer was ___ uniform when he knocked on the door.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "to",
+     "uniform"
+    ]
+   },
+   {
+    "sentence_with_blank": "After school I ___ out of my uniform.",
+    "correct_word": "change",
+    "options": [
+     "change",
+     "ride",
+     "grow",
+     "pay",
+     "kind"
+    ]
+   },
+   {
+    "sentence_with_blank": "The nurse's ___ is white with a small badge.",
+    "correct_word": "uniform",
+    "options": [
+     "uniform",
+     "pocket",
+     "ring",
+     "umbrella",
+     "spill"
+    ]
+   },
+   {
+    "sentence_with_blank": "The team's football uniform is red and ___.",
+    "correct_word": "white",
+    "options": [
+     "white",
+     "tall",
+     "dry",
+     "kind",
+     "ride"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our school uniform is dark blue, and everybody is ___ to wear it.",
+    "correct_word": "required",
+    "options": [
+     "required",
+     "afraid",
+     "hungry",
+     "free",
+     "tall"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My School Uniform",
+   "text": "At my school, all children must wear a uniform. Mine is a dark blue jacket and grey trousers. We also have a badge with the name of the school. In the morning I put on my uniform quickly. After school I change out of it and hang it up. Mum takes the jackets to the cleaner's once a month. I like it because everybody looks smart and nobody argues about clothes.",
+   "key_words": [
+    {
+     "word": "badge",
+     "translation_uz": "nishon"
+    },
+    {
+     "word": "argues",
+     "translation_uz": "tortishadi"
+    },
+    {
+     "word": "smart",
+     "translation_uz": "saranjom, chiroyli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What colour are the trousers?",
+     "options": [
+      "Dark blue",
+      "Black",
+      "Grey",
+      "Green"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How often does Mum take the jackets to the cleaner's?",
+     "options": [
+      "Once a month",
+      "Every day",
+      "Once a week",
+      "Once a year"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why does the writer like the uniform?",
+     "options": [
+      "It is very warm",
+      "It has bright colours",
+      "It is cheap",
+      "Nobody argues about clothes"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Jobs and Uniforms",
+   "script": "In our street there are many people in uniform. My neighbour is a nurse. She wears a white uniform with a small badge. Her husband is a policeman, and his uniform is dark blue. On Saturdays my brother puts on his football uniform and goes to practise. His team's uniform is yellow. They all look smart, and the neighbours cheer for them.",
+   "questions": [
+    {
+     "question": "What colour is the nurse's uniform?",
+     "options": [
+      "Blue",
+      "White",
+      "Yellow",
+      "Green"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the neighbour's husband?",
+     "options": [
+      "A policeman",
+      "A doctor",
+      "A pilot",
+      "A footballer"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What colour is the football uniform?",
+     "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "White"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I wear a school uniform.",
+    "He is in uniform.",
+    "She put on her uniform."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Uniform",
+    "question_text": "Do you wear a uniform at school?",
+    "hint_words": [
+     "yes",
+     "no",
+     "we wear",
+     "blue"
+    ]
+   },
+   {
+    "topic": "Uniform",
+    "question_text": "What colour is your uniform?",
+    "hint_words": [
+     "dark",
+     "blue",
+     "grey",
+     "my uniform"
+    ]
+   },
+   {
+    "topic": "Uniform",
+    "question_text": "Which job has a nice uniform?",
+    "hint_words": [
+     "pilot",
+     "nurse",
+     "police",
+     "smart"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 126,
+  "title": "scarf, gloves, sock",
+  "vocabulary": [
+   {
+    "word": "wear a scarf",
+    "translation_uz": "sharf o'ramoq",
+    "example_sentence": "Wear a scarf, it is cold."
+   },
+   {
+    "word": "wrap a scarf round your neck",
+    "translation_uz": "sharfni bo'yinga o'ramoq",
+    "example_sentence": "She wrapped a scarf round her neck."
+   },
+   {
+    "word": "a woollen scarf",
+    "translation_uz": "jun sharf",
+    "example_sentence": "My woollen scarf is very warm."
+   },
+   {
+    "word": "a silk scarf",
+    "translation_uz": "ipak ro'mol",
+    "example_sentence": "Mum wears a silk scarf."
+   },
+   {
+    "word": "a pair of gloves",
+    "translation_uz": "bir juft qo'lqop",
+    "example_sentence": "I need a new pair of gloves."
+   },
+   {
+    "word": "put on your gloves",
+    "translation_uz": "qo'lqopingizni kiymoq",
+    "example_sentence": "Put on your gloves before you go out."
+   },
+   {
+    "word": "take off your gloves",
+    "translation_uz": "qo'lqopingizni yechmoq",
+    "example_sentence": "Take off your gloves and shake hands."
+   },
+   {
+    "word": "lose a glove",
+    "translation_uz": "qo'lqopning birini yo'qotmoq",
+    "example_sentence": "I lost a glove on the bus."
+   },
+   {
+    "word": "leather gloves",
+    "translation_uz": "charm qo'lqop",
+    "example_sentence": "Dad wears leather gloves to drive."
+   },
+   {
+    "word": "a pair of socks",
+    "translation_uz": "bir juft paypoq",
+    "example_sentence": "Mum bought me a pair of socks."
+   },
+   {
+    "word": "odd socks",
+    "translation_uz": "juft bo'lmagan paypoqlar",
+    "example_sentence": "He wore odd socks to school."
+   },
+   {
+    "word": "a hole in your sock",
+    "translation_uz": "paypoqdagi teshik",
+    "example_sentence": "There is a hole in my sock."
+   },
+   {
+    "word": "pull up your socks",
+    "translation_uz": "paypoqni tortib kiymoq",
+    "example_sentence": "Pull up your socks, it's cold."
+   },
+   {
+    "word": "wear thick socks",
+    "translation_uz": "qalin paypoq kiymoq",
+    "example_sentence": "Wear thick socks in winter."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It's freezing, so ___ a scarf round your neck.",
+    "correct_word": "wrap",
+    "options": [
+     "wrap",
+     "feed",
+     "kick",
+     "open",
+     "pair"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need a new ___ of gloves; I lost one.",
+    "correct_word": "pair",
+    "options": [
+     "pair",
+     "bunch",
+     "piece",
+     "bag",
+     "hear"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ on your gloves before you go out.",
+    "correct_word": "put",
+    "options": [
+     "put",
+     "do",
+     "say",
+     "hear",
+     "hungry"
+    ]
+   },
+   {
+    "sentence_with_blank": "My toe came out of the ___ in my sock.",
+    "correct_word": "hole",
+    "options": [
+     "hole",
+     "wall",
+     "door",
+     "book",
+     "feed"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wore ___ socks, one red and one green.",
+    "correct_word": "odd",
+    "options": [
+     "odd",
+     "rich",
+     "hungry",
+     "slow",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad wears leather ___ when he drives in winter.",
+    "correct_word": "gloves",
+    "options": [
+     "gloves",
+     "scarves",
+     "shirt",
+     "dress",
+     "book"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Cold Morning",
+   "text": "This morning the weather was freezing. Mum said, \"Wrap a scarf round your neck.\" I wore thick socks and put on my woollen gloves. But on the bus I lost one glove! My friend Rustam gave me one of his. We laughed because his glove was bigger and red. At school I took off the gloves and the scarf and put them on the radiator.",
+   "key_words": [
+    {
+     "word": "freezing",
+     "translation_uz": "juda sovuq"
+    },
+    {
+     "word": "radiator",
+     "translation_uz": "isitgich"
+    },
+    {
+     "word": "laughed",
+     "translation_uz": "kuldik"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer lose?",
+     "options": [
+      "A scarf",
+      "One glove",
+      "A sock",
+      "A hat"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who gave the writer a glove?",
+     "options": [
+      "Rustam",
+      "Mum",
+      "The teacher",
+      "The driver"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the writer put the gloves at school?",
+     "options": [
+      "In the bag",
+      "On the desk",
+      "On the radiator",
+      "In the locker"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Winter Market",
+   "script": "On Sunday we went to the winter market. There were stalls with woollen scarves and gloves. Dad bought me a pair of red gloves, and Mum bought a silk scarf for Grandma. My little brother found a pair of funny odd socks, one with a cat and one with a dog. He wore them the whole day. I saw a hole in one of his socks, but he did not care.",
+   "questions": [
+    {
+     "question": "What did Dad buy for the writer?",
+     "options": [
+      "A scarf",
+      "Funny socks",
+      "A hat",
+      "A pair of red gloves"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Mum buy for Grandma?",
+     "options": [
+      "A silk scarf",
+      "Leather gloves",
+      "Thick socks",
+      "A coat"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was funny about the brother's socks?",
+     "options": [
+      "They were huge",
+      "One had a cat and one had a dog",
+      "They were purple",
+      "They were wet"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Wear a scarf.",
+    "I lost a glove.",
+    "These are odd socks."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Winter",
+    "question_text": "Do you wear a scarf in winter?",
+    "hint_words": [
+     "yes",
+     "warm",
+     "neck",
+     "scarf"
+    ]
+   },
+   {
+    "topic": "Winter",
+    "question_text": "Have you ever lost a glove?",
+    "hint_words": [
+     "yes",
+     "no",
+     "lost",
+     "bus"
+    ]
+   },
+   {
+    "topic": "Winter",
+    "question_text": "What socks do you wear in winter?",
+    "hint_words": [
+     "thick",
+     "woollen",
+     "warm",
+     "socks"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 127,
+  "title": "shoe",
+  "vocabulary": [
+   {
+    "word": "put on your shoes",
+    "translation_uz": "poyabzalingizni kiymoq",
+    "example_sentence": "Put on your shoes, we are leaving."
+   },
+   {
+    "word": "take off your shoes",
+    "translation_uz": "poyabzalingizni yechmoq",
+    "example_sentence": "Please take off your shoes at the door."
+   },
+   {
+    "word": "a pair of shoes",
+    "translation_uz": "bir juft poyabzal",
+    "example_sentence": "I want a new pair of shoes."
+   },
+   {
+    "word": "try on shoes",
+    "translation_uz": "poyabzalni kiyib ko'rmoq",
+    "example_sentence": "Try on these shoes in the shop."
+   },
+   {
+    "word": "tie your shoes",
+    "translation_uz": "poyabzal bog'ichini bog'lamoq",
+    "example_sentence": "He learned to tie his shoes at five."
+   },
+   {
+    "word": "polish your shoes",
+    "translation_uz": "poyabzalni yaltiratmoq",
+    "example_sentence": "Dad polishes his shoes on Sunday."
+   },
+   {
+    "word": "comfortable shoes",
+    "translation_uz": "qulay poyabzal",
+    "example_sentence": "Wear comfortable shoes for a long walk."
+   },
+   {
+    "word": "tight shoes",
+    "translation_uz": "tor poyabzal",
+    "example_sentence": "My shoes are too tight."
+   },
+   {
+    "word": "worn-out shoes",
+    "translation_uz": "yeyilib ketgan poyabzal",
+    "example_sentence": "My worn-out shoes need replacing."
+   },
+   {
+    "word": "running shoes",
+    "translation_uz": "yugurish poyabzali",
+    "example_sentence": "I bought new running shoes."
+   },
+   {
+    "word": "shoes fit",
+    "translation_uz": "poyabzal mos kelmoq",
+    "example_sentence": "These shoes fit me perfectly."
+   },
+   {
+    "word": "a shoe shop",
+    "translation_uz": "poyabzal do'koni",
+    "example_sentence": "The shoe shop is next to the bank."
+   },
+   {
+    "word": "walk in someone's shoes",
+    "translation_uz": "birovning o'rnida bo'lmoq",
+    "example_sentence": "Walk in her shoes before you judge her."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ off your shoes at the door.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "give",
+     "make",
+     "do",
+     "try"
+    ]
+   },
+   {
+    "sentence_with_blank": "We went to the shoe shop to ___ on some new shoes.",
+    "correct_word": "try",
+    "options": [
+     "try",
+     "cut",
+     "fill",
+     "bake",
+     "tall"
+    ]
+   },
+   {
+    "sentence_with_blank": "These shoes are too ___, and my feet hurt.",
+    "correct_word": "tight",
+    "options": [
+     "tight",
+     "sweet",
+     "wet",
+     "tall",
+     "opens"
+    ]
+   },
+   {
+    "sentence_with_blank": "I wear comfortable ___ shoes when I run in the park.",
+    "correct_word": "running",
+    "options": [
+     "running",
+     "flying",
+     "swimming",
+     "cooking",
+     "give"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ his black shoes every Sunday so they shine.",
+    "correct_word": "polishes",
+    "options": [
+     "polishes",
+     "drinks",
+     "opens",
+     "eats",
+     "tight"
+    ]
+   },
+   {
+    "sentence_with_blank": "These shoes ___ me perfectly; they are not too big.",
+    "correct_word": "fit",
+    "options": [
+     "fit",
+     "kill",
+     "hold",
+     "fall",
+     "cooking"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "New Shoes",
+   "text": "My old shoes were worn out, so Dad took me to the shoe shop. I tried on three pairs of shoes. The first pair was too tight, and the second pair was ugly. The third pair were white running shoes, and they fitted me perfectly. They were also very comfortable. I wore them home and did not take them off until bedtime. On Sunday Dad polished his shoes, but I only wiped mine.",
+   "key_words": [
+    {
+     "word": "ugly",
+     "translation_uz": "xunuk"
+    },
+    {
+     "word": "wiped",
+     "translation_uz": "artdi"
+    },
+    {
+     "word": "bedtime",
+     "translation_uz": "uxlash vaqti"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer need new shoes?",
+     "options": [
+      "They were too small",
+      "They were lost",
+      "The old ones were worn out",
+      "They were wet"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was wrong with the second pair?",
+     "options": [
+      "They were ugly",
+      "They were tight",
+      "They were expensive",
+      "They were big"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When did the writer take off the new shoes?",
+     "options": [
+      "At the shop",
+      "At bedtime",
+      "On the bus",
+      "After lunch"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Shoes at the Door",
+   "script": "In my grandmother's house, everybody takes off their shoes at the door. There is a big shelf with many pairs of shoes. When I arrive, I take off my shoes and put on soft slippers. My cousin forgot and walked in with his muddy shoes. Grandma was not happy! He polished his shoes and cleaned the floor to say sorry.",
+   "questions": [
+    {
+     "question": "Where do people take off their shoes?",
+     "options": [
+      "At the door",
+      "In the kitchen",
+      "In the garden",
+      "In bed"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer put on?",
+     "options": [
+      "Muddy shoes",
+      "Running shoes",
+      "Socks only",
+      "Soft slippers"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the cousin do to say sorry?",
+     "options": [
+      "Bought new shoes",
+      "Cleaned the floor",
+      "Sang a song",
+      "Left the house"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Take off your shoes.",
+    "I need a new pair of shoes.",
+    "They fit me."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Shoes",
+    "question_text": "What shoes do you wear to school?",
+    "hint_words": [
+     "black",
+     "comfortable",
+     "I wear",
+     "shoes"
+    ]
+   },
+   {
+    "topic": "Shoes",
+    "question_text": "Do you take off your shoes at home?",
+    "hint_words": [
+     "yes",
+     "door",
+     "slippers",
+     "always"
+    ]
+   },
+   {
+    "topic": "Shoes",
+    "question_text": "Where do you buy shoes?",
+    "hint_words": [
+     "shop",
+     "market",
+     "I buy",
+     "with Mum"
+    ]
+   }
+  ]
+ }
+]

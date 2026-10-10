@@ -1,0 +1,1513 @@
+[
+ {
+  "unit": 66,
+  "title": "road",
+  "vocabulary": [
+   {
+    "word": "cross the road",
+    "translation_uz": "yo'lni kesib o'tmoq",
+    "example_sentence": "Look left and right before you cross the road."
+   },
+   {
+    "word": "a main road",
+    "translation_uz": "asosiy yo'l",
+    "example_sentence": "The bus goes along the main road."
+   },
+   {
+    "word": "a busy road",
+    "translation_uz": "gavjum yo'l",
+    "example_sentence": "Our school is next to a busy road."
+   },
+   {
+    "word": "a quiet road",
+    "translation_uz": "sokin yo'l",
+    "example_sentence": "I ride my bike on a quiet road."
+   },
+   {
+    "word": "a road sign",
+    "translation_uz": "yo'l belgisi",
+    "example_sentence": "The road sign says: Stop."
+   },
+   {
+    "word": "a road accident",
+    "translation_uz": "yo'l-transport hodisasi",
+    "example_sentence": "There was a road accident near the bridge."
+   },
+   {
+    "word": "road works",
+    "translation_uz": "yo'l ta'mirlash ishlari",
+    "example_sentence": "Road works make the traffic slow."
+   },
+   {
+    "word": "block the road",
+    "translation_uz": "yo'lni to'smoq",
+    "example_sentence": "A big truck blocked the road."
+   },
+   {
+    "word": "drive along the road",
+    "translation_uz": "yo'l bo'ylab haydamoq",
+    "example_sentence": "We drove along the road for an hour."
+   },
+   {
+    "word": "at the end of the road",
+    "translation_uz": "yo'lning oxirida",
+    "example_sentence": "Grandma's house is at the end of the road."
+   },
+   {
+    "word": "across the road",
+    "translation_uz": "yo'lning narigi tomonida",
+    "example_sentence": "The shop is across the road."
+   },
+   {
+    "word": "by road",
+    "translation_uz": "avtomobil yo'li orqali",
+    "example_sentence": "We travelled to Bukhara by road."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Look both ways before you ___ the road.",
+    "correct_word": "cross",
+    "options": [
+     "sing",
+     "wear",
+     "cross",
+     "boil"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a bad road ___ on the motorway yesterday.",
+    "correct_word": "accident",
+    "options": [
+     "breakfast",
+     "holiday",
+     "homework",
+     "accident"
+    ]
+   },
+   {
+    "sentence_with_blank": "The school is at the end ___ the road.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "on",
+     "by",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The shop is ___ the road from our house.",
+    "correct_word": "across",
+    "options": [
+     "under",
+     "across",
+     "into",
+     "behind"
+    ]
+   },
+   {
+    "sentence_with_blank": "The road is very ___ at eight o'clock, with lots of cars.",
+    "correct_word": "busy",
+    "options": [
+     "hungry",
+     "cold",
+     "busy",
+     "sleepy"
+    ]
+   },
+   {
+    "sentence_with_blank": "A fallen tree is ___ the road, so cars cannot pass.",
+    "correct_word": "blocking",
+    "options": [
+     "drinking",
+     "reading",
+     "singing",
+     "blocking"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Road Trip",
+   "text": "Last Sunday we went on a trip by car. We drove along a main road for two hours. The road was very busy, and we saw road works near the town. At the end of the road there is a small lake. Dad stopped the car, and we crossed the road to a little café.",
+   "key_words": [
+    {
+     "word": "road works",
+     "translation_uz": "yo'l ta'mirlash ishlari"
+    },
+    {
+     "word": "lake",
+     "translation_uz": "ko'l"
+    },
+    {
+     "word": "café",
+     "translation_uz": "kafe"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did the family travel?",
+     "options": [
+      "By car",
+      "By bus",
+      "By train",
+      "By bike"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did they see road works?",
+     "options": [
+      "At the lake",
+      "Near the town",
+      "At the café",
+      "At school"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is at the end of the road?",
+     "options": [
+      "A big shop",
+      "A school",
+      "A small lake",
+      "A bridge"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Across the Road",
+   "script": "My school is across the road from a big park. The road is very busy in the morning, so we cross it carefully. Yesterday there was a road accident near the shop. A car blocked the road for an hour. Nobody was hurt.",
+   "questions": [
+    {
+     "question": "Where is the school?",
+     "options": [
+      "Next to a lake",
+      "Behind the shop",
+      "At the end of the road",
+      "Across the road from a park"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When is the road very busy?",
+     "options": [
+      "In the morning",
+      "At night",
+      "At lunch",
+      "On Sunday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long did the car block the road?",
+     "options": [
+      "For a day",
+      "For an hour",
+      "For five minutes",
+      "For two hours"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Cross the road carefully.",
+    "It is a busy road.",
+    "The road is blocked."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Roads",
+    "question_text": "Is the road near your home busy or quiet?",
+    "hint_words": [
+     "busy",
+     "quiet",
+     "cars",
+     "near"
+    ]
+   },
+   {
+    "topic": "Roads",
+    "question_text": "How do you cross the road safely?",
+    "hint_words": [
+     "look",
+     "left",
+     "right",
+     "carefully"
+    ]
+   },
+   {
+    "topic": "Roads",
+    "question_text": "What can you see on a road?",
+    "hint_words": [
+     "cars",
+     "signs",
+     "bus",
+     "bikes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 67,
+  "title": "journey",
+  "vocabulary": [
+   {
+    "word": "make a journey",
+    "translation_uz": "sayohat qilmoq",
+    "example_sentence": "We made a journey to the mountains."
+   },
+   {
+    "word": "go on a journey",
+    "translation_uz": "safarga chiqmoq",
+    "example_sentence": "They went on a journey across the desert."
+   },
+   {
+    "word": "a long journey",
+    "translation_uz": "uzoq safar",
+    "example_sentence": "It was a long journey, so we slept in the car."
+   },
+   {
+    "word": "a bus journey",
+    "translation_uz": "avtobus safari",
+    "example_sentence": "The bus journey to Tashkent takes five hours."
+   },
+   {
+    "word": "a train journey",
+    "translation_uz": "poyezd safari",
+    "example_sentence": "I love a train journey through the hills."
+   },
+   {
+    "word": "a return journey",
+    "translation_uz": "qaytish safari",
+    "example_sentence": "The return journey was quicker."
+   },
+   {
+    "word": "a safe journey",
+    "translation_uz": "xavfsiz safar",
+    "example_sentence": "Have a safe journey, Grandpa!"
+   },
+   {
+    "word": "Have a good journey!",
+    "translation_uz": "Yo'lingiz bexatar bo'lsin!",
+    "example_sentence": "Bye, Ali! Have a good journey!"
+   },
+   {
+    "word": "the journey to school",
+    "translation_uz": "maktabga boradigan yo'l",
+    "example_sentence": "The journey to school is short."
+   },
+   {
+    "word": "the journey takes",
+    "translation_uz": "safar ... davom etadi",
+    "example_sentence": "The journey takes two hours."
+   },
+   {
+    "word": "journey time",
+    "translation_uz": "yo'lda ketadigan vaqt",
+    "example_sentence": "Journey time is about thirty minutes."
+   },
+   {
+    "word": "the journey home",
+    "translation_uz": "uyga qaytish yo'li",
+    "example_sentence": "On the journey home we sang songs."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The ___ to school takes only ten minutes.",
+    "correct_word": "journey",
+    "options": [
+     "journey",
+     "lunch",
+     "bill",
+     "queue"
+    ]
+   },
+   {
+    "sentence_with_blank": "Goodbye! Have a good ___ home.",
+    "correct_word": "journey",
+    "options": [
+     "lunch",
+     "journey",
+     "bill",
+     "table"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ a long journey across the country last summer.",
+    "correct_word": "made",
+    "options": [
+     "ate",
+     "wore",
+     "made",
+     "cut"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is a very ___ journey, about ten hours by train.",
+    "correct_word": "long",
+    "options": [
+     "tall",
+     "loud",
+     "sharp",
+     "long"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bus journey ___ about forty minutes.",
+    "correct_word": "takes",
+    "options": [
+     "takes",
+     "wears",
+     "paints",
+     "hears"
+    ]
+   },
+   {
+    "sentence_with_blank": "We went ___ a journey to the north.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "To Grandma's House",
+   "text": "Every summer we go on a journey to see Grandma. It is a long journey, and the train journey takes six hours. I read books and look out of the window. Mum always says, \"Have a good journey!\" when we leave. The return journey is always sadder because I miss my grandma.",
+   "key_words": [
+    {
+     "word": "miss",
+     "translation_uz": "sog'inmoq"
+    },
+    {
+     "word": "leave",
+     "translation_uz": "jo'nab ketmoq"
+    },
+    {
+     "word": "window",
+     "translation_uz": "deraza"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How do they travel to Grandma's house?",
+     "options": [
+      "By car",
+      "By plane",
+      "By train",
+      "By bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long does the train journey take?",
+     "options": [
+      "Two hours",
+      "Ten hours",
+      "One day",
+      "Six hours"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the writer do on the train?",
+     "options": [
+      "Reads books",
+      "Sleeps all day",
+      "Plays football",
+      "Cooks lunch"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Short Journey",
+   "script": "My journey to school is short. I walk for ten minutes and then I take a bus. The bus journey takes about twenty minutes. On the journey home I often talk with my friend Dilya. Today I forgot my bag on the bus, but the driver found it.",
+   "questions": [
+    {
+     "question": "How long does the walk take?",
+     "options": [
+      "Twenty minutes",
+      "Ten minutes",
+      "One hour",
+      "Five minutes"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long is the bus journey?",
+     "options": [
+      "About ten minutes",
+      "About an hour",
+      "About twenty minutes",
+      "About five minutes"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the speaker forget?",
+     "options": [
+      "A book",
+      "A coat",
+      "A ticket",
+      "A bag"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Have a good journey.",
+    "It is a long journey.",
+    "The journey takes an hour."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Journeys",
+    "question_text": "How do you travel to school?",
+    "hint_words": [
+     "walk",
+     "bus",
+     "minutes",
+     "by"
+    ]
+   },
+   {
+    "topic": "Journeys",
+    "question_text": "Do you like long journeys?",
+    "hint_words": [
+     "yes",
+     "no",
+     "boring",
+     "fun"
+    ]
+   },
+   {
+    "topic": "Journeys",
+    "question_text": "Tell me about your favourite journey.",
+    "hint_words": [
+     "went",
+     "with",
+     "saw",
+     "happy"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 68,
+  "title": "driver, licence",
+  "vocabulary": [
+   {
+    "word": "a taxi driver",
+    "translation_uz": "taksi haydovchisi",
+    "example_sentence": "The taxi driver was very friendly."
+   },
+   {
+    "word": "a bus driver",
+    "translation_uz": "avtobus haydovchisi",
+    "example_sentence": "My uncle is a bus driver."
+   },
+   {
+    "word": "a lorry driver",
+    "translation_uz": "yuk mashinasi haydovchisi",
+    "example_sentence": "A lorry driver stopped to help us."
+   },
+   {
+    "word": "a careful driver",
+    "translation_uz": "ehtiyotkor haydovchi",
+    "example_sentence": "My mother is a careful driver."
+   },
+   {
+    "word": "a learner driver",
+    "translation_uz": "o'rganuvchi haydovchi",
+    "example_sentence": "A learner driver drove slowly in front of us."
+   },
+   {
+    "word": "a driving licence",
+    "translation_uz": "haydovchilik guvohnomasi",
+    "example_sentence": "You need a driving licence to drive a car."
+   },
+   {
+    "word": "get a driving licence",
+    "translation_uz": "haydovchilik guvohnomasini olmoq",
+    "example_sentence": "My sister wants to get a driving licence."
+   },
+   {
+    "word": "have a licence",
+    "translation_uz": "guvohnomaga ega bo'lmoq",
+    "example_sentence": "Does your brother have a licence?"
+   },
+   {
+    "word": "renew a licence",
+    "translation_uz": "guvohnomani yangilamoq",
+    "example_sentence": "Dad must renew his licence this month."
+   },
+   {
+    "word": "lose your licence",
+    "translation_uz": "guvohnomadan mahrum bo'lmoq",
+    "example_sentence": "He lost his licence for driving too fast."
+   },
+   {
+    "word": "show your licence",
+    "translation_uz": "guvohnomani ko'rsatmoq",
+    "example_sentence": "The police officer asked me to show my licence."
+   },
+   {
+    "word": "a dangerous driver",
+    "translation_uz": "xavfli haydovchi",
+    "example_sentence": "A dangerous driver passed us on the bridge."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My uncle is a bus ___ in Samarkand.",
+    "correct_word": "driver",
+    "options": [
+     "ticket",
+     "seat",
+     "driver",
+     "road"
+    ]
+   },
+   {
+    "sentence_with_blank": "You must be eighteen to get a driving ___.",
+    "correct_word": "licence",
+    "options": [
+     "breakfast",
+     "window",
+     "menu",
+     "licence"
+    ]
+   },
+   {
+    "sentence_with_blank": "The police asked him to ___ his licence.",
+    "correct_word": "show",
+    "options": [
+     "show",
+     "drink",
+     "climb",
+     "sing"
+    ]
+   },
+   {
+    "sentence_with_blank": "He lost his licence because he was a dangerous ___.",
+    "correct_word": "driver",
+    "options": [
+     "lunch",
+     "driver",
+     "tour",
+     "seat"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is a very ___ driver; she never drives fast.",
+    "correct_word": "careful",
+    "options": [
+     "tasty",
+     "hungry",
+     "careful",
+     "empty"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need to ___ my licence next month, because it is old.",
+    "correct_word": "renew",
+    "options": [
+     "boil",
+     "queue",
+     "order",
+     "renew"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Uncle Karim",
+   "text": "My Uncle Karim is a bus driver. He got his driving licence when he was twenty. He is a very careful driver, and he never drives fast. Every morning he drives along the main road to the city centre. Last week he had to renew his licence at the office. He says that a good driver always thinks about the passengers.",
+   "key_words": [
+    {
+     "word": "passenger",
+     "translation_uz": "yo'lovchi"
+    },
+    {
+     "word": "office",
+     "translation_uz": "idora"
+    },
+    {
+     "word": "city centre",
+     "translation_uz": "shahar markazi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is Uncle Karim's job?",
+     "options": [
+      "He is a bus driver",
+      "He is a taxi driver",
+      "He is a teacher",
+      "He is a waiter"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did he do last week?",
+     "options": [
+      "Lost his licence",
+      "Renewed his licence",
+      "Bought a bus",
+      "Got a new job"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What kind of driver is he?",
+     "options": [
+      "Fast",
+      "Dangerous",
+      "Careful",
+      "Learner"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Learner Driver",
+   "script": "My sister is a learner driver. She wants to get her driving licence in the summer. Her teacher says she is a careful driver. Yesterday she drove along a quiet road for one hour. Next week she has her driving test. We all hope she will pass.",
+   "questions": [
+    {
+     "question": "When does the sister want her licence?",
+     "options": [
+      "In winter",
+      "Next week",
+      "Tomorrow",
+      "In the summer"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did she drive yesterday?",
+     "options": [
+      "One hour",
+      "Two hours",
+      "Ten minutes",
+      "All day"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does she have next week?",
+     "options": [
+      "A birthday party",
+      "A driving test",
+      "A holiday",
+      "A new car"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "She is a learner driver.",
+    "Show your licence.",
+    "He is a taxi driver."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Driving",
+    "question_text": "Does anyone in your family have a driving licence?",
+    "hint_words": [
+     "father",
+     "mother",
+     "yes",
+     "no"
+    ]
+   },
+   {
+    "topic": "Driving",
+    "question_text": "Would you like to be a driver one day?",
+    "hint_words": [
+     "bus",
+     "taxi",
+     "yes",
+     "like"
+    ]
+   },
+   {
+    "topic": "Driving",
+    "question_text": "What makes a good driver?",
+    "hint_words": [
+     "careful",
+     "slow",
+     "safe",
+     "rules"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 69,
+  "title": "tourist, tour",
+  "vocabulary": [
+   {
+    "word": "a tourist attraction",
+    "translation_uz": "sayyohlik diqqatga sazovor joyi",
+    "example_sentence": "The old fort is a famous tourist attraction."
+   },
+   {
+    "word": "a group of tourists",
+    "translation_uz": "sayyohlar guruhi",
+    "example_sentence": "A group of tourists was taking photos."
+   },
+   {
+    "word": "tourist season",
+    "translation_uz": "sayyohlik mavsumi",
+    "example_sentence": "Summer is the busy tourist season."
+   },
+   {
+    "word": "a tourist information office",
+    "translation_uz": "sayyohlar uchun axborot bo'limi",
+    "example_sentence": "We got a map at the tourist information office."
+   },
+   {
+    "word": "tourists visit",
+    "translation_uz": "sayyohlar tashrif buyuradi",
+    "example_sentence": "Thousands of tourists visit the city every year."
+   },
+   {
+    "word": "go on a tour",
+    "translation_uz": "ekskursiyaga bormoq",
+    "example_sentence": "We went on a tour of the old town."
+   },
+   {
+    "word": "a guided tour",
+    "translation_uz": "gid hamrohligidagi ekskursiya",
+    "example_sentence": "The guided tour lasts two hours."
+   },
+   {
+    "word": "a tour guide",
+    "translation_uz": "ekskursiya gidi",
+    "example_sentence": "Our tour guide knows many stories."
+   },
+   {
+    "word": "a walking tour",
+    "translation_uz": "piyoda ekskursiya",
+    "example_sentence": "A walking tour is a good way to see the city."
+   },
+   {
+    "word": "a bus tour",
+    "translation_uz": "avtobusli ekskursiya",
+    "example_sentence": "We took a bus tour around the lake."
+   },
+   {
+    "word": "take a tour of",
+    "translation_uz": "... bo'ylab ekskursiya qilmoq",
+    "example_sentence": "Let's take a tour of the museum."
+   },
+   {
+    "word": "a tour of the city",
+    "translation_uz": "shahar bo'ylab ekskursiya",
+    "example_sentence": "A tour of the city costs ten dollars."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Thousands of ___ visit Samarkand every year.",
+    "correct_word": "tourists",
+    "options": [
+     "tourists",
+     "drivers",
+     "waiters",
+     "tickets"
+    ]
+   },
+   {
+    "sentence_with_blank": "We went on a guided ___ of the old fort.",
+    "correct_word": "tour",
+    "options": [
+     "queue",
+     "tour",
+     "seat",
+     "bill"
+    ]
+   },
+   {
+    "sentence_with_blank": "A tour ___ showed us the museum.",
+    "correct_word": "guide",
+    "options": [
+     "bill",
+     "menu",
+     "guide",
+     "road"
+    ]
+   },
+   {
+    "sentence_with_blank": "The Registan is a famous tourist ___.",
+    "correct_word": "attraction",
+    "options": [
+     "driver",
+     "waiter",
+     "table",
+     "attraction"
+    ]
+   },
+   {
+    "sentence_with_blank": "Summer is the busy tourist ___.",
+    "correct_word": "season",
+    "options": [
+     "season",
+     "bottle",
+     "cup",
+     "lunch"
+    ]
+   },
+   {
+    "sentence_with_blank": "We took a walking tour ___ the old city.",
+    "correct_word": "of",
+    "options": [
+     "at",
+     "of",
+     "under",
+     "with"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day in Khiva",
+   "text": "Last week a group of tourists visited our town. They went on a guided tour of the old city. The tour guide told them many stories about the walls and the towers. Then the tourists took photos and bought small gifts. In summer the tourist season is very busy, and my uncle's café is full of people.",
+   "key_words": [
+    {
+     "word": "tower",
+     "translation_uz": "minora"
+    },
+    {
+     "word": "gift",
+     "translation_uz": "sovg'a"
+    },
+    {
+     "word": "wall",
+     "translation_uz": "devor"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who visited the town last week?",
+     "options": [
+      "A group of pupils",
+      "Some drivers",
+      "A group of tourists",
+      "Some doctors"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the tour guide tell them about?",
+     "options": [
+      "Football",
+      "Food",
+      "The weather",
+      "Walls and towers"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When is the café full of people?",
+     "options": [
+      "In summer",
+      "In winter",
+      "At night only",
+      "Never"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Bus Tour",
+   "script": "Today we are on a bus tour of the city. Our tour guide is a young woman called Malika. First we visit a famous tourist attraction, an old market. After that we have a short walking tour of the park. The tour finishes at five o'clock.",
+   "questions": [
+    {
+     "question": "How are they travelling?",
+     "options": [
+      "By train",
+      "By bus tour",
+      "By taxi",
+      "By bike"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the guide's name?",
+     "options": [
+      "Dilya",
+      "Zarina",
+      "Malika",
+      "Nodira"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When does the tour finish?",
+     "options": [
+      "At noon",
+      "At three o'clock",
+      "At eight o'clock",
+      "At five o'clock"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We went on a tour.",
+    "The tourists take photos.",
+    "She is a tour guide."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Tourism",
+    "question_text": "Is there a tourist attraction in your town?",
+    "hint_words": [
+     "yes",
+     "old",
+     "famous",
+     "museum"
+    ]
+   },
+   {
+    "topic": "Tourism",
+    "question_text": "Would you like to go on a guided tour?",
+    "hint_words": [
+     "yes",
+     "guide",
+     "stories",
+     "interesting"
+    ]
+   },
+   {
+    "topic": "Tourism",
+    "question_text": "Which city would you like to visit as a tourist?",
+    "hint_words": [
+     "Samarkand",
+     "Paris",
+     "visit",
+     "see"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 70,
+  "title": "ticket, queue",
+  "vocabulary": [
+   {
+    "word": "buy a ticket",
+    "translation_uz": "chipta sotib olmoq",
+    "example_sentence": "I want to buy a ticket for the match."
+   },
+   {
+    "word": "a bus ticket",
+    "translation_uz": "avtobus chiptasi",
+    "example_sentence": "I lost my bus ticket."
+   },
+   {
+    "word": "a train ticket",
+    "translation_uz": "poyezd chiptasi",
+    "example_sentence": "A train ticket to Bukhara is cheap."
+   },
+   {
+    "word": "a single ticket",
+    "translation_uz": "bir tomonlama chipta",
+    "example_sentence": "A single ticket is for one way only."
+   },
+   {
+    "word": "a return ticket",
+    "translation_uz": "borib-qaytish chiptasi",
+    "example_sentence": "I bought a return ticket to the capital."
+   },
+   {
+    "word": "book a ticket",
+    "translation_uz": "chiptani oldindan band qilmoq",
+    "example_sentence": "Let's book tickets for the concert online."
+   },
+   {
+    "word": "a ticket office",
+    "translation_uz": "chipta kassasi",
+    "example_sentence": "The ticket office opens at nine."
+   },
+   {
+    "word": "check your ticket",
+    "translation_uz": "chiptangizni tekshirmoq",
+    "example_sentence": "Please check your ticket before you get on."
+   },
+   {
+    "word": "a cinema ticket",
+    "translation_uz": "kino chiptasi",
+    "example_sentence": "A cinema ticket costs five dollars."
+   },
+   {
+    "word": "join the queue",
+    "translation_uz": "navbatga turmoq",
+    "example_sentence": "Please join the queue at the back."
+   },
+   {
+    "word": "stand in a queue",
+    "translation_uz": "navbatda turmoq",
+    "example_sentence": "We stood in a queue for an hour."
+   },
+   {
+    "word": "a long queue",
+    "translation_uz": "uzun navbat",
+    "example_sentence": "There was a long queue outside the shop."
+   },
+   {
+    "word": "jump the queue",
+    "translation_uz": "navbatni buzmoq",
+    "example_sentence": "It is rude to jump the queue."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I want to ___ two tickets for the cinema.",
+    "correct_word": "buy",
+    "options": [
+     "climb",
+     "cook",
+     "buy",
+     "sleep"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a long ___ outside the shop.",
+    "correct_word": "queue",
+    "options": [
+     "bottle",
+     "menu",
+     "lunch",
+     "queue"
+    ]
+   },
+   {
+    "sentence_with_blank": "We stood ___ a queue for an hour.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "over",
+     "under",
+     "about"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ ticket is for going there only, not coming back.",
+    "correct_word": "single",
+    "options": [
+     "hot",
+     "single",
+     "loud",
+     "sweet"
+    ]
+   },
+   {
+    "sentence_with_blank": "Show your ___ to the bus driver.",
+    "correct_word": "ticket",
+    "options": [
+     "queue",
+     "cup",
+     "ticket",
+     "road"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can buy tickets at the ticket ___.",
+    "correct_word": "office",
+    "options": [
+     "waiter",
+     "glass",
+     "bill",
+     "office"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "At the Station",
+   "text": "Saturday morning at the station was very busy. There was a long queue at the ticket office. I stood in the queue for twenty minutes. At last I bought a return ticket to Tashkent. A man tried to jump the queue, but the people told him to wait. Then the guard checked my ticket, and I got on the train.",
+   "key_words": [
+    {
+     "word": "guard",
+     "translation_uz": "konduktor"
+    },
+    {
+     "word": "station",
+     "translation_uz": "vokzal"
+    },
+    {
+     "word": "wait",
+     "translation_uz": "kutmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where was the long queue?",
+     "options": [
+      "At the ticket office",
+      "At the café",
+      "At the park",
+      "At school"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What ticket did the writer buy?",
+     "options": [
+      "A single ticket",
+      "A return ticket",
+      "A cinema ticket",
+      "A bus ticket"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who checked the ticket?",
+     "options": [
+      "The driver",
+      "The waiter",
+      "The guard",
+      "The guide"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Cinema Queue",
+   "script": "We are in a queue outside the cinema. The queue is very long because the film is new. A cinema ticket costs four dollars. My friend Aziz has already bought two tickets online. We will join him at the door and go in together.",
+   "questions": [
+    {
+     "question": "Where are the speakers?",
+     "options": [
+      "In a café",
+      "At the station",
+      "In a school",
+      "Outside the cinema"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How much is a cinema ticket?",
+     "options": [
+      "Four dollars",
+      "Two dollars",
+      "Ten dollars",
+      "Five dollars"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who bought tickets online?",
+     "options": [
+      "The speaker",
+      "Aziz",
+      "Dilya",
+      "The teacher"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Buy a ticket.",
+    "Join the queue.",
+    "I have a return ticket."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Tickets",
+    "question_text": "When did you last buy a ticket?",
+    "hint_words": [
+     "cinema",
+     "bus",
+     "yesterday",
+     "bought"
+    ]
+   },
+   {
+    "topic": "Queues",
+    "question_text": "Do you like standing in a queue?",
+    "hint_words": [
+     "no",
+     "long",
+     "boring",
+     "wait"
+    ]
+   },
+   {
+    "topic": "Travel",
+    "question_text": "Do you prefer a single or a return ticket?",
+    "hint_words": [
+     "single",
+     "return",
+     "one way",
+     "both"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 71,
+  "title": "seat",
+  "vocabulary": [
+   {
+    "word": "take a seat",
+    "translation_uz": "o'tirmoq",
+    "example_sentence": "Please take a seat and wait here."
+   },
+   {
+    "word": "have a seat",
+    "translation_uz": "joylashmoq, o'tirmoq",
+    "example_sentence": "Come in and have a seat."
+   },
+   {
+    "word": "a window seat",
+    "translation_uz": "deraza yonidagi o'rindiq",
+    "example_sentence": "I always ask for a window seat."
+   },
+   {
+    "word": "an empty seat",
+    "translation_uz": "bo'sh o'rindiq",
+    "example_sentence": "There is an empty seat next to me."
+   },
+   {
+    "word": "a free seat",
+    "translation_uz": "band bo'lmagan joy",
+    "example_sentence": "Is there a free seat on this bus?"
+   },
+   {
+    "word": "the front seat",
+    "translation_uz": "oldingi o'rindiq",
+    "example_sentence": "My little brother sits in the front seat."
+   },
+   {
+    "word": "the back seat",
+    "translation_uz": "orqa o'rindiq",
+    "example_sentence": "The bags are on the back seat."
+   },
+   {
+    "word": "book a seat",
+    "translation_uz": "joy band qilmoq",
+    "example_sentence": "We booked seats on the evening train."
+   },
+   {
+    "word": "keep a seat",
+    "translation_uz": "joyni saqlab turmoq",
+    "example_sentence": "Can you keep a seat for me?"
+   },
+   {
+    "word": "give up your seat",
+    "translation_uz": "o'z o'rningni bermoq",
+    "example_sentence": "Give up your seat for an old person."
+   },
+   {
+    "word": "a seat belt",
+    "translation_uz": "xavfsizlik kamari",
+    "example_sentence": "Always wear a seat belt in a car."
+   },
+   {
+    "word": "Is this seat taken?",
+    "translation_uz": "Bu joy bandmi?",
+    "example_sentence": "Excuse me, is this seat taken?"
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ a seat.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "cook",
+     "wear",
+     "sing"
+    ]
+   },
+   {
+    "sentence_with_blank": "I always ask for a window ___.",
+    "correct_word": "seat",
+    "options": [
+     "menu",
+     "seat",
+     "ticket",
+     "queue"
+    ]
+   },
+   {
+    "sentence_with_blank": "Wear your seat ___ in the car.",
+    "correct_word": "belt",
+    "options": [
+     "menu",
+     "bill",
+     "belt",
+     "queue"
+    ]
+   },
+   {
+    "sentence_with_blank": "Excuse me, is this seat ___?",
+    "correct_word": "taken",
+    "options": [
+     "eaten",
+     "drunk",
+     "cooked",
+     "taken"
+    ]
+   },
+   {
+    "sentence_with_blank": "A young man gave ___ his seat to an old lady.",
+    "correct_word": "up",
+    "options": [
+     "up",
+     "in",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bus was full and there was not a single ___ seat.",
+    "correct_word": "free",
+    "options": [
+     "boiled",
+     "free",
+     "sleepy",
+     "hungry"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "On the Bus",
+   "text": "The bus was full this morning. I could not find an empty seat, so I stood near the door. Then a girl asked, \"Is this seat taken?\" because she wanted to sit down. A young man gave up his seat to an old woman with a heavy bag. She said thank you and smiled. I think it is nice to help other people on the bus.",
+   "key_words": [
+    {
+     "word": "heavy",
+     "translation_uz": "og'ir"
+    },
+    {
+     "word": "smile",
+     "translation_uz": "jilmaymoq"
+    },
+    {
+     "word": "full",
+     "translation_uz": "to'la"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer stand?",
+     "options": [
+      "The bus was broken",
+      "He liked standing",
+      "There was no empty seat",
+      "The driver said so"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who gave up a seat?",
+     "options": [
+      "A girl",
+      "The driver",
+      "The writer",
+      "A young man"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who got the seat?",
+     "options": [
+      "An old woman",
+      "A boy",
+      "A teacher",
+      "A tourist"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing Seats",
+   "script": "We are booking seats for the train. My mother wants a window seat because she likes to watch the fields. My father prefers a seat near the door. I will sit next to my mother. In the car, I always wear my seat belt in the back seat.",
+   "questions": [
+    {
+     "question": "What does the mother want?",
+     "options": [
+      "A seat near the door",
+      "A window seat",
+      "A front seat",
+      "A free seat"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where does the father prefer to sit?",
+     "options": [
+      "By the window",
+      "In the back",
+      "Near the door",
+      "In the front"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where does the speaker sit in the car?",
+     "options": [
+      "In the front seat",
+      "On the floor",
+      "In the boot",
+      "In the back seat"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Take a seat.",
+    "I want a window seat.",
+    "Wear your seat belt."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Seats",
+    "question_text": "Do you like a window seat?",
+    "hint_words": [
+     "window",
+     "view",
+     "yes",
+     "like"
+    ]
+   },
+   {
+    "topic": "Seats",
+    "question_text": "Do you give up your seat for old people?",
+    "hint_words": [
+     "always",
+     "bus",
+     "old",
+     "help"
+    ]
+   },
+   {
+    "topic": "Seats",
+    "question_text": "Where do you sit in a car?",
+    "hint_words": [
+     "front",
+     "back",
+     "seat belt",
+     "sit"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,2366 @@
+[
+ {
+  "unit": 126,
+  "title": "feeling",
+  "vocabulary": [
+   {
+    "word": "a feeling of happiness",
+    "translation_uz": "baxt tuyg'usi",
+    "example_sentence": "She had a feeling of happiness when she saw her family."
+   },
+   {
+    "word": "a strange feeling",
+    "translation_uz": "g'alati tuyg'u",
+    "example_sentence": "I had a strange feeling that someone was watching me."
+   },
+   {
+    "word": "a good feeling about",
+    "translation_uz": "...ga ishonch (yaxshi tuyg'u)",
+    "example_sentence": "I have a good feeling about tomorrow's test."
+   },
+   {
+    "word": "have mixed feelings",
+    "translation_uz": "aralash tuyg'ularga ega bo'lmoq",
+    "example_sentence": "I have mixed feelings about moving to a new school."
+   },
+   {
+    "word": "strong feelings",
+    "translation_uz": "kuchli his-tuyg'ular",
+    "example_sentence": "He has strong feelings about animals."
+   },
+   {
+    "word": "hurt someone's feelings",
+    "translation_uz": "birovning dilini og'ritmoq",
+    "example_sentence": "I didn't want to hurt her feelings."
+   },
+   {
+    "word": "express your feelings",
+    "translation_uz": "his-tuyg'ularini bildirmoq",
+    "example_sentence": "Some boys find it hard to express their feelings."
+   },
+   {
+    "word": "show your feelings",
+    "translation_uz": "his-tuyg'ularini ko'rsatmoq",
+    "example_sentence": "She never shows her feelings in public."
+   },
+   {
+    "word": "hide your feelings",
+    "translation_uz": "his-tuyg'ularini yashirmoq",
+    "example_sentence": "He tried to hide his feelings, but his face was red."
+   },
+   {
+    "word": "feel like doing something",
+    "translation_uz": "...qilgisi kelmoq",
+    "example_sentence": "I don't feel like going out tonight."
+   },
+   {
+    "word": "feel better / worse",
+    "translation_uz": "o'zini yaxshiroq / yomonroq his qilmoq",
+    "example_sentence": "I feel better after a good rest."
+   },
+   {
+    "word": "feel sorry for",
+    "translation_uz": "...ga achinmoq",
+    "example_sentence": "I feel sorry for the boy who lost his bag."
+   },
+   {
+    "word": "feel at home",
+    "translation_uz": "o'zini uyidagidek his qilmoq",
+    "example_sentence": "Our guests felt at home at once."
+   },
+   {
+    "word": "a feeling in your stomach",
+    "translation_uz": "qorindagi sezgi",
+    "example_sentence": "I had a funny feeling in my stomach before the match."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I have mixed ___ about leaving my old school.",
+    "correct_word": "feelings",
+    "options": [
+     "feelings",
+     "moods",
+     "senses",
+     "touches"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please be kind; you could hurt her ___.",
+    "correct_word": "feelings",
+    "options": [
+     "feelings",
+     "hearts",
+     "minds",
+     "moods"
+    ]
+   },
+   {
+    "sentence_with_blank": "I don't feel ___ going to the cinema tonight.",
+    "correct_word": "like",
+    "options": [
+     "like",
+     "for",
+     "about",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "He tried to ___ his feelings, but his smile disappeared.",
+    "correct_word": "hide",
+    "options": [
+     "hide",
+     "lose",
+     "break",
+     "spend"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people find it hard to ___ their feelings.",
+    "correct_word": "express",
+    "options": [
+     "express",
+     "bring",
+     "carry",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "I feel sorry ___ the dog left in the rain.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "about",
+     "with",
+     "on"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The New Neighbours",
+   "text": "When the new neighbours arrived, I had a strange feeling. I was happy to meet other children, but I also had mixed feelings, because our old neighbours were my best friends. Their son, Rustam, felt shy and did not show his feelings. I did not want to hurt his feelings, so I invited him to play football. After an hour he felt at home. He said that he did not feel like going back inside. Now I have a good feeling about our new friendship.",
+   "key_words": [
+    {
+     "word": "neighbours",
+     "translation_uz": "qo'shnilar"
+    },
+    {
+     "word": "shy",
+     "translation_uz": "uyatchan"
+    },
+    {
+     "word": "invite",
+     "translation_uz": "taklif qilmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer have mixed feelings?",
+     "options": [
+      "He disliked football",
+      "He missed his old neighbours",
+      "He was ill",
+      "He was angry"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the writer invite Rustam to do?",
+     "options": [
+      "Play football",
+      "Have dinner",
+      "Go shopping",
+      "Watch a film"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How does the writer feel about the friendship now?",
+     "options": [
+      "Worried",
+      "Sorry",
+      "Sleepy",
+      "Hopeful"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Before the Exam",
+   "script": "Anna: How do you feel about the exam? Karim: I have mixed feelings. I studied hard, but I have a strange feeling in my stomach. Anna: I know that feeling. I have a good feeling about it, though. Karim: I don't feel like talking about it. Anna: OK, I don't want to hurt your feelings. Let's have some tea. Karim: Thanks, I feel better already.",
+   "questions": [
+    {
+     "question": "Where does Karim have a strange feeling?",
+     "options": [
+      "In his head",
+      "In his stomach",
+      "In his hand",
+      "In his leg"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Anna feel about the exam?",
+     "options": [
+      "She feels afraid",
+      "She is angry",
+      "She has a good feeling",
+      "She feels sleepy"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do they decide to do?",
+     "options": [
+      "Study more",
+      "Go home",
+      "Call a teacher",
+      "Have some tea"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I have mixed feelings.",
+    "I feel better today.",
+    "Don't hurt her feelings."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Feelings",
+    "question_text": "Is it easy for you to express your feelings?",
+    "hint_words": [
+     "easy",
+     "hard",
+     "talk",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Change",
+    "question_text": "How do you feel when you go to a new place?",
+    "hint_words": [
+     "nervous",
+     "excited",
+     "shy",
+     "at home"
+    ]
+   },
+   {
+    "topic": "Friends",
+    "question_text": "How do you feel better when you are sad?",
+    "hint_words": [
+     "music",
+     "talk",
+     "walk",
+     "sleep"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 127,
+  "title": "mood",
+  "vocabulary": [
+   {
+    "word": "in a good mood",
+    "translation_uz": "kayfiyati yaxshi",
+    "example_sentence": "Dad is in a good mood today."
+   },
+   {
+    "word": "in a bad mood",
+    "translation_uz": "kayfiyati yomon",
+    "example_sentence": "My sister is in a bad mood this morning."
+   },
+   {
+    "word": "in a terrible mood",
+    "translation_uz": "kayfiyati juda yomon",
+    "example_sentence": "He was in a terrible mood after losing the game."
+   },
+   {
+    "word": "in a cheerful mood",
+    "translation_uz": "quvnoq kayfiyatda",
+    "example_sentence": "The children were in a cheerful mood."
+   },
+   {
+    "word": "in the mood for",
+    "translation_uz": "...ga kayfiyati bor",
+    "example_sentence": "I'm not in the mood for homework."
+   },
+   {
+    "word": "be in no mood to",
+    "translation_uz": "...qilgisi yo'q",
+    "example_sentence": "She was in no mood to laugh."
+   },
+   {
+    "word": "put someone in a good mood",
+    "translation_uz": "kayfiyatini ko'tarmoq",
+    "example_sentence": "A sunny day puts me in a good mood."
+   },
+   {
+    "word": "improve your mood",
+    "translation_uz": "kayfiyatini yaxshilamoq",
+    "example_sentence": "Music can improve your mood."
+   },
+   {
+    "word": "change of mood",
+    "translation_uz": "kayfiyat o'zgarishi",
+    "example_sentence": "There was a sudden change of mood in the room."
+   },
+   {
+    "word": "mood swings",
+    "translation_uz": "kayfiyatning tez o'zgarishi",
+    "example_sentence": "Teenagers sometimes have mood swings."
+   },
+   {
+    "word": "a sad mood",
+    "translation_uz": "g'amgin kayfiyat",
+    "example_sentence": "He was in a sad mood after the film."
+   },
+   {
+    "word": "moody",
+    "translation_uz": "kayfiyati o'zgaruvchan",
+    "example_sentence": "My brother can be moody in the mornings."
+   },
+   {
+    "word": "lift someone's mood",
+    "translation_uz": "kayfiyatini ko'tarmoq (jonlantirmoq)",
+    "example_sentence": "A funny story lifted everyone's mood."
+   },
+   {
+    "word": "the mood of the meeting",
+    "translation_uz": "yig'inning ruhi",
+    "example_sentence": "The mood of the meeting was friendly."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Mum is in a very good ___ today.",
+    "correct_word": "mood",
+    "options": [
+     "mood",
+     "feeling",
+     "temper",
+     "sense"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm not in the ___ for a long walk.",
+    "correct_word": "mood",
+    "options": [
+     "mood",
+     "wish",
+     "taste",
+     "want"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was in no ___ to listen to jokes.",
+    "correct_word": "mood",
+    "options": [
+     "mood",
+     "time",
+     "will",
+     "place"
+    ]
+   },
+   {
+    "sentence_with_blank": "Music can ___ your mood when you feel tired.",
+    "correct_word": "improve",
+    "options": [
+     "improve",
+     "grow",
+     "build",
+     "mend"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is often ___ in the morning and doesn't talk much.",
+    "correct_word": "moody",
+    "options": [
+     "moody",
+     "mooded",
+     "mood",
+     "moodily"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sunny weather always puts me ___ a good mood.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "to"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Rainy Monday",
+   "text": "It was a rainy Monday, and everybody at school was in a bad mood. My friend Dilya was in no mood to talk, and our teacher looked tired. But then our classmate Jack told a funny story about his dog. Soon the whole class was laughing, and the change of mood was amazing. Even the teacher was in a cheerful mood. After school the sun came out, and I was in the mood for ice cream. A good story can really improve your mood.",
+   "key_words": [
+    {
+     "word": "classmate",
+     "translation_uz": "sinfdosh"
+    },
+    {
+     "word": "amazing",
+     "translation_uz": "ajoyib"
+    },
+    {
+     "word": "rainy",
+     "translation_uz": "yomg'irli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the weather like on Monday?",
+     "options": [
+      "Windy",
+      "Sunny",
+      "Snowy",
+      "Rainy"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who told a funny story?",
+     "options": [
+      "Dilya",
+      "Jack",
+      "The teacher",
+      "The writer"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the writer in the mood for after school?",
+     "options": [
+      "Homework",
+      "Football",
+      "A film",
+      "Ice cream"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Bad Day",
+   "script": "Mum: Why are you in such a bad mood, Leyla? Leyla: I lost my favourite pen and I'm in no mood to talk. Mum: Teenagers have mood swings, I know. Would you like to go to the park? Leyla: I'm not in the mood for the park. Mum: Then I will make your favourite cake. It always puts you in a good mood. Leyla: OK, Mum, that sounds great. Thank you.",
+   "questions": [
+    {
+     "question": "Why is Leyla in a bad mood?",
+     "options": [
+      "She failed a test",
+      "She lost her pen",
+      "She lost her book",
+      "She is hungry"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Leyla refuse to do?",
+     "options": [
+      "Bake a cake",
+      "Go to the park",
+      "Talk to her friend",
+      "Do homework"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will Mum make?",
+     "options": [
+      "Soup",
+      "Bread",
+      "A salad",
+      "A cake"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I'm in a good mood.",
+    "She is in a bad mood.",
+    "He is not in the mood."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Mood",
+    "question_text": "What puts you in a good mood?",
+    "hint_words": [
+     "music",
+     "friends",
+     "sun",
+     "food"
+    ]
+   },
+   {
+    "topic": "Bad days",
+    "question_text": "What do you do when you're in a bad mood?",
+    "hint_words": [
+     "walk",
+     "sleep",
+     "music",
+     "talk"
+    ]
+   },
+   {
+    "topic": "Others",
+    "question_text": "How do you help a friend in a bad mood?",
+    "hint_words": [
+     "joke",
+     "listen",
+     "gift",
+     "company"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 128,
+  "title": "happiness and pleasure",
+  "vocabulary": [
+   {
+    "word": "find happiness",
+    "translation_uz": "baxt topmoq",
+    "example_sentence": "He found happiness in a simple life."
+   },
+   {
+    "word": "bring happiness",
+    "translation_uz": "baxt keltirmoq",
+    "example_sentence": "Children bring happiness to a home."
+   },
+   {
+    "word": "pure happiness",
+    "translation_uz": "sof baxt",
+    "example_sentence": "The puppy's face was pure happiness."
+   },
+   {
+    "word": "jump for joy",
+    "translation_uz": "xursandlikdan sakramoq",
+    "example_sentence": "She jumped for joy when she heard the news."
+   },
+   {
+    "word": "be delighted with",
+    "translation_uz": "...dan juda xursand bo'lmoq",
+    "example_sentence": "We were delighted with the gift."
+   },
+   {
+    "word": "take pleasure in",
+    "translation_uz": "...dan zavq olmoq",
+    "example_sentence": "He takes pleasure in cooking for his family."
+   },
+   {
+    "word": "give someone pleasure",
+    "translation_uz": "birovga zavq bag'ishlamoq",
+    "example_sentence": "Reading gives me great pleasure."
+   },
+   {
+    "word": "with pleasure",
+    "translation_uz": "mamnuniyat bilan",
+    "example_sentence": "Of course I'll help you, with pleasure."
+   },
+   {
+    "word": "It's a pleasure.",
+    "translation_uz": "Marhamat. (Arzimaydi.)",
+    "example_sentence": "Thank you! - It's a pleasure."
+   },
+   {
+    "word": "pleased to meet you",
+    "translation_uz": "tanishganimdan xursandman",
+    "example_sentence": "I'm very pleased to meet you."
+   },
+   {
+    "word": "for pleasure",
+    "translation_uz": "zavq uchun",
+    "example_sentence": "Do you read for pleasure or for school?"
+   },
+   {
+    "word": "a great pleasure",
+    "translation_uz": "katta zavq",
+    "example_sentence": "It was a great pleasure to see you again."
+   },
+   {
+    "word": "cheerful",
+    "translation_uz": "xushchaqchaq",
+    "example_sentence": "She is a cheerful girl who loves jokes."
+   },
+   {
+    "word": "be in high spirits",
+    "translation_uz": "ko'tarinki ruhda bo'lmoq",
+    "example_sentence": "The team was in high spirits after the win."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The children ___ for joy when they saw the snow.",
+    "correct_word": "jumped",
+    "options": [
+     "jumped",
+     "ran",
+     "laughed",
+     "cried"
+    ]
+   },
+   {
+    "sentence_with_blank": "We were delighted ___ our results.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "of",
+     "from",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandfather takes great ___ in his garden.",
+    "correct_word": "pleasure",
+    "options": [
+     "pleasure",
+     "joy at",
+     "fun",
+     "taste"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you carry my bag? - Yes, with ___.",
+    "correct_word": "pleasure",
+    "options": [
+     "pleasure",
+     "happy",
+     "joy of",
+     "please"
+    ]
+   },
+   {
+    "sentence_with_blank": "I read books for ___, not only for school.",
+    "correct_word": "pleasure",
+    "options": [
+     "pleasure",
+     "pleased",
+     "please",
+     "pleasing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Thank you for your help. - It's a ___.",
+    "correct_word": "pleasure",
+    "options": [
+     "pleasure",
+     "thanks",
+     "favour",
+     "joy to you"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Surprise Party",
+   "text": "Last Saturday my class organised a party for our teacher. We wanted to bring her happiness, because she is always so kind. When she opened the door, she jumped for joy. She was delighted with the balloons and the cake. \"It is a great pleasure to see you all,\" she said. We sang songs, and everybody was in high spirits. My friend Nodira said, \"Reading with you gives me pleasure,\" and our teacher smiled. The party was pure happiness, and we will do it again next year.",
+   "key_words": [
+    {
+     "word": "organise",
+     "translation_uz": "tashkil qilmoq"
+    },
+    {
+     "word": "balloon",
+     "translation_uz": "shar"
+    },
+    {
+     "word": "kind",
+     "translation_uz": "mehribon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who was the party for?",
+     "options": [
+      "A classmate",
+      "The head teacher",
+      "The teacher",
+      "The writer's mother"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was the teacher delighted with?",
+     "options": [
+      "The songs",
+      "The balloons and the cake",
+      "The flowers",
+      "The cards"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the writer say about the party?",
+     "options": [
+      "It was too short",
+      "It was pure happiness",
+      "It was difficult",
+      "It was boring"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Good News",
+   "script": "Sara: Guess what? I passed my English test! Tom: That's great! I'm delighted with your news. Sara: I jumped for joy when I saw the mark. Tom: You study hard and you take real pleasure in reading. Sara: Yes! Would you like to come to my house to celebrate? Tom: With pleasure. I will bring some fruit. Sara: Thank you, Tom. It will be a great pleasure to see you.",
+   "questions": [
+    {
+     "question": "What did Sara pass?",
+     "options": [
+      "A driving test",
+      "A maths test",
+      "A music exam",
+      "An English test"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will Tom bring?",
+     "options": [
+      "Flowers",
+      "A cake",
+      "Fruit",
+      "A game"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will they do at Sara's house?",
+     "options": [
+      "Do homework",
+      "Celebrate",
+      "Watch a film",
+      "Play football"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "She jumped for joy.",
+    "With pleasure!",
+    "I'm pleased to meet you."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Joy",
+    "question_text": "What brings you happiness?",
+    "hint_words": [
+     "family",
+     "friends",
+     "music",
+     "sport"
+    ]
+   },
+   {
+    "topic": "Pleasure",
+    "question_text": "What do you do for pleasure?",
+    "hint_words": [
+     "read",
+     "play",
+     "draw",
+     "watch"
+    ]
+   },
+   {
+    "topic": "Good news",
+    "question_text": "When did you last jump for joy?",
+    "hint_words": [
+     "won",
+     "test",
+     "gift",
+     "holiday"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 129,
+  "title": "anger",
+  "vocabulary": [
+   {
+    "word": "be angry with someone",
+    "translation_uz": "birovga g'azablanmoq",
+    "example_sentence": "Mum was angry with me for coming home late."
+   },
+   {
+    "word": "be angry about something",
+    "translation_uz": "biror narsaga g'azablanmoq",
+    "example_sentence": "He is angry about the broken window."
+   },
+   {
+    "word": "get angry",
+    "translation_uz": "jahli chiqmoq",
+    "example_sentence": "Dad gets angry when I forget my keys."
+   },
+   {
+    "word": "make someone angry",
+    "translation_uz": "birovni g'azablantirmoq",
+    "example_sentence": "Unfair rules make people angry."
+   },
+   {
+    "word": "lose your temper",
+    "translation_uz": "jahli chiqib ketmoq",
+    "example_sentence": "I lost my temper and shouted."
+   },
+   {
+    "word": "keep your temper",
+    "translation_uz": "o'zini tutmoq",
+    "example_sentence": "Try to keep your temper when someone teases you."
+   },
+   {
+    "word": "in anger",
+    "translation_uz": "g'azab bilan",
+    "example_sentence": "He slammed the door in anger."
+   },
+   {
+    "word": "red with anger",
+    "translation_uz": "g'azabdan qizarib ketgan",
+    "example_sentence": "Her face went red with anger."
+   },
+   {
+    "word": "control your anger",
+    "translation_uz": "g'azabini jilovlamoq",
+    "example_sentence": "You must learn to control your anger."
+   },
+   {
+    "word": "show anger",
+    "translation_uz": "g'azabni ko'rsatmoq",
+    "example_sentence": "She never shows anger in front of children."
+   },
+   {
+    "word": "furious",
+    "translation_uz": "g'oyat g'azablangan",
+    "example_sentence": "The coach was furious about the late bus."
+   },
+   {
+    "word": "annoyed",
+    "translation_uz": "bezovtalangan, jahli chiqqan",
+    "example_sentence": "I get annoyed when people are late."
+   },
+   {
+    "word": "an angry reply",
+    "translation_uz": "jahl bilan javob",
+    "example_sentence": "He gave an angry reply to the question."
+   },
+   {
+    "word": "calm down",
+    "translation_uz": "tinchlanmoq",
+    "example_sentence": "Take a breath and calm down."
+   },
+   {
+    "word": "a bad temper",
+    "translation_uz": "jahldor tabiat",
+    "example_sentence": "My uncle has a bad temper."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Mum was angry ___ me because I forgot the milk.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "to",
+     "from",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "The players were angry ___ the referee's decision.",
+    "correct_word": "about",
+    "options": [
+     "about",
+     "from",
+     "by",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't ___ your temper; it won't help.",
+    "correct_word": "lose",
+    "options": [
+     "lose",
+     "miss",
+     "break",
+     "drop"
+    ]
+   },
+   {
+    "sentence_with_blank": "She went red ___ anger when she saw the mess.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "of",
+     "by",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'll go for a walk to ___ down.",
+    "correct_word": "calm",
+    "options": [
+     "calm",
+     "bring",
+     "come",
+     "go"
+    ]
+   },
+   {
+    "sentence_with_blank": "Unfair rules ___ people angry.",
+    "correct_word": "make",
+    "options": [
+     "make",
+     "do",
+     "take",
+     "cause"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Broken Phone",
+   "text": "Yesterday my little brother dropped my phone, and the screen broke. I lost my temper and shouted at him. His face went white, and I felt terrible. Mum said, \"Calm down. Don't be angry with him; it was an accident.\" I was still annoyed about the screen, but I knew that I should keep my temper. I went to my room and took a few deep breaths. Later I said sorry to my brother, and he gave me a hug. Next time I will try to control my anger.",
+   "key_words": [
+    {
+     "word": "screen",
+     "translation_uz": "ekran"
+    },
+    {
+     "word": "accident",
+     "translation_uz": "tasodif"
+    },
+    {
+     "word": "hug",
+     "translation_uz": "quchoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the brother do?",
+     "options": [
+      "He lost the phone",
+      "He sold the phone",
+      "He dropped the phone",
+      "He hid the phone"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Mum tell the writer?",
+     "options": [
+      "Calm down",
+      "Go to bed",
+      "Buy a new one",
+      "Call the shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the writer do later?",
+     "options": [
+      "Said sorry to his brother",
+      "Called a friend",
+      "Went out",
+      "Mended the phone"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "On the Football Pitch",
+   "script": "Coach: Why did you lose your temper, Ben? Ben: The other team was unfair, and I was furious. Coach: I understand, but you must control your anger. Ben: I know, I slammed the ball in anger. Coach: Next time, calm down and count to ten. Ben: OK, Coach. Am I still in the team? Coach: Yes, but keep your temper on Saturday.",
+   "questions": [
+    {
+     "question": "How did Ben feel about the other team?",
+     "options": [
+      "Sorry",
+      "Furious",
+      "Worried",
+      "Pleased"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Ben do in anger?",
+     "options": [
+      "He left the pitch",
+      "He shouted at the coach",
+      "He slammed the ball",
+      "He fell down"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When is the next match?",
+     "options": [
+      "On Friday",
+      "On Sunday",
+      "Tomorrow",
+      "On Saturday"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Don't lose your temper.",
+    "Calm down, please.",
+    "She was angry with me."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Anger",
+    "question_text": "What makes you angry?",
+    "hint_words": [
+     "unfair",
+     "noise",
+     "late",
+     "lying"
+    ]
+   },
+   {
+    "topic": "Calm",
+    "question_text": "How do you calm down when you are angry?",
+    "hint_words": [
+     "walk",
+     "breathe",
+     "music",
+     "talk"
+    ]
+   },
+   {
+    "topic": "Others",
+    "question_text": "Do you know someone with a bad temper?",
+    "hint_words": [
+     "brother",
+     "teacher",
+     "shout",
+     "calm"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 130,
+  "title": "fear and anxiety",
+  "vocabulary": [
+   {
+    "word": "be afraid of",
+    "translation_uz": "...dan qo'rqmoq",
+    "example_sentence": "I'm afraid of spiders."
+   },
+   {
+    "word": "be scared of",
+    "translation_uz": "...dan qo'rqmoq (bolalarcha)",
+    "example_sentence": "The little girl is scared of the dark."
+   },
+   {
+    "word": "be frightened of",
+    "translation_uz": "...dan cho'chimoq",
+    "example_sentence": "He is frightened of big dogs."
+   },
+   {
+    "word": "a fear of heights",
+    "translation_uz": "balandlikdan qo'rqish",
+    "example_sentence": "My uncle has a fear of heights."
+   },
+   {
+    "word": "be terrified",
+    "translation_uz": "juda qo'rqmoq",
+    "example_sentence": "I was terrified during the storm."
+   },
+   {
+    "word": "shake with fear",
+    "translation_uz": "qo'rquvdan titramoq",
+    "example_sentence": "The boy was shaking with fear."
+   },
+   {
+    "word": "scream in fear",
+    "translation_uz": "qo'rquvdan qichqirmoq",
+    "example_sentence": "She screamed in fear when the lights went out."
+   },
+   {
+    "word": "for fear of",
+    "translation_uz": "...dan qo'rqib",
+    "example_sentence": "He spoke quietly for fear of waking the baby."
+   },
+   {
+    "word": "overcome your fear",
+    "translation_uz": "qo'rquvni yengmoq",
+    "example_sentence": "She overcame her fear of water and learned to swim."
+   },
+   {
+    "word": "feel anxious about",
+    "translation_uz": "...haqida tashvishlanmoq",
+    "example_sentence": "I feel anxious about the exam."
+   },
+   {
+    "word": "feel nervous",
+    "translation_uz": "hayajonlanmoq",
+    "example_sentence": "He felt nervous before the speech."
+   },
+   {
+    "word": "a frightening film",
+    "translation_uz": "qo'rqinchli film",
+    "example_sentence": "We watched a frightening film last night."
+   },
+   {
+    "word": "frighten someone",
+    "translation_uz": "birovni qo'rqitmoq",
+    "example_sentence": "The loud noise frightened the cat."
+   },
+   {
+    "word": "a nervous smile",
+    "translation_uz": "hayajonli tabassum",
+    "example_sentence": "She gave a nervous smile at the door."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My little sister is scared ___ the dark.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "from",
+     "about",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy was shaking ___ fear when the thunder began.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "to",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "He walked quietly for ___ of waking the baby.",
+    "correct_word": "fear",
+    "options": [
+     "fear",
+     "scare",
+     "afraid",
+     "fright"
+    ]
+   },
+   {
+    "sentence_with_blank": "She finally ___ her fear of water.",
+    "correct_word": "overcame",
+    "options": [
+     "overcame",
+     "lost",
+     "left",
+     "passed"
+    ]
+   },
+   {
+    "sentence_with_blank": "I feel anxious ___ my driving test.",
+    "correct_word": "about",
+    "options": [
+     "about",
+     "from",
+     "by",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The film was so ___ that I closed my eyes.",
+    "correct_word": "frightening",
+    "options": [
+     "frightening",
+     "frightened",
+     "fright",
+     "frighten"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The High Bridge",
+   "text": "On our school trip we walked across a high bridge. My friend Ali has a fear of heights, and he was terrified. He shook with fear and held the rail tightly. I was afraid of it too, but I didn't show it. Our teacher spoke to Ali in a soft voice. \"Don't look down,\" she said. \"Look at me.\" Slowly Ali crossed the bridge with a nervous smile. On the other side, he said that he had overcome his fear. We all clapped, and Ali felt proud.",
+   "key_words": [
+    {
+     "word": "bridge",
+     "translation_uz": "ko'prik"
+    },
+    {
+     "word": "rail",
+     "translation_uz": "panjara"
+    },
+    {
+     "word": "tightly",
+     "translation_uz": "mahkam"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is Ali afraid of?",
+     "options": [
+      "Dogs",
+      "The dark",
+      "Water",
+      "Heights"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the teacher tell Ali?",
+     "options": [
+      "Run quickly",
+      "Don't look down",
+      "Wait here",
+      "Close your eyes"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did Ali feel at the end?",
+     "options": [
+      "Proud",
+      "Angry",
+      "Bored",
+      "Sleepy"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Scary Night",
+   "script": "Girl: Last night there was a big storm and I was terrified. Boy: Were you scared of the thunder? Girl: Yes, I screamed in fear when the lights went out. Boy: I'm frightened of storms too. Girl: My father came and sat with me, and I felt less nervous. Boy: What did you do to overcome your fear? Girl: We played a game by candlelight. It was actually fun.",
+   "questions": [
+    {
+     "question": "What was the weather like last night?",
+     "options": [
+      "Foggy",
+      "A big storm",
+      "Snowy",
+      "Very hot"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who sat with the girl?",
+     "options": [
+      "Her mother",
+      "Her brother",
+      "Her friend",
+      "Her father"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did they do by candlelight?",
+     "options": [
+      "Read a book",
+      "Played a game",
+      "Slept",
+      "Cooked"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I'm afraid of spiders.",
+    "She screamed in fear.",
+    "He is scared of heights."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fear",
+    "question_text": "What are you afraid of?",
+    "hint_words": [
+     "spiders",
+     "dark",
+     "heights",
+     "dogs"
+    ]
+   },
+   {
+    "topic": "Brave",
+    "question_text": "How can people overcome their fear?",
+    "hint_words": [
+     "practice",
+     "friends",
+     "talk",
+     "slowly"
+    ]
+   },
+   {
+    "topic": "Film",
+    "question_text": "Do you like frightening films? Why or why not?",
+    "hint_words": [
+     "scary",
+     "exciting",
+     "nightmare",
+     "friends"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 131,
+  "title": "worry",
+  "vocabulary": [
+   {
+    "word": "worry about",
+    "translation_uz": "...haqida tashvishlanmoq",
+    "example_sentence": "Don't worry about the test; you are ready."
+   },
+   {
+    "word": "be worried about",
+    "translation_uz": "...dan xavotirda bo'lmoq",
+    "example_sentence": "Mum is worried about my grandfather's health."
+   },
+   {
+    "word": "a worried look",
+    "translation_uz": "xavotirli qiyofa",
+    "example_sentence": "He had a worried look on his face."
+   },
+   {
+    "word": "a worried voice",
+    "translation_uz": "xavotirli ovoz",
+    "example_sentence": "She spoke in a worried voice."
+   },
+   {
+    "word": "a cause for worry",
+    "translation_uz": "tashvish sababi",
+    "example_sentence": "The weather is no cause for worry."
+   },
+   {
+    "word": "Don't worry!",
+    "translation_uz": "Xavotir olma!",
+    "example_sentence": "Don't worry! Everything will be fine."
+   },
+   {
+    "word": "No need to worry.",
+    "translation_uz": "Xavotirlanishga hojat yo'q.",
+    "example_sentence": "There is no need to worry; the bus will come."
+   },
+   {
+    "word": "worry yourself sick",
+    "translation_uz": "xavotirdan o'zini holdan toydirmoq",
+    "example_sentence": "Don't worry yourself sick over a small mistake."
+   },
+   {
+    "word": "a big worry",
+    "translation_uz": "katta tashvish",
+    "example_sentence": "Money is a big worry for many families."
+   },
+   {
+    "word": "financial worries",
+    "translation_uz": "moliyaviy tashvishlar",
+    "example_sentence": "They have some financial worries."
+   },
+   {
+    "word": "worry that",
+    "translation_uz": "...deb tashvishlanmoq",
+    "example_sentence": "I worry that I will forget my words."
+   },
+   {
+    "word": "worrying news",
+    "translation_uz": "tashvishli xabar",
+    "example_sentence": "We heard some worrying news about the storm."
+   },
+   {
+    "word": "a worrier",
+    "translation_uz": "tashvishchi odam",
+    "example_sentence": "My mother is a real worrier."
+   },
+   {
+    "word": "lie awake worrying",
+    "translation_uz": "tashvishdan uxlay olmay yotmoq",
+    "example_sentence": "I lay awake worrying about the match."
+   },
+   {
+    "word": "stop worrying",
+    "translation_uz": "xavotirlanishni to'xtatmoq",
+    "example_sentence": "Please stop worrying and enjoy the holiday."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Don't ___ about the exam; you studied well.",
+    "correct_word": "worry",
+    "options": [
+     "worry",
+     "fear",
+     "hurry",
+     "rush"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum is worried ___ my sister's cough.",
+    "correct_word": "about",
+    "options": [
+     "about",
+     "of",
+     "to",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "He had a ___ look on his face when the phone rang.",
+    "correct_word": "worried",
+    "options": [
+     "worried",
+     "worrying",
+     "worry",
+     "worries"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is no need to ___; the train is only late by five minutes.",
+    "correct_word": "worry",
+    "options": [
+     "worry",
+     "panic",
+     "hurry",
+     "wait"
+    ]
+   },
+   {
+    "sentence_with_blank": "We heard some ___ news about the old bridge.",
+    "correct_word": "worrying",
+    "options": [
+     "worrying",
+     "worried",
+     "worry",
+     "worrier"
+    ]
+   },
+   {
+    "sentence_with_blank": "I lay awake ___ about the test.",
+    "correct_word": "worrying",
+    "options": [
+     "worrying",
+     "worry",
+     "worried",
+     "worries"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Waiting for the Result",
+   "text": "Zarina was worried about her piano exam. She had a worried look on her face all week. Her mother said, \"Don't worry! You practised every day.\" But Zarina still lay awake worrying at night. On Friday the teacher called with some news. It was good news: she passed with a high mark! Her mother smiled and said there had been no need to worry. Zarina laughed and promised to stop worrying so much. The family went out for pizza to celebrate.",
+   "key_words": [
+    {
+     "word": "piano",
+     "translation_uz": "pianino"
+    },
+    {
+     "word": "practise",
+     "translation_uz": "mashq qilmoq"
+    },
+    {
+     "word": "celebrate",
+     "translation_uz": "nishonlamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What exam did Zarina have?",
+     "options": [
+      "A maths exam",
+      "A piano exam",
+      "A swimming test",
+      "A driving test"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did her mother say?",
+     "options": [
+      "Don't worry!",
+      "Study more",
+      "Go to bed",
+      "Call the teacher"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the family celebrate?",
+     "options": [
+      "They went to a cafe",
+      "They bought a gift",
+      "They went to the park",
+      "They had pizza"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Waiting for the Bus",
+   "script": "Girl: Where is Dad? He is late. Boy: Don't worry, he said he would come at five. Girl: I'm worried about him. The roads are icy and there is worrying news on the radio. Boy: There is no need to worry. He is a careful driver. Girl: You are right. I'm a real worrier. Boy: Look, here he is. See? Nothing to worry about.",
+   "questions": [
+    {
+     "question": "Why is the girl worried?",
+     "options": [
+      "The bus is late",
+      "She lost her bag",
+      "The roads are icy",
+      "She has a test"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did the worrying news come from?",
+     "options": [
+      "The radio",
+      "A friend",
+      "A letter",
+      "The television"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What kind of driver is Dad?",
+     "options": [
+      "A fast one",
+      "A careful one",
+      "A new one",
+      "A tired one"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Don't worry about it.",
+    "She is a real worrier.",
+    "I lay awake worrying."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Worry",
+    "question_text": "What do you worry about?",
+    "hint_words": [
+     "exams",
+     "family",
+     "future",
+     "money"
+    ]
+   },
+   {
+    "topic": "Advice",
+    "question_text": "What do you say to a friend who is worried?",
+    "hint_words": [
+     "don't worry",
+     "fine",
+     "help",
+     "listen"
+    ]
+   },
+   {
+    "topic": "Sleep",
+    "question_text": "Do you sometimes lie awake worrying?",
+    "hint_words": [
+     "yes",
+     "no",
+     "exam",
+     "night"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 132,
+  "title": "confidence",
+  "vocabulary": [
+   {
+    "word": "have confidence in",
+    "translation_uz": "...ga ishonchi bo'lmoq",
+    "example_sentence": "The coach has confidence in the team."
+   },
+   {
+    "word": "gain confidence",
+    "translation_uz": "ishonch orttirmoq",
+    "example_sentence": "He gained confidence after the first match."
+   },
+   {
+    "word": "lose confidence",
+    "translation_uz": "ishonchini yo'qotmoq",
+    "example_sentence": "She lost confidence after the mistake."
+   },
+   {
+    "word": "build up confidence",
+    "translation_uz": "ishonchni oshirib bormoq",
+    "example_sentence": "Practice builds up your confidence."
+   },
+   {
+    "word": "self-confidence",
+    "translation_uz": "o'ziga ishonch",
+    "example_sentence": "A good teacher helps children with their self-confidence."
+   },
+   {
+    "word": "full of confidence",
+    "translation_uz": "o'ziga to'la ishongan",
+    "example_sentence": "She walked on stage full of confidence."
+   },
+   {
+    "word": "a lack of confidence",
+    "translation_uz": "ishonchning yetishmasligi",
+    "example_sentence": "His shy voice showed a lack of confidence."
+   },
+   {
+    "word": "confident about",
+    "translation_uz": "...ga ishongan",
+    "example_sentence": "I feel confident about the interview."
+   },
+   {
+    "word": "speak with confidence",
+    "translation_uz": "ishonch bilan gapirmoq",
+    "example_sentence": "Speak with confidence and look at the audience."
+   },
+   {
+    "word": "in confidence",
+    "translation_uz": "sir saqlash sharti bilan",
+    "example_sentence": "I'm telling you this in confidence."
+   },
+   {
+    "word": "confidence trick",
+    "translation_uz": "aldov (ishonchni suiiste'mol qilish)",
+    "example_sentence": "Beware of a confidence trick on the internet."
+   },
+   {
+    "word": "a confident smile",
+    "translation_uz": "ishonchli tabassum",
+    "example_sentence": "He gave a confident smile."
+   },
+   {
+    "word": "boost someone's confidence",
+    "translation_uz": "ishonchini mustahkamlamoq",
+    "example_sentence": "Praise can boost a child's confidence."
+   },
+   {
+    "word": "trust",
+    "translation_uz": "ishonch",
+    "example_sentence": "Trust is important between friends."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Our coach has great confidence ___ the new player.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "of",
+     "for",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "He lost his ___ after missing three goals.",
+    "correct_word": "confidence",
+    "options": [
+     "confidence",
+     "confident",
+     "confide",
+     "confiding"
+    ]
+   },
+   {
+    "sentence_with_blank": "She walked on stage full ___ confidence.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "with",
+     "by",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "I feel very confident ___ tomorrow's speech.",
+    "correct_word": "about",
+    "options": [
+     "about",
+     "for",
+     "to",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "Praise can ___ a child's confidence.",
+    "correct_word": "boost",
+    "options": [
+     "boost",
+     "lower",
+     "spoil",
+     "end"
+    ]
+   },
+   {
+    "sentence_with_blank": "Practice will help you ___ up your confidence.",
+    "correct_word": "build",
+    "options": [
+     "build",
+     "get",
+     "make",
+     "do"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Speech Competition",
+   "text": "Madina was shy and she had a lack of confidence in English. Her teacher had confidence in her and said, \"You can win!\" Madina practised every evening in front of the mirror, and slowly she built up her confidence. On the day of the competition she walked on stage full of confidence. She spoke with confidence and gave a confident smile. The audience clapped for a long time. She did not win first prize, but she gained something more important: self-confidence. \"I feel I can do anything now,\" she said.",
+   "key_words": [
+    {
+     "word": "mirror",
+     "translation_uz": "oyna"
+    },
+    {
+     "word": "audience",
+     "translation_uz": "tomoshabinlar"
+    },
+    {
+     "word": "prize",
+     "translation_uz": "sovrin"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did Madina feel about English at the start?",
+     "options": [
+      "She lacked confidence",
+      "She loved it",
+      "She hated it",
+      "She knew everything"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did Madina practise?",
+     "options": [
+      "In the garden",
+      "In the park",
+      "In front of a mirror",
+      "At school"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Madina gain?",
+     "options": [
+      "A prize",
+      "A friend",
+      "A trip",
+      "Self-confidence"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Football Talk",
+   "script": "Coach: You played well, Danny. Danny: Thank you, Coach. I lost confidence after the first half, though. Coach: Why? Danny: I missed a goal. Coach: Everyone makes mistakes. I have full confidence in you. Danny: That boosts my confidence. Coach: Speak with confidence to your team in the next match. Danny: I'll try. I'm feeling confident about Saturday.",
+   "questions": [
+    {
+     "question": "When did Danny lose confidence?",
+     "options": [
+      "Before the match",
+      "After the first half",
+      "At the end",
+      "After the match"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the coach say to him?",
+     "options": [
+      "He has full confidence in him",
+      "He must run more",
+      "He is the captain",
+      "He must sit out"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Which day is the next match?",
+     "options": [
+      "Monday",
+      "Friday",
+      "Sunday",
+      "Saturday"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Speak with confidence.",
+    "I lost my confidence.",
+    "She is full of confidence."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Confidence",
+    "question_text": "When do you feel confident?",
+    "hint_words": [
+     "friends",
+     "home",
+     "practice",
+     "ready"
+    ]
+   },
+   {
+    "topic": "Speaking",
+    "question_text": "Do you speak English with confidence?",
+    "hint_words": [
+     "sometimes",
+     "shy",
+     "practice",
+     "class"
+    ]
+   },
+   {
+    "topic": "Help",
+    "question_text": "How can you boost a friend's confidence?",
+    "hint_words": [
+     "praise",
+     "help",
+     "smile",
+     "encourage"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 133,
+  "title": "disappointment and relief",
+  "vocabulary": [
+   {
+    "word": "feel disappointed",
+    "translation_uz": "hafsalasi pir bo'lmoq",
+    "example_sentence": "I felt disappointed when the trip was cancelled."
+   },
+   {
+    "word": "be disappointed with / in",
+    "translation_uz": "...dan umidi puchga chiqmoq",
+    "example_sentence": "The teacher was disappointed with the results."
+   },
+   {
+    "word": "be disappointed at",
+    "translation_uz": "...dan hafsalasi pir bo'lmoq",
+    "example_sentence": "He was disappointed at the news."
+   },
+   {
+    "word": "to my disappointment",
+    "translation_uz": "afsuski",
+    "example_sentence": "To my disappointment, the shop was closed."
+   },
+   {
+    "word": "a big disappointment",
+    "translation_uz": "katta umidsizlik",
+    "example_sentence": "The film was a big disappointment."
+   },
+   {
+    "word": "disappointing results",
+    "translation_uz": "umidsizlantiruvchi natijalar",
+    "example_sentence": "The team had disappointing results this season."
+   },
+   {
+    "word": "let someone down",
+    "translation_uz": "birovning umidini puchga chiqarmoq",
+    "example_sentence": "I don't want to let my parents down."
+   },
+   {
+    "word": "bitterly disappointed",
+    "translation_uz": "qattiq hafsalasi pir bo'lgan",
+    "example_sentence": "She was bitterly disappointed about the prize."
+   },
+   {
+    "word": "feel relieved",
+    "translation_uz": "yengil tortmoq",
+    "example_sentence": "I felt relieved when I found my keys."
+   },
+   {
+    "word": "a sigh of relief",
+    "translation_uz": "yengil nafas",
+    "example_sentence": "He gave a sigh of relief after the exam."
+   },
+   {
+    "word": "to my relief",
+    "translation_uz": "menga yengillik berib",
+    "example_sentence": "To my relief, the bus was still there."
+   },
+   {
+    "word": "breathe a sigh of relief",
+    "translation_uz": "yengil nafas olmoq",
+    "example_sentence": "We all breathed a sigh of relief."
+   },
+   {
+    "word": "a great relief",
+    "translation_uz": "katta yengillik",
+    "example_sentence": "It was a great relief to hear she was safe."
+   },
+   {
+    "word": "What a relief!",
+    "translation_uz": "Qanday yengillik!",
+    "example_sentence": "What a relief! I've got my passport."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I was very disappointed ___ my exam mark.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "to",
+     "for",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "To my ___, the match was cancelled because of the rain.",
+    "correct_word": "disappointment",
+    "options": [
+     "disappointment",
+     "disappointed",
+     "disappoint",
+     "disappointing"
+    ]
+   },
+   {
+    "sentence_with_blank": "He gave a sigh of ___ when the plane landed.",
+    "correct_word": "relief",
+    "options": [
+     "relief",
+     "reliefs",
+     "relieve",
+     "relieving"
+    ]
+   },
+   {
+    "sentence_with_blank": "To my relief, my friend ___ up on time.",
+    "correct_word": "turned",
+    "options": [
+     "turned",
+     "got",
+     "ran",
+     "made"
+    ]
+   },
+   {
+    "sentence_with_blank": "I felt very ___ when I found my lost phone.",
+    "correct_word": "relieved",
+    "options": [
+     "relieved",
+     "relieving",
+     "relief",
+     "relieve"
+    ]
+   },
+   {
+    "sentence_with_blank": "I don't want to let my parents ___.",
+    "correct_word": "down",
+    "options": [
+     "down",
+     "out",
+     "off",
+     "away"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Cancelled Trip",
+   "text": "Our class was going to the zoo on Friday, but the trip was cancelled because of the weather. To our disappointment, it rained all day. Everyone felt disappointed, and Dilshod was bitterly disappointed because it was his birthday. Our teacher did not want to let us down, so she brought games to class. We played until lunchtime. Then, to our relief, the sun came out and we had lunch outside. What a relief! The day was not a big disappointment after all.",
+   "key_words": [
+    {
+     "word": "cancel",
+     "translation_uz": "bekor qilmoq"
+    },
+    {
+     "word": "weather",
+     "translation_uz": "ob-havo"
+    },
+    {
+     "word": "lunchtime",
+     "translation_uz": "tushlik vaqti"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was the trip cancelled?",
+     "options": [
+      "The bus broke down",
+      "The weather was bad",
+      "The zoo was closed",
+      "The teacher was ill"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why was Dilshod especially sad?",
+     "options": [
+      "He was ill",
+      "He lost his bag",
+      "It was his birthday",
+      "He was late"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the teacher bring?",
+     "options": [
+      "Books",
+      "Food",
+      "Tickets",
+      "Games"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Exam Results",
+   "script": "Nadia: Did you get your results? Omar: Yes, and I feel disappointed. I got a low mark in maths. Nadia: Oh no, I'm sorry. Omar: I didn't want to let my teacher down. Nadia: Don't worry. Look, here is a message from her. Omar: She says I can do the test again. What a relief! Nadia: I'm so glad. Omar breathed a sigh of relief.",
+   "questions": [
+    {
+     "question": "Which subject was Omar's result in?",
+     "options": [
+      "English",
+      "History",
+      "Maths",
+      "Science"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who sent Omar a message?",
+     "options": [
+      "His teacher",
+      "His mother",
+      "Nadia",
+      "His brother"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What can Omar do?",
+     "options": [
+      "Do the test again",
+      "Go home",
+      "Choose another subject",
+      "Skip the exam"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I felt very relieved.",
+    "It was a disappointment.",
+    "What a relief!"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Disappointment",
+    "question_text": "When were you last disappointed?",
+    "hint_words": [
+     "trip",
+     "result",
+     "game",
+     "gift"
+    ]
+   },
+   {
+    "topic": "Relief",
+    "question_text": "When do you feel relieved?",
+    "hint_words": [
+     "after exam",
+     "found",
+     "safe",
+     "finished"
+    ]
+   },
+   {
+    "topic": "Parents",
+    "question_text": "Do you want to avoid letting your parents down?",
+    "hint_words": [
+     "study",
+     "marks",
+     "help",
+     "good"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 134,
+  "title": "surprise and shock",
+  "vocabulary": [
+   {
+    "word": "a pleasant surprise",
+    "translation_uz": "yoqimli syurpriz",
+    "example_sentence": "The gift was a pleasant surprise."
+   },
+   {
+    "word": "a big surprise",
+    "translation_uz": "katta syurpriz",
+    "example_sentence": "The news came as a big surprise."
+   },
+   {
+    "word": "take someone by surprise",
+    "translation_uz": "birovni hayratda qoldirmoq",
+    "example_sentence": "The question took me by surprise."
+   },
+   {
+    "word": "to my surprise",
+    "translation_uz": "hayratimga ko'ra",
+    "example_sentence": "To my surprise, I won the prize."
+   },
+   {
+    "word": "in surprise",
+    "translation_uz": "hayratda",
+    "example_sentence": "She looked up in surprise."
+   },
+   {
+    "word": "be surprised at",
+    "translation_uz": "...ga hayron bo'lmoq",
+    "example_sentence": "I was surprised at the price."
+   },
+   {
+    "word": "be surprised by",
+    "translation_uz": "...dan hayratlanmoq",
+    "example_sentence": "We were surprised by his speed."
+   },
+   {
+    "word": "a surprise party",
+    "translation_uz": "syurpriz bayram",
+    "example_sentence": "They planned a surprise party for her."
+   },
+   {
+    "word": "get a shock",
+    "translation_uz": "larzaga tushmoq (hayratdan)",
+    "example_sentence": "I got a shock when I saw the bill."
+   },
+   {
+    "word": "a nasty shock",
+    "translation_uz": "yomon zarba (kutilmagan)",
+    "example_sentence": "It was a nasty shock to find the door open."
+   },
+   {
+    "word": "a terrible shock",
+    "translation_uz": "dahshatli zarba",
+    "example_sentence": "The news was a terrible shock."
+   },
+   {
+    "word": "be in shock",
+    "translation_uz": "shokda bo'lmoq",
+    "example_sentence": "After the fall he was in shock."
+   },
+   {
+    "word": "shocking news",
+    "translation_uz": "dahshatli xabar",
+    "example_sentence": "The shocking news upset everyone."
+   },
+   {
+    "word": "be shocked by",
+    "translation_uz": "...dan larzaga tushmoq",
+    "example_sentence": "I was shocked by the rudeness."
+   },
+   {
+    "word": "gasp in surprise",
+    "translation_uz": "hayratdan nafasi to'xtab qolmoq",
+    "example_sentence": "The audience gasped in surprise."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The gift was a very pleasant ___.",
+    "correct_word": "surprise",
+    "options": [
+     "surprise",
+     "surprised",
+     "surprising",
+     "surprises"
+    ]
+   },
+   {
+    "sentence_with_blank": "To my ___, the door was open.",
+    "correct_word": "surprise",
+    "options": [
+     "surprise",
+     "surprising",
+     "surprised",
+     "shocked"
+    ]
+   },
+   {
+    "sentence_with_blank": "She looked up ___ surprise when I called her name.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "by",
+     "from",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "I was surprised ___ the high price of the ticket.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "for",
+     "to",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "The news came as a terrible ___ to the family.",
+    "correct_word": "shock",
+    "options": [
+     "shock",
+     "shocked",
+     "shocking",
+     "shocks"
+    ]
+   },
+   {
+    "sentence_with_blank": "We planned a surprise ___ for our grandmother.",
+    "correct_word": "party",
+    "options": [
+     "party",
+     "parting",
+     "meeting",
+     "partner"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Surprise Party",
+   "text": "For my twelfth birthday, my parents took me to a restaurant. I thought it was a normal dinner. To my surprise, when I opened the door, all my friends shouted \"Happy birthday!\" I was in shock for a moment and then I gasped in surprise. It was a surprise party! My cousin said it took me by surprise because they had kept the secret for a month. It was a very pleasant surprise. I was surprised at how many presents there were. It was the best birthday ever.",
+   "key_words": [
+    {
+     "word": "secret",
+     "translation_uz": "sir"
+    },
+    {
+     "word": "present",
+     "translation_uz": "sovg'a"
+    },
+    {
+     "word": "cousin",
+     "translation_uz": "amakivachcha"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How old was the writer?",
+     "options": [
+      "Ten",
+      "Eleven",
+      "Twelve",
+      "Thirteen"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who was at the restaurant?",
+     "options": [
+      "The writer's friends",
+      "The writer's teachers",
+      "Only the family",
+      "Nobody"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long was the secret kept?",
+     "options": [
+      "A week",
+      "A month",
+      "A year",
+      "A day"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Shocking News",
+   "script": "Tim: Did you hear the news? Our school is going to close for a week! Sue: What? That's a shock! Tim: It's because of the broken heating. Sue: I was surprised at that. I thought it was working. Tim: To my surprise, the head teacher told me this morning. Sue: Well, it is a pleasant surprise for us, a week off! Tim: Yes, but we must do homework at home.",
+   "questions": [
+    {
+     "question": "Why will the school close?",
+     "options": [
+      "Because of a storm",
+      "Because of a holiday",
+      "Because of the broken heating",
+      "Because of a fire"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who told Tim?",
+     "options": [
+      "Sue",
+      "The head teacher",
+      "A friend",
+      "His mother"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What must the students do at home?",
+     "options": [
+      "Clean up",
+      "Read books",
+      "Play games",
+      "Do homework"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "It was a nasty shock.",
+    "She looked up in surprise.",
+    "What a pleasant surprise!"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Surprise",
+    "question_text": "What was the best surprise you ever had?",
+    "hint_words": [
+     "gift",
+     "party",
+     "visit",
+     "news"
+    ]
+   },
+   {
+    "topic": "Shock",
+    "question_text": "When did you last get a shock?",
+    "hint_words": [
+     "noise",
+     "news",
+     "test",
+     "dark"
+    ]
+   },
+   {
+    "topic": "Parties",
+    "question_text": "Do you like surprise parties?",
+    "hint_words": [
+     "yes",
+     "secret",
+     "friends",
+     "cake"
+    ]
+   }
+  ]
+ }
+]

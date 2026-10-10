@@ -1,0 +1,1564 @@
+[
+ {
+  "unit": 146,
+  "title": "hospital, doctor",
+  "vocabulary": [
+   {
+    "word": "go to hospital",
+    "translation_uz": "kasalxonaga bormoq",
+    "example_sentence": "My grandfather had to go to hospital."
+   },
+   {
+    "word": "be in hospital",
+    "translation_uz": "kasalxonada yotmoq",
+    "example_sentence": "She was in hospital for three days."
+   },
+   {
+    "word": "take someone to hospital",
+    "translation_uz": "kimnidir kasalxonaga olib bormoq",
+    "example_sentence": "Dad took me to hospital in the car."
+   },
+   {
+    "word": "leave hospital",
+    "translation_uz": "kasalxonadan chiqmoq",
+    "example_sentence": "He left hospital on Friday."
+   },
+   {
+    "word": "a children's hospital",
+    "translation_uz": "bolalar kasalxonasi",
+    "example_sentence": "The children's hospital has colourful walls."
+   },
+   {
+    "word": "a hospital bed",
+    "translation_uz": "kasalxona karavoti",
+    "example_sentence": "The hospital bed was clean and soft."
+   },
+   {
+    "word": "see a doctor",
+    "translation_uz": "shifokorga ko'rinmoq",
+    "example_sentence": "You should see a doctor about that cough."
+   },
+   {
+    "word": "call a doctor",
+    "translation_uz": "shifokorni chaqirmoq",
+    "example_sentence": "Mum called a doctor when I felt ill."
+   },
+   {
+    "word": "a family doctor",
+    "translation_uz": "oilaviy shifokor",
+    "example_sentence": "Our family doctor is very kind."
+   },
+   {
+    "word": "the doctor's surgery",
+    "translation_uz": "shifokor qabulxonasi",
+    "example_sentence": "We waited at the doctor's surgery for an hour."
+   },
+   {
+    "word": "make an appointment with the doctor",
+    "translation_uz": "shifokorga yozilmoq",
+    "example_sentence": "I made an appointment with the doctor for Monday."
+   },
+   {
+    "word": "a good doctor",
+    "translation_uz": "yaxshi shifokor",
+    "example_sentence": "A good doctor listens carefully."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My brother was ill, so we ___ him to hospital.",
+    "correct_word": "took",
+    "options": [
+     "took",
+     "wrote",
+     "painted",
+     "won",
+     "see"
+    ]
+   },
+   {
+    "sentence_with_blank": "You should ___ a doctor if you feel very ill.",
+    "correct_word": "see",
+    "options": [
+     "see",
+     "wear",
+     "sell",
+     "jump",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandmother was ___ hospital for a week.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "of",
+     "by",
+     "drew"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ an appointment with the doctor for tomorrow.",
+    "correct_word": "make",
+    "options": [
+     "make",
+     "carry",
+     "grow",
+     "kick",
+     "wrote"
+    ]
+   },
+   {
+    "sentence_with_blank": "He felt better and ___ hospital on Sunday.",
+    "correct_word": "left",
+    "options": [
+     "left",
+     "ate",
+     "drew",
+     "lost",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our family ___ always gives us good advice.",
+    "correct_word": "doctor",
+    "options": [
+     "doctor",
+     "bed",
+     "ball",
+     "team",
+     "kick"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Week in Hospital",
+   "text": "Last month I had to go to hospital. I was in hospital for four days. My bed was next to a big window. Every morning a doctor came to see me and asked, \"How do you feel today?\" The nurses were kind and brought me soup. On Friday I left hospital, and my parents took me home.",
+   "key_words": [
+    {
+     "word": "nurses",
+     "translation_uz": "hamshiralar"
+    },
+    {
+     "word": "window",
+     "translation_uz": "deraza"
+    },
+    {
+     "word": "soup",
+     "translation_uz": "sho'rva"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long was the writer in hospital?",
+     "options": [
+      "Four days",
+      "Two days",
+      "A month",
+      "Ten days"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the doctor ask each morning?",
+     "options": [
+      "Where is your bag?",
+      "How do you feel today?",
+      "What is your name?",
+      "Do you like soup?"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When did the writer leave hospital?",
+     "options": [
+      "On Monday",
+      "On Sunday",
+      "On Friday",
+      "On Wednesday"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Doctor's",
+   "script": "Yesterday I did not feel well, so Mum called our family doctor. She made an appointment for four o'clock. We went to the doctor's surgery and waited for ten minutes. The doctor looked at me and said I did not need to go to hospital. I only needed to rest at home.",
+   "questions": [
+    {
+     "question": "Who called the doctor?",
+     "options": [
+      "Dad",
+      "The speaker",
+      "A teacher",
+      "Mum"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What time was the appointment?",
+     "options": [
+      "Four o'clock",
+      "Two o'clock",
+      "Ten o'clock",
+      "Six o'clock"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the doctor say?",
+     "options": [
+      "Go to hospital",
+      "Rest at home",
+      "Go to school",
+      "Run every day"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I went to hospital.",
+    "See a doctor today.",
+    "She is a good doctor."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Health",
+    "question_text": "Have you ever been to hospital?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "when I was"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "When do people see a doctor?",
+    "hint_words": [
+     "ill",
+     "pain",
+     "check-up",
+     "fever"
+    ]
+   },
+   {
+    "topic": "Jobs",
+    "question_text": "Would you like to be a doctor? Why?",
+    "hint_words": [
+     "help",
+     "people",
+     "hospital",
+     "kind"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 147,
+  "title": "headache, cough, cold, virus",
+  "vocabulary": [
+   {
+    "word": "have a headache",
+    "translation_uz": "boshi og'rimoq",
+    "example_sentence": "I have a headache after the long lesson."
+   },
+   {
+    "word": "a terrible headache",
+    "translation_uz": "qattiq bosh og'rig'i",
+    "example_sentence": "He had a terrible headache last night."
+   },
+   {
+    "word": "get a headache",
+    "translation_uz": "boshi og'rib qolmoq",
+    "example_sentence": "I get a headache when I read in bad light."
+   },
+   {
+    "word": "have a cough",
+    "translation_uz": "yo'talmoq",
+    "example_sentence": "She has a cough and a sore throat."
+   },
+   {
+    "word": "a dry cough",
+    "translation_uz": "quruq yo'tal",
+    "example_sentence": "A dry cough can last for days."
+   },
+   {
+    "word": "cough all night",
+    "translation_uz": "tun bo'yi yo'talmoq",
+    "example_sentence": "The baby coughed all night."
+   },
+   {
+    "word": "catch a cold",
+    "translation_uz": "shamollamoq",
+    "example_sentence": "Wear a hat, or you will catch a cold."
+   },
+   {
+    "word": "have a cold",
+    "translation_uz": "shamollagan bo'lmoq",
+    "example_sentence": "I have a cold, so I stayed in bed."
+   },
+   {
+    "word": "a bad cold",
+    "translation_uz": "qattiq shamollash",
+    "example_sentence": "My dad has a bad cold this week."
+   },
+   {
+    "word": "a runny nose",
+    "translation_uz": "burun oqishi",
+    "example_sentence": "With a cold you often have a runny nose."
+   },
+   {
+    "word": "catch a virus",
+    "translation_uz": "virus yuqtirmoq",
+    "example_sentence": "Many children caught a virus at school."
+   },
+   {
+    "word": "a flu virus",
+    "translation_uz": "gripp virusi",
+    "example_sentence": "A flu virus spreads quickly in winter."
+   },
+   {
+    "word": "a stomach virus",
+    "translation_uz": "oshqozon virusi",
+    "example_sentence": "He missed school with a stomach virus."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Put on a warm coat, or you will ___ a cold.",
+    "correct_word": "catch",
+    "options": [
+     "catch",
+     "drive",
+     "build",
+     "win",
+     "terrible"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a ___ headache and I need to lie down.",
+    "correct_word": "terrible",
+    "options": [
+     "terrible",
+     "square",
+     "tasty",
+     "lucky",
+     "wife"
+    ]
+   },
+   {
+    "sentence_with_blank": "He has a dry ___ and a sore throat.",
+    "correct_word": "cough",
+    "options": [
+     "cough",
+     "ball",
+     "pill",
+     "wife",
+     "ear"
+    ]
+   },
+   {
+    "sentence_with_blank": "Half of my class ___ a virus last week.",
+    "correct_word": "caught",
+    "options": [
+     "caught",
+     "kicked",
+     "cooked",
+     "drew",
+     "drive"
+    ]
+   },
+   {
+    "sentence_with_blank": "I think I'm getting a cold. I have a runny ___.",
+    "correct_word": "nose",
+    "options": [
+     "nose",
+     "knee",
+     "ear",
+     "hand",
+     "cough"
+    ]
+   },
+   {
+    "sentence_with_blank": "She stayed at home because she had a ___ cold.",
+    "correct_word": "bad",
+    "options": [
+     "bad",
+     "blue",
+     "long",
+     "loud",
+     "drew"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Staying Home",
+   "text": "This week I caught a cold. I have a runny nose and a dry cough, and last night I had a terrible headache. Mum says a virus is going around at school. She made me hot tea with honey and told me to stay in bed. I coughed a little all night, but this morning I feel a bit better.",
+   "key_words": [
+    {
+     "word": "honey",
+     "translation_uz": "asal"
+    },
+    {
+     "word": "tea",
+     "translation_uz": "choy"
+    },
+    {
+     "word": "stay in bed",
+     "translation_uz": "yotib dam olmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer catch?",
+     "options": [
+      "A ball",
+      "A fish",
+      "A bus",
+      "A cold"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Mum make?",
+     "options": [
+      "Hot tea with honey",
+      "Cold juice",
+      "A cake",
+      "Fried eggs"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How does the writer feel this morning?",
+     "options": [
+      "Much worse",
+      "A bit better",
+      "Very hungry",
+      "Very angry"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Class with a Cough",
+   "script": "In our class many pupils have a cold. A flu virus is going around school. Ali has a bad cough, and Dilya has a headache. The teacher told everybody to wash their hands. She also said that sick pupils should stay at home and rest.",
+   "questions": [
+    {
+     "question": "What is going around school?",
+     "options": [
+      "A fire",
+      "A bus",
+      "A flu virus",
+      "A football game"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who has a headache?",
+     "options": [
+      "Ali",
+      "The teacher",
+      "The doctor",
+      "Dilya"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the teacher tell everybody to do?",
+     "options": [
+      "Wash their hands",
+      "Run outside",
+      "Open a window",
+      "Write a letter"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I have a headache.",
+    "She caught a cold.",
+    "He has a bad cough."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Health",
+    "question_text": "What do you do when you have a cold?",
+    "hint_words": [
+     "stay in bed",
+     "tea",
+     "rest",
+     "drink"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Do you often get a headache?",
+    "hint_words": [
+     "yes",
+     "sometimes",
+     "never",
+     "after school"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "How can we stop a virus from spreading?",
+    "hint_words": [
+     "wash hands",
+     "stay home",
+     "mask",
+     "clean"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 148,
+  "title": "medicine, pill, injection",
+  "vocabulary": [
+   {
+    "word": "take medicine",
+    "translation_uz": "dori ichmoq",
+    "example_sentence": "You must take your medicine after lunch."
+   },
+   {
+    "word": "a bottle of medicine",
+    "translation_uz": "bir shisha dori",
+    "example_sentence": "There is a bottle of medicine on the shelf."
+   },
+   {
+    "word": "prescribe medicine",
+    "translation_uz": "dori yozib bermoq",
+    "example_sentence": "The doctor prescribed medicine for my cough."
+   },
+   {
+    "word": "cough medicine",
+    "translation_uz": "yo'tal dorisi",
+    "example_sentence": "This cough medicine tastes sweet."
+   },
+   {
+    "word": "take a pill",
+    "translation_uz": "tabletka ichmoq",
+    "example_sentence": "Take one pill with water."
+   },
+   {
+    "word": "a sleeping pill",
+    "translation_uz": "uyqu tabletkasi",
+    "example_sentence": "Grandpa never takes a sleeping pill."
+   },
+   {
+    "word": "swallow a pill",
+    "translation_uz": "tabletkani yutmoq",
+    "example_sentence": "It is hard for small children to swallow a pill."
+   },
+   {
+    "word": "a pill for headaches",
+    "translation_uz": "bosh og'rig'i tabletkasi",
+    "example_sentence": "I need a pill for my headache."
+   },
+   {
+    "word": "have an injection",
+    "translation_uz": "ukol qilmoq",
+    "example_sentence": "I had an injection at the clinic."
+   },
+   {
+    "word": "give someone an injection",
+    "translation_uz": "kimgadir ukol qilmoq",
+    "example_sentence": "The nurse gave me an injection very gently."
+   },
+   {
+    "word": "a flu injection",
+    "translation_uz": "gripp ukoli",
+    "example_sentence": "Grandma gets a flu injection every autumn."
+   },
+   {
+    "word": "be afraid of injections",
+    "translation_uz": "ukoldan qo'rqmoq",
+    "example_sentence": "Some children are afraid of injections."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The doctor told me to ___ this medicine twice a day.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "kick",
+     "throw",
+     "paint",
+     "swallow"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is hard to ___ a big pill without water.",
+    "correct_word": "swallow",
+    "options": [
+     "swallow",
+     "cook",
+     "write",
+     "climb",
+     "wore"
+    ]
+   },
+   {
+    "sentence_with_blank": "The nurse ___ me an injection in my arm.",
+    "correct_word": "gave",
+    "options": [
+     "gave",
+     "ate",
+     "won",
+     "wore",
+     "wrap"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need a ___ of medicine for my cough.",
+    "correct_word": "bottle",
+    "options": [
+     "bottle",
+     "flight",
+     "team",
+     "wedding",
+     "kick"
+    ]
+   },
+   {
+    "sentence_with_blank": "The doctor wrote a note to ___ medicine for her.",
+    "correct_word": "prescribe",
+    "options": [
+     "prescribe",
+     "invite",
+     "wrap",
+     "score",
+     "gave"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people have a flu injection ___ winter starts.",
+    "correct_word": "before",
+    "options": [
+     "before",
+     "but",
+     "or",
+     "so",
+     "wedding"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Taking Medicine",
+   "text": "When I am ill, I always take my medicine. Last week the doctor prescribed a bottle of cough medicine and some pills. I swallowed one pill every morning. I was afraid of injections, but I did not need one this time. After five days my cough was gone, and I felt strong again.",
+   "key_words": [
+    {
+     "word": "strong",
+     "translation_uz": "kuchli"
+    },
+    {
+     "word": "gone",
+     "translation_uz": "ketgan"
+    },
+    {
+     "word": "morning",
+     "translation_uz": "ertalab"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the doctor prescribe?",
+     "options": [
+      "Only an injection",
+      "Only a drink",
+      "Some sweets",
+      "Cough medicine and pills"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When did the writer swallow a pill?",
+     "options": [
+      "Every morning",
+      "Every night",
+      "Once a week",
+      "Only on Sunday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Did the writer need an injection?",
+     "options": [
+      "Yes, two",
+      "No, not this time",
+      "Yes, one",
+      "Yes, on Friday"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Visit to the Clinic",
+   "script": "Yesterday my little sister went to the clinic for a flu injection. She was a bit afraid, so Mum held her hand. The nurse gave her the injection very quickly. It did not hurt much. Afterwards, the nurse gave her a sticker, and my sister smiled all the way home.",
+   "questions": [
+    {
+     "question": "Why did the sister go to the clinic?",
+     "options": [
+      "For a football game",
+      "For a lesson",
+      "For a flu injection",
+      "For a birthday"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who held her hand?",
+     "options": [
+      "Dad",
+      "The nurse",
+      "The doctor",
+      "Mum"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the nurse give her afterwards?",
+     "options": [
+      "A sticker",
+      "A pill",
+      "A book",
+      "A ball"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Take this medicine.",
+    "I swallowed a pill.",
+    "She had an injection."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Health",
+    "question_text": "When do you take medicine?",
+    "hint_words": [
+     "when ill",
+     "doctor",
+     "pill",
+     "water"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Are you afraid of injections?",
+    "hint_words": [
+     "yes",
+     "no",
+     "a little",
+     "brave"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Is it easy to swallow a pill?",
+    "hint_words": [
+     "easy",
+     "hard",
+     "water",
+     "small"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 149,
+  "title": "blood, bandage, stitches, x-ray",
+  "vocabulary": [
+   {
+    "word": "give blood",
+    "translation_uz": "qon topshirmoq",
+    "example_sentence": "Adults can give blood at the hospital."
+   },
+   {
+    "word": "a drop of blood",
+    "translation_uz": "bir tomchi qon",
+    "example_sentence": "I saw a drop of blood on my finger."
+   },
+   {
+    "word": "lose blood",
+    "translation_uz": "qon yo'qotmoq",
+    "example_sentence": "He lost a little blood from the cut."
+   },
+   {
+    "word": "a blood test",
+    "translation_uz": "qon tahlili",
+    "example_sentence": "The doctor ordered a blood test."
+   },
+   {
+    "word": "blood group",
+    "translation_uz": "qon guruhi",
+    "example_sentence": "What is your blood group?"
+   },
+   {
+    "word": "put on a bandage",
+    "translation_uz": "bint o'ramoq",
+    "example_sentence": "The nurse put a bandage on my arm."
+   },
+   {
+    "word": "wear a bandage",
+    "translation_uz": "bint bog'lab yurmoq",
+    "example_sentence": "He wore a bandage on his knee for a week."
+   },
+   {
+    "word": "a bandage on your hand",
+    "translation_uz": "qo'ldagi bint",
+    "example_sentence": "She had a bandage on her hand."
+   },
+   {
+    "word": "need stitches",
+    "translation_uz": "tikuv kerak bo'lmoq",
+    "example_sentence": "He fell and needed stitches in his chin."
+   },
+   {
+    "word": "have stitches",
+    "translation_uz": "tikuv qo'yilmoq",
+    "example_sentence": "I had three stitches in my arm."
+   },
+   {
+    "word": "take out the stitches",
+    "translation_uz": "tikuvni olib tashlamoq",
+    "example_sentence": "The doctor took out the stitches after a week."
+   },
+   {
+    "word": "have an x-ray",
+    "translation_uz": "rentgen qildirmoq",
+    "example_sentence": "I had an x-ray of my foot."
+   },
+   {
+    "word": "take an x-ray",
+    "translation_uz": "rentgen olmoq",
+    "example_sentence": "The nurse took an x-ray of his arm."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The doctor will ___ an x-ray of your leg.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "grow",
+     "sing",
+     "cook",
+     "bandage"
+    ]
+   },
+   {
+    "sentence_with_blank": "The nurse put a ___ on my knee.",
+    "correct_word": "bandage",
+    "options": [
+     "bandage",
+     "stadium",
+     "ticket",
+     "virus",
+     "won"
+    ]
+   },
+   {
+    "sentence_with_blank": "He fell off his bike and ___ stitches.",
+    "correct_word": "needed",
+    "options": [
+     "needed",
+     "missed",
+     "hid",
+     "won",
+     "goal"
+    ]
+   },
+   {
+    "sentence_with_blank": "People can ___ blood to help sick patients.",
+    "correct_word": "give",
+    "options": [
+     "give",
+     "kick",
+     "wrap",
+     "build",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "I had a blood ___ at the clinic this morning.",
+    "correct_word": "test",
+    "options": [
+     "test",
+     "party",
+     "goal",
+     "cake",
+     "hid"
+    ]
+   },
+   {
+    "sentence_with_blank": "The doctor will ___ out the stitches next Tuesday.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "paint",
+     "fill",
+     "sing",
+     "cake"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Fall from the Bike",
+   "text": "On Saturday I fell off my bike and hurt my arm. There was a little blood, but my dad stayed calm. We went to the hospital, and the doctor took an x-ray. My arm was not broken, but I needed three stitches. The nurse put a bandage over them. I wore the bandage for a week, then the doctor took out the stitches.",
+   "key_words": [
+    {
+     "word": "broken",
+     "translation_uz": "singan"
+    },
+    {
+     "word": "calm",
+     "translation_uz": "xotirjam"
+    },
+    {
+     "word": "hurt",
+     "translation_uz": "og'ritdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer fall off?",
+     "options": [
+      "A bike",
+      "A horse",
+      "A wall",
+      "A tree"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How many stitches did the writer need?",
+     "options": [
+      "One",
+      "Three",
+      "Five",
+      "Ten"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the doctor do after a week?",
+     "options": [
+      "Took another x-ray",
+      "Gave an injection",
+      "Took out the stitches",
+      "Called a nurse"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Giving Blood",
+   "script": "My uncle gives blood every year. He goes to the hospital, and a nurse takes a little blood from his arm. First, she does a blood test and asks about his blood group. After that, she puts a small bandage on his arm. Giving blood helps people who are very ill.",
+   "questions": [
+    {
+     "question": "How often does the uncle give blood?",
+     "options": [
+      "Every day",
+      "Every week",
+      "Never",
+      "Every year"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the nurse ask about?",
+     "options": [
+      "His blood group",
+      "His school",
+      "His job",
+      "His car"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the nurse put on his arm?",
+     "options": [
+      "A watch",
+      "A small bandage",
+      "Some stitches",
+      "A sticker"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I need a bandage.",
+    "He had an x-ray.",
+    "She gave blood."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Health",
+    "question_text": "Have you ever had an x-ray?",
+    "hint_words": [
+     "yes",
+     "no",
+     "my arm",
+     "leg"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "What do you do if you cut your finger?",
+    "hint_words": [
+     "bandage",
+     "wash",
+     "tell",
+     "doctor"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Why do people give blood?",
+    "hint_words": [
+     "help",
+     "ill people",
+     "hospital",
+     "kind"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 150,
+  "title": "ball, football",
+  "vocabulary": [
+   {
+    "word": "kick a ball",
+    "translation_uz": "to'pni tepmoq",
+    "example_sentence": "The boy kicked the ball over the wall."
+   },
+   {
+    "word": "throw a ball",
+    "translation_uz": "to'p otmoq",
+    "example_sentence": "Throw the ball to me!"
+   },
+   {
+    "word": "catch a ball",
+    "translation_uz": "to'pni ushlamoq",
+    "example_sentence": "She can catch a ball with one hand."
+   },
+   {
+    "word": "hit a ball",
+    "translation_uz": "to'pga urmoq",
+    "example_sentence": "He hit the ball very hard."
+   },
+   {
+    "word": "bounce a ball",
+    "translation_uz": "to'pni sakratmoq",
+    "example_sentence": "The child bounced the ball on the ground."
+   },
+   {
+    "word": "pass the ball",
+    "translation_uz": "to'pni uzatmoq",
+    "example_sentence": "Pass the ball to your teammate."
+   },
+   {
+    "word": "a ball game",
+    "translation_uz": "to'p o'yini",
+    "example_sentence": "Tennis is a popular ball game."
+   },
+   {
+    "word": "play football",
+    "translation_uz": "futbol o'ynamoq",
+    "example_sentence": "We play football after school."
+   },
+   {
+    "word": "a football match",
+    "translation_uz": "futbol o'yini",
+    "example_sentence": "We watched a football match on TV."
+   },
+   {
+    "word": "a football team",
+    "translation_uz": "futbol jamoasi",
+    "example_sentence": "My brother is in the school football team."
+   },
+   {
+    "word": "a football pitch",
+    "translation_uz": "futbol maydoni",
+    "example_sentence": "The football pitch is behind the school."
+   },
+   {
+    "word": "a football fan",
+    "translation_uz": "futbol muxlisi",
+    "example_sentence": "My uncle is a big football fan."
+   },
+   {
+    "word": "support a football team",
+    "translation_uz": "futbol jamoasini qo'llab-quvvatlamoq",
+    "example_sentence": "Which football team do you support?"
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The goalkeeper managed to ___ the ball with both hands.",
+    "correct_word": "catch",
+    "options": [
+     "catch",
+     "drink",
+     "build",
+     "borrow",
+     "pass"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the ball to Ali, he is free!",
+    "correct_word": "pass",
+    "options": [
+     "pass",
+     "eat",
+     "read",
+     "open",
+     "homework"
+    ]
+   },
+   {
+    "sentence_with_blank": "We usually play ___ in the park on Saturday.",
+    "correct_word": "football",
+    "options": [
+     "football",
+     "stairs",
+     "medicine",
+     "homework",
+     "wife"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ the ball so hard that it flew over the fence.",
+    "correct_word": "kicked",
+    "options": [
+     "kicked",
+     "wrote",
+     "slept",
+     "wore",
+     "drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "My father is a big football ___ and goes to every match.",
+    "correct_word": "fan",
+    "options": [
+     "fan",
+     "pill",
+     "wife",
+     "cold",
+     "football"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boys ran onto the football ___ to start the game.",
+    "correct_word": "pitch",
+    "options": [
+     "pitch",
+     "bed",
+     "desk",
+     "kitchen",
+     "wore"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Football After School",
+   "text": "Every day after school, we play football on the pitch behind the school. I am in the school football team. Yesterday Ali kicked the ball very high, and I had to catch it. Then I passed it to Sami, and he ran fast. We love the game, and our coach says we are getting better.",
+   "key_words": [
+    {
+     "word": "coach",
+     "translation_uz": "murabbiy"
+    },
+    {
+     "word": "pitch",
+     "translation_uz": "maydon"
+    },
+    {
+     "word": "ran",
+     "translation_uz": "yugurdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where do the children play football?",
+     "options": [
+      "In the street",
+      "At the park",
+      "On the pitch behind the school",
+      "In the gym"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the writer have to do with the high ball?",
+     "options": [
+      "Kick it again",
+      "Throw it away",
+      "Hide it",
+      "Catch it"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the coach say?",
+     "options": [
+      "They are getting better",
+      "They are late",
+      "They are too loud",
+      "They must stop"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Football Fan",
+   "script": "My uncle is a big football fan. He supports a team from our city. On Sundays we watch a football match on TV together. He shouts when the players kick the ball into the goal. When I was little, he gave me a red ball for my birthday. Now we play a ball game in the garden every weekend.",
+   "questions": [
+    {
+     "question": "What does the uncle do on Sundays?",
+     "options": [
+      "Goes to work",
+      "Watches football with the speaker",
+      "Cooks lunch",
+      "Sleeps all day"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the uncle give the speaker as a child?",
+     "options": [
+      "A blue shirt",
+      "A book",
+      "A red ball",
+      "A bike"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where do they play a ball game?",
+     "options": [
+      "At the beach",
+      "At school",
+      "In the hall",
+      "In the garden"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "He kicked the ball.",
+    "We play football.",
+    "Pass the ball to me."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sport",
+    "question_text": "Do you like playing football?",
+    "hint_words": [
+     "yes",
+     "no",
+     "goal",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "Which football team do you support?",
+    "hint_words": [
+     "I support",
+     "my team",
+     "favourite",
+     "city"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "What ball games do you know?",
+    "hint_words": [
+     "tennis",
+     "basketball",
+     "volleyball",
+     "football"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 151,
+  "title": "score, result, player",
+  "vocabulary": [
+   {
+    "word": "score a goal",
+    "translation_uz": "gol urmoq",
+    "example_sentence": "He scored a goal in the last minute."
+   },
+   {
+    "word": "the final score",
+    "translation_uz": "yakuniy hisob",
+    "example_sentence": "The final score was three to two."
+   },
+   {
+    "word": "a high score",
+    "translation_uz": "yuqori ball",
+    "example_sentence": "She got a high score on the test."
+   },
+   {
+    "word": "keep the score",
+    "translation_uz": "hisobni yuritmoq",
+    "example_sentence": "Can you keep the score for us?"
+   },
+   {
+    "word": "win by a big score",
+    "translation_uz": "katta hisob bilan yutmoq",
+    "example_sentence": "Our team won by a big score."
+   },
+   {
+    "word": "get a good result",
+    "translation_uz": "yaxshi natija olmoq",
+    "example_sentence": "I got a good result in maths."
+   },
+   {
+    "word": "the result of the match",
+    "translation_uz": "o'yin natijasi",
+    "example_sentence": "The result of the match was a draw."
+   },
+   {
+    "word": "exam results",
+    "translation_uz": "imtihon natijalari",
+    "example_sentence": "The exam results come out next week."
+   },
+   {
+    "word": "a football player",
+    "translation_uz": "futbolchi",
+    "example_sentence": "My brother wants to be a football player."
+   },
+   {
+    "word": "a team player",
+    "translation_uz": "jamoaviy o'yinchi",
+    "example_sentence": "A good team player shares the ball."
+   },
+   {
+    "word": "the best player",
+    "translation_uz": "eng yaxshi o'yinchi",
+    "example_sentence": "Who is the best player in your team?"
+   },
+   {
+    "word": "a young player",
+    "translation_uz": "yosh o'yinchi",
+    "example_sentence": "He is a young player with a great future."
+   },
+   {
+    "word": "a chess player",
+    "translation_uz": "shaxmatchi",
+    "example_sentence": "My grandfather is a chess player."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He ran fast and ___ a goal in the first minute.",
+    "correct_word": "scored",
+    "options": [
+     "scored",
+     "cooked",
+     "sold",
+     "wore",
+     "score"
+    ]
+   },
+   {
+    "sentence_with_blank": "The final ___ was two to one.",
+    "correct_word": "score",
+    "options": [
+     "score",
+     "wedding",
+     "pill",
+     "stair",
+     "bandage"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our team got a good ___ in the match.",
+    "correct_word": "result",
+    "options": [
+     "result",
+     "cough",
+     "parent",
+     "bandage",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "A good team ___ always passes the ball.",
+    "correct_word": "player",
+    "options": [
+     "player",
+     "doctor",
+     "husband",
+     "baby",
+     "cooked"
+    ]
+   },
+   {
+    "sentence_with_blank": "Who will ___ the score during the game?",
+    "correct_word": "keep",
+    "options": [
+     "keep",
+     "bring",
+     "wash",
+     "visit",
+     "result"
+    ]
+   },
+   {
+    "sentence_with_blank": "The team won ___ a big score.",
+    "correct_word": "by",
+    "options": [
+     "by",
+     "of",
+     "to",
+     "off",
+     "baby"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Big Match",
+   "text": "Last Sunday our school team played an important football match. The first half had no goals. Then our best player, Rustam, scored a goal. The other team scored, too, so the final score was one to one. Everybody was happy with the result, because the other team was very strong.",
+   "key_words": [
+    {
+     "word": "half",
+     "translation_uz": "yarim vaqt"
+    },
+    {
+     "word": "strong",
+     "translation_uz": "kuchli"
+    },
+    {
+     "word": "important",
+     "translation_uz": "muhim"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who scored for the school team?",
+     "options": [
+      "Sami",
+      "Rustam",
+      "Ali",
+      "The coach"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the final score?",
+     "options": [
+      "Two to one",
+      "Three to nil",
+      "One to one",
+      "Zero to zero"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why was everybody happy?",
+     "options": [
+      "The match was short",
+      "It was a holiday",
+      "The weather was cold",
+      "The other team was strong"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Exam Results",
+   "script": "Today the exam results came out. I got a high score in English and a good result in maths. My friend Dilya is a chess player, and she wants to win a prize. She is a good team player, too. Our teacher says that every pupil can improve with practice.",
+   "questions": [
+    {
+     "question": "What did the speaker get a high score in?",
+     "options": [
+      "English",
+      "Maths",
+      "Sport",
+      "Art"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Dilya play?",
+     "options": [
+      "Football",
+      "Chess",
+      "Tennis",
+      "Basketball"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the teacher say?",
+     "options": [
+      "Nobody can win",
+      "Tests are easy",
+      "Every pupil can improve with practice",
+      "Chess is boring"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "He scored a goal.",
+    "The result was good.",
+    "She is a good player."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sport",
+    "question_text": "Who is your favourite football player?",
+    "hint_words": [
+     "my favourite",
+     "he",
+     "scores",
+     "team"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Did you get a good result in your last test?",
+    "hint_words": [
+     "yes",
+     "no",
+     "maths",
+     "English"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "What was the score of the last match you watched?",
+    "hint_words": [
+     "one",
+     "two",
+     "nil",
+     "draw"
+    ]
+   }
+  ]
+ }
+]

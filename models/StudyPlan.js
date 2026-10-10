@@ -42,7 +42,7 @@ const speakingQuestionSchema = new mongoose.Schema(
 );
 
 /**
- * StudyPlan — 400 kunlik reja. day_number GLOBAL (1..400) va noyob.
+ * StudyPlan — 646 kunlik reja. day_number GLOBAL (1..646) va noyob.
  * level va lesson_type kun raqamidan avtomatik hisoblanadi (validatsiyadan oldin),
  * shuning uchun ular hech qachon bir-biriga zid bo'lib qolmaydi.
  */

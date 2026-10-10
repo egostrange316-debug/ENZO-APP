@@ -1,0 +1,1518 @@
+[
+ {
+  "unit": 26,
+  "title": "kettle, cooker, oven, freezer, dishwasher, washing machine, grill, fridge, toaster",
+  "vocabulary": [
+   {
+    "word": "boil the kettle",
+    "translation_uz": "choynakni qaynatmoq",
+    "example_sentence": "I boil the kettle to make tea."
+   },
+   {
+    "word": "switch on the kettle",
+    "translation_uz": "elektr choynakni yoqmoq",
+    "example_sentence": "Switch on the kettle, please."
+   },
+   {
+    "word": "a gas cooker",
+    "translation_uz": "gaz plitasi",
+    "example_sentence": "We have a gas cooker in our kitchen."
+   },
+   {
+    "word": "bake in the oven",
+    "translation_uz": "duxovkada pishirmoq",
+    "example_sentence": "Bake the cake in the oven for 30 minutes."
+   },
+   {
+    "word": "preheat the oven",
+    "translation_uz": "duxovkani oldindan qizdirmoq",
+    "example_sentence": "Preheat the oven before you start."
+   },
+   {
+    "word": "a microwave oven",
+    "translation_uz": "mikroto'lqinli pech",
+    "example_sentence": "Warm the soup in the microwave oven."
+   },
+   {
+    "word": "put food in the freezer",
+    "translation_uz": "ovqatni muzlatkichga solmoq",
+    "example_sentence": "Put the ice cream in the freezer."
+   },
+   {
+    "word": "load the dishwasher",
+    "translation_uz": "idish yuvish mashinasini to'ldirmoq",
+    "example_sentence": "Please load the dishwasher after dinner."
+   },
+   {
+    "word": "put clothes in the washing machine",
+    "translation_uz": "kiyimni kir yuvish mashinasiga solmoq",
+    "example_sentence": "Put your dirty clothes in the washing machine."
+   },
+   {
+    "word": "cook under the grill",
+    "translation_uz": "grilda pishirmoq",
+    "example_sentence": "The cheese toast is cooking under the grill."
+   },
+   {
+    "word": "keep milk in the fridge",
+    "translation_uz": "sutni muzlatkichda saqlamoq",
+    "example_sentence": "We keep milk in the fridge."
+   },
+   {
+    "word": "a fridge freezer",
+    "translation_uz": "muzlatkich-muzlatgich",
+    "example_sentence": "Our fridge freezer is very big."
+   },
+   {
+    "word": "make toast in the toaster",
+    "translation_uz": "tosterda non qizartirmoq",
+    "example_sentence": "He makes toast in the toaster every morning."
+   },
+   {
+    "word": "the toaster pops up",
+    "translation_uz": "toster tuynuklaridan non sakrab chiqadi",
+    "example_sentence": "The toast pops up when it is ready."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I will ___ the kettle and make some tea.",
+    "correct_word": "boil",
+    "options": [
+     "boil",
+     "bake",
+     "freeze",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "Bake the cake in the ___ for forty minutes.",
+    "correct_word": "oven",
+    "options": [
+     "kettle",
+     "oven",
+     "toaster",
+     "sink"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the dishwasher when you finish lunch.",
+    "correct_word": "load",
+    "options": [
+     "sing",
+     "kick",
+     "load",
+     "drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ the milk in the fridge so it stays fresh.",
+    "correct_word": "keep",
+    "options": [
+     "grow",
+     "wear",
+     "dance",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "Put your dirty socks in the washing ___.",
+    "correct_word": "machine",
+    "options": [
+     "machine",
+     "table",
+     "cooker",
+     "shelf"
+    ]
+   },
+   {
+    "sentence_with_blank": "The toast ___ up when it is ready.",
+    "correct_word": "pops",
+    "options": [
+     "swims",
+     "pops",
+     "sleeps",
+     "reads"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Breakfast Time",
+   "text": "Every morning Dad gets up first. He switches on the kettle and puts bread in the toaster. When the toast pops up, he puts butter on it. I take milk from the fridge and pour it into my glass. At the weekend Mum bakes bread in the oven, and the whole house smells wonderful. After breakfast we load the dishwasher together. Our kitchen is small, but it is a happy place.",
+   "key_words": [
+    {
+     "word": "butter",
+     "translation_uz": "sariyog'"
+    },
+    {
+     "word": "pour",
+     "translation_uz": "quymoq"
+    },
+    {
+     "word": "smells",
+     "translation_uz": "hid taratadi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Dad put in the toaster?",
+     "options": [
+      "Eggs",
+      "Bread",
+      "Cheese",
+      "Rice"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where does the writer get milk from?",
+     "options": [
+      "The fridge",
+      "The freezer",
+      "The oven",
+      "The cupboard"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Mum do at the weekend?",
+     "options": [
+      "She cleans the grill",
+      "She buys a kettle",
+      "She bakes bread in the oven",
+      "She washes the toaster"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Our Kitchen",
+   "script": "We have a lot of machines in our kitchen. There is a gas cooker with a big oven, and a fridge with a small freezer at the top. Every evening Mum loads the dishwasher. On Saturdays she puts our clothes in the washing machine. My favourite machine is the toaster, because my toast always pops up at the right time. My grandfather boils the kettle for his green tea all day long.",
+   "questions": [
+    {
+     "question": "Where is the small freezer?",
+     "options": [
+      "Under the cooker",
+      "Next to the toaster",
+      "In the garden",
+      "At the top of the fridge"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When does Mum use the washing machine?",
+     "options": [
+      "On Saturdays",
+      "Every evening",
+      "On Sundays",
+      "On Fridays"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who drinks green tea all day?",
+     "options": [
+      "The father",
+      "The grandfather",
+      "The sister",
+      "The speaker"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Boil the kettle.",
+    "Open the fridge.",
+    "Bake it in the oven."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Kitchen",
+    "question_text": "What do you have for breakfast?",
+    "hint_words": [
+     "bread",
+     "tea",
+     "toast",
+     "eggs"
+    ]
+   },
+   {
+    "topic": "Kitchen",
+    "question_text": "Do you help to load the dishwasher?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sometimes",
+     "after dinner"
+    ]
+   },
+   {
+    "topic": "Kitchen",
+    "question_text": "What is in your fridge now?",
+    "hint_words": [
+     "milk",
+     "cheese",
+     "fruit",
+     "juice"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 27,
+  "title": "knife, fork, spoon",
+  "vocabulary": [
+   {
+    "word": "cut with a knife",
+    "translation_uz": "pichoq bilan kesmoq",
+    "example_sentence": "Cut the bread with a sharp knife."
+   },
+   {
+    "word": "a sharp knife",
+    "translation_uz": "o'tkir pichoq",
+    "example_sentence": "Be careful with that sharp knife."
+   },
+   {
+    "word": "a blunt knife",
+    "translation_uz": "o'tmas pichoq",
+    "example_sentence": "A blunt knife cannot cut tomatoes."
+   },
+   {
+    "word": "a bread knife",
+    "translation_uz": "non pichog'i",
+    "example_sentence": "Use the bread knife for the loaf."
+   },
+   {
+    "word": "knife and fork",
+    "translation_uz": "pichoq va sanchqi",
+    "example_sentence": "The little boy eats with a knife and fork."
+   },
+   {
+    "word": "eat with a fork",
+    "translation_uz": "sanchqi bilan yemoq",
+    "example_sentence": "We eat spaghetti with a fork."
+   },
+   {
+    "word": "a plastic fork",
+    "translation_uz": "plastik sanchqi",
+    "example_sentence": "At the picnic we used plastic forks."
+   },
+   {
+    "word": "a fork in the road",
+    "translation_uz": "yo'lning ikkiga ajralishi",
+    "example_sentence": "Turn left at the fork in the road."
+   },
+   {
+    "word": "a teaspoon of sugar",
+    "translation_uz": "bir choy qoshiq shakar",
+    "example_sentence": "Add a teaspoon of sugar to my tea."
+   },
+   {
+    "word": "a tablespoon of oil",
+    "translation_uz": "bir osh qoshiq yog'",
+    "example_sentence": "Put a tablespoon of oil in the pan."
+   },
+   {
+    "word": "a wooden spoon",
+    "translation_uz": "yog'och qoshiq",
+    "example_sentence": "Stir the soup with a wooden spoon."
+   },
+   {
+    "word": "stir with a spoon",
+    "translation_uz": "qoshiq bilan aralashtirmoq",
+    "example_sentence": "Stir the tea with a spoon."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ the bread with a sharp knife.",
+    "correct_word": "cut",
+    "options": [
+     "cut",
+     "drink",
+     "wear",
+     "build"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can eat noodles with a ___.",
+    "correct_word": "fork",
+    "options": [
+     "window",
+     "fork",
+     "brush",
+     "pencil"
+    ]
+   },
+   {
+    "sentence_with_blank": "Add a ___ of sugar to my tea, please.",
+    "correct_word": "teaspoon",
+    "options": [
+     "teapot",
+     "teaching",
+     "teaspoon",
+     "teacher"
+    ]
+   },
+   {
+    "sentence_with_blank": "Stir the soup with a ___ spoon.",
+    "correct_word": "wooden",
+    "options": [
+     "wet",
+     "glad",
+     "tall",
+     "wooden"
+    ]
+   },
+   {
+    "sentence_with_blank": "This knife is ___ and cannot cut the meat.",
+    "correct_word": "blunt",
+    "options": [
+     "blunt",
+     "sharp",
+     "hot",
+     "quick"
+    ]
+   },
+   {
+    "sentence_with_blank": "Turn right at the fork ___ the road.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Picnic by the River",
+   "text": "On Sunday we had a picnic by the river. Mum cut the bread with a bread knife, and I put cheese on it. We forgot the metal forks, so we used plastic forks for the salad. Dad stirred the tea with a spoon and added a teaspoon of sugar to his cup. My little brother ate his yoghurt with a spoon, but he got it on his nose! We all laughed. Then we took a walk and found a fork in the road.",
+   "key_words": [
+    {
+     "word": "picnic",
+     "translation_uz": "piknik"
+    },
+    {
+     "word": "yoghurt",
+     "translation_uz": "qatiq"
+    },
+    {
+     "word": "laughed",
+     "translation_uz": "kuldi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Mum cut the bread with?",
+     "options": [
+      "A plastic fork",
+      "A spoon",
+      "A bread knife",
+      "A wooden stick"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did they use plastic forks?",
+     "options": [
+      "They forgot the metal forks",
+      "Plastic is cheaper",
+      "The forks were broken",
+      "Dad likes them"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the little brother eat?",
+     "options": [
+      "Salad",
+      "Soup",
+      "Rice",
+      "Yoghurt"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Grandma's Kitchen",
+   "script": "My grandma has a lot of old things in her kitchen. She still has a wooden spoon from her mother. She says a sharp knife is safer than a blunt one, because a blunt knife slips. At dinner she puts a knife and fork next to every plate. When she makes soup, she adds a tablespoon of oil. I like to help her stir the soup with the wooden spoon.",
+   "questions": [
+    {
+     "question": "Where did the wooden spoon come from?",
+     "options": [
+      "From a shop",
+      "From Grandma's mother",
+      "From the speaker",
+      "From a friend"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which knife is safer, according to Grandma?",
+     "options": [
+      "A sharp one",
+      "A blunt one",
+      "A big one",
+      "A plastic one"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How much oil does Grandma add to the soup?",
+     "options": [
+      "A teaspoon",
+      "A cup",
+      "A tablespoon",
+      "A bottle"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Cut it with a knife.",
+    "Eat with a fork.",
+    "Stir with a spoon."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Food",
+    "question_text": "Do you eat with a knife and fork?",
+    "hint_words": [
+     "yes",
+     "rice",
+     "spoon",
+     "hands"
+    ]
+   },
+   {
+    "topic": "Food",
+    "question_text": "How much sugar do you put in your tea?",
+    "hint_words": [
+     "one",
+     "two",
+     "teaspoon",
+     "none"
+    ]
+   },
+   {
+    "topic": "Kitchen",
+    "question_text": "Do you have a wooden spoon at home?",
+    "hint_words": [
+     "yes",
+     "no",
+     "soup",
+     "big"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 28,
+  "title": "cupboard, shelf",
+  "vocabulary": [
+   {
+    "word": "open the cupboard",
+    "translation_uz": "shkafni ochmoq",
+    "example_sentence": "Open the cupboard and get a cup."
+   },
+   {
+    "word": "a kitchen cupboard",
+    "translation_uz": "oshxona shkafi",
+    "example_sentence": "The plates are in the kitchen cupboard."
+   },
+   {
+    "word": "a cupboard door",
+    "translation_uz": "shkaf eshigi",
+    "example_sentence": "The cupboard door is open."
+   },
+   {
+    "word": "put away in the cupboard",
+    "translation_uz": "shkafga olib qo'ymoq",
+    "example_sentence": "Put away the cups in the cupboard."
+   },
+   {
+    "word": "the cupboard is bare",
+    "translation_uz": "shkaf bo'sh (ovqat yo'q)",
+    "example_sentence": "The cupboard is bare, so let's go shopping."
+   },
+   {
+    "word": "a shelf of books",
+    "translation_uz": "kitoblar javoni",
+    "example_sentence": "There is a shelf of books in my room."
+   },
+   {
+    "word": "put it on the shelf",
+    "translation_uz": "uni javonga qo'ymoq",
+    "example_sentence": "Put the jar on the shelf."
+   },
+   {
+    "word": "the top shelf",
+    "translation_uz": "eng yuqori javon",
+    "example_sentence": "The sweets are on the top shelf."
+   },
+   {
+    "word": "on the bottom shelf",
+    "translation_uz": "pastki javonda",
+    "example_sentence": "The big pots are on the bottom shelf."
+   },
+   {
+    "word": "put up a shelf",
+    "translation_uz": "javon o'rnatmoq",
+    "example_sentence": "Dad put up a shelf in the hall."
+   },
+   {
+    "word": "a shelf in the supermarket",
+    "translation_uz": "do'kondagi javon",
+    "example_sentence": "The shelf in the supermarket is empty."
+   },
+   {
+    "word": "a bookshelf",
+    "translation_uz": "kitob javoni",
+    "example_sentence": "My bookshelf is full of comics."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ the cupboard and get me a glass.",
+    "correct_word": "open",
+    "options": [
+     "open",
+     "catch",
+     "sing",
+     "enter"
+    ]
+   },
+   {
+    "sentence_with_blank": "The sugar is ___ the top shelf.",
+    "correct_word": "on",
+    "options": [
+     "from",
+     "on",
+     "of",
+     "into"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad is going to ___ up a shelf in my room.",
+    "correct_word": "put",
+    "options": [
+     "take",
+     "hold",
+     "put",
+     "bring"
+    ]
+   },
+   {
+    "sentence_with_blank": "The cupboard is ___, so we must go to the shop.",
+    "correct_word": "bare",
+    "options": [
+     "noisy",
+     "kind",
+     "tall",
+     "bare"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a ___ of books above my bed.",
+    "correct_word": "shelf",
+    "options": [
+     "shelf",
+     "door",
+     "window",
+     "tap"
+    ]
+   },
+   {
+    "sentence_with_blank": "The cups are in the kitchen ___.",
+    "correct_word": "cupboard",
+    "options": [
+     "tree",
+     "cupboard",
+     "river",
+     "road"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Tidying Up",
+   "text": "Last Saturday I helped Mum tidy the kitchen. First I opened every cupboard and looked inside. Then we put the big pots on the bottom shelf. The glasses went on the top shelf because the little children cannot reach it. The cupboard near the cooker was almost bare, so Mum wrote a shopping list. After that, Dad put up a new shelf for the spices. It was a long job, but the kitchen looked great.",
+   "key_words": [
+    {
+     "word": "tidy",
+     "translation_uz": "tartibga keltirmoq"
+    },
+    {
+     "word": "reach",
+     "translation_uz": "yetmoq"
+    },
+    {
+     "word": "spices",
+     "translation_uz": "ziravorlar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did they put the big pots?",
+     "options": [
+      "On the top shelf",
+      "On the bottom shelf",
+      "In the fridge",
+      "On the floor"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did the glasses go on the top shelf?",
+     "options": [
+      "Little children cannot reach it",
+      "There was no space below",
+      "They are heavy",
+      "Mum likes them there"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Mum do when the cupboard was almost bare?",
+     "options": [
+      "She cooked a big meal",
+      "She threw it away",
+      "She painted it",
+      "She wrote a shopping list"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "My Bedroom Shelf",
+   "script": "I have a long shelf above my desk. On the shelf there are my favourite books and a small clock. My brother put it up last year with Dad. I keep my football cards on the bottom shelf and my school books on the top shelf. In the kitchen, the cupboard door is broken. Dad will fix it tomorrow.",
+   "questions": [
+    {
+     "question": "Who put up the shelf?",
+     "options": [
+      "Mum",
+      "A neighbour",
+      "The speaker's brother and Dad",
+      "The speaker alone"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is on the bottom shelf?",
+     "options": [
+      "Football cards",
+      "School books",
+      "A small clock",
+      "Toys"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will Dad do tomorrow?",
+     "options": [
+      "Buy a shelf",
+      "Fix the cupboard door",
+      "Paint the desk",
+      "Cook dinner"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Open the cupboard.",
+    "Put it on the shelf.",
+    "The top shelf is full."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "What is on the shelf in your room?",
+    "hint_words": [
+     "books",
+     "toys",
+     "photos",
+     "clock"
+    ]
+   },
+   {
+    "topic": "Kitchen",
+    "question_text": "What do you keep in the kitchen cupboard?",
+    "hint_words": [
+     "plates",
+     "cups",
+     "food",
+     "pots"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you have a bookshelf?",
+    "hint_words": [
+     "yes",
+     "no",
+     "full",
+     "comics"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 29,
+  "title": "pot, pan",
+  "vocabulary": [
+   {
+    "word": "a pot of tea",
+    "translation_uz": "bir choynak choy",
+    "example_sentence": "Mum made a pot of tea."
+   },
+   {
+    "word": "a pot of soup",
+    "translation_uz": "bir qozon sho'rva",
+    "example_sentence": "Grandma cooked a big pot of soup."
+   },
+   {
+    "word": "boil in a pot",
+    "translation_uz": "qozonda qaynatmoq",
+    "example_sentence": "Boil the potatoes in a pot."
+   },
+   {
+    "word": "a flowerpot",
+    "translation_uz": "gul tuvak",
+    "example_sentence": "Water the flowerpot every day."
+   },
+   {
+    "word": "a pot of paint",
+    "translation_uz": "bir banka bo'yoq",
+    "example_sentence": "He opened a pot of paint."
+   },
+   {
+    "word": "a cooking pot",
+    "translation_uz": "pishirish qozoni",
+    "example_sentence": "We use a cooking pot for rice."
+   },
+   {
+    "word": "a frying pan",
+    "translation_uz": "qovurish tovasi",
+    "example_sentence": "Fry the eggs in a frying pan."
+   },
+   {
+    "word": "heat the pan",
+    "translation_uz": "tovani qizdirmoq",
+    "example_sentence": "Heat the pan before you add oil."
+   },
+   {
+    "word": "a non-stick pan",
+    "translation_uz": "yopishmaydigan tova",
+    "example_sentence": "Pancakes don't stick to a non-stick pan."
+   },
+   {
+    "word": "wash the pots and pans",
+    "translation_uz": "qozon-tovalarni yuvmoq",
+    "example_sentence": "Who is going to wash the pots and pans?"
+   },
+   {
+    "word": "a saucepan",
+    "translation_uz": "sous qozoncha",
+    "example_sentence": "Heat the milk in a saucepan."
+   },
+   {
+    "word": "a pan of water",
+    "translation_uz": "bir tova suv",
+    "example_sentence": "Put a pan of water on the cooker."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Grandma made a big ___ of soup for dinner.",
+    "correct_word": "pot",
+    "options": [
+     "pot",
+     "door",
+     "kite",
+     "cloud"
+    ]
+   },
+   {
+    "sentence_with_blank": "Fry the eggs in a frying ___.",
+    "correct_word": "pan",
+    "options": [
+     "plate",
+     "pan",
+     "cup",
+     "bowl"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the pan before you add the oil.",
+    "correct_word": "heat",
+    "options": [
+     "dry up",
+     "climb",
+     "heat",
+     "sleep"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum made a ___ of tea for the guests.",
+    "correct_word": "pot",
+    "options": [
+     "wall",
+     "road",
+     "pair",
+     "pot"
+    ]
+   },
+   {
+    "sentence_with_blank": "Who will wash the pots and ___ tonight?",
+    "correct_word": "pans",
+    "options": [
+     "pans",
+     "fans",
+     "trees",
+     "cars"
+    ]
+   },
+   {
+    "sentence_with_blank": "Heat the milk in a ___ on the cooker.",
+    "correct_word": "saucepan",
+    "options": [
+     "wardrobe",
+     "saucepan",
+     "pillow",
+     "towel"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Pancake Sunday",
+   "text": "On Sunday morning Mum makes pancakes. She mixes the eggs, milk and flour in a big bowl. Then she heats a non-stick pan on the cooker and adds a little oil. I watch the first pancake turn golden. Dad makes a pot of tea, and we all sit down to eat. Afterwards I help to wash the pots and pans. Mum says that cooking is fun, but the washing-up is the hard part.",
+   "key_words": [
+    {
+     "word": "pancakes",
+     "translation_uz": "blinchiklar"
+    },
+    {
+     "word": "flour",
+     "translation_uz": "un"
+    },
+    {
+     "word": "golden",
+     "translation_uz": "tilla rang"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Mum heat on the cooker?",
+     "options": [
+      "A big pot",
+      "A kettle",
+      "A grill",
+      "A non-stick pan"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who makes the tea?",
+     "options": [
+      "Dad",
+      "Mum",
+      "The writer",
+      "Grandma"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Mum say is the hard part?",
+     "options": [
+      "The cooking",
+      "The washing-up",
+      "The eating",
+      "The mixing"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Cooking with Grandpa",
+   "script": "Yesterday I cooked with my grandpa. He put a big pot of water on the cooker and waited until it boiled. Then we added rice. In a frying pan we cooked onions and carrots with a little oil. The pan was hot, so he told me to be careful. After lunch he gave me a small flowerpot with a tomato plant. I put it on the window.",
+   "questions": [
+    {
+     "question": "What did Grandpa put on the cooker first?",
+     "options": [
+      "A frying pan",
+      "A kettle",
+      "A pot of water",
+      "A saucepan of milk"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did they cook in the frying pan?",
+     "options": [
+      "Onions and carrots",
+      "Rice",
+      "Eggs",
+      "Fish"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Grandpa give the speaker after lunch?",
+     "options": [
+      "A cooking pot",
+      "A flowerpot with a tomato plant",
+      "A book",
+      "Some rice"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Heat the pan.",
+    "A pot of soup.",
+    "Wash the pots."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Cooking",
+    "question_text": "Can you cook something simple?",
+    "hint_words": [
+     "eggs",
+     "rice",
+     "soup",
+     "pancakes"
+    ]
+   },
+   {
+    "topic": "Cooking",
+    "question_text": "Who washes the pots and pans at your home?",
+    "hint_words": [
+     "I do",
+     "Mum",
+     "Dad",
+     "we"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you have a flowerpot at home?",
+    "hint_words": [
+     "yes",
+     "flowers",
+     "window",
+     "water"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 30,
+  "title": "plate, bowl",
+  "vocabulary": [
+   {
+    "word": "a plate of food",
+    "translation_uz": "bir likopcha ovqat",
+    "example_sentence": "He ate a plate of rice."
+   },
+   {
+    "word": "a paper plate",
+    "translation_uz": "qog'oz likopcha",
+    "example_sentence": "We used paper plates at the party."
+   },
+   {
+    "word": "a dinner plate",
+    "translation_uz": "katta ovqat likopchasi",
+    "example_sentence": "Put the dinner plate on the table."
+   },
+   {
+    "word": "a side plate",
+    "translation_uz": "non uchun kichik likopcha",
+    "example_sentence": "Put your bread on the side plate."
+   },
+   {
+    "word": "pass the plate",
+    "translation_uz": "likopchani uzatmoq",
+    "example_sentence": "Please pass the plate to Dad."
+   },
+   {
+    "word": "fill your plate",
+    "translation_uz": "likopchangizni to'ldiring",
+    "example_sentence": "Fill your plate with salad."
+   },
+   {
+    "word": "a bowl of soup",
+    "translation_uz": "bir kosa sho'rva",
+    "example_sentence": "I would like a bowl of soup."
+   },
+   {
+    "word": "a bowl of fruit",
+    "translation_uz": "bir kosa meva",
+    "example_sentence": "There is a bowl of fruit on the table."
+   },
+   {
+    "word": "a cereal bowl",
+    "translation_uz": "nonushta yormasi kosasi",
+    "example_sentence": "I eat cereal from a blue bowl."
+   },
+   {
+    "word": "a mixing bowl",
+    "translation_uz": "aralashtirish kosasi",
+    "example_sentence": "Put the flour in the mixing bowl."
+   },
+   {
+    "word": "a sugar bowl",
+    "translation_uz": "shakar solinadigan idish",
+    "example_sentence": "The sugar bowl is empty."
+   },
+   {
+    "word": "a washing-up bowl",
+    "translation_uz": "idish yuvish tog'orasi",
+    "example_sentence": "Fill the washing-up bowl with hot water."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I would like a ___ of soup, please.",
+    "correct_word": "bowl",
+    "options": [
+     "bowl",
+     "roof",
+     "road",
+     "pair"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the plate to your sister.",
+    "correct_word": "pass",
+    "options": [
+     "watch",
+     "pass",
+     "bite",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "We used paper ___ at the picnic.",
+    "correct_word": "plates",
+    "options": [
+     "stones",
+     "clocks",
+     "plates",
+     "pages"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ his plate with rice and meat.",
+    "correct_word": "filled",
+    "options": [
+     "opened",
+     "walked",
+     "wore",
+     "filled"
+    ]
+   },
+   {
+    "sentence_with_blank": "Put the bread on the ___ plate.",
+    "correct_word": "side",
+    "options": [
+     "side",
+     "wet",
+     "happy",
+     "sad"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a bowl of ___ on the table.",
+    "correct_word": "fruit",
+    "options": [
+     "soap",
+     "fruit",
+     "paint",
+     "shoes"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Birthday Party",
+   "text": "It was my little sister's birthday. Mum put paper plates on the table, and Dad filled a big bowl with fruit. In the kitchen, Grandma mixed the cake in a large mixing bowl. Each child filled a plate with rice, salad and chicken. My cousin asked, \"Can you pass the plate of bread?\" I passed it to him. At the end, we all had a bowl of ice cream. Everybody sang happy birthday.",
+   "key_words": [
+    {
+     "word": "birthday",
+     "translation_uz": "tug'ilgan kun"
+    },
+    {
+     "word": "chicken",
+     "translation_uz": "tovuq go'shti"
+    },
+    {
+     "word": "sang",
+     "translation_uz": "kuyladi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was in the big bowl on the table?",
+     "options": [
+      "Soup",
+      "Cereal",
+      "Fruit",
+      "Sugar"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who mixed the cake?",
+     "options": [
+      "Grandma",
+      "Mum",
+      "Dad",
+      "The cousin"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the children have at the end?",
+     "options": [
+      "A plate of cake",
+      "A bowl of ice cream",
+      "A bowl of soup",
+      "A cup of tea"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Quiet Dinner",
+   "script": "Last night we had a quiet dinner at home. Dad put a bowl of hot soup in front of each of us. Mum passed me a side plate with bread. My brother filled his dinner plate with potatoes and fish. After dinner, my sister washed the plates in a washing-up bowl. I dried them. I do not like the washing-up, but the kitchen was clean in ten minutes.",
+   "questions": [
+    {
+     "question": "What did Dad put in front of everyone?",
+     "options": [
+      "A dinner plate",
+      "A bowl of hot soup",
+      "A bowl of fruit",
+      "A paper plate"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was on the side plate?",
+     "options": [
+      "Bread",
+      "Fish",
+      "Potatoes",
+      "Salad"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who washed the plates?",
+     "options": [
+      "The speaker",
+      "Dad",
+      "The speaker's sister",
+      "Mum"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "A bowl of soup.",
+    "Fill your plate.",
+    "Pass the plate."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Food",
+    "question_text": "What is your favourite bowl of soup?",
+    "hint_words": [
+     "chicken",
+     "vegetable",
+     "hot",
+     "tasty"
+    ]
+   },
+   {
+    "topic": "Food",
+    "question_text": "Do you fill your plate with a lot of food?",
+    "hint_words": [
+     "yes",
+     "a little",
+     "rice",
+     "salad"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "What is in the fruit bowl at your home?",
+    "hint_words": [
+     "apples",
+     "bananas",
+     "oranges",
+     "grapes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 31,
+  "title": "sink, dishes",
+  "vocabulary": [
+   {
+    "word": "fill the sink",
+    "translation_uz": "rakovinani to'ldirmoq",
+    "example_sentence": "Fill the sink with hot water."
+   },
+   {
+    "word": "empty the sink",
+    "translation_uz": "rakovinani bo'shatmoq",
+    "example_sentence": "Empty the sink when you finish."
+   },
+   {
+    "word": "a kitchen sink",
+    "translation_uz": "oshxona rakovinasi",
+    "example_sentence": "There is a cup in the kitchen sink."
+   },
+   {
+    "word": "the sink is blocked",
+    "translation_uz": "rakovina tiqilib qolgan",
+    "example_sentence": "The sink is blocked and the water is not going down."
+   },
+   {
+    "word": "everything but the kitchen sink",
+    "translation_uz": "hamma narsa (ibora)",
+    "example_sentence": "She packed everything but the kitchen sink."
+   },
+   {
+    "word": "do the dishes",
+    "translation_uz": "idish-tovoq yuvmoq",
+    "example_sentence": "I do the dishes after dinner."
+   },
+   {
+    "word": "wash the dishes",
+    "translation_uz": "idishlarni sovunlab yuvmoq",
+    "example_sentence": "Please wash the dishes."
+   },
+   {
+    "word": "dry the dishes",
+    "translation_uz": "idishlarni artmoq",
+    "example_sentence": "He dries the dishes with a tea towel."
+   },
+   {
+    "word": "put away the dishes",
+    "translation_uz": "idishlarni joyiga qo'ymoq",
+    "example_sentence": "Put away the dishes in the cupboard."
+   },
+   {
+    "word": "a pile of dirty dishes",
+    "translation_uz": "bir uyum kir idishlar",
+    "example_sentence": "There is a pile of dirty dishes in the sink."
+   },
+   {
+    "word": "a dish of rice",
+    "translation_uz": "bir idish guruch",
+    "example_sentence": "She cooked a dish of rice."
+   },
+   {
+    "word": "washing-up liquid",
+    "translation_uz": "idish yuvish suyuqligi",
+    "example_sentence": "We need more washing-up liquid."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "After dinner, I always ___ the dishes.",
+    "correct_word": "do",
+    "options": [
+     "do",
+     "fly",
+     "grow",
+     "meet"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the sink with warm water.",
+    "correct_word": "fill",
+    "options": [
+     "read",
+     "fill",
+     "speak",
+     "knock"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad washes and I ___ the dishes.",
+    "correct_word": "dry",
+    "options": [
+     "drive",
+     "dig",
+     "dry",
+     "dream"
+    ]
+   },
+   {
+    "sentence_with_blank": "The sink is ___ and the water cannot go down.",
+    "correct_word": "blocked",
+    "options": [
+     "tidy",
+     "funny",
+     "cheap",
+     "blocked"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a pile of dirty ___ in the sink.",
+    "correct_word": "dishes",
+    "options": [
+     "dishes",
+     "ears",
+     "trees",
+     "pens"
+    ]
+   },
+   {
+    "sentence_with_blank": "Put away the dishes ___ the cupboard.",
+    "correct_word": "in",
+    "options": [
+     "with",
+     "in",
+     "onto",
+     "over"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Who Does the Dishes?",
+   "text": "In our family everybody has a job. My sister cooks on Mondays and I do the dishes. After dinner, I fill the sink with hot water and add a little washing-up liquid. My brother dries the dishes and puts them away in the cupboard. Last week the sink was blocked, and the water would not go down. Dad called a plumber, who fixed it in ten minutes. Now the kitchen is clean again, and nobody complains about the dishes.",
+   "key_words": [
+    {
+     "word": "plumber",
+     "translation_uz": "santexnik"
+    },
+    {
+     "word": "complains",
+     "translation_uz": "shikoyat qiladi"
+    },
+    {
+     "word": "job",
+     "translation_uz": "vazifa"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who does the dishes on Mondays?",
+     "options": [
+      "The sister",
+      "Dad",
+      "Mum",
+      "The writer"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the brother do?",
+     "options": [
+      "He dries the dishes and puts them away",
+      "He fills the sink",
+      "He cooks dinner",
+      "He calls the plumber"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who fixed the sink?",
+     "options": [
+      "Dad",
+      "A plumber",
+      "The brother",
+      "A neighbour"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Messy Kitchen",
+   "script": "On Sunday there was a pile of dirty dishes in the sink. My mum was tired, so I decided to help. I filled the sink with hot water and washed all the plates and cups. My little sister dried them with a tea towel. Then we put away the dishes together. Mum came into the kitchen and smiled. She said, \"Thank you, my helpers!\"",
+   "questions": [
+    {
+     "question": "Why did the speaker decide to help?",
+     "options": [
+      "Dad asked",
+      "It was a test",
+      "Mum was tired",
+      "There was a party"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the little sister use?",
+     "options": [
+      "A tea towel",
+      "A brush",
+      "A bowl",
+      "A sponge"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Mum say at the end?",
+     "options": [
+      "Please be quiet",
+      "Thank you, my helpers",
+      "Good night",
+      "It is late"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Do the dishes.",
+    "Fill the sink.",
+    "Dry the dishes."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "Do you do the dishes at home?",
+    "hint_words": [
+     "yes",
+     "sometimes",
+     "after dinner",
+     "never"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Who dries the dishes in your family?",
+    "hint_words": [
+     "I do",
+     "my sister",
+     "Mum",
+     "nobody"
+    ]
+   },
+   {
+    "topic": "Kitchen",
+    "question_text": "Is there a dishwasher in your kitchen?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sink",
+     "by hand"
+    ]
+   }
+  ]
+ }
+]

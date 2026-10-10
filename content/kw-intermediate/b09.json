@@ -1,0 +1,2356 @@
+[
+ {
+  "unit": 68,
+  "title": "health",
+  "vocabulary": [
+   {
+    "word": "good / poor health",
+    "translation_uz": "yaxshi / yomon sog'liq",
+    "example_sentence": "My grandfather is in good health for his age."
+   },
+   {
+    "word": "be in good health",
+    "translation_uz": "sog'lom bo'lmoq",
+    "example_sentence": "She is in good health and walks every day."
+   },
+   {
+    "word": "improve your health",
+    "translation_uz": "sog'liqni yaxshilamoq",
+    "example_sentence": "Walking to school can improve your health."
+   },
+   {
+    "word": "damage your health",
+    "translation_uz": "sog'liqqa zarar yetkazmoq",
+    "example_sentence": "Too much sugar can damage your health."
+   },
+   {
+    "word": "look after your health",
+    "translation_uz": "sog'liqqa g'amxo'rlik qilmoq",
+    "example_sentence": "You should look after your health and sleep well."
+   },
+   {
+    "word": "health problems",
+    "translation_uz": "sog'liq muammolari",
+    "example_sentence": "He has some health problems with his heart."
+   },
+   {
+    "word": "mental / physical health",
+    "translation_uz": "ruhiy / jismoniy salomatlik",
+    "example_sentence": "Friends are important for mental health."
+   },
+   {
+    "word": "health care",
+    "translation_uz": "sog'liqni saqlash",
+    "example_sentence": "Health care is free for children in many countries."
+   },
+   {
+    "word": "a health centre",
+    "translation_uz": "sog'liqni saqlash markazi",
+    "example_sentence": "The health centre is open from eight until six."
+   },
+   {
+    "word": "a healthy diet",
+    "translation_uz": "sog'lom ovqatlanish",
+    "example_sentence": "A healthy diet includes fruit and vegetables."
+   },
+   {
+    "word": "health and safety",
+    "translation_uz": "sog'liq va xavfsizlik",
+    "example_sentence": "Health and safety rules protect people at work."
+   },
+   {
+    "word": "healthy / unhealthy",
+    "translation_uz": "sog'lom / nosog'lom",
+    "example_sentence": "Fast food is often unhealthy."
+   },
+   {
+    "word": "Your good health!",
+    "translation_uz": "Sog'lig'ingiz uchun!",
+    "example_sentence": "\"To your good health!\" said Grandpa, raising his cup."
+   },
+   {
+    "word": "a health warning",
+    "translation_uz": "sog'liq haqida ogohlantirish",
+    "example_sentence": "There is a health warning on the box."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandmother is ___ good health, even at eighty.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "at",
+     "with",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "Regular exercise can ___ your health.",
+    "correct_word": "improve",
+    "options": [
+     "raise",
+     "improve",
+     "grow",
+     "lift"
+    ]
+   },
+   {
+    "sentence_with_blank": "You must ___ after your health by eating well.",
+    "correct_word": "look",
+    "options": [
+     "take",
+     "watch",
+     "look",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "Too many sweet drinks can ___ your health.",
+    "correct_word": "damage",
+    "options": [
+     "break",
+     "lose",
+     "spend",
+     "damage"
+    ]
+   },
+   {
+    "sentence_with_blank": "Doctors say a healthy ___ includes lots of vegetables.",
+    "correct_word": "diet",
+    "options": [
+     "diet",
+     "menu",
+     "recipe",
+     "kitchen"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sleeping badly can lead to mental ___ problems.",
+    "correct_word": "health",
+    "options": [
+     "healthy",
+     "health",
+     "healthily",
+     "heal"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Looking After Your Health",
+   "text": "Our teacher gave us a talk about health yesterday. She said that most people in good health follow a healthy diet and take regular exercise. She also explained that mental health is as important as physical health. Friends, hobbies and enough sleep can all improve your health. On the other hand, too much fast food and too little sleep can damage your health. She told us to visit the health centre if we have any health problems. At the end she asked us to write one rule for looking after our health. I wrote: walk to school every day.",
+   "key_words": [
+    {
+     "word": "diet",
+     "translation_uz": "parhez / ovqatlanish tartibi"
+    },
+    {
+     "word": "hobby",
+     "translation_uz": "sevimli mashg'ulot"
+    },
+    {
+     "word": "rule",
+     "translation_uz": "qoida"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What do people in good health usually follow?",
+     "options": [
+      "A healthy diet and exercise",
+      "A strict timetable",
+      "A medicine plan",
+      "A holiday plan"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What can damage your health?",
+     "options": [
+      "Too many friends",
+      "Too much fast food and too little sleep",
+      "Too much exercise",
+      "Too many books"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the narrator's rule?",
+     "options": [
+      "Drink more water",
+      "Eat less sugar",
+      "Walk to school every day",
+      "Go to bed at nine"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Health Centre",
+   "script": "Nurse: Good morning, Murod. Please sit down. How are you? Murod: I'm fine, thanks. My mother wanted me to have a health check. Nurse: That is a good idea. Let's see... your weight is normal, and your heart is strong. You seem to be in good health. Murod: That's a relief. Nurse: Just remember to look after your health. Eat a healthy diet, play sport, and get eight hours of sleep. Murod: I will. I'm also learning that mental health matters.",
+   "questions": [
+    {
+     "question": "Why did Murod come to the health centre?",
+     "options": [
+      "He broke his arm.",
+      "He had a cough.",
+      "He lost his bag.",
+      "His mother wanted him to have a health check."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the nurse say about his health?",
+     "options": [
+      "He is in good health.",
+      "He has some problems.",
+      "He is too thin.",
+      "He needs surgery."
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How many hours of sleep does she recommend?",
+     "options": [
+      "Five",
+      "Eight",
+      "Six",
+      "Twelve"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "She is in very good health.",
+    "Walking can improve your health.",
+    "Fast food is not very healthy."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Staying healthy",
+    "question_text": "What do you do to stay healthy?",
+    "hint_words": [
+     "exercise",
+     "sleep",
+     "diet",
+     "water"
+    ]
+   },
+   {
+    "topic": "Mental health",
+    "question_text": "Why is mental health important?",
+    "hint_words": [
+     "friends",
+     "feelings",
+     "calm",
+     "rest"
+    ]
+   },
+   {
+    "topic": "Unhealthy habits",
+    "question_text": "Which habits can damage your health?",
+    "hint_words": [
+     "fast food",
+     "late nights",
+     "sweets",
+     "screens"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 69,
+  "title": "illness",
+  "vocabulary": [
+   {
+    "word": "suffer from an illness",
+    "translation_uz": "kasallikdan aziyat chekmoq",
+    "example_sentence": "He suffers from a long illness."
+   },
+   {
+    "word": "recover from an illness",
+    "translation_uz": "kasallikdan tuzalmoq",
+    "example_sentence": "She recovered from her illness in a week."
+   },
+   {
+    "word": "a serious / minor illness",
+    "translation_uz": "og'ir / yengil kasallik",
+    "example_sentence": "A cold is a minor illness."
+   },
+   {
+    "word": "a mental illness",
+    "translation_uz": "ruhiy kasallik",
+    "example_sentence": "A mental illness needs care and understanding."
+   },
+   {
+    "word": "a long / short illness",
+    "translation_uz": "uzoq / qisqa kasallik",
+    "example_sentence": "After a short illness, he returned to school."
+   },
+   {
+    "word": "catch an illness",
+    "translation_uz": "kasalga chalinmoq",
+    "example_sentence": "Children catch illnesses quickly at school."
+   },
+   {
+    "word": "fall / be ill",
+    "translation_uz": "kasal bo'lmoq",
+    "example_sentence": "My sister fell ill on Monday."
+   },
+   {
+    "word": "be off school with an illness",
+    "translation_uz": "kasallik tufayli maktabga bormaslik",
+    "example_sentence": "Dilshod was off school with an illness."
+   },
+   {
+    "word": "a sudden illness",
+    "translation_uz": "to'satdan paydo bo'lgan kasallik",
+    "example_sentence": "A sudden illness stopped the concert."
+   },
+   {
+    "word": "illness and injury",
+    "translation_uz": "kasallik va jarohat",
+    "example_sentence": "The nurse knows many kinds of illness and injury."
+   },
+   {
+    "word": "feel ill",
+    "translation_uz": "o'zini yomon his qilmoq",
+    "example_sentence": "I felt ill after the long journey."
+   },
+   {
+    "word": "seriously ill",
+    "translation_uz": "og'ir kasal",
+    "example_sentence": "The old man was seriously ill."
+   },
+   {
+    "word": "ill with something",
+    "translation_uz": "biror narsa bilan kasal",
+    "example_sentence": "The child was ill with a high fever."
+   },
+   {
+    "word": "the cause of an illness",
+    "translation_uz": "kasallik sababi",
+    "example_sentence": "The doctor tried to find the cause of the illness."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister fell ___ last night and could not go to school.",
+    "correct_word": "ill",
+    "options": [
+     "illness",
+     "ill",
+     "sickly",
+     "sore"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is slowly ___ from his illness.",
+    "correct_word": "recovering",
+    "options": [
+     "curing",
+     "treating",
+     "recovering",
+     "fixing"
+    ]
+   },
+   {
+    "sentence_with_blank": "A cold is a ___ illness; you will feel better in a few days.",
+    "correct_word": "minor",
+    "options": [
+     "narrow",
+     "low",
+     "tiny",
+     "minor"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many children suffer ___ colds in winter.",
+    "correct_word": "from",
+    "options": [
+     "from",
+     "of",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was off school ___ an illness for ten days.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "with",
+     "on",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "I felt ___ after eating that old food.",
+    "correct_word": "ill",
+    "options": [
+     "illness",
+     "illy",
+     "ill",
+     "ills"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Off School",
+   "text": "Last winter I fell ill with a bad cold. It was only a minor illness, but I felt terrible. I stayed in bed and my mother made me warm soup. My grandmother, who suffers from a longer illness, called me every day to ask how I was. After five days I started to recover, and I returned to school on Monday. My friend Bekzod had also been ill, so he was off school for a week. Our teacher said that many children catch illnesses in winter. She advised us to wash our hands often and wear warm clothes.",
+   "key_words": [
+    {
+     "word": "terrible",
+     "translation_uz": "dahshatli / juda yomon"
+    },
+    {
+     "word": "advise",
+     "translation_uz": "maslahat bermoq"
+    },
+    {
+     "word": "warm soup",
+     "translation_uz": "iliq sho'rva"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of illness did the narrator have?",
+     "options": [
+      "A broken leg",
+      "A bad cold",
+      "A stomach ache",
+      "A fever from the sun"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long did the narrator stay home before recovering?",
+     "options": [
+      "One day",
+      "Three weeks",
+      "About five days",
+      "Two months"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the teacher advise?",
+     "options": [
+      "Stay in bed",
+      "Eat more sweets",
+      "Avoid school",
+      "Wash hands often and wear warm clothes"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Phone Call",
+   "script": "Gulnora: Hello, Madina. Why weren't you at school today? Madina: I fell ill last night. I had a high temperature and felt very weak. Gulnora: Oh, I'm sorry. Is it a serious illness? Madina: No, the doctor said it is a minor illness. I should recover in a few days. Gulnora: That's good news. I'll bring your homework tomorrow. Madina: Thank you. I will stay in bed and drink plenty of water.",
+   "questions": [
+    {
+     "question": "Why was Madina absent from school?",
+     "options": [
+      "She fell ill.",
+      "She went to a wedding.",
+      "She had a test.",
+      "She missed the bus."
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the doctor say?",
+     "options": [
+      "It is a serious illness.",
+      "It is a minor illness.",
+      "She must have surgery.",
+      "She should travel."
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will Gulnora bring tomorrow?",
+     "options": [
+      "Some soup",
+      "A magazine",
+      "Madina's homework",
+      "A doctor"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She fell ill on Monday.",
+    "He is recovering from a minor illness.",
+    "Many children catch illnesses in winter."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Being ill",
+    "question_text": "What do you do when you feel ill?",
+    "hint_words": [
+     "rest",
+     "medicine",
+     "doctor",
+     "water"
+    ]
+   },
+   {
+    "topic": "Recovering",
+    "question_text": "How can people recover quickly from an illness?",
+    "hint_words": [
+     "sleep",
+     "food",
+     "medicine",
+     "care"
+    ]
+   },
+   {
+    "topic": "School and illness",
+    "question_text": "Have you ever been off school with an illness?",
+    "hint_words": [
+     "cold",
+     "fever",
+     "days",
+     "homework"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 70,
+  "title": "disease and infection",
+  "vocabulary": [
+   {
+    "word": "catch a disease",
+    "translation_uz": "kasallikka yuqtirmoq",
+    "example_sentence": "You can catch a disease from dirty water."
+   },
+   {
+    "word": "suffer from a disease",
+    "translation_uz": "kasallikdan aziyat chekmoq",
+    "example_sentence": "Many people suffer from heart disease."
+   },
+   {
+    "word": "spread a disease",
+    "translation_uz": "kasallikni tarqatmoq",
+    "example_sentence": "Mosquitoes can spread diseases."
+   },
+   {
+    "word": "prevent a disease",
+    "translation_uz": "kasallikning oldini olmoq",
+    "example_sentence": "Vaccines prevent many diseases."
+   },
+   {
+    "word": "a serious / rare disease",
+    "translation_uz": "og'ir / noyob kasallik",
+    "example_sentence": "It is a rare disease, but doctors know how to treat it."
+   },
+   {
+    "word": "heart / lung disease",
+    "translation_uz": "yurak / o'pka kasalligi",
+    "example_sentence": "Heart disease is a major cause of death in older people."
+   },
+   {
+    "word": "an infectious / contagious disease",
+    "translation_uz": "yuqumli kasallik",
+    "example_sentence": "Measles is a contagious disease."
+   },
+   {
+    "word": "a disease of the heart / skin",
+    "translation_uz": "yurak / teri kasalligi",
+    "example_sentence": "Eczema is a disease of the skin."
+   },
+   {
+    "word": "die of a disease",
+    "translation_uz": "kasallikdan vafot etmoq",
+    "example_sentence": "In the past, many people died of diseases that we can now cure."
+   },
+   {
+    "word": "a throat / chest / ear infection",
+    "translation_uz": "tomoq / ko'krak / quloq infeksiyasi",
+    "example_sentence": "He had an ear infection and could not hear well."
+   },
+   {
+    "word": "get / have an infection",
+    "translation_uz": "infeksiya olmoq / infeksiyaga ega bo'lmoq",
+    "example_sentence": "If a cut is dirty, it may get an infection."
+   },
+   {
+    "word": "a bacterial / viral infection",
+    "translation_uz": "bakterial / virusli infeksiya",
+    "example_sentence": "A cold is a viral infection."
+   },
+   {
+    "word": "fight an infection",
+    "translation_uz": "infeksiya bilan kurashmoq",
+    "example_sentence": "Your body fights an infection with white blood cells."
+   },
+   {
+    "word": "infect / infectious",
+    "translation_uz": "yuqtirmoq / yuqumli",
+    "example_sentence": "Wash your hands so you do not infect others."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A sneeze can ___ a disease through the air.",
+    "correct_word": "spread",
+    "options": [
+     "finish",
+     "cure",
+     "spread",
+     "remove"
+    ]
+   },
+   {
+    "sentence_with_blank": "Vaccines help to ___ many diseases.",
+    "correct_word": "prevent",
+    "options": [
+     "catch",
+     "cause",
+     "spread",
+     "prevent"
+    ]
+   },
+   {
+    "sentence_with_blank": "Measles is a very ___ disease, so sick children stay at home.",
+    "correct_word": "contagious",
+    "options": [
+     "contagious",
+     "contagion",
+     "contagiously",
+     "infect"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has a throat ___ and needs antibiotics.",
+    "correct_word": "infection",
+    "options": [
+     "infect",
+     "infection",
+     "infectious",
+     "infecting"
+    ]
+   },
+   {
+    "sentence_with_blank": "Heart ___ is one of the main health problems in the world.",
+    "correct_word": "disease",
+    "options": [
+     "illness",
+     "sickness",
+     "disease",
+     "ill"
+    ]
+   },
+   {
+    "sentence_with_blank": "Always clean a cut, or it may get an ___.",
+    "correct_word": "infection",
+    "options": [
+     "infect",
+     "infectious",
+     "infecting",
+     "infection"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Fighting Diseases",
+   "text": "A hundred years ago, many people died of diseases that doctors can cure today. Better hospitals, clean water and vaccines have changed the world. A disease can spread through the air, through dirty water or through insects. For example, a cold is a viral infection that moves from person to person very quickly. Bacteria can also cause infections, such as a throat infection, and doctors may give antibiotics for them. To prevent disease, we should wash our hands, eat healthy food and visit the doctor for regular check-ups. If we all do this, we can keep our families and our communities safe.",
+   "key_words": [
+    {
+     "word": "vaccine",
+     "translation_uz": "emlash / vaksina"
+    },
+    {
+     "word": "bacteria",
+     "translation_uz": "bakteriyalar"
+    },
+    {
+     "word": "community",
+     "translation_uz": "jamiyat / mahalla"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How can a disease spread?",
+     "options": [
+      "Only through food",
+      "Only through touch",
+      "Through air, water or insects",
+      "Only through sleep"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What kind of infection is a cold?",
+     "options": [
+      "A bacterial infection",
+      "A skin infection",
+      "A heart disease",
+      "A viral infection"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What can doctors give for bacterial infections?",
+     "options": [
+      "Antibiotics",
+      "Vitamins",
+      "Vaccines",
+      "Exercise"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Science Class",
+   "script": "Teacher: Today we talk about infections. Who can tell me how a disease spreads? Student: Through germs, sir. If someone has a cold and coughs near you, you can catch it. Teacher: Correct. And how can we prevent diseases? Student: Wash our hands and get vaccines. Teacher: Good. Remember that some infections are viral and some are bacterial. Doctors use antibiotics only for bacterial infections. Student: So antibiotics cannot cure a cold? Teacher: Exactly.",
+   "questions": [
+    {
+     "question": "How can a cold spread?",
+     "options": [
+      "By reading books",
+      "When someone coughs near you",
+      "Through old clothes",
+      "Through the telephone"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How can we prevent diseases?",
+     "options": [
+      "Stay inside",
+      "Wear heavy coats",
+      "Wash hands and get vaccines",
+      "Eat only sweets"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which infection can antibiotics help?",
+     "options": [
+      "Viral infections",
+      "All colds",
+      "Headaches",
+      "Bacterial infections"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Wash your hands to prevent disease.",
+    "A cold is a viral infection.",
+    "He caught an infection from the water."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Preventing disease",
+    "question_text": "How can we stop diseases from spreading?",
+    "hint_words": [
+     "wash hands",
+     "vaccine",
+     "clean water",
+     "rest"
+    ]
+   },
+   {
+    "topic": "Vaccines",
+    "question_text": "Why are vaccines important?",
+    "hint_words": [
+     "protect",
+     "children",
+     "doctors",
+     "safe"
+    ]
+   },
+   {
+    "topic": "Infection",
+    "question_text": "What do you do if you get a cut?",
+    "hint_words": [
+     "clean",
+     "bandage",
+     "doctor",
+     "water"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 71,
+  "title": "stress",
+  "vocabulary": [
+   {
+    "word": "suffer from stress",
+    "translation_uz": "stressdan aziyat chekmoq",
+    "example_sentence": "Many adults suffer from stress at work."
+   },
+   {
+    "word": "be under stress",
+    "translation_uz": "stress ostida bo'lmoq",
+    "example_sentence": "She is under a lot of stress before exams."
+   },
+   {
+    "word": "cause stress",
+    "translation_uz": "stressga sabab bo'lmoq",
+    "example_sentence": "Too much homework can cause stress."
+   },
+   {
+    "word": "reduce / relieve stress",
+    "translation_uz": "stressni kamaytirmoq",
+    "example_sentence": "Music helps me reduce stress."
+   },
+   {
+    "word": "cope with stress",
+    "translation_uz": "stress bilan kurashmoq",
+    "example_sentence": "Talking to friends helps me cope with stress."
+   },
+   {
+    "word": "deal with stress",
+    "translation_uz": "stress bilan ishlamoq",
+    "example_sentence": "Learn to deal with stress in a calm way."
+   },
+   {
+    "word": "stress at work / school",
+    "translation_uz": "ish / maktabdagi stress",
+    "example_sentence": "Stress at school is common before tests."
+   },
+   {
+    "word": "a stressful job / situation",
+    "translation_uz": "stressli ish / vaziyat",
+    "example_sentence": "Being a pilot is a stressful job."
+   },
+   {
+    "word": "stress-related illness",
+    "translation_uz": "stress sabab bo'lgan kasallik",
+    "example_sentence": "Headaches can be a stress-related illness."
+   },
+   {
+    "word": "stressed / stressed out",
+    "translation_uz": "stressga uchragan / charchagan",
+    "example_sentence": "I felt stressed out before the speech."
+   },
+   {
+    "word": "emotional stress",
+    "translation_uz": "hissiy stress",
+    "example_sentence": "Moving house can cause emotional stress."
+   },
+   {
+    "word": "the stress of something",
+    "translation_uz": "biror narsaning stressi",
+    "example_sentence": "The stress of the exam made her ill."
+   },
+   {
+    "word": "stress management",
+    "translation_uz": "stressni boshqarish",
+    "example_sentence": "The school runs a stress management workshop."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Many students feel ___ stress before an important exam.",
+    "correct_word": "under",
+    "options": [
+     "over",
+     "in",
+     "on",
+     "under"
+    ]
+   },
+   {
+    "sentence_with_blank": "Talking to a friend helps me ___ with stress.",
+    "correct_word": "cope",
+    "options": [
+     "cope",
+     "agree",
+     "act",
+     "handle"
+    ]
+   },
+   {
+    "sentence_with_blank": "Taking a walk can help ___ stress.",
+    "correct_word": "reduce",
+    "options": [
+     "rise",
+     "reduce",
+     "grow",
+     "develop"
+    ]
+   },
+   {
+    "sentence_with_blank": "Moving to a new city can ___ a lot of stress.",
+    "correct_word": "cause",
+    "options": [
+     "do",
+     "make",
+     "cause",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "A pilot has a very ___ job because safety is so important.",
+    "correct_word": "stressful",
+    "options": [
+     "stressed",
+     "stressing",
+     "stress",
+     "stressful"
+    ]
+   },
+   {
+    "sentence_with_blank": "She felt ___ out before her piano concert.",
+    "correct_word": "stressed",
+    "options": [
+     "stressed",
+     "stressful",
+     "stressing",
+     "stress"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Beating Exam Stress",
+   "text": "Exams can cause stress for many teenagers. My cousin Aziza suffered from stress last year, and she had headaches and trouble sleeping. Her doctor said that stress is common, and it is possible to cope with it. He advised her to plan her time, go for a walk each day and talk to her family. Aziza also learned some breathing exercises to reduce stress. Now she feels calmer, and her marks are better, too. She says that talking about the problem is the best way to deal with stress. She wants to teach her friends the same tricks.",
+   "key_words": [
+    {
+     "word": "headache",
+     "translation_uz": "bosh og'rig'i"
+    },
+    {
+     "word": "breathing",
+     "translation_uz": "nafas olish"
+    },
+    {
+     "word": "calm",
+     "translation_uz": "xotirjam"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What problems did Aziza have?",
+     "options": [
+      "A broken leg",
+      "No appetite",
+      "A cough",
+      "Headaches and trouble sleeping"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the doctor advise?",
+     "options": [
+      "Plan her time and go for walks",
+      "Stop studying",
+      "Take strong medicine",
+      "Leave school"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Aziza say is the best way to deal with stress?",
+     "options": [
+      "Sleeping all day",
+      "Talking about the problem",
+      "Eating sweets",
+      "Watching TV"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Feeling Stressed",
+   "script": "Rahim: You look tired, Lola. What's wrong? Lola: I'm under a lot of stress. I have three tests this week, and I have a piano concert on Saturday. Rahim: That is a lot. How do you cope with stress? Lola: Not very well. I can't sleep. Rahim: Why don't you take a break? A short walk can reduce stress. Lola: You're right. Maybe I'll ask my teacher for more time, too. Rahim: Good idea. And remember, we are here to help you.",
+   "questions": [
+    {
+     "question": "Why is Lola stressed?",
+     "options": [
+      "She lost her phone.",
+      "She moved house.",
+      "She has tests and a concert.",
+      "She had an argument."
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What problem does Lola have?",
+     "options": [
+      "She cannot hear.",
+      "She cannot walk.",
+      "She cannot read.",
+      "She cannot sleep."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Rahim suggest?",
+     "options": [
+      "Take a short walk",
+      "Stay up late",
+      "Skip the concert",
+      "Play video games"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "She is under a lot of stress.",
+    "A walk can reduce stress.",
+    "I feel stressed before exams."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Stress at school",
+    "question_text": "What things cause stress at school?",
+    "hint_words": [
+     "exams",
+     "homework",
+     "time",
+     "teachers"
+    ]
+   },
+   {
+    "topic": "Coping",
+    "question_text": "How do you cope with stress?",
+    "hint_words": [
+     "walk",
+     "music",
+     "friends",
+     "sleep"
+    ]
+   },
+   {
+    "topic": "Helping others",
+    "question_text": "How can you help a friend who is stressed?",
+    "hint_words": [
+     "listen",
+     "talk",
+     "support",
+     "calm"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 72,
+  "title": "smoking and drugs (illegal)",
+  "vocabulary": [
+   {
+    "word": "smoke cigarettes",
+    "translation_uz": "sigaret chekmoq",
+    "example_sentence": "Smoke cigarettes and you harm your lungs."
+   },
+   {
+    "word": "give up smoking",
+    "translation_uz": "chekishni tashlamoq",
+    "example_sentence": "My uncle gave up smoking last year."
+   },
+   {
+    "word": "quit smoking",
+    "translation_uz": "chekishni tashlamoq (so'zlashuv)",
+    "example_sentence": "It is hard to quit smoking, but people can do it."
+   },
+   {
+    "word": "passive smoking",
+    "translation_uz": "passiv chekish",
+    "example_sentence": "Passive smoking harms children's lungs."
+   },
+   {
+    "word": "a non-smoker / heavy smoker",
+    "translation_uz": "chekmaydigan / ko'p chekadigan odam",
+    "example_sentence": "My father is a non-smoker, but my neighbour is a heavy smoker."
+   },
+   {
+    "word": "a smoke-free area",
+    "translation_uz": "chekish taqiqlangan hudud",
+    "example_sentence": "The park is now a smoke-free area."
+   },
+   {
+    "word": "smoking is bad for you",
+    "translation_uz": "chekish zararli",
+    "example_sentence": "Smoking is bad for your lungs and heart."
+   },
+   {
+    "word": "smoking-related disease",
+    "translation_uz": "chekish bilan bog'liq kasallik",
+    "example_sentence": "Lung cancer is a smoking-related disease."
+   },
+   {
+    "word": "an illegal drug",
+    "translation_uz": "noqonuniy giyohvand modda",
+    "example_sentence": "An illegal drug can seriously damage the body and mind."
+   },
+   {
+    "word": "drug abuse",
+    "translation_uz": "giyohvand moddalarni suiiste'mol qilish",
+    "example_sentence": "Drug abuse can ruin lives and families."
+   },
+   {
+    "word": "be addicted to something",
+    "translation_uz": "biror narsaga qaram bo'lmoq",
+    "example_sentence": "He became addicted to cigarettes at a young age."
+   },
+   {
+    "word": "peer pressure",
+    "translation_uz": "tengdoshlar bosimi",
+    "example_sentence": "Peer pressure can make teenagers try dangerous things."
+   },
+   {
+    "word": "say no to drugs",
+    "translation_uz": "giyohvandlikka yo'q demoq",
+    "example_sentence": "Just say no to drugs and stay safe."
+   },
+   {
+    "word": "get help / ask for help",
+    "translation_uz": "yordam olmoq / yordam so'ramoq",
+    "example_sentence": "If you feel pressure, ask a trusted adult for help."
+   },
+   {
+    "word": "a helpline",
+    "translation_uz": "ishonch telefoni",
+    "example_sentence": "The helpline gives free advice to anyone."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is very hard to ___ up smoking after many years.",
+    "correct_word": "give",
+    "options": [
+     "give",
+     "put",
+     "take",
+     "break"
+    ]
+   },
+   {
+    "sentence_with_blank": "Passive smoking can ___ children's lungs.",
+    "correct_word": "harm",
+    "options": [
+     "win",
+     "harm",
+     "help",
+     "build"
+    ]
+   },
+   {
+    "sentence_with_blank": "Illegal drugs can seriously ___ the body and the mind.",
+    "correct_word": "damage",
+    "options": [
+     "improve",
+     "heal",
+     "damage",
+     "educate"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many teenagers feel pressure from friends, which is called peer ___.",
+    "correct_word": "pressure",
+    "options": [
+     "force",
+     "weight",
+     "press",
+     "pressure"
+    ]
+   },
+   {
+    "sentence_with_blank": "A person who needs help can call a ___ and talk to a trained adviser.",
+    "correct_word": "helpline",
+    "options": [
+     "helpline",
+     "bank",
+     "shop",
+     "hotel"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is wise to say ___ when somebody offers you a dangerous drug.",
+    "correct_word": "no",
+    "options": [
+     "maybe",
+     "no",
+     "later",
+     "yes"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Why We Say No",
+   "text": "At school we had a health lesson about smoking and illegal drugs. The teacher explained that smoking harms the lungs and the heart, and it can lead to serious illnesses in later life. Passive smoking is also dangerous because other people breathe the smoke. Illegal drugs are even more harmful, because they can damage the brain and the body, and people may become addicted. She talked about peer pressure, when friends try to make you do something you do not want to do. It is brave to say no, and real friends will respect that. If anyone feels worried, they should talk to a parent, a teacher or call a helpline for free advice.",
+   "key_words": [
+    {
+     "word": "lungs",
+     "translation_uz": "o'pka"
+    },
+    {
+     "word": "addicted",
+     "translation_uz": "qaram"
+    },
+    {
+     "word": "brave",
+     "translation_uz": "jasur"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does smoking harm?",
+     "options": [
+      "The lungs and the heart",
+      "The eyes",
+      "The ears",
+      "The hair"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is peer pressure?",
+     "options": [
+      "A school exam",
+      "Friends trying to make you do something",
+      "A kind of illness",
+      "A teacher's rule"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Whom can a worried person talk to?",
+     "options": [
+      "Nobody",
+      "Only a stranger",
+      "A parent, a teacher or a helpline",
+      "Only a classmate"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talk with a Nurse",
+   "script": "Nurse: Today I want to talk about staying away from cigarettes and illegal drugs. Smoking is bad for your health, and it is very hard to give up. Illegal drugs can damage your body and your mind, and they can ruin your future. Student: What should I do if a friend offers me something? Nurse: You can say no clearly and walk away. A real friend will understand. Student: And if I need help? Nurse: Talk to an adult you trust, or call the free helpline. There are people who want to listen.",
+   "questions": [
+    {
+     "question": "What does the nurse say about smoking?",
+     "options": [
+      "It is good for sports.",
+      "It is safe in small amounts.",
+      "It is cheap.",
+      "It is bad for your health."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What should a student do if a friend offers something dangerous?",
+     "options": [
+      "Say no and walk away",
+      "Take it quickly",
+      "Keep it secret",
+      "Laugh and stay"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where can a person find help?",
+     "options": [
+      "From a stranger online",
+      "From a trusted adult or a free helpline",
+      "From the shop",
+      "From a magazine"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Smoking is bad for your health.",
+    "It is brave to say no.",
+    "You can always ask for help."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Smoking",
+    "question_text": "Why is smoking harmful to health?",
+    "hint_words": [
+     "lungs",
+     "heart",
+     "smoke",
+     "cough"
+    ]
+   },
+   {
+    "topic": "Saying no",
+    "question_text": "How can a teenager say no to peer pressure?",
+    "hint_words": [
+     "clearly",
+     "walk away",
+     "friends",
+     "calm"
+    ]
+   },
+   {
+    "topic": "Getting help",
+    "question_text": "Who can you talk to if you are worried?",
+    "hint_words": [
+     "parent",
+     "teacher",
+     "nurse",
+     "helpline"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 73,
+  "title": "pain",
+  "vocabulary": [
+   {
+    "word": "feel pain",
+    "translation_uz": "og'riq his qilmoq",
+    "example_sentence": "He felt a sharp pain in his foot."
+   },
+   {
+    "word": "be in pain",
+    "translation_uz": "og'riqda bo'lmoq",
+    "example_sentence": "The old man was in a lot of pain."
+   },
+   {
+    "word": "cause pain",
+    "translation_uz": "og'riq keltirmoq",
+    "example_sentence": "The cut caused me pain for a week."
+   },
+   {
+    "word": "relieve / ease pain",
+    "translation_uz": "og'riqni yengillashtirmoq",
+    "example_sentence": "This tablet will ease the pain."
+   },
+   {
+    "word": "a sharp / dull pain",
+    "translation_uz": "o'tkir / zirqiragan og'riq",
+    "example_sentence": "A dull pain in my head lasted all day."
+   },
+   {
+    "word": "a severe / terrible pain",
+    "translation_uz": "kuchli / dahshatli og'riq",
+    "example_sentence": "She suffered severe pain after the accident."
+   },
+   {
+    "word": "a pain in the chest / back",
+    "translation_uz": "ko'krak / belda og'riq",
+    "example_sentence": "He had a pain in his back after lifting boxes."
+   },
+   {
+    "word": "a stomach / back / chest pain",
+    "translation_uz": "oshqozon / bel / ko'krak og'rig'i",
+    "example_sentence": "A stomach pain kept me awake."
+   },
+   {
+    "word": "a painful experience",
+    "translation_uz": "og'riqli tajriba",
+    "example_sentence": "Visiting the dentist can be a painful experience."
+   },
+   {
+    "word": "a painkiller",
+    "translation_uz": "og'riq qoldiruvchi dori",
+    "example_sentence": "The nurse gave him a painkiller."
+   },
+   {
+    "word": "cry out in pain",
+    "translation_uz": "og'riqdan baqirmoq",
+    "example_sentence": "The boy cried out in pain when he fell."
+   },
+   {
+    "word": "pain in the neck (informal)",
+    "translation_uz": "bezovta qiluvchi narsa (so'zlashuv)",
+    "example_sentence": "My little brother is a real pain in the neck sometimes."
+   },
+   {
+    "word": "no pain, no gain",
+    "translation_uz": "mashaqqatsiz natija yo'q",
+    "example_sentence": "Coaches often say, \"No pain, no gain\", but listen to your body."
+   },
+   {
+    "word": "painless / pain-free",
+    "translation_uz": "og'riqsiz",
+    "example_sentence": "The injection was almost painless."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He had a sharp ___ in his chest and went to see a doctor.",
+    "correct_word": "pain",
+    "options": [
+     "hurt",
+     "pain",
+     "wound",
+     "sickness"
+    ]
+   },
+   {
+    "sentence_with_blank": "The cut was small, but it caused me a lot of ___.",
+    "correct_word": "pain",
+    "options": [
+     "pains",
+     "painful",
+     "pain",
+     "painfully"
+    ]
+   },
+   {
+    "sentence_with_blank": "This cream will help ___ the pain.",
+    "correct_word": "ease",
+    "options": [
+     "join",
+     "lose",
+     "hold",
+     "ease"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy cried out ___ pain when he hit his knee.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "by",
+     "for",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The nurse gave her a ___ for the headache.",
+    "correct_word": "painkiller",
+    "options": [
+     "vitamin",
+     "painkiller",
+     "plaster",
+     "sweet"
+    ]
+   },
+   {
+    "sentence_with_blank": "After lifting the heavy box, he had a pain ___ his back.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "by",
+     "in",
+     "for"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Bad Fall",
+   "text": "Last Saturday I fell off my bike on the way to the park. I felt a sharp pain in my knee and cried out in pain. A kind lady called my mother, and she took me to the health centre. The doctor examined my knee and said it was not broken, just badly bruised. She gave me a painkiller to ease the pain, and she told me to rest for a few days. The pain was terrible at first, but it got better every day. Now I always wear a helmet, because a fall can be a very painful experience.",
+   "key_words": [
+    {
+     "word": "bruised",
+     "translation_uz": "ko'karib ketgan"
+    },
+    {
+     "word": "examine",
+     "translation_uz": "ko'rikdan o'tkazmoq"
+    },
+    {
+     "word": "helmet",
+     "translation_uz": "dubulg'a"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the narrator feel pain?",
+     "options": [
+      "In the head",
+      "In the knee",
+      "In the arm",
+      "In the stomach"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the doctor give?",
+     "options": [
+      "A plaster only",
+      "A new bike",
+      "A painkiller",
+      "An injection"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the narrator wear now?",
+     "options": [
+      "A scarf",
+      "Gloves",
+      "A bandage",
+      "A helmet"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Doctor, I Have a Pain",
+   "script": "Doctor: What seems to be the problem, Sanjar? Sanjar: I have a pain in my stomach. It started last night. Doctor: Is it a sharp pain or a dull pain? Sanjar: A dull pain, but it hurts when I move. Doctor: Did you eat anything unusual? Sanjar: I had a very big dinner. Doctor: I see. Take this medicine to ease the pain, and eat only light food for two days. Come back if the pain gets worse.",
+   "questions": [
+    {
+     "question": "Where does Sanjar have pain?",
+     "options": [
+      "In his stomach",
+      "In his back",
+      "In his foot",
+      "In his head"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What kind of pain is it?",
+     "options": [
+      "A sharp pain",
+      "A dull pain",
+      "A burning pain",
+      "No pain"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the doctor advise?",
+     "options": [
+      "Fast for a week",
+      "Run every day",
+      "Eat only light food for two days",
+      "Stay awake"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "He felt a sharp pain in his back.",
+    "The tablet will ease the pain.",
+    "She cried out in pain."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Pain",
+    "question_text": "When did you last feel pain? What happened?",
+    "hint_words": [
+     "fell",
+     "hurt",
+     "doctor",
+     "better"
+    ]
+   },
+   {
+    "topic": "Easing pain",
+    "question_text": "What can you do to ease a headache?",
+    "hint_words": [
+     "rest",
+     "water",
+     "tablet",
+     "sleep"
+    ]
+   },
+   {
+    "topic": "Seeing a doctor",
+    "question_text": "When should a person see a doctor about pain?",
+    "hint_words": [
+     "severe",
+     "long time",
+     "sudden",
+     "worse"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 74,
+  "title": "appointment, symptom and test",
+  "vocabulary": [
+   {
+    "word": "make an appointment",
+    "translation_uz": "uchrashuv belgilamoq",
+    "example_sentence": "I made an appointment with the dentist."
+   },
+   {
+    "word": "have / keep an appointment",
+    "translation_uz": "uchrashuvga ega bo'lmoq / unga kelmoq",
+    "example_sentence": "I have an appointment at ten o'clock."
+   },
+   {
+    "word": "cancel an appointment",
+    "translation_uz": "uchrashuvni bekor qilmoq",
+    "example_sentence": "She had to cancel her appointment because of the rain."
+   },
+   {
+    "word": "miss an appointment",
+    "translation_uz": "uchrashuvni o'tkazib yubormoq",
+    "example_sentence": "He missed his appointment and had to wait a week."
+   },
+   {
+    "word": "an appointment with the doctor",
+    "translation_uz": "shifokor bilan uchrashuv",
+    "example_sentence": "I have an appointment with the doctor tomorrow."
+   },
+   {
+    "word": "show / have symptoms",
+    "translation_uz": "belgilar ko'rsatmoq",
+    "example_sentence": "Do you have any symptoms of a cold?"
+   },
+   {
+    "word": "a symptom of an illness",
+    "translation_uz": "kasallik belgisi",
+    "example_sentence": "A cough is a common symptom of a cold."
+   },
+   {
+    "word": "the first / early symptoms",
+    "translation_uz": "dastlabki belgilar",
+    "example_sentence": "Early symptoms are easy to miss."
+   },
+   {
+    "word": "mild / severe symptoms",
+    "translation_uz": "yengil / og'ir belgilar",
+    "example_sentence": "She had only mild symptoms."
+   },
+   {
+    "word": "do / have a test",
+    "translation_uz": "tekshiruv o'tkazmoq / topshirmoq",
+    "example_sentence": "The nurse did a test on my blood."
+   },
+   {
+    "word": "a blood / eye / hearing test",
+    "translation_uz": "qon / ko'z / eshitish tekshiruvi",
+    "example_sentence": "I had a blood test this morning."
+   },
+   {
+    "word": "test results",
+    "translation_uz": "tekshiruv natijalari",
+    "example_sentence": "The test results will be ready on Friday."
+   },
+   {
+    "word": "a positive / negative test",
+    "translation_uz": "ijobiy / salbiy test",
+    "example_sentence": "The test was negative, so she was healthy."
+   },
+   {
+    "word": "a routine check-up",
+    "translation_uz": "muntazam tekshiruv",
+    "example_sentence": "Everyone needs a routine check-up once a year."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I need to ___ an appointment with the dentist.",
+    "correct_word": "make",
+    "options": [
+     "do",
+     "take",
+     "make",
+     "give"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sorry, I can't come; I must ___ my appointment.",
+    "correct_word": "cancel",
+    "options": [
+     "finish",
+     "close",
+     "break",
+     "cancel"
+    ]
+   },
+   {
+    "sentence_with_blank": "A cough is a common ___ of a cold.",
+    "correct_word": "symptom",
+    "options": [
+     "symptom",
+     "result",
+     "method",
+     "reason"
+    ]
+   },
+   {
+    "sentence_with_blank": "The doctor ordered a blood ___ to find out the cause.",
+    "correct_word": "test",
+    "options": [
+     "exam",
+     "test",
+     "trial",
+     "quiz"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please call us if the ___ get worse.",
+    "correct_word": "symptoms",
+    "options": [
+     "symptom",
+     "symptomatic",
+     "symptoms",
+     "symptomless"
+    ]
+   },
+   {
+    "sentence_with_blank": "The test results will be ___ on Friday.",
+    "correct_word": "ready",
+    "options": [
+     "open",
+     "closed",
+     "lost",
+     "ready"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Doctor's Visit",
+   "text": "Last week I had a sore throat and a cough, so my mother made an appointment with the doctor. We arrived ten minutes early because the clinic is always busy. The doctor asked about my symptoms and checked my throat. She said that a sore throat is a common symptom of an infection. She did a quick test to find out the cause, and the nurse took a little blood for another blood test. The test results came the next day. The infection was mild, so I only needed rest and some medicine. In a week I felt much better.",
+   "key_words": [
+    {
+     "word": "sore throat",
+     "translation_uz": "tomoq og'rig'i"
+    },
+    {
+     "word": "clinic",
+     "translation_uz": "poliklinika"
+    },
+    {
+     "word": "mild",
+     "translation_uz": "yengil"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the mother make an appointment?",
+     "options": [
+      "The narrator had a broken arm.",
+      "It was a routine check.",
+      "The narrator had a sore throat and a cough.",
+      "The narrator needed glasses."
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When did the test results arrive?",
+     "options": [
+      "Ten minutes later",
+      "After a month",
+      "The same evening",
+      "The next day"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How was the infection?",
+     "options": [
+      "Mild",
+      "Severe",
+      "Rare",
+      "Dangerous"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Reception",
+   "script": "Receptionist: Good morning, how can I help you? Patient: I'd like to make an appointment with Doctor Aliyeva, please. Receptionist: What are your symptoms? Patient: I have had headaches and a high temperature for two days. Receptionist: She has a free appointment tomorrow at nine. Patient: That's fine. Do I need a test? Receptionist: The doctor will decide, but you may have a blood test. Please arrive ten minutes early and bring your ID.",
+   "questions": [
+    {
+     "question": "Who does the patient want to see?",
+     "options": [
+      "A dentist",
+      "Doctor Aliyeva",
+      "A nurse",
+      "The director"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What symptoms does the patient have?",
+     "options": [
+      "A cough and a rash",
+      "A toothache",
+      "Headaches and a high temperature",
+      "A broken finger"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What should the patient bring?",
+     "options": [
+      "A photo",
+      "A pen",
+      "Some money",
+      "ID"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I have an appointment at nine.",
+    "What are your symptoms?",
+    "The test results are ready."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Going to the doctor",
+    "question_text": "When did you last make an appointment with a doctor?",
+    "hint_words": [
+     "check-up",
+     "symptoms",
+     "clinic",
+     "waiting"
+    ]
+   },
+   {
+    "topic": "Symptoms",
+    "question_text": "What are the symptoms of a cold?",
+    "hint_words": [
+     "cough",
+     "sneeze",
+     "fever",
+     "sore throat"
+    ]
+   },
+   {
+    "topic": "Tests",
+    "question_text": "Have you ever had a blood test or an eye test?",
+    "hint_words": [
+     "nurse",
+     "needle",
+     "results",
+     "careful"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 75,
+  "title": "treatment and cure",
+  "vocabulary": [
+   {
+    "word": "receive treatment",
+    "translation_uz": "davolanish olmoq",
+    "example_sentence": "He received treatment in the city hospital."
+   },
+   {
+    "word": "need / require treatment",
+    "translation_uz": "davolash kerak bo'lmoq",
+    "example_sentence": "The wound requires treatment."
+   },
+   {
+    "word": "undergo treatment",
+    "translation_uz": "davolanish kursidan o'tmoq",
+    "example_sentence": "She is undergoing treatment for her back."
+   },
+   {
+    "word": "give / provide treatment",
+    "translation_uz": "davolash ko'rsatmoq",
+    "example_sentence": "Nurses provide treatment for minor injuries."
+   },
+   {
+    "word": "medical treatment",
+    "translation_uz": "tibbiy davolash",
+    "example_sentence": "Everyone should have access to medical treatment."
+   },
+   {
+    "word": "emergency treatment",
+    "translation_uz": "shoshilinch davolash",
+    "example_sentence": "He was given emergency treatment after the accident."
+   },
+   {
+    "word": "a course of treatment",
+    "translation_uz": "davolash kursi",
+    "example_sentence": "She finished a course of treatment last week."
+   },
+   {
+    "word": "treatment for something",
+    "translation_uz": "biror narsa uchun davolash",
+    "example_sentence": "What is the best treatment for a cold?"
+   },
+   {
+    "word": "treat a patient / an illness",
+    "translation_uz": "bemorni / kasallikni davolamoq",
+    "example_sentence": "Doctors treat patients with kindness."
+   },
+   {
+    "word": "find a cure",
+    "translation_uz": "davo topmoq",
+    "example_sentence": "Scientists hope to find a cure for the disease."
+   },
+   {
+    "word": "a cure for something",
+    "translation_uz": "biror narsaga davo",
+    "example_sentence": "There is no cure for the common cold."
+   },
+   {
+    "word": "cure a disease",
+    "translation_uz": "kasallikni batamom davolamoq",
+    "example_sentence": "Antibiotics can cure some infections."
+   },
+   {
+    "word": "a miracle cure",
+    "translation_uz": "mo'jizaviy davo",
+    "example_sentence": "There is no miracle cure for tiredness."
+   },
+   {
+    "word": "be cured / a cure rate",
+    "translation_uz": "tuzalmoq / tuzalish ko'rsatkichi",
+    "example_sentence": "Most patients were cured within weeks."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The injured man was taken to hospital for emergency ___.",
+    "correct_word": "treatment",
+    "options": [
+     "treat",
+     "cure",
+     "therapy-up",
+     "treatment"
+    ]
+   },
+   {
+    "sentence_with_blank": "The doctor will ___ your cough with a simple medicine.",
+    "correct_word": "treat",
+    "options": [
+     "treat",
+     "wait",
+     "study",
+     "mend"
+    ]
+   },
+   {
+    "sentence_with_blank": "Scientists are working to find a ___ for this disease.",
+    "correct_word": "cure",
+    "options": [
+     "recovery",
+     "cure",
+     "healing",
+     "remedies"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is undergoing treatment ___ a back problem.",
+    "correct_word": "for",
+    "options": [
+     "to",
+     "of",
+     "for",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "Antibiotics can ___ some infections, but they do not work against colds.",
+    "correct_word": "cure",
+    "options": [
+     "recover",
+     "suffer",
+     "catch",
+     "cure"
+    ]
+   },
+   {
+    "sentence_with_blank": "After a ___ of treatment, he felt much stronger.",
+    "correct_word": "course",
+    "options": [
+     "course",
+     "class",
+     "lesson",
+     "path"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Hospital Visit",
+   "text": "My uncle needed treatment for a serious problem with his heart. He received treatment in a modern hospital for three weeks. A team of doctors and nurses treated him with great care. First he had emergency treatment, and later a course of medicine. The doctors explained that there is no instant cure for his illness, but good treatment can control it. Now he feels much better and is walking every day. He told us that he is thankful to all the staff. When I grow up, I want to become a doctor and help find a cure for a disease.",
+   "key_words": [
+    {
+     "word": "hospital",
+     "translation_uz": "kasalxona"
+    },
+    {
+     "word": "staff",
+     "translation_uz": "xodimlar"
+    },
+    {
+     "word": "thankful",
+     "translation_uz": "minnatdor"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long did the uncle stay in hospital?",
+     "options": [
+      "Three days",
+      "One year",
+      "Two weeks",
+      "Three weeks"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the doctors say about his illness?",
+     "options": [
+      "There is no instant cure, but treatment can control it.",
+      "It will disappear soon.",
+      "It is not serious.",
+      "It needs no medicine."
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the narrator want to be?",
+     "options": [
+      "A teacher",
+      "A doctor",
+      "A pilot",
+      "A nurse"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Research News",
+   "script": "Presenter: Now for some good news. Scientists in our city have developed a new treatment for a serious skin disease. Patients receive the treatment for six weeks, and most of them are cured. Researcher: We are very happy, but we must be careful. The treatment is not a miracle cure, and patients must follow the doctor's advice. Presenter: Will the treatment be available in hospitals? Researcher: Yes, by next year. Our dream is to find a cure for many other diseases, too.",
+   "questions": [
+    {
+     "question": "How long does the new treatment last?",
+     "options": [
+      "One day",
+      "Six months",
+      "Six weeks",
+      "One year"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the researcher say about the treatment?",
+     "options": [
+      "It is completely free.",
+      "It is dangerous.",
+      "It works at once.",
+      "It is not a miracle cure."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When will hospitals have the treatment?",
+     "options": [
+      "By next year",
+      "Next week",
+      "In ten years",
+      "Tomorrow"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He received treatment in hospital.",
+    "Scientists want to find a cure.",
+    "There is no miracle cure for colds."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Treatment",
+    "question_text": "What kind of treatment do doctors use for a cold?",
+    "hint_words": [
+     "rest",
+     "medicine",
+     "water",
+     "sleep"
+    ]
+   },
+   {
+    "topic": "A cure",
+    "question_text": "Which disease do you want scientists to find a cure for?",
+    "hint_words": [
+     "cancer",
+     "flu",
+     "research",
+     "hope"
+    ]
+   },
+   {
+    "topic": "Hospital care",
+    "question_text": "How do nurses and doctors help sick people?",
+    "hint_words": [
+     "care",
+     "treat",
+     "kind",
+     "medicine"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 76,
+  "title": "operation and drug",
+  "vocabulary": [
+   {
+    "word": "have an operation",
+    "translation_uz": "operatsiya qildirmoq",
+    "example_sentence": "He had an operation on his knee."
+   },
+   {
+    "word": "perform an operation",
+    "translation_uz": "operatsiya o'tkazmoq",
+    "example_sentence": "The surgeon performed the operation in two hours."
+   },
+   {
+    "word": "a major / minor operation",
+    "translation_uz": "katta / kichik operatsiya",
+    "example_sentence": "Removing a tooth is a minor operation."
+   },
+   {
+    "word": "an emergency operation",
+    "translation_uz": "shoshilinch operatsiya",
+    "example_sentence": "They carried out an emergency operation at night."
+   },
+   {
+    "word": "a heart / knee operation",
+    "translation_uz": "yurak / tizza operatsiyasi",
+    "example_sentence": "She had a heart operation as a baby."
+   },
+   {
+    "word": "recover from an operation",
+    "translation_uz": "operatsiyadan tuzalmoq",
+    "example_sentence": "He is recovering from an operation."
+   },
+   {
+    "word": "an operation on something",
+    "translation_uz": "biror a'zoga operatsiya",
+    "example_sentence": "An operation on the eye can improve sight."
+   },
+   {
+    "word": "the operating theatre",
+    "translation_uz": "operatsiya xonasi",
+    "example_sentence": "Nurses prepared the operating theatre."
+   },
+   {
+    "word": "a surgeon / surgery",
+    "translation_uz": "jarroh / jarrohlik",
+    "example_sentence": "The surgeon explained the surgery to the family."
+   },
+   {
+    "word": "take a drug",
+    "translation_uz": "dori qabul qilmoq",
+    "example_sentence": "Take this drug twice a day."
+   },
+   {
+    "word": "a prescription drug",
+    "translation_uz": "retsept bilan beriladigan dori",
+    "example_sentence": "You need a doctor's note for a prescription drug."
+   },
+   {
+    "word": "a new / powerful drug",
+    "translation_uz": "yangi / kuchli dori",
+    "example_sentence": "Researchers have developed a new drug for asthma."
+   },
+   {
+    "word": "side effects of a drug",
+    "translation_uz": "dorining nojo'ya ta'siri",
+    "example_sentence": "Some drugs have side effects, such as sleepiness."
+   },
+   {
+    "word": "a drug company / the drug industry",
+    "translation_uz": "farmatsevtika kompaniyasi / dori sanoati",
+    "example_sentence": "The drug industry employs many scientists."
+   },
+   {
+    "word": "follow the instructions",
+    "translation_uz": "ko'rsatmaga amal qilmoq",
+    "example_sentence": "Always follow the instructions on the label."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandfather had a knee ___ last year.",
+    "correct_word": "operation",
+    "options": [
+     "operation",
+     "operate",
+     "operator",
+     "operating"
+    ]
+   },
+   {
+    "sentence_with_blank": "The surgeon ___ the operation successfully.",
+    "correct_word": "performed",
+    "options": [
+     "played",
+     "performed",
+     "acted",
+     "built"
+    ]
+   },
+   {
+    "sentence_with_blank": "After a minor operation, he recovered quickly ___ a few days.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "on",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "You need a doctor's note to buy this ___ drug.",
+    "correct_word": "prescription",
+    "options": [
+     "recipe",
+     "order",
+     "receipt",
+     "prescription"
+    ]
+   },
+   {
+    "sentence_with_blank": "Some drugs have ___ effects, such as sleepiness.",
+    "correct_word": "side",
+    "options": [
+     "side",
+     "next",
+     "edge",
+     "corner"
+    ]
+   },
+   {
+    "sentence_with_blank": "Always ___ the instructions on the medicine label.",
+    "correct_word": "follow",
+    "options": [
+     "chase",
+     "follow",
+     "lead",
+     "guide"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Grandmother's Operation",
+   "text": "Last spring my grandmother had an operation on her knee. She had pain for many years, and walking was difficult. The surgeon explained that it was a minor operation, and she would go home in two days. A team of doctors performed the operation in the morning, and everything went well. She had to take a drug twice a day to ease the pain and to avoid infection. The doctor warned her that some drugs have side effects, so she followed the instructions carefully. After a month of rest and exercise, she recovered from the operation and could walk in the garden again.",
+   "key_words": [
+    {
+     "word": "surgeon",
+     "translation_uz": "jarroh"
+    },
+    {
+     "word": "side effect",
+     "translation_uz": "nojo'ya ta'sir"
+    },
+    {
+     "word": "garden",
+     "translation_uz": "bog'"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of operation did the grandmother have?",
+     "options": [
+      "A knee operation",
+      "A heart operation",
+      "An eye operation",
+      "A tooth operation"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How often did she take the drug?",
+     "options": [
+      "Once a week",
+      "Twice a day",
+      "Every hour",
+      "Once a month"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What could she do after a month?",
+     "options": [
+      "Run a race",
+      "Ride a bike",
+      "Walk in the garden",
+      "Play tennis"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Pharmacy Advice",
+   "script": "Pharmacist: Here is the drug your doctor prescribed. Take one tablet in the morning and one in the evening, with food. Customer: Does it have any side effects? Pharmacist: Some people feel sleepy. If that happens, you should tell your doctor. Customer: My son also had an operation last month. Should he take it, too? Pharmacist: No, never give your medicine to another person. Every drug is different, and only a doctor can decide. Please read the instructions on the box.",
+   "questions": [
+    {
+     "question": "How often should the customer take the tablet?",
+     "options": [
+      "Once a week",
+      "Only at night",
+      "Three times a day",
+      "Morning and evening"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What side effect is mentioned?",
+     "options": [
+      "Feeling sleepy",
+      "Hair loss",
+      "Headache",
+      "Stomach pain"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the pharmacist say about giving the medicine to others?",
+     "options": [
+      "It is fine.",
+      "Never do it.",
+      "Only to children.",
+      "Only to friends."
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "She had an operation last week.",
+    "Always follow the instructions carefully.",
+    "Some drugs have side effects."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "An operation",
+    "question_text": "Do you know anyone who has had an operation?",
+    "hint_words": [
+     "surgeon",
+     "hospital",
+     "recovery",
+     "pain"
+    ]
+   },
+   {
+    "topic": "Medicine safety",
+    "question_text": "Why is it important to follow the instructions on medicine?",
+    "hint_words": [
+     "safe",
+     "dose",
+     "doctor",
+     "label"
+    ]
+   },
+   {
+    "topic": "Hospitals",
+    "question_text": "Why are surgeons and nurses important?",
+    "hint_words": [
+     "help",
+     "skill",
+     "care",
+     "patients"
+    ]
+   }
+  ]
+ }
+]

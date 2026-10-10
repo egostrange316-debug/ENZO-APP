@@ -1,0 +1,1438 @@
+[
+ {
+  "unit": 90,
+  "title": "shop",
+  "vocabulary": [
+   {
+    "word": "open a shop",
+    "translation_uz": "do'kon ochmoq",
+    "example_sentence": "My aunt wants to open a shop in our town."
+   },
+   {
+    "word": "run a shop",
+    "translation_uz": "do'konni boshqarmoq",
+    "example_sentence": "He runs a small shop with his brother."
+   },
+   {
+    "word": "close the shop",
+    "translation_uz": "do'konni yopmoq",
+    "example_sentence": "They close the shop at eight o'clock."
+   },
+   {
+    "word": "work in a shop",
+    "translation_uz": "do'konda ishlamoq",
+    "example_sentence": "My sister works in a shop on Saturdays."
+   },
+   {
+    "word": "go to the shops",
+    "translation_uz": "do'konlarga bormoq",
+    "example_sentence": "I am going to the shops to buy bread."
+   },
+   {
+    "word": "a shoe shop",
+    "translation_uz": "poyabzal do'koni",
+    "example_sentence": "There is a big shoe shop near the bus stop."
+   },
+   {
+    "word": "a corner shop",
+    "translation_uz": "burchakdagi kichik do'kon",
+    "example_sentence": "The corner shop sells sweets and newspapers."
+   },
+   {
+    "word": "a shop window",
+    "translation_uz": "vitrina",
+    "example_sentence": "The toy in the shop window is very nice."
+   },
+   {
+    "word": "a shop assistant",
+    "translation_uz": "do'kon sotuvchisi",
+    "example_sentence": "The shop assistant helped me find a T-shirt."
+   },
+   {
+    "word": "shop for clothes",
+    "translation_uz": "kiyim sotib olish uchun xarid qilmoq",
+    "example_sentence": "We shop for clothes at the weekend."
+   },
+   {
+    "word": "a bookshop",
+    "translation_uz": "kitob do'koni",
+    "example_sentence": "I bought a dictionary in the bookshop."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My uncle wants to ___ a shop in the city centre.",
+    "correct_word": "open",
+    "options": [
+     "open",
+     "read",
+     "sing",
+     "jump"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ in a shop after school.",
+    "correct_word": "works",
+    "options": [
+     "sleeps",
+     "works",
+     "paints",
+     "swims"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am going ___ the shops to buy some socks.",
+    "correct_word": "to",
+    "options": [
+     "of",
+     "by",
+     "to",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The shop assistant ___ the shop at six o'clock every evening.",
+    "correct_word": "closes",
+    "options": [
+     "drinks",
+     "climbs",
+     "listens",
+     "closes"
+    ]
+   },
+   {
+    "sentence_with_blank": "A shop that sells shoes is a shoe ___.",
+    "correct_word": "shop",
+    "options": [
+     "shop",
+     "tree",
+     "song",
+     "river"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Grandpa's Shop",
+   "text": "My grandfather runs a small corner shop in our street. He opens the shop at seven o'clock every morning. He sells bread, milk and sweets. In the shop window there is always a big cake. On Saturdays I work in the shop with him. I am a shop assistant for the day! At six o'clock we close the shop and walk home together.",
+   "key_words": [
+    {
+     "word": "corner shop",
+     "translation_uz": "burchakdagi kichik do'kon"
+    },
+    {
+     "word": "sweets",
+     "translation_uz": "shirinliklar"
+    },
+    {
+     "word": "together",
+     "translation_uz": "birga"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is Grandpa's shop?",
+     "options": [
+      "In the city centre",
+      "Near the school",
+      "On the writer's street",
+      "In a village"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is always in the shop window?",
+     "options": [
+      "A big cake",
+      "A toy",
+      "Some shoes",
+      "A book"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When does the writer work in the shop?",
+     "options": [
+      "On Mondays",
+      "Every evening",
+      "On Sundays",
+      "On Saturdays"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Going to the Shops",
+   "script": "Today I am going to the shops with my mum. First we visit a shoe shop because I need new shoes. A friendly shop assistant helps us. Then we look at a bookshop window. I see a book about dinosaurs. Mum says I can buy it on my birthday.",
+   "questions": [
+    {
+     "question": "Why do they visit the shoe shop?",
+     "options": [
+      "They want some milk",
+      "The speaker needs new shoes",
+      "Mum wants a bag",
+      "It is a birthday party"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who helps them in the shoe shop?",
+     "options": [
+      "A teacher",
+      "A doctor",
+      "A shop assistant",
+      "A neighbour"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the speaker see in the bookshop window?",
+     "options": [
+      "A book about dinosaurs",
+      "A football",
+      "A cake",
+      "A new coat"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I work in a shop.",
+    "Open the shop.",
+    "She runs a corner shop."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Shops",
+    "question_text": "Do you like going to the shops? Why or why not?",
+    "hint_words": [
+     "I like",
+     "shops",
+     "buy",
+     "because"
+    ]
+   },
+   {
+    "topic": "Work",
+    "question_text": "Would you like to work in a shop one day?",
+    "hint_words": [
+     "I would like",
+     "shop assistant",
+     "work",
+     "customers"
+    ]
+   },
+   {
+    "topic": "My street",
+    "question_text": "What kind of shops are near your home?",
+    "hint_words": [
+     "near my home",
+     "corner shop",
+     "bookshop",
+     "sell"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 91,
+  "title": "supermarket, customer",
+  "vocabulary": [
+   {
+    "word": "go to the supermarket",
+    "translation_uz": "supermarketga bormoq",
+    "example_sentence": "We go to the supermarket every Friday."
+   },
+   {
+    "word": "shop at the supermarket",
+    "translation_uz": "supermarketda xarid qilmoq",
+    "example_sentence": "My mother shops at the supermarket near our flat."
+   },
+   {
+    "word": "a supermarket trolley",
+    "translation_uz": "supermarket aravachasi",
+    "example_sentence": "The little boy sat in the supermarket trolley."
+   },
+   {
+    "word": "a supermarket checkout",
+    "translation_uz": "supermarketdagi kassa",
+    "example_sentence": "There was a long queue at the supermarket checkout."
+   },
+   {
+    "word": "work in a supermarket",
+    "translation_uz": "supermarketda ishlamoq",
+    "example_sentence": "My cousin works in a supermarket in the evenings."
+   },
+   {
+    "word": "a regular customer",
+    "translation_uz": "doimiy mijoz",
+    "example_sentence": "Mrs Brown is a regular customer in our bakery."
+   },
+   {
+    "word": "serve a customer",
+    "translation_uz": "mijozga xizmat ko'rsatmoq",
+    "example_sentence": "The girl is serving a customer at the till."
+   },
+   {
+    "word": "a new customer",
+    "translation_uz": "yangi mijoz",
+    "example_sentence": "We have a new customer today."
+   },
+   {
+    "word": "customer service",
+    "translation_uz": "mijozlarga xizmat ko'rsatish",
+    "example_sentence": "The shop has very good customer service."
+   },
+   {
+    "word": "attract customers",
+    "translation_uz": "mijozlarni jalb qilmoq",
+    "example_sentence": "Cheap prices attract customers."
+   },
+   {
+    "word": "a happy customer",
+    "translation_uz": "mamnun mijoz",
+    "example_sentence": "Every happy customer comes back again."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We usually ___ to the supermarket on Saturday morning.",
+    "correct_word": "go",
+    "options": [
+     "fly",
+     "go",
+     "cook",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "The shop assistant is ___ a customer at the till.",
+    "correct_word": "serving",
+    "options": [
+     "growing",
+     "wearing",
+     "serving",
+     "painting"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mr Ali comes here every day. He is a ___ customer.",
+    "correct_word": "regular",
+    "options": [
+     "tall",
+     "wet",
+     "loud",
+     "regular"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a long queue at the supermarket ___.",
+    "correct_word": "checkout",
+    "options": [
+     "checkout",
+     "window",
+     "garden",
+     "bedroom"
+    ]
+   },
+   {
+    "sentence_with_blank": "Big signs and low prices ___ customers to the shop.",
+    "correct_word": "attract",
+    "options": [
+     "sleep",
+     "attract",
+     "borrow",
+     "drop"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Saturday at the Supermarket",
+   "text": "Every Saturday I go to the supermarket with my father. He takes a trolley and I push it. We buy food for the week. The supermarket is busy, and there is often a long queue at the checkout. A friendly woman serves each customer with a smile. My father is a regular customer, so she knows his name. The supermarket has good customer service.",
+   "key_words": [
+    {
+     "word": "queue",
+     "translation_uz": "navbat"
+    },
+    {
+     "word": "smile",
+     "translation_uz": "tabassum"
+    },
+    {
+     "word": "busy",
+     "translation_uz": "gavjum, band"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who pushes the trolley?",
+     "options": [
+      "The father",
+      "The woman at the till",
+      "A new customer",
+      "The writer"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is there at the checkout?",
+     "options": [
+      "Often a long queue",
+      "A free cake",
+      "A dog",
+      "Nothing at all"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why does the woman know the father's name?",
+     "options": [
+      "He works there",
+      "He is a regular customer",
+      "He is her brother",
+      "He is a teacher"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A New Job",
+   "script": "My sister has a new job in a supermarket. She works at the checkout from nine to five. She serves a lot of customers every day. Some customers are rude, but most of them are happy and polite. Her manager says she is very good at customer service. On Sunday we will visit her.",
+   "questions": [
+    {
+     "question": "Where does the speaker's sister work?",
+     "options": [
+      "In a bank",
+      "In a school",
+      "At a supermarket checkout",
+      "In a hospital"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What time does she finish work?",
+     "options": [
+      "At five",
+      "At nine",
+      "At six",
+      "At four"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does her manager say?",
+     "options": [
+      "She is late",
+      "She is good at customer service",
+      "She is too quiet",
+      "She must go home"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I shop at the supermarket.",
+    "Take a trolley.",
+    "She serves a customer."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Supermarket",
+    "question_text": "How often do you go to the supermarket?",
+    "hint_words": [
+     "once a week",
+     "with my",
+     "buy",
+     "food"
+    ]
+   },
+   {
+    "topic": "Queues",
+    "question_text": "Do you mind waiting in a queue at the checkout?",
+    "hint_words": [
+     "I do not mind",
+     "long",
+     "wait",
+     "checkout"
+    ]
+   },
+   {
+    "topic": "Good service",
+    "question_text": "What makes a shop good for customers?",
+    "hint_words": [
+     "friendly",
+     "cheap",
+     "customer service",
+     "clean"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 92,
+  "title": "meat, chicken",
+  "vocabulary": [
+   {
+    "word": "cook meat",
+    "translation_uz": "go'sht pishirmoq",
+    "example_sentence": "Mum cooks meat for dinner on Sundays."
+   },
+   {
+    "word": "fresh meat",
+    "translation_uz": "yangi go'sht",
+    "example_sentence": "The butcher sells fresh meat every morning."
+   },
+   {
+    "word": "red meat",
+    "translation_uz": "qizil go'sht",
+    "example_sentence": "Doctors say we should not eat too much red meat."
+   },
+   {
+    "word": "minced meat",
+    "translation_uz": "qiyma",
+    "example_sentence": "We use minced meat to make burgers."
+   },
+   {
+    "word": "a piece of meat",
+    "translation_uz": "bir bo'lak go'sht",
+    "example_sentence": "The cat took a piece of meat from the table."
+   },
+   {
+    "word": "cut the meat",
+    "translation_uz": "go'shtni kesmoq",
+    "example_sentence": "Be careful when you cut the meat."
+   },
+   {
+    "word": "roast chicken",
+    "translation_uz": "qovurilgan tovuq",
+    "example_sentence": "Roast chicken is my favourite Sunday lunch."
+   },
+   {
+    "word": "fried chicken",
+    "translation_uz": "qovurilgan (yog'da) tovuq",
+    "example_sentence": "We bought fried chicken for the picnic."
+   },
+   {
+    "word": "grilled chicken",
+    "translation_uz": "panjara/grilda pishirilgan tovuq",
+    "example_sentence": "My father makes grilled chicken in the garden."
+   },
+   {
+    "word": "chicken soup",
+    "translation_uz": "tovuq sho'rva",
+    "example_sentence": "Grandma makes chicken soup when I am ill."
+   },
+   {
+    "word": "a chicken breast",
+    "translation_uz": "tovuq ko'kragi",
+    "example_sentence": "Add a chicken breast to the salad."
+   },
+   {
+    "word": "keep chickens",
+    "translation_uz": "tovuq boqmoq",
+    "example_sentence": "They keep chickens on their farm."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ the meat for twenty minutes.",
+    "correct_word": "cook",
+    "options": [
+     "dig",
+     "read",
+     "cook",
+     "ride"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandma always makes chicken ___ when someone has a cold.",
+    "correct_word": "soup",
+    "options": [
+     "book",
+     "bridge",
+     "pencil",
+     "soup"
+    ]
+   },
+   {
+    "sentence_with_blank": "We do not eat meat from yesterday because it is not ___.",
+    "correct_word": "fresh",
+    "options": [
+     "fresh",
+     "rich",
+     "tall",
+     "early"
+    ]
+   },
+   {
+    "sentence_with_blank": "The farmer keeps ___ and sells their eggs.",
+    "correct_word": "chickens",
+    "options": [
+     "tables",
+     "chickens",
+     "pencils",
+     "clouds"
+    ]
+   },
+   {
+    "sentence_with_blank": "She asked the butcher for a kilo of ___ meat to make burgers.",
+    "correct_word": "minced",
+    "options": [
+     "fried",
+     "roast",
+     "minced",
+     "boiled"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Sunday Lunch",
+   "text": "On Sundays my family has a big lunch. My mother buys fresh meat from the butcher on Saturday. She cooks roast chicken with potatoes and carrots. My little brother does not like red meat, but he loves chicken. Sometimes my grandmother brings chicken soup. It smells wonderful! After lunch we all wash the plates together.",
+   "key_words": [
+    {
+     "word": "butcher",
+     "translation_uz": "qassob"
+    },
+    {
+     "word": "carrots",
+     "translation_uz": "sabzi"
+    },
+    {
+     "word": "smells",
+     "translation_uz": "hid taratmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where does the mother buy meat?",
+     "options": [
+      "From a farm",
+      "From the butcher",
+      "From a market stall",
+      "From the supermarket"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the little brother like?",
+     "options": [
+      "Red meat",
+      "Fish",
+      "Chicken",
+      "Cheese"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does grandmother sometimes bring?",
+     "options": [
+      "Chicken soup",
+      "Roast chicken",
+      "A cake",
+      "Fruit"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Butcher's",
+   "script": "I am at the butcher's with Dad. He wants a piece of meat for tonight. The butcher shows us some fresh meat and some minced meat. Dad chooses minced meat because we are making burgers. I also ask for a grilled chicken for tomorrow. The butcher puts everything in a bag.",
+   "questions": [
+    {
+     "question": "What does Dad choose?",
+     "options": [
+      "Fried chicken",
+      "Fish",
+      "A roast chicken",
+      "Minced meat"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What are they making tonight?",
+     "options": [
+      "Burgers",
+      "Soup",
+      "Pizza",
+      "Sandwiches"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the speaker ask for?",
+     "options": [
+      "Some cheese",
+      "A grilled chicken",
+      "A cake",
+      "Red meat"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I eat chicken soup.",
+    "Cook the meat.",
+    "It is fresh meat."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Meat",
+    "question_text": "Do you like meat? What kind?",
+    "hint_words": [
+     "I like",
+     "chicken",
+     "meat",
+     "because"
+    ]
+   },
+   {
+    "topic": "Sunday lunch",
+    "question_text": "What do you eat for lunch on Sundays?",
+    "hint_words": [
+     "we have",
+     "roast chicken",
+     "soup",
+     "family"
+    ]
+   },
+   {
+    "topic": "Cooking",
+    "question_text": "Can you cook chicken? How?",
+    "hint_words": [
+     "fry",
+     "grill",
+     "I can",
+     "cook"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 93,
+  "title": "fish, oil, egg",
+  "vocabulary": [
+   {
+    "word": "catch fish",
+    "translation_uz": "baliq tutmoq",
+    "example_sentence": "My grandfather catches fish in the river."
+   },
+   {
+    "word": "fresh fish",
+    "translation_uz": "yangi baliq",
+    "example_sentence": "Fresh fish is sold at the market early in the day."
+   },
+   {
+    "word": "fish and chips",
+    "translation_uz": "baliq va qovurilgan kartoshka",
+    "example_sentence": "We had fish and chips by the sea."
+   },
+   {
+    "word": "a fish tank",
+    "translation_uz": "akvarium",
+    "example_sentence": "There are five colourful fish in our fish tank."
+   },
+   {
+    "word": "olive oil",
+    "translation_uz": "zaytun moyi",
+    "example_sentence": "Put a little olive oil on the salad."
+   },
+   {
+    "word": "vegetable oil",
+    "translation_uz": "o'simlik moyi",
+    "example_sentence": "Fry the onions in vegetable oil."
+   },
+   {
+    "word": "fry in oil",
+    "translation_uz": "moyda qovurmoq",
+    "example_sentence": "Do not fry in oil without an adult."
+   },
+   {
+    "word": "boil an egg",
+    "translation_uz": "tuxum qaynatmoq",
+    "example_sentence": "It takes ten minutes to boil an egg."
+   },
+   {
+    "word": "crack an egg",
+    "translation_uz": "tuxumni chaqmoq",
+    "example_sentence": "Crack an egg into the bowl."
+   },
+   {
+    "word": "a fried egg",
+    "translation_uz": "qovurilgan tuxum",
+    "example_sentence": "I like a fried egg on toast."
+   },
+   {
+    "word": "scrambled eggs",
+    "translation_uz": "tuxum qalampir (omlet)",
+    "example_sentence": "Dad makes scrambled eggs on Sunday mornings."
+   },
+   {
+    "word": "lay an egg",
+    "translation_uz": "tuxum qo'ymoq",
+    "example_sentence": "Our hen lays an egg every day."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My uncle likes to ___ fish at the lake on Saturdays.",
+    "correct_word": "catch",
+    "options": [
+     "kick",
+     "wear",
+     "ring",
+     "catch"
+    ]
+   },
+   {
+    "sentence_with_blank": "First, ___ an egg into a small bowl.",
+    "correct_word": "crack",
+    "options": [
+     "crack",
+     "pour",
+     "grow",
+     "sell"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is a healthy dressing: lemon juice and ___ oil.",
+    "correct_word": "olive",
+    "options": [
+     "blue",
+     "olive",
+     "happy",
+     "empty"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ the eggs for ten minutes and then eat them.",
+    "correct_word": "boil",
+    "options": [
+     "sew",
+     "fly",
+     "boil",
+     "dance"
+    ]
+   },
+   {
+    "sentence_with_blank": "The hens ___ an egg every morning.",
+    "correct_word": "lay",
+    "options": [
+     "sit",
+     "build",
+     "miss",
+     "lay"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Breakfast by the Sea",
+   "text": "Last summer we stayed in a small house by the sea. Every morning my father caught fresh fish and my mother fried it in a little olive oil. For breakfast I had a boiled egg and bread. My sister preferred scrambled eggs. On the last evening we ate fish and chips on the beach. It was the best meal of the holiday.",
+   "key_words": [
+    {
+     "word": "beach",
+     "translation_uz": "plyaj"
+    },
+    {
+     "word": "meal",
+     "translation_uz": "ovqat"
+    },
+    {
+     "word": "preferred",
+     "translation_uz": "afzal ko'rdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who caught the fish?",
+     "options": [
+      "The writer",
+      "The sister",
+      "The writer's father",
+      "The mother"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the writer have for breakfast?",
+     "options": [
+      "A boiled egg and bread",
+      "Scrambled eggs",
+      "Fish and chips",
+      "Chicken soup"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did they eat on the last evening?",
+     "options": [
+      "Roast chicken",
+      "Fish and chips on the beach",
+      "Pasta at home",
+      "Fried eggs"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Making Omelettes",
+   "script": "Today I am cooking breakfast. I crack three eggs into a bowl. Then I put a little vegetable oil in a pan. When the pan is hot, I pour in the eggs. My brother wants a fried egg instead, so I make one for him. We eat together with some bread.",
+   "questions": [
+    {
+     "question": "How many eggs does the speaker crack?",
+     "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What goes in the pan first?",
+     "options": [
+      "Bread",
+      "A little vegetable oil",
+      "Water",
+      "Milk"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the brother want?",
+     "options": [
+      "Scrambled eggs",
+      "Fish",
+      "A fried egg",
+      "Chicken"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Crack an egg.",
+    "I like fresh fish.",
+    "Use olive oil."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Eggs",
+    "question_text": "How do you like your eggs: boiled, fried or scrambled?",
+    "hint_words": [
+     "I like",
+     "boiled",
+     "fried",
+     "scrambled"
+    ]
+   },
+   {
+    "topic": "Fish",
+    "question_text": "Do you eat fish? Where does it come from?",
+    "hint_words": [
+     "I eat",
+     "sea",
+     "river",
+     "fresh"
+    ]
+   },
+   {
+    "topic": "Cooking oil",
+    "question_text": "What do people use oil for in the kitchen?",
+    "hint_words": [
+     "fry",
+     "olive oil",
+     "salad",
+     "cook"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 94,
+  "title": "milk, cheese",
+  "vocabulary": [
+   {
+    "word": "a glass of milk",
+    "translation_uz": "bir stakan sut",
+    "example_sentence": "I drink a glass of milk every morning."
+   },
+   {
+    "word": "pour milk",
+    "translation_uz": "sut quymoq",
+    "example_sentence": "Pour some milk into my cereal, please."
+   },
+   {
+    "word": "fresh milk",
+    "translation_uz": "yangi sut",
+    "example_sentence": "The farmer brings fresh milk every day."
+   },
+   {
+    "word": "a carton of milk",
+    "translation_uz": "bir quti sut",
+    "example_sentence": "We need a carton of milk from the shop."
+   },
+   {
+    "word": "milk and sugar",
+    "translation_uz": "sut va shakar",
+    "example_sentence": "Would you like milk and sugar in your tea?"
+   },
+   {
+    "word": "a milkshake",
+    "translation_uz": "sutli kokteyl",
+    "example_sentence": "She ordered a strawberry milkshake."
+   },
+   {
+    "word": "a piece of cheese",
+    "translation_uz": "bir bo'lak pishloq",
+    "example_sentence": "The mouse found a piece of cheese."
+   },
+   {
+    "word": "grate cheese",
+    "translation_uz": "pishloqni ishqalamoq (maydalamoq)",
+    "example_sentence": "Grate some cheese over the pasta."
+   },
+   {
+    "word": "a cheese sandwich",
+    "translation_uz": "pishloqli sendvich",
+    "example_sentence": "He eats a cheese sandwich at school."
+   },
+   {
+    "word": "goat's cheese",
+    "translation_uz": "echki pishlog'i",
+    "example_sentence": "Goat's cheese has a strong taste."
+   },
+   {
+    "word": "melted cheese",
+    "translation_uz": "erigan pishloq",
+    "example_sentence": "Pizza with melted cheese is delicious."
+   },
+   {
+    "word": "spill milk",
+    "translation_uz": "sut to'kmoq",
+    "example_sentence": "Oops, I spilled the milk on the floor!"
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can you ___ some milk into my cup, please?",
+    "correct_word": "pour",
+    "options": [
+     "pour",
+     "climb",
+     "kick",
+     "wear"
+    ]
+   },
+   {
+    "sentence_with_blank": "I had a cheese ___ for lunch.",
+    "correct_word": "sandwich",
+    "options": [
+     "window",
+     "sandwich",
+     "lesson",
+     "garden"
+    ]
+   },
+   {
+    "sentence_with_blank": "Would you like milk and ___ in your coffee?",
+    "correct_word": "sugar",
+    "options": [
+     "stairs",
+     "tickets",
+     "sugar",
+     "shoes"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ the cheese and put it on the pizza.",
+    "correct_word": "Grate",
+    "options": [
+     "Drink",
+     "Ride",
+     "Sing",
+     "Grate"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful, don't ___ the milk!",
+    "correct_word": "spill",
+    "options": [
+     "spill",
+     "grow",
+     "visit",
+     "invite"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Farm Visit",
+   "text": "Last week our class visited a farm. We saw cows and a farmer showed us how to get fresh milk. We each drank a glass of milk and it was still warm! Then the farmer's wife made cheese in a big kitchen. She gave us a piece of cheese on a slice of bread. I do not usually like cheese, but this one was delicious. I want to go back next year.",
+   "key_words": [
+    {
+     "word": "farmer",
+     "translation_uz": "fermer"
+    },
+    {
+     "word": "slice",
+     "translation_uz": "bo'lak (non)"
+    },
+    {
+     "word": "warm",
+     "translation_uz": "iliq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who visited the farm?",
+     "options": [
+      "The writer's family",
+      "The writer's class",
+      "Some farmers",
+      "A cooking club"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was special about the milk?",
+     "options": [
+      "It was still warm",
+      "It was cold",
+      "It was sweet",
+      "It was blue"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the farmer's wife give them?",
+     "options": [
+      "A milkshake",
+      "A cheese pizza",
+      "A carton of milk",
+      "A piece of cheese on bread"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Breakfast Time",
+   "script": "Good morning! For breakfast I have a glass of milk and a cheese sandwich. My sister pours milk on her cereal and adds a little sugar. Dad grates some cheese for his omelette. Then he spills the milk on the table, and we all laugh. Mum brings a cloth and cleans it.",
+   "questions": [
+    {
+     "question": "What does the speaker have for breakfast?",
+     "options": [
+      "Only cereal",
+      "An omelette",
+      "A glass of milk and a cheese sandwich",
+      "Fish and chips"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who grates some cheese?",
+     "options": [
+      "Dad",
+      "The sister",
+      "Mum",
+      "The speaker"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happens to the milk?",
+     "options": [
+      "It is too hot",
+      "Dad spills it on the table",
+      "The cat drinks it",
+      "It is all gone"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Pour some milk.",
+    "I like cheese.",
+    "A glass of milk, please."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Milk",
+    "question_text": "Do you like milk? How do you drink it?",
+    "hint_words": [
+     "I drink",
+     "a glass of",
+     "cold",
+     "hot"
+    ]
+   },
+   {
+    "topic": "Cheese",
+    "question_text": "What food do you eat with cheese?",
+    "hint_words": [
+     "sandwich",
+     "pizza",
+     "pasta",
+     "I eat"
+    ]
+   },
+   {
+    "topic": "Breakfast",
+    "question_text": "What do you have for breakfast?",
+    "hint_words": [
+     "I have",
+     "bread",
+     "milk",
+     "tea"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 95,
+  "title": "vegetables, fruit",
+  "vocabulary": [
+   {
+    "word": "grow vegetables",
+    "translation_uz": "sabzavot yetishtirmoq",
+    "example_sentence": "My grandparents grow vegetables in their garden."
+   },
+   {
+    "word": "fresh vegetables",
+    "translation_uz": "yangi sabzavotlar",
+    "example_sentence": "Fresh vegetables are good for your health."
+   },
+   {
+    "word": "chop vegetables",
+    "translation_uz": "sabzavotlarni maydalab kesmoq",
+    "example_sentence": "Please chop the vegetables for the soup."
+   },
+   {
+    "word": "steamed vegetables",
+    "translation_uz": "bug'da pishirilgan sabzavotlar",
+    "example_sentence": "We had fish with steamed vegetables."
+   },
+   {
+    "word": "a vegetable soup",
+    "translation_uz": "sabzavotli sho'rva",
+    "example_sentence": "I made a vegetable soup for lunch."
+   },
+   {
+    "word": "eat fruit",
+    "translation_uz": "mevalar yemoq",
+    "example_sentence": "Try to eat fruit every day."
+   },
+   {
+    "word": "fresh fruit",
+    "translation_uz": "yangi meva",
+    "example_sentence": "There is a bowl of fresh fruit on the table."
+   },
+   {
+    "word": "pick fruit",
+    "translation_uz": "meva terib olmoq",
+    "example_sentence": "We pick fruit in the orchard in autumn."
+   },
+   {
+    "word": "a fruit salad",
+    "translation_uz": "mevali salat",
+    "example_sentence": "She made a fruit salad for the party."
+   },
+   {
+    "word": "fruit juice",
+    "translation_uz": "meva sharbati",
+    "example_sentence": "Can I have some fruit juice, please?"
+   },
+   {
+    "word": "dried fruit",
+    "translation_uz": "quritilgan meva",
+    "example_sentence": "Dried fruit is a good snack for a long walk."
+   },
+   {
+    "word": "a piece of fruit",
+    "translation_uz": "bitta meva",
+    "example_sentence": "I take a piece of fruit to school."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandfather likes to ___ vegetables in his garden.",
+    "correct_word": "grow",
+    "options": [
+     "break",
+     "grow",
+     "sing",
+     "drive"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the vegetables into small pieces.",
+    "correct_word": "chop",
+    "options": [
+     "kick",
+     "wear",
+     "chop",
+     "close"
+    ]
+   },
+   {
+    "sentence_with_blank": "We pick ___ from the trees in September.",
+    "correct_word": "fruit",
+    "options": [
+     "stairs",
+     "chairs",
+     "pencils",
+     "fruit"
+    ]
+   },
+   {
+    "sentence_with_blank": "For dessert she made a fruit ___.",
+    "correct_word": "salad",
+    "options": [
+     "salad",
+     "book",
+     "door",
+     "shirt"
+    ]
+   },
+   {
+    "sentence_with_blank": "Doctors say we should eat fresh vegetables and ___ every day.",
+    "correct_word": "fruit",
+    "options": [
+     "sweets",
+     "fruit",
+     "crisps",
+     "oil"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our Garden",
+   "text": "My grandparents have a big garden behind their house. They grow vegetables like tomatoes, carrots and cucumbers. In summer we pick fruit from the trees: apples, plums and cherries. Grandma chops the fresh vegetables for a big soup and makes a fruit salad for dessert. She also dries some fruit for the winter. I always eat a lot when I visit them!",
+   "key_words": [
+    {
+     "word": "cucumbers",
+     "translation_uz": "bodring"
+    },
+    {
+     "word": "dessert",
+     "translation_uz": "shirinlik"
+    },
+    {
+     "word": "plums",
+     "translation_uz": "olxo'ri"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the garden?",
+     "options": [
+      "Behind the grandparents' house",
+      "Next to the school",
+      "In the city centre",
+      "Near the sea"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Grandma make for dessert?",
+     "options": [
+      "A vegetable soup",
+      "Cheese pizza",
+      "A fruit salad",
+      "Fried eggs"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why does Grandma dry some fruit?",
+     "options": [
+      "To sell it",
+      "To have it in winter",
+      "To feed the birds",
+      "To make juice"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Market",
+   "script": "On Saturday I go to the market with my aunt. We buy fresh vegetables: potatoes, onions and green peppers. Then we buy some fruit, six oranges and a big melon. Aunt wants fruit juice for the party, so we choose a bottle of orange juice. We carry everything home in two bags.",
+   "questions": [
+    {
+     "question": "Who goes to the market with the speaker?",
+     "options": [
+      "The grandmother",
+      "The aunt",
+      "A friend",
+      "The mother"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which fruit do they buy?",
+     "options": [
+      "Apples and plums",
+      "Cherries",
+      "Bananas and grapes",
+      "Oranges and a melon"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why do they buy juice?",
+     "options": [
+      "For the party",
+      "For breakfast",
+      "For a picnic",
+      "For the baby"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Eat fresh fruit.",
+    "Chop the vegetables.",
+    "I grow vegetables."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fruit",
+    "question_text": "What is your favourite fruit?",
+    "hint_words": [
+     "my favourite",
+     "sweet",
+     "I like",
+     "apple"
+    ]
+   },
+   {
+    "topic": "Vegetables",
+    "question_text": "Which vegetables do you not like?",
+    "hint_words": [
+     "I do not like",
+     "carrots",
+     "onions",
+     "because"
+    ]
+   },
+   {
+    "topic": "Healthy food",
+    "question_text": "What healthy food do you eat every day?",
+    "hint_words": [
+     "I eat",
+     "fruit",
+     "vegetables",
+     "healthy"
+    ]
+   }
+  ]
+ }
+]

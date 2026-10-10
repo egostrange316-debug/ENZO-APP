@@ -1,0 +1,3958 @@
+[
+ {
+  "unit": 146,
+  "title": "violence",
+  "vocabulary": [
+   {
+    "word": "use violence",
+    "translation_uz": "zo'ravonlikdan foydalanmoq",
+    "example_sentence": "Using violence never solves a problem between friends."
+   },
+   {
+    "word": "resort to violence",
+    "translation_uz": "zo'ravonlikka murojaat qilmoq",
+    "example_sentence": "The teacher asked us to talk, not to resort to violence."
+   },
+   {
+    "word": "an act of violence",
+    "translation_uz": "zo'ravonlik harakati",
+    "example_sentence": "The whole school condemned the act of violence."
+   },
+   {
+    "word": "condemn violence",
+    "translation_uz": "zo'ravonlikni qoralamoq",
+    "example_sentence": "Leaders around the world condemned the violence."
+   },
+   {
+    "word": "put an end to violence",
+    "translation_uz": "zo'ravonlikka chek qo'ymoq",
+    "example_sentence": "New rules helped put an end to violence at football matches."
+   },
+   {
+    "word": "reduce violence",
+    "translation_uz": "zo'ravonlikni kamaytirmoq",
+    "example_sentence": "The project aims to reduce violence in local schools."
+   },
+   {
+    "word": "violence on television",
+    "translation_uz": "televizordagi zo'ravonlik",
+    "example_sentence": "Some parents worry about the amount of violence on television."
+   },
+   {
+    "word": "violence in sport",
+    "translation_uz": "sportdagi zo'ravonlik",
+    "example_sentence": "Fans want to see less violence in sport."
+   },
+   {
+    "word": "violent behaviour",
+    "translation_uz": "zo'ravon xatti-harakat",
+    "example_sentence": "Violent behaviour is not allowed in our club."
+   },
+   {
+    "word": "a non-violent protest",
+    "translation_uz": "zo'ravonliksiz norozilik namoyishi",
+    "example_sentence": "The students organised a non-violent protest about the new road."
+   },
+   {
+    "word": "a violent storm",
+    "translation_uz": "kuchli (jala) bo'ron",
+    "example_sentence": "A violent storm hit the coast during the night."
+   },
+   {
+    "word": "shake violently",
+    "translation_uz": "qattiq silkinmoq",
+    "example_sentence": "The old bridge shook violently in the wind."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Never ___ to violence when you feel angry; talk about it instead.",
+    "correct_word": "resort",
+    "options": [
+     "escape",
+     "belong",
+     "resort",
+     "depend"
+    ]
+   },
+   {
+    "sentence_with_blank": "The mayor ___ the violence and asked everyone to stay calm.",
+    "correct_word": "condemned",
+    "options": [
+     "admired",
+     "ordered",
+     "ignored",
+     "condemned"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was an act ___ violence that shocked the whole town.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "for",
+     "in",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "Some parents think there is too much violence ___ television these days.",
+    "correct_word": "on",
+    "options": [
+     "at",
+     "on",
+     "by",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "The protesters chose a peaceful, non-___ way to show their opinion.",
+    "correct_word": "violent",
+    "options": [
+     "violence",
+     "violently",
+     "violent",
+     "violated"
+    ]
+   },
+   {
+    "sentence_with_blank": "The wind blew so ___ that several branches fell from the trees.",
+    "correct_word": "violently",
+    "options": [
+     "violence",
+     "violent",
+     "violating",
+     "violently"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Quiet Answer to a Hard Problem",
+   "text": "Last year our school had a problem with violent behaviour in the playground. The head teacher said that nobody should ever resort to violence, so she started a new project. Older students learned how to calm an argument before it became an act of violence. They also took part in a challenge to watch less violence on television during the week. Within six months the number of fights had fallen by half, and everyone felt safer. Now the school wants to share its ideas with other schools in the city.",
+   "key_words": [
+    {
+     "word": "resort to violence",
+     "translation_uz": "zo'ravonlikka murojaat qilmoq"
+    },
+    {
+     "word": "challenge",
+     "translation_uz": "sinov, musobaqa"
+    },
+    {
+     "word": "argument",
+     "translation_uz": "bahs, janjal"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What problem did the school have last year?",
+     "options": [
+      "A lack of teachers",
+      "Too much homework",
+      "Violent behaviour in the playground",
+      "Broken windows"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who learned how to calm an argument?",
+     "options": [
+      "Parents",
+      "The youngest children",
+      "Visitors",
+      "Older students"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What happened after six months?",
+     "options": [
+      "The number of fights fell by half",
+      "The school closed",
+      "Nobody watched television",
+      "The head teacher left"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Storm and Screen",
+   "script": "Mia: Did you see the programme about the storm last night? Ben: Yes! The wind was so violent that the boats shook violently in the harbour. Mia: It was frightening, but nobody was hurt. Ben: My mum switched channels when a film with too much violence came on. She says violence on television is a bad example for children. Mia: I agree. And our football coach says that using violence on the pitch is never acceptable. Any player who does it must leave the match.",
+   "questions": [
+    {
+     "question": "What did the boats do in the storm?",
+     "options": [
+      "They sank",
+      "They shook violently",
+      "They sailed away",
+      "They hit a bridge"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did Ben's mum switch channels?",
+     "options": [
+      "It was too late",
+      "The sound was bad",
+      "The film had too much violence",
+      "She wanted the news"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What must a player do if he uses violence?",
+     "options": [
+      "Say sorry to the fans",
+      "Run ten laps",
+      "Pay money",
+      "Leave the match"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Never resort to violence.",
+    "They condemned the act of violence.",
+    "The boats shook violently in the storm."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Violence",
+    "question_text": "Do you think there is too much violence on television?",
+    "hint_words": [
+     "yes",
+     "no",
+     "films",
+     "children"
+    ]
+   },
+   {
+    "topic": "Problems",
+    "question_text": "How can people solve an argument without violence?",
+    "hint_words": [
+     "talk",
+     "listen",
+     "calm",
+     "teacher"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "Have you ever seen a violent storm? What happened?",
+    "hint_words": [
+     "wind",
+     "rain",
+     "loud",
+     "scared"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 147,
+  "title": "warning",
+  "vocabulary": [
+   {
+    "word": "give a warning",
+    "translation_uz": "ogohlantirish bermoq",
+    "example_sentence": "The referee gave the player a warning."
+   },
+   {
+    "word": "issue a warning",
+    "translation_uz": "rasmiy ogohlantirish e'lon qilmoq",
+    "example_sentence": "The weather service issued a warning about heavy snow."
+   },
+   {
+    "word": "ignore a warning",
+    "translation_uz": "ogohlantirishni e'tiborsiz qoldirmoq",
+    "example_sentence": "Don't ignore a warning from your doctor."
+   },
+   {
+    "word": "heed a warning",
+    "translation_uz": "ogohlantirishga quloq solmoq",
+    "example_sentence": "Luckily, the hikers heeded the warning and turned back."
+   },
+   {
+    "word": "a final warning",
+    "translation_uz": "oxirgi ogohlantirish",
+    "example_sentence": "He got a final warning for being late again."
+   },
+   {
+    "word": "a stern warning",
+    "translation_uz": "qat'iy ogohlantirish",
+    "example_sentence": "The head teacher gave the class a stern warning."
+   },
+   {
+    "word": "a warning sign",
+    "translation_uz": "ogohlantiruvchi belgi",
+    "example_sentence": "There is a warning sign near the wet floor."
+   },
+   {
+    "word": "a health warning",
+    "translation_uz": "sog'liq haqida ogohlantirish",
+    "example_sentence": "Every packet carries a health warning."
+   },
+   {
+    "word": "a warning about",
+    "translation_uz": "...haqida ogohlantirish",
+    "example_sentence": "We received a warning about fake websites."
+   },
+   {
+    "word": "advance warning",
+    "translation_uz": "oldindan ogohlantirish",
+    "example_sentence": "We had no advance warning that the road would close."
+   },
+   {
+    "word": "without warning",
+    "translation_uz": "ogohlantirmasdan, to'satdan",
+    "example_sentence": "The lights went out without warning."
+   },
+   {
+    "word": "warn somebody against doing",
+    "translation_uz": "birovni ... qilishdan ogohlantirmoq",
+    "example_sentence": "The guide warned us against swimming in the river."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The police ___ a warning about thin ice on the lake.",
+    "correct_word": "issued",
+    "options": [
+     "took",
+     "held",
+     "set",
+     "issued"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ the warning and stayed far away from the cliff edge.",
+    "correct_word": "heeded",
+    "options": [
+     "heeded",
+     "ignored",
+     "broke",
+     "lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "Yesterday the doctor ___ him against eating too much sugar.",
+    "correct_word": "warned",
+    "options": [
+     "warning",
+     "warned",
+     "warn",
+     "warns"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a clear warning ___ the danger of fake emails.",
+    "correct_word": "about",
+    "options": [
+     "with",
+     "by",
+     "about",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The lights went out ___ warning, and the room was suddenly dark.",
+    "correct_word": "without",
+    "options": [
+     "with",
+     "under",
+     "by",
+     "without"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Storm Warning",
+   "text": "On Friday morning the weather service issued a storm warning for our town. Mrs Ahmed, our head teacher, gave everyone a clear warning: stay indoors after lunch. Some boys ignored the warning and went to the park, but they ran back when the wind rose without warning. Everyone else heeded the warning and played board games in the hall. By evening the storm had passed. Next time, said Mrs Ahmed, anyone who leaves the building will get a final warning.",
+   "key_words": [
+    {
+     "word": "indoors",
+     "translation_uz": "uy ichida, bino ichida"
+    },
+    {
+     "word": "hall",
+     "translation_uz": "zal"
+    },
+    {
+     "word": "passed",
+     "translation_uz": "o'tib ketdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who issued the storm warning?",
+     "options": [
+      "The police",
+      "A local shop",
+      "The boys",
+      "The weather service"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did some boys do?",
+     "options": [
+      "They went to the park",
+      "They stayed in the hall",
+      "They went home early",
+      "They called Mrs Ahmed"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the other students spend the afternoon?",
+     "options": [
+      "Doing sport outside",
+      "Playing board games in the hall",
+      "Sleeping in class",
+      "Watching the storm"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Sign by the River",
+   "script": "Dad: Look at that sign by the river. It says, Warning: deep water. Dina: Is it a warning about swimming? Dad: Yes. The council issued it after last summer, and they gave advance warning in the newspaper too. Dina: Some kids still ignore the warning, though. Dad: That is why we must heed it. A warning sign is there to keep us safe. Now, please stay behind the fence.",
+   "questions": [
+    {
+     "question": "Where is the sign?",
+     "options": [
+      "At the school",
+      "In the park",
+      "By the river",
+      "On the bridge"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the council do before putting up the sign?",
+     "options": [
+      "Closed the river",
+      "Asked children to swim",
+      "Painted the fence",
+      "Gave advance warning in the newspaper"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Dad ask Dina to do?",
+     "options": [
+      "Stay behind the fence",
+      "Take a photo",
+      "Go swimming",
+      "Call the council"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Please heed the warning.",
+    "He gave us a final warning.",
+    "The storm came without warning."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Safety",
+    "question_text": "What warning signs do you see in your town?",
+    "hint_words": [
+     "road",
+     "danger",
+     "red",
+     "sign"
+    ]
+   },
+   {
+    "topic": "Rules",
+    "question_text": "Have you ever ignored a warning? What happened?",
+    "hint_words": [
+     "once",
+     "ignored",
+     "mistake",
+     "learned"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "What do you do when there is a storm warning?",
+    "hint_words": [
+     "stay",
+     "indoors",
+     "news",
+     "safe"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 148,
+  "title": "way",
+  "vocabulary": [
+   {
+    "word": "on the way to",
+    "translation_uz": "...ga ketayotganda yo'lda",
+    "example_sentence": "I met my cousin on the way to school."
+   },
+   {
+    "word": "lose your way",
+    "translation_uz": "yo'lni yo'qotmoq, adashmoq",
+    "example_sentence": "We lost our way in the old part of the city."
+   },
+   {
+    "word": "ask the way",
+    "translation_uz": "yo'lni so'ramoq",
+    "example_sentence": "Let's ask the way at that shop."
+   },
+   {
+    "word": "find a way to",
+    "translation_uz": "...ning yo'lini topmoq",
+    "example_sentence": "They found a way to fix the broken clock."
+   },
+   {
+    "word": "give way (to)",
+    "translation_uz": "(...ga) yo'l bermoq",
+    "example_sentence": "Drivers must give way to buses here."
+   },
+   {
+    "word": "be in the way",
+    "translation_uz": "yo'lda turib xalaqit bermoq",
+    "example_sentence": "Move your bag, it's in the way."
+   },
+   {
+    "word": "make way for",
+    "translation_uz": "...uchun yo'l ochmoq",
+    "example_sentence": "Please make way for the ambulance."
+   },
+   {
+    "word": "by the way",
+    "translation_uz": "aytgancha",
+    "example_sentence": "By the way, have you finished the homework?"
+   },
+   {
+    "word": "a way of life",
+    "translation_uz": "hayot tarzi",
+    "example_sentence": "Farming is a way of life in many villages."
+   },
+   {
+    "word": "in a way",
+    "translation_uz": "qaysidir ma'noda",
+    "example_sentence": "In a way, I'm glad the trip was cancelled."
+   },
+   {
+    "word": "get your own way",
+    "translation_uz": "aytganini qildirmoq",
+    "example_sentence": "My little brother cries to get his own way."
+   },
+   {
+    "word": "a long way from",
+    "translation_uz": "...dan ancha uzoqda",
+    "example_sentence": "Our school is a long way from the station."
+   },
+   {
+    "word": "the other way round",
+    "translation_uz": "teskarisi",
+    "example_sentence": "I thought she was older, but it's the other way round."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We got lost and had to ___ the way to the station.",
+    "correct_word": "ask",
+    "options": [
+     "ask",
+     "say",
+     "get",
+     "call"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please don't stand in the ___; I can't see the board.",
+    "correct_word": "way",
+    "options": [
+     "step",
+     "way",
+     "side",
+     "place"
+    ]
+   },
+   {
+    "sentence_with_blank": "Drivers must give ___ to traffic coming from the right.",
+    "correct_word": "way",
+    "options": [
+     "route",
+     "road",
+     "way",
+     "street"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm sorry I'm late. I lost my ___ on the way here.",
+    "correct_word": "way",
+    "options": [
+     "map",
+     "road",
+     "time",
+     "way"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is very stubborn and always wants to get her own ___.",
+    "correct_word": "way",
+    "options": [
+     "way",
+     "wish",
+     "thing",
+     "will"
+    ]
+   },
+   {
+    "sentence_with_blank": "I thought he was younger than me, but it's the other way ___.",
+    "correct_word": "round",
+    "options": [
+     "back",
+     "round",
+     "off",
+     "in"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Lost in the Hills",
+   "text": "Last Saturday we were on our way to my aunt's village when we lost our way. The roads all looked the same, so we stopped and asked the way at a small shop. The shopkeeper said the village was a long way from the main road. By the way, he also told us that a lorry was in the way near the bridge, so we should give way there. Finally we arrived, two hours late. My aunt laughed and said that in a way, getting lost is part of every trip.",
+   "key_words": [
+    {
+     "word": "lorry",
+     "translation_uz": "yuk mashinasi"
+    },
+    {
+     "word": "shopkeeper",
+     "translation_uz": "do'kondor"
+    },
+    {
+     "word": "arrived",
+     "translation_uz": "yetib keldi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where were they going?",
+     "options": [
+      "To the aunt's village",
+      "To the station",
+      "To a school",
+      "To a shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who told them about the lorry?",
+     "options": [
+      "Their aunt",
+      "The shopkeeper",
+      "A police officer",
+      "A taxi driver"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How late were they?",
+     "options": [
+      "Ten minutes",
+      "One hour",
+      "Two hours",
+      "All day"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A New Cycle Lane",
+   "script": "Girl: Did you see the new cycle lane on Park Road? Boy: Yes. I was on my way to football when I used it. Cars now have to give way to cyclists at the corner. Girl: That is a big change. A year ago a van was always in the way. Boy: The council found a way to make more space. By the way, the lane is a long way from my house, but it is the safest route to school. Girl: Then it is worth the ride.",
+   "questions": [
+    {
+     "question": "Where is the new cycle lane?",
+     "options": [
+      "Near the station",
+      "By the river",
+      "At the school gate",
+      "On Park Road"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What must cars do at the corner?",
+     "options": [
+      "Give way to cyclists",
+      "Stop for ten minutes",
+      "Drive faster",
+      "Turn left"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why does the boy like the lane?",
+     "options": [
+      "It is very short",
+      "It is the safest route to school",
+      "It is near his house",
+      "It has no corners"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I lost my way yesterday.",
+    "Please make way for the bus.",
+    "It's the other way round."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Travel",
+    "question_text": "Have you ever lost your way? What did you do?",
+    "hint_words": [
+     "lost",
+     "map",
+     "asked",
+     "phone"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "What do you see on your way to school?",
+    "hint_words": [
+     "shops",
+     "trees",
+     "cars",
+     "park"
+    ]
+   },
+   {
+    "topic": "Habits",
+    "question_text": "Is it easy to get your own way at home?",
+    "hint_words": [
+     "sometimes",
+     "never",
+     "parents",
+     "argue"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 149,
+  "title": "word",
+  "vocabulary": [
+   {
+    "word": "a word of advice",
+    "translation_uz": "bir og'iz maslahat",
+    "example_sentence": "Let me give you a word of advice: check your answers twice."
+   },
+   {
+    "word": "a word of warning",
+    "translation_uz": "ogohlantirish so'zi",
+    "example_sentence": "A word of warning: the path is icy tonight."
+   },
+   {
+    "word": "keep your word",
+    "translation_uz": "so'zingda turmoq",
+    "example_sentence": "A good friend always keeps his word."
+   },
+   {
+    "word": "give your word",
+    "translation_uz": "so'z bermoq",
+    "example_sentence": "I give you my word that I won't tell anyone."
+   },
+   {
+    "word": "break your word",
+    "translation_uz": "so'zingni buzmoq",
+    "example_sentence": "He never breaks his word."
+   },
+   {
+    "word": "have a word with",
+    "translation_uz": "bilan gaplashib olmoq",
+    "example_sentence": "Could I have a quick word with you after class?"
+   },
+   {
+    "word": "in other words",
+    "translation_uz": "boshqacha qilib aytganda",
+    "example_sentence": "It is too late; in other words, we missed the bus."
+   },
+   {
+    "word": "word for word",
+    "translation_uz": "so'zma-so'z",
+    "example_sentence": "She repeated the poem word for word."
+   },
+   {
+    "word": "in a word",
+    "translation_uz": "bir so'z bilan aytganda",
+    "example_sentence": "How was the trip? In a word, wonderful."
+   },
+   {
+    "word": "put it into words",
+    "translation_uz": "so'z bilan ifodalamoq",
+    "example_sentence": "I was so happy that I couldn't put it into words."
+   },
+   {
+    "word": "spread the word",
+    "translation_uz": "xabarni tarqatmoq",
+    "example_sentence": "Please spread the word about the school concert."
+   },
+   {
+    "word": "the last word",
+    "translation_uz": "oxirgi (hal qiluvchi) so'z",
+    "example_sentence": "The head teacher has the last word on this."
+   },
+   {
+    "word": "word of mouth",
+    "translation_uz": "og'zaki tarqalgan xabar",
+    "example_sentence": "The café became famous by word of mouth."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My teacher always ___ her word and never forgets a promise.",
+    "correct_word": "keeps",
+    "options": [
+     "saves",
+     "keeps",
+     "guards",
+     "stores"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ me his word that he would return the book on Monday.",
+    "correct_word": "gave",
+    "options": [
+     "made",
+     "said",
+     "gave",
+     "took"
+    ]
+   },
+   {
+    "sentence_with_blank": "Could I have a quick ___ with you, please?",
+    "correct_word": "word",
+    "options": [
+     "speech",
+     "sentence",
+     "phrase",
+     "word"
+    ]
+   },
+   {
+    "sentence_with_blank": "I will repeat the poem word ___ word.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "on",
+     "at",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is raining; in other ___, we cannot play outside.",
+    "correct_word": "words",
+    "options": [
+     "versions",
+     "words",
+     "voices",
+     "letters"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the word about the school concert on Friday.",
+    "correct_word": "spread",
+    "options": [
+     "bend",
+     "pull",
+     "spread",
+     "shake"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Promise to Keep",
+   "text": "Last month I gave my word to my sister that I would help her with her project. Then my friends invited me to the cinema, and I almost broke my word. My father had a word with me and said, \"A person who keeps his word is trusted by everyone.\" That was a good word of advice, so I stayed home. We worked on the poster together, and my sister read her speech to me word for word. In a word, the evening was great, and the next day she spread the word about her excellent teacher: me!",
+   "key_words": [
+    {
+     "word": "project",
+     "translation_uz": "loyiha"
+    },
+    {
+     "word": "trusted",
+     "translation_uz": "ishonchli deb hisoblangan"
+    },
+    {
+     "word": "poster",
+     "translation_uz": "plakat"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the narrator promise his sister?",
+     "options": [
+      "To buy a poster",
+      "To help with her project",
+      "To go to the cinema",
+      "To read a book"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who gave the narrator advice?",
+     "options": [
+      "His teacher",
+      "His friend",
+      "His father",
+      "His sister"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the sister do on the next day?",
+     "options": [
+      "She went to the cinema",
+      "She broke her word",
+      "She lost her speech",
+      "She spread the word about her helper"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Words of Wisdom",
+   "script": "Teacher: Before the exam, I have a word of warning. Do not copy anything word for word from the book. Pupil: What should we do instead? Teacher: Put the idea into your own words. In other words, explain it your way. And if you have a problem, come and have a word with me. Pupil: Do you give your word that you will help? Teacher: Of course. I always keep my word. Now please spread the word to the other classes.",
+   "questions": [
+    {
+     "question": "What does the teacher warn the students about?",
+     "options": [
+      "Copying word for word",
+      "Coming late",
+      "Forgetting pens",
+      "Talking loudly"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What should students do instead?",
+     "options": [
+      "Ask a friend",
+      "Use their own words",
+      "Write less",
+      "Read aloud"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the teacher ask the pupil to do at the end?",
+     "options": [
+      "Hand in a paper",
+      "Open the window",
+      "Tell the other classes",
+      "Find a book"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I always keep my word.",
+    "Can I have a word with you?",
+    "She repeated it word for word."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Promises",
+    "question_text": "Do you always keep your word? Why?",
+    "hint_words": [
+     "yes",
+     "promise",
+     "friend",
+     "trust"
+    ]
+   },
+   {
+    "topic": "Advice",
+    "question_text": "What is the best word of advice you have ever had?",
+    "hint_words": [
+     "parents",
+     "school",
+     "advice",
+     "study"
+    ]
+   },
+   {
+    "topic": "Communication",
+    "question_text": "Can you always put your feelings into words?",
+    "hint_words": [
+     "sometimes",
+     "hard",
+     "happy",
+     "sad"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 150,
+  "title": "work",
+  "vocabulary": [
+   {
+    "word": "hard work",
+    "translation_uz": "qattiq mehnat",
+    "example_sentence": "Success needs a lot of hard work."
+   },
+   {
+    "word": "go to work",
+    "translation_uz": "ishga bormoq",
+    "example_sentence": "My mother goes to work by bus."
+   },
+   {
+    "word": "be at work",
+    "translation_uz": "ishda bo'lmoq",
+    "example_sentence": "Dad is at work until six."
+   },
+   {
+    "word": "be out of work",
+    "translation_uz": "ishsiz qolmoq",
+    "example_sentence": "Many people were out of work when the factory closed."
+   },
+   {
+    "word": "get down to work",
+    "translation_uz": "ishga kirishmoq",
+    "example_sentence": "Let's get down to work, the exam is next week."
+   },
+   {
+    "word": "do voluntary work",
+    "translation_uz": "ixtiyoriy (volontyorlik) ish qilmoq",
+    "example_sentence": "My sister does voluntary work at the animal shelter."
+   },
+   {
+    "word": "work experience",
+    "translation_uz": "ish tajribasi",
+    "example_sentence": "Students get work experience in an office for a week."
+   },
+   {
+    "word": "a piece of work",
+    "translation_uz": "bitta ish (asar, vazifa)",
+    "example_sentence": "This essay is an excellent piece of work."
+   },
+   {
+    "word": "a work of art",
+    "translation_uz": "san'at asari",
+    "example_sentence": "The painting is a real work of art."
+   },
+   {
+    "word": "paperwork",
+    "translation_uz": "hujjatlar bilan ishlash",
+    "example_sentence": "The teacher stays late to finish the paperwork."
+   },
+   {
+    "word": "work on a project",
+    "translation_uz": "loyiha ustida ishlamoq",
+    "example_sentence": "We are working on a science project."
+   },
+   {
+    "word": "work as",
+    "translation_uz": "...bo'lib ishlamoq",
+    "example_sentence": "He wants to work as a vet."
+   },
+   {
+    "word": "teamwork",
+    "translation_uz": "jamoaviy ish",
+    "example_sentence": "Good teamwork won us the match."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister does voluntary ___ at the animal shelter every Saturday.",
+    "correct_word": "work",
+    "options": [
+     "jobs",
+     "works",
+     "work",
+     "working"
+    ]
+   },
+   {
+    "sentence_with_blank": "After lunch we must get down ___ work.",
+    "correct_word": "to",
+    "options": [
+     "for",
+     "at",
+     "on",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people were ___ of work after the factory closed.",
+    "correct_word": "out",
+    "options": [
+     "out",
+     "off",
+     "without",
+     "away"
+    ]
+   },
+   {
+    "sentence_with_blank": "Leonardo's Mona Lisa is a famous ___ of art.",
+    "correct_word": "work",
+    "options": [
+     "job",
+     "work",
+     "task",
+     "labour"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wants to ___ as a vet when he leaves school.",
+    "correct_word": "work",
+    "options": [
+     "make",
+     "grow",
+     "work",
+     "stay"
+    ]
+   },
+   {
+    "sentence_with_blank": "We won because of good ___, not just one star player.",
+    "correct_word": "teamwork",
+    "options": [
+     "paperwork",
+     "homework",
+     "framework",
+     "teamwork"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Work Experience Week",
+   "text": "Last week our class had work experience in different places. I worked as a helper in a small museum. In the morning I got down to work with the paperwork, and then I showed visitors a famous work of art. It was hard work, but the team was kind, and good teamwork made every day easier. One man at the museum had been out of work for a year before he found this job. He told me that he does voluntary work too. I would like to work there again when I leave school.",
+   "key_words": [
+    {
+     "word": "visitor",
+     "translation_uz": "tashrif buyuruvchi"
+    },
+    {
+     "word": "museum",
+     "translation_uz": "muzey"
+    },
+    {
+     "word": "helper",
+     "translation_uz": "yordamchi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the narrator have work experience?",
+     "options": [
+      "In a shop",
+      "In a school",
+      "In a small museum",
+      "In a hospital"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the narrator do in the morning?",
+     "options": [
+      "Painting",
+      "Cooking",
+      "Driving",
+      "Paperwork"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the man do in addition to his job?",
+     "options": [
+      "Voluntary work",
+      "Sports coaching",
+      "Teaching",
+      "Cleaning cars"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "After School",
+   "script": "Tom: Is your dad at work today? Sara: Yes. He goes to work at seven and gets home late. He works as an engineer and works on a big bridge project. Tom: That sounds like hard work. Sara: It is, but he loves it. Last year his company closed for a month, and he was worried. Tom: Do you want to work there too? Sara: Maybe. First I need some work experience, so I will do voluntary work in the summer.",
+   "questions": [
+    {
+     "question": "What is Sara's father's job?",
+     "options": [
+      "Teacher",
+      "Engineer",
+      "Driver",
+      "Doctor"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What project does he work on?",
+     "options": [
+      "A school",
+      "A museum",
+      "A bridge",
+      "A railway"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will Sara do in the summer?",
+     "options": [
+      "Go on holiday",
+      "Nothing",
+      "Paperwork",
+      "Voluntary work"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "My father is at work.",
+    "It was a lot of hard work.",
+    "She works as a nurse."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Jobs",
+    "question_text": "What job would you like to do in the future?",
+    "hint_words": [
+     "doctor",
+     "teacher",
+     "engineer",
+     "because"
+    ]
+   },
+   {
+    "topic": "Work",
+    "question_text": "Do you think hard work is the key to success?",
+    "hint_words": [
+     "yes",
+     "practice",
+     "luck",
+     "study"
+    ]
+   },
+   {
+    "topic": "Experience",
+    "question_text": "Would you like to do work experience? Where?",
+    "hint_words": [
+     "office",
+     "museum",
+     "hospital",
+     "week"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 151,
+  "title": "an act of, an amount of",
+  "vocabulary": [
+   {
+    "word": "an act of kindness",
+    "translation_uz": "mehribonlik ko'rsatish",
+    "example_sentence": "Sharing your lunch is a small act of kindness."
+   },
+   {
+    "word": "an act of bravery",
+    "translation_uz": "jasorat namunasi",
+    "example_sentence": "The firefighter received a medal for an act of bravery."
+   },
+   {
+    "word": "an act of generosity",
+    "translation_uz": "saxiylik ko'rsatish",
+    "example_sentence": "Giving his savings to the shelter was an act of generosity."
+   },
+   {
+    "word": "an act of friendship",
+    "translation_uz": "do'stlik belgisi bo'lgan harakat",
+    "example_sentence": "Lending her notes was a real act of friendship."
+   },
+   {
+    "word": "an act of protest",
+    "translation_uz": "norozilik harakati",
+    "example_sentence": "Wearing black was their silent act of protest."
+   },
+   {
+    "word": "an amount of money",
+    "translation_uz": "pul miqdori",
+    "example_sentence": "Even a small amount of money can help the shelter."
+   },
+   {
+    "word": "a large amount of time",
+    "translation_uz": "ko'p vaqt",
+    "example_sentence": "Painting the fence took a large amount of time."
+   },
+   {
+    "word": "a small amount of sugar",
+    "translation_uz": "oz miqdorda shakar",
+    "example_sentence": "Add a small amount of sugar to the tea."
+   },
+   {
+    "word": "a huge amount of work",
+    "translation_uz": "juda katta hajmdagi ish",
+    "example_sentence": "The school fair needs a huge amount of work."
+   },
+   {
+    "word": "a certain amount of luck",
+    "translation_uz": "ma'lum darajadagi omad",
+    "example_sentence": "Winning a race takes talent and a certain amount of luck."
+   },
+   {
+    "word": "the amount of rubbish",
+    "translation_uz": "axlat miqdori",
+    "example_sentence": "The amount of rubbish on the beach shocked us."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Helping a stranger carry heavy bags is an ___ of kindness.",
+    "correct_word": "act",
+    "options": [
+     "amount",
+     "effort",
+     "interest",
+     "act"
+    ]
+   },
+   {
+    "sentence_with_blank": "We need a large ___ of money to repair the roof.",
+    "correct_word": "amount",
+    "options": [
+     "amount",
+     "number",
+     "series",
+     "stage"
+    ]
+   },
+   {
+    "sentence_with_blank": "Saving the child from the river was a real ___ of bravery.",
+    "correct_word": "act",
+    "options": [
+     "amount",
+     "act",
+     "piece",
+     "copy"
+    ]
+   },
+   {
+    "sentence_with_blank": "Add a small ___ of salt to the soup.",
+    "correct_word": "amount",
+    "options": [
+     "number",
+     "act",
+     "amount",
+     "series"
+    ]
+   },
+   {
+    "sentence_with_blank": "Giving his savings to the shelter was an act of great ___.",
+    "correct_word": "generosity",
+    "options": [
+     "generous",
+     "generously",
+     "generosities",
+     "generosity"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Lost Wallet",
+   "text": "Last Saturday Eli found a wallet on the bus. It held a large amount of money and a school card with a name on it. He could have kept the money, but he knew that would be wrong. Instead he spent a certain amount of time looking for the owner. In the end he took the wallet to the school office, and the owner, a girl called Lena, was very thankful. She said that Eli's honesty was an act of kindness that she would never forget. The teachers called it an act of friendship, too, because Eli had never met her.",
+   "key_words": [
+    {
+     "word": "wallet",
+     "translation_uz": "hamyon"
+    },
+    {
+     "word": "thankful",
+     "translation_uz": "minnatdor"
+    },
+    {
+     "word": "honesty",
+     "translation_uz": "halollik"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did Eli find the wallet?",
+     "options": [
+      "In the park",
+      "At school",
+      "In a shop",
+      "On the bus"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Eli do with the wallet?",
+     "options": [
+      "He took it to the school office",
+      "He kept the money",
+      "He gave it to the driver",
+      "He threw it away"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Lena call Eli's honesty?",
+     "options": [
+      "A matter of luck",
+      "An act of kindness",
+      "A waste of time",
+      "A piece of news"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Charity Day",
+   "script": "Teacher: Today is charity day. Even a small amount of money can help. Pupil: Last year we raised a huge amount of money for the animal shelter. Teacher: That was an act of generosity from the whole school. Pupil: It also took a large amount of time to organise the cake sale. Teacher: True, but I saw a lot of small acts of kindness. One boy gave his pocket money, and that was a real act of friendship to the dogs! Pupil: This year I will bring a certain amount of sugar for the biscuits.",
+   "questions": [
+    {
+     "question": "What is today?",
+     "options": [
+      "A sports day",
+      "An exam day",
+      "Charity day",
+      "A holiday"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the school raise money for last year?",
+     "options": [
+      "A new library",
+      "A hospital",
+      "A football team",
+      "The animal shelter"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will the pupil bring this year?",
+     "options": [
+      "Sugar for the biscuits",
+      "Money for a prize",
+      "Eggs for the cake",
+      "Paper for posters"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "It was an act of kindness.",
+    "We need a large amount of money.",
+    "Add a small amount of sugar."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Kindness",
+    "question_text": "What is an act of kindness you have done?",
+    "hint_words": [
+     "helped",
+     "shared",
+     "friend",
+     "gave"
+    ]
+   },
+   {
+    "topic": "Money",
+    "question_text": "Is a small amount of money enough for a good gift?",
+    "hint_words": [
+     "yes",
+     "no",
+     "idea",
+     "love"
+    ]
+   },
+   {
+    "topic": "Time",
+    "question_text": "Which jobs at home take a large amount of time?",
+    "hint_words": [
+     "cooking",
+     "cleaning",
+     "homework",
+     "washing"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 152,
+  "title": "a copy of, a great deal of",
+  "vocabulary": [
+   {
+    "word": "a copy of the report",
+    "translation_uz": "hisobotning nusxasi",
+    "example_sentence": "Can I have a copy of the report, please?"
+   },
+   {
+    "word": "make a copy of",
+    "translation_uz": "...ning nusxasini ko'chirmoq",
+    "example_sentence": "I made a copy of my passport."
+   },
+   {
+    "word": "a signed copy of a book",
+    "translation_uz": "muallif imzolagan kitob nusxasi",
+    "example_sentence": "She won a signed copy of her favourite book."
+   },
+   {
+    "word": "a free copy of the magazine",
+    "translation_uz": "jurnalning bepul nusxasi",
+    "example_sentence": "Every student gets a free copy of the magazine."
+   },
+   {
+    "word": "send a copy of the email",
+    "translation_uz": "xat nusxasini yubormoq",
+    "example_sentence": "Please send a copy of the email to the teacher."
+   },
+   {
+    "word": "a copy of the key",
+    "translation_uz": "kalitning nusxasi",
+    "example_sentence": "My neighbour has a copy of our key."
+   },
+   {
+    "word": "a great deal of effort",
+    "translation_uz": "katta kuch-g'ayrat",
+    "example_sentence": "Winning the prize took a great deal of effort."
+   },
+   {
+    "word": "a great deal of time",
+    "translation_uz": "juda ko'p vaqt",
+    "example_sentence": "He spends a great deal of time reading."
+   },
+   {
+    "word": "a great deal of trouble",
+    "translation_uz": "katta qiyinchilik",
+    "example_sentence": "The broken lift caused a great deal of trouble."
+   },
+   {
+    "word": "a great deal of noise",
+    "translation_uz": "juda ko'p shovqin",
+    "example_sentence": "The builders made a great deal of noise."
+   },
+   {
+    "word": "a great deal of money",
+    "translation_uz": "juda ko'p pul",
+    "example_sentence": "A film like this costs a great deal of money."
+   },
+   {
+    "word": "a great deal of fun",
+    "translation_uz": "juda ko'p quvonch (maza)",
+    "example_sentence": "We had a great deal of fun at the lake."
+   },
+   {
+    "word": "a great deal of experience",
+    "translation_uz": "katta tajriba",
+    "example_sentence": "The coach has a great deal of experience."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Could you make a ___ of this page for me?",
+    "correct_word": "copy",
+    "options": [
+     "copy",
+     "deal",
+     "sign",
+     "stage"
+    ]
+   },
+   {
+    "sentence_with_blank": "Learning the violin takes a great ___ of practice.",
+    "correct_word": "deal",
+    "options": [
+     "copy",
+     "deal",
+     "sign",
+     "stage"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have lost my key, so I need a ___ of it.",
+    "correct_word": "copy",
+    "options": [
+     "deal",
+     "list",
+     "copy",
+     "sense"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a great ___ of noise coming from the street.",
+    "correct_word": "deal",
+    "options": [
+     "copy",
+     "loss",
+     "matter",
+     "deal"
+    ]
+   },
+   {
+    "sentence_with_blank": "The author will sign a ___ of her new book for the winner.",
+    "correct_word": "copy",
+    "options": [
+     "copy",
+     "deal",
+     "range",
+     "sign"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has a great deal of ___ in teaching young children.",
+    "correct_word": "experience",
+    "options": [
+     "experienced",
+     "experience",
+     "experiences",
+     "experiment"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Magazine",
+   "text": "Our school magazine took a great deal of effort this term. The editors spent a great deal of time choosing the best articles. When the printer finished, they made a copy of every page to check the mistakes. There was a great deal of excitement on the day it was ready. Each student got a free copy of the magazine, and the headteacher received a signed copy from the editors. Everyone agreed that the work had been a great deal of fun.",
+   "key_words": [
+    {
+     "word": "editor",
+     "translation_uz": "muharrir"
+    },
+    {
+     "word": "printer",
+     "translation_uz": "bosmaxona (printer)"
+    },
+    {
+     "word": "mistake",
+     "translation_uz": "xato"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the editors do first?",
+     "options": [
+      "They chose the best articles",
+      "They printed the pages",
+      "They signed the book",
+      "They sold copies"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did they do to find mistakes?",
+     "options": [
+      "Asked the headteacher",
+      "Made a copy of every page",
+      "Read it aloud",
+      "Used a computer game"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who got a signed copy?",
+     "options": [
+      "Every student",
+      "The printer",
+      "The headteacher",
+      "The parents"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Library",
+   "script": "Girl: Excuse me, do you have a copy of the new science book? Librarian: Sorry, we have only one copy, and it is out. I can make a copy of the first chapter for you. Girl: Thank you. I have a project that needs a great deal of research. Librarian: It takes a great deal of time, I know. Please send me a copy of your topic by email, and I will find more books. Girl: That would save me a great deal of trouble!",
+   "questions": [
+    {
+     "question": "What is the girl looking for?",
+     "options": [
+      "A magazine",
+      "A dictionary",
+      "A story",
+      "A science book"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What can the librarian copy for her?",
+     "options": [
+      "The first chapter",
+      "The whole book",
+      "The cover",
+      "The last page"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What should the girl send by email?",
+     "options": [
+      "Her marks",
+      "A copy of her topic",
+      "A photo",
+      "The book"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I need a copy of it.",
+    "It took a great deal of time.",
+    "We had a great deal of fun."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "School",
+    "question_text": "Do you make copies of your notes? Why?",
+    "hint_words": [
+     "notes",
+     "lost",
+     "phone",
+     "friend"
+    ]
+   },
+   {
+    "topic": "Effort",
+    "question_text": "What takes a great deal of effort for you?",
+    "hint_words": [
+     "homework",
+     "sport",
+     "exams",
+     "practice"
+    ]
+   },
+   {
+    "topic": "Fun",
+    "question_text": "When did you last have a great deal of fun?",
+    "hint_words": [
+     "party",
+     "holiday",
+     "friends",
+     "game"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 153,
+  "title": "a feature of, a lack of",
+  "vocabulary": [
+   {
+    "word": "a feature of the city",
+    "translation_uz": "shaharning xususiyati",
+    "example_sentence": "The old bridge is a feature of the city."
+   },
+   {
+    "word": "a key feature of",
+    "translation_uz": "...ning asosiy xususiyati",
+    "example_sentence": "Speed is a key feature of this bike."
+   },
+   {
+    "word": "a common feature of",
+    "translation_uz": "...ning keng tarqalgan xususiyati",
+    "example_sentence": "Tall mountains are a common feature of the region."
+   },
+   {
+    "word": "a safety feature of the car",
+    "translation_uz": "mashinaning xavfsizlik jihati",
+    "example_sentence": "Seat belts are an important safety feature of the car."
+   },
+   {
+    "word": "a special feature of the phone",
+    "translation_uz": "telefonning maxsus imkoniyati",
+    "example_sentence": "A good camera is a special feature of the phone."
+   },
+   {
+    "word": "a lack of sleep",
+    "translation_uz": "uyqu yetishmasligi",
+    "example_sentence": "A lack of sleep makes it hard to study."
+   },
+   {
+    "word": "a lack of money",
+    "translation_uz": "pul yetishmasligi",
+    "example_sentence": "A lack of money stopped them from travelling."
+   },
+   {
+    "word": "a lack of experience",
+    "translation_uz": "tajriba yetishmasligi",
+    "example_sentence": "His lack of experience was clear in the interview."
+   },
+   {
+    "word": "a lack of confidence",
+    "translation_uz": "ishonch yetishmasligi",
+    "example_sentence": "A lack of confidence can hold you back."
+   },
+   {
+    "word": "a lack of space",
+    "translation_uz": "joy yetishmasligi",
+    "example_sentence": "There is a lack of space in our small flat."
+   },
+   {
+    "word": "a lack of interest",
+    "translation_uz": "qiziqish yo'qligi",
+    "example_sentence": "I noticed a lack of interest in the lesson."
+   },
+   {
+    "word": "a lack of water",
+    "translation_uz": "suv yetishmasligi",
+    "example_sentence": "A lack of water is a serious problem in the desert."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Mountains are a main ___ of this region.",
+    "correct_word": "feature",
+    "options": [
+     "lack",
+     "feature",
+     "level",
+     "list"
+    ]
+   },
+   {
+    "sentence_with_blank": "She felt tired because of a ___ of sleep.",
+    "correct_word": "lack",
+    "options": [
+     "feature",
+     "list",
+     "lack",
+     "copy"
+    ]
+   },
+   {
+    "sentence_with_blank": "The team lost because of a ___ of experience.",
+    "correct_word": "lack",
+    "options": [
+     "feature",
+     "copy",
+     "list",
+     "lack"
+    ]
+   },
+   {
+    "sentence_with_blank": "Voice control is a useful ___ of the new tablet.",
+    "correct_word": "feature",
+    "options": [
+     "feature",
+     "lack",
+     "stage",
+     "set"
+    ]
+   },
+   {
+    "sentence_with_blank": "Because of the lack of ___ in the room, we sat on the floor.",
+    "correct_word": "space",
+    "options": [
+     "spaces",
+     "space",
+     "spacious",
+     "spacing"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Town with a Problem",
+   "text": "Our town has a famous clock tower. It is the main feature of the town, and tourists come to see it. However, there is a lack of parking space near the tower. The council also noticed a lack of money for repairs, so the clock stopped last winter. Another feature of the town is its market, where a lack of interest from young people worries the sellers. Now students are making videos to bring more visitors. They hope that their work will reduce the lack of attention.",
+   "key_words": [
+    {
+     "word": "tourist",
+     "translation_uz": "sayyoh"
+    },
+    {
+     "word": "council",
+     "translation_uz": "shahar kengashi"
+    },
+    {
+     "word": "parking",
+     "translation_uz": "to'xtash joyi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is the main feature of the town?",
+     "options": [
+      "A lake",
+      "A clock tower",
+      "A big park",
+      "A castle"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did the clock stop?",
+     "options": [
+      "It was too old to stop",
+      "Tourists broke it",
+      "There was a lack of money for repairs",
+      "The wind was strong"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What are students doing to help?",
+     "options": [
+      "Selling tickets",
+      "Cleaning streets",
+      "Painting the tower",
+      "Making videos"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Exam Week",
+   "script": "Teacher: You look tired, Aziz. Aziz: I know. A lack of sleep is my big problem this week. Teacher: A lack of sleep can affect your marks. Aziz: Also, a lack of confidence. I worry I know too little. Teacher: That is common before exams. It is a feature of every school year. Try to get more rest, and remember there is no lack of help here. Come to the club at four.",
+   "questions": [
+    {
+     "question": "What is Aziz's main problem?",
+     "options": [
+      "A lack of sleep",
+      "A lack of books",
+      "A lack of friends",
+      "A lack of money"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What else worries him?",
+     "options": [
+      "His new school",
+      "A lack of confidence",
+      "The weather",
+      "His teacher"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the teacher suggest?",
+     "options": [
+      "Stay at home",
+      "Study more at night",
+      "Come to the club at four",
+      "Skip the exam"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "It has a safety feature.",
+    "A lack of water is serious.",
+    "She has a lack of confidence."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Phones",
+    "question_text": "What is your phone's best feature?",
+    "hint_words": [
+     "camera",
+     "games",
+     "battery",
+     "screen"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "What happens when you have a lack of sleep?",
+    "hint_words": [
+     "tired",
+     "headache",
+     "school",
+     "angry"
+    ]
+   },
+   {
+    "topic": "Cities",
+    "question_text": "What are the main features of your town?",
+    "hint_words": [
+     "park",
+     "market",
+     "river",
+     "tower"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 154,
+  "title": "a level of, a list of",
+  "vocabulary": [
+   {
+    "word": "a high level of noise",
+    "translation_uz": "yuqori shovqin darajasi",
+    "example_sentence": "A high level of noise can harm your hearing."
+   },
+   {
+    "word": "a low level of pollution",
+    "translation_uz": "past ifloslanish darajasi",
+    "example_sentence": "The village has a low level of pollution."
+   },
+   {
+    "word": "a basic level of English",
+    "translation_uz": "ingliz tilining boshlang'ich darajasi",
+    "example_sentence": "You need a basic level of English for this course."
+   },
+   {
+    "word": "a certain level of skill",
+    "translation_uz": "ma'lum darajadagi mahorat",
+    "example_sentence": "Playing the piano well takes a certain level of skill."
+   },
+   {
+    "word": "the level of water in the river",
+    "translation_uz": "daryodagi suv sathi",
+    "example_sentence": "The level of water in the river rose after the storm."
+   },
+   {
+    "word": "a level of difficulty",
+    "translation_uz": "qiyinchilik darajasi",
+    "example_sentence": "Each game has a different level of difficulty."
+   },
+   {
+    "word": "a list of names",
+    "translation_uz": "ismlar ro'yxati",
+    "example_sentence": "The teacher read out a list of names."
+   },
+   {
+    "word": "a long list of rules",
+    "translation_uz": "qoidalarning uzun ro'yxati",
+    "example_sentence": "There is a long list of rules on the wall."
+   },
+   {
+    "word": "a list of ingredients",
+    "translation_uz": "masalliqlar ro'yxati",
+    "example_sentence": "Check the list of ingredients before you cook."
+   },
+   {
+    "word": "a list of questions",
+    "translation_uz": "savollar ro'yxati",
+    "example_sentence": "I prepared a list of questions for the interview."
+   },
+   {
+    "word": "make a list of",
+    "translation_uz": "...ro'yxatini tuzmoq",
+    "example_sentence": "Let's make a list of things to pack."
+   },
+   {
+    "word": "a list of books",
+    "translation_uz": "kitoblar ro'yxati",
+    "example_sentence": "Our teacher gave us a list of books to read."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The ___ of pollution in the city is very low today.",
+    "correct_word": "level",
+    "options": [
+     "list",
+     "series",
+     "level",
+     "set"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please write a ___ of everything you need for the trip.",
+    "correct_word": "list",
+    "options": [
+     "level",
+     "sense",
+     "copy",
+     "list"
+    ]
+   },
+   {
+    "sentence_with_blank": "To join the course you need a basic ___ of English.",
+    "correct_word": "level",
+    "options": [
+     "level",
+     "list",
+     "copy",
+     "waste"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a long ___ of rules on the wall.",
+    "correct_word": "list",
+    "options": [
+     "level",
+     "list",
+     "copy",
+     "sense"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the heavy rain, the ___ of the water in the river was very high.",
+    "correct_word": "level",
+    "options": [
+     "list",
+     "copy",
+     "level",
+     "loss"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Cooking for the Class",
+   "text": "Our class wants to cook a meal for the school fair. First we made a list of ingredients, and it became a long list of things to buy. Then Sara checked the level of difficulty of each recipe, because nobody had a high level of skill. We chose a simple soup. A noisy kitchen can be a problem, so we also kept the level of noise low. Finally, we gave the teacher a list of names of students who will help on the day. She said the plan was well organised.",
+   "key_words": [
+    {
+     "word": "ingredient",
+     "translation_uz": "masalliq"
+    },
+    {
+     "word": "recipe",
+     "translation_uz": "retsept"
+    },
+    {
+     "word": "organised",
+     "translation_uz": "yaxshi uyushtirilgan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class make first?",
+     "options": [
+      "A soup",
+      "A poster",
+      "A list of ingredients",
+      "A cake"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did Sara check each recipe?",
+     "options": [
+      "To save money",
+      "To find the cheapest",
+      "To count the pages",
+      "To see how difficult it was"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the teacher get at the end?",
+     "options": [
+      "A list of names of helpers",
+      "A bowl of soup",
+      "A recipe book",
+      "A thank-you card"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Language Course",
+   "script": "Boy: How do I join the English course? Clerk: You need a basic level of English. There is a short test. Boy: What about the level of difficulty? Clerk: The first level is not difficult at all. Here is a list of books you can read before you start. And here is a list of questions people often ask. Boy: Great. The noise level in the hall seems high today. Clerk: Yes, the classes have just finished.",
+   "questions": [
+    {
+     "question": "What is needed to join the course?",
+     "options": [
+      "A high level of skill",
+      "A basic level of English",
+      "A letter from a teacher",
+      "Money for a book"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the clerk give the boy?",
+     "options": [
+      "A test result",
+      "A map",
+      "A list of books",
+      "A pen"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why is the noise high in the hall?",
+     "options": [
+      "A concert is on",
+      "The boy is shouting",
+      "The clerk is angry",
+      "The classes have just finished"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Make a list of names.",
+    "The noise level was high.",
+    "I have a basic level of English."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Lists",
+    "question_text": "Do you make a list before you go shopping?",
+    "hint_words": [
+     "yes",
+     "always",
+     "food",
+     "forget"
+    ]
+   },
+   {
+    "topic": "English",
+    "question_text": "What is your level of English? How can you improve?",
+    "hint_words": [
+     "good",
+     "speak",
+     "read",
+     "practise"
+    ]
+   },
+   {
+    "topic": "Environment",
+    "question_text": "Is the level of pollution high where you live?",
+    "hint_words": [
+     "air",
+     "cars",
+     "clean",
+     "dust"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 155,
+  "title": "a loss of, a matter of",
+  "vocabulary": [
+   {
+    "word": "a loss of power",
+    "translation_uz": "elektr uzilishi (quvvat yo'qolishi)",
+    "example_sentence": "A loss of power left the whole street in the dark."
+   },
+   {
+    "word": "a loss of appetite",
+    "translation_uz": "ishtaha yo'qolishi",
+    "example_sentence": "A cold can cause a loss of appetite."
+   },
+   {
+    "word": "a loss of confidence",
+    "translation_uz": "ishonchning yo'qolishi",
+    "example_sentence": "After the mistake, there was a loss of confidence in the team."
+   },
+   {
+    "word": "a loss of heat",
+    "translation_uz": "issiqlik yo'qolishi",
+    "example_sentence": "Thick windows prevent a loss of heat."
+   },
+   {
+    "word": "a loss of balance",
+    "translation_uz": "muvozanatni yo'qotish",
+    "example_sentence": "A sudden loss of balance made him fall."
+   },
+   {
+    "word": "a loss of time",
+    "translation_uz": "vaqt yo'qotish",
+    "example_sentence": "Waiting in a long queue is a loss of time."
+   },
+   {
+    "word": "a matter of time",
+    "translation_uz": "vaqt masalasi",
+    "example_sentence": "It is only a matter of time before spring arrives."
+   },
+   {
+    "word": "a matter of opinion",
+    "translation_uz": "fikr masalasi",
+    "example_sentence": "Which film is best is a matter of opinion."
+   },
+   {
+    "word": "a matter of taste",
+    "translation_uz": "did masalasi",
+    "example_sentence": "Spicy food is a matter of taste."
+   },
+   {
+    "word": "a matter of choice",
+    "translation_uz": "tanlov masalasi",
+    "example_sentence": "What you read is a matter of choice."
+   },
+   {
+    "word": "a matter of practice",
+    "translation_uz": "mashq masalasi",
+    "example_sentence": "Playing well is just a matter of practice."
+   },
+   {
+    "word": "a matter of life and death",
+    "translation_uz": "hayot-mamot masalasi",
+    "example_sentence": "For the doctors, it was a matter of life and death."
+   },
+   {
+    "word": "a matter of minutes",
+    "translation_uz": "bir necha daqiqa masalasi",
+    "example_sentence": "The bus will be here in a matter of minutes."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A sudden ___ of power left the town in the dark.",
+    "correct_word": "loss",
+    "options": [
+     "matter",
+     "part",
+     "piece",
+     "loss"
+    ]
+   },
+   {
+    "sentence_with_blank": "Learning to ride a bike is just a ___ of practice.",
+    "correct_word": "matter",
+    "options": [
+     "matter",
+     "loss",
+     "part",
+     "set"
+    ]
+   },
+   {
+    "sentence_with_blank": "Which colour is best is a ___ of taste.",
+    "correct_word": "matter",
+    "options": [
+     "loss",
+     "matter",
+     "series",
+     "set"
+    ]
+   },
+   {
+    "sentence_with_blank": "An illness can cause a ___ of appetite.",
+    "correct_word": "loss",
+    "options": [
+     "matter",
+     "list",
+     "loss",
+     "copy"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bus will arrive in a ___ of minutes.",
+    "correct_word": "matter",
+    "options": [
+     "loss",
+     "range",
+     "sign",
+     "matter"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Power Cut",
+   "text": "On Tuesday night there was a loss of power in our street. At first we thought it would be a matter of minutes, but the lights stayed off. My mother said that the loss of heat would be the biggest problem, so we put on warm jumpers. It was a matter of time before the neighbours came out with candles. We played cards and talked until late. My brother said a night without screens was a matter of choice, but I think the loss of power was the reason. In the morning the electricity came back, and everyone cheered.",
+   "key_words": [
+    {
+     "word": "power cut",
+     "translation_uz": "elektr o'chishi"
+    },
+    {
+     "word": "candle",
+     "translation_uz": "sham"
+    },
+    {
+     "word": "jumper",
+     "translation_uz": "sviter"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What happened on Tuesday night?",
+     "options": [
+      "It snowed",
+      "A tree fell",
+      "The water stopped",
+      "The power went off"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the family do for warmth?",
+     "options": [
+      "They put on warm jumpers",
+      "They lit a fire outside",
+      "They went to bed early",
+      "They called a friend"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did they do with the neighbours?",
+     "options": [
+      "Cooked dinner",
+      "Played cards and talked",
+      "Watched a film",
+      "Went for a walk"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Debate Practice",
+   "script": "Teacher: Today's topic: is homework useful? Ali: In my opinion, it is a matter of practice. Without it, there is a loss of skill. Dina: But I think it is a matter of opinion, and sometimes it causes a loss of sleep. Teacher: Good points. For me it is a matter of balance. Ali: It is only a matter of time before we find the answer. Teacher: In a matter of minutes we will vote, so decide.",
+   "questions": [
+    {
+     "question": "What is the topic?",
+     "options": [
+      "School trips",
+      "Sports day",
+      "Whether homework is useful",
+      "Computer games"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Dina worry about?",
+     "options": [
+      "A loss of money",
+      "A loss of friends",
+      "A loss of books",
+      "A loss of sleep"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will happen in a matter of minutes?",
+     "options": [
+      "The class will vote",
+      "The bell will ring",
+      "The teacher will leave",
+      "The topic will change"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "It is only a matter of time.",
+    "There was a loss of power.",
+    "Which is best is a matter of taste."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Opinion",
+    "question_text": "Name something that is a matter of taste.",
+    "hint_words": [
+     "food",
+     "music",
+     "colour",
+     "clothes"
+    ]
+   },
+   {
+    "topic": "Power",
+    "question_text": "What do you do when there is a loss of power?",
+    "hint_words": [
+     "candle",
+     "phone",
+     "wait",
+     "game"
+    ]
+   },
+   {
+    "topic": "Practice",
+    "question_text": "What skill is a matter of practice for you?",
+    "hint_words": [
+     "sport",
+     "music",
+     "English",
+     "drawing"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 156,
+  "title": "a part of, a piece of",
+  "vocabulary": [
+   {
+    "word": "a part of the city",
+    "translation_uz": "shaharning bir qismi",
+    "example_sentence": "Our school is in the oldest part of the city."
+   },
+   {
+    "word": "a large part of the day",
+    "translation_uz": "kunning katta qismi",
+    "example_sentence": "I spend a large part of the day at school."
+   },
+   {
+    "word": "a part of the story",
+    "translation_uz": "hikoyaning bir qismi",
+    "example_sentence": "The first part of the story is the best."
+   },
+   {
+    "word": "a part of the machine",
+    "translation_uz": "mashinaning bir qismi (detali)",
+    "example_sentence": "The wheel is an important part of the machine."
+   },
+   {
+    "word": "a part of life",
+    "translation_uz": "hayotning bir qismi",
+    "example_sentence": "Making mistakes is a part of life."
+   },
+   {
+    "word": "a piece of advice",
+    "translation_uz": "bir og'iz maslahat",
+    "example_sentence": "My grandfather gave me a useful piece of advice."
+   },
+   {
+    "word": "a piece of news",
+    "translation_uz": "bir xabar",
+    "example_sentence": "I have a piece of good news for you."
+   },
+   {
+    "word": "a piece of paper",
+    "translation_uz": "bir parcha qog'oz",
+    "example_sentence": "Write your name on a piece of paper."
+   },
+   {
+    "word": "a piece of information",
+    "translation_uz": "bir ma'lumot",
+    "example_sentence": "This website has a useful piece of information."
+   },
+   {
+    "word": "a piece of furniture",
+    "translation_uz": "bir dona mebel",
+    "example_sentence": "A big table is the main piece of furniture here."
+   },
+   {
+    "word": "a piece of music",
+    "translation_uz": "bir musiqa asari",
+    "example_sentence": "She played a beautiful piece of music."
+   },
+   {
+    "word": "a piece of cake",
+    "translation_uz": "bir bo'lak tort",
+    "example_sentence": "Would you like a piece of cake?"
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can I give you a ___ of advice before the exam?",
+    "correct_word": "piece",
+    "options": [
+     "piece",
+     "part",
+     "set",
+     "series"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our school is in the oldest ___ of the city.",
+    "correct_word": "part",
+    "options": [
+     "level",
+     "part",
+     "list",
+     "sense"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a ___ of good news for you!",
+    "correct_word": "piece",
+    "options": [
+     "part",
+     "copy",
+     "piece",
+     "range"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please write your answer on a ___ of paper.",
+    "correct_word": "piece",
+    "options": [
+     "part",
+     "sign",
+     "stage",
+     "piece"
+    ]
+   },
+   {
+    "sentence_with_blank": "Making mistakes is a normal ___ of learning.",
+    "correct_word": "part",
+    "options": [
+     "part",
+     "piece",
+     "loss",
+     "copy"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day at the Museum",
+   "text": "Our class spent a large part of the day at the city museum, in the oldest part of the town. The guide gave us a useful piece of advice: look carefully at every object. Each of us got a piece of paper to write down one piece of information about our favourite item. I chose an ancient piece of music written for a flute. Learning about the past is a part of our history lessons, and today it felt like a part of life. At the end we shared a piece of cake and talked about the best part of the trip.",
+   "key_words": [
+    {
+     "word": "guide",
+     "translation_uz": "gid, yo'lboshchi"
+    },
+    {
+     "word": "ancient",
+     "translation_uz": "qadimiy"
+    },
+    {
+     "word": "flute",
+     "translation_uz": "nay"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the class spend the day?",
+     "options": [
+      "At the city museum",
+      "At a school",
+      "At a park",
+      "In a theatre"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the guide give them?",
+     "options": [
+      "A piece of music",
+      "A piece of advice",
+      "A free book",
+      "A map"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the narrator choose?",
+     "options": [
+      "A painting",
+      "A coin",
+      "A piece of music for a flute",
+      "A bowl"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Good News",
+   "script": "Mum: I have a piece of news. We are going to visit the northern part of the country. Leo: Brilliant! Is that the part with the mountains? Mum: Yes. Grandma gave me a piece of advice: take warm clothes and a map. Leo: Should I write a list on a piece of paper? Mum: Good idea. Also bring a piece of music, I mean your flute, for the long journey. Leo: And a piece of cake for the road!",
+   "questions": [
+    {
+     "question": "Where is the family going?",
+     "options": [
+      "To the sea",
+      "To another country",
+      "To Grandma's house",
+      "To the northern part of the country"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What advice did Grandma give?",
+     "options": [
+      "Take warm clothes and a map",
+      "Travel by train",
+      "Go in summer",
+      "Bring a camera"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What should Leo bring for the journey?",
+     "options": [
+      "A book",
+      "His flute",
+      "A game",
+      "A football"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I have a piece of news.",
+    "It is a part of life.",
+    "She plays a piece of music."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "News",
+    "question_text": "What is the best piece of news you have heard recently?",
+    "hint_words": [
+     "school",
+     "friend",
+     "won",
+     "trip"
+    ]
+   },
+   {
+    "topic": "Advice",
+    "question_text": "Who gives you the best piece of advice?",
+    "hint_words": [
+     "parents",
+     "teacher",
+     "friend",
+     "grandfather"
+    ]
+   },
+   {
+    "topic": "City",
+    "question_text": "Which part of your city do you like most?",
+    "hint_words": [
+     "park",
+     "centre",
+     "old town",
+     "river"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 157,
+  "title": "a range of, a sense of",
+  "vocabulary": [
+   {
+    "word": "a range of colours",
+    "translation_uz": "ranglar tanlovi (turli ranglar)",
+    "example_sentence": "The shop sells paint in a range of colours."
+   },
+   {
+    "word": "a wide range of products",
+    "translation_uz": "mahsulotlarning keng assortimenti",
+    "example_sentence": "The market offers a wide range of products."
+   },
+   {
+    "word": "a range of activities",
+    "translation_uz": "turli xil mashg'ulotlar",
+    "example_sentence": "The camp has a range of activities for children."
+   },
+   {
+    "word": "a range of prices",
+    "translation_uz": "narxlar oralig'i",
+    "example_sentence": "Hotels here come in a range of prices."
+   },
+   {
+    "word": "a range of subjects",
+    "translation_uz": "turli fanlar",
+    "example_sentence": "Our school teaches a range of subjects."
+   },
+   {
+    "word": "a range of ages",
+    "translation_uz": "turli yoshdagilar",
+    "example_sentence": "The club welcomes a range of ages."
+   },
+   {
+    "word": "a sense of humour",
+    "translation_uz": "hazil tuyg'usi",
+    "example_sentence": "My uncle has a great sense of humour."
+   },
+   {
+    "word": "a sense of direction",
+    "translation_uz": "yo'nalishni his qilish qobiliyati",
+    "example_sentence": "Without a sense of direction, I get lost easily."
+   },
+   {
+    "word": "a sense of pride",
+    "translation_uz": "faxrlanish tuyg'usi",
+    "example_sentence": "She felt a sense of pride when she won."
+   },
+   {
+    "word": "a sense of belonging",
+    "translation_uz": "tegishlilik tuyg'usi",
+    "example_sentence": "A club can give you a sense of belonging."
+   },
+   {
+    "word": "a sense of relief",
+    "translation_uz": "yengillik tuyg'usi",
+    "example_sentence": "I felt a sense of relief when the exam ended."
+   },
+   {
+    "word": "a sense of responsibility",
+    "translation_uz": "mas'uliyat hissi",
+    "example_sentence": "Looking after a pet teaches a sense of responsibility."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The shop sells paints in a wide ___ of colours.",
+    "correct_word": "range",
+    "options": [
+     "sense",
+     "range",
+     "loss",
+     "copy"
+    ]
+   },
+   {
+    "sentence_with_blank": "He always makes us laugh because he has a good ___ of humour.",
+    "correct_word": "sense",
+    "options": [
+     "loss",
+     "copy",
+     "sense",
+     "waste"
+    ]
+   },
+   {
+    "sentence_with_blank": "Without a ___ of direction, I got lost in the forest.",
+    "correct_word": "sense",
+    "options": [
+     "range",
+     "loss",
+     "list",
+     "sense"
+    ]
+   },
+   {
+    "sentence_with_blank": "The club offers a ___ of activities for children aged six to twelve.",
+    "correct_word": "range",
+    "options": [
+     "range",
+     "sense",
+     "matter",
+     "stage"
+    ]
+   },
+   {
+    "sentence_with_blank": "I felt a great ___ of relief when the exam was over.",
+    "correct_word": "sense",
+    "options": [
+     "copy",
+     "sense",
+     "waste",
+     "list"
+    ]
+   },
+   {
+    "sentence_with_blank": "The team felt a strong sense of ___ when they won the cup.",
+    "correct_word": "pride",
+    "options": [
+     "proud",
+     "proudly",
+     "pride",
+     "prouder"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Summer Club",
+   "text": "Last summer I joined a club that offers a wide range of activities. There was a range of ages too, from eight to fourteen. At first I felt shy, but the leaders had a great sense of humour, so I soon felt a sense of belonging. We tried a range of sports and learned to read a map. My sense of direction is not good, and I got lost twice, but nobody minded. At the end I felt a sense of pride because I finished the long hike. I felt a sense of relief when I saw the camp again!",
+   "key_words": [
+    {
+     "word": "hike",
+     "translation_uz": "piyoda sayohat"
+    },
+    {
+     "word": "shy",
+     "translation_uz": "uyatchan"
+    },
+    {
+     "word": "leader",
+     "translation_uz": "yetakchi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the club offer?",
+     "options": [
+      "Only football",
+      "A wide range of activities",
+      "Free food",
+      "Language lessons"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did the writer feel a sense of belonging?",
+     "options": [
+      "They were the oldest",
+      "They won a prize",
+      "The leaders were friendly and funny",
+      "They knew everyone"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was the writer's problem?",
+     "options": [
+      "A bad knee",
+      "No friends",
+      "Bad weather",
+      "A poor sense of direction"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "New Shop",
+   "script": "Anna: Have you been to the new art shop? Bek: Yes, it sells a wide range of colours and a range of prices. The owner has a good sense of humour. Anna: Is it near the station? Bek: I have no sense of direction, but my map shows it is two streets away. I felt a sense of pride when I found it alone. Anna: I need a range of colours for my project on autumn. Bek: Then go on Saturday. They have a sale.",
+   "questions": [
+    {
+     "question": "What does the shop sell?",
+     "options": [
+      "Art materials in many colours",
+      "Books",
+      "Clothes",
+      "Food"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How does the owner seem?",
+     "options": [
+      "Angry",
+      "Funny",
+      "Tired",
+      "Quiet"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When should Anna go?",
+     "options": [
+      "On Monday",
+      "On Friday",
+      "On Saturday",
+      "Tomorrow morning"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She has a sense of humour.",
+    "They sell a range of colours.",
+    "I felt a sense of relief."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Humour",
+    "question_text": "Do you have a good sense of humour?",
+    "hint_words": [
+     "yes",
+     "funny",
+     "jokes",
+     "laugh"
+    ]
+   },
+   {
+    "topic": "Choice",
+    "question_text": "What range of subjects do you study at school?",
+    "hint_words": [
+     "maths",
+     "English",
+     "science",
+     "art"
+    ]
+   },
+   {
+    "topic": "Feelings",
+    "question_text": "When did you last feel a sense of pride?",
+    "hint_words": [
+     "won",
+     "finished",
+     "exam",
+     "match"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 158,
+  "title": "a series of, a set of",
+  "vocabulary": [
+   {
+    "word": "a series of events",
+    "translation_uz": "voqealar silsilasi",
+    "example_sentence": "A series of events led to the party being cancelled."
+   },
+   {
+    "word": "a series of mistakes",
+    "translation_uz": "bir qator xatolar",
+    "example_sentence": "A series of small mistakes cost us the game."
+   },
+   {
+    "word": "a series of lessons",
+    "translation_uz": "bir qator darslar",
+    "example_sentence": "She is taking a series of lessons on painting."
+   },
+   {
+    "word": "a series of experiments",
+    "translation_uz": "bir qator tajribalar",
+    "example_sentence": "The class did a series of experiments with water."
+   },
+   {
+    "word": "a series of photographs",
+    "translation_uz": "suratlar turkumi",
+    "example_sentence": "He took a series of photographs of the sunrise."
+   },
+   {
+    "word": "a series of storms",
+    "translation_uz": "ketma-ket bo'ronlar",
+    "example_sentence": "A series of storms hit the coast in January."
+   },
+   {
+    "word": "a set of keys",
+    "translation_uz": "kalitlar to'plami",
+    "example_sentence": "I lost my set of keys on the bus."
+   },
+   {
+    "word": "a set of rules",
+    "translation_uz": "qoidalar to'plami",
+    "example_sentence": "Every game has a set of rules."
+   },
+   {
+    "word": "a set of tools",
+    "translation_uz": "asboblar to'plami",
+    "example_sentence": "Dad bought a new set of tools."
+   },
+   {
+    "word": "a set of instructions",
+    "translation_uz": "ko'rsatmalar to'plami",
+    "example_sentence": "Follow the set of instructions on the box."
+   },
+   {
+    "word": "a set of paints",
+    "translation_uz": "bo'yoqlar to'plami",
+    "example_sentence": "She got a set of paints for her birthday."
+   },
+   {
+    "word": "a set of dishes",
+    "translation_uz": "idishlar to'plami",
+    "example_sentence": "The family has a set of dishes from Grandma."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He found a ___ of keys on the bench.",
+    "correct_word": "set",
+    "options": [
+     "series",
+     "loss",
+     "set",
+     "matter"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ of small mistakes caused the failure of the plan.",
+    "correct_word": "series",
+    "options": [
+     "piece",
+     "copy",
+     "sense",
+     "series"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad bought a new ___ of tools to fix the bike.",
+    "correct_word": "set",
+    "options": [
+     "set",
+     "series",
+     "loss",
+     "sign"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ of storms hit the coast, one after another, in January.",
+    "correct_word": "series",
+    "options": [
+     "set",
+     "series",
+     "copy",
+     "piece"
+    ]
+   },
+   {
+    "sentence_with_blank": "I bought a ___ of paints for my art class.",
+    "correct_word": "set",
+    "options": [
+     "series",
+     "loss",
+     "set",
+     "list"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Broken Clock",
+   "text": "Last weekend my grandfather and I fixed an old clock. First we found a set of tools in the garage. Then we read a set of instructions from a book. The clock had a series of problems, and we made a series of mistakes at the start. After a series of tests, we found that one small wheel was missing. Grandfather said that every job has its own set of rules: be patient and keep every part. By Sunday evening the clock was ticking again, and we took a series of photographs to show Mum.",
+   "key_words": [
+    {
+     "word": "patient",
+     "translation_uz": "sabrli"
+    },
+    {
+     "word": "wheel",
+     "translation_uz": "g'ildirak (tishli g'ildirak)"
+    },
+    {
+     "word": "ticking",
+     "translation_uz": "tiqillamoqda"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did they fix?",
+     "options": [
+      "A bike",
+      "A radio",
+      "An old clock",
+      "A chair"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was missing from the clock?",
+     "options": [
+      "A key",
+      "A battery",
+      "A hand",
+      "A small wheel"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did they do after fixing it?",
+     "options": [
+      "Took photographs to show Mum",
+      "Sold it",
+      "Gave it to a friend",
+      "Painted it"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Science Lab",
+   "script": "Teacher: In today's lesson, we will do a series of experiments. First, every group gets a set of tools. Pupil: Do we follow a set of instructions? Teacher: Yes. Read them carefully. Last week a series of small mistakes spoilt the result. Pupil: Where is my set of keys for the cupboard? Teacher: I have them. Take a photograph of each stage, a series of photographs is good for the report.",
+   "questions": [
+    {
+     "question": "What will the class do?",
+     "options": [
+      "A written test",
+      "A series of experiments",
+      "A trip",
+      "A quiz"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What caused the problem last week?",
+     "options": [
+      "Broken tools",
+      "Missing keys",
+      "A series of small mistakes",
+      "Bad weather"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the teacher suggest for the report?",
+     "options": [
+      "A video",
+      "A drawing",
+      "A song",
+      "A series of photographs"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We follow a set of rules.",
+    "He took a series of photographs.",
+    "She has a set of keys."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Rules",
+    "question_text": "What set of rules do you follow at home?",
+    "hint_words": [
+     "sleep",
+     "homework",
+     "phone",
+     "help"
+    ]
+   },
+   {
+    "topic": "Tools",
+    "question_text": "Do you have a set of tools or paints at home?",
+    "hint_words": [
+     "yes",
+     "paints",
+     "pencils",
+     "tools"
+    ]
+   },
+   {
+    "topic": "Events",
+    "question_text": "Describe a series of events that made your day special.",
+    "hint_words": [
+     "first",
+     "then",
+     "after",
+     "finally"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 159,
+  "title": "a sign of, a stage of",
+  "vocabulary": [
+   {
+    "word": "a sign of progress",
+    "translation_uz": "taraqqiyot belgisi",
+    "example_sentence": "Better marks are a sign of progress."
+   },
+   {
+    "word": "a sign of respect",
+    "translation_uz": "hurmat belgisi",
+    "example_sentence": "Standing up is a sign of respect."
+   },
+   {
+    "word": "a sign of stress",
+    "translation_uz": "stress belgisi",
+    "example_sentence": "Biting your nails can be a sign of stress."
+   },
+   {
+    "word": "a sign of spring",
+    "translation_uz": "bahor belgisi",
+    "example_sentence": "The first flowers are a sure sign of spring."
+   },
+   {
+    "word": "a sign of improvement",
+    "translation_uz": "yaxshilanish belgisi",
+    "example_sentence": "Her faster time is a clear sign of improvement."
+   },
+   {
+    "word": "a sign of life",
+    "translation_uz": "hayot belgisi",
+    "example_sentence": "There was no sign of life in the old house."
+   },
+   {
+    "word": "an early stage of the project",
+    "translation_uz": "loyihaning dastlabki bosqichi",
+    "example_sentence": "We are only at an early stage of the project."
+   },
+   {
+    "word": "the final stage of the race",
+    "translation_uz": "poyganing yakuniy bosqichi",
+    "example_sentence": "He ran fast in the final stage of the race."
+   },
+   {
+    "word": "the next stage of the plan",
+    "translation_uz": "rejaning keyingi bosqichi",
+    "example_sentence": "The next stage of the plan starts on Monday."
+   },
+   {
+    "word": "a difficult stage of life",
+    "translation_uz": "hayotning qiyin davri",
+    "example_sentence": "Being a teenager can be a difficult stage of life."
+   },
+   {
+    "word": "at every stage of",
+    "translation_uz": "...ning har bir bosqichida",
+    "example_sentence": "My teacher helped me at every stage of the work."
+   },
+   {
+    "word": "a stage of development",
+    "translation_uz": "rivojlanish bosqichi",
+    "example_sentence": "Each baby goes through a stage of development."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The first flowers are a sure ___ of spring.",
+    "correct_word": "sign",
+    "options": [
+     "stage",
+     "list",
+     "level",
+     "sign"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are now at the final ___ of the competition.",
+    "correct_word": "stage",
+    "options": [
+     "stage",
+     "sign",
+     "set",
+     "range"
+    ]
+   },
+   {
+    "sentence_with_blank": "Bowing is a ___ of respect in Japan.",
+    "correct_word": "sign",
+    "options": [
+     "stage",
+     "sign",
+     "part",
+     "series"
+    ]
+   },
+   {
+    "sentence_with_blank": "Teenagers go through a difficult ___ of life.",
+    "correct_word": "stage",
+    "options": [
+     "sign",
+     "range",
+     "stage",
+     "list"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her marks show a clear ___ of improvement.",
+    "correct_word": "sign",
+    "options": [
+     "stage",
+     "range",
+     "copy",
+     "sign"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Learning to Swim",
+   "text": "Last spring I started swimming lessons. At the early stage, I was afraid of the water, and my coach saw a sign of stress in my face. Slowly, I made progress, and she said that my longer swims were a sign of improvement. The next stage of the course was diving, which I loved. By the final stage of the course, I could swim two lengths without a rest. My parents clapped as a sign of respect, and I felt proud. The coach helped me at every stage of the way, and I will never forget it.",
+   "key_words": [
+    {
+     "word": "diving",
+     "translation_uz": "sho'ng'ish"
+    },
+    {
+     "word": "clap",
+     "translation_uz": "qarsak chalmoq"
+    },
+    {
+     "word": "coach",
+     "translation_uz": "murabbiy"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did the narrator feel at the beginning?",
+     "options": [
+      "Very confident",
+      "Bored",
+      "Angry",
+      "Afraid of the water"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was the next stage of the course?",
+     "options": [
+      "Diving",
+      "Running",
+      "Reading",
+      "Drawing"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How many lengths could he swim at the end?",
+     "options": [
+      "One",
+      "Two",
+      "Five",
+      "Ten"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Walk in March",
+   "script": "Mum: Look, a sign of spring. The first flowers! Kim: Yes, and the days are longer too. Mum: Winter is a difficult stage of the year for many people. Kim: At my school, we are at the final stage of our science project. The plants are a sign of progress: they grew taller. Mum: That is a good sign of improvement. And at every stage you worked hard. Kim: Thanks. I think the next stage is the report.",
+   "questions": [
+    {
+     "question": "What did Mum see?",
+     "options": [
+      "A bird",
+      "Snow",
+      "The first flowers",
+      "A rainbow"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What are the plants in the project a sign of?",
+     "options": [
+      "Danger",
+      "Winter",
+      "Stress",
+      "Progress"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the next stage of Kim's project?",
+     "options": [
+      "Writing the report",
+      "Planting seeds",
+      "Cleaning the lab",
+      "Going on a trip"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "It is a sign of spring.",
+    "We are at the final stage.",
+    "That is a sign of respect."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Seasons",
+    "question_text": "What is a sign of spring where you live?",
+    "hint_words": [
+     "flowers",
+     "warm",
+     "birds",
+     "rain"
+    ]
+   },
+   {
+    "topic": "Growing up",
+    "question_text": "Which stage of life is the most fun?",
+    "hint_words": [
+     "childhood",
+     "teenage",
+     "school",
+     "adult"
+    ]
+   },
+   {
+    "topic": "Progress",
+    "question_text": "What is a sign of progress in your English?",
+    "hint_words": [
+     "words",
+     "speak",
+     "marks",
+     "read"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 160,
+  "title": "a supply of, a waste of",
+  "vocabulary": [
+   {
+    "word": "a supply of fresh water",
+    "translation_uz": "toza suv zaxirasi",
+    "example_sentence": "The village has a good supply of fresh water."
+   },
+   {
+    "word": "a supply of food",
+    "translation_uz": "oziq-ovqat zaxirasi",
+    "example_sentence": "The camp keeps a supply of food for winter."
+   },
+   {
+    "word": "a supply of electricity",
+    "translation_uz": "elektr ta'minoti",
+    "example_sentence": "A regular supply of electricity is vital for a hospital."
+   },
+   {
+    "word": "an emergency supply of",
+    "translation_uz": "...ning favqulodda zaxirasi",
+    "example_sentence": "We keep an emergency supply of batteries."
+   },
+   {
+    "word": "a limited supply of oil",
+    "translation_uz": "neftning cheklangan zaxirasi",
+    "example_sentence": "The country has a limited supply of oil."
+   },
+   {
+    "word": "a regular supply of books",
+    "translation_uz": "kitoblarning muntazam ta'minoti",
+    "example_sentence": "The library gets a regular supply of new books."
+   },
+   {
+    "word": "a waste of time",
+    "translation_uz": "vaqtni bekor sarflash",
+    "example_sentence": "Watching the same video ten times is a waste of time."
+   },
+   {
+    "word": "a waste of money",
+    "translation_uz": "pulni bekorga sarflash",
+    "example_sentence": "Buying things you never use is a waste of money."
+   },
+   {
+    "word": "a waste of energy",
+    "translation_uz": "energiyani isrof qilish",
+    "example_sentence": "Leaving the lights on is a waste of energy."
+   },
+   {
+    "word": "a waste of food",
+    "translation_uz": "ovqatni isrof qilish",
+    "example_sentence": "Throwing away bread is a waste of food."
+   },
+   {
+    "word": "a waste of talent",
+    "translation_uz": "iste'dodni zoye qilish",
+    "example_sentence": "It would be a waste of talent not to practise."
+   },
+   {
+    "word": "a waste of water",
+    "translation_uz": "suvni isrof qilish",
+    "example_sentence": "A dripping tap is a waste of water."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The village has a good ___ of fresh water from the hills.",
+    "correct_word": "supply",
+    "options": [
+     "supply",
+     "waste",
+     "level",
+     "range"
+    ]
+   },
+   {
+    "sentence_with_blank": "Watching the same video ten times is a ___ of time.",
+    "correct_word": "waste",
+    "options": [
+     "supply",
+     "waste",
+     "sense",
+     "stage"
+    ]
+   },
+   {
+    "sentence_with_blank": "The camp keeps an emergency ___ of food in a box.",
+    "correct_word": "supply",
+    "options": [
+     "waste",
+     "sign",
+     "supply",
+     "piece"
+    ]
+   },
+   {
+    "sentence_with_blank": "Leaving the lights on all night is a ___ of energy.",
+    "correct_word": "waste",
+    "options": [
+     "supply",
+     "copy",
+     "sign",
+     "waste"
+    ]
+   },
+   {
+    "sentence_with_blank": "It would be a ___ of talent not to practise the piano.",
+    "correct_word": "waste",
+    "options": [
+     "waste",
+     "supply",
+     "stage",
+     "set"
+    ]
+   },
+   {
+    "sentence_with_blank": "A regular ___ of electricity is needed for the hospital.",
+    "correct_word": "supply",
+    "options": [
+     "waste",
+     "supply",
+     "list",
+     "loss"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Saving Resources",
+   "text": "In our town, we worry about the supply of fresh water in summer. The council says there is a limited supply, so it is a waste of water to leave a tap open. At school we learned that wasting food is also a problem. Throwing away bread is a waste of food and a waste of money. So we keep an emergency supply of dry food at home, but we try to use it. My friend Zarina says arguing about it is a waste of time, and doing something is better. We made posters to remind everyone to save water and energy.",
+   "key_words": [
+    {
+     "word": "council",
+     "translation_uz": "shahar kengashi"
+    },
+    {
+     "word": "remind",
+     "translation_uz": "eslatmoq"
+    },
+    {
+     "word": "tap",
+     "translation_uz": "kran"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What worries people in the town in summer?",
+     "options": [
+      "The supply of fresh water",
+      "A lack of cars",
+      "Too much rain",
+      "Loud noise"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do the students keep at home?",
+     "options": [
+      "A pet",
+      "An emergency supply of dry food",
+      "A spare bike",
+      "A set of tools"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the students make?",
+     "options": [
+      "Cakes",
+      "Videos",
+      "Posters",
+      "Boats"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Camping Plans",
+   "script": "Dad: Let's check the camping list. We need a supply of fresh water. Dina: Why? The river is near. Dad: The water may not be clean. It is a waste of time to look for another source later. Also, an emergency supply of food is wise. Dina: Should I bring candy? Dad: Not much, it is a waste of money. Take batteries as well, there is no supply of electricity at the camp.",
+   "questions": [
+    {
+     "question": "What do they need for camping?",
+     "options": [
+      "A boat",
+      "A radio",
+      "A tent for twenty",
+      "A supply of fresh water"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why does Dad say bring water?",
+     "options": [
+      "The river water may not be clean",
+      "The river is far",
+      "He likes bottles",
+      "Water is cheap"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is not available at the camp?",
+     "options": [
+      "Food",
+      "Electricity",
+      "Space",
+      "Wood"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "It is a waste of time.",
+    "We keep a supply of food.",
+    "Don't waste water."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Saving",
+    "question_text": "What do you do to avoid a waste of water or food?",
+    "hint_words": [
+     "tap",
+     "bread",
+     "save",
+     "turn off"
+    ]
+   },
+   {
+    "topic": "Preparing",
+    "question_text": "What do you keep as an emergency supply at home?",
+    "hint_words": [
+     "water",
+     "food",
+     "torch",
+     "batteries"
+    ]
+   },
+   {
+    "topic": "Time",
+    "question_text": "What do you think is a waste of time?",
+    "hint_words": [
+     "games",
+     "queues",
+     "videos",
+     "arguing"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 161,
+  "title": "review: of expressions",
+  "vocabulary": [
+   {
+    "word": "an act of kindness",
+    "translation_uz": "mehribonlik ko'rsatish",
+    "example_sentence": "He did an act of kindness by helping the new girl."
+   },
+   {
+    "word": "a large amount of time",
+    "translation_uz": "ko'p vaqt",
+    "example_sentence": "The project took a large amount of time."
+   },
+   {
+    "word": "a great deal of effort",
+    "translation_uz": "katta kuch-g'ayrat",
+    "example_sentence": "Learning to dive needs a great deal of effort."
+   },
+   {
+    "word": "a lack of sleep",
+    "translation_uz": "uyqu yetishmasligi",
+    "example_sentence": "A lack of sleep makes me cross."
+   },
+   {
+    "word": "a key feature of",
+    "translation_uz": "...ning asosiy xususiyati",
+    "example_sentence": "Safety is a key feature of this car."
+   },
+   {
+    "word": "a long list of rules",
+    "translation_uz": "qoidalarning uzun ro'yxati",
+    "example_sentence": "The pool has a long list of rules."
+   },
+   {
+    "word": "a matter of time",
+    "translation_uz": "vaqt masalasi",
+    "example_sentence": "Winning is only a matter of time."
+   },
+   {
+    "word": "a piece of advice",
+    "translation_uz": "bir og'iz maslahat",
+    "example_sentence": "Here is a piece of advice for you."
+   },
+   {
+    "word": "a sense of humour",
+    "translation_uz": "hazil tuyg'usi",
+    "example_sentence": "A sense of humour helps in hard times."
+   },
+   {
+    "word": "a sign of progress",
+    "translation_uz": "taraqqiyot belgisi",
+    "example_sentence": "Her speaking is a sign of progress."
+   },
+   {
+    "word": "a supply of fresh water",
+    "translation_uz": "toza suv zaxirasi",
+    "example_sentence": "The camp has a supply of fresh water."
+   },
+   {
+    "word": "a waste of time",
+    "translation_uz": "vaqtni bekor sarflash",
+    "example_sentence": "Arguing about it is a waste of time."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She did a great ___ of work to finish the project on time.",
+    "correct_word": "deal",
+    "options": [
+     "list",
+     "deal",
+     "series",
+     "sign"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a lack ___ water in the desert.",
+    "correct_word": "of",
+    "options": [
+     "for",
+     "in",
+     "of",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad bought a new ___ of tools for the garage.",
+    "correct_word": "set",
+    "options": [
+     "sense",
+     "loss",
+     "waste",
+     "set"
+    ]
+   },
+   {
+    "sentence_with_blank": "Waiting in a very long queue is a ___ of time.",
+    "correct_word": "waste",
+    "options": [
+     "waste",
+     "supply",
+     "range",
+     "copy"
+    ]
+   },
+   {
+    "sentence_with_blank": "He has a good ___ of humour and makes everybody laugh.",
+    "correct_word": "sense",
+    "options": [
+     "level",
+     "sense",
+     "list",
+     "stage"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her better marks are a clear ___ of progress.",
+    "correct_word": "sign",
+    "options": [
+     "piece",
+     "loss",
+     "sign",
+     "amount"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Science Fair",
+   "text": "Our school science fair took a great deal of effort and a large amount of time. Every group did a series of experiments and made a list of ingredients for each one. We kept a supply of fresh water on the table, and a set of tools for emergencies. The headteacher gave us a piece of advice: avoid a waste of time and check every stage. There was a high level of noise in the hall, but we felt a sense of pride when the visitors asked questions. A copy of the report was given to each judge, and it was only a matter of time before we heard the results. Winning the prize was a sign of progress for our class, and a range of teachers shook our hands.",
+   "key_words": [
+    {
+     "word": "judge",
+     "translation_uz": "hakam"
+    },
+    {
+     "word": "emergency",
+     "translation_uz": "favqulodda holat"
+    },
+    {
+     "word": "visitor",
+     "translation_uz": "mehmon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did every group do?",
+     "options": [
+      "A football match",
+      "A series of experiments",
+      "A concert",
+      "A cake sale"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What advice did the headteacher give?",
+     "options": [
+      "Work alone",
+      "Buy more tools",
+      "Avoid wasting time and check every stage",
+      "Finish early"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did each judge receive?",
+     "options": [
+      "A prize",
+      "A bottle of water",
+      "A list of names",
+      "A copy of the report"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a Trip",
+   "script": "Dina: I have a piece of news. Our class is going on a trip next week. Max: Great! That will take a large amount of time to plan. Dina: Yes, it takes a great deal of effort. Our teacher made a long list of rules and a list of things to bring. We need a supply of fresh water and a set of maps. Max: I have a sense of direction, so I can help. Dina: Good. A lack of preparation would be a waste of money, and the weather is only a matter of luck. Max: At least the bus has a range of safety features.",
+   "questions": [
+    {
+     "question": "What is Dina's piece of news?",
+     "options": [
+      "The class is going on a trip",
+      "She has a new pet",
+      "The school is closing",
+      "There is a test"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do they need to bring?",
+     "options": [
+      "A football",
+      "Fresh water and maps",
+      "Games",
+      "Tents"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Max say about the bus?",
+     "options": [
+      "It is very old",
+      "It is cheap",
+      "It has safety features",
+      "It is late"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "It was an act of kindness.",
+    "We need a supply of water.",
+    "He has a good sense of humour."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Review",
+    "question_text": "Tell me about a piece of advice that helped you.",
+    "hint_words": [
+     "parents",
+     "school",
+     "friend",
+     "useful"
+    ]
+   },
+   {
+    "topic": "Review",
+    "question_text": "What is a waste of time, and what takes a great deal of effort?",
+    "hint_words": [
+     "games",
+     "homework",
+     "practice",
+     "study"
+    ]
+   },
+   {
+    "topic": "Review",
+    "question_text": "Describe a series of events that made you proud.",
+    "hint_words": [
+     "first",
+     "then",
+     "sense",
+     "pride"
+    ]
+   }
+  ]
+ }
+]

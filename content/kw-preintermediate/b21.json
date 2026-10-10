@@ -1,0 +1,1508 @@
+[
+ {
+  "unit": 170,
+  "title": "office, manager, secretary",
+  "vocabulary": [
+   {
+    "word": "work in an office",
+    "translation_uz": "ofisda ishlamoq",
+    "example_sentence": "My mother works in an office."
+   },
+   {
+    "word": "an office worker",
+    "translation_uz": "ofis xodimi",
+    "example_sentence": "He is an office worker in the city."
+   },
+   {
+    "word": "an office building",
+    "translation_uz": "ofis binosi",
+    "example_sentence": "The office building has ten floors."
+   },
+   {
+    "word": "go to the office",
+    "translation_uz": "ofisga bormoq",
+    "example_sentence": "Dad goes to the office by bus."
+   },
+   {
+    "word": "an office job",
+    "translation_uz": "ofis ishi",
+    "example_sentence": "She wants an office job."
+   },
+   {
+    "word": "the office hours",
+    "translation_uz": "ish vaqti",
+    "example_sentence": "Our office hours are nine to five."
+   },
+   {
+    "word": "a bank manager",
+    "translation_uz": "bank boshqaruvchisi",
+    "example_sentence": "The bank manager is very polite."
+   },
+   {
+    "word": "a shop manager",
+    "translation_uz": "do'kon mudiri",
+    "example_sentence": "Ask the shop manager for help."
+   },
+   {
+    "word": "the manager of a hotel",
+    "translation_uz": "mehmonxona mudiri",
+    "example_sentence": "He is the manager of a big hotel."
+   },
+   {
+    "word": "a personal secretary",
+    "translation_uz": "shaxsiy kotib",
+    "example_sentence": "The director has a personal secretary."
+   },
+   {
+    "word": "the secretary answers the phone",
+    "translation_uz": "kotib telefonga javob beradi",
+    "example_sentence": "The secretary answers the phone all day."
+   },
+   {
+    "word": "a meeting with the manager",
+    "translation_uz": "menejer bilan uchrashuv",
+    "example_sentence": "I have a meeting with the manager today."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My aunt ___ in an office in the city centre.",
+    "correct_word": "works",
+    "options": [
+     "plays",
+     "sleeps",
+     "swims",
+     "works"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our office ___ are from nine to five.",
+    "correct_word": "hours",
+    "options": [
+     "days",
+     "pages",
+     "hours",
+     "gifts"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is the ___ of a big hotel by the river.",
+    "correct_word": "manager",
+    "options": [
+     "window",
+     "manager",
+     "biscuit",
+     "carpet"
+    ]
+   },
+   {
+    "sentence_with_blank": "The secretary ___ the phone and takes messages.",
+    "correct_word": "answers",
+    "options": [
+     "breaks",
+     "answers",
+     "wears",
+     "plants"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mr Karimov is a bank ___, so he looks after the bank.",
+    "correct_word": "manager",
+    "options": [
+     "manager",
+     "pilot",
+     "painter",
+     "farmer"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a meeting ___ the manager at ten o'clock.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "for",
+     "of",
+     "with"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Mum's Office",
+   "text": "My mum works in an office in the city. It is a big office building with a green door. She is a secretary, and she answers the phone and writes letters for the manager. The manager is a kind man called Mr Aliyev. Mum goes to the office at eight o'clock and finishes at five. Sometimes she has a meeting with the manager. At the weekend she does not go to the office, and we go to the park.",
+   "key_words": [
+    {
+     "word": "kind",
+     "translation_uz": "mehribon"
+    },
+    {
+     "word": "finishes",
+     "translation_uz": "tugatadi"
+    },
+    {
+     "word": "weekend",
+     "translation_uz": "dam olish kunlari"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is the writer's mum's job?",
+     "options": [
+      "A manager",
+      "A doctor",
+      "A secretary",
+      "A teacher"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What time does she go to the office?",
+     "options": [
+      "At nine o'clock",
+      "At seven o'clock",
+      "At eight o'clock",
+      "At five o'clock"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who is Mr Aliyev?",
+     "options": [
+      "The writer's dad",
+      "The manager",
+      "A teacher",
+      "A driver"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Day at the Hotel",
+   "script": "Dilnoza is the manager of a small hotel. She has an office on the ground floor. Every morning she has a meeting with her secretary, Anvar. He answers the phone and books rooms for the guests. Yesterday a family called to ask about a room. Anvar told them the price, and they were happy. After work, Dilnoza closes the office and goes home.",
+   "questions": [
+    {
+     "question": "Who is Dilnoza?",
+     "options": [
+      "The manager of a hotel",
+      "A secretary",
+      "A guest",
+      "A cook"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where is her office?",
+     "options": [
+      "On the top floor",
+      "In the garden",
+      "In the kitchen",
+      "On the ground floor"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Anvar do?",
+     "options": [
+      "Cooks for guests",
+      "Cleans rooms",
+      "Drives a bus",
+      "Answers the phone and books rooms"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She works in an office.",
+    "The secretary answers the phone.",
+    "Ask the manager."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Office work",
+    "question_text": "Where do your parents work?",
+    "hint_words": [
+     "office",
+     "shop",
+     "school",
+     "hospital"
+    ]
+   },
+   {
+    "topic": "Office work",
+    "question_text": "Would you like an office job?",
+    "hint_words": [
+     "yes",
+     "no",
+     "computer",
+     "boring"
+    ]
+   },
+   {
+    "topic": "Office work",
+    "question_text": "What does a manager do?",
+    "hint_words": [
+     "work",
+     "people",
+     "meeting",
+     "decide"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 171,
+  "title": "factory, employer, employee, employment",
+  "vocabulary": [
+   {
+    "word": "work in a factory",
+    "translation_uz": "fabrikada ishlamoq",
+    "example_sentence": "My uncle works in a factory."
+   },
+   {
+    "word": "a factory worker",
+    "translation_uz": "fabrika ishchisi",
+    "example_sentence": "A factory worker makes cars."
+   },
+   {
+    "word": "a car factory",
+    "translation_uz": "avtomobil zavodi",
+    "example_sentence": "There is a car factory near our town."
+   },
+   {
+    "word": "a factory closes",
+    "translation_uz": "fabrika yopiladi",
+    "example_sentence": "The old factory closed last year."
+   },
+   {
+    "word": "a good employer",
+    "translation_uz": "yaxshi ish beruvchi",
+    "example_sentence": "Our boss is a good employer."
+   },
+   {
+    "word": "a large employer",
+    "translation_uz": "yirik ish beruvchi",
+    "example_sentence": "The factory is the largest employer in town."
+   },
+   {
+    "word": "an employee of the company",
+    "translation_uz": "kompaniya xodimi",
+    "example_sentence": "She is an employee of a phone company."
+   },
+   {
+    "word": "hire a new employee",
+    "translation_uz": "yangi xodim yollamoq",
+    "example_sentence": "They hired a new employee last week."
+   },
+   {
+    "word": "a full-time employee",
+    "translation_uz": "to'liq stavkadagi xodim",
+    "example_sentence": "He is a full-time employee."
+   },
+   {
+    "word": "find employment",
+    "translation_uz": "ish topmoq",
+    "example_sentence": "It is hard to find employment here."
+   },
+   {
+    "word": "be in employment",
+    "translation_uz": "ishda bo'lmoq",
+    "example_sentence": "My sister is in employment now."
+   },
+   {
+    "word": "full-time employment",
+    "translation_uz": "to'liq ish kuni",
+    "example_sentence": "He has full-time employment at the bank."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My uncle ___ in a factory that makes shoes.",
+    "correct_word": "works",
+    "options": [
+     "swims",
+     "cooks",
+     "works",
+     "sleeps"
+    ]
+   },
+   {
+    "sentence_with_blank": "The company is the biggest ___ in our town because it gives jobs to many people.",
+    "correct_word": "employer",
+    "options": [
+     "window",
+     "employer",
+     "island",
+     "farmer"
+    ]
+   },
+   {
+    "sentence_with_blank": "They want to ___ a new employee to help in the shop.",
+    "correct_word": "hire",
+    "options": [
+     "hire",
+     "sing",
+     "wash",
+     "break"
+    ]
+   },
+   {
+    "sentence_with_blank": "After school, Ali hopes to find ___ in a bank.",
+    "correct_word": "employment",
+    "options": [
+     "employment",
+     "furniture",
+     "weather",
+     "lightning"
+    ]
+   },
+   {
+    "sentence_with_blank": "The old factory ___ last year, and many workers lost their jobs.",
+    "correct_word": "closed",
+    "options": [
+     "ripened",
+     "whispered",
+     "melted",
+     "closed"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is an ___ of a large phone company.",
+    "correct_word": "employee",
+    "options": [
+     "orchard",
+     "pillow",
+     "employee",
+     "ladder"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Factory in Our Town",
+   "text": "There is a bread factory in our town. It is the biggest employer here, and about three hundred people work in the factory. My neighbour is a factory worker. He starts at six o'clock in the morning. The factory is a good employer because it pays well and gives holidays to its employees. Last month it hired ten new employees. My brother wants to find employment there after school.",
+   "key_words": [
+    {
+     "word": "neighbour",
+     "translation_uz": "qo'shni"
+    },
+    {
+     "word": "pays well",
+     "translation_uz": "yaxshi to'laydi"
+    },
+    {
+     "word": "holidays",
+     "translation_uz": "ta'tillar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the factory make?",
+     "options": [
+      "Cars",
+      "Bread",
+      "Shoes",
+      "Toys"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How many people work in the factory?",
+     "options": [
+      "About thirty",
+      "About three hundred",
+      "About ten",
+      "About a thousand"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who wants to find employment there?",
+     "options": [
+      "The writer's brother",
+      "The writer's neighbour",
+      "The writer's dad",
+      "The writer's friend"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Closing Day",
+   "script": "Last year the toy factory in our city closed. It was the largest employer in the area, so many employees lost their jobs. My aunt was one of them. She looked for employment for three months. At last, a shop hired her as a full-time employee. Now she works there from Monday to Friday. She says the new employer is very kind.",
+   "questions": [
+    {
+     "question": "What did the factory make?",
+     "options": [
+      "Bread",
+      "Cars",
+      "Clothes",
+      "Toys"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did the aunt look for employment?",
+     "options": [
+      "Three weeks",
+      "Three years",
+      "Three months",
+      "One month"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is the aunt's new job?",
+     "options": [
+      "A factory worker",
+      "A teacher",
+      "A full-time job in a shop",
+      "A driver"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "He works in a factory.",
+    "She is an employee.",
+    "They hired a new worker."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Factories and jobs",
+    "question_text": "What does a factory make in your town?",
+    "hint_words": [
+     "bread",
+     "cars",
+     "clothes",
+     "town"
+    ]
+   },
+   {
+    "topic": "Factories and jobs",
+    "question_text": "Would you like to work in a factory?",
+    "hint_words": [
+     "yes",
+     "no",
+     "noisy",
+     "machines"
+    ]
+   },
+   {
+    "topic": "Factories and jobs",
+    "question_text": "What makes a good employer?",
+    "hint_words": [
+     "kind",
+     "pays well",
+     "holidays",
+     "fair"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 172,
+  "title": "police",
+  "vocabulary": [
+   {
+    "word": "call the police",
+    "translation_uz": "politsiyani chaqirmoq",
+    "example_sentence": "Call the police if you need help."
+   },
+   {
+    "word": "the police arrive",
+    "translation_uz": "politsiya yetib keladi",
+    "example_sentence": "The police arrived in five minutes."
+   },
+   {
+    "word": "a police officer",
+    "translation_uz": "politsiya xodimi",
+    "example_sentence": "A police officer helped the lost boy."
+   },
+   {
+    "word": "a police car",
+    "translation_uz": "politsiya mashinasi",
+    "example_sentence": "A police car stopped near the bank."
+   },
+   {
+    "word": "a police station",
+    "translation_uz": "politsiya bo'limi",
+    "example_sentence": "The police station is next to the park."
+   },
+   {
+    "word": "report it to the police",
+    "translation_uz": "politsiyaga xabar bermoq",
+    "example_sentence": "You must report the theft to the police."
+   },
+   {
+    "word": "the police are looking for",
+    "translation_uz": "politsiya qidirmoqda",
+    "example_sentence": "The police are looking for a red bicycle."
+   },
+   {
+    "word": "the police arrest someone",
+    "translation_uz": "politsiya birovni hibsga oladi",
+    "example_sentence": "The police arrested the thief."
+   },
+   {
+    "word": "join the police",
+    "translation_uz": "politsiyaga qo'shilmoq",
+    "example_sentence": "My cousin wants to join the police."
+   },
+   {
+    "word": "the police stop a car",
+    "translation_uz": "politsiya mashinani to'xtatadi",
+    "example_sentence": "The police stopped a fast car."
+   },
+   {
+    "word": "a police dog",
+    "translation_uz": "politsiya iti",
+    "example_sentence": "The police dog found the bag."
+   },
+   {
+    "word": "tell the police",
+    "translation_uz": "politsiyaga aytmoq",
+    "example_sentence": "Tell the police what you saw."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "If there is an accident, ___ the police at once.",
+    "correct_word": "call",
+    "options": [
+     "eat",
+     "call",
+     "paint",
+     "plant"
+    ]
+   },
+   {
+    "sentence_with_blank": "The police ___ in five minutes and helped everyone.",
+    "correct_word": "arrived",
+    "options": [
+     "arrived",
+     "painted",
+     "grew",
+     "laughed"
+    ]
+   },
+   {
+    "sentence_with_blank": "A police ___ showed the lost boy the way home.",
+    "correct_word": "officer",
+    "options": [
+     "banana",
+     "garden",
+     "pillow",
+     "officer"
+    ]
+   },
+   {
+    "sentence_with_blank": "We went to the police ___ to report the lost bag.",
+    "correct_word": "station",
+    "options": [
+     "kitchen",
+     "island",
+     "cinema",
+     "station"
+    ]
+   },
+   {
+    "sentence_with_blank": "The police ___ the thief near the market.",
+    "correct_word": "arrested",
+    "options": [
+     "invited",
+     "watered",
+     "arrested",
+     "cooked"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin wants to ___ the police when he grows up.",
+    "correct_word": "join",
+    "options": [
+     "melt",
+     "join",
+     "knit",
+     "spill"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Lost Bicycle",
+   "text": "Yesterday my bicycle was gone from the front of our house. I was very sad. Dad said, \"Let's report it to the police.\" We walked to the police station near the park. A friendly police officer wrote down the colour and the place. He said, \"The police are looking for it. We will call you.\" Two days later the police called us. They found the bicycle in a garden and brought it back in a police car.",
+   "key_words": [
+    {
+     "word": "gone",
+     "translation_uz": "yo'qolgan"
+    },
+    {
+     "word": "friendly",
+     "translation_uz": "do'stona"
+    },
+    {
+     "word": "garden",
+     "translation_uz": "bog'"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did they go to report the bicycle?",
+     "options": [
+      "The police station",
+      "The school",
+      "The bank",
+      "The park"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the officer write down?",
+     "options": [
+      "The colour and the place",
+      "The price",
+      "The age",
+      "The weather"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the bicycle come back?",
+     "options": [
+      "By bus",
+      "By train",
+      "On a truck",
+      "In a police car"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Police Day at School",
+   "script": "Today a police officer visited our school. He talked about road safety. He said, \"If you see danger, call the police.\" Then a police dog came into the hall. The dog was big, but it was very kind. The officer told us how the police dog finds lost things. At the end, we asked questions. I asked how he joined the police, and he said he studied hard.",
+   "questions": [
+    {
+     "question": "Who visited the school?",
+     "options": [
+      "A doctor",
+      "A farmer",
+      "A police officer",
+      "A pilot"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the officer talk about?",
+     "options": [
+      "Football",
+      "Road safety",
+      "Cooking",
+      "Music"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who came into the hall?",
+     "options": [
+      "A horse",
+      "A police dog",
+      "A cat",
+      "A bird"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Call the police.",
+    "He is a police officer.",
+    "The police arrived."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Police",
+    "question_text": "What does a police officer do?",
+    "hint_words": [
+     "help",
+     "protect",
+     "traffic",
+     "crime"
+    ]
+   },
+   {
+    "topic": "Police",
+    "question_text": "Would you like to join the police?",
+    "hint_words": [
+     "yes",
+     "no",
+     "brave",
+     "because"
+    ]
+   },
+   {
+    "topic": "Police",
+    "question_text": "What number do you call in an emergency?",
+    "hint_words": [
+     "call",
+     "emergency",
+     "police",
+     "help"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 173,
+  "title": "soldier",
+  "vocabulary": [
+   {
+    "word": "a brave soldier",
+    "translation_uz": "jasur askar",
+    "example_sentence": "The brave soldier saved his friend."
+   },
+   {
+    "word": "a young soldier",
+    "translation_uz": "yosh askar",
+    "example_sentence": "A young soldier stood at the gate."
+   },
+   {
+    "word": "a soldier in uniform",
+    "translation_uz": "forma kiygan askar",
+    "example_sentence": "I saw a soldier in uniform at the station."
+   },
+   {
+    "word": "become a soldier",
+    "translation_uz": "askar bo'lmoq",
+    "example_sentence": "He wants to become a soldier."
+   },
+   {
+    "word": "a soldier on guard",
+    "translation_uz": "qorovuldagi askar",
+    "example_sentence": "A soldier stood on guard at the gate."
+   },
+   {
+    "word": "soldiers march",
+    "translation_uz": "askarlar saf tortib yuradi",
+    "example_sentence": "The soldiers marched through the square."
+   },
+   {
+    "word": "a soldier in the army",
+    "translation_uz": "armiyadagi askar",
+    "example_sentence": "My uncle was a soldier in the army."
+   },
+   {
+    "word": "a retired soldier",
+    "translation_uz": "nafaqadagi askar",
+    "example_sentence": "My neighbour is a retired soldier."
+   },
+   {
+    "word": "soldiers in a parade",
+    "translation_uz": "paraddagi askarlar",
+    "example_sentence": "We watched the soldiers in the parade."
+   },
+   {
+    "word": "a toy soldier",
+    "translation_uz": "o'yinchoq askar",
+    "example_sentence": "He has a toy soldier from his grandpa."
+   },
+   {
+    "word": "an army base",
+    "translation_uz": "harbiy bazasi",
+    "example_sentence": "The soldiers live on an army base."
+   },
+   {
+    "word": "fight for the country",
+    "translation_uz": "vatan uchun kurashmoq",
+    "example_sentence": "Soldiers promise to protect their country."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The ___ soldier helped his friend in danger.",
+    "correct_word": "brave",
+    "options": [
+     "brave",
+     "sweet",
+     "sleepy",
+     "round"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle wants to ___ a soldier when he is older.",
+    "correct_word": "become",
+    "options": [
+     "borrow",
+     "spill",
+     "pour",
+     "become"
+    ]
+   },
+   {
+    "sentence_with_blank": "Two soldiers stood ___ guard at the gate.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "off",
+     "on",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The soldiers ___ through the main square on Independence Day.",
+    "correct_word": "marched",
+    "options": [
+     "baked",
+     "hopped",
+     "marched",
+     "melted"
+    ]
+   },
+   {
+    "sentence_with_blank": "My neighbour is a ___ soldier who no longer works in the army.",
+    "correct_word": "retired",
+    "options": [
+     "empty",
+     "retired",
+     "sunny",
+     "square"
+    ]
+   },
+   {
+    "sentence_with_blank": "The soldier was wearing a green ___.",
+    "correct_word": "uniform",
+    "options": [
+     "uniform",
+     "cloud",
+     "pencil",
+     "tomato"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Brave Grandfather",
+   "text": "My grandfather was a soldier in the army when he was young. He was brave, and he helped many people. Now he is a retired soldier and lives with us. He keeps his old uniform in a box. Every year on Victory Day we watch the soldiers in the parade. Grandfather stands very straight and smiles. He says, \"A good soldier is always kind.\"",
+   "key_words": [
+    {
+     "word": "army",
+     "translation_uz": "armiya"
+    },
+    {
+     "word": "straight",
+     "translation_uz": "tik"
+    },
+    {
+     "word": "kind",
+     "translation_uz": "mehribon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who was a soldier?",
+     "options": [
+      "The writer's father",
+      "The writer's uncle",
+      "The writer's teacher",
+      "The writer's grandfather"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where does he keep his old uniform?",
+     "options": [
+      "In a bag",
+      "In a cupboard",
+      "In the garage",
+      "In a box"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do they watch every year?",
+     "options": [
+      "A football match",
+      "A film",
+      "The parade",
+      "A concert"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Parade",
+   "script": "On Saturday there was a big parade in the main square. We stood near the front. First, a band played loud music. Then the soldiers marched past us in green uniform. They walked in a straight line, and their boots all sounded the same. A young soldier smiled at me. My little brother waved a small flag. After the parade, we bought ice cream.",
+   "questions": [
+    {
+     "question": "What colour was the uniform?",
+     "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "White"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who smiled at the speaker?",
+     "options": [
+      "A young soldier",
+      "A band member",
+      "A teacher",
+      "A police officer"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the speaker's brother wave?",
+     "options": [
+      "A small flag",
+      "A hat",
+      "A balloon",
+      "A book"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He is a brave soldier.",
+    "The soldiers marched.",
+    "Look at the toy soldier."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Soldiers",
+    "question_text": "What does a soldier do?",
+    "hint_words": [
+     "protect",
+     "country",
+     "army",
+     "brave"
+    ]
+   },
+   {
+    "topic": "Soldiers",
+    "question_text": "Do you know a soldier?",
+    "hint_words": [
+     "yes",
+     "no",
+     "uncle",
+     "army"
+    ]
+   },
+   {
+    "topic": "Soldiers",
+    "question_text": "What do you think of a parade?",
+    "hint_words": [
+     "music",
+     "march",
+     "flags",
+     "exciting"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 174,
+  "title": "museum, art gallery, cinema, theatre",
+  "vocabulary": [
+   {
+    "word": "visit a museum",
+    "translation_uz": "muzeyga bormoq",
+    "example_sentence": "We visited a museum on Friday."
+   },
+   {
+    "word": "a history museum",
+    "translation_uz": "tarix muzeyi",
+    "example_sentence": "The history museum has old swords."
+   },
+   {
+    "word": "a museum guide",
+    "translation_uz": "muzey gidi",
+    "example_sentence": "The museum guide told us a story."
+   },
+   {
+    "word": "an exhibition in a museum",
+    "translation_uz": "muzeydagi ko'rgazma",
+    "example_sentence": "There is a new exhibition in the museum."
+   },
+   {
+    "word": "an art gallery",
+    "translation_uz": "san'at galereyasi",
+    "example_sentence": "The art gallery is free on Sundays."
+   },
+   {
+    "word": "a painting in an art gallery",
+    "translation_uz": "galereyadagi rasm",
+    "example_sentence": "I liked a painting in the art gallery."
+   },
+   {
+    "word": "go to the cinema",
+    "translation_uz": "kinoga bormoq",
+    "example_sentence": "Let's go to the cinema tonight."
+   },
+   {
+    "word": "a cinema ticket",
+    "translation_uz": "kino chiptasi",
+    "example_sentence": "I bought two cinema tickets."
+   },
+   {
+    "word": "at the cinema",
+    "translation_uz": "kinoteatrda",
+    "example_sentence": "We met at the cinema."
+   },
+   {
+    "word": "go to the theatre",
+    "translation_uz": "teatrga bormoq",
+    "example_sentence": "We go to the theatre once a month."
+   },
+   {
+    "word": "book theatre tickets",
+    "translation_uz": "teatr chiptalarini band qilmoq",
+    "example_sentence": "Dad booked theatre tickets online."
+   },
+   {
+    "word": "the theatre is full",
+    "translation_uz": "teatr gavjum",
+    "example_sentence": "The theatre was full of children."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We want to ___ the museum on Saturday.",
+    "correct_word": "visit",
+    "options": [
+     "eat",
+     "wear",
+     "drive",
+     "visit"
+    ]
+   },
+   {
+    "sentence_with_blank": "I liked a painting in the art ___ very much.",
+    "correct_word": "gallery",
+    "options": [
+     "pocket",
+     "kitchen",
+     "gallery",
+     "bakery"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's ___ to the cinema and watch a funny film.",
+    "correct_word": "go",
+    "options": [
+     "cook",
+     "go",
+     "wash",
+     "paint"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ tickets for the theatre online.",
+    "correct_word": "booked",
+    "options": [
+     "ate",
+     "booked",
+     "grew",
+     "dug"
+    ]
+   },
+   {
+    "sentence_with_blank": "We met our friends ___ the cinema at six o'clock.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "for",
+     "of",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "The museum ___ told us a story about the old coins.",
+    "correct_word": "guide",
+    "options": [
+     "plate",
+     "roof",
+     "sandwich",
+     "guide"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day in the City",
+   "text": "Last Sunday our class went on a trip to the city. In the morning we visited a history museum. The guide showed us old coins and swords. After lunch we went to an art gallery. There was a big painting of a mountain. In the evening some of us went to the theatre to see a play, but my family went to the cinema. The cinema tickets were cheap, and the film was funny.",
+   "key_words": [
+    {
+     "word": "coins",
+     "translation_uz": "tangalar"
+    },
+    {
+     "word": "mountain",
+     "translation_uz": "tog'"
+    },
+    {
+     "word": "cheap",
+     "translation_uz": "arzon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the guide show them?",
+     "options": [
+      "Dinosaur bones",
+      "Ships",
+      "Old coins and swords",
+      "Toys"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was in the painting?",
+     "options": [
+      "A river",
+      "A dog",
+      "A mountain",
+      "A city"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did the writer's family go in the evening?",
+     "options": [
+      "To the theatre",
+      "To the cinema",
+      "To the museum",
+      "To the park"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning the Weekend",
+   "script": "This weekend I want to do something different. On Saturday morning I will go to the art gallery with my sister. It is free for students. Then we will have lunch in the park. In the evening my parents will take us to the theatre. Dad booked the tickets last week. On Sunday we will go to the cinema with our cousins. I hope the film is not too long.",
+   "questions": [
+    {
+     "question": "Where will the speaker go on Saturday morning?",
+     "options": [
+      "To the art gallery",
+      "To the museum",
+      "To the cinema",
+      "To the theatre"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who booked the tickets for the theatre?",
+     "options": [
+      "Mum",
+      "The speaker",
+      "A cousin",
+      "Dad"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who will go to the cinema on Sunday?",
+     "options": [
+      "Only parents",
+      "Only the sister",
+      "The teacher",
+      "The speaker and cousins"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Let's go to the cinema.",
+    "I visited a museum.",
+    "We saw a painting."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Going out",
+    "question_text": "Do you go to the cinema often?",
+    "hint_words": [
+     "yes",
+     "no",
+     "film",
+     "with friends"
+    ]
+   },
+   {
+    "topic": "Going out",
+    "question_text": "Which do you like: a museum or an art gallery?",
+    "hint_words": [
+     "museum",
+     "gallery",
+     "old",
+     "paintings"
+    ]
+   },
+   {
+    "topic": "Going out",
+    "question_text": "Have you ever been to the theatre?",
+    "hint_words": [
+     "yes",
+     "no",
+     "play",
+     "once"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 175,
+  "title": "show, play, actor",
+  "vocabulary": [
+   {
+    "word": "watch a show",
+    "translation_uz": "shouni tomosha qilmoq",
+    "example_sentence": "We watched a funny show last night."
+   },
+   {
+    "word": "a TV show",
+    "translation_uz": "teleko'rsatuv",
+    "example_sentence": "My favourite TV show is on at six."
+   },
+   {
+    "word": "a talent show",
+    "translation_uz": "iste'dod ko'rsatuvi",
+    "example_sentence": "She sang in the school talent show."
+   },
+   {
+    "word": "a show starts",
+    "translation_uz": "shou boshlanadi",
+    "example_sentence": "The show starts at seven o'clock."
+   },
+   {
+    "word": "put on a show",
+    "translation_uz": "tomosha qo'ymoq",
+    "example_sentence": "The children put on a show for their parents."
+   },
+   {
+    "word": "see a play",
+    "translation_uz": "spektakl ko'rmoq",
+    "example_sentence": "We saw a play about a king."
+   },
+   {
+    "word": "act in a play",
+    "translation_uz": "spektaklda o'ynamoq",
+    "example_sentence": "My sister acts in a school play."
+   },
+   {
+    "word": "write a play",
+    "translation_uz": "pyesa yozmoq",
+    "example_sentence": "He wrote a play for the class."
+   },
+   {
+    "word": "a school play",
+    "translation_uz": "maktab spektakli",
+    "example_sentence": "The school play was a big success."
+   },
+   {
+    "word": "a famous actor",
+    "translation_uz": "mashhur aktyor",
+    "example_sentence": "A famous actor came to our city."
+   },
+   {
+    "word": "a young actor",
+    "translation_uz": "yosh aktyor",
+    "example_sentence": "The young actor forgot his words."
+   },
+   {
+    "word": "a film actor",
+    "translation_uz": "kino aktyori",
+    "example_sentence": "My uncle is a film actor."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The show ___ at seven o'clock, so don't be late.",
+    "correct_word": "starts",
+    "options": [
+     "sleeps",
+     "grows",
+     "starts",
+     "breaks"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister ___ in the school play. She is a princess.",
+    "correct_word": "acts",
+    "options": [
+     "rides",
+     "acts",
+     "drinks",
+     "digs"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children put ___ a show for their parents.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "to",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "We saw a ___ about a king and a queen at the theatre.",
+    "correct_word": "play",
+    "options": [
+     "play",
+     "spoon",
+     "mountain",
+     "shirt"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is a famous film ___ and he is on TV.",
+    "correct_word": "actor",
+    "options": [
+     "baker",
+     "driver",
+     "cousin",
+     "actor"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother wants to ___ a play for the class.",
+    "correct_word": "write",
+    "options": [
+     "swim",
+     "kick",
+     "write",
+     "wash"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Play",
+   "text": "Our class is going to put on a play at school. The play is about a brave king and a clever girl. I am an actor in the play, and I am the king! My friend Madina writes the words and also acts. She is a very good young actor. The show starts at five o'clock on Friday. Our parents will watch the show. I am a little nervous, but I know all my words.",
+   "key_words": [
+    {
+     "word": "clever",
+     "translation_uz": "aqlli"
+    },
+    {
+     "word": "nervous",
+     "translation_uz": "hayajonlangan"
+    },
+    {
+     "word": "words",
+     "translation_uz": "so'zlar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is the play about?",
+     "options": [
+      "A fish and a boat",
+      "A brave king and a clever girl",
+      "A dog and a cat",
+      "A school trip"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who is the king?",
+     "options": [
+      "Madina",
+      "The writer",
+      "The teacher",
+      "The writer's dad"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When does the show start?",
+     "options": [
+      "At five o'clock on Friday",
+      "At six o'clock on Friday",
+      "At five o'clock on Monday",
+      "At four o'clock on Sunday"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talent Show",
+   "script": "Last night we watched a talent show on TV. There were many young actors and singers. A boy acted in a short play. He was very funny, and everybody laughed. A girl sang a beautiful song. The show was two hours long, but we did not get bored. My mum said that one day she wants to see me in a show, too. I answered, \"Maybe I will put on my own show!\"",
+   "questions": [
+    {
+     "question": "Where did they watch the talent show?",
+     "options": [
+      "At the theatre",
+      "At the cinema",
+      "At school",
+      "On TV"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long was the show?",
+     "options": [
+      "One hour",
+      "Three hours",
+      "Two hours",
+      "Half an hour"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the boy do?",
+     "options": [
+      "He sang a song",
+      "He danced",
+      "He acted in a short play",
+      "He played the piano"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "The show starts now.",
+    "She acts in a play.",
+    "He is a famous actor."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Shows and plays",
+    "question_text": "What is your favourite TV show?",
+    "hint_words": [
+     "funny",
+     "cartoon",
+     "watch",
+     "every day"
+    ]
+   },
+   {
+    "topic": "Shows and plays",
+    "question_text": "Have you ever acted in a play?",
+    "hint_words": [
+     "yes",
+     "no",
+     "school",
+     "king"
+    ]
+   },
+   {
+    "topic": "Shows and plays",
+    "question_text": "Who is your favourite actor?",
+    "hint_words": [
+     "famous",
+     "film",
+     "funny",
+     "like"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1534 @@
+[
+ {
+  "unit": 138,
+  "title": "parent",
+  "vocabulary": [
+   {
+    "word": "a single parent",
+    "translation_uz": "yolg'iz ota yoki ona",
+    "example_sentence": "She is a single parent with two sons."
+   },
+   {
+    "word": "a strict parent",
+    "translation_uz": "qattiqqo'l ota-ona",
+    "example_sentence": "My uncle is a strict parent, but he is fair."
+   },
+   {
+    "word": "a good parent",
+    "translation_uz": "yaxshi ota-ona",
+    "example_sentence": "A good parent listens to the children."
+   },
+   {
+    "word": "become a parent",
+    "translation_uz": "ota yoki ona bo'lmoq",
+    "example_sentence": "My cousin became a parent last year."
+   },
+   {
+    "word": "live with your parents",
+    "translation_uz": "ota-onang bilan yashamoq",
+    "example_sentence": "Many young people live with their parents."
+   },
+   {
+    "word": "ask your parents for permission",
+    "translation_uz": "ota-onangdan ruxsat so'ramoq",
+    "example_sentence": "Ask your parents for permission before you go out."
+   },
+   {
+    "word": "talk to your parents",
+    "translation_uz": "ota-onang bilan gaplashmoq",
+    "example_sentence": "I talk to my parents about my day every evening."
+   },
+   {
+    "word": "my parents' house",
+    "translation_uz": "ota-onamning uyi",
+    "example_sentence": "We eat dinner at my parents' house on Sundays."
+   },
+   {
+    "word": "proud parents",
+    "translation_uz": "faxrlanuvchi ota-ona",
+    "example_sentence": "The proud parents clapped at the concert."
+   },
+   {
+    "word": "parents' evening",
+    "translation_uz": "ota-onalar yig'ilishi",
+    "example_sentence": "There is a parents' evening at school on Friday."
+   },
+   {
+    "word": "look after your parents",
+    "translation_uz": "ota-onangga qaramoq",
+    "example_sentence": "It is important to look after your parents when they are old."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My mum is a ___ parent. She brings up three children alone.",
+    "correct_word": "single",
+    "options": [
+     "single",
+     "tall",
+     "fast",
+     "empty",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ask your parents ___ permission before you stay at my house.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "with",
+     "on",
+     "by",
+     "holiday"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our teacher met the parents at the parents' ___ on Tuesday.",
+    "correct_word": "evening",
+    "options": [
+     "evening",
+     "lesson",
+     "homework",
+     "holiday",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin ___ a parent when his daughter was born.",
+    "correct_word": "became",
+    "options": [
+     "became",
+     "opened",
+     "caught",
+     "wore",
+     "tall"
+    ]
+   },
+   {
+    "sentence_with_blank": "Young students often ___ with their parents until they finish university.",
+    "correct_word": "live",
+    "options": [
+     "live",
+     "make",
+     "take",
+     "play",
+     "evening"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ parent has many rules and does not let children stay out late.",
+    "correct_word": "strict",
+    "options": [
+     "strict",
+     "yellow",
+     "quiet",
+     "noisy",
+     "wore"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Visit to My Parents",
+   "text": "Every Sunday I visit my parents' house. My mother is a good parent and she always asks about my week. My father is a bit strict, but he is fair. Last Sunday I talked to my parents about my new job. They were very proud. After lunch I helped them in the garden, and then I went home.",
+   "key_words": [
+    {
+     "word": "strict",
+     "translation_uz": "qattiqqo'l"
+    },
+    {
+     "word": "fair",
+     "translation_uz": "adolatli"
+    },
+    {
+     "word": "proud",
+     "translation_uz": "faxrlangan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the writer visit the parents' house?",
+     "options": [
+      "Every Sunday",
+      "On Fridays",
+      "Every morning",
+      "Once a year"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the writer's father like?",
+     "options": [
+      "Very noisy",
+      "A bit strict but fair",
+      "Always sad",
+      "Very tall"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the writer talk about last Sunday?",
+     "options": [
+      "A holiday",
+      "A wedding",
+      "A new job",
+      "A football match"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Parents' Evening",
+   "script": "Tonight is the parents' evening at our school. Many parents will come to talk to the teachers. My mum is a single parent, so she is coming alone. She wants to ask about my homework. After that we will go to my grandparents' house for dinner.",
+   "questions": [
+    {
+     "question": "Where is the parents' evening?",
+     "options": [
+      "At the park",
+      "At a cinema",
+      "At a hospital",
+      "At the school"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who is coming to the school for the writer?",
+     "options": [
+      "Mum",
+      "Dad",
+      "A cousin",
+      "A neighbour"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will they do after the meeting?",
+     "options": [
+      "Go shopping",
+      "Have dinner at the grandparents' house",
+      "Watch a film",
+      "Play football"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "She is a single parent.",
+    "Ask your parents for permission.",
+    "There is a parents' evening."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Family",
+    "question_text": "Do you live with your parents?",
+    "hint_words": [
+     "I live with",
+     "mother",
+     "father",
+     "brothers"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "What are your parents like?",
+    "hint_words": [
+     "kind",
+     "strict",
+     "funny",
+     "busy"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "What do you talk to your parents about?",
+    "hint_words": [
+     "school",
+     "friends",
+     "my day",
+     "sport"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 139,
+  "title": "child/children",
+  "vocabulary": [
+   {
+    "word": "have a child",
+    "translation_uz": "farzandli bo'lmoq",
+    "example_sentence": "They want to have a child one day."
+   },
+   {
+    "word": "bring up a child",
+    "translation_uz": "bola tarbiyalamoq",
+    "example_sentence": "It is not easy to bring up a child."
+   },
+   {
+    "word": "look after a child",
+    "translation_uz": "bolaga qaramoq",
+    "example_sentence": "Can you look after the child for an hour?"
+   },
+   {
+    "word": "an only child",
+    "translation_uz": "yagona farzand",
+    "example_sentence": "I am an only child, so I play alone a lot."
+   },
+   {
+    "word": "a young child",
+    "translation_uz": "kichkina bola",
+    "example_sentence": "A young child needs a lot of sleep."
+   },
+   {
+    "word": "a small child",
+    "translation_uz": "nari bola",
+    "example_sentence": "A small child can't open this heavy door."
+   },
+   {
+    "word": "children's books",
+    "translation_uz": "bolalar kitoblari",
+    "example_sentence": "This shop sells children's books and toys."
+   },
+   {
+    "word": "a children's playground",
+    "translation_uz": "bolalar maydonchasi",
+    "example_sentence": "There is a children's playground next to our block."
+   },
+   {
+    "word": "grow up as a child",
+    "translation_uz": "bolalikda ulg'aymoq",
+    "example_sentence": "She grew up as a child in a small village."
+   },
+   {
+    "word": "when I was a child",
+    "translation_uz": "bolaligimda",
+    "example_sentence": "When I was a child, I loved swimming."
+   },
+   {
+    "word": "play with children",
+    "translation_uz": "bolalar bilan o'ynamoq",
+    "example_sentence": "My sister likes to play with the children."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "They want to ___ up their children to be kind and honest.",
+    "correct_word": "bring",
+    "options": [
+     "bring",
+     "pick",
+     "fall",
+     "cut",
+     "only"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am an ___ child, so I have no brothers or sisters.",
+    "correct_word": "only",
+    "options": [
+     "only",
+     "empty",
+     "early",
+     "open",
+     "wedding"
+    ]
+   },
+   {
+    "sentence_with_blank": "When I was a ___, I lived near the sea.",
+    "correct_word": "child",
+    "options": [
+     "child",
+     "children",
+     "parents",
+     "wedding",
+     "young"
+    ]
+   },
+   {
+    "sentence_with_blank": "The babysitter will ___ after the children tonight.",
+    "correct_word": "look",
+    "options": [
+     "look",
+     "fall",
+     "grow",
+     "bring",
+     "empty"
+    ]
+   },
+   {
+    "sentence_with_blank": "The park has a children's ___ with swings and slides.",
+    "correct_word": "playground",
+    "options": [
+     "playground",
+     "hospital",
+     "office",
+     "bank",
+     "parents"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ child needs help to cross the road.",
+    "correct_word": "young",
+    "options": [
+     "young",
+     "heavy",
+     "hungry",
+     "angry",
+     "bank"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Children in the Park",
+   "text": "On Saturday I took my little brother to the park. There is a big children's playground there. Many young children were playing on the swings. My brother is an only child at home, so he loves to play with other children. I looked after him carefully. At the end of the day, he was tired and happy.",
+   "key_words": [
+    {
+     "word": "swings",
+     "translation_uz": "belanchak"
+    },
+    {
+     "word": "carefully",
+     "translation_uz": "ehtiyotkorlik bilan"
+    },
+    {
+     "word": "tired",
+     "translation_uz": "charchagan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the writer take the little brother?",
+     "options": [
+      "To school",
+      "To the cinema",
+      "To a shop",
+      "To the park"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why does the brother love to play with other children?",
+     "options": [
+      "He is an only child at home",
+      "He has many sisters",
+      "He has a dog",
+      "He is shy"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How was the brother at the end of the day?",
+     "options": [
+      "Hungry and angry",
+      "Tired and happy",
+      "Cold and sad",
+      "Bored and quiet"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "When I Was a Child",
+   "script": "When I was a child, I lived in a small town. My parents brought up four children, and I was the youngest. We played in the street every evening. Now I have a child of my own, and I take her to the children's library every week.",
+   "questions": [
+    {
+     "question": "How many children did the speaker's parents bring up?",
+     "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the children do every evening?",
+     "options": [
+      "Read books",
+      "Watched television",
+      "Did homework",
+      "Played in the street"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where does the speaker take her child every week?",
+     "options": [
+      "To the children's library",
+      "To the cinema",
+      "To a farm",
+      "To the sea"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I was an only child.",
+    "She looks after the children.",
+    "Young children love to play."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Childhood",
+    "question_text": "What did you like doing when you were a child?",
+    "hint_words": [
+     "When I was a child",
+     "play",
+     "games",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "Are you an only child?",
+    "hint_words": [
+     "yes",
+     "no",
+     "brother",
+     "sister"
+    ]
+   },
+   {
+    "topic": "Town",
+    "question_text": "Is there a children's playground near your home?",
+    "hint_words": [
+     "near",
+     "park",
+     "swings",
+     "slide"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 140,
+  "title": "wedding",
+  "vocabulary": [
+   {
+    "word": "go to a wedding",
+    "translation_uz": "to'yga bormoq",
+    "example_sentence": "We are going to a wedding on Saturday."
+   },
+   {
+    "word": "have a wedding",
+    "translation_uz": "to'y qilmoq",
+    "example_sentence": "They want to have a wedding in the summer."
+   },
+   {
+    "word": "plan a wedding",
+    "translation_uz": "to'yni rejalashtirmoq",
+    "example_sentence": "It takes months to plan a wedding."
+   },
+   {
+    "word": "invite someone to a wedding",
+    "translation_uz": "to'yga taklif qilmoq",
+    "example_sentence": "They invited all their friends to the wedding."
+   },
+   {
+    "word": "a wedding dress",
+    "translation_uz": "kelin libosi",
+    "example_sentence": "Her wedding dress was long and white."
+   },
+   {
+    "word": "a wedding ring",
+    "translation_uz": "nikoh uzugi",
+    "example_sentence": "He wears a gold wedding ring."
+   },
+   {
+    "word": "a wedding cake",
+    "translation_uz": "to'y torti",
+    "example_sentence": "The wedding cake had three layers."
+   },
+   {
+    "word": "a wedding present",
+    "translation_uz": "to'y sovg'asi",
+    "example_sentence": "We bought them a wedding present."
+   },
+   {
+    "word": "a wedding party",
+    "translation_uz": "to'y ziyofati",
+    "example_sentence": "The wedding party went on until midnight."
+   },
+   {
+    "word": "a wedding day",
+    "translation_uz": "to'y kuni",
+    "example_sentence": "Their wedding day was warm and sunny."
+   },
+   {
+    "word": "a wedding photo",
+    "translation_uz": "to'y surati",
+    "example_sentence": "I like the wedding photo on the wall."
+   },
+   {
+    "word": "a wedding guest",
+    "translation_uz": "to'y mehmoni",
+    "example_sentence": "Every wedding guest got a small gift."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My cousin is going to ___ a wedding in June.",
+    "correct_word": "have",
+    "options": [
+     "have",
+     "break",
+     "wash",
+     "lose",
+     "invited"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ all their relatives to the wedding.",
+    "correct_word": "invited",
+    "options": [
+     "invited",
+     "painted",
+     "closed",
+     "caught",
+     "photo"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bride wore a long white wedding ___.",
+    "correct_word": "dress",
+    "options": [
+     "dress",
+     "cake",
+     "ring",
+     "photo",
+     "drop"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are going ___ a wedding next weekend.",
+    "correct_word": "to",
+    "options": [
+     "to",
+     "from",
+     "at",
+     "of",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "It takes a long time to ___ a wedding.",
+    "correct_word": "plan",
+    "options": [
+     "plan",
+     "fall",
+     "drop",
+     "swim",
+     "cake"
+    ]
+   },
+   {
+    "sentence_with_blank": "He put the gold wedding ___ on her finger.",
+    "correct_word": "ring",
+    "options": [
+     "ring",
+     "guest",
+     "party",
+     "day",
+     "fall"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Cousin's Wedding",
+   "text": "Last Saturday I went to my cousin's wedding. She wore a beautiful wedding dress, and he wore a dark suit. Over a hundred guests came to the wedding party. We ate a big wedding cake and danced for hours. My uncle took many wedding photos. It was the happiest day of the year.",
+   "key_words": [
+    {
+     "word": "guests",
+     "translation_uz": "mehmonlar"
+    },
+    {
+     "word": "suit",
+     "translation_uz": "kostyum"
+    },
+    {
+     "word": "danced",
+     "translation_uz": "raqsga tushdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Whose wedding did the writer go to?",
+     "options": [
+      "A teacher's",
+      "A neighbour's",
+      "A brother's",
+      "A cousin's"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the guests eat?",
+     "options": [
+      "A big wedding cake",
+      "Only fruit",
+      "Pizza",
+      "Ice cream"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who took the photos?",
+     "options": [
+      "The bride",
+      "The uncle",
+      "The writer",
+      "A teacher"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a Wedding",
+   "script": "My sister is planning her wedding. She has chosen a wedding dress and a wedding cake. She is inviting fifty people to the wedding. The wedding day will be in May. We are all very excited, and I will be her helper on the wedding day.",
+   "questions": [
+    {
+     "question": "What has the sister chosen?",
+     "options": [
+      "A car and a house",
+      "A ring and a boat",
+      "A dress and a cake",
+      "A song and a film"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How many people is she inviting?",
+     "options": [
+      "Fifteen",
+      "A hundred",
+      "Five",
+      "Fifty"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When is the wedding day?",
+     "options": [
+      "In May",
+      "In June",
+      "In March",
+      "In December"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "They had a wedding.",
+    "She wore a wedding dress.",
+    "We went to a wedding."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Celebrations",
+    "question_text": "Have you ever been to a wedding?",
+    "hint_words": [
+     "yes",
+     "no",
+     "cousin",
+     "last year"
+    ]
+   },
+   {
+    "topic": "Celebrations",
+    "question_text": "What do people eat at a wedding?",
+    "hint_words": [
+     "cake",
+     "rice",
+     "fruit",
+     "plov"
+    ]
+   },
+   {
+    "topic": "Celebrations",
+    "question_text": "What do people wear at a wedding?",
+    "hint_words": [
+     "dress",
+     "suit",
+     "best clothes",
+     "shoes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 141,
+  "title": "husband, wife, funeral",
+  "vocabulary": [
+   {
+    "word": "a loving husband",
+    "translation_uz": "mehribon er",
+    "example_sentence": "He is a loving husband and father."
+   },
+   {
+    "word": "my husband's job",
+    "translation_uz": "erimning ishi",
+    "example_sentence": "My husband's job is in a bank."
+   },
+   {
+    "word": "meet your husband",
+    "translation_uz": "erini uchratmoq",
+    "example_sentence": "She met her husband at university."
+   },
+   {
+    "word": "a former husband",
+    "translation_uz": "sobiq er",
+    "example_sentence": "Her former husband lives in another city."
+   },
+   {
+    "word": "his wife and children",
+    "translation_uz": "uning xotini va bolalari",
+    "example_sentence": "He lives with his wife and children."
+   },
+   {
+    "word": "a good wife",
+    "translation_uz": "yaxshi xotin",
+    "example_sentence": "She is a good wife and a kind friend."
+   },
+   {
+    "word": "husband and wife",
+    "translation_uz": "er va xotin",
+    "example_sentence": "The husband and wife own a small shop."
+   },
+   {
+    "word": "my wife's mother",
+    "translation_uz": "xotinimning onasi",
+    "example_sentence": "My wife's mother makes delicious soup."
+   },
+   {
+    "word": "go to a funeral",
+    "translation_uz": "motam marosimiga bormoq",
+    "example_sentence": "Many people went to the funeral."
+   },
+   {
+    "word": "attend a funeral",
+    "translation_uz": "dafn marosimida qatnashmoq",
+    "example_sentence": "The whole village attended the funeral."
+   },
+   {
+    "word": "hold a funeral",
+    "translation_uz": "dafn marosimini o'tkazmoq",
+    "example_sentence": "The family held the funeral on Monday."
+   },
+   {
+    "word": "a funeral service",
+    "translation_uz": "motam marosimi",
+    "example_sentence": "The funeral service was quiet and calm."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My uncle and his ___ have two sons and a daughter.",
+    "correct_word": "wife",
+    "options": [
+     "wife",
+     "husband",
+     "funeral",
+     "guest",
+     "child"
+    ]
+   },
+   {
+    "sentence_with_blank": "My aunt is married. Her ___ is a doctor.",
+    "correct_word": "husband",
+    "options": [
+     "husband",
+     "wife",
+     "funeral",
+     "child",
+     "fly"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people came to the ___ to say goodbye to our neighbour.",
+    "correct_word": "funeral",
+    "options": [
+     "funeral",
+     "wedding",
+     "party",
+     "lesson",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The family will ___ the funeral on Thursday morning.",
+    "correct_word": "hold",
+    "options": [
+     "hold",
+     "paint",
+     "sell",
+     "fly",
+     "party"
+    ]
+   },
+   {
+    "sentence_with_blank": "They are ___ and wife, and they have been together for twenty years.",
+    "correct_word": "husband",
+    "options": [
+     "husband",
+     "uncle",
+     "parent",
+     "friend",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Everyone in the town went ___ the funeral.",
+    "correct_word": "to",
+    "options": [
+     "to",
+     "for",
+     "of",
+     "on",
+     "wedding"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Quiet Day",
+   "text": "Last week there was a funeral in our village. Our old neighbour had died, and many people went to the funeral. His wife stood quietly with her children. Everyone was kind and gave her flowers. Later, her husband's brother spoke about the happy years they had together. The family thanked everybody for coming.",
+   "key_words": [
+    {
+     "word": "neighbour",
+     "translation_uz": "qo'shni"
+    },
+    {
+     "word": "flowers",
+     "translation_uz": "gullar"
+    },
+    {
+     "word": "thanked",
+     "translation_uz": "rahmat aytdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who had died?",
+     "options": [
+      "An old neighbour",
+      "A teacher",
+      "A doctor",
+      "A cousin"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did people give to the wife?",
+     "options": [
+      "Books",
+      "Flowers",
+      "Cakes",
+      "Toys"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who spoke about the happy years?",
+     "options": [
+      "The wife's mother",
+      "A teacher",
+      "The husband's brother",
+      "The doctor"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Husband and Wife",
+   "script": "Tom and Anna are husband and wife. Tom is a loving husband, and Anna is a good wife. They met at university ten years ago. Anna's job is in a hospital, and Tom works in a school. Tomorrow they are going to a funeral for Tom's grandfather. It will be a quiet and sad day for the family.",
+   "questions": [
+    {
+     "question": "Where did Tom and Anna meet?",
+     "options": [
+      "At a wedding",
+      "At a funeral",
+      "At a hospital",
+      "At university"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where does Anna work?",
+     "options": [
+      "In a hospital",
+      "In a school",
+      "In a bank",
+      "In a shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Whose funeral are they going to tomorrow?",
+     "options": [
+      "Anna's mother's",
+      "Tom's grandfather's",
+      "A friend's",
+      "A teacher's"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "He is a loving husband.",
+    "His wife works hard.",
+    "We went to the funeral."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Family",
+    "question_text": "Are your parents husband and wife?",
+    "hint_words": [
+     "yes",
+     "my father",
+     "my mother",
+     "married"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "What is a good husband or wife like?",
+    "hint_words": [
+     "kind",
+     "helpful",
+     "honest",
+     "loving"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "Are funerals sad? Why?",
+    "hint_words": [
+     "sad",
+     "family",
+     "goodbye",
+     "quiet"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 142,
+  "title": "baby, birth",
+  "vocabulary": [
+   {
+    "word": "have a baby",
+    "translation_uz": "chaqaloqli bo'lmoq",
+    "example_sentence": "My aunt is going to have a baby in May."
+   },
+   {
+    "word": "a new baby",
+    "translation_uz": "yangi tug'ilgan chaqaloq",
+    "example_sentence": "They have a new baby in the house."
+   },
+   {
+    "word": "hold a baby",
+    "translation_uz": "chaqaloqni ko'tarmoq",
+    "example_sentence": "Can I hold the baby, please?"
+   },
+   {
+    "word": "a baby girl",
+    "translation_uz": "qiz chaqaloq",
+    "example_sentence": "They had a baby girl last night."
+   },
+   {
+    "word": "a baby boy",
+    "translation_uz": "o'g'il chaqaloq",
+    "example_sentence": "Their baby boy is two months old."
+   },
+   {
+    "word": "a baby sister",
+    "translation_uz": "singilcha chaqaloq",
+    "example_sentence": "I have a baby sister called Dilya."
+   },
+   {
+    "word": "a crying baby",
+    "translation_uz": "yig'layotgan chaqaloq",
+    "example_sentence": "A crying baby woke us up."
+   },
+   {
+    "word": "a baby sleeps",
+    "translation_uz": "chaqaloq uxlaydi",
+    "example_sentence": "The baby sleeps for most of the day."
+   },
+   {
+    "word": "give birth to a baby",
+    "translation_uz": "chaqaloq tug'moq",
+    "example_sentence": "She gave birth to a baby in the hospital."
+   },
+   {
+    "word": "the birth of a baby",
+    "translation_uz": "chaqaloqning tug'ilishi",
+    "example_sentence": "The birth of the baby made everyone happy."
+   },
+   {
+    "word": "date of birth",
+    "translation_uz": "tug'ilgan sana",
+    "example_sentence": "Please write your date of birth here."
+   },
+   {
+    "word": "a birth certificate",
+    "translation_uz": "tug'ilganlik haqida guvohnoma",
+    "example_sentence": "You need a birth certificate for a passport."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister is going to ___ a baby next month.",
+    "correct_word": "have",
+    "options": [
+     "have",
+     "wash",
+     "cut",
+     "drive",
+     "birth"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please write your date of ___ on the form.",
+    "correct_word": "birth",
+    "options": [
+     "birth",
+     "baby",
+     "wedding",
+     "funeral",
+     "driving"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ baby cried all night, and nobody slept.",
+    "correct_word": "crying",
+    "options": [
+     "crying",
+     "reading",
+     "cooking",
+     "driving",
+     "writes"
+    ]
+   },
+   {
+    "sentence_with_blank": "She gave ___ to a baby girl at the hospital.",
+    "correct_word": "birth",
+    "options": [
+     "birth",
+     "dress",
+     "a ring",
+     "a test",
+     "cut"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I ___ the baby? She is so small!",
+    "correct_word": "hold",
+    "options": [
+     "hold",
+     "paint",
+     "sell",
+     "invite",
+     "driving"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our new baby ___ about fifteen hours a day.",
+    "correct_word": "sleeps",
+    "options": [
+     "sleeps",
+     "writes",
+     "drives",
+     "cooks",
+     "wash"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our New Baby",
+   "text": "We have a new baby in our family. My mother gave birth to a baby girl on Tuesday. She is very small, and she sleeps most of the day. Sometimes she is a crying baby at night, and my father has to hold her. I am very happy to have a baby sister. My grandmother brought a small blanket as a present.",
+   "key_words": [
+    {
+     "word": "blanket",
+     "translation_uz": "adyol"
+    },
+    {
+     "word": "small",
+     "translation_uz": "kichkina"
+    },
+    {
+     "word": "happy",
+     "translation_uz": "xursand"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When was the baby born?",
+     "options": [
+      "On Monday",
+      "On Sunday",
+      "On Tuesday",
+      "On Friday"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who holds the baby at night?",
+     "options": [
+      "The teacher",
+      "The doctor",
+      "The neighbour",
+      "The father"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the grandmother bring?",
+     "options": [
+      "A small blanket",
+      "A toy car",
+      "A cake",
+      "A book"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Hospital",
+   "script": "Today is a special day. My aunt is at the hospital because she is having a baby. The birth of the baby is very soon. My uncle is with her. They already know it will be a baby boy. They want to write his name on his birth certificate. We will visit them tomorrow.",
+   "questions": [
+    {
+     "question": "Why is the aunt at the hospital?",
+     "options": [
+      "She has a cold",
+      "She is having a baby",
+      "She has a test",
+      "She is working"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who is with the aunt?",
+     "options": [
+      "The speaker",
+      "A teacher",
+      "The uncle",
+      "A cousin"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When will the speaker visit?",
+     "options": [
+      "Today",
+      "Next year",
+      "On Sunday",
+      "Tomorrow"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She has a new baby.",
+    "He held the baby.",
+    "Write your date of birth."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Family",
+    "question_text": "Do you have a baby brother or sister?",
+    "hint_words": [
+     "yes",
+     "no",
+     "baby",
+     "cousin"
+    ]
+   },
+   {
+    "topic": "Personal",
+    "question_text": "What is your date of birth?",
+    "hint_words": [
+     "I was born",
+     "on",
+     "in",
+     "year"
+    ]
+   },
+   {
+    "topic": "Family",
+    "question_text": "Why do babies cry?",
+    "hint_words": [
+     "hungry",
+     "tired",
+     "sleepy",
+     "sad"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 143,
+  "title": "birthday, present",
+  "vocabulary": [
+   {
+    "word": "have a birthday party",
+    "translation_uz": "tug'ilgan kun ziyofatini o'tkazmoq",
+    "example_sentence": "I will have a birthday party on Saturday."
+   },
+   {
+    "word": "celebrate your birthday",
+    "translation_uz": "tug'ilgan kunni nishonlamoq",
+    "example_sentence": "We celebrate my birthday at home."
+   },
+   {
+    "word": "Happy birthday!",
+    "translation_uz": "Tug'ilgan kuningiz bilan!",
+    "example_sentence": "Happy birthday, Ali!"
+   },
+   {
+    "word": "a birthday cake",
+    "translation_uz": "tug'ilgan kun torti",
+    "example_sentence": "Mum baked a birthday cake with candles."
+   },
+   {
+    "word": "a birthday card",
+    "translation_uz": "tug'ilgan kun tabrik kartasi",
+    "example_sentence": "I made a birthday card for my friend."
+   },
+   {
+    "word": "on my birthday",
+    "translation_uz": "tug'ilgan kunimda",
+    "example_sentence": "On my birthday I wear my best clothes."
+   },
+   {
+    "word": "give someone a present",
+    "translation_uz": "kimgadir sovg'a bermoq",
+    "example_sentence": "He gave his sister a present."
+   },
+   {
+    "word": "buy a present",
+    "translation_uz": "sovg'a sotib olmoq",
+    "example_sentence": "I want to buy a present for my teacher."
+   },
+   {
+    "word": "get a present",
+    "translation_uz": "sovg'a olmoq",
+    "example_sentence": "I got a lovely present from my uncle."
+   },
+   {
+    "word": "open a present",
+    "translation_uz": "sovg'ani ochmoq",
+    "example_sentence": "She opened the present very slowly."
+   },
+   {
+    "word": "wrap a present",
+    "translation_uz": "sovg'ani o'ramoq",
+    "example_sentence": "Please help me wrap the present."
+   },
+   {
+    "word": "a birthday present",
+    "translation_uz": "tug'ilgan kun sovg'asi",
+    "example_sentence": "This book is a birthday present for Dad."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We ___ my birthday with a big cake and music.",
+    "correct_word": "celebrate",
+    "options": [
+     "celebrate",
+     "wash",
+     "lose",
+     "catch",
+     "buy"
+    ]
+   },
+   {
+    "sentence_with_blank": "I want to ___ a present for my best friend.",
+    "correct_word": "buy",
+    "options": [
+     "buy",
+     "drive",
+     "jump",
+     "sleep",
+     "hospital"
+    ]
+   },
+   {
+    "sentence_with_blank": "Everyone sings 'Happy ___' when the cake comes in.",
+    "correct_word": "birthday",
+    "options": [
+     "birthday",
+     "funeral",
+     "lesson",
+     "hospital",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "My friends gave me a ___ on my birthday.",
+    "correct_word": "present",
+    "options": [
+     "present",
+     "funeral",
+     "cough",
+     "stair",
+     "lose"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her birthday is ___ the fifth of May.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "to",
+     "of",
+     "funeral"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ the present and found a red scarf inside.",
+    "correct_word": "opened",
+    "options": [
+     "opened",
+     "painted",
+     "invited",
+     "grew",
+     "in"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Birthday",
+   "text": "Last Friday was my birthday, and I had a party at home. My mother made a big birthday cake with ten candles. My friends came and gave me presents. I got a football, a book and a birthday card from my grandmother. I opened every present with a smile. It was a wonderful day.",
+   "key_words": [
+    {
+     "word": "candles",
+     "translation_uz": "shamlar"
+    },
+    {
+     "word": "smile",
+     "translation_uz": "tabassum"
+    },
+    {
+     "word": "wonderful",
+     "translation_uz": "ajoyib"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many candles were on the cake?",
+     "options": [
+      "Nine",
+      "Ten",
+      "Eleven",
+      "Twelve"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who sent a birthday card?",
+     "options": [
+      "The teacher",
+      "The father",
+      "The grandmother",
+      "The cousin"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How did the writer open the presents?",
+     "options": [
+      "Very angrily",
+      "In the garden",
+      "At school",
+      "With a smile"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Present for Mum",
+   "script": "Tomorrow is my mother's birthday. I want to buy her a present, but I do not know what to get. My brother says flowers are a good idea. I will also make a birthday card and wrap the present with blue paper. After dinner we will eat a birthday cake and sing.",
+   "questions": [
+    {
+     "question": "Whose birthday is tomorrow?",
+     "options": [
+      "The speaker's mother's",
+      "The brother's",
+      "A teacher's",
+      "A friend's"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the brother suggest?",
+     "options": [
+      "A book",
+      "Flowers",
+      "A bike",
+      "A scarf"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What colour paper will the speaker use?",
+     "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Happy birthday to you!",
+    "I bought a present.",
+    "She opened her present."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Celebrations",
+    "question_text": "When is your birthday?",
+    "hint_words": [
+     "my birthday is",
+     "in",
+     "on",
+     "month"
+    ]
+   },
+   {
+    "topic": "Celebrations",
+    "question_text": "How do you celebrate your birthday?",
+    "hint_words": [
+     "party",
+     "cake",
+     "friends",
+     "family"
+    ]
+   },
+   {
+    "topic": "Celebrations",
+    "question_text": "What was the best present you ever got?",
+    "hint_words": [
+     "I got",
+     "a bike",
+     "a book",
+     "a toy"
+    ]
+   }
+  ]
+ }
+]

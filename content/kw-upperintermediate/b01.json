@@ -1,0 +1,5032 @@
+[
+ {
+  "unit": 6,
+  "title": "ability",
+  "vocabulary": [
+   {
+    "word": "have the ability to",
+    "translation_uz": "...ga qodir bo'lmoq",
+    "example_sentence": "Dolphins have the ability to learn very quickly."
+   },
+   {
+    "word": "natural ability",
+    "translation_uz": "tug'ma qobiliyat",
+    "example_sentence": "Nina has a natural ability to make people laugh."
+   },
+   {
+    "word": "great ability",
+    "translation_uz": "katta qobiliyat",
+    "example_sentence": "The coach saw great ability in the young goalkeeper."
+   },
+   {
+    "word": "show your ability",
+    "translation_uz": "qobiliyatingni namoyon etmoq",
+    "example_sentence": "The quiz gave Ali a chance to show his ability."
+   },
+   {
+    "word": "lose the ability to",
+    "translation_uz": "...qobiliyatini yo'qotmoq",
+    "example_sentence": "After the illness, he lost the ability to taste food for a while."
+   },
+   {
+    "word": "the ability to concentrate",
+    "translation_uz": "diqqatni jamlay olish qobiliyati",
+    "example_sentence": "Quiet music helps me improve my ability to concentrate."
+   },
+   {
+    "word": "ability in maths",
+    "translation_uz": "matematikadan qobiliyat",
+    "example_sentence": "Her ability in maths is well above average."
+   },
+   {
+    "word": "to the best of your ability",
+    "translation_uz": "qo'lingdan kelgancha",
+    "example_sentence": "Just do the test to the best of your ability."
+   },
+   {
+    "word": "a mixed-ability class",
+    "translation_uz": "turli darajadagi o'quvchilar sinfi",
+    "example_sentence": "Teaching a mixed-ability class needs a lot of planning."
+   },
+   {
+    "word": "above / below average ability",
+    "translation_uz": "o'rtachadan yuqori / past qobiliyat",
+    "example_sentence": "The school helps pupils of below average ability with extra lessons."
+   },
+   {
+    "word": "able / unable / inability",
+    "translation_uz": "qodir / qodir emas / ojizlik",
+    "example_sentence": "I was unable to open the door, and my inability to find the key made me nervous."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Tom has the ___ to remember long lists of numbers.",
+    "correct_word": "ability",
+    "options": [
+     "habit",
+     "permission",
+     "mistake",
+     "ability"
+    ]
+   },
+   {
+    "sentence_with_blank": "She does her homework to the best ___ her ability.",
+    "correct_word": "of",
+    "options": [
+     "in",
+     "at",
+     "of",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the accident, he lost the ability ___ walk without help.",
+    "correct_word": "to",
+    "options": [
+     "for",
+     "to",
+     "of",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher said Mia has great ___ in science.",
+    "correct_word": "ability",
+    "options": [
+     "ability",
+     "abilities",
+     "able",
+     "enable"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sorry, I am ___ to come tomorrow because I have an exam.",
+    "correct_word": "unable",
+    "options": [
+     "impossible",
+     "inability",
+     "unhappy",
+     "unable"
+    ]
+   },
+   {
+    "sentence_with_blank": "Zara ___ her ability by solving the puzzle in one minute.",
+    "correct_word": "showed",
+    "options": [
+     "made",
+     "held",
+     "showed",
+     "kept"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Choir Audition",
+   "text": "Last Friday our school choir held auditions. Some pupils had a natural ability to sing, but others were very nervous. Mr Karim told us to sing to the best of our ability and not to worry. A girl called Dilnoza showed great ability, and her voice filled the whole hall. A boy named Sam lost his voice because of a cold, so he was unable to take part. Mr Karim promised him another chance next month. In the end, twelve pupils joined the choir.",
+   "key_words": [
+    {
+     "word": "audition",
+     "translation_uz": "tanlov sinovi"
+    },
+    {
+     "word": "nervous",
+     "translation_uz": "hayajonlangan"
+    },
+    {
+     "word": "take part",
+     "translation_uz": "qatnashmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was Sam unable to take part?",
+     "options": [
+      "He forgot the date",
+      "He was late",
+      "He lost his voice because of a cold",
+      "He did not like singing"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Mr Karim tell the pupils to do?",
+     "options": [
+      "Sing very loudly",
+      "Sing to the best of their ability",
+      "Practise at home first",
+      "Choose a famous song"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who showed great ability?",
+     "options": [
+      "Dilnoza",
+      "Sam",
+      "Mr Karim",
+      "A boy in the hall"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talent Show",
+   "script": "Our class is planning a talent show. I think my friend Bobur has a real ability to play the piano, but he never shows it. Our teacher says every child has some natural ability, even if they do not know it yet. I am not good at music, but my ability in drawing is quite good, so I will make the posters. The show is on Thursday, and we all want to do our best.",
+   "questions": [
+    {
+     "question": "What is Bobur good at?",
+     "options": [
+      "Drawing posters",
+      "Singing",
+      "Dancing",
+      "Playing the piano"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will the speaker do for the show?",
+     "options": [
+      "Play music",
+      "Tell jokes",
+      "Make the posters",
+      "Sell tickets"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When is the show?",
+     "options": [
+      "On Monday",
+      "On Thursday",
+      "On Friday",
+      "Next month"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "He has a natural ability.",
+    "Do it to the best of your ability.",
+    "She lost the ability to speak."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Talents",
+    "question_text": "What is something you do well? Talk about your ability.",
+    "hint_words": [
+     "I am good at",
+     "I can",
+     "quite well",
+     "practise"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Which subject do you have a good ability in?",
+    "hint_words": [
+     "my best subject",
+     "maths",
+     "languages",
+     "easy"
+    ]
+   },
+   {
+    "topic": "Animals",
+    "question_text": "What special abilities do some animals have?",
+    "hint_words": [
+     "fly",
+     "see in the dark",
+     "swim",
+     "smell"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 7,
+  "title": "account",
+  "vocabulary": [
+   {
+    "word": "open an account",
+    "translation_uz": "hisob raqam ochmoq",
+    "example_sentence": "My parents opened an account for me at the bank."
+   },
+   {
+    "word": "a bank account",
+    "translation_uz": "bank hisobi",
+    "example_sentence": "She keeps her savings in a bank account."
+   },
+   {
+    "word": "pay money into an account",
+    "translation_uz": "hisobga pul o'tkazmoq",
+    "example_sentence": "He pays some money into his account every month."
+   },
+   {
+    "word": "withdraw money from an account",
+    "translation_uz": "hisobdan pul yechib olmoq",
+    "example_sentence": "You cannot withdraw money from this account until you are eighteen."
+   },
+   {
+    "word": "an online account",
+    "translation_uz": "onlayn akkaunt",
+    "example_sentence": "Create an online account to order the tickets."
+   },
+   {
+    "word": "log in to your account",
+    "translation_uz": "akkauntga kirmoq",
+    "example_sentence": "You must log in to your account to see your marks."
+   },
+   {
+    "word": "give an account of",
+    "translation_uz": "...haqida hikoya qilib bermoq",
+    "example_sentence": "The witness gave a clear account of what she saw."
+   },
+   {
+    "word": "a detailed account",
+    "translation_uz": "batafsil bayon",
+    "example_sentence": "He wrote a detailed account of his trip to Samarkand."
+   },
+   {
+    "word": "take into account",
+    "translation_uz": "hisobga olmoq",
+    "example_sentence": "We must take the weather into account when we plan the picnic."
+   },
+   {
+    "word": "on account of",
+    "translation_uz": "...sababli",
+    "example_sentence": "The match was cancelled on account of the rain."
+   },
+   {
+    "word": "by all accounts",
+    "translation_uz": "hamma aytishicha",
+    "example_sentence": "By all accounts, the new teacher is very kind."
+   },
+   {
+    "word": "on no account",
+    "translation_uz": "hech qachon, hech qanday holatda",
+    "example_sentence": "On no account should you share your password."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I want to ___ an account so I can save money for a new bike.",
+    "correct_word": "open",
+    "options": [
+     "open",
+     "close",
+     "fill",
+     "build"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the age of the children into account when you plan the games.",
+    "correct_word": "take",
+    "options": [
+     "put",
+     "bring",
+     "give",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "The trip was delayed ___ account of heavy snow.",
+    "correct_word": "on",
+    "options": [
+     "by",
+     "for",
+     "on",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "She gave a detailed ___ of the accident to the police officer.",
+    "correct_word": "account",
+    "options": [
+     "story",
+     "account",
+     "accounted",
+     "accountant"
+    ]
+   },
+   {
+    "sentence_with_blank": "He took some money ___ of his account to buy a gift.",
+    "correct_word": "out",
+    "options": [
+     "out",
+     "off",
+     "up",
+     "over"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ all accounts, the museum is wonderful, but I have not been there yet.",
+    "correct_word": "By",
+    "options": [
+     "On",
+     "In",
+     "At",
+     "By"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Mina's First Bank Account",
+   "text": "On her twelfth birthday, Mina opened her first bank account with her mother. The clerk explained that she could pay money into the account whenever she liked. Mina also learned that she should never tell anyone her password, on any account. By all accounts, saving a little every week is a clever habit. At home she created an online account too, and now she logs in every Sunday to check her savings. She is saving for a camera and wants to take the price into account before she buys.",
+   "key_words": [
+    {
+     "word": "clerk",
+     "translation_uz": "xodim"
+    },
+    {
+     "word": "password",
+     "translation_uz": "parol"
+    },
+    {
+     "word": "savings",
+     "translation_uz": "jamg'arma"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who went with Mina to open the account?",
+     "options": [
+      "Her teacher",
+      "Her brother",
+      "Her friend",
+      "Her mother"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When does Mina log in to her online account?",
+     "options": [
+      "Every morning",
+      "On her birthday",
+      "Every Sunday",
+      "Once a year"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is Mina saving for?",
+     "options": [
+      "A bike",
+      "A camera",
+      "A phone",
+      "A book"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talk with Dad",
+   "script": "Dad, can I take some money out of my account? I would like to buy a present for Grandma. Well, how much do you need? About twenty dollars. Fine, but take the cost of the card into account too. Oh yes, I forgot. Also, I cannot log in to my online account because I have lost my password. Don't worry, we will go to the bank on Saturday and ask the clerk to help us.",
+   "questions": [
+    {
+     "question": "What does the child want to buy?",
+     "options": [
+      "A present for Grandma",
+      "A new phone",
+      "A bag",
+      "A game"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why can't the child log in online?",
+     "options": [
+      "The bank is closed",
+      "The phone is broken",
+      "There is no internet",
+      "The password is lost"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When will they go to the bank?",
+     "options": [
+      "Tomorrow",
+      "On Sunday",
+      "On Saturday",
+      "On Friday"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I opened a bank account.",
+    "Take the cost into account.",
+    "Never share your password."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Money",
+    "question_text": "Do you save money? Where do you keep it?",
+    "hint_words": [
+     "save",
+     "bank",
+     "box",
+     "every week"
+    ]
+   },
+   {
+    "topic": "Technology",
+    "question_text": "Which online accounts do you have?",
+    "hint_words": [
+     "email",
+     "game",
+     "school",
+     "password"
+    ]
+   },
+   {
+    "topic": "Telling stories",
+    "question_text": "Can you give an account of your last holiday?",
+    "hint_words": [
+     "we went",
+     "first",
+     "then",
+     "finally"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 8,
+  "title": "action",
+  "vocabulary": [
+   {
+    "word": "take action",
+    "translation_uz": "chora ko'rmoq",
+    "example_sentence": "The school must take action against bullying."
+   },
+   {
+    "word": "take immediate action",
+    "translation_uz": "zudlik bilan chora ko'rmoq",
+    "example_sentence": "The firefighters took immediate action."
+   },
+   {
+    "word": "a course of action",
+    "translation_uz": "harakat yo'nalishi",
+    "example_sentence": "Talking to the teacher is the best course of action."
+   },
+   {
+    "word": "put a plan into action",
+    "translation_uz": "rejani amalga oshirmoq",
+    "example_sentence": "We put our plan into action on Monday morning."
+   },
+   {
+    "word": "call for action",
+    "translation_uz": "harakatga chaqirmoq",
+    "example_sentence": "The poster calls for action to clean the river."
+   },
+   {
+    "word": "in action",
+    "translation_uz": "ish jarayonida",
+    "example_sentence": "We watched the robots in action at the science fair."
+   },
+   {
+    "word": "out of action",
+    "translation_uz": "ishdan chiqqan",
+    "example_sentence": "The lift is out of action today, so use the stairs."
+   },
+   {
+    "word": "an action plan",
+    "translation_uz": "harakat rejasi",
+    "example_sentence": "Each team wrote an action plan for the project."
+   },
+   {
+    "word": "disciplinary action",
+    "translation_uz": "intizomiy chora",
+    "example_sentence": "The school may take disciplinary action if you break the rules."
+   },
+   {
+    "word": "take legal action",
+    "translation_uz": "qonuniy choralar ko'rmoq",
+    "example_sentence": "The company decided to take legal action."
+   },
+   {
+    "word": "an action film",
+    "translation_uz": "jangari film",
+    "example_sentence": "He loves watching an action film on Saturday nights."
+   },
+   {
+    "word": "Actions speak louder than words.",
+    "translation_uz": "Gapdan ko'ra ish muhim.",
+    "example_sentence": "You say you care, but actions speak louder than words."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is time to ___ action before the problem gets worse.",
+    "correct_word": "take",
+    "options": [
+     "do",
+     "take",
+     "make",
+     "have"
+    ]
+   },
+   {
+    "sentence_with_blank": "Calling the doctor was the right course of ___ .",
+    "correct_word": "action",
+    "options": [
+     "action",
+     "activity",
+     "act",
+     "actor"
+    ]
+   },
+   {
+    "sentence_with_blank": "The photocopier is out ___ action again.",
+    "correct_word": "of",
+    "options": [
+     "from",
+     "off",
+     "in",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our club is ready to put its ideas ___ action.",
+    "correct_word": "into",
+    "options": [
+     "onto",
+     "at",
+     "into",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "You promised to help, but ___ speak louder than words.",
+    "correct_word": "actions",
+    "options": [
+     "promises",
+     "actions",
+     "wishes",
+     "sayings"
+    ]
+   },
+   {
+    "sentence_with_blank": "Last night we saw a famous footballer ___ action on TV.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "with"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Saving the River",
+   "text": "A group of students noticed rubbish in the river near their school. They decided that talking was not enough and that they had to take action. First they wrote an action plan, then they asked the town council for help. The best course of action, they thought, was a cleaning day on Saturday. Over fifty volunteers took part, and they put the plan into action with gloves and bags. By the evening the river looked much cleaner. The students were proud because their actions had made a difference.",
+   "key_words": [
+    {
+     "word": "rubbish",
+     "translation_uz": "chiqindi"
+    },
+    {
+     "word": "council",
+     "translation_uz": "kengash"
+    },
+    {
+     "word": "volunteer",
+     "translation_uz": "ko'ngilli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the students first notice?",
+     "options": [
+      "Rubbish in the river",
+      "A broken bridge",
+      "Dirty classrooms",
+      "Lost animals"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Whom did they ask for help?",
+     "options": [
+      "A newspaper",
+      "The police",
+      "Their parents only",
+      "The town council"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "About how many volunteers took part?",
+     "options": [
+      "Ten",
+      "About twenty",
+      "More than fifty",
+      "A hundred"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Broken Computer",
+   "script": "Our computer lab has a problem. Three computers are out of action, and the teacher says we need to take action quickly because the exams start next week. The head teacher has asked a repair man to come tomorrow. As a course of action, we will use the library computers until then. Please be patient. Your actions this week will help the school stay organised.",
+   "questions": [
+    {
+     "question": "How many computers are out of action?",
+     "options": [
+      "One",
+      "Three",
+      "Five",
+      "Ten"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who is coming tomorrow?",
+     "options": [
+      "A repair man",
+      "The head teacher",
+      "A new teacher",
+      "Some parents"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where will pupils work until then?",
+     "options": [
+      "At home",
+      "In the hall",
+      "In the canteen",
+      "In the library"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We must take action now.",
+    "The lift is out of action.",
+    "Let us put it into action."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Problems",
+    "question_text": "What action can people take to help the planet?",
+    "hint_words": [
+     "recycle",
+     "save water",
+     "plant trees",
+     "walk"
+    ]
+   },
+   {
+    "topic": "Films",
+    "question_text": "Do you enjoy an action film? Why or why not?",
+    "hint_words": [
+     "exciting",
+     "fast",
+     "I like",
+     "boring"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "What is the best course of action if you feel lost in a lesson?",
+    "hint_words": [
+     "ask",
+     "teacher",
+     "friend",
+     "again"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 9,
+  "title": "activity",
+  "vocabulary": [
+   {
+    "word": "outdoor activity",
+    "translation_uz": "ochiq havodagi mashg'ulot",
+    "example_sentence": "Hiking is my favourite outdoor activity."
+   },
+   {
+    "word": "physical activity",
+    "translation_uz": "jismoniy faollik",
+    "example_sentence": "Children need an hour of physical activity every day."
+   },
+   {
+    "word": "an after-school activity",
+    "translation_uz": "darsdan keyingi mashg'ulot",
+    "example_sentence": "Chess is a popular after-school activity at our school."
+   },
+   {
+    "word": "a group activity",
+    "translation_uz": "guruhli mashg'ulot",
+    "example_sentence": "Building a bridge from paper was a fun group activity."
+   },
+   {
+    "word": "a classroom activity",
+    "translation_uz": "sinf mashg'uloti",
+    "example_sentence": "The teacher prepared an interesting classroom activity."
+   },
+   {
+    "word": "take part in an activity",
+    "translation_uz": "mashg'ulotda qatnashmoq",
+    "example_sentence": "Everyone can take part in the activity."
+   },
+   {
+    "word": "organise activities",
+    "translation_uz": "mashg'ulotlar uyushtirmoq",
+    "example_sentence": "The camp organises activities for every age."
+   },
+   {
+    "word": "a leisure activity",
+    "translation_uz": "bo'sh vaqt mashg'uloti",
+    "example_sentence": "Reading is a quiet leisure activity."
+   },
+   {
+    "word": "a burst of activity",
+    "translation_uz": "to'satdan jonlanish",
+    "example_sentence": "There was a burst of activity before the guests arrived."
+   },
+   {
+    "word": "an activity centre",
+    "translation_uz": "mashg'ulotlar markazi",
+    "example_sentence": "We spent a day at the new activity centre."
+   },
+   {
+    "word": "volcanic activity",
+    "translation_uz": "vulqon faolligi",
+    "example_sentence": "Scientists measure volcanic activity every day."
+   },
+   {
+    "word": "active / inactive / actively",
+    "translation_uz": "faol / harakatsiz / faollik bilan",
+    "example_sentence": "Grandpa is still very active, but the old factory is now inactive."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Swimming is a good form of physical ___ for all ages.",
+    "correct_word": "activity",
+    "options": [
+     "action",
+     "active",
+     "activity",
+     "actively"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many pupils take ___ in after-school clubs.",
+    "correct_word": "part",
+    "options": [
+     "place",
+     "part",
+     "care",
+     "time"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher ___ several activities for the school trip.",
+    "correct_word": "organised",
+    "options": [
+     "organised",
+     "performed",
+     "arrived",
+     "opened"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a sudden burst of ___ in the kitchen before dinner.",
+    "correct_word": "activity",
+    "options": [
+     "activities",
+     "active",
+     "actively",
+     "activity"
+    ]
+   },
+   {
+    "sentence_with_blank": "Climbing and canoeing are popular outdoor ___ .",
+    "correct_word": "activities",
+    "options": [
+     "actions",
+     "actives",
+     "activities",
+     "activists"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every Friday we have a fun group ___ in our English lesson.",
+    "correct_word": "activity",
+    "options": [
+     "action",
+     "activity",
+     "advice",
+     "account"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Summer Camp",
+   "text": "Last July I went to a summer camp near the mountains. The camp organised many activities, and every day began with an outdoor activity such as hiking or canoeing. After lunch there was a quieter group activity, for example making posters or learning a song. In the evening we could choose a leisure activity: board games, football or reading. I took part in almost everything, even though my legs were tired. The best activity was a treasure hunt, and my team won a small prize.",
+   "key_words": [
+    {
+     "word": "canoeing",
+     "translation_uz": "qayiqda eshkak eshish"
+    },
+    {
+     "word": "treasure hunt",
+     "translation_uz": "xazina izlash o'yini"
+    },
+    {
+     "word": "prize",
+     "translation_uz": "sovrin"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did each day begin with?",
+     "options": [
+      "A lesson",
+      "An outdoor activity",
+      "A film",
+      "Breakfast in bed"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What could children choose in the evening?",
+     "options": [
+      "A leisure activity",
+      "A test",
+      "A long walk",
+      "Homework"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was the best activity?",
+     "options": [
+      "Canoeing",
+      "Football",
+      "Making posters",
+      "A treasure hunt"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing Clubs",
+   "script": "Hi Sara, have you chosen your after-school activity yet? Not yet. I like physical activity, so maybe basketball. There is also a drama club that organises activities every Wednesday. I prefer a quiet leisure activity, so I will join the art club. Good idea. The activity centre in town also offers swimming on Saturdays. Perfect, I will check the price.",
+   "questions": [
+    {
+     "question": "What does Sara like?",
+     "options": [
+      "Quiet reading",
+      "Cooking",
+      "Physical activity",
+      "Shopping"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When does the drama club meet?",
+     "options": [
+      "On Monday",
+      "On Wednesday",
+      "On Friday",
+      "On Saturday"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the speaker choose?",
+     "options": [
+      "The art club",
+      "Basketball",
+      "Drama",
+      "Swimming"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I enjoy outdoor activities.",
+    "Join an after-school activity.",
+    "It was a group activity."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Free time",
+    "question_text": "What leisure activity do you enjoy most?",
+    "hint_words": [
+     "I enjoy",
+     "relax",
+     "with friends",
+     "at home"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "How much physical activity do you do each week?",
+    "hint_words": [
+     "every day",
+     "sometimes",
+     "sport",
+     "walk"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "What after-school activity would you like to try?",
+    "hint_words": [
+     "chess",
+     "music",
+     "art",
+     "I would like"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 10,
+  "title": "advantage",
+  "vocabulary": [
+   {
+    "word": "have an advantage",
+    "translation_uz": "ustunlikka ega bo'lmoq",
+    "example_sentence": "Tall players have an advantage in basketball."
+   },
+   {
+    "word": "a big advantage",
+    "translation_uz": "katta ustunlik",
+    "example_sentence": "Speaking two languages is a big advantage."
+   },
+   {
+    "word": "a clear advantage",
+    "translation_uz": "aniq ustunlik",
+    "example_sentence": "The home team had a clear advantage."
+   },
+   {
+    "word": "an unfair advantage",
+    "translation_uz": "nohaq ustunlik",
+    "example_sentence": "Copying from a book gives you an unfair advantage."
+   },
+   {
+    "word": "gain an advantage",
+    "translation_uz": "ustunlikka erishmoq",
+    "example_sentence": "He gained an advantage by starting early."
+   },
+   {
+    "word": "take advantage of",
+    "translation_uz": "...dan foydalanmoq",
+    "example_sentence": "Take advantage of the sunny weather and play outside."
+   },
+   {
+    "word": "an advantage over",
+    "translation_uz": "...dan ustunlik",
+    "example_sentence": "Online shops have an advantage over small shops in some ways."
+   },
+   {
+    "word": "the advantage of",
+    "translation_uz": "...ning afzalligi",
+    "example_sentence": "The advantage of living in a village is the fresh air."
+   },
+   {
+    "word": "the main advantage",
+    "translation_uz": "asosiy afzallik",
+    "example_sentence": "The main advantage of this phone is its battery."
+   },
+   {
+    "word": "to your advantage",
+    "translation_uz": "sizning foydangizga",
+    "example_sentence": "It is to your advantage to arrive early."
+   },
+   {
+    "word": "advantages and disadvantages",
+    "translation_uz": "afzallik va kamchiliklar",
+    "example_sentence": "Let us discuss the advantages and disadvantages of homework."
+   },
+   {
+    "word": "advantage / advantageous",
+    "translation_uz": "ustunlik / foydali",
+    "example_sentence": "It would be advantageous to learn typing early."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Speaking English gives you a big ___ when you travel.",
+    "correct_word": "advantage",
+    "options": [
+     "advice",
+     "ability",
+     "attempt",
+     "advantage"
+    ]
+   },
+   {
+    "sentence_with_blank": "She took advantage ___ the free classes at the library.",
+    "correct_word": "of",
+    "options": [
+     "to",
+     "for",
+     "of",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our team has an advantage ___ the others because we practise daily.",
+    "correct_word": "over",
+    "options": [
+     "from",
+     "over",
+     "of",
+     "than"
+    ]
+   },
+   {
+    "sentence_with_blank": "Cheating gives some students an ___ advantage.",
+    "correct_word": "unfair",
+    "options": [
+     "unfair",
+     "unlucky",
+     "unkind",
+     "unequal"
+    ]
+   },
+   {
+    "sentence_with_blank": "The main ___ of a bicycle is that it costs nothing to run.",
+    "correct_word": "advantage",
+    "options": [
+     "adventure",
+     "advertise",
+     "adviser",
+     "advantage"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is to your ___ to read the instructions first.",
+    "correct_word": "advantage",
+    "options": [
+     "advantages",
+     "advantageous",
+     "advantage",
+     "advantaged"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "City or Village?",
+   "text": "Aziza lives in a village, but her cousin Laylo lives in a big city. They often talk about the advantages and disadvantages of each place. In the village, there is fresh air and a lot of space, which Aziza thinks is the main advantage. In the city, Laylo has an advantage over her cousin because there are more libraries and museums. Aziza takes advantage of her free time to ride a bike through the fields. When Laylo visits, she enjoys the quiet, but she says she misses the shops.",
+   "key_words": [
+    {
+     "word": "space",
+     "translation_uz": "joy, makon"
+    },
+    {
+     "word": "museum",
+     "translation_uz": "muzey"
+    },
+    {
+     "word": "fields",
+     "translation_uz": "dalalar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where does Laylo live?",
+     "options": [
+      "In a village",
+      "Abroad",
+      "In a big city",
+      "By the sea"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Aziza think is the main advantage of the village?",
+     "options": [
+      "Many shops",
+      "Fresh air and space",
+      "Museums",
+      "Fast buses"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Aziza do in her free time?",
+     "options": [
+      "Rides a bike through the fields",
+      "Visits museums",
+      "Goes shopping",
+      "Watches TV"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing a Bag",
+   "script": "I cannot decide between these two school bags. The blue one is cheaper. The grey one has a clear advantage because it has a special pocket for water bottles. But the blue bag is lighter, and that is a big advantage for a long walk. Let me take advantage of the sale: if I buy both, I get a discount. No, that is silly. Take the grey one, since it is to your advantage to have more space for books.",
+   "questions": [
+    {
+     "question": "Which bag is cheaper?",
+     "options": [
+      "The grey one",
+      "Both cost the same",
+      "The red one",
+      "The blue one"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the advantage of the grey bag?",
+     "options": [
+      "It is lighter",
+      "It is bigger outside",
+      "A pocket for bottles",
+      "It is waterproof"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the speaker advise?",
+     "options": [
+      "Buy both",
+      "Take the grey one",
+      "Take the blue one",
+      "Wait for the sale"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Take advantage of this chance.",
+    "It is a big advantage.",
+    "He has an advantage over me."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Languages",
+    "question_text": "What are the advantages of learning English?",
+    "hint_words": [
+     "travel",
+     "jobs",
+     "internet",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Transport",
+    "question_text": "What is the main advantage of going to school by bike?",
+    "hint_words": [
+     "healthy",
+     "cheap",
+     "fast",
+     "fresh air"
+    ]
+   },
+   {
+    "topic": "Places",
+    "question_text": "Do you prefer a big city or a village? Why?",
+    "hint_words": [
+     "I prefer",
+     "because",
+     "quiet",
+     "busy"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 11,
+  "title": "advice",
+  "vocabulary": [
+   {
+    "word": "give advice",
+    "translation_uz": "maslahat bermoq",
+    "example_sentence": "My older sister always gives me good advice."
+   },
+   {
+    "word": "ask for advice",
+    "translation_uz": "maslahat so'ramoq",
+    "example_sentence": "I asked my teacher for advice about the exam."
+   },
+   {
+    "word": "take someone's advice",
+    "translation_uz": "birovning maslahatiga quloq solmoq",
+    "example_sentence": "I took her advice and went to bed early."
+   },
+   {
+    "word": "follow advice",
+    "translation_uz": "maslahatga amal qilmoq",
+    "example_sentence": "If you follow the doctor's advice, you will recover soon."
+   },
+   {
+    "word": "ignore advice",
+    "translation_uz": "maslahatni e'tiborsiz qoldirmoq",
+    "example_sentence": "He ignored our advice and walked in the rain."
+   },
+   {
+    "word": "good / sound advice",
+    "translation_uz": "yaxshi / asosli maslahat",
+    "example_sentence": "That is sound advice for any beginner."
+   },
+   {
+    "word": "a piece of advice",
+    "translation_uz": "bitta maslahat",
+    "example_sentence": "Here is a piece of advice: check your work twice."
+   },
+   {
+    "word": "advice on / about",
+    "translation_uz": "...haqida maslahat",
+    "example_sentence": "Can you give me some advice on buying a laptop?"
+   },
+   {
+    "word": "seek professional advice",
+    "translation_uz": "mutaxassis maslahatini izlamoq",
+    "example_sentence": "You should seek professional advice before you decide."
+   },
+   {
+    "word": "on someone's advice",
+    "translation_uz": "birovning maslahati bilan",
+    "example_sentence": "On my uncle's advice, I joined the chess club."
+   },
+   {
+    "word": "a word of advice",
+    "translation_uz": "bir og'iz maslahat",
+    "example_sentence": "A word of advice: never leave your bike unlocked."
+   },
+   {
+    "word": "advise / adviser (noun: advice)",
+    "translation_uz": "maslahat bermoq / maslahatchi",
+    "example_sentence": "The adviser advises students about universities."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Could you give me some ___ about which book to read?",
+    "correct_word": "advice",
+    "options": [
+     "advice",
+     "advise",
+     "advices",
+     "adviser"
+    ]
+   },
+   {
+    "sentence_with_blank": "She decided to take her teacher's ___ and practise every day.",
+    "correct_word": "advice",
+    "options": [
+     "advise",
+     "order",
+     "chance",
+     "advice"
+    ]
+   },
+   {
+    "sentence_with_blank": "I would ___ you to wear a coat because it is cold.",
+    "correct_word": "advise",
+    "options": [
+     "advice",
+     "suggest to",
+     "advise",
+     "say"
+    ]
+   },
+   {
+    "sentence_with_blank": "He asked his coach ___ advice before the match.",
+    "correct_word": "for",
+    "options": [
+     "to",
+     "for",
+     "at",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "That is a useful ___ of advice, thank you.",
+    "correct_word": "piece",
+    "options": [
+     "piece",
+     "part",
+     "slice",
+     "lot"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is wise to follow your doctor's ___ .",
+    "correct_word": "advice",
+    "options": [
+     "advices",
+     "advises",
+     "adviced",
+     "advice"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The New Student",
+   "text": "When Omar started at his new school, he felt shy and lonely. His older brother gave him some good advice: join a club and talk to one new person every day. At first Omar ignored the advice, but after a week he decided to take it. He asked the teacher for advice about the clubs, and she recommended the chess club. There he met Timur, who soon became his best friend. Omar now says that following his brother's advice was the best decision of the term.",
+   "key_words": [
+    {
+     "word": "lonely",
+     "translation_uz": "yolg'iz"
+    },
+    {
+     "word": "recommend",
+     "translation_uz": "tavsiya qilmoq"
+    },
+    {
+     "word": "term",
+     "translation_uz": "chorak"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who gave Omar advice?",
+     "options": [
+      "His father",
+      "Timur",
+      "A neighbour",
+      "His older brother"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Which club did the teacher recommend?",
+     "options": [
+      "The music club",
+      "The football club",
+      "The chess club",
+      "The art club"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Omar do at first?",
+     "options": [
+      "Followed it at once",
+      "Ignored the advice",
+      "Changed schools",
+      "Asked his friend Timur"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Doctor's",
+   "script": "My throat has been sore for three days, said Kamila. The doctor listened carefully. My advice is to drink warm water and rest for two days. Do not go to school until Thursday. Kamila nodded. Is it all right to read in bed? Yes, but not too long. And a word of advice: do not talk too much! Kamila laughed and thanked the doctor. She promised to follow his advice.",
+   "questions": [
+    {
+     "question": "How long has Kamila had a sore throat?",
+     "options": [
+      "Three days",
+      "Two days",
+      "A week",
+      "One day"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When can she go back to school?",
+     "options": [
+      "On Monday",
+      "Tomorrow",
+      "On Wednesday",
+      "After Thursday"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the doctor's word of advice?",
+     "options": [
+      "Do not read",
+      "Drink cold water",
+      "Do not talk too much",
+      "Go out every day"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Thank you for the advice.",
+    "I asked him for advice.",
+    "Follow your doctor's advice."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Friends",
+    "question_text": "Who do you ask for advice when you have a problem?",
+    "hint_words": [
+     "my mother",
+     "teacher",
+     "friend",
+     "ask"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "What advice would you give to someone who cannot sleep?",
+    "hint_words": [
+     "you should",
+     "drink",
+     "no phone",
+     "early"
+    ]
+   },
+   {
+    "topic": "Learning",
+    "question_text": "Give a piece of advice to a new English learner.",
+    "hint_words": [
+     "practise",
+     "listen",
+     "speak",
+     "every day"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 12,
+  "title": "agreement",
+  "vocabulary": [
+   {
+    "word": "reach an agreement",
+    "translation_uz": "kelishuvga erishmoq",
+    "example_sentence": "After a long talk, the two teams reached an agreement."
+   },
+   {
+    "word": "come to an agreement",
+    "translation_uz": "kelishuvga kelmoq",
+    "example_sentence": "The neighbours came to an agreement about the fence."
+   },
+   {
+    "word": "sign an agreement",
+    "translation_uz": "kelishuvga imzo chekmoq",
+    "example_sentence": "Both sides signed the agreement on Monday."
+   },
+   {
+    "word": "break an agreement",
+    "translation_uz": "kelishuvni buzmoq",
+    "example_sentence": "If you break an agreement, people stop trusting you."
+   },
+   {
+    "word": "a written agreement",
+    "translation_uz": "yozma kelishuv",
+    "example_sentence": "They made a written agreement about the rent."
+   },
+   {
+    "word": "a verbal agreement",
+    "translation_uz": "og'zaki kelishuv",
+    "example_sentence": "A verbal agreement is harder to prove later."
+   },
+   {
+    "word": "in agreement with",
+    "translation_uz": "...bilan hamfikr",
+    "example_sentence": "I am in complete agreement with you."
+   },
+   {
+    "word": "an agreement between / on",
+    "translation_uz": "...o'rtasidagi / ...bo'yicha kelishuv",
+    "example_sentence": "There is an agreement between the two schools on the match dates."
+   },
+   {
+    "word": "by mutual agreement",
+    "translation_uz": "o'zaro kelishuv bilan",
+    "example_sentence": "They ended the contract by mutual agreement."
+   },
+   {
+    "word": "nod in agreement",
+    "translation_uz": "rozilik bilan bosh irg'amoq",
+    "example_sentence": "Everyone nodded in agreement."
+   },
+   {
+    "word": "a trade agreement",
+    "translation_uz": "savdo kelishuvi",
+    "example_sentence": "The two countries signed a trade agreement."
+   },
+   {
+    "word": "agree / disagree / agreeable",
+    "translation_uz": "rozi bo'lmoq / rozi bo'lmaslik / maqbul",
+    "example_sentence": "We disagree about the film, but we agree on the music."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "After an hour of talking, they finally ___ an agreement.",
+    "correct_word": "reached",
+    "options": [
+     "won",
+     "reached",
+     "caught",
+     "kept"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am in full agreement ___ my brother about the holiday.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "to",
+     "for",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Everyone ___ in agreement when the teacher suggested a picnic.",
+    "correct_word": "nodded",
+    "options": [
+     "waved",
+     "bowed",
+     "shook",
+     "nodded"
+    ]
+   },
+   {
+    "sentence_with_blank": "The club members made a written ___ about using the room.",
+    "correct_word": "agreement",
+    "options": [
+     "agree",
+     "agreeing",
+     "agreement",
+     "agreeable"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please do not ___ your agreement with us.",
+    "correct_word": "break",
+    "options": [
+     "lose",
+     "break",
+     "cut",
+     "drop"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is no agreement ___ the two groups yet.",
+    "correct_word": "between",
+    "options": [
+     "between",
+     "among",
+     "to",
+     "for"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Sharing the Football Pitch",
+   "text": "Two teams at our school wanted to use the football pitch on Wednesday afternoons. For weeks there were arguments, and nobody could reach an agreement. Finally the head teacher called a meeting. After an hour of discussion, the captains came to an agreement: Team A would use the pitch on the first and third Wednesday, and Team B on the second and fourth. They signed a written agreement, and everyone nodded in agreement. Since then there have been no more problems, and both teams are happy.",
+   "key_words": [
+    {
+     "word": "pitch",
+     "translation_uz": "maydon"
+    },
+    {
+     "word": "captain",
+     "translation_uz": "sardor"
+    },
+    {
+     "word": "discussion",
+     "translation_uz": "muhokama"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was there an argument?",
+     "options": [
+      "Two teams wanted the same pitch",
+      "The pitch was broken",
+      "The ball was lost",
+      "The match was cancelled"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who called a meeting?",
+     "options": [
+      "A captain",
+      "A parent",
+      "The coach of Team B",
+      "The head teacher"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the captains do at the end?",
+     "options": [
+      "Left the meeting",
+      "Stopped playing",
+      "Signed a written agreement",
+      "Bought a new pitch"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Lending a Bike",
+   "script": "Jasur lent his bike to his cousin Rustam. Before that, they made an agreement. Rustam could use it on weekends, but he had to bring it back every Sunday evening with the tyres clean. One day Rustam kept the bike until Tuesday, so Jasur felt that he had broken the agreement. They talked for a while and reached a new agreement. This time they wrote it down on paper, and both of them signed it.",
+   "questions": [
+    {
+     "question": "When must Rustam return the bike?",
+     "options": [
+      "On Friday",
+      "On Sunday evening",
+      "On Tuesday",
+      "On Monday morning"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why was Jasur upset?",
+     "options": [
+      "Rustam kept the bike too long",
+      "The bike was damaged",
+      "Rustam sold it",
+      "The tyres were flat"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did they make the new agreement?",
+     "options": [
+      "They said it aloud",
+      "They asked a teacher",
+      "They shook hands only",
+      "They wrote it down and signed it"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We reached an agreement.",
+    "He broke the agreement.",
+    "They signed the agreement."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "School",
+    "question_text": "Have you ever made an agreement with a friend? What was it?",
+    "hint_words": [
+     "we agreed",
+     "promise",
+     "share",
+     "keep"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "What agreement do you have with your parents about homework?",
+    "hint_words": [
+     "before dinner",
+     "every day",
+     "I must",
+     "allowed"
+    ]
+   },
+   {
+    "topic": "Opinions",
+    "question_text": "Who are you in agreement with most often?",
+    "hint_words": [
+     "my friend",
+     "we think",
+     "same",
+     "often"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 13,
+  "title": "aim",
+  "vocabulary": [
+   {
+    "word": "achieve your aim",
+    "translation_uz": "maqsadingga erishmoq",
+    "example_sentence": "She worked hard to achieve her aim of winning the prize."
+   },
+   {
+    "word": "the main aim",
+    "translation_uz": "asosiy maqsad",
+    "example_sentence": "The main aim of the project is to save water."
+   },
+   {
+    "word": "a clear aim",
+    "translation_uz": "aniq maqsad",
+    "example_sentence": "Choose a clear aim before you start learning."
+   },
+   {
+    "word": "the aim of",
+    "translation_uz": "...ning maqsadi",
+    "example_sentence": "The aim of the game is to collect all the cards."
+   },
+   {
+    "word": "with the aim of",
+    "translation_uz": "...maqsadida",
+    "example_sentence": "He went to Tashkent with the aim of finding a job."
+   },
+   {
+    "word": "have no aim in life",
+    "translation_uz": "hayotda maqsadi yo'q bo'lmoq",
+    "example_sentence": "He felt he had no aim in life until he joined the club."
+   },
+   {
+    "word": "aim to do something",
+    "translation_uz": "...ni qilishni maqsad qilmoq",
+    "example_sentence": "We aim to finish the work by noon."
+   },
+   {
+    "word": "aim at / aim for",
+    "translation_uz": "...ni mo'ljallamoq / ...ga intilmoq",
+    "example_sentence": "The campaign aims at young drivers. / Aim for a high mark."
+   },
+   {
+    "word": "aim high",
+    "translation_uz": "yuksak maqsadlarga intilmoq",
+    "example_sentence": "My coach tells us to aim high."
+   },
+   {
+    "word": "take aim",
+    "translation_uz": "nishonga olmoq",
+    "example_sentence": "The archer took aim and relaxed her shoulders."
+   },
+   {
+    "word": "be aimed at",
+    "translation_uz": "...ga mo'ljallangan bo'lmoq",
+    "example_sentence": "This book is aimed at teenagers."
+   },
+   {
+    "word": "aimless / aimlessly",
+    "translation_uz": "maqsadsiz / maqsadsiz holda",
+    "example_sentence": "He walked aimlessly through the park."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The ___ of this lesson is to learn ten new words.",
+    "correct_word": "aim",
+    "options": [
+     "answer",
+     "action",
+     "aim",
+     "account"
+    ]
+   },
+   {
+    "sentence_with_blank": "She moved to London with the aim ___ studying medicine.",
+    "correct_word": "of",
+    "options": [
+     "to",
+     "of",
+     "for",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom's ___ is to become a pilot one day.",
+    "correct_word": "aim",
+    "options": [
+     "aim",
+     "answer",
+     "apology",
+     "account"
+    ]
+   },
+   {
+    "sentence_with_blank": "This film is aimed ___ young children.",
+    "correct_word": "at",
+    "options": [
+     "on",
+     "to",
+     "by",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle told me to aim ___ and never give up.",
+    "correct_word": "high",
+    "options": [
+     "tall",
+     "big",
+     "high",
+     "far"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wandered ___ around town because he had nothing to do.",
+    "correct_word": "aimlessly",
+    "options": [
+     "aimless",
+     "aimlessly",
+     "aiming",
+     "aimed"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Archery Club",
+   "text": "Fatima joined the archery club with one clear aim: to hit the target from twenty metres. At first, her arrows flew everywhere, and she felt aimless and disappointed. The coach explained that the main aim of the first month was not to win but to learn a calm style. He told her to aim high but to practise slowly. Every week Fatima took aim, breathed out and let the arrow go. After three months she finally achieved her aim, and the whole club clapped.",
+   "key_words": [
+    {
+     "word": "archery",
+     "translation_uz": "kamondan otish"
+    },
+    {
+     "word": "target",
+     "translation_uz": "nishon"
+    },
+    {
+     "word": "clap",
+     "translation_uz": "qarsak chalmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was Fatima's aim?",
+     "options": [
+      "To win a prize",
+      "To hit the target from twenty metres",
+      "To become a coach",
+      "To buy a bow"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the main aim of the first month?",
+     "options": [
+      "To learn a calm style",
+      "To win",
+      "To shoot far",
+      "To make friends"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long did it take her to achieve her aim?",
+     "options": [
+      "One week",
+      "Two years",
+      "One month",
+      "About three months"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "New Year Goals",
+   "script": "Every January my class writes down our aims for the year. My aim is to read twenty books, and my friend Zoya aims to learn the guitar. Our teacher says that a good aim must be clear and not too big. She also says it is fine to aim high, as long as we make a plan. Last year my aim was to improve my handwriting, and I achieved it. This year, with the aim of reading more, I will visit the library every Saturday.",
+   "questions": [
+    {
+     "question": "What is the speaker's aim this year?",
+     "options": [
+      "To learn the guitar",
+      "To write better",
+      "To read twenty books",
+      "To run faster"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Zoya want to do?",
+     "options": [
+      "Read twenty books",
+      "Learn the guitar",
+      "Visit the library",
+      "Improve handwriting"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When will the speaker go to the library?",
+     "options": [
+      "Every Saturday",
+      "Every day",
+      "Every Monday",
+      "Once a month"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "What is your main aim?",
+    "He achieved his aim.",
+    "Please aim high."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Future",
+    "question_text": "What is your main aim for this year?",
+    "hint_words": [
+     "my aim",
+     "I want to",
+     "improve",
+     "finish"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "What is the aim of your favourite game?",
+    "hint_words": [
+     "score",
+     "win",
+     "team",
+     "points"
+    ]
+   },
+   {
+    "topic": "Dreams",
+    "question_text": "Do you aim high? Give an example.",
+    "hint_words": [
+     "yes",
+     "dream",
+     "job",
+     "hard work"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 14,
+  "title": "answer",
+  "vocabulary": [
+   {
+    "word": "give an answer",
+    "translation_uz": "javob bermoq",
+    "example_sentence": "The pupil gave a quick answer."
+   },
+   {
+    "word": "a correct / wrong answer",
+    "translation_uz": "to'g'ri / noto'g'ri javob",
+    "example_sentence": "Only one answer is correct."
+   },
+   {
+    "word": "the answer to a question",
+    "translation_uz": "savolga javob",
+    "example_sentence": "Nobody knew the answer to the last question."
+   },
+   {
+    "word": "a short / straight answer",
+    "translation_uz": "qisqa / ochiq javob",
+    "example_sentence": "I asked for a straight answer, not a long speech."
+   },
+   {
+    "word": "a one-word answer",
+    "translation_uz": "bir so'zli javob",
+    "example_sentence": "He replied with a one-word answer: Yes."
+   },
+   {
+    "word": "know the answer",
+    "translation_uz": "javobni bilmoq",
+    "example_sentence": "I think I know the answer to this puzzle."
+   },
+   {
+    "word": "in answer to",
+    "translation_uz": "...ga javoban",
+    "example_sentence": "In answer to your letter, I am happy to say yes."
+   },
+   {
+    "word": "answer the phone",
+    "translation_uz": "telefonga javob bermoq",
+    "example_sentence": "Can you answer the phone, please?"
+   },
+   {
+    "word": "answer the door",
+    "translation_uz": "eshikni ochmoq",
+    "example_sentence": "The dog barked, so I went to answer the door."
+   },
+   {
+    "word": "get no answer",
+    "translation_uz": "javob ololmaslik",
+    "example_sentence": "I rang twice but got no answer."
+   },
+   {
+    "word": "answer back",
+    "translation_uz": "qaytarib gapirmoq",
+    "example_sentence": "Don't answer back when your teacher is speaking."
+   },
+   {
+    "word": "answer a question / a letter",
+    "translation_uz": "savolga / xatga javob bermoq",
+    "example_sentence": "She answered all the questions on the test."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can anybody give the right ___ to question five?",
+    "correct_word": "answer",
+    "options": [
+     "answers",
+     "answering",
+     "answered",
+     "answer"
+    ]
+   },
+   {
+    "sentence_with_blank": "I knocked on the door for a long time, but there was no ___ .",
+    "correct_word": "answer",
+    "options": [
+     "action",
+     "advice",
+     "answer",
+     "attempt"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ran to ___ the phone before it stopped ringing.",
+    "correct_word": "answer",
+    "options": [
+     "reply",
+     "answer",
+     "respond",
+     "say"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wrote a letter in ___ to my invitation.",
+    "correct_word": "answer",
+    "options": [
+     "answer",
+     "asking",
+     "order",
+     "time"
+    ]
+   },
+   {
+    "sentence_with_blank": "Teenagers sometimes ___ back to their parents.",
+    "correct_word": "answer",
+    "options": [
+     "sit",
+     "go",
+     "come",
+     "answer"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher wanted a long answer, not a ___ answer.",
+    "correct_word": "one-word",
+    "options": [
+     "one-time",
+     "one-way",
+     "one-word",
+     "one-day"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Quiz Show",
+   "text": "On Friday our school held a quiz show. The host asked difficult questions, and each team had thirty seconds to give an answer. Ali's team knew the answer to the first question, but they gave a wrong answer to the second one because they were nervous. When the host asked about the longest river in the world, Dina gave a quick one-word answer: Nile. The audience clapped loudly. In the end, Dina's team won by one point, and the host gave them a book as a prize.",
+   "key_words": [
+    {
+     "word": "host",
+     "translation_uz": "boshlovchi"
+    },
+    {
+     "word": "audience",
+     "translation_uz": "tomoshabinlar"
+    },
+    {
+     "word": "point",
+     "translation_uz": "ball"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long did each team have to answer?",
+     "options": [
+      "One minute",
+      "Ten seconds",
+      "Thirty seconds",
+      "Five minutes"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was Dina's answer?",
+     "options": [
+      "Amazon",
+      "Nile",
+      "Volga",
+      "Amu Darya"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the prize?",
+     "options": [
+      "A book",
+      "A trophy",
+      "A pen",
+      "A ticket"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Phone Call",
+   "script": "Hello, this is Laura. Is Marta there? Sorry, I cannot find her. I rang her mobile but there was no answer. Perhaps she is in the shower. I wrote to her last week, and I am still waiting for an answer to my letter. Shall I tell her you called? Yes, please. In answer to her question about the party, tell her I will come. I am sorry, I have to answer the door now. Goodbye.",
+   "questions": [
+    {
+     "question": "Why can't Marta come to the phone?",
+     "options": [
+      "She is at school",
+      "She went shopping",
+      "She is asleep",
+      "She did not answer her mobile"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is Laura waiting for?",
+     "options": [
+      "A phone call",
+      "A parcel",
+      "An answer to her letter",
+      "A bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will Laura do about the party?",
+     "options": [
+      "Not come",
+      "Come",
+      "Bring cake",
+      "Cancel it"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Nobody knew the answer.",
+    "Please answer the phone.",
+    "I got no answer."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Quiz",
+    "question_text": "Do you like quiz games? Why?",
+    "hint_words": [
+     "I like",
+     "questions",
+     "teams",
+     "fun"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "What is the answer to two plus two times three?",
+    "hint_words": [
+     "eight",
+     "I think",
+     "because",
+     "first"
+    ]
+   },
+   {
+    "topic": "Phone",
+    "question_text": "Do you always answer the phone? Why or why not?",
+    "hint_words": [
+     "usually",
+     "busy",
+     "unknown number",
+     "friend"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 15,
+  "title": "apology",
+  "vocabulary": [
+   {
+    "word": "make an apology",
+    "translation_uz": "uzr so'ramoq",
+    "example_sentence": "He made an apology to the whole class."
+   },
+   {
+    "word": "offer an apology",
+    "translation_uz": "uzr taklif qilmoq",
+    "example_sentence": "The shop offered an apology for the delay."
+   },
+   {
+    "word": "accept an apology",
+    "translation_uz": "uzrni qabul qilmoq",
+    "example_sentence": "I accept your apology, and we are friends again."
+   },
+   {
+    "word": "a sincere apology",
+    "translation_uz": "samimiy uzr",
+    "example_sentence": "She wrote a sincere apology to her neighbour."
+   },
+   {
+    "word": "a public apology",
+    "translation_uz": "ommaviy uzr",
+    "example_sentence": "The company made a public apology on its website."
+   },
+   {
+    "word": "a written apology",
+    "translation_uz": "yozma uzr",
+    "example_sentence": "The teacher asked for a written apology."
+   },
+   {
+    "word": "an apology for",
+    "translation_uz": "...uchun uzr",
+    "example_sentence": "I owe you an apology for being late."
+   },
+   {
+    "word": "owe someone an apology",
+    "translation_uz": "kimdandir uzr so'rashga qarzdor bo'lmoq",
+    "example_sentence": "I owe my sister an apology."
+   },
+   {
+    "word": "demand an apology",
+    "translation_uz": "uzr talab qilmoq",
+    "example_sentence": "She demanded an apology for the rude comment."
+   },
+   {
+    "word": "send your apologies",
+    "translation_uz": "uzr aytib qo'ymoq",
+    "example_sentence": "Please send my apologies to the teacher."
+   },
+   {
+    "word": "apologise to someone for",
+    "translation_uz": "kimdandir ...uchun uzr so'ramoq",
+    "example_sentence": "I apologised to Mum for the mess."
+   },
+   {
+    "word": "apologetic / apologetically",
+    "translation_uz": "uzrxohlik bilan / uzr so'ragan holda",
+    "example_sentence": "He gave an apologetic smile."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I would like to make an ___ for breaking your pencil.",
+    "correct_word": "apology",
+    "options": [
+     "apology",
+     "apologise",
+     "apologetic",
+     "apologising"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ my apology; I did not mean to shout.",
+    "correct_word": "accept",
+    "options": [
+     "admit",
+     "hold",
+     "repeat",
+     "accept"
+    ]
+   },
+   {
+    "sentence_with_blank": "She apologised ___ her brother for losing his book.",
+    "correct_word": "to",
+    "options": [
+     "at",
+     "with",
+     "to",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "He apologised ___ being late for the meeting.",
+    "correct_word": "for",
+    "options": [
+     "of",
+     "for",
+     "about to",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "I think you owe her an ___ .",
+    "correct_word": "apology",
+    "options": [
+     "apology",
+     "apologised",
+     "apologetic",
+     "apologising"
+    ]
+   },
+   {
+    "sentence_with_blank": "The class received a ___ apology from the visitor, who sounded truly sorry.",
+    "correct_word": "sincere",
+    "options": [
+     "silly",
+     "slow",
+     "simple",
+     "sincere"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Broken Window",
+   "text": "While playing football outside, Karim kicked the ball through his neighbour's window. He felt terrible and ran to the door at once. Mrs Hilola came out, surprised but calm. Karim made a sincere apology and offered to pay for the glass with his savings. She accepted his apology and said that accidents happen. The next day, he also wrote a short written apology and gave her a box of sweets. Mrs Hilola smiled and said he could play football in the yard if he was careful.",
+   "key_words": [
+    {
+     "word": "neighbour",
+     "translation_uz": "qo'shni"
+    },
+    {
+     "word": "accident",
+     "translation_uz": "tasodifiy hodisa"
+    },
+    {
+     "word": "glass",
+     "translation_uz": "oyna"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Karim break?",
+     "options": [
+      "A flower pot",
+      "His own door",
+      "A car",
+      "His neighbour's window"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How did Mrs Hilola react?",
+     "options": [
+      "She shouted",
+      "She called the police",
+      "She accepted his apology",
+      "She ignored him"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Karim give her the next day?",
+     "options": [
+      "Some money",
+      "A written apology and sweets",
+      "A new ball",
+      "Flowers"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Late Again",
+   "script": "Teacher: You are late again, Sanjar. Sanjar: I am really sorry. I owe you an apology. The bus broke down, so I walked. Teacher: Thank you for the apology, but please leave earlier tomorrow. Sanjar: I will. I also want to apologise to the class for interrupting the lesson. Teacher: I accept your apology. Now please open your book at page forty.",
+   "questions": [
+    {
+     "question": "Why was Sanjar late?",
+     "options": [
+      "The bus broke down",
+      "He overslept",
+      "He lost his bag",
+      "He forgot the time"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Sanjar promise?",
+     "options": [
+      "To bring a note",
+      "To walk faster",
+      "To never come again",
+      "To leave earlier tomorrow"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Which page should Sanjar open?",
+     "options": [
+      "Fourteen",
+      "Four",
+      "Forty",
+      "Fifty"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I owe you an apology.",
+    "She accepted my apology.",
+    "He said sorry sincerely."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Manners",
+    "question_text": "When do people need to make an apology?",
+    "hint_words": [
+     "late",
+     "rude",
+     "broke",
+     "sorry"
+    ]
+   },
+   {
+    "topic": "Friends",
+    "question_text": "Has a friend ever made an apology to you? What happened?",
+    "hint_words": [
+     "once",
+     "said sorry",
+     "I accepted",
+     "argument"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "How do you apologise to your family?",
+    "hint_words": [
+     "say sorry",
+     "hug",
+     "write",
+     "promise"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 16,
+  "title": "approval",
+  "vocabulary": [
+   {
+    "word": "get approval",
+    "translation_uz": "ruxsat olmoq",
+    "example_sentence": "You need to get approval from your parents for the trip."
+   },
+   {
+    "word": "seek approval",
+    "translation_uz": "ma'qullash izlamoq",
+    "example_sentence": "Teenagers often seek approval from their friends."
+   },
+   {
+    "word": "give approval",
+    "translation_uz": "ma'qullash bermoq",
+    "example_sentence": "The principal gave her approval to the school play."
+   },
+   {
+    "word": "win someone's approval",
+    "translation_uz": "birovning ma'qullashiga sazovor bo'lmoq",
+    "example_sentence": "He worked hard to win his coach's approval."
+   },
+   {
+    "word": "official approval",
+    "translation_uz": "rasmiy ruxsat",
+    "example_sentence": "The building has official approval."
+   },
+   {
+    "word": "parental approval",
+    "translation_uz": "ota-onaning roziligi",
+    "example_sentence": "Parental approval is needed for the school trip."
+   },
+   {
+    "word": "need approval from",
+    "translation_uz": "...dan ruxsat kerak bo'lmoq",
+    "example_sentence": "You need approval from the headmaster."
+   },
+   {
+    "word": "a nod of approval",
+    "translation_uz": "ma'qullab bosh irg'ash",
+    "example_sentence": "The teacher gave a nod of approval."
+   },
+   {
+    "word": "meet with approval",
+    "translation_uz": "ma'qullanmoq",
+    "example_sentence": "The new uniform met with approval."
+   },
+   {
+    "word": "a stamp of approval",
+    "translation_uz": "ma'qullash muhri",
+    "example_sentence": "The idea got a stamp of approval from the council."
+   },
+   {
+    "word": "for your approval",
+    "translation_uz": "sizning ma'qullashingiz uchun",
+    "example_sentence": "I sent the poster to the teacher for her approval."
+   },
+   {
+    "word": "approve / disapprove / disapproval",
+    "translation_uz": "ma'qullamoq / ma'qullamaslik / noroziligi",
+    "example_sentence": "My mother disapproves of late nights, and her disapproval is clear."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We cannot start the project without the head teacher's ___ .",
+    "correct_word": "approval",
+    "options": [
+     "approve",
+     "approval",
+     "approved",
+     "approving"
+    ]
+   },
+   {
+    "sentence_with_blank": "The coach gave a nod of ___ after the goal.",
+    "correct_word": "approval",
+    "options": [
+     "approval",
+     "advice",
+     "agreement",
+     "aim"
+    ]
+   },
+   {
+    "sentence_with_blank": "She needs her parents' approval ___ she goes camping.",
+    "correct_word": "before",
+    "options": [
+     "during",
+     "while",
+     "since",
+     "before"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our plan met ___ approval from the whole class.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "to",
+     "with",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is always seeking his father's ___ .",
+    "correct_word": "approval",
+    "options": [
+     "approve",
+     "approval",
+     "approved",
+     "approvals of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad does not ___ of eating in front of the TV.",
+    "correct_word": "approve",
+    "options": [
+     "approve",
+     "agree",
+     "accept",
+     "allow"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Garden",
+   "text": "Some students wanted to start a garden behind the school, but first they had to get approval. They wrote a short plan and sent it to the head teacher for her approval. She read it carefully and gave a nod of approval. The gardener also needed official approval from the town office to use the land. After two weeks the idea met with approval, and everyone was delighted. Parental approval was needed too, because the students would work after lessons. Now the garden grows tomatoes and herbs.",
+   "key_words": [
+    {
+     "word": "gardener",
+     "translation_uz": "bog'bon"
+    },
+    {
+     "word": "delighted",
+     "translation_uz": "xursand"
+    },
+    {
+     "word": "herbs",
+     "translation_uz": "o'tlar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the students have to get first?",
+     "options": [
+      "Approval",
+      "Seeds",
+      "Money",
+      "A prize"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who gave a nod of approval?",
+     "options": [
+      "The gardener",
+      "A parent",
+      "A student",
+      "The head teacher"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What grows in the garden now?",
+     "options": [
+      "Flowers only",
+      "Apples",
+      "Tomatoes and herbs",
+      "Potatoes"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A School Trip Form",
+   "script": "Mum, I need your approval for the trip to the science museum. Let me see the form. It costs fifteen dollars and leaves at eight o'clock. The teacher has already given her approval for the money. Good. I do not usually approve of long bus rides, but this one is for learning. Please sign here. Thank you! I will bring the form back tomorrow, and the teacher will stamp it.",
+   "questions": [
+    {
+     "question": "What is the trip to?",
+     "options": [
+      "A zoo",
+      "A science museum",
+      "A park",
+      "A castle"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How much does the trip cost?",
+     "options": [
+      "Fifteen dollars",
+      "Five dollars",
+      "Fifty dollars",
+      "Twenty dollars"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Mum have to do?",
+     "options": [
+      "Pay in cash",
+      "Drive the bus",
+      "Call the teacher",
+      "Sign the form"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I need your approval.",
+    "He nodded in approval.",
+    "We got official approval."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Rules",
+    "question_text": "When do you need approval from your parents?",
+    "hint_words": [
+     "trip",
+     "phone",
+     "friends",
+     "permission"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Who gives approval for school events?",
+    "hint_words": [
+     "head teacher",
+     "teacher",
+     "committee",
+     "form"
+    ]
+   },
+   {
+    "topic": "Feelings",
+    "question_text": "Whose approval matters most to you?",
+    "hint_words": [
+     "my family",
+     "friends",
+     "teacher",
+     "because"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 17,
+  "title": "area",
+  "vocabulary": [
+   {
+    "word": "a residential area",
+    "translation_uz": "turar joy hududi",
+    "example_sentence": "They live in a quiet residential area."
+   },
+   {
+    "word": "a rural area",
+    "translation_uz": "qishloq hududi",
+    "example_sentence": "Many people in rural areas keep animals."
+   },
+   {
+    "word": "an urban area",
+    "translation_uz": "shahar hududi",
+    "example_sentence": "Urban areas have more traffic and noise."
+   },
+   {
+    "word": "a built-up area",
+    "translation_uz": "qurilgan hudud",
+    "example_sentence": "Drive slowly in a built-up area."
+   },
+   {
+    "word": "the local area",
+    "translation_uz": "mahalliy hudud",
+    "example_sentence": "There are three libraries in the local area."
+   },
+   {
+    "word": "a play area",
+    "translation_uz": "o'yin maydonchasi",
+    "example_sentence": "The park has a play area for small children."
+   },
+   {
+    "word": "a mountainous area",
+    "translation_uz": "tog'li hudud",
+    "example_sentence": "This mountainous area is perfect for walking."
+   },
+   {
+    "word": "a protected area",
+    "translation_uz": "qo'riqlanadigan hudud",
+    "example_sentence": "The forest is a protected area for birds."
+   },
+   {
+    "word": "a disaster area",
+    "translation_uz": "ofat hududi",
+    "example_sentence": "Rescue teams went to the flood disaster area."
+   },
+   {
+    "word": "the surface area of",
+    "translation_uz": "...ning sirt yuzi",
+    "example_sentence": "Calculate the surface area of this box."
+   },
+   {
+    "word": "a grey area",
+    "translation_uz": "noaniq masala",
+    "example_sentence": "The rule about phones in class is a grey area."
+   },
+   {
+    "word": "in the area of",
+    "translation_uz": "...sohasida / atrofida",
+    "example_sentence": "He works in the area of computer science."
+   },
+   {
+    "word": "an area of study",
+    "translation_uz": "o'rganish sohasi",
+    "example_sentence": "Biology is my favourite area of study."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Our school is in a quiet residential ___ .",
+    "correct_word": "area",
+    "options": [
+     "place",
+     "region",
+     "area",
+     "room"
+    ]
+   },
+   {
+    "sentence_with_blank": "Children are playing in the ___ area of the park.",
+    "correct_word": "play",
+    "options": [
+     "game",
+     "play",
+     "fun",
+     "sport"
+    ]
+   },
+   {
+    "sentence_with_blank": "There are many farms in this rural ___ .",
+    "correct_word": "area",
+    "options": [
+     "area",
+     "land",
+     "ground",
+     "field"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is studying in the ___ of marine biology.",
+    "correct_word": "area",
+    "options": [
+     "place",
+     "position",
+     "side",
+     "area"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is there a good pizza restaurant in this ___ ?",
+    "correct_word": "area",
+    "options": [
+     "spot",
+     "point",
+     "area",
+     "side"
+    ]
+   },
+   {
+    "sentence_with_blank": "The rule is a grey ___ because nobody is sure what it means.",
+    "correct_word": "area",
+    "options": [
+     "place",
+     "area",
+     "space",
+     "field"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Walk in the Hills",
+   "text": "Last weekend, my class visited a mountainous area in the north. It is a protected area, so visitors must follow strict rules and take their rubbish home. The guide told us that rural areas like this are important for wildlife, such as eagles and wolves. In the morning we walked along a narrow path, and in the afternoon we had lunch in a small play area for visitors. At the end, the teacher asked us to find the area of a lake on a map. It was an exciting and educational day.",
+   "key_words": [
+    {
+     "word": "guide",
+     "translation_uz": "yo'lboshchi"
+    },
+    {
+     "word": "wildlife",
+     "translation_uz": "yovvoyi tabiat"
+    },
+    {
+     "word": "path",
+     "translation_uz": "yo'lak"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the class go?",
+     "options": [
+      "To a city centre",
+      "To a mountainous area",
+      "To a beach",
+      "To a factory"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What must visitors do in a protected area?",
+     "options": [
+      "Follow strict rules",
+      "Feed the animals",
+      "Light fires",
+      "Make noise"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did students do in the afternoon?",
+     "options": [
+      "Climbed a peak",
+      "Swam in a lake",
+      "Took a bus home",
+      "Had lunch in a play area"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Moving House",
+   "script": "We are moving to a new residential area next month. It is quieter than the urban area where we live now. My new school is in the local area, so I can walk there. There is a big play area near our new street, and the shopping centre is in the next area. My dad says that the roads are wide and the people are friendly. I will miss my old friends, but I like the idea of living near a park.",
+   "questions": [
+    {
+     "question": "When are they moving?",
+     "options": [
+      "Next week",
+      "Next year",
+      "Next month",
+      "Tomorrow"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How will the speaker get to the new school?",
+     "options": [
+      "By bus",
+      "On foot",
+      "By car",
+      "By bike"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is near the new street?",
+     "options": [
+      "A big play area",
+      "A factory",
+      "A hospital",
+      "A river"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He lives in a rural area.",
+    "This is a protected area.",
+    "The local area is safe."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "What is the area around your home like?",
+    "hint_words": [
+     "quiet",
+     "noisy",
+     "shops",
+     "park"
+    ]
+   },
+   {
+    "topic": "Nature",
+    "question_text": "Is there a protected area in your country? What is it like?",
+    "hint_words": [
+     "forest",
+     "mountains",
+     "animals",
+     "visit"
+    ]
+   },
+   {
+    "topic": "Study",
+    "question_text": "What is your favourite area of study?",
+    "hint_words": [
+     "science",
+     "art",
+     "history",
+     "because"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 18,
+  "title": "argument",
+  "vocabulary": [
+   {
+    "word": "have an argument",
+    "translation_uz": "janjallashmoq",
+    "example_sentence": "My brother and I had an argument about the remote."
+   },
+   {
+    "word": "get into an argument",
+    "translation_uz": "tortishuvga kirishmoq",
+    "example_sentence": "Don't get into an argument with strangers."
+   },
+   {
+    "word": "win / lose an argument",
+    "translation_uz": "bahsda yutmoq / yutqazmoq",
+    "example_sentence": "She always wins an argument by staying calm."
+   },
+   {
+    "word": "a heated argument",
+    "translation_uz": "qizg'in bahs",
+    "example_sentence": "They had a heated argument over the football result."
+   },
+   {
+    "word": "a strong argument",
+    "translation_uz": "kuchli dalil",
+    "example_sentence": "He presented a strong argument for longer breaks."
+   },
+   {
+    "word": "a convincing argument",
+    "translation_uz": "ishonarli dalil",
+    "example_sentence": "Her convincing argument changed my mind."
+   },
+   {
+    "word": "an argument about / over",
+    "translation_uz": "...haqida / ...ustida bahs",
+    "example_sentence": "There was an argument over who should wash up."
+   },
+   {
+    "word": "an argument with",
+    "translation_uz": "...bilan janjal",
+    "example_sentence": "I had an argument with my cousin yesterday."
+   },
+   {
+    "word": "an argument for / against",
+    "translation_uz": "...ga qarshi / ...ni yoqlovchi dalil",
+    "example_sentence": "What is the main argument against homework?"
+   },
+   {
+    "word": "put forward an argument",
+    "translation_uz": "dalil keltirmoq",
+    "example_sentence": "Students put forward arguments during the debate."
+   },
+   {
+    "word": "settle an argument",
+    "translation_uz": "bahsni hal qilmoq",
+    "example_sentence": "A dictionary can settle an argument about spelling."
+   },
+   {
+    "word": "argue / argumentative",
+    "translation_uz": "bahslashmoq / bahsga moyil",
+    "example_sentence": "Don't argue; let us talk calmly."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Ahmad and Sara had an ___ about whose turn it was.",
+    "correct_word": "argument",
+    "options": [
+     "agreement",
+     "accident",
+     "advice",
+     "argument"
+    ]
+   },
+   {
+    "sentence_with_blank": "I tried to ___ the argument by looking at the rules.",
+    "correct_word": "settle",
+    "options": [
+     "draw",
+     "hold",
+     "settle",
+     "book"
+    ]
+   },
+   {
+    "sentence_with_blank": "She put forward a strong argument ___ cutting down trees.",
+    "correct_word": "against",
+    "options": [
+     "to",
+     "against",
+     "of",
+     "about"
+    ]
+   },
+   {
+    "sentence_with_blank": "He got into an argument ___ his best friend.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "by",
+     "to",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "The team had a ___ argument after losing the match.",
+    "correct_word": "heated",
+    "options": [
+     "hotted",
+     "warm",
+     "burning",
+     "heated"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please don't ___ with me; I'm only trying to help.",
+    "correct_word": "argue",
+    "options": [
+     "argument",
+     "arguing",
+     "argue",
+     "arguments"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Debate",
+   "text": "On Thursday the debate club discussed whether pupils should wear uniforms. Rahim put forward a strong argument in favour: uniforms make everyone equal. Then Nigora gave a convincing argument against them, saying that clothes are a way to show personality. The audience listened carefully, and nobody got into an argument. At the end, the judges said that Nigora had won the argument because of her clear examples. Both speakers shook hands, and the club teacher thanked everyone.",
+   "key_words": [
+    {
+     "word": "debate",
+     "translation_uz": "munozara"
+    },
+    {
+     "word": "judge",
+     "translation_uz": "hakam"
+    },
+    {
+     "word": "equal",
+     "translation_uz": "teng"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the debate about?",
+     "options": [
+      "Homework",
+      "Sports",
+      "School uniforms",
+      "Lunch menus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who spoke against uniforms?",
+     "options": [
+      "Rahim",
+      "Nigora",
+      "The teacher",
+      "A judge"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did Nigora win?",
+     "options": [
+      "She gave clear examples",
+      "She spoke the longest",
+      "She was the oldest",
+      "She had a trophy"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Sharing a Room",
+   "script": "Mum, Jamshid and I had an argument again. About what? It started over the window: I like it open, but he feels cold. Did you shout? Yes, a little, and now I feel sorry. A heated argument is never helpful. What should I do? Try to settle the argument calmly. Perhaps you can agree to open the window for ten minutes before bedtime. That sounds fair. I will tell him right now.",
+   "questions": [
+    {
+     "question": "What did the children argue about?",
+     "options": [
+      "A video game",
+      "Homework",
+      "A toy",
+      "An open window"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How does the speaker feel now?",
+     "options": [
+      "Angry",
+      "Happy",
+      "Sorry",
+      "Bored"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Mum suggest?",
+     "options": [
+      "Sleeping in another room",
+      "Opening the window for ten minutes",
+      "Buying a fan",
+      "Closing it all night"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We had a heated argument.",
+    "Please don't argue.",
+    "That is a strong argument."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Friends",
+    "question_text": "Do you ever have arguments with your friends? What about?",
+    "hint_words": [
+     "sometimes",
+     "about",
+     "sorry",
+     "fix"
+    ]
+   },
+   {
+    "topic": "Opinions",
+    "question_text": "Give an argument for or against homework.",
+    "hint_words": [
+     "I think",
+     "because",
+     "tired",
+     "learn"
+    ]
+   },
+   {
+    "topic": "Calm",
+    "question_text": "How can people settle an argument peacefully?",
+    "hint_words": [
+     "talk",
+     "listen",
+     "calm",
+     "compromise"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 19,
+  "title": "attempt",
+  "vocabulary": [
+   {
+    "word": "make an attempt",
+    "translation_uz": "urinish qilmoq",
+    "example_sentence": "He made an attempt to fix the bike himself."
+   },
+   {
+    "word": "a first attempt",
+    "translation_uz": "birinchi urinish",
+    "example_sentence": "I passed the driving theory test at the first attempt."
+   },
+   {
+    "word": "a successful attempt",
+    "translation_uz": "muvaffaqiyatli urinish",
+    "example_sentence": "Her third attempt was successful."
+   },
+   {
+    "word": "a failed attempt",
+    "translation_uz": "muvaffaqiyatsiz urinish",
+    "example_sentence": "After a failed attempt, he tried again."
+   },
+   {
+    "word": "a desperate attempt",
+    "translation_uz": "umidsiz urinish",
+    "example_sentence": "In a desperate attempt, the goalkeeper jumped."
+   },
+   {
+    "word": "an attempt to do",
+    "translation_uz": "...ga urinish",
+    "example_sentence": "This is an attempt to break the world record."
+   },
+   {
+    "word": "in an attempt to",
+    "translation_uz": "...maqsadida",
+    "example_sentence": "She spoke slowly in an attempt to be clear."
+   },
+   {
+    "word": "an attempt at",
+    "translation_uz": "...ga qo'l urish",
+    "example_sentence": "It was my first attempt at cooking rice."
+   },
+   {
+    "word": "a half-hearted attempt",
+    "translation_uz": "sust urinish",
+    "example_sentence": "He made a half-hearted attempt to tidy up."
+   },
+   {
+    "word": "give up the attempt",
+    "translation_uz": "urinishdan voz kechmoq",
+    "example_sentence": "Don't give up the attempt after one mistake."
+   },
+   {
+    "word": "at the second attempt",
+    "translation_uz": "ikkinchi urinishda",
+    "example_sentence": "The runner jumped over the bar at the second attempt."
+   },
+   {
+    "word": "attempt a question / attempted",
+    "translation_uz": "savolga urinmoq / urinib ko'rilgan",
+    "example_sentence": "Attempt all the questions in section A."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "This is my third ___ to climb the wall.",
+    "correct_word": "attempt",
+    "options": [
+     "attempt",
+     "action",
+     "argument",
+     "approval"
+    ]
+   },
+   {
+    "sentence_with_blank": "She made an ___ to speak English with the tourists.",
+    "correct_word": "attempt",
+    "options": [
+     "aim",
+     "approval",
+     "argument",
+     "attempt"
+    ]
+   },
+   {
+    "sentence_with_blank": "In an attempt ___ lose weight, he started running daily.",
+    "correct_word": "to",
+    "options": [
+     "for",
+     "at",
+     "to",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her first attempt ___ baking a cake was a disaster.",
+    "correct_word": "at",
+    "options": [
+     "on",
+     "at",
+     "for",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ every question, even if you are not sure.",
+    "correct_word": "attempt",
+    "options": [
+     "attempt",
+     "agree",
+     "approve",
+     "argue"
+    ]
+   },
+   {
+    "sentence_with_blank": "Despite a desperate ___ , the goalkeeper missed the ball.",
+    "correct_word": "attempt",
+    "options": [
+     "attempted",
+     "attempting",
+     "attempts of",
+     "attempt"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Paper Plane Contest",
+   "text": "Our class held a paper plane contest in the hall. Each pupil could make three attempts, and the longest flight would win. My first attempt was a disaster because my plane fell straight to the floor. In an attempt to do better, I changed the wings and made them longer. My second attempt flew much further, but it hit the wall. At the third attempt, the plane glided across the whole hall! I did not win, but Zafar did, and I was proud of my successful attempt.",
+   "key_words": [
+    {
+     "word": "contest",
+     "translation_uz": "tanlov"
+    },
+    {
+     "word": "glide",
+     "translation_uz": "sirpanib uchmoq"
+    },
+    {
+     "word": "wing",
+     "translation_uz": "qanot"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many attempts could each pupil make?",
+     "options": [
+      "Two",
+      "Five",
+      "One",
+      "Three"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the speaker change?",
+     "options": [
+      "The paper",
+      "The tail",
+      "The wings",
+      "The colour"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who won?",
+     "options": [
+      "The speaker",
+      "Zafar",
+      "The teacher",
+      "Nobody"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Learning to Skate",
+   "script": "I tried roller skating for the first time on Sunday. My first attempt lasted about three seconds, and I fell on the grass. It was a failed attempt, but I was laughing. My cousin showed me how to bend my knees and keep my arms out. In another attempt, I rolled slowly for ten metres. I was so happy! Next Sunday I will make a new attempt in the park with a helmet and knee pads.",
+   "questions": [
+    {
+     "question": "How long did the first attempt last?",
+     "options": [
+      "About three seconds",
+      "About a minute",
+      "Ten metres",
+      "An hour"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who helped the speaker?",
+     "options": [
+      "A coach",
+      "A brother",
+      "A neighbour",
+      "A cousin"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will the speaker wear next time?",
+     "options": [
+      "A hat",
+      "Gloves only",
+      "A helmet and knee pads",
+      "Nothing special"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "It was a failed attempt.",
+    "This is my second attempt.",
+    "Don't give up the attempt."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Challenges",
+    "question_text": "Tell me about something you did at the second attempt.",
+    "hint_words": [
+     "first time",
+     "failed",
+     "tried again",
+     "finally"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "What would you like to attempt one day?",
+    "hint_words": [
+     "climb",
+     "swim",
+     "run",
+     "I would like"
+    ]
+   },
+   {
+    "topic": "Learning",
+    "question_text": "What do you do after a failed attempt?",
+    "hint_words": [
+     "try again",
+     "ask",
+     "practise",
+     "never give up"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 20,
+  "title": "attention",
+  "vocabulary": [
+   {
+    "word": "pay attention",
+    "translation_uz": "diqqat bermoq",
+    "example_sentence": "Please pay attention to the teacher."
+   },
+   {
+    "word": "pay attention to",
+    "translation_uz": "...ga e'tibor bermoq",
+    "example_sentence": "You should pay attention to the road signs."
+   },
+   {
+    "word": "draw attention to",
+    "translation_uz": "...ga diqqatni qaratmoq",
+    "example_sentence": "The red colour draws attention to the sign."
+   },
+   {
+    "word": "attract attention",
+    "translation_uz": "e'tiborni jalb qilmoq",
+    "example_sentence": "The loud music attracted attention."
+   },
+   {
+    "word": "catch someone's attention",
+    "translation_uz": "birovning e'tiborini tortmoq",
+    "example_sentence": "I waved to catch the waiter's attention."
+   },
+   {
+    "word": "give your full attention",
+    "translation_uz": "to'liq e'tibor bermoq",
+    "example_sentence": "Give your full attention to this exercise."
+   },
+   {
+    "word": "undivided attention",
+    "translation_uz": "to'liq e'tibor",
+    "example_sentence": "He gave the story his undivided attention."
+   },
+   {
+    "word": "need attention",
+    "translation_uz": "e'tibor talab qilmoq",
+    "example_sentence": "The plants need attention every day."
+   },
+   {
+    "word": "medical attention",
+    "translation_uz": "tibbiy yordam",
+    "example_sentence": "Anyone feeling ill should get medical attention."
+   },
+   {
+    "word": "attention to detail",
+    "translation_uz": "tafsilotga e'tibor",
+    "example_sentence": "A good designer shows attention to detail."
+   },
+   {
+    "word": "bring to someone's attention",
+    "translation_uz": "birovning e'tiboriga havola qilmoq",
+    "example_sentence": "She brought the problem to the head teacher's attention."
+   },
+   {
+    "word": "turn your attention to",
+    "translation_uz": "e'tiboringizni ...ga qaratmoq",
+    "example_sentence": "Now turn your attention to question four."
+   },
+   {
+    "word": "attention span / attentive",
+    "translation_uz": "diqqat davomiyligi / e'tiborli",
+    "example_sentence": "Young children have a short attention span."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please pay ___ to the instructions before you begin.",
+    "correct_word": "attention",
+    "options": [
+     "advice",
+     "attention",
+     "action",
+     "account"
+    ]
+   },
+   {
+    "sentence_with_blank": "I couldn't catch the shop assistant's ___ .",
+    "correct_word": "attention",
+    "options": [
+     "attention",
+     "attentive",
+     "attend",
+     "attentions"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bright poster is designed to ___ attention.",
+    "correct_word": "attract",
+    "options": [
+     "make",
+     "take",
+     "do",
+     "attract"
+    ]
+   },
+   {
+    "sentence_with_blank": "She gave the film her undivided ___ .",
+    "correct_word": "attention",
+    "options": [
+     "attentive",
+     "attend",
+     "attention",
+     "atmosphere"
+    ]
+   },
+   {
+    "sentence_with_blank": "Little children have a short attention ___ .",
+    "correct_word": "span",
+    "options": [
+     "time",
+     "span",
+     "limit",
+     "line"
+    ]
+   },
+   {
+    "sentence_with_blank": "The injured player needed medical ___ .",
+    "correct_word": "attention",
+    "options": [
+     "attention",
+     "attentions",
+     "attentive",
+     "action"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Lost Dog",
+   "text": "One afternoon, a little dog was walking alone near the school gate. The children wanted to help, so they drew the teacher's attention to it. Mrs Gulnara paid close attention to the dog's collar and found a phone number on it. She called the owner, and he said he had been looking for the dog all day. The dog needed some attention, because it was thirsty, so a pupil brought some water. When the owner arrived, he thanked the class for their attention to the problem. Everyone cheered as the dog wagged its tail.",
+   "key_words": [
+    {
+     "word": "collar",
+     "translation_uz": "bo'yinbog'"
+    },
+    {
+     "word": "owner",
+     "translation_uz": "egasi"
+    },
+    {
+     "word": "wag",
+     "translation_uz": "likillatmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where was the dog?",
+     "options": [
+      "Near the school gate",
+      "In the park",
+      "On the bus",
+      "In a shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the teacher find on the collar?",
+     "options": [
+      "A name only",
+      "A photograph",
+      "A map",
+      "A phone number"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did a pupil bring?",
+     "options": [
+      "Some food",
+      "A lead",
+      "Some water",
+      "A coat"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Classroom",
+   "script": "Class, please turn your attention to the board. Nadia, are you paying attention? Sorry, I was looking at a bird outside the window. I understand, but today's topic needs your full attention. The exercise is hard and you must focus on the details. Does everyone have a pen? Good. Because the exam is soon, I want to bring one more point to your attention: the test starts at nine, not ten. Please write that down.",
+   "questions": [
+    {
+     "question": "What was Nadia looking at?",
+     "options": [
+      "A friend",
+      "A bird",
+      "The clock",
+      "A bus"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why does the topic need full attention?",
+     "options": [
+      "The exercise is hard",
+      "It is very short",
+      "It is a game",
+      "It is a story"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When does the test start?",
+     "options": [
+      "At ten",
+      "At eight",
+      "At eleven",
+      "At nine"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Pay attention to the teacher.",
+    "She caught my attention.",
+    "He needs medical attention."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "School",
+    "question_text": "Is it easy for you to pay attention in class? Why or why not?",
+    "hint_words": [
+     "sometimes",
+     "noisy",
+     "interesting",
+     "tired"
+    ]
+   },
+   {
+    "topic": "Daily life",
+    "question_text": "What kind of thing attracts your attention?",
+    "hint_words": [
+     "bright colours",
+     "music",
+     "animals",
+     "signs"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "How can people improve their attention span?",
+    "hint_words": [
+     "sleep",
+     "exercise",
+     "no phone",
+     "breaks"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 21,
+  "title": "attitude",
+  "vocabulary": [
+   {
+    "word": "a positive attitude",
+    "translation_uz": "ijobiy munosabat",
+    "example_sentence": "A positive attitude can make hard work easier."
+   },
+   {
+    "word": "a negative attitude",
+    "translation_uz": "salbiy munosabat",
+    "example_sentence": "A negative attitude will not help you learn."
+   },
+   {
+    "word": "a good / bad attitude",
+    "translation_uz": "yaxshi / yomon munosabat",
+    "example_sentence": "The new player has a very good attitude."
+   },
+   {
+    "word": "an attitude to / towards",
+    "translation_uz": "...ga munosabat",
+    "example_sentence": "Her attitude to homework has changed."
+   },
+   {
+    "word": "change your attitude",
+    "translation_uz": "munosabatingni o'zgartirmoq",
+    "example_sentence": "If you change your attitude, the problem looks smaller."
+   },
+   {
+    "word": "a relaxed attitude",
+    "translation_uz": "xotirjam munosabat",
+    "example_sentence": "He has a relaxed attitude to exams."
+   },
+   {
+    "word": "a healthy attitude",
+    "translation_uz": "sog'lom munosabat",
+    "example_sentence": "A healthy attitude to failure helps us grow."
+   },
+   {
+    "word": "a can-do attitude",
+    "translation_uz": "\"qila olaman\" ruhi",
+    "example_sentence": "Our captain has a can-do attitude."
+   },
+   {
+    "word": "take a serious attitude",
+    "translation_uz": "jiddiy munosabatda bo'lmoq",
+    "example_sentence": "Take a serious attitude to safety rules."
+   },
+   {
+    "word": "public attitudes",
+    "translation_uz": "jamoatchilik munosabati",
+    "example_sentence": "Public attitudes to recycling have improved."
+   },
+   {
+    "word": "an attitude problem",
+    "translation_uz": "xulq muammosi",
+    "example_sentence": "The coach said he had an attitude problem."
+   },
+   {
+    "word": "a change of attitude",
+    "translation_uz": "munosabatning o'zgarishi",
+    "example_sentence": "I noticed a change of attitude after the talk."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Her attitude ___ learning English is excellent.",
+    "correct_word": "to",
+    "options": [
+     "at",
+     "by",
+     "to",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ attitude helps you try again after a mistake.",
+    "correct_word": "positive",
+    "options": [
+     "possible",
+     "positive",
+     "plain",
+     "present"
+    ]
+   },
+   {
+    "sentence_with_blank": "He has a relaxed ___ to exams, so nothing worries him.",
+    "correct_word": "attitude",
+    "options": [
+     "attitude",
+     "behaviour",
+     "mood",
+     "manner"
+    ]
+   },
+   {
+    "sentence_with_blank": "The coach praised the team's attitude, not just their ___ .",
+    "correct_word": "skills",
+    "options": [
+     "attitudes",
+     "moods",
+     "clothes",
+     "skills"
+    ]
+   },
+   {
+    "sentence_with_blank": "Public ___ to plastic bags have changed over the years.",
+    "correct_word": "attitudes",
+    "options": [
+     "attitude",
+     "attitudinal",
+     "attitudes",
+     "attituded"
+    ]
+   },
+   {
+    "sentence_with_blank": "You should ___ your attitude if you want to make friends.",
+    "correct_word": "change",
+    "options": [
+     "turn",
+     "change",
+     "move",
+     "carry"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Tough Maths Test",
+   "text": "Dilshod found maths very hard and always said, I can't do it. His teacher noticed his negative attitude and had a quiet talk with him. She explained that a positive attitude is as important as talent. Dilshod decided to change his attitude and to practise a little every day. After a month, he began to enjoy the tricky problems. His new can-do attitude surprised his classmates, and his marks went up. Now he helps his friends with their homework.",
+   "key_words": [
+    {
+     "word": "tricky",
+     "translation_uz": "qiyin"
+    },
+    {
+     "word": "notice",
+     "translation_uz": "payqamoq"
+    },
+    {
+     "word": "marks",
+     "translation_uz": "baholar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was Dilshod's problem?",
+     "options": [
+      "No pencil",
+      "A negative attitude to maths",
+      "A bad teacher",
+      "A broken calculator"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did he do after the talk?",
+     "options": [
+      "Practised a little every day",
+      "Stopped going to school",
+      "Asked for easier tests",
+      "Changed his seat"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How does he help his friends now?",
+     "options": [
+      "With sports",
+      "With cooking",
+      "With music",
+      "With their homework"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A New Coach",
+   "script": "Our football team has a new coach. His name is Mr Anvar, and he has a very positive attitude. He says that winning is nice, but a good attitude is more important. If someone makes a mistake, he never shouts. He tells us to learn from it. At the first training he asked us about our attitude to hard work, and we all promised to try our best. After two weeks, I can already see a change of attitude in the team. We listen more and smile more.",
+   "questions": [
+    {
+     "question": "What does the coach say is more important than winning?",
+     "options": [
+      "Speed",
+      "Money",
+      "A good attitude",
+      "Height"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does he do when someone makes a mistake?",
+     "options": [
+      "He shouts",
+      "He tells them to learn from it",
+      "He sends them home",
+      "He ignores it"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What has changed after two weeks?",
+     "options": [
+      "The team's attitude",
+      "The team's shirts",
+      "The pitch",
+      "The coach"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I like his positive attitude.",
+    "Change your attitude.",
+    "He has a good attitude."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Learning",
+    "question_text": "Do you have a positive attitude to learning English?",
+    "hint_words": [
+     "yes",
+     "because",
+     "sometimes",
+     "fun"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "Why is a good attitude important in a team?",
+    "hint_words": [
+     "help",
+     "together",
+     "lose",
+     "encourage"
+    ]
+   },
+   {
+    "topic": "Problems",
+    "question_text": "How can people change a negative attitude?",
+    "hint_words": [
+     "think",
+     "talk",
+     "small steps",
+     "try"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 22,
+  "title": "ban",
+  "vocabulary": [
+   {
+    "word": "impose a ban",
+    "translation_uz": "taqiq joriy qilmoq",
+    "example_sentence": "The school imposed a ban on mobile phones."
+   },
+   {
+    "word": "lift a ban",
+    "translation_uz": "taqiqni bekor qilmoq",
+    "example_sentence": "The city lifted the ban on bicycles in the park."
+   },
+   {
+    "word": "a ban on",
+    "translation_uz": "...ga taqiq",
+    "example_sentence": "There is a ban on swimming in the river."
+   },
+   {
+    "word": "a total ban",
+    "translation_uz": "to'liq taqiq",
+    "example_sentence": "A total ban on fires protects the forest."
+   },
+   {
+    "word": "a temporary ban",
+    "translation_uz": "vaqtinchalik taqiq",
+    "example_sentence": "They announced a temporary ban on fishing."
+   },
+   {
+    "word": "put a ban on",
+    "translation_uz": "taqiq qo'ymoq",
+    "example_sentence": "The council put a ban on loud music at night."
+   },
+   {
+    "word": "break a ban",
+    "translation_uz": "taqiqni buzmoq",
+    "example_sentence": "Anyone who breaks the ban must pay a fine."
+   },
+   {
+    "word": "under a ban",
+    "translation_uz": "taqiq ostida",
+    "example_sentence": "Plastic bags are now under a ban in many shops."
+   },
+   {
+    "word": "a ban on smoking",
+    "translation_uz": "chekishga taqiq",
+    "example_sentence": "A ban on smoking exists in all public buildings."
+   },
+   {
+    "word": "be banned from",
+    "translation_uz": "...dan chetlatilmoq",
+    "example_sentence": "He was banned from the library for a week."
+   },
+   {
+    "word": "ban someone from doing",
+    "translation_uz": "kimgadir ...ni taqiqlamoq",
+    "example_sentence": "They banned the children from running in the corridor."
+   },
+   {
+    "word": "face a ban",
+    "translation_uz": "taqiqqa duch kelmoq",
+    "example_sentence": "The team faces a ban if it breaks the rules again."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The government has imposed a ___ on plastic straws.",
+    "correct_word": "ban",
+    "options": [
+     "bar",
+     "ending",
+     "stop",
+     "ban"
+    ]
+   },
+   {
+    "sentence_with_blank": "Cycling on this path is ___ for safety reasons.",
+    "correct_word": "banned",
+    "options": [
+     "ban",
+     "banning",
+     "banned",
+     "bans"
+    ]
+   },
+   {
+    "sentence_with_blank": "The council decided to ___ the ban after two years.",
+    "correct_word": "lift",
+    "options": [
+     "raise",
+     "lift",
+     "pull",
+     "carry"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was banned ___ the pool after breaking the rules.",
+    "correct_word": "from",
+    "options": [
+     "from",
+     "of",
+     "to",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a total ban ___ fishing in this lake.",
+    "correct_word": "on",
+    "options": [
+     "of",
+     "at",
+     "against",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The school ___ a ban on sweets in the classroom.",
+    "correct_word": "put",
+    "options": [
+     "took",
+     "made up",
+     "put",
+     "set up on"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "No Phones at School",
+   "text": "Last September our school imposed a ban on mobile phones during lessons. The head teacher explained that the ban would help pupils concentrate. At first many students were unhappy, and some even broke the ban by hiding phones in their bags. The teachers then talked to the class about the reason. After a month, most pupils agreed that the lessons were calmer and more interesting. Now the school wants to lift the ban on phones during break time, as long as everyone is sensible.",
+   "key_words": [
+    {
+     "word": "concentrate",
+     "translation_uz": "diqqatni jamlamoq"
+    },
+    {
+     "word": "hide",
+     "translation_uz": "yashirmoq"
+    },
+    {
+     "word": "sensible",
+     "translation_uz": "aqlli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the school ban?",
+     "options": [
+      "Books",
+      "Sweets",
+      "Mobile phones in lessons",
+      "Football"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did some students do at first?",
+     "options": [
+      "Left school",
+      "Broke the ban",
+      "Wrote letters",
+      "Won a prize"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What may the school lift?",
+     "options": [
+      "The ban during break time",
+      "The ban on books",
+      "All rules",
+      "The uniform"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Park Rules",
+   "script": "Welcome to Green Park. There is a ban on bicycles on the main path, so please walk. Dogs are welcome, but they must stay on a lead. There is also a temporary ban on swimming in the pond because the water is being cleaned. Anyone who breaks these rules will be asked to leave the park. The ban will be lifted in June. Thank you, and enjoy your visit.",
+   "questions": [
+    {
+     "question": "What is banned on the main path?",
+     "options": [
+      "Dogs",
+      "Picnics",
+      "Walking",
+      "Bicycles"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why is swimming banned?",
+     "options": [
+      "It is too cold",
+      "The pond is empty",
+      "The pond water is being cleaned",
+      "There are fish"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When will the ban be lifted?",
+     "options": [
+      "In May",
+      "In June",
+      "Tomorrow",
+      "Next year"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "There is a ban on cycling.",
+    "The ban was lifted.",
+    "He broke the ban."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Rules",
+    "question_text": "Is there a ban on anything at your school?",
+    "hint_words": [
+     "phones",
+     "running",
+     "food",
+     "yes"
+    ]
+   },
+   {
+    "topic": "Environment",
+    "question_text": "Do you think there should be a ban on plastic bags? Why?",
+    "hint_words": [
+     "I think",
+     "pollution",
+     "sea",
+     "yes"
+    ]
+   },
+   {
+    "topic": "Streets",
+    "question_text": "What would you ban in the city centre?",
+    "hint_words": [
+     "cars",
+     "noise",
+     "litter",
+     "I would"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 23,
+  "title": "behaviour",
+  "vocabulary": [
+   {
+    "word": "good behaviour",
+    "translation_uz": "yaxshi xulq",
+    "example_sentence": "The teacher rewarded the class for good behaviour."
+   },
+   {
+    "word": "bad behaviour",
+    "translation_uz": "yomon xulq",
+    "example_sentence": "Bad behaviour on the bus is not allowed."
+   },
+   {
+    "word": "polite behaviour",
+    "translation_uz": "xushmuomala xulq",
+    "example_sentence": "Polite behaviour makes a good impression."
+   },
+   {
+    "word": "strange behaviour",
+    "translation_uz": "g'alati xatti-harakat",
+    "example_sentence": "The cat's strange behaviour worried us."
+   },
+   {
+    "word": "unacceptable behaviour",
+    "translation_uz": "qabul qilib bo'lmaydigan xulq",
+    "example_sentence": "Shouting at others is unacceptable behaviour."
+   },
+   {
+    "word": "be on your best behaviour",
+    "translation_uz": "o'zini eng yaxshi tutmoq",
+    "example_sentence": "We were on our best behaviour when the guests came."
+   },
+   {
+    "word": "behaviour towards",
+    "translation_uz": "...ga nisbatan xulq",
+    "example_sentence": "His behaviour towards the new pupil was kind."
+   },
+   {
+    "word": "change your behaviour",
+    "translation_uz": "xulqingni o'zgartirmoq",
+    "example_sentence": "It is hard to change your behaviour overnight."
+   },
+   {
+    "word": "improve behaviour",
+    "translation_uz": "xulqni yaxshilamoq",
+    "example_sentence": "The new rules helped to improve behaviour."
+   },
+   {
+    "word": "animal behaviour",
+    "translation_uz": "hayvonlar xulqi",
+    "example_sentence": "She studies animal behaviour in the forest."
+   },
+   {
+    "word": "a code of behaviour",
+    "translation_uz": "xulq qoidalari",
+    "example_sentence": "Our school has a code of behaviour."
+   },
+   {
+    "word": "behave / misbehave",
+    "translation_uz": "o'zini tutmoq / yomon o'zini tutmoq",
+    "example_sentence": "If you behave well, you can go to the park."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The children were on their best ___ during the visit.",
+    "correct_word": "behaviour",
+    "options": [
+     "behaviour",
+     "behaviours",
+     "behave",
+     "behaved"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ yourself in the museum.",
+    "correct_word": "behave",
+    "options": [
+     "act",
+     "do",
+     "stay",
+     "behave"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her behaviour ___ older people is always polite.",
+    "correct_word": "towards",
+    "options": [
+     "into",
+     "about",
+     "towards",
+     "above"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher praised the class for their good ___ .",
+    "correct_word": "behaviour",
+    "options": [
+     "behaving",
+     "behaviour",
+     "behaved",
+     "behaves"
+    ]
+   },
+   {
+    "sentence_with_blank": "Throwing food is ___ behaviour in the canteen.",
+    "correct_word": "unacceptable",
+    "options": [
+     "unacceptable",
+     "unable",
+     "unknown",
+     "uneasy"
+    ]
+   },
+   {
+    "sentence_with_blank": "Scientists study animal ___ to understand how they live.",
+    "correct_word": "behaviour",
+    "options": [
+     "habit",
+     "custom",
+     "manners of",
+     "behaviour"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Guest Speaker",
+   "text": "Last Monday a famous explorer visited our school. Before the talk, the head teacher reminded us to be on our best behaviour. Everyone listened politely, and nobody misbehaved. The explorer spoke about animal behaviour in the Arctic and showed photographs of bears and foxes. Afterwards she said that she had never seen such good behaviour in a school hall. We were very proud, and the head teacher gave the class a small prize for good behaviour.",
+   "key_words": [
+    {
+     "word": "explorer",
+     "translation_uz": "tadqiqotchi"
+    },
+    {
+     "word": "Arctic",
+     "translation_uz": "Arktika"
+    },
+    {
+     "word": "proud",
+     "translation_uz": "faxrlangan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who visited the school?",
+     "options": [
+      "A doctor",
+      "A footballer",
+      "An artist",
+      "An explorer"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did she talk about?",
+     "options": [
+      "Space travel",
+      "Cooking",
+      "Animal behaviour in the Arctic",
+      "Sports"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the class get?",
+     "options": [
+      "A holiday",
+      "A small prize",
+      "A trip",
+      "A new bell"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Mind Your Manners",
+   "script": "Aunt Zarina is coming for dinner, so please be on your best behaviour. Do I have to? Yes, because last time your behaviour was not good. You talked with food in your mouth and played on your phone. I'll behave this time, I promise. Wonderful. Remember to say thank you, help with the plates and ask polite questions. And if I do all that, can I have an ice cream? We will see. Good behaviour is its own reward.",
+   "questions": [
+    {
+     "question": "Who is coming for dinner?",
+     "options": [
+      "Aunt Zarina",
+      "Grandma",
+      "A teacher",
+      "A neighbour"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was wrong with the last visit?",
+     "options": [
+      "The food was cold",
+      "The child was late",
+      "Dinner was burnt",
+      "The child played on a phone"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the child ask for?",
+     "options": [
+      "More games",
+      "A new phone",
+      "An ice cream",
+      "A later bedtime"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Be on your best behaviour.",
+    "His behaviour was polite.",
+    "Please behave yourself."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Manners",
+    "question_text": "What is good behaviour at the dinner table?",
+    "hint_words": [
+     "say please",
+     "wait",
+     "no phone",
+     "thank you"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "What bad behaviour do teachers dislike the most?",
+    "hint_words": [
+     "shouting",
+     "talking",
+     "late",
+     "rude"
+    ]
+   },
+   {
+    "topic": "Animals",
+    "question_text": "Have you seen strange animal behaviour? Describe it.",
+    "hint_words": [
+     "my cat",
+     "dog",
+     "bird",
+     "strange"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 24,
+  "title": "belief",
+  "vocabulary": [
+   {
+    "word": "a strong belief",
+    "translation_uz": "kuchli ishonch",
+    "example_sentence": "She has a strong belief in honesty."
+   },
+   {
+    "word": "a firm belief",
+    "translation_uz": "qat'iy ishonch",
+    "example_sentence": "It is my firm belief that practice makes perfect."
+   },
+   {
+    "word": "belief in",
+    "translation_uz": "...ga ishonch",
+    "example_sentence": "His belief in himself grew after the win."
+   },
+   {
+    "word": "lose belief in",
+    "translation_uz": "...ga ishonchni yo'qotmoq",
+    "example_sentence": "Never lose belief in your dreams."
+   },
+   {
+    "word": "a popular belief",
+    "translation_uz": "keng tarqalgan e'tiqod",
+    "example_sentence": "It is a popular belief that carrots help you see in the dark."
+   },
+   {
+    "word": "contrary to popular belief",
+    "translation_uz": "keng tarqalgan fikrga zid ravishda",
+    "example_sentence": "Contrary to popular belief, bats are not blind."
+   },
+   {
+    "word": "a widespread belief",
+    "translation_uz": "keng tarqalgan ishonch",
+    "example_sentence": "There is a widespread belief that cats have nine lives."
+   },
+   {
+    "word": "in the belief that",
+    "translation_uz": "...deb ishonib",
+    "example_sentence": "She worked hard in the belief that it would pay off."
+   },
+   {
+    "word": "it is my belief that",
+    "translation_uz": "mening fikrimcha",
+    "example_sentence": "It is my belief that kindness matters most."
+   },
+   {
+    "word": "beyond belief",
+    "translation_uz": "aql bovar qilmas",
+    "example_sentence": "The view from the top was beyond belief."
+   },
+   {
+    "word": "hold a belief",
+    "translation_uz": "e'tiqodda bo'lmoq",
+    "example_sentence": "People hold different beliefs about many things."
+   },
+   {
+    "word": "to the best of my belief",
+    "translation_uz": "bilishimcha",
+    "example_sentence": "To the best of my belief, the museum opens at nine."
+   },
+   {
+    "word": "believe / unbelievable / disbelief",
+    "translation_uz": "ishonmoq / ishonib bo'lmas / ishonmaslik",
+    "example_sentence": "She stared in disbelief at the huge cake."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She has a strong ___ in her friends.",
+    "correct_word": "belief",
+    "options": [
+     "believe",
+     "belief",
+     "believing",
+     "believer"
+    ]
+   },
+   {
+    "sentence_with_blank": "Contrary to popular ___ , goldfish can remember things.",
+    "correct_word": "belief",
+    "options": [
+     "belief",
+     "believe",
+     "believing",
+     "believer"
+    ]
+   },
+   {
+    "sentence_with_blank": "He worked hard in the belief ___ he would win.",
+    "correct_word": "that",
+    "options": [
+     "what",
+     "which",
+     "whom",
+     "that"
+    ]
+   },
+   {
+    "sentence_with_blank": "The beautiful mountain scenery was beyond ___ .",
+    "correct_word": "belief",
+    "options": [
+     "believe",
+     "believing",
+     "belief",
+     "believed"
+    ]
+   },
+   {
+    "sentence_with_blank": "Never ___ belief in yourself.",
+    "correct_word": "lose",
+    "options": [
+     "miss",
+     "lose",
+     "drop",
+     "leave"
+    ]
+   },
+   {
+    "sentence_with_blank": "She stared at the huge cake in ___ .",
+    "correct_word": "disbelief",
+    "options": [
+     "disbelief",
+     "unbelief of",
+     "nonbelief",
+     "belief"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Myths About Animals",
+   "text": "There are many popular beliefs about animals, but not all of them are true. For example, there is a widespread belief that bulls hate the colour red. Contrary to popular belief, they cannot see red at all; it is the moving cloth that makes them react. Another common belief is that ostriches hide their heads in the sand. In fact, they only lower their heads to eat or to check their nests. My teacher says that it is important to check facts and not to accept a belief just because everyone repeats it.",
+   "key_words": [
+    {
+     "word": "ostrich",
+     "translation_uz": "tuyaqush"
+    },
+    {
+     "word": "nest",
+     "translation_uz": "uya"
+    },
+    {
+     "word": "fact",
+     "translation_uz": "fakt"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What makes bulls react?",
+     "options": [
+      "The moving cloth",
+      "The colour red",
+      "A loud noise",
+      "The sun"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why do ostriches lower their heads?",
+     "options": [
+      "To hide",
+      "To sleep",
+      "To drink only",
+      "To eat or check their nests"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the teacher advise?",
+     "options": [
+      "Ignore beliefs",
+      "Repeat what others say",
+      "Check facts",
+      "Avoid animals"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Lucky Pencil",
+   "script": "My cousin Ilhom believes in a lucky pencil. In the belief that it helps him, he takes it to every test. To the best of my belief, he found it in the street three years ago. I told him it is only a popular belief that objects bring luck. But he said, It is my belief that it keeps me calm. Anyway, he did well in the last exam, which was beyond belief for him because he had hardly studied.",
+   "questions": [
+    {
+     "question": "Where did Ilhom find the pencil?",
+     "options": [
+      "In a shop",
+      "In the street",
+      "At school",
+      "In a gift box"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long ago did he find it?",
+     "options": [
+      "Three years ago",
+      "Last week",
+      "Ten years ago",
+      "Yesterday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why was his result surprising?",
+     "options": [
+      "He was ill",
+      "The test was easy",
+      "He lost the pencil",
+      "He had hardly studied"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I have a strong belief.",
+    "It is beyond belief.",
+    "Never lose belief in yourself."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Beliefs",
+    "question_text": "What is a popular belief in your country?",
+    "hint_words": [
+     "people say",
+     "luck",
+     "old",
+     "true"
+    ]
+   },
+   {
+    "topic": "Self",
+    "question_text": "Do you have a strong belief in yourself?",
+    "hint_words": [
+     "yes",
+     "sometimes",
+     "confident",
+     "hard work"
+    ]
+   },
+   {
+    "topic": "Facts",
+    "question_text": "Why is it important to check if a belief is true?",
+    "hint_words": [
+     "facts",
+     "mistake",
+     "check",
+     "teacher"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 25,
+  "title": "benefit",
+  "vocabulary": [
+   {
+    "word": "a benefit of",
+    "translation_uz": "...ning foydasi",
+    "example_sentence": "One benefit of cycling is that it is free."
+   },
+   {
+    "word": "the benefits of",
+    "translation_uz": "...ning foydalari",
+    "example_sentence": "Doctors explain the benefits of sleep."
+   },
+   {
+    "word": "health benefits",
+    "translation_uz": "sog'liq uchun foydalar",
+    "example_sentence": "Apples have many health benefits."
+   },
+   {
+    "word": "a great benefit",
+    "translation_uz": "katta foyda",
+    "example_sentence": "The new library is a great benefit to the town."
+   },
+   {
+    "word": "an obvious benefit",
+    "translation_uz": "ravshan foyda",
+    "example_sentence": "The obvious benefit of a map is that you will not get lost."
+   },
+   {
+    "word": "benefit from",
+    "translation_uz": "...dan foyda ko'rmoq",
+    "example_sentence": "Many pupils benefit from extra lessons."
+   },
+   {
+    "word": "for the benefit of",
+    "translation_uz": "...ning manfaati uchun",
+    "example_sentence": "The park was built for the benefit of the whole community."
+   },
+   {
+    "word": "of benefit to",
+    "translation_uz": "...ga foydali",
+    "example_sentence": "The new software is of benefit to teachers."
+   },
+   {
+    "word": "reap the benefits",
+    "translation_uz": "mevasini yemoq, foyda ko'rmoq",
+    "example_sentence": "After months of practice, she reaped the benefits."
+   },
+   {
+    "word": "give someone the benefit of the doubt",
+    "translation_uz": "shubhani uning foydasiga hal qilmoq",
+    "example_sentence": "I will give him the benefit of the doubt."
+   },
+   {
+    "word": "a benefit concert",
+    "translation_uz": "xayriya konserti",
+    "example_sentence": "Our school organised a benefit concert for the shelter."
+   },
+   {
+    "word": "beneficial",
+    "translation_uz": "foydali",
+    "example_sentence": "Regular exercise is beneficial for the heart."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Walking to school has several health ___ .",
+    "correct_word": "benefits",
+    "options": [
+     "benefited",
+     "beneficial",
+     "benefits",
+     "beneficially"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many students ___ from the free tutoring.",
+    "correct_word": "benefit",
+    "options": [
+     "gain",
+     "benefit",
+     "earn",
+     "profit of"
+    ]
+   },
+   {
+    "sentence_with_blank": "The playground was built for the ___ of local children.",
+    "correct_word": "benefit",
+    "options": [
+     "benefit",
+     "benefits",
+     "beneficial",
+     "benefiting"
+    ]
+   },
+   {
+    "sentence_with_blank": "Reading every day is very ___ for your vocabulary.",
+    "correct_word": "beneficial",
+    "options": [
+     "benefit",
+     "benefited",
+     "beneficially",
+     "beneficial"
+    ]
+   },
+   {
+    "sentence_with_blank": "After a year of training, he began to reap the ___ .",
+    "correct_word": "benefits",
+    "options": [
+     "benefit",
+     "beneficial",
+     "benefits",
+     "benefited"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am not sure he is right, but I will give him the benefit of the ___ .",
+    "correct_word": "doubt",
+    "options": [
+     "trust",
+     "doubt",
+     "chance",
+     "question"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Why Learn to Swim?",
+   "text": "Our school offers free swimming lessons every Friday. Learning to swim has many benefits. First, it is a great form of exercise, and the health benefits include stronger muscles and a healthy heart. Second, swimming is of benefit to your confidence, because you learn to stay calm in water. Another obvious benefit is safety near rivers and the sea. Pupils who attend regularly benefit from small groups and friendly teachers. The pool was built for the benefit of the whole town, so families can use it at the weekend too.",
+   "key_words": [
+    {
+     "word": "muscle",
+     "translation_uz": "mushak"
+    },
+    {
+     "word": "confidence",
+     "translation_uz": "ishonch"
+    },
+    {
+     "word": "regularly",
+     "translation_uz": "muntazam"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When are the free lessons?",
+     "options": [
+      "Every Monday",
+      "Every Friday",
+      "Every weekend",
+      "Every day"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is one benefit for confidence?",
+     "options": [
+      "Learning to stay calm in water",
+      "Winning medals",
+      "Meeting famous people",
+      "Wearing a uniform"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who can use the pool at the weekend?",
+     "options": [
+      "Only teachers",
+      "Only children under ten",
+      "Nobody",
+      "Families"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Charity Concert",
+   "script": "Next Saturday our class is organising a benefit concert for the animal shelter. Every pupil can sing, play or dance. The benefit of a concert is that people have fun and help animals at the same time. Tickets cost two dollars, and all the money goes to the shelter. I am nervous, but I know I will benefit from performing in front of an audience. Please come and bring your family. I promise you will not regret it.",
+   "questions": [
+    {
+     "question": "Who will get the money?",
+     "options": [
+      "The school",
+      "The teachers",
+      "The animal shelter",
+      "A hospital"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How much is a ticket?",
+     "options": [
+      "One dollar",
+      "Two dollars",
+      "Five dollars",
+      "Ten dollars"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the speaker hope to gain?",
+     "options": [
+      "Experience of performing",
+      "A prize",
+      "A trip",
+      "New clothes"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Exercise has many benefits.",
+    "We benefit from the lessons.",
+    "It is of benefit to all."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Health",
+    "question_text": "What are the benefits of eating fruit and vegetables?",
+    "hint_words": [
+     "healthy",
+     "energy",
+     "strong",
+     "vitamins"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "How do you benefit from learning English?",
+    "hint_words": [
+     "travel",
+     "films",
+     "jobs",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Community",
+    "question_text": "What could a town build for the benefit of children?",
+    "hint_words": [
+     "park",
+     "library",
+     "pool",
+     "playground"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,6602 @@
+[
+ {
+  "order": 1,
+  "title": "present simple vs present continuous (review)",
+  "title_uz": "Present Simple va Present Continuous",
+  "rule_uz": "Present Simple odat, doimiy holat va jadval haqida gapirganda ishlatiladi: He plays football every Sunday. Present Continuous hozir, aynan shu payt yoki vaqtinchalik davom etayotgan ish uchun ishlatiladi: He is playing football now. Present Continuous am/is/are + fe'l-ing bilan yasaladi. Always, usually, every day kabi so'zlar Present Simple bilan, now, at the moment, today kabi so'zlar Present Continuous bilan keladi.",
+  "forms": [
+   "I / you / we / they + play (odat)",
+   "He / she / it + plays (odat)",
+   "am / is / are + playing (hozir)",
+   "every day, usually -> Simple; now, at the moment -> Continuous"
+  ],
+  "examples": [
+   {
+    "en": "My dad usually drives to work, but today he is taking the bus.",
+    "uz": "Dadam odatda ishga mashinada boradi, lekin bugun avtobusda ketyapti."
+   },
+   {
+    "en": "Look! The children are playing in the yard.",
+    "uz": "Qarang! Bolalar hovlida o'ynashyapti."
+   },
+   {
+    "en": "Our school starts at eight o'clock.",
+    "uz": "Maktabimiz soat sakkizda boshlanadi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I am go to school every day.",
+    "right": "I go to school every day.",
+    "note_uz": "Odat uchun Present Simple ishlatiladi, am bilan emas."
+   },
+   {
+    "wrong": "She watches TV now.",
+    "right": "She is watching TV now.",
+    "note_uz": "Now so'zi bilan Present Continuous kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "My sister ___ her homework every evening.",
+    "correct_word": "does",
+    "options": [
+     "is doing",
+     "does",
+     "do",
+     "doing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be quiet! The baby ___.",
+    "correct_word": "is sleeping",
+    "options": [
+     "is sleeping",
+     "sleeps",
+     "sleep",
+     "sleeping"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ in Tashkent, but this week we are visiting Samarkand.",
+    "correct_word": "live",
+    "options": [
+     "are living",
+     "lives",
+     "living",
+     "live"
+    ]
+   },
+   {
+    "sentence_with_blank": "Where is Dilnoza? She ___ a shower at the moment.",
+    "correct_word": "is taking",
+    "options": [
+     "takes",
+     "take",
+     "is taking",
+     "taking"
+    ]
+   },
+   {
+    "sentence_with_blank": "Water ___ at 100 degrees Celsius.",
+    "correct_word": "boils",
+    "options": [
+     "is boiling",
+     "boils",
+     "boil",
+     "boiling"
+    ]
+   },
+   {
+    "sentence_with_blank": "Usually Ali walks to school, but today he ___ a bike because it is raining.",
+    "correct_word": "is riding",
+    "options": [
+     "is riding",
+     "rides",
+     "ride",
+     "riding"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 2,
+  "title": "stative verbs (know, like, want, belong)",
+  "title_uz": "Holat fe'llari",
+  "rule_uz": "Ba'zi fe'llar ish-harakatni emas, holatni bildiradi: know, like, love, want, need, belong, understand, believe, prefer. Ularni odatda Continuous zamonda ishlatmaymiz, hatto hozir haqida gapirsak ham. Masalan, \"I am knowing\" demaymiz, \"I know\" deymiz. Ba'zi fe'llar (have, think) ma'noga qarab ikkala zamonda ham keladi: I have a bike (egalik) va I am having lunch (ovqatlanish).",
+  "forms": [
+   "I / you / we / they + know / like / want",
+   "He / she / it + knows / likes / wants",
+   "NOT: am / is / are + knowing / liking / wanting",
+   "have (egalik) = Simple; have (lunch) = Continuous mumkin"
+  ],
+  "examples": [
+   {
+    "en": "I don't understand this question.",
+    "uz": "Men bu savolni tushunmayapman."
+   },
+   {
+    "en": "This laptop belongs to my brother.",
+    "uz": "Bu noutbuk akamga tegishli."
+   },
+   {
+    "en": "She wants a new bag for school.",
+    "uz": "U maktab uchun yangi sumka xohlaydi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I am wanting an ice cream.",
+    "right": "I want an ice cream.",
+    "note_uz": "Want holat fe'li, Continuous bo'lmaydi."
+   },
+   {
+    "wrong": "He is knowing the answer.",
+    "right": "He knows the answer.",
+    "note_uz": "Know Continuous'da ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ this song. It's my favourite!",
+    "correct_word": "love",
+    "options": [
+     "am loving",
+     "loves",
+     "love",
+     "loving"
+    ]
+   },
+   {
+    "sentence_with_blank": "Does this pen ___ to you?",
+    "correct_word": "belong",
+    "options": [
+     "belongs",
+     "belong",
+     "be belonging",
+     "belonging"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sorry, I ___ what you mean.",
+    "correct_word": "don't understand",
+    "options": [
+     "don't understand",
+     "am not understanding",
+     "doesn't understand",
+     "not understand"
+    ]
+   },
+   {
+    "sentence_with_blank": "Right now we ___ a pizza in the kitchen.",
+    "correct_word": "are making",
+    "options": [
+     "make",
+     "makes",
+     "are knowing",
+     "are making"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin ___ a very big house.",
+    "correct_word": "has",
+    "options": [
+     "is having",
+     "have",
+     "has",
+     "having"
+    ]
+   },
+   {
+    "sentence_with_blank": "Listen! Nigora ___ to the teacher, so she can't talk now.",
+    "correct_word": "is listening",
+    "options": [
+     "listens",
+     "is listening",
+     "listen",
+     "knows"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 3,
+  "title": "past simple vs past continuous (review)",
+  "title_uz": "Past Simple va Past Continuous",
+  "rule_uz": "Past Simple tugagan ish uchun ishlatiladi: I watched a film. Past Continuous o'tmishda biror payt davom etayotgan ish uchun ishlatiladi: At 8 o'clock I was watching a film. Past Continuous was/were + fe'l-ing bilan yasaladi. Ko'pincha uzoq davom etgan ish (Continuous) ustiga qisqa voqea (Simple) kirib keladi: I was watching TV when the phone rang. While bilan odatda Continuous, when bilan qisqa voqea keladi.",
+  "forms": [
+   "I / he / she / it + was + playing",
+   "you / we / they + were + playing",
+   "uzoq ish: was / were + -ing",
+   "qisqa voqea: played, rang, came"
+  ],
+  "examples": [
+   {
+    "en": "I was reading a book when my friend called.",
+    "uz": "Do'stim qo'ng'iroq qilganda men kitob o'qiyotgan edim."
+   },
+   {
+    "en": "While we were having lunch, it started to rain.",
+    "uz": "Biz tushlik qilayotganimizda yomg'ir yog'a boshladi."
+   },
+   {
+    "en": "They were playing chess at seven o'clock.",
+    "uz": "Soat yettida ular shaxmat o'ynashayotgan edi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I watched TV when she arrived.",
+    "right": "I was watching TV when she arrived.",
+    "note_uz": "Uzoq davom etgan ish Past Continuous'da bo'ladi."
+   },
+   {
+    "wrong": "While I walked home, I met Bobur.",
+    "right": "While I was walking home, I met Bobur.",
+    "note_uz": "While bilan odatda Past Continuous keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "At nine last night, we ___ a film.",
+    "correct_word": "were watching",
+    "options": [
+     "watched",
+     "was watching",
+     "watch",
+     "were watching"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ my keys yesterday morning.",
+    "correct_word": "lost",
+    "options": [
+     "was losing",
+     "were losing",
+     "lost",
+     "losing"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ in the garden when it began to rain.",
+    "correct_word": "was working",
+    "options": [
+     "worked",
+     "was working",
+     "were working",
+     "works"
+    ]
+   },
+   {
+    "sentence_with_blank": "While Sardor ___ football, he hurt his knee.",
+    "correct_word": "was playing",
+    "options": [
+     "was playing",
+     "played",
+     "were playing",
+     "plays"
+    ]
+   },
+   {
+    "sentence_with_blank": "The phone ___ while we were eating dinner.",
+    "correct_word": "rang",
+    "options": [
+     "was ringing",
+     "were ringing",
+     "rings",
+     "rang"
+    ]
+   },
+   {
+    "sentence_with_blank": "What ___ you doing at eight o'clock yesterday evening?",
+    "correct_word": "were",
+    "options": [
+     "did",
+     "was",
+     "were",
+     "have"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 4,
+  "title": "used to",
+  "title_uz": "Used to (avvallari shunday qilardim)",
+  "rule_uz": "Used to o'tmishda takrorlanib turgan odat yoki endi mavjud bo'lmagan holat haqida gapirish uchun ishlatiladi. Shakli: used to + fe'lning asosiy shakli: I used to play outside. Inkor va savolda did bilan use to yoziladi (d yo'q): I didn't use to like fish. Did you use to live here? Used to faqat o'tmish uchun, hozirgi zamon shakli yo'q.",
+  "forms": [
+   "I / you / he / she / we / they + used to + play",
+   "I / you / he ... + didn't use to + play",
+   "Did + I / you / he ... + use to + play?",
+   "hozir emas, avval: used to"
+  ],
+  "examples": [
+   {
+    "en": "I used to be afraid of dogs when I was little.",
+    "uz": "Kichikligimda itlardan qo'rqardim."
+   },
+   {
+    "en": "We used to live in a small village.",
+    "uz": "Biz avval kichik qishloqda yashardik."
+   },
+   {
+    "en": "Did you use to collect stickers?",
+    "uz": "Sen stikerlar yig'ardingmi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I didn't used to like tea.",
+    "right": "I didn't use to like tea.",
+    "note_uz": "Did/didn't dan keyin use to (d siz) yoziladi."
+   },
+   {
+    "wrong": "She use to play the piano.",
+    "right": "She used to play the piano.",
+    "note_uz": "Darak gapda used to deb yoziladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "When I was five, I ___ to sleep with a toy bear.",
+    "correct_word": "used",
+    "options": [
+     "used",
+     "use",
+     "was used",
+     "am used"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandfather ___ to ride a horse to school.",
+    "correct_word": "used",
+    "options": [
+     "was using",
+     "uses",
+     "use",
+     "used"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ to have a TV, so we listened to the radio.",
+    "correct_word": "didn't use",
+    "options": [
+     "didn't used",
+     "not used",
+     "didn't use",
+     "don't use"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ you use to walk to school when you were younger?",
+    "correct_word": "Did",
+    "options": [
+     "Do",
+     "Did",
+     "Were",
+     "Used"
+    ]
+   },
+   {
+    "sentence_with_blank": "There ___ to be a cinema here, but now it is a shop.",
+    "correct_word": "used",
+    "options": [
+     "used",
+     "use",
+     "was used",
+     "is used"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ eat vegetables, but now I love them.",
+    "correct_word": "didn't use to",
+    "options": [
+     "don't use to",
+     "didn't used to",
+     "wasn't use to",
+     "didn't use to"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 5,
+  "title": "present perfect vs past simple",
+  "title_uz": "Present Perfect va Past Simple",
+  "rule_uz": "Present Perfect (have/has + V3) o'tmishdagi ish hozirga aloqador bo'lganda yoki qachon bo'lgani muhim bo'lmaganda ishlatiladi: I have lost my phone (hozir yo'q). Past Simple aniq o'tgan vaqt bilan ishlatiladi: I lost my phone yesterday. Yesterday, last week, in 2020, two days ago kabi so'zlar bilan Present Perfect ishlatilmaydi. Ever, never, just, already, yet, for, since Present Perfect bilan keladi.",
+  "forms": [
+   "have / has + played (hozirga aloqador)",
+   "played, went (aniq o'tgan vaqt)",
+   "yesterday, ago, last year -> Past Simple",
+   "ever, never, already, yet -> Present Perfect"
+  ],
+  "examples": [
+   {
+    "en": "I have visited Samarkand twice.",
+    "uz": "Men Samarqandga ikki marta borganman."
+   },
+   {
+    "en": "We visited Samarkand last summer.",
+    "uz": "Biz o'tgan yozda Samarqandga bordik."
+   },
+   {
+    "en": "She has just finished her homework.",
+    "uz": "U hozirgina uy vazifasini tugatdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have seen him yesterday.",
+    "right": "I saw him yesterday.",
+    "note_uz": "Yesterday bilan Past Simple kerak."
+   },
+   {
+    "wrong": "Did you ever eat sushi?",
+    "right": "Have you ever eaten sushi?",
+    "note_uz": "Hayotiy tajriba haqida Present Perfect ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ my homework yesterday evening.",
+    "correct_word": "did",
+    "options": [
+     "have done",
+     "did",
+     "has done",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has never ___ a horse.",
+    "correct_word": "ridden",
+    "options": [
+     "ridden",
+     "rode",
+     "ride",
+     "riding"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ to the zoo two weeks ago.",
+    "correct_word": "went",
+    "options": [
+     "have gone",
+     "have been going",
+     "go",
+     "went"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look! Dilshod ___ his arm.",
+    "correct_word": "has broken",
+    "options": [
+     "broke",
+     "break",
+     "has broken",
+     "was breaking"
+    ]
+   },
+   {
+    "sentence_with_blank": "Have you ever ___ a famous person?",
+    "correct_word": "met",
+    "options": [
+     "meet",
+     "met",
+     "meeting",
+     "did meet"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle ___ in London in 2015, but now he lives in Tashkent.",
+    "correct_word": "lived",
+    "options": [
+     "lived",
+     "has lived",
+     "have lived",
+     "lives"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 6,
+  "title": "present perfect continuous",
+  "title_uz": "Present Perfect Continuous",
+  "rule_uz": "Present Perfect Continuous o'tmishda boshlangan va hozir ham davom etayotgan ish haqida, yoki hozirgina tugagan va natijasi ko'rinib turgan ish haqida gapirganda ishlatiladi. Shakli: have/has + been + fe'l-ing: I have been waiting for an hour. For (davomiylik) va since (boshlanish vaqti) bilan tez-tez keladi. How long...? savoli ham shu zamonda beriladi: How long have you been learning English?",
+  "forms": [
+   "I / you / we / they + have been + playing",
+   "He / she / it + has been + playing",
+   "for two hours, since 9 o'clock",
+   "How long + have / has + subject + been + -ing?"
+  ],
+  "examples": [
+   {
+    "en": "I have been studying English for three years.",
+    "uz": "Men uch yildan beri ingliz tilini o'rganyapman."
+   },
+   {
+    "en": "It has been raining since morning.",
+    "uz": "Ertalabdan beri yomg'ir yog'yapti."
+   },
+   {
+    "en": "Why are you tired? Have you been running?",
+    "uz": "Nega charchagansan? Yugurdingmi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I am waiting here since two hours.",
+    "right": "I have been waiting here for two hours.",
+    "note_uz": "Davomiylik uchun have been + -ing va for ishlatiladi."
+   },
+   {
+    "wrong": "She has been play tennis since 5.",
+    "right": "She has been playing tennis since 5.",
+    "note_uz": "Been dan keyin fe'l -ing shaklida bo'ladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ been reading this book for a week.",
+    "correct_word": "have",
+    "options": [
+     "am",
+     "has",
+     "have",
+     "was"
+    ]
+   },
+   {
+    "sentence_with_blank": "Aziza ___ been learning the violin since she was six.",
+    "correct_word": "has",
+    "options": [
+     "have",
+     "has",
+     "is",
+     "had"
+    ]
+   },
+   {
+    "sentence_with_blank": "How long ___ you been waiting for the bus?",
+    "correct_word": "have",
+    "options": [
+     "have",
+     "has",
+     "are",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "They have been ___ football since lunchtime.",
+    "correct_word": "playing",
+    "options": [
+     "played",
+     "play",
+     "plays",
+     "playing"
+    ]
+   },
+   {
+    "sentence_with_blank": "My hands are dirty because I ___ in the garden.",
+    "correct_word": "have been working",
+    "options": [
+     "worked",
+     "am working",
+     "have been working",
+     "work"
+    ]
+   },
+   {
+    "sentence_with_blank": "It ___ snowing for two days, and the roads are white.",
+    "correct_word": "has been",
+    "options": [
+     "have been",
+     "has been",
+     "is been",
+     "was being"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 7,
+  "title": "present perfect continuous vs present perfect simple",
+  "title_uz": "Perfect Continuous va Perfect Simple",
+  "rule_uz": "Present Perfect Continuous ishning o'zi va davomiyligiga e'tibor beradi: I have been painting all day. Present Perfect Simple esa natijaga yoki necha marta/qancha bo'lganiga e'tibor beradi: I have painted three pictures. Soni yoki natijasi bor bo'lsa Simple, \"qancha vaqt\" va jarayon bo'lsa Continuous qulay. Stative fe'llar (know, have, like) har doim Simple bo'ladi: I have known him for years.",
+  "forms": [
+   "have / has + been + -ing (jarayon, davomiylik)",
+   "have / has + V3 (natija, son)",
+   "How long...? -> been + -ing",
+   "How many...? -> V3"
+  ],
+  "examples": [
+   {
+    "en": "I have been reading all afternoon.",
+    "uz": "Men tushdan beri o'qiyapman."
+   },
+   {
+    "en": "I have read three chapters today.",
+    "uz": "Men bugun uch bob o'qidim."
+   },
+   {
+    "en": "We have known each other for five years.",
+    "uz": "Biz bir-birimizni besh yildan beri bilamiz."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have been knowing her for a year.",
+    "right": "I have known her for a year.",
+    "note_uz": "Know holat fe'li, Continuous bo'lmaydi."
+   },
+   {
+    "wrong": "How many books have you been reading this month?",
+    "right": "How many books have you read this month?",
+    "note_uz": "Son so'ralganda Simple ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "She is out of breath because she ___ .",
+    "correct_word": "has been running",
+    "options": [
+     "has run three",
+     "runs",
+     "ran",
+     "has been running"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ ten emails this morning.",
+    "correct_word": "have written",
+    "options": [
+     "have been writing",
+     "am writing",
+     "have written",
+     "has written"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom ___ his bike for an hour, and it still doesn't work.",
+    "correct_word": "has been fixing",
+    "options": [
+     "has fixed",
+     "has been fixing",
+     "fixes",
+     "fix"
+    ]
+   },
+   {
+    "sentence_with_blank": "How many photos ___ you taken today?",
+    "correct_word": "have",
+    "options": [
+     "have",
+     "have been",
+     "did",
+     "are"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ each other since primary school.",
+    "correct_word": "have known",
+    "options": [
+     "have been knowing",
+     "know",
+     "are knowing",
+     "have known"
+    ]
+   },
+   {
+    "sentence_with_blank": "How long ___ the children been playing video games?",
+    "correct_word": "have",
+    "options": [
+     "has",
+     "did",
+     "have",
+     "are"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 8,
+  "title": "past perfect simple",
+  "title_uz": "Past Perfect",
+  "rule_uz": "Past Perfect o'tmishdagi biror payt yoki voqeadan oldin sodir bo'lgan ishni bildiradi. Shakli: had + V3 (barcha shaxslar uchun bir xil): She had finished before I arrived. Inkori: hadn't + V3. Savol: Had + subject + V3? Ko'pincha before, after, by the time, already, just bilan keladi. Ikki ish haqida gapirganda, avval bo'lgani Past Perfect, keyin bo'lgani Past Simple bo'ladi.",
+  "forms": [
+   "I / you / he / she / we / they + had + finished",
+   "... + hadn't + finished",
+   "Had + subject + finished?",
+   "avval: had + V3; keyin: Past Simple"
+  ],
+  "examples": [
+   {
+    "en": "When I got to the station, the train had already left.",
+    "uz": "Bekatga yetib borganimda poyezd allaqachon ketib bo'lgan edi."
+   },
+   {
+    "en": "She hadn't eaten breakfast, so she was hungry.",
+    "uz": "U nonushta qilmagan edi, shuning uchun och edi."
+   },
+   {
+    "en": "Had you seen that film before?",
+    "uz": "Sen bu filmni avval ko'rganmiding?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "When we arrived, the film already started.",
+    "right": "When we arrived, the film had already started.",
+    "note_uz": "Avval bo'lgan ish had + V3 bilan aytiladi."
+   },
+   {
+    "wrong": "He had went home before dinner.",
+    "right": "He had gone home before dinner.",
+    "note_uz": "Had dan keyin V3 (gone) keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "When I called Ali, he ___ already left.",
+    "correct_word": "had",
+    "options": [
+     "had",
+     "has",
+     "was",
+     "have"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was sad because she ___ her phone.",
+    "correct_word": "had lost",
+    "options": [
+     "has lost",
+     "loses",
+     "was losing",
+     "had lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ the lesson before the bell rang.",
+    "correct_word": "had finished",
+    "options": [
+     "have finished",
+     "finishing",
+     "had finished",
+     "finish"
+    ]
+   },
+   {
+    "sentence_with_blank": "I didn't know the answer because I ___ the lesson.",
+    "correct_word": "hadn't studied",
+    "options": [
+     "haven't studied",
+     "hadn't studied",
+     "didn't studied",
+     "wasn't studying"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ you ever been to Turkey before you moved there?",
+    "correct_word": "Had",
+    "options": [
+     "Had",
+     "Have",
+     "Did",
+     "Were"
+    ]
+   },
+   {
+    "sentence_with_blank": "By the time we reached the cinema, the film ___ .",
+    "correct_word": "had started",
+    "options": [
+     "has started",
+     "was started",
+     "starts",
+     "had started"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 9,
+  "title": "past perfect vs past simple in stories",
+  "title_uz": "Past Perfect va Past Simple (hikoyada)",
+  "rule_uz": "Hikoya aytganda voqealarni ketma-ket bo'lgan tartibda Past Simple bilan aytamiz: He opened the door and walked in. Agar biror narsa hikoyadagi asosiy voqeadan oldin bo'lgan bo'lsa, uni Past Perfect bilan aytamiz: He walked in because someone had left the door open. After bilan ikkalasi ham mumkin, lekin Past Perfect \"oldin bo'lganini\" aniq ko'rsatadi. Bir-biriga ulangan ketma-ket ishlar uchun hamma joyda Past Perfect kerak emas.",
+  "forms": [
+   "asosiy voqealar: Past Simple (opened, walked)",
+   "oldingi voqea: had + V3 (had left)",
+   "After + had + V3, ... Past Simple",
+   "Past Simple + because + had + V3"
+  ],
+  "examples": [
+   {
+    "en": "I was late because I had missed the bus.",
+    "uz": "Men kechikdim, chunki avtobusdan qolib ketgan edim."
+   },
+   {
+    "en": "After he had eaten, he went out to play.",
+    "uz": "U ovqatlanib bo'lgach, o'ynashga chiqdi."
+   },
+   {
+    "en": "The ground was wet. It had rained all night.",
+    "uz": "Yer nam edi. Tun bo'yi yomg'ir yog'gan edi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He was happy because he won the game.",
+    "right": "He was happy because he had won the game.",
+    "note_uz": "Avval bo'lgan sabab Past Perfect'da aytiladi."
+   },
+   {
+    "wrong": "I had opened the door and had come in.",
+    "right": "I opened the door and came in.",
+    "note_uz": "Ketma-ket oddiy ishlar Past Simple'da aytiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ my bag and ran to school.",
+    "correct_word": "grabbed",
+    "options": [
+     "had grabbed",
+     "grabbed",
+     "grab",
+     "was grabbing"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher was angry because we ___ our homework.",
+    "correct_word": "hadn't done",
+    "options": [
+     "hadn't done",
+     "didn't done",
+     "haven't done",
+     "don't do"
+    ]
+   },
+   {
+    "sentence_with_blank": "When I ___ home, my mum had cooked dinner.",
+    "correct_word": "got",
+    "options": [
+     "had got",
+     "get",
+     "was getting",
+     "got"
+    ]
+   },
+   {
+    "sentence_with_blank": "She felt tired in class because she ___ very little the night before.",
+    "correct_word": "had slept",
+    "options": [
+     "sleeps",
+     "has slept",
+     "had slept",
+     "slept"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the film ___ , we went for ice cream.",
+    "correct_word": "had finished",
+    "options": [
+     "finish",
+     "had finished",
+     "has finished",
+     "finishing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Kamola ___ the door, and the room was empty. Everyone had left.",
+    "correct_word": "opened",
+    "options": [
+     "opened",
+     "had opened",
+     "opens",
+     "has opened"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 10,
+  "title": "future forms review (will / going to / present continuous)",
+  "title_uz": "Kelasi zamon shakllari",
+  "rule_uz": "Will bilan tez qabul qilingan qaror, va'da va taxmin aytiladi: I'll help you. Going to oldindan rejalashtirilgan niyat yoki hozirgi belgilarga qarab bo'ladigan voqea uchun ishlatiladi: I'm going to learn chess. Present Continuous aniq kelishilgan reja uchun ishlatiladi, odatda vaqti ham aytiladi: I'm meeting Ali at five. Jadval (poyezd, dars) uchun Present Simple ham ishlatiladi.",
+  "forms": [
+   "will + fe'l (qaror, va'da, taxmin)",
+   "am / is / are + going to + fe'l (reja, belgi)",
+   "am / is / are + -ing (kelishilgan reja)",
+   "Present Simple (jadval): The bus leaves at 6."
+  ],
+  "examples": [
+   {
+    "en": "It's cold. I'll close the window.",
+    "uz": "Sovuq ekan. Derazani yopaman."
+   },
+   {
+    "en": "Look at those clouds! It's going to rain.",
+    "uz": "Anavi bulutlarga qarang! Yomg'ir yog'adi."
+   },
+   {
+    "en": "I'm playing tennis with Bekzod on Friday at four.",
+    "uz": "Juma kuni soat to'rtda Bekzod bilan tennis o'ynayman."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Look! That boy will fall off his bike.",
+    "right": "Look! That boy is going to fall off his bike.",
+    "note_uz": "Hozir ko'rinib turgan belgiga qarab going to ishlatiladi."
+   },
+   {
+    "wrong": "I will meet my teacher tomorrow at nine (we agreed).",
+    "right": "I am meeting my teacher tomorrow at nine.",
+    "note_uz": "Kelishilgan reja uchun Present Continuous yaxshiroq."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "A: The phone is ringing. B: I ___ it!",
+    "correct_word": "'ll answer",
+    "options": [
+     "am answering",
+     "am going to answer",
+     "'ll answer",
+     "answer"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ to the cinema on Saturday. I've already bought the tickets.",
+    "correct_word": "are going",
+    "options": [
+     "will go",
+     "are going",
+     "go to",
+     "shall to go"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful! You ___ spill the juice.",
+    "correct_word": "are going to",
+    "options": [
+     "are going to",
+     "will to",
+     "are",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "I think robots ___ do many jobs in the future.",
+    "correct_word": "will",
+    "options": [
+     "are going",
+     "are",
+     "do",
+     "will"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin ___ a new bike next month. She has saved the money.",
+    "correct_word": "is going to buy",
+    "options": [
+     "buys",
+     "bought",
+     "is going to buy",
+     "will buying"
+    ]
+   },
+   {
+    "sentence_with_blank": "The film ___ at 7.30 tonight.",
+    "correct_word": "starts",
+    "options": [
+     "is going",
+     "starts",
+     "will to start",
+     "is start"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 11,
+  "title": "future time clauses (when, as soon as, before, until + present)",
+  "title_uz": "Kelasi zamon vaqt gaplari",
+  "rule_uz": "Kelajak haqida gapirsak ham, when, as soon as, before, after, until, while so'zlaridan keyin will ishlatmaymiz. Ularning ichida Present Simple ishlatiladi. Asosiy gapda esa will keladi: I will call you when I arrive (when I will arrive emas). Until \"...gacha\" degan ma'noni beradi: Wait here until I come back. Agar ish tugaganligini ta'kidlamoqchi bo'lsak, Present Perfect ham mumkin.",
+  "forms": [
+   "when / as soon as + Present Simple, ... will + fe'l",
+   "before / after / until + Present Simple",
+   "I will call you when I arrive.",
+   "NOT: when I will arrive"
+  ],
+  "examples": [
+   {
+    "en": "I will text you as soon as I get home.",
+    "uz": "Uyga yetib borishim bilan senga yozaman."
+   },
+   {
+    "en": "We'll wait until the rain stops.",
+    "uz": "Yomg'ir to'xtaguncha kutamiz."
+   },
+   {
+    "en": "Wash your hands before you eat.",
+    "uz": "Ovqatlanishdan oldin qo'llaringni yuv."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "When I will see him, I'll tell him.",
+    "right": "When I see him, I'll tell him.",
+    "note_uz": "When dan keyin will ishlatilmaydi."
+   },
+   {
+    "wrong": "I'll stay here until you will come.",
+    "right": "I'll stay here until you come.",
+    "note_uz": "Until dan keyin Present Simple kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I'll call you when I ___ the airport.",
+    "correct_word": "reach",
+    "options": [
+     "will reach",
+     "am reaching",
+     "reached",
+     "reach"
+    ]
+   },
+   {
+    "sentence_with_blank": "She will be happy as soon as she ___ the results.",
+    "correct_word": "sees",
+    "options": [
+     "will see",
+     "is seeing",
+     "sees",
+     "saw"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't open the box until your birthday ___ .",
+    "correct_word": "comes",
+    "options": [
+     "will come",
+     "comes",
+     "is coming",
+     "came"
+    ]
+   },
+   {
+    "sentence_with_blank": "We will pack lunch before we ___ the house.",
+    "correct_word": "leave",
+    "options": [
+     "leave",
+     "will leave",
+     "would leave",
+     "leaving"
+    ]
+   },
+   {
+    "sentence_with_blank": "I will help you with the project after I ___ my dinner.",
+    "correct_word": "have finished",
+    "options": [
+     "will finish",
+     "am finishing",
+     "would finish",
+     "have finished"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please wait here ___ the teacher comes back.",
+    "correct_word": "until",
+    "options": [
+     "while will",
+     "when will",
+     "until",
+     "unless"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 12,
+  "title": "will vs going to (contrast)",
+  "title_uz": "Will va going to farqi",
+  "rule_uz": "Will va going to ikkalasi ham kelajak uchun, lekin ma'nosi farq qiladi. Gap gapirilayotgan paytda qaror qilsak, will ishlatamiz: Oh, no money! I'll ask my dad. Gapirishdan oldin qaror qilgan bo'lsak, going to ishlatamiz: I'm going to ask my dad tomorrow. Hozirgi belgiga asoslangan bashorat uchun going to, shaxsiy fikr yoki taxmin uchun (I think, probably) will ishlatiladi. Va'da va taklif uchun will keladi.",
+  "forms": [
+   "will: payt-payti bilan qaror, va'da, fikr",
+   "going to: oldindan reja",
+   "going to: ko'rinib turgan belgi",
+   "I think ... will / probably will"
+  ],
+  "examples": [
+   {
+    "en": "I haven't got a pen. I'll borrow yours.",
+    "uz": "Qalamim yo'q ekan. Seniki'ni olib turaman."
+   },
+   {
+    "en": "I'm going to borrow a pen from Ali. I've already asked him.",
+    "uz": "Alidan qalam olmoqchiman. Uni allaqachon so'raganman."
+   },
+   {
+    "en": "I think our team will win tomorrow.",
+    "uz": "Menimcha, jamoamiz ertaga g'alaba qozonadi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Look at the sky! It will rain.",
+    "right": "Look at the sky! It is going to rain.",
+    "note_uz": "Ko'rinib turgan belgi bo'lsa going to ishlatiladi."
+   },
+   {
+    "wrong": "I'm going to help you with that bag. (just decided)",
+    "right": "I'll help you with that bag.",
+    "note_uz": "Shu zahoti qaror qilsak will ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "A: I'm thirsty. B: I ___ you a glass of water.",
+    "correct_word": "'ll get",
+    "options": [
+     "'ll get",
+     "am going to get",
+     "get",
+     "am getting"
+    ]
+   },
+   {
+    "sentence_with_blank": "I've decided! I ___ a doctor when I grow up.",
+    "correct_word": "am going to be",
+    "options": [
+     "will be",
+     "be",
+     "am",
+     "am going to be"
+    ]
+   },
+   {
+    "sentence_with_blank": "Watch out! The cup ___ fall.",
+    "correct_word": "is going to",
+    "options": [
+     "will not",
+     "does",
+     "is going to",
+     "is"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm sure you ___ enjoy the zoo. It's great.",
+    "correct_word": "will",
+    "options": [
+     "are going",
+     "will",
+     "are",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has bought paint, so she ___ paint her room this weekend.",
+    "correct_word": "is going to",
+    "options": [
+     "is going to",
+     "will",
+     "paints",
+     "may to"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't worry, I promise I ___ tell anyone your secret.",
+    "correct_word": "won't",
+    "options": [
+     "am not going",
+     "don't",
+     "didn't",
+     "won't"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 13,
+  "title": "first conditional and unless",
+  "title_uz": "Birinchi shart gap va unless",
+  "rule_uz": "Birinchi shart gap kelajakda bo'lishi mumkin bo'lgan holat va uning natijasi haqida gapiradi. Shakli: If + Present Simple, will + fe'l: If it rains, we will stay at home. If'dan keyin will ishlatilmaydi. Unless \"agar ... bo'lmasa\" degan ma'noni beradi va if ... not bilan bir xil: Unless you hurry, you will be late = If you don't hurry, you will be late. Unless'dan keyin inkor shakl ishlatilmaydi.",
+  "forms": [
+   "If + Present Simple, will + fe'l",
+   "will + fe'l + if + Present Simple",
+   "Unless = if ... not",
+   "Unless + darak shakl (inkor emas)"
+  ],
+  "examples": [
+   {
+    "en": "If you study hard, you will pass the test.",
+    "uz": "Agar qattiq o'qisang, testdan o'tasan."
+   },
+   {
+    "en": "We will go to the park if the weather is nice.",
+    "uz": "Ob-havo yaxshi bo'lsa, parkka boramiz."
+   },
+   {
+    "en": "Unless we leave now, we'll miss the bus.",
+    "uz": "Hozir chiqmasak, avtobusga kech qolamiz."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "If it will rain, we will stay home.",
+    "right": "If it rains, we will stay home.",
+    "note_uz": "If dan keyin will ishlatilmaydi."
+   },
+   {
+    "wrong": "Unless you don't hurry, you will be late.",
+    "right": "Unless you hurry, you will be late.",
+    "note_uz": "Unless o'zi inkor ma'noli, yana not kerak emas."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "If I see Malika, I ___ her your message.",
+    "correct_word": "will give",
+    "options": [
+     "give",
+     "will give",
+     "would give",
+     "gave"
+    ]
+   },
+   {
+    "sentence_with_blank": "If she ___ the bus, she will be late for school.",
+    "correct_word": "misses",
+    "options": [
+     "misses",
+     "will miss",
+     "missed",
+     "is missing"
+    ]
+   },
+   {
+    "sentence_with_blank": "You will be cold ___ you wear a jacket.",
+    "correct_word": "unless",
+    "options": [
+     "if",
+     "when will",
+     "until not",
+     "unless"
+    ]
+   },
+   {
+    "sentence_with_blank": "If you don't water the plants, they ___ .",
+    "correct_word": "will die",
+    "options": [
+     "would die",
+     "died",
+     "will die",
+     "die will"
+    ]
+   },
+   {
+    "sentence_with_blank": "We won't go to the beach ___ the weather gets better.",
+    "correct_word": "unless",
+    "options": [
+     "if",
+     "unless",
+     "when not",
+     "although"
+    ]
+   },
+   {
+    "sentence_with_blank": "Unless Farhod ___ harder, he won't win the race.",
+    "correct_word": "trains",
+    "options": [
+     "trains",
+     "doesn't train",
+     "will train",
+     "trained"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 14,
+  "title": "second conditional",
+  "title_uz": "Ikkinchi shart gap",
+  "rule_uz": "Ikkinchi shart gap hozirgi yoki kelajakdagi xayoliy, haqiqatga to'g'ri kelmaydigan yoki ehtimoli kam holatlar haqida gapiradi. Shakli: If + Past Simple, would + fe'l: If I had a dog, I would walk it every day. If'dan keyin would ishlatilmaydi. If gapida to be uchun hamma shaxsga were ishlatsa bo'ladi: If I were you, I would study more. Bu shakl maslahat berishda ham ishlatiladi.",
+  "forms": [
+   "If + Past Simple, would + fe'l",
+   "would + fe'l + if + Past Simple",
+   "If I / he / she / it were ...",
+   "If I were you, I would ..."
+  ],
+  "examples": [
+   {
+    "en": "If I had a lot of money, I would buy a big house.",
+    "uz": "Agar ko'p pulim bo'lsa, katta uy sotib olardim."
+   },
+   {
+    "en": "If he were taller, he would play basketball.",
+    "uz": "Agar u balandroq bo'lganida, basketbol o'ynardi."
+   },
+   {
+    "en": "What would you do if you saw a ghost?",
+    "uz": "Agar arvohni ko'rsang nima qilarding?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "If I would have a car, I would drive to school.",
+    "right": "If I had a car, I would drive to school.",
+    "note_uz": "If gapida would emas, Past Simple ishlatiladi."
+   },
+   {
+    "wrong": "If I am you, I would say sorry.",
+    "right": "If I were you, I would say sorry.",
+    "note_uz": "Xayoliy holatda were ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "If I ___ a bird, I would fly over the mountains.",
+    "correct_word": "were",
+    "options": [
+     "am",
+     "would be",
+     "were",
+     "will be"
+    ]
+   },
+   {
+    "sentence_with_blank": "She would travel the world if she ___ more time.",
+    "correct_word": "had",
+    "options": [
+     "has",
+     "had",
+     "would have",
+     "will have"
+    ]
+   },
+   {
+    "sentence_with_blank": "If we lived near the sea, we ___ swim every day.",
+    "correct_word": "would",
+    "options": [
+     "would",
+     "will",
+     "are",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "If I ___ you, I would ask the teacher for help.",
+    "correct_word": "were",
+    "options": [
+     "am",
+     "would be",
+     "was being",
+     "were"
+    ]
+   },
+   {
+    "sentence_with_blank": "What ___ you do if you lost your phone?",
+    "correct_word": "would",
+    "options": [
+     "will",
+     "did",
+     "would",
+     "are"
+    ]
+   },
+   {
+    "sentence_with_blank": "If it ___ so cold today, we would play outside.",
+    "correct_word": "weren't",
+    "options": [
+     "isn't",
+     "weren't",
+     "wouldn't be",
+     "won't be"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 15,
+  "title": "first vs second conditional",
+  "title_uz": "Birinchi va ikkinchi shart gap farqi",
+  "rule_uz": "Birinchi shart gap real, bo'lishi mumkin bo'lgan holat uchun: If I finish early, I will call you (balki tugataman). Ikkinchi shart gap xayoliy yoki deyarli bo'lmaydigan holat uchun: If I finished early, I would call you (lekin ehtimol tugatmayman). Birinchisida If + Present Simple, will; ikkinchisida If + Past Simple, would ishlatiladi. Gap o'tmishdagi emas, Past Simple faqat shakl, ma'no hozirgi yoki kelajak haqida.",
+  "forms": [
+   "real: If + Present Simple, will + fe'l",
+   "xayoliy: If + Past Simple, would + fe'l",
+   "If I win (mumkin) / If I won (ehtimol kam)",
+   "If I were a bird, I would fly. (mumkin emas)"
+  ],
+  "examples": [
+   {
+    "en": "If I find your pen, I will give it to you.",
+    "uz": "Qalamingni topsam, senga beraman."
+   },
+   {
+    "en": "If I found a pot of gold, I would share it with you.",
+    "uz": "Agar oltin solingan idish topsam, u bilan sen bilan baham ko'rardim."
+   },
+   {
+    "en": "If we have time tomorrow, we will visit the museum.",
+    "uz": "Ertaga vaqtimiz bo'lsa, muzeyga boramiz."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "If I will see him tomorrow, I tell him.",
+    "right": "If I see him tomorrow, I will tell him.",
+    "note_uz": "Real holatda If + Present Simple, will + fe'l."
+   },
+   {
+    "wrong": "If I have wings, I will fly to Paris.",
+    "right": "If I had wings, I would fly to Paris.",
+    "note_uz": "Mumkin bo'lmagan holatda ikkinchi shart gap ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "If it is sunny tomorrow, we ___ a picnic.",
+    "correct_word": "will have",
+    "options": [
+     "would have",
+     "had",
+     "have will",
+     "will have"
+    ]
+   },
+   {
+    "sentence_with_blank": "If I were the president, I ___ more parks.",
+    "correct_word": "would build",
+    "options": [
+     "will build",
+     "build",
+     "would build",
+     "built"
+    ]
+   },
+   {
+    "sentence_with_blank": "If you ___ the ticket today, you will get a discount.",
+    "correct_word": "buy",
+    "options": [
+     "bought",
+     "buy",
+     "would buy",
+     "will buy"
+    ]
+   },
+   {
+    "sentence_with_blank": "If dogs could talk, they ___ us many stories.",
+    "correct_word": "would tell",
+    "options": [
+     "would tell",
+     "will tell",
+     "tell",
+     "told"
+    ]
+   },
+   {
+    "sentence_with_blank": "Hurry up! If we don't run, we ___ the train.",
+    "correct_word": "will miss",
+    "options": [
+     "would miss",
+     "missed",
+     "miss will",
+     "will miss"
+    ]
+   },
+   {
+    "sentence_with_blank": "If I ___ a magic wand, I would make homework disappear.",
+    "correct_word": "had",
+    "options": [
+     "have",
+     "would have",
+     "had",
+     "will have"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 16,
+  "title": "must / have to / need to",
+  "title_uz": "Must / have to / need to",
+  "rule_uz": "Must va have to \"kerak, majbur\" degan ma'noni beradi. Must odatda gapiruvchining shaxsiy fikri: I must study (men shunday deb hisoblayman). Have to tashqi qoidalar yoki holat sabab: I have to wear a uniform. Need to \"kerak, zarur\" degan ma'noni bildiradi. Inkorda farq katta: mustn't \"mumkin emas, taqiqlangan\", don't have to / don't need to esa \"shart emas\" degani. Have to o'tmishda had to bo'ladi, must'ning o'tmishi yo'q.",
+  "forms": [
+   "must + fe'l (shaxsiy fikr)",
+   "have / has to + fe'l (qoida, holat)",
+   "need to + fe'l",
+   "mustn't = taqiqlangan; don't have to = shart emas"
+  ],
+  "examples": [
+   {
+    "en": "I have to wear a uniform at school.",
+    "uz": "Men maktabda forma kiyishim kerak."
+   },
+   {
+    "en": "You mustn't run near the pool.",
+    "uz": "Basseyn yonida yugurish mumkin emas."
+   },
+   {
+    "en": "You don't have to come early. The lesson starts at ten.",
+    "uz": "Erta kelishing shart emas. Dars o'nda boshlanadi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "You mustn't bring a pen. We have pens here.",
+    "right": "You don't have to bring a pen. We have pens here.",
+    "note_uz": "Shart emas ma'nosi uchun don't have to ishlatiladi."
+   },
+   {
+    "wrong": "She must to go to the dentist.",
+    "right": "She has to go to the dentist.",
+    "note_uz": "Must'dan keyin to ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "It's a rule: we ___ wear helmets when we ride bikes.",
+    "correct_word": "have to",
+    "options": [
+     "have to",
+     "mustn't to",
+     "are have to",
+     "has to"
+    ]
+   },
+   {
+    "sentence_with_blank": "You ___ touch that wire! It's dangerous.",
+    "correct_word": "mustn't",
+    "options": [
+     "don't have to",
+     "needn't to",
+     "don't must",
+     "mustn't"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tomorrow is Sunday, so I ___ get up early.",
+    "correct_word": "don't have to",
+    "options": [
+     "mustn't",
+     "haven't to",
+     "don't have to",
+     "must not to"
+    ]
+   },
+   {
+    "sentence_with_blank": "Yesterday we ___ stay in because of the rain.",
+    "correct_word": "had to",
+    "options": [
+     "must",
+     "had to",
+     "have to",
+     "musted"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ her glasses to read; she can't see well.",
+    "correct_word": "needs to wear",
+    "options": [
+     "needs to wear",
+     "needs wear",
+     "need to wearing",
+     "must to wear"
+    ]
+   },
+   {
+    "sentence_with_blank": "Does he ___ wear a tie at his school?",
+    "correct_word": "have to",
+    "options": [
+     "has to",
+     "must to",
+     "need",
+     "have to"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 17,
+  "title": "can / could / be able to",
+  "title_uz": "Can / could / be able to",
+  "rule_uz": "Can hozirgi qobiliyatni bildiradi: I can swim. Could o'tmishdagi umumiy qobiliyat uchun: When I was six, I could ride a bike. Be able to ham \"qila olmoq\" degani, lekin barcha zamonlarda ishlatiladi: I will be able to drive next year; I haven't been able to call him. O'tmishda bir marta muvaffaqiyatli bajarilgan aniq ish uchun was/were able to ishlatiladi (could emas): I was able to finish the test yesterday.",
+  "forms": [
+   "can / can't + fe'l (hozir)",
+   "could / couldn't + fe'l (o'tmish, umumiy)",
+   "am / is / are / was / were / will be able to",
+   "will can emas -> will be able to"
+  ],
+  "examples": [
+   {
+    "en": "My little brother can already read.",
+    "uz": "Ukam hozirdan o'qiy oladi."
+   },
+   {
+    "en": "When I was five, I couldn't swim.",
+    "uz": "Besh yoshligimda suza olmasdim."
+   },
+   {
+    "en": "After a lot of practice, I was able to play the song.",
+    "uz": "Ko'p mashq qilgach, qo'shiqni chala oldim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I will can help you tomorrow.",
+    "right": "I will be able to help you tomorrow.",
+    "note_uz": "Will bilan can emas, be able to ishlatiladi."
+   },
+   {
+    "wrong": "Yesterday the firefighters could save the cat.",
+    "right": "Yesterday the firefighters were able to save the cat.",
+    "note_uz": "Bir martalik muvaffaqiyat uchun was/were able to."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Birds ___ fly, but penguins can't.",
+    "correct_word": "can",
+    "options": [
+     "are able",
+     "can",
+     "could to",
+     "able to"
+    ]
+   },
+   {
+    "sentence_with_blank": "When he was young, my grandfather ___ run very fast.",
+    "correct_word": "could",
+    "options": [
+     "could",
+     "can",
+     "will be able to",
+     "is able to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm sorry, I ___ come to your party next week. I'll be away.",
+    "correct_word": "won't be able to",
+    "options": [
+     "can't to",
+     "won't can",
+     "couldn't to",
+     "won't be able to"
+    ]
+   },
+   {
+    "sentence_with_blank": "She hasn't ___ to find her keys yet.",
+    "correct_word": "been able",
+    "options": [
+     "can",
+     "could",
+     "been able",
+     "be able"
+    ]
+   },
+   {
+    "sentence_with_blank": "The test was hard, but I ___ to answer every question.",
+    "correct_word": "was able",
+    "options": [
+     "could",
+     "was able",
+     "can",
+     "am able"
+    ]
+   },
+   {
+    "sentence_with_blank": "By next summer, you ___ speak English well.",
+    "correct_word": "will be able to",
+    "options": [
+     "will be able to",
+     "will can",
+     "are able",
+     "could to"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 18,
+  "title": "should / ought to / had better",
+  "title_uz": "Should / ought to / had better",
+  "rule_uz": "Should va ought to maslahat berish uchun ishlatiladi: You should drink more water. Ikkalasining ma'nosi deyarli bir xil, faqat ought to dan keyin to keladi. Had better kuchliroq maslahat yoki ogohlantirish: agar qilmasang, yomon narsa bo'lishi mumkin: You had better hurry, or you will miss the bus. Had better'dan keyin to yo'q. Inkori: shouldn't, ought not to, had better not.",
+  "forms": [
+   "should / shouldn't + fe'l",
+   "ought to / ought not to + fe'l",
+   "had better (not) + fe'l (to siz)",
+   "had better = 'd better"
+  ],
+  "examples": [
+   {
+    "en": "You should go to bed earlier.",
+    "uz": "Sen ertaroq yotishing kerak."
+   },
+   {
+    "en": "We ought to help our grandparents.",
+    "uz": "Biz buvi-bobolarimizga yordam berishimiz kerak."
+   },
+   {
+    "en": "You'd better take an umbrella. It's cloudy.",
+    "uz": "Soyabon olganing ma'qul. Osmon bulutli."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "You should to eat more fruit.",
+    "right": "You should eat more fruit.",
+    "note_uz": "Should dan keyin to ishlatilmaydi."
+   },
+   {
+    "wrong": "You had better to leave now.",
+    "right": "You had better leave now.",
+    "note_uz": "Had better dan keyin to yo'q."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "You look tired. You ___ rest.",
+    "correct_word": "should",
+    "options": [
+     "ought",
+     "had better to",
+     "should",
+     "must to"
+    ]
+   },
+   {
+    "sentence_with_blank": "You ___ eat so many sweets. They are bad for your teeth.",
+    "correct_word": "shouldn't",
+    "options": [
+     "ought not",
+     "shouldn't",
+     "had not better",
+     "don't should"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ought ___ our teacher about the problem.",
+    "correct_word": "to tell",
+    "options": [
+     "to tell",
+     "tell",
+     "telling",
+     "told"
+    ]
+   },
+   {
+    "sentence_with_blank": "You had ___ do your homework now, or you won't finish it.",
+    "correct_word": "better",
+    "options": [
+     "best",
+     "good",
+     "rather to",
+     "better"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's very late. You ___ go home now.",
+    "correct_word": "had better",
+    "options": [
+     "had better to",
+     "should to",
+     "had better",
+     "ought"
+    ]
+   },
+   {
+    "sentence_with_blank": "I think she ___ say sorry to her friend.",
+    "correct_word": "ought to",
+    "options": [
+     "ought",
+     "ought to",
+     "had better to",
+     "shoulds"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 19,
+  "title": "deduction: must / can't / might (present)",
+  "title_uz": "Taxmin: must / can't / might",
+  "rule_uz": "Biror narsaga ishonchimiz komil bo'lsa, taxmin qilish uchun must, can't va might ishlatamiz. Must \"albatta shunday\" (deyarli aniq): He must be tired. Can't \"bo'lishi mumkin emas\" (deyarli aniq inkor): That can't be his bag, it's too big. Might / may / could \"balki\" (ishonchimiz kam): She might be at home. Hammasidan keyin fe'lning asosiy shakli keladi. Mustn't bu yerda ishlatilmaydi, can't ishlatiladi.",
+  "forms": [
+   "must be (aniq shunday)",
+   "can't be (aniq shunday emas)",
+   "might / may / could be (balki)",
+   "modal + be / have / go (to siz)"
+  ],
+  "examples": [
+   {
+    "en": "Aziz has a lot of homework, so he must be busy.",
+    "uz": "Azizda uy vazifasi ko'p, demak u band bo'lsa kerak."
+   },
+   {
+    "en": "That can't be Sara. She is in Tashkent.",
+    "uz": "Bu Sara bo'lishi mumkin emas. U Toshkentda."
+   },
+   {
+    "en": "The lights are off. They might be asleep.",
+    "uz": "Chiroqlar o'chiq. Ular uxlab qolgan bo'lishi mumkin."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He mustn't be at home. The lights are on.",
+    "right": "He can't be at home. The lights are off.",
+    "note_uz": "Deduksiyada inkor uchun can't ishlatiladi, mustn't emas."
+   },
+   {
+    "wrong": "She must to be tired.",
+    "right": "She must be tired.",
+    "note_uz": "Must dan keyin to yo'q."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "She has been running for an hour. She ___ be tired.",
+    "correct_word": "must",
+    "options": [
+     "can't",
+     "might not to",
+     "mustn't",
+     "must"
+    ]
+   },
+   {
+    "sentence_with_blank": "It ___ be Jasur at the door. He is on holiday abroad.",
+    "correct_word": "can't",
+    "options": [
+     "must",
+     "mustn't",
+     "can't",
+     "might to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm not sure, but the shop ___ be open on Sundays.",
+    "correct_word": "might",
+    "options": [
+     "must",
+     "might",
+     "can't",
+     "should to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The baby is crying. He ___ be hungry.",
+    "correct_word": "must",
+    "options": [
+     "must",
+     "can't",
+     "mustn't",
+     "is"
+    ]
+   },
+   {
+    "sentence_with_blank": "That ___ be true! You are joking.",
+    "correct_word": "can't",
+    "options": [
+     "must",
+     "might to",
+     "mustn't",
+     "can't"
+    ]
+   },
+   {
+    "sentence_with_blank": "Where's my phone? It ___ be in my bag, or it could be on the table.",
+    "correct_word": "might",
+    "options": [
+     "can't",
+     "mustn't",
+     "might",
+     "must to"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 20,
+  "title": "passive: present simple",
+  "title_uz": "Majhul daraja: Present Simple",
+  "rule_uz": "Majhul darajada ishni kim bajarishi muhim emas yoki noma'lum bo'ladi, asosiy narsa ishning o'zi. Present Simple Passive: am / is / are + V3. English is spoken in many countries. Ishni bajaruvchini ko'rsatish kerak bo'lsa, by ishlatiladi: This book is written by a famous author. Inkor: isn't / aren't + V3. Savol: Is / Are + object + V3?",
+  "forms": [
+   "am / is / are + V3 (made, spoken, sold)",
+   "am / is / are + not + V3",
+   "Is / Are + subject + V3?",
+   "... by + bajaruvchi"
+  ],
+  "examples": [
+   {
+    "en": "Rice is grown in warm countries.",
+    "uz": "Guruch iliq mamlakatlarda yetishtiriladi."
+   },
+   {
+    "en": "Our classroom is cleaned every day.",
+    "uz": "Sinfimiz har kuni tozalanadi."
+   },
+   {
+    "en": "Are these cakes made at home?",
+    "uz": "Bu pirojniylar uyda tayyorlanadimi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "English speaks in many countries.",
+    "right": "English is spoken in many countries.",
+    "note_uz": "Ish sub'ektga qaratilgani uchun is + V3 kerak."
+   },
+   {
+    "wrong": "The cars is washed every week.",
+    "right": "The cars are washed every week.",
+    "note_uz": "Ko'plik bo'lgani uchun are kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Milk ___ in the fridge.",
+    "correct_word": "is kept",
+    "options": [
+     "is kept",
+     "keeps",
+     "are kept",
+     "is keeping"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many phones ___ in China.",
+    "correct_word": "are made",
+    "options": [
+     "make",
+     "is made",
+     "are making",
+     "are made"
+    ]
+   },
+   {
+    "sentence_with_blank": "Football ___ all over the world.",
+    "correct_word": "is played",
+    "options": [
+     "plays",
+     "are played",
+     "is played",
+     "is playing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our school newspaper ___ once a month.",
+    "correct_word": "is published",
+    "options": [
+     "publishes",
+     "is published",
+     "are published",
+     "is publishing"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ the shops closed on Sundays in your town?",
+    "correct_word": "Are",
+    "options": [
+     "Are",
+     "Do",
+     "Is",
+     "Does"
+    ]
+   },
+   {
+    "sentence_with_blank": "The homework ___ by the teacher every Friday.",
+    "correct_word": "is checked",
+    "options": [
+     "checks",
+     "are checked",
+     "is checking",
+     "is checked"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 21,
+  "title": "passive: past simple",
+  "title_uz": "Majhul daraja: Past Simple",
+  "rule_uz": "Past Simple Passive o'tmishda bo'lgan ishni, uni kim bajarganidan ko'ra ishning o'ziga e'tibor qaratib aytish uchun ishlatiladi. Shakli: was / were + V3. The window was broken yesterday. Ko'plikda were ishlatiladi: The windows were broken. Inkor: wasn't / weren't + V3. Savol: Was / Were + object + V3? Bajaruvchini ko'rsatish kerak bo'lsa, by qo'shamiz: The song was written by my uncle.",
+  "forms": [
+   "I / he / she / it + was + V3",
+   "you / we / they + were + V3",
+   "wasn't / weren't + V3",
+   "Was / Were + subject + V3?"
+  ],
+  "examples": [
+   {
+    "en": "The museum was built in 1990.",
+    "uz": "Muzey 1990-yilda qurilgan."
+   },
+   {
+    "en": "These pictures were painted by children.",
+    "uz": "Bu rasmlarni bolalar chizgan."
+   },
+   {
+    "en": "Was the window broken by the storm?",
+    "uz": "Deraza bo'ron tufayli sindimi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The letter was wrote yesterday.",
+    "right": "The letter was written yesterday.",
+    "note_uz": "Was dan keyin V3 (written) kerak."
+   },
+   {
+    "wrong": "The cakes was eaten.",
+    "right": "The cakes were eaten.",
+    "note_uz": "Ko'plik bo'lgani uchun were kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The Eiffel Tower ___ in 1889.",
+    "correct_word": "was built",
+    "options": [
+     "built",
+     "was built",
+     "were built",
+     "is built"
+    ]
+   },
+   {
+    "sentence_with_blank": "My bike ___ last night.",
+    "correct_word": "was stolen",
+    "options": [
+     "was stolen",
+     "stole",
+     "were stolen",
+     "is stolen"
+    ]
+   },
+   {
+    "sentence_with_blank": "The cookies ___ by my grandmother.",
+    "correct_word": "were baked",
+    "options": [
+     "was baked",
+     "baked",
+     "are baked",
+     "were baked"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ you invited to the party last week?",
+    "correct_word": "Were",
+    "options": [
+     "Was",
+     "Did",
+     "Were",
+     "Are"
+    ]
+   },
+   {
+    "sentence_with_blank": "This photo ___ taken by my sister two years ago.",
+    "correct_word": "was",
+    "options": [
+     "were",
+     "was",
+     "is",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "The lights ___ turned off when we arrived, so we couldn't see anything.",
+    "correct_word": "weren't",
+    "options": [
+     "weren't",
+     "wasn't",
+     "didn't",
+     "aren't"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 22,
+  "title": "passive with modals and future",
+  "title_uz": "Modal va kelasi zamon majhul darajasi",
+  "rule_uz": "Modal fe'llar bilan majhul daraja: modal + be + V3. The rules must be followed. Homework can be sent online. Kelasi zamonda: will + be + V3: The new park will be opened next year. Going to bilan: is / are going to be + V3. Inkor: mustn't be, can't be, won't be + V3. Bu yerda be o'zgarmaydi, chunki modal fe'ldan keyin doim asosiy shakl keladi.",
+  "forms": [
+   "modal + be + V3 (can be done)",
+   "will + be + V3 (will be finished)",
+   "am / is / are going to be + V3",
+   "won't / can't / mustn't + be + V3"
+  ],
+  "examples": [
+   {
+    "en": "Your phone can be charged here.",
+    "uz": "Telefoningni shu yerda zaryadlash mumkin."
+   },
+   {
+    "en": "The new bridge will be opened next month.",
+    "uz": "Yangi ko'prik kelasi oy ochiladi."
+   },
+   {
+    "en": "Litter must not be left on the beach.",
+    "uz": "Plyajda chiqindi qoldirilmasligi kerak."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The room will cleaned tomorrow.",
+    "right": "The room will be cleaned tomorrow.",
+    "note_uz": "Will dan keyin be + V3 kerak."
+   },
+   {
+    "wrong": "Rules must followed.",
+    "right": "Rules must be followed.",
+    "note_uz": "Modal + be + V3 shakli ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The tickets can ___ bought online.",
+    "correct_word": "be",
+    "options": [
+     "been",
+     "being",
+     "be",
+     "is"
+    ]
+   },
+   {
+    "sentence_with_blank": "The results ___ announced on Monday.",
+    "correct_word": "will be",
+    "options": [
+     "will",
+     "will be",
+     "are will",
+     "would"
+    ]
+   },
+   {
+    "sentence_with_blank": "This homework must ___ finished by Friday.",
+    "correct_word": "be",
+    "options": [
+     "be",
+     "is",
+     "been",
+     "being"
+    ]
+   },
+   {
+    "sentence_with_blank": "A new shopping centre is going to ___ built in our town.",
+    "correct_word": "be",
+    "options": [
+     "been",
+     "is",
+     "being",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "Old batteries should ___ thrown away in the rubbish bin.",
+    "correct_word": "not be",
+    "options": [
+     "not been",
+     "not being",
+     "not be",
+     "don't be"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't worry about the lost bag. It ___ found soon.",
+    "correct_word": "will be",
+    "options": [
+     "will be",
+     "will",
+     "is will",
+     "would"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 23,
+  "title": "reported speech: statements",
+  "title_uz": "Ko'chirma gap: darak gaplar",
+  "rule_uz": "Birovning gapini boshqaga aytib berganda reported speech ishlatamiz. Odatda said that yoki told him/her that deymiz, that ni tushirib qoldirish ham mumkin. Gap o'tgan zamonda boshlansa, fe'l bir zamon orqaga suriladi: am/is - was, play - played, will - would, can - could. Olmoshlar va payt so'zlari ham o'zgaradi: I - he/she, today - that day, tomorrow - the next day. Told dan keyin odam keladi (told me), said dan keyin kelmaydi.",
+  "forms": [
+   "\"I like pizza.\" - She said (that) she liked pizza.",
+   "\"I am busy.\" - He said he was busy.",
+   "\"I will call you.\" - She told me she would call me.",
+   "say + that / tell + person + that"
+  ],
+  "examples": [
+   {
+    "en": "Ben said, \"I have a new phone.\"  Ben said that he had a new phone.",
+    "uz": "Ben \"Menda yangi telefon bor\" dedi. Ben yangi telefoni borligini aytdi."
+   },
+   {
+    "en": "Our teacher said that we could use dictionaries.",
+    "uz": "O'qituvchimiz lug'at ishlatsak bo'ladi dedi."
+   },
+   {
+    "en": "Mum told me that she would pick me up at five.",
+    "uz": "Onam meni soat beshda olib ketishini aytdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He said me that he was tired.",
+    "right": "He told me that he was tired.",
+    "note_uz": "Said dan keyin odam kelmaydi, told me deymiz."
+   },
+   {
+    "wrong": "She said that she is hungry. (yesterday)",
+    "right": "She said that she was hungry.",
+    "note_uz": "Said o'tgan zamonda bo'lsa, fe'l ham bir zamon orqaga suriladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Tom said, \"I am tired.\" -> Tom said that he ___ tired.",
+    "correct_word": "was",
+    "options": [
+     "is",
+     "be",
+     "were",
+     "was"
+    ]
+   },
+   {
+    "sentence_with_blank": "Anna said, \"I like cats.\" -> Anna said that she ___ cats.",
+    "correct_word": "liked",
+    "options": [
+     "liked",
+     "likes",
+     "is liking",
+     "will like"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy told ___ that he was lost.",
+    "correct_word": "me",
+    "options": [
+     "to me",
+     "me",
+     "that me",
+     "I"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sara said, \"I will help you.\" -> Sara said that she ___ help me.",
+    "correct_word": "would",
+    "options": [
+     "will",
+     "can",
+     "would",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "Ali said, \"We are playing chess.\" -> Ali said that they ___ chess.",
+    "correct_word": "were playing",
+    "options": [
+     "are playing",
+     "play",
+     "have played",
+     "were playing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad said, \"I have finished my work.\" -> Dad said that he ___ his work.",
+    "correct_word": "had finished",
+    "options": [
+     "had finished",
+     "has finished",
+     "is finishing",
+     "finishes"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 24,
+  "title": "reported speech: questions",
+  "title_uz": "Ko'chirma gap: so'roq gaplar",
+  "rule_uz": "Birovning savolini aytib berganda asked yoki wanted to know ishlatamiz. Savol so'z tartibi oddiy gapga aylanadi: ega fe'ldan oldin keladi, do/does/did kerak emas, savol belgisi qo'yilmaydi. Who, where, why kabi so'roq so'zlar saqlanadi. Ha/yo'q savollarida if yoki whether qo'shamiz. Zamon bir qadam orqaga suriladi: \"Do you like tea?\" - She asked if I liked tea.",
+  "forms": [
+   "\"Where do you live?\" - He asked where I lived.",
+   "\"Are you tired?\" - She asked if I was tired.",
+   "asked + wh-word + subject + verb",
+   "asked + if / whether + subject + verb"
+  ],
+  "examples": [
+   {
+    "en": "\"Why are you late?\"  The teacher asked why I was late.",
+    "uz": "\"Nega kech qoldingiz?\" O'qituvchi nega kech qolganimni so'radi."
+   },
+   {
+    "en": "My friend asked if I had a bike.",
+    "uz": "Do'stim mening velosipedim bor-yo'qligini so'radi."
+   },
+   {
+    "en": "Mum asked me what time the film started.",
+    "uz": "Onam filmning soat nechada boshlanishini so'radi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She asked where did I live.",
+    "right": "She asked where I lived.",
+    "note_uz": "Reported savolda do/did ishlatilmaydi, so'z tartibi oddiy gapdagidek."
+   },
+   {
+    "wrong": "He asked me do I like tea.",
+    "right": "He asked me if I liked tea.",
+    "note_uz": "Ha/yo'q savolida if yoki whether kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "\"Where do you live?\" -> He asked me where I ___.",
+    "correct_word": "lived",
+    "options": [
+     "lived",
+     "live",
+     "did live",
+     "do live"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Are you hungry?\" -> She asked me ___ I was hungry.",
+    "correct_word": "if",
+    "options": [
+     "what",
+     "if",
+     "that",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"What is your name?\" -> The man asked what my name ___.",
+    "correct_word": "was",
+    "options": [
+     "is",
+     "were",
+     "was",
+     "did be"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Do you play football?\" -> Tim asked me whether I ___ football.",
+    "correct_word": "played",
+    "options": [
+     "did play",
+     "play",
+     "do play",
+     "played"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Where did you go?\" -> Mum asked me where I ___.",
+    "correct_word": "had gone",
+    "options": [
+     "had gone",
+     "did go",
+     "have gone",
+     "go"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Why is he crying?\" -> I asked why he ___.",
+    "correct_word": "was crying",
+    "options": [
+     "is crying",
+     "was crying",
+     "did cry",
+     "cries"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 25,
+  "title": "reported commands and requests (tell, ask)",
+  "title_uz": "Ko'chirma gap: buyruq va iltimos",
+  "rule_uz": "Buyruq yoki iltimosni aytib berganda tell yoki ask + odam + to + fe'l ishlatamiz. Tell buyruq uchun, ask iltimos uchun ko'proq ishlatiladi. Inkor bo'lsa not to qo'yamiz: told me not to run. Bu yerda zamon surilmaydi, chunki to dan keyin fe'lning asosiy shakli keladi.",
+  "forms": [
+   "\"Sit down.\" - He told me to sit down.",
+   "\"Please help me.\" - She asked me to help her.",
+   "\"Don't run!\" - Dad told us not to run.",
+   "tell / ask + person + (not) to + verb"
+  ],
+  "examples": [
+   {
+    "en": "The teacher told us to open our books.",
+    "uz": "O'qituvchi bizga kitoblarimizni ochishni aytdi."
+   },
+   {
+    "en": "I asked my sister to turn off the music.",
+    "uz": "Men opamdan musiqani o'chirishni iltimos qildim."
+   },
+   {
+    "en": "Mum told Ali not to touch the oven.",
+    "uz": "Onam Aliga pechga tegmaslikni aytdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She told me close the door.",
+    "right": "She told me to close the door.",
+    "note_uz": "Tell + odam dan keyin to + fe'l keladi."
+   },
+   {
+    "wrong": "He asked me don't talk.",
+    "right": "He asked me not to talk.",
+    "note_uz": "Inkorda not to ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "\"Be quiet!\" -> The teacher told us ___ quiet.",
+    "correct_word": "to be",
+    "options": [
+     "be",
+     "to be",
+     "being",
+     "that be"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Please pass the salt.\" -> She asked me ___ the salt.",
+    "correct_word": "to pass",
+    "options": [
+     "pass",
+     "passing",
+     "to pass",
+     "that I pass"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Don't touch it!\" -> Dad told me ___ it.",
+    "correct_word": "not to touch",
+    "options": [
+     "to not touching",
+     "don't touch",
+     "not touch",
+     "not to touch"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Please wait here.\" -> The guide asked us ___ there.",
+    "correct_word": "to wait",
+    "options": [
+     "to wait",
+     "wait",
+     "waiting",
+     "we wait"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Do your homework.\" -> Mum ___ me to do my homework.",
+    "correct_word": "told",
+    "options": [
+     "said",
+     "told",
+     "spoke",
+     "talked"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Don't be late, Ali.\" -> The coach told Ali ___ late.",
+    "correct_word": "not to be",
+    "options": [
+     "to not being",
+     "don't be",
+     "not to be",
+     "not be"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 26,
+  "title": "relative clauses: who / which / that",
+  "title_uz": "Aniqlovchi ergash gap: who / which / that",
+  "rule_uz": "Relative clause odam yoki narsa haqida qo'shimcha aniq ma'lumot beradi. Odamlar uchun who yoki that, narsa va hayvonlar uchun which yoki that ishlatamiz. Bu so'z gapdagi ega bo'lib kelsa, uni tushirib bo'lmaydi: the girl who lives next door. Who/which dan keyin yana he, she, it qo'shilmaydi. Narsa uchun who ishlatmaymiz.",
+  "forms": [
+   "a person + who / that + verb",
+   "a thing + which / that + verb",
+   "The man who lives here is a doctor.",
+   "The book that I read was great."
+  ],
+  "examples": [
+   {
+    "en": "The boy who sits next to me is very funny.",
+    "uz": "Yonimda o'tiradigan bola juda kulgili."
+   },
+   {
+    "en": "I have a phone which takes great photos.",
+    "uz": "Mening ajoyib suratga oladigan telefonim bor."
+   },
+   {
+    "en": "This is the dog that barked at me yesterday.",
+    "uz": "Bu kecha menga huragan it."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The girl which sings is my cousin.",
+    "right": "The girl who sings is my cousin.",
+    "note_uz": "Odam uchun who ishlatiladi, which emas."
+   },
+   {
+    "wrong": "The man who he lives here is kind.",
+    "right": "The man who lives here is kind.",
+    "note_uz": "Who dan keyin he qo'shilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The woman ___ teaches us English is from London.",
+    "correct_word": "who",
+    "options": [
+     "which",
+     "where",
+     "who",
+     "whose"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like films ___ make me laugh.",
+    "correct_word": "which",
+    "options": [
+     "who",
+     "where",
+     "what",
+     "which"
+    ]
+   },
+   {
+    "sentence_with_blank": "A baker is a person ___ makes bread.",
+    "correct_word": "who",
+    "options": [
+     "who",
+     "which",
+     "what",
+     "whom he"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is the bag ___ I bought in Samarkand.",
+    "correct_word": "that",
+    "options": [
+     "who",
+     "that",
+     "where",
+     "whose"
+    ]
+   },
+   {
+    "sentence_with_blank": "The students ___ passed the test got a prize.",
+    "correct_word": "who",
+    "options": [
+     "which",
+     "what",
+     "who",
+     "they"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look at the robot ___ can dance and sing.",
+    "correct_word": "which",
+    "options": [
+     "who",
+     "where",
+     "he",
+     "which"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 27,
+  "title": "relative clauses: where / whose, non-defining basics",
+  "title_uz": "Where / whose va qo'shimcha izoh gaplar",
+  "rule_uz": "Where joy haqida gapirganda ishlatiladi: the town where I was born. Whose egalikni bildiradi va odam, hayvon yoki narsa nomidan keyin keladi: a boy whose bike is red. Non-defining clause qo'shimcha, lekin zarur bo'lmagan ma'lumot beradi va vergul bilan ajratiladi: My uncle, who lives in Tashkent, is a pilot. Bunday gaplarda that ishlatilmaydi, faqat who yoki which.",
+  "forms": [
+   "a place + where + subject + verb",
+   "a person + whose + noun",
+   "Tashkent, which is big, is my city.",
+   "My aunt, who is a nurse, ..."
+  ],
+  "examples": [
+   {
+    "en": "This is the park where we play football.",
+    "uz": "Bu biz futbol o'ynaydigan park."
+   },
+   {
+    "en": "I know a girl whose father is a pilot.",
+    "uz": "Men otasi uchuvchi bo'lgan bir qizni bilaman."
+   },
+   {
+    "en": "My grandfather, who is seventy, likes fishing.",
+    "uz": "Bobom yetmish yoshda, baliq ovlashni yaxshi ko'radi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "That is the boy who bike is new.",
+    "right": "That is the boy whose bike is new.",
+    "note_uz": "Egalikni bildirish uchun whose ishlatiladi."
+   },
+   {
+    "wrong": "My mother, that is a doctor, works hard.",
+    "right": "My mother, who is a doctor, works hard.",
+    "note_uz": "Vergulli izoh gapda that ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "This is the school ___ I study.",
+    "correct_word": "where",
+    "options": [
+     "whose",
+     "who",
+     "which",
+     "where"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has a friend ___ brother is a footballer.",
+    "correct_word": "whose",
+    "options": [
+     "whose",
+     "who",
+     "where",
+     "which"
+    ]
+   },
+   {
+    "sentence_with_blank": "Bukhara, ___ is a very old city, is famous for its markets.",
+    "correct_word": "which",
+    "options": [
+     "that",
+     "which",
+     "where",
+     "whose"
+    ]
+   },
+   {
+    "sentence_with_blank": "I remember the café ___ we first met.",
+    "correct_word": "where",
+    "options": [
+     "whose",
+     "who",
+     "where",
+     "that he"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our neighbour, ___ dog is very big, is very kind.",
+    "correct_word": "whose",
+    "options": [
+     "who",
+     "that",
+     "which",
+     "whose"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother, ___ plays the guitar, is in a band.",
+    "correct_word": "who",
+    "options": [
+     "who",
+     "that",
+     "whose",
+     "where"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 28,
+  "title": "articles: a / an / the / no article",
+  "title_uz": "Artikllar: a / an / the / artiklsiz",
+  "rule_uz": "A yoki an birinchi marta aytilgan yoki noaniq birlik narsa oldidan keladi: a dog. Unli tovush oldidan an ishlatiladi: an apple, an hour. The ikkala suhbatdosh biladigan yoki yagona narsa oldidan keladi: the sun, the book on the table. Umumiy ma'noda ko'plik va sanalmaydigan otlar oldida artikl qo'yilmaydi: I like music. Ovqat nomlari, tillar va ko'p mamlakatlar oldida ham artikl yo'q.",
+  "forms": [
+   "a + consonant sound: a car",
+   "an + vowel sound: an egg",
+   "the = specific or unique: the moon",
+   "no article: dogs, water, Uzbekistan"
+  ],
+  "examples": [
+   {
+    "en": "I saw a film yesterday. The film was funny.",
+    "uz": "Kecha film ko'rdim. Film kulgili edi."
+   },
+   {
+    "en": "She wants to be an engineer.",
+    "uz": "U muhandis bo'lishni xohlaydi."
+   },
+   {
+    "en": "Cats are my favourite animals.",
+    "uz": "Mushuklar mening sevimli hayvonlarim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have a umbrella.",
+    "right": "I have an umbrella.",
+    "note_uz": "Unli tovush oldidan an ishlatiladi."
+   },
+   {
+    "wrong": "I love the pizza. (in general)",
+    "right": "I love pizza.",
+    "note_uz": "Umumiy ma'noda artikl kerak emas."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I have ___ orange in my bag.",
+    "correct_word": "an",
+    "options": [
+     "an",
+     "a",
+     "the",
+     "some of"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is ___ teacher at my school.",
+    "correct_word": "a",
+    "options": [
+     "an",
+     "a",
+     "the",
+     "one the"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look at ___ moon! It is so bright tonight.",
+    "correct_word": "the",
+    "options": [
+     "a",
+     "an",
+     "the",
+     "no article"
+    ]
+   },
+   {
+    "sentence_with_blank": "My dad likes ___ tea.",
+    "correct_word": "no article",
+    "options": [
+     "a",
+     "an",
+     "the a",
+     "no article"
+    ]
+   },
+   {
+    "sentence_with_blank": "I would like ___ glass of water, please.",
+    "correct_word": "a",
+    "options": [
+     "a",
+     "an",
+     "the",
+     "no article"
+    ]
+   },
+   {
+    "sentence_with_blank": "It took us ___ hour to get home.",
+    "correct_word": "an",
+    "options": [
+     "a",
+     "an",
+     "the",
+     "one the"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 29,
+  "title": "quantifiers (some, any, no, every, all, both, neither)",
+  "title_uz": "Miqdor so'zlari",
+  "rule_uz": "Some darak gapda, any inkor va savol gaplarda ishlatiladi: I have some books. Do you have any? No \"yo'q\" ma'nosini beradi va fe'l darak shaklda qoladi: There is no milk. Every + birlik ot: every day. All + ko'plik yoki sanalmaydigan ot: all the students. Both ikki narsa uchun \"ikkalasi ham\", neither esa \"ikkalasi ham emas\" ma'nosida; neither bilan fe'l darak shaklda bo'ladi.",
+  "forms": [
+   "some / any + plural or uncountable",
+   "no + noun (positive verb)",
+   "every + singular noun",
+   "both / neither + two things"
+  ],
+  "examples": [
+   {
+    "en": "We have some apples, but we don't have any bananas.",
+    "uz": "Bizda ozgina olma bor, lekin banan yo'q."
+   },
+   {
+    "en": "Every student has a laptop.",
+    "uz": "Har bir o'quvchida noutbuk bor."
+   },
+   {
+    "en": "Both my brothers play chess, but neither of them likes football.",
+    "uz": "Ikkala akam ham shaxmat o'ynaydi, lekin ikkalasi ham futbolni yoqtirmaydi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I don't have no pens.",
+    "right": "I don't have any pens.",
+    "note_uz": "Inkorda any ishlatiladi, ikki marta inkor bo'lmaydi."
+   },
+   {
+    "wrong": "Every students are here.",
+    "right": "Every student is here.",
+    "note_uz": "Every dan keyin birlik ot va birlik fe'l keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "There are ___ eggs in the fridge.",
+    "correct_word": "some",
+    "options": [
+     "a",
+     "some",
+     "every",
+     "neither"
+    ]
+   },
+   {
+    "sentence_with_blank": "I haven't got ___ money with me.",
+    "correct_word": "any",
+    "options": [
+     "some",
+     "every",
+     "any",
+     "both"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is ___ water in the bottle. It is empty.",
+    "correct_word": "no",
+    "options": [
+     "any",
+     "some",
+     "every",
+     "no"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ child in our class likes drawing.",
+    "correct_word": "Every",
+    "options": [
+     "Every",
+     "All",
+     "Both",
+     "Some"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have two cousins. ___ of them live in Khiva.",
+    "correct_word": "Both",
+    "options": [
+     "Every",
+     "Both",
+     "Neither",
+     "All"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom and Sam are brothers, but ___ of them likes fish.",
+    "correct_word": "neither",
+    "options": [
+     "both",
+     "every",
+     "neither",
+     "any"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 30,
+  "title": "compound pronouns (something, anyone, nobody, everywhere)",
+  "title_uz": "Qo'shma olmoshlar",
+  "rule_uz": "Some-, any-, no-, every- so'zlarini -one/-body (odam), -thing (narsa) va -where (joy) bilan qo'shib hosil qilamiz. Something, someone, somewhere darak gapda keladi. Anything, anyone, anywhere inkor va savol gaplarda keladi. Nobody, nothing, nowhere inkor ma'nosini o'zi beradi, shuning uchun fe'l inkor bo'lmaydi. Everyone, everything, everywhere bilan fe'l birlik shaklida turadi.",
+  "forms": [
+   "something / someone / somewhere (positive)",
+   "anything / anyone / anywhere (negative, questions)",
+   "nothing / nobody / nowhere + positive verb",
+   "everyone / everything + singular verb"
+  ],
+  "examples": [
+   {
+    "en": "I heard something in the garden.",
+    "uz": "Men bog'da nimadir eshitdim."
+   },
+   {
+    "en": "Nobody knows the answer.",
+    "uz": "Hech kim javobni bilmaydi."
+   },
+   {
+    "en": "Everyone in our class likes the new teacher.",
+    "uz": "Sinfimizdagi hamma yangi o'qituvchini yaxshi ko'radi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I don't know nothing.",
+    "right": "I don't know anything.",
+    "note_uz": "Inkor gapda anything ishlatiladi."
+   },
+   {
+    "wrong": "Everyone are happy.",
+    "right": "Everyone is happy.",
+    "note_uz": "Everyone birlik fe'l bilan keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I'm thirsty. I want ___ to drink.",
+    "correct_word": "something",
+    "options": [
+     "anything",
+     "nothing",
+     "something",
+     "everywhere"
+    ]
+   },
+   {
+    "sentence_with_blank": "He didn't tell ___ about the surprise.",
+    "correct_word": "anyone",
+    "options": [
+     "someone",
+     "no one",
+     "everyone",
+     "anyone"
+    ]
+   },
+   {
+    "sentence_with_blank": "I can't find my keys ___.",
+    "correct_word": "anywhere",
+    "options": [
+     "anywhere",
+     "somewhere",
+     "nowhere",
+     "everywhere"
+    ]
+   },
+   {
+    "sentence_with_blank": "She said ___ and left the room quietly.",
+    "correct_word": "nothing",
+    "options": [
+     "anything",
+     "nothing",
+     "nobody",
+     "anywhere"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a secret, so ___ told us about it.",
+    "correct_word": "nobody",
+    "options": [
+     "anybody",
+     "somebody",
+     "nobody",
+     "everywhere"
+    ]
+   },
+   {
+    "sentence_with_blank": "There isn't ___ at home. Let's go to the shop.",
+    "correct_word": "anything",
+    "options": [
+     "nothing",
+     "something",
+     "everything",
+     "anything"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 31,
+  "title": "gerunds and infinitives: verbs followed by -ing or to",
+  "title_uz": "Gerund va infinitiv",
+  "rule_uz": "Ba'zi fe'llardan keyin fe'lning -ing shakli keladi: enjoy, finish, mind, keep, suggest: I enjoy swimming. Boshqalaridan keyin to + fe'l keladi: want, hope, decide, plan, learn, need: I want to go. Like, love, hate, start ikkalasi bilan ham ishlatiladi. Bu qoidani yodlash kerak, chunki har bir fe'l o'z qolipini talab qiladi. Predlogdan keyin ham -ing shakli keladi: good at drawing.",
+  "forms": [
+   "enjoy / finish / keep / mind + -ing",
+   "want / decide / hope / plan + to + verb",
+   "like / love / start + -ing or to",
+   "preposition + -ing"
+  ],
+  "examples": [
+   {
+    "en": "I enjoy reading comics after school.",
+    "uz": "Men maktabdan keyin komikslar o'qishni yaxshi ko'raman."
+   },
+   {
+    "en": "We decided to visit the zoo on Sunday.",
+    "uz": "Yakshanba kuni hayvonot bog'iga borishga qaror qildik."
+   },
+   {
+    "en": "She is good at drawing animals.",
+    "uz": "U hayvonlarning rasmini chizishda yaxshi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I enjoy to play chess.",
+    "right": "I enjoy playing chess.",
+    "note_uz": "Enjoy dan keyin -ing shakli keladi."
+   },
+   {
+    "wrong": "He wants going home.",
+    "right": "He wants to go home.",
+    "note_uz": "Want dan keyin to + fe'l keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I enjoy ___ football with my friends.",
+    "correct_word": "playing",
+    "options": [
+     "to play",
+     "play",
+     "played",
+     "playing"
+    ]
+   },
+   {
+    "sentence_with_blank": "We want ___ a new game tonight.",
+    "correct_word": "to try",
+    "options": [
+     "to try",
+     "trying",
+     "try",
+     "tried"
+    ]
+   },
+   {
+    "sentence_with_blank": "She finished ___ her homework at six.",
+    "correct_word": "doing",
+    "options": [
+     "to do",
+     "doing",
+     "do",
+     "done"
+    ]
+   },
+   {
+    "sentence_with_blank": "My parents decided ___ a new house.",
+    "correct_word": "to buy",
+    "options": [
+     "buying",
+     "buy",
+     "to buy",
+     "bought"
+    ]
+   },
+   {
+    "sentence_with_blank": "Are you interested in ___ a robot?",
+    "correct_word": "building",
+    "options": [
+     "to build",
+     "build",
+     "built",
+     "building"
+    ]
+   },
+   {
+    "sentence_with_blank": "He hopes ___ a prize in the competition.",
+    "correct_word": "to win",
+    "options": [
+     "to win",
+     "winning",
+     "win",
+     "won"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 32,
+  "title": "stop / remember / try + -ing or to",
+  "title_uz": "Stop / remember / try: -ing yoki to",
+  "rule_uz": "Ba'zi fe'llar -ing yoki to bilan kelganda ma'nosi o'zgaradi. Stop + -ing: ishni to'xtatish; stop + to: biror ish uchun to'xtash. Remember + -ing: bo'lib o'tgan ishni eslash; remember + to: qilish kerak ishni unutmaslik. Try + -ing: tajriba qilib ko'rish; try + to: urinish, harakat qilish.",
+  "forms": [
+   "stop + -ing = quit the action",
+   "stop + to + verb = stop in order to",
+   "remember + -ing = recall the past",
+   "remember + to + verb = not forget a duty"
+  ],
+  "examples": [
+   {
+    "en": "He stopped talking when the teacher came in.",
+    "uz": "O'qituvchi kirganda u gapirishni to'xtatdi."
+   },
+   {
+    "en": "Remember to lock the door tonight.",
+    "uz": "Bugun kechqurun eshikni qulflashni unutma."
+   },
+   {
+    "en": "I tried to open the window, but it was stuck.",
+    "uz": "Men derazani ochishga urindim, lekin u qotib qolgan edi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I stopped to eat sweets. (I quit)",
+    "right": "I stopped eating sweets.",
+    "note_uz": "To'xtatish uchun stop + -ing ishlatiladi."
+   },
+   {
+    "wrong": "Remember closing the window before you leave.",
+    "right": "Remember to close the window before you leave.",
+    "note_uz": "Keyin qilinadigan ish uchun remember + to."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "It's raining. Please stop ___ so loudly.",
+    "correct_word": "talking",
+    "options": [
+     "talking",
+     "to talk",
+     "talk",
+     "talked"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't forget! Remember ___ your mum tonight.",
+    "correct_word": "to call",
+    "options": [
+     "calling",
+     "to call",
+     "call",
+     "called"
+    ]
+   },
+   {
+    "sentence_with_blank": "I remember ___ this song when I was a child.",
+    "correct_word": "hearing",
+    "options": [
+     "to hear",
+     "hear",
+     "hearing",
+     "heard"
+    ]
+   },
+   {
+    "sentence_with_blank": "We were tired, so we stopped ___ a rest.",
+    "correct_word": "to have",
+    "options": [
+     "having",
+     "have",
+     "had",
+     "to have"
+    ]
+   },
+   {
+    "sentence_with_blank": "The soup is too salty. Try ___ some water.",
+    "correct_word": "adding",
+    "options": [
+     "adding",
+     "to add",
+     "add",
+     "added"
+    ]
+   },
+   {
+    "sentence_with_blank": "I tried ___ the heavy box, but I couldn't.",
+    "correct_word": "to lift",
+    "options": [
+     "lifting",
+     "to lift",
+     "lift",
+     "lifted"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 33,
+  "title": "-ed and -ing adjectives (bored / boring)",
+  "title_uz": "-ed va -ing sifatlar",
+  "rule_uz": "Ko'p his-tuyg'u fe'llaridan ikki xil sifat yasaladi. -ed sifat odamning his-tuyg'usini bildiradi: I am bored. -ing sifat his-tuyg'uni keltirib chiqargan narsa yoki odamni tasvirlaydi: the film is boring. Ya'ni men zerikdim - bored, film zerikarli - boring. Boshqa juftliklar: interested - interesting, excited - exciting, tired - tiring, surprised - surprising.",
+  "forms": [
+   "I am bored / interested / excited (feeling)",
+   "The film is boring / interesting (cause)",
+   "bore - bored - boring",
+   "excite - excited - exciting"
+  ],
+  "examples": [
+   {
+    "en": "I was excited because the trip was exciting.",
+    "uz": "Sayohat qiziqarli bo'lgani uchun men hayajonlandim."
+   },
+   {
+    "en": "The lesson was boring, so we were bored.",
+    "uz": "Dars zerikarli edi, shuning uchun biz zerikdik."
+   },
+   {
+    "en": "She is interested in space. Planets are interesting.",
+    "uz": "U koinotga qiziqadi. Sayyoralar qiziqarli."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I am boring in maths class.",
+    "right": "I am bored in maths class.",
+    "note_uz": "Sizning his-tuyg'ungiz uchun -ed shakli ishlatiladi."
+   },
+   {
+    "wrong": "The match was very excited.",
+    "right": "The match was very exciting.",
+    "note_uz": "Narsani tasvirlash uchun -ing shakli ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The cartoon is very ___. Everyone laughs.",
+    "correct_word": "amusing",
+    "options": [
+     "amused",
+     "amusing",
+     "amuse",
+     "amusingly"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm ___ in robots. I read about them every day.",
+    "correct_word": "interested",
+    "options": [
+     "interesting",
+     "interest",
+     "interested",
+     "interests"
+    ]
+   },
+   {
+    "sentence_with_blank": "The long walk was ___, and we all went to bed early.",
+    "correct_word": "tiring",
+    "options": [
+     "tired",
+     "tire",
+     "tiredly",
+     "tiring"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister was ___ because her team won the match.",
+    "correct_word": "excited",
+    "options": [
+     "excited",
+     "exciting",
+     "excite",
+     "excitedly"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a ___ story, so I could not sleep.",
+    "correct_word": "frightening",
+    "options": [
+     "frightened",
+     "frightening",
+     "fright",
+     "frightens"
+    ]
+   },
+   {
+    "sentence_with_blank": "We were ___ when the magician pulled a rabbit from his hat.",
+    "correct_word": "surprised",
+    "options": [
+     "surprising",
+     "surprise",
+     "surprised",
+     "surprises"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 34,
+  "title": "comparison review (not as ... as, the more ... the more)",
+  "title_uz": "Taqqoslash: not as ... as, the more ... the more",
+  "rule_uz": "Ikki narsa teng bo'lsa as + sifat + as ishlatamiz: as tall as. Teng bo'lmasa not as + sifat + as deymiz: This bag is not as heavy as that one, ya'ni bu sumka u sumkadan yengilroq. Ikkinchi darajali taqqoslashda sifat + er yoki more + sifat, than bilan keladi. The more ... the more tuzilmasi bir o'zgarish ikkinchisini keltirib chiqarishini bildiradi: The more you practise, the better you play.",
+  "forms": [
+   "as + adjective + as",
+   "not as + adjective + as",
+   "adjective-er / more + adjective + than",
+   "The + comparative, the + comparative"
+  ],
+  "examples": [
+   {
+    "en": "My phone is not as new as yours.",
+    "uz": "Mening telefonim seniki kabi yangi emas."
+   },
+   {
+    "en": "The more I read, the more I learn.",
+    "uz": "Qancha ko'p o'qisam, shuncha ko'p o'rganaman."
+   },
+   {
+    "en": "Football is more popular than chess in my class.",
+    "uz": "Sinfimizda futbol shaxmatdan ko'ra mashhurroq."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He is not as taller as me.",
+    "right": "He is not as tall as me.",
+    "note_uz": "As ... as orasida sifatning oddiy shakli turadi."
+   },
+   {
+    "wrong": "The more you practise, the good you play.",
+    "right": "The more you practise, the better you play.",
+    "note_uz": "Ikkala qismda ham qiyosiy daraja kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "My sister is as ___ as my mother now.",
+    "correct_word": "tall",
+    "options": [
+     "taller",
+     "tallest",
+     "tall",
+     "more tall"
+    ]
+   },
+   {
+    "sentence_with_blank": "This test was not as ___ as the last one.",
+    "correct_word": "difficult",
+    "options": [
+     "more difficult",
+     "most difficult",
+     "difficulter",
+     "difficult"
+    ]
+   },
+   {
+    "sentence_with_blank": "Cats are ___ independent than dogs.",
+    "correct_word": "more",
+    "options": [
+     "more",
+     "most",
+     "as",
+     "the more"
+    ]
+   },
+   {
+    "sentence_with_blank": "The more you eat, the ___ you feel.",
+    "correct_word": "fuller",
+    "options": [
+     "full",
+     "fuller",
+     "fullest",
+     "more full of"
+    ]
+   },
+   {
+    "sentence_with_blank": "The harder we train, the ___ we play.",
+    "correct_word": "better",
+    "options": [
+     "good",
+     "best",
+     "better",
+     "more good"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mars is not as ___ to the sun as Earth is.",
+    "correct_word": "close",
+    "options": [
+     "closer",
+     "closest",
+     "closely",
+     "close"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 35,
+  "title": "adverbs of degree (very, quite, fairly, extremely)",
+  "title_uz": "Daraja ravishlari",
+  "rule_uz": "Adverbs of degree sifat yoki ravishning qanchalik kuchli ekanini bildiradi. Ular sifatdan oldin turadi. Kuchlilik tartibi: a bit / fairly / quite - o'rtacha, very - kuchli, extremely - juda kuchli. Too \"keraklidan ortiq\" degani va salbiy ma'no beradi: too hot. Enough sifatdan keyin keladi: big enough. Absolute sifatlar (freezing, huge) bilan very emas, absolutely yoki really ishlatiladi.",
+  "forms": [
+   "fairly / quite + adjective",
+   "very / really + adjective",
+   "extremely + adjective",
+   "adjective + enough; too + adjective"
+  ],
+  "examples": [
+   {
+    "en": "The test was fairly easy.",
+    "uz": "Test ancha oson edi."
+   },
+   {
+    "en": "It is extremely cold in January here.",
+    "uz": "Bizda yanvarda juda sovuq bo'ladi."
+   },
+   {
+    "en": "This box is too heavy for me.",
+    "uz": "Bu quti men uchun juda og'ir."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The room is enough big.",
+    "right": "The room is big enough.",
+    "note_uz": "Enough sifatdan keyin keladi."
+   },
+   {
+    "wrong": "I am very exhausted.",
+    "right": "I am absolutely exhausted.",
+    "note_uz": "Exhausted kuchli sifat, uning oldida very ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The soup is ___ hot. I can't eat it yet.",
+    "correct_word": "very",
+    "options": [
+     "enough",
+     "a lot",
+     "so much",
+     "very"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is only ten, so he is not old ___ to drive.",
+    "correct_word": "enough",
+    "options": [
+     "enough",
+     "too",
+     "very",
+     "quite"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's ___ cold today. I need a jacket, but not a coat.",
+    "correct_word": "fairly",
+    "options": [
+     "extremely",
+     "fairly",
+     "a lot",
+     "enough"
+    ]
+   },
+   {
+    "sentence_with_blank": "The suitcase is ___ heavy. I can't lift it at all.",
+    "correct_word": "too",
+    "options": [
+     "enough",
+     "fairly",
+     "too",
+     "much"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am ___ tired, so I want to sleep right now.",
+    "correct_word": "extremely",
+    "options": [
+     "enough",
+     "too much",
+     "much",
+     "extremely"
+    ]
+   },
+   {
+    "sentence_with_blank": "That film was ___ good. I'd see it again.",
+    "correct_word": "really",
+    "options": [
+     "really",
+     "enough",
+     "too",
+     "much"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 36,
+  "title": "word order in questions; subject and object questions",
+  "title_uz": "Savol tartibi; ega va to'ldiruvchiga savollar",
+  "rule_uz": "Oddiy savolda tartib: so'roq so'z + yordamchi fe'l + ega + asosiy fe'l: Where do you live? Ega haqida so'raganda (who, what) yordamchi fe'l kerak emas va tartib darak gapdagidek: Who broke the window? To'ldiruvchi haqida so'raganda esa yordamchi fe'l kerak: Who did you meet? Present Simple va Past Simple da do, does, did ishlatiladi, shundan keyin fe'l asosiy shaklda qoladi.",
+  "forms": [
+   "Wh-word + do/does/did + subject + verb",
+   "Wh-word + is/are/was + subject",
+   "Subject question: Who + verb (no do)",
+   "Object question: Who + did + subject + verb"
+  ],
+  "examples": [
+   {
+    "en": "Where does your cousin live?",
+    "uz": "Amakivachchang qayerda yashaydi?"
+   },
+   {
+    "en": "Who made this cake?",
+    "uz": "Bu tortni kim yasadi?"
+   },
+   {
+    "en": "What did you buy at the market?",
+    "uz": "Bozordan nima sotib oldingiz?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Where you did go yesterday?",
+    "right": "Where did you go yesterday?",
+    "note_uz": "Yordamchi fe'l egadan oldin keladi."
+   },
+   {
+    "wrong": "Who did break the vase?",
+    "right": "Who broke the vase?",
+    "note_uz": "Ega haqidagi savolda did kerak emas."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Where ___ your brother study?",
+    "correct_word": "does",
+    "options": [
+     "does",
+     "do",
+     "is",
+     "did he"
+    ]
+   },
+   {
+    "sentence_with_blank": "What time ___ the film start?",
+    "correct_word": "does",
+    "options": [
+     "do",
+     "does",
+     "is",
+     "starts"
+    ]
+   },
+   {
+    "sentence_with_blank": "Who ___ the last piece of cake? I can't see it!",
+    "correct_word": "ate",
+    "options": [
+     "did eat",
+     "did ate",
+     "ate",
+     "does eat"
+    ]
+   },
+   {
+    "sentence_with_blank": "Who ___ you meet at the party yesterday?",
+    "correct_word": "did",
+    "options": [
+     "do",
+     "does",
+     "was",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "How many people ___ to your birthday party last year?",
+    "correct_word": "came",
+    "options": [
+     "came",
+     "did came",
+     "do come",
+     "come did"
+    ]
+   },
+   {
+    "sentence_with_blank": "What ___ when you opened the box?",
+    "correct_word": "did you see",
+    "options": [
+     "you saw",
+     "did you see",
+     "you did see",
+     "saw you"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 37,
+  "title": "indirect questions (Could you tell me where ...?)",
+  "title_uz": "Bilvosita savollar",
+  "rule_uz": "Kimdandir muloyim tarzda ma'lumot so'rash uchun Could you tell me ... ? yoki Do you know ... ? kabi iboralardan keyin savolni joylashtiramiz. Ichki savolda tartib darak gapdagidek bo'ladi: ega fe'ldan oldin, do/does/did ishlatilmaydi. Savol belgisi faqat oxirida bitta: Could you tell me where the library is? Ha/yo'q savollarida if yoki whether qo'shiladi.",
+  "forms": [
+   "Could you tell me + wh-word + subject + verb?",
+   "Do you know where he lives?",
+   "Can you tell me if the bus is late?",
+   "no do / does / did in the second part"
+  ],
+  "examples": [
+   {
+    "en": "Could you tell me where the bus stop is?",
+    "uz": "Avtobus bekati qayerdaligini ayta olasizmi?"
+   },
+   {
+    "en": "Do you know what time the shop opens?",
+    "uz": "Do'kon soat nechada ochilishini bilasizmi?"
+   },
+   {
+    "en": "I wonder if she likes this song.",
+    "uz": "U bu qo'shiqni yoqtirarmikan?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Could you tell me where is the station?",
+    "right": "Could you tell me where the station is?",
+    "note_uz": "Ichki savolda tartib oddiy: where + ega + fe'l."
+   },
+   {
+    "wrong": "Do you know what does he want?",
+    "right": "Do you know what he wants?",
+    "note_uz": "Ichki savolda does ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Excuse me, could you tell me where the toilet ___?",
+    "correct_word": "is",
+    "options": [
+     "does",
+     "is",
+     "is it",
+     "it is"
+    ]
+   },
+   {
+    "sentence_with_blank": "Do you know what time the lesson ___?",
+    "correct_word": "starts",
+    "options": [
+     "does start",
+     "start does",
+     "starts",
+     "is start"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you tell me ___ this bus goes to the museum?",
+    "correct_word": "if",
+    "options": [
+     "what",
+     "that",
+     "do",
+     "if"
+    ]
+   },
+   {
+    "sentence_with_blank": "I don't know why he ___ late yesterday.",
+    "correct_word": "was",
+    "options": [
+     "was",
+     "did",
+     "was he",
+     "is"
+    ]
+   },
+   {
+    "sentence_with_blank": "Could you tell me how much ___?",
+    "correct_word": "this costs",
+    "options": [
+     "does this cost",
+     "this costs",
+     "costs this",
+     "it is cost"
+    ]
+   },
+   {
+    "sentence_with_blank": "Do you know where Dilya ___ last summer?",
+    "correct_word": "went",
+    "options": [
+     "did go",
+     "go",
+     "went",
+     "did went"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 38,
+  "title": "question tags",
+  "title_uz": "Qaytma savollar (question tags)",
+  "rule_uz": "Question tag gap oxiridagi qisqa savol bo'lib, fikrni tasdiqlatish yoki tekshirish uchun ishlatiladi. Darak gapdan keyin inkor tag, inkor gapdan keyin darak tag keladi: You like tea, don't you? He isn't here, is he? Tag asosiy gapdagi yordamchi fe'lni takrorlaydi. Yordamchi fe'l bo'lmasa do/does/did ishlatiladi. I am dan keyin aren't I deymiz. Let's dan keyin shall we, buyruqdan keyin will you bo'ladi.",
+  "forms": [
+   "positive sentence + negative tag",
+   "negative sentence + positive tag",
+   "She can swim, can't she?",
+   "I am late, aren't I?"
+  ],
+  "examples": [
+   {
+    "en": "It's a nice day, isn't it?",
+    "uz": "Ajoyib kun, shunday emasmi?"
+   },
+   {
+    "en": "You didn't forget your book, did you?",
+    "uz": "Kitobingni unutmading, to'g'rimi?"
+   },
+   {
+    "en": "Your brother plays the guitar, doesn't he?",
+    "uz": "Akang gitara chaladi, shunday emasmi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She is your sister, is she?",
+    "right": "She is your sister, isn't she?",
+    "note_uz": "Darak gapdan keyin inkor tag keladi."
+   },
+   {
+    "wrong": "They don't live here, don't they?",
+    "right": "They don't live here, do they?",
+    "note_uz": "Inkor gapdan keyin darak tag keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "You are a student, ___?",
+    "correct_word": "aren't you",
+    "options": [
+     "are you",
+     "don't you",
+     "aren't you",
+     "isn't you"
+    ]
+   },
+   {
+    "sentence_with_blank": "Ali likes pizza, ___?",
+    "correct_word": "doesn't he",
+    "options": [
+     "isn't he",
+     "does he",
+     "don't he",
+     "doesn't he"
+    ]
+   },
+   {
+    "sentence_with_blank": "They didn't come to school, ___?",
+    "correct_word": "did they",
+    "options": [
+     "did they",
+     "didn't they",
+     "do they",
+     "were they"
+    ]
+   },
+   {
+    "sentence_with_blank": "She can't swim, ___?",
+    "correct_word": "can she",
+    "options": [
+     "can't she",
+     "can she",
+     "does she",
+     "is she"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am right, ___?",
+    "correct_word": "aren't I",
+    "options": [
+     "am not I",
+     "amn't I",
+     "aren't I",
+     "don't I"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's play outside, ___?",
+    "correct_word": "shall we",
+    "options": [
+     "will we",
+     "don't we",
+     "let us",
+     "shall we"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 39,
+  "title": "so do I / neither do I; too / either",
+  "title_uz": "So do I / neither do I; too / either",
+  "rule_uz": "Boshqa odamning gapiga qo'shilganda qisqa javob beramiz. Darak gapga: So + yordamchi fe'l + ega: I like pizza. - So do I. Inkor gapga: Neither + yordamchi fe'l + ega: I don't like fish. - Neither do I. Yordamchi fe'l birinchi gapdagi bilan mos bo'ladi: am - am, can - can, did - did. Too darak gap oxirida, either inkor gap oxirida keladi: I like it too. I don't like it either.",
+  "forms": [
+   "So + do / am / can / did + I",
+   "Neither + do / am / can / did + I",
+   "I like it, too.",
+   "I don't like it, either."
+  ],
+  "examples": [
+   {
+    "en": "I love animals. - So do I.",
+    "uz": "Men hayvonlarni yaxshi ko'raman. - Men ham."
+   },
+   {
+    "en": "She can't swim. - Neither can I.",
+    "uz": "U suzolmaydi. - Men ham suzolmayman."
+   },
+   {
+    "en": "I'm not hungry, and he isn't either.",
+    "uz": "Men och emasman, u ham och emas."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I don't like cold milk. - So do I.",
+    "right": "I don't like cold milk. - Neither do I.",
+    "note_uz": "Inkor gapga javobda neither ishlatiladi."
+   },
+   {
+    "wrong": "I can't swim and she can't too.",
+    "right": "I can't swim and she can't either.",
+    "note_uz": "Inkor gapda too emas, either ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "\"I like football.\" - \"So ___ I.\"",
+    "correct_word": "do",
+    "options": [
+     "am",
+     "did not",
+     "can",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"I'm tired.\" - \"So ___ I.\"",
+    "correct_word": "am",
+    "options": [
+     "am",
+     "do",
+     "did",
+     "have"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"I don't eat meat.\" - \"Neither ___ I.\"",
+    "correct_word": "do",
+    "options": [
+     "am",
+     "do",
+     "so do",
+     "don't"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"I can't dance.\" - \"___ can I.\"",
+    "correct_word": "Neither",
+    "options": [
+     "So",
+     "Too",
+     "Neither",
+     "Either"
+    ]
+   },
+   {
+    "sentence_with_blank": "I didn't see the film, and my brother didn't see it ___.",
+    "correct_word": "either",
+    "options": [
+     "too",
+     "neither",
+     "so",
+     "either"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"We went to the zoo last week.\" - \"___ did we.\"",
+    "correct_word": "So",
+    "options": [
+     "So",
+     "Neither",
+     "Too",
+     "Either"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 40,
+  "title": "phrasal verbs 1 (separable)",
+  "title_uz": "Frazeologik fe'llar 1 (ajraladigan)",
+  "rule_uz": "Phrasal verb fe'l + qo'shimcha so'zdan iborat bo'lib, yangi ma'no beradi: turn on, pick up, put away. Ajraladigan phrasal verb to'ldiruvchisi ikki o'rinda turishi mumkin: turn off the light yoki turn the light off. Agar to'ldiruvchi olmosh bo'lsa (it, them, me), u faqat o'rtada turadi: turn it off, ya'ni turn off it deb bo'lmaydi.",
+  "forms": [
+   "turn on / off, pick up, put away, throw away",
+   "verb + noun + particle: pick the book up",
+   "verb + pronoun + particle: pick it up",
+   "never: pick up it"
+  ],
+  "examples": [
+   {
+    "en": "Please turn off the TV before bed.",
+    "uz": "Yotishdan oldin televizorni o'chiring."
+   },
+   {
+    "en": "She picked her bag up and left.",
+    "uz": "U sumkasini ko'tarib, chiqib ketdi."
+   },
+   {
+    "en": "I threw them away because they were old.",
+    "uz": "Ular eski bo'lgani uchun tashlab yubordim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Turn off it, please.",
+    "right": "Turn it off, please.",
+    "note_uz": "Olmosh phrasal verb o'rtasida turadi."
+   },
+   {
+    "wrong": "I picked up it from the floor.",
+    "right": "I picked it up from the floor.",
+    "note_uz": "It, them, me kabi olmoshlar fe'l bilan zarracha orasiga qo'yiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "It's dark. Please ___ the light.",
+    "correct_word": "turn on",
+    "options": [
+     "turn on",
+     "turn at",
+     "turn in",
+     "turn up it"
+    ]
+   },
+   {
+    "sentence_with_blank": "The music is too loud. Can you ___ the music?",
+    "correct_word": "turn down",
+    "options": [
+     "turn it",
+     "turn down",
+     "turn up",
+     "turn on"
+    ]
+   },
+   {
+    "sentence_with_blank": "These shoes are old. Let's ___ them away.",
+    "correct_word": "throw",
+    "options": [
+     "keep",
+     "stay",
+     "throw",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "My pen fell. Can you ___ it up, please?",
+    "correct_word": "pick",
+    "options": [
+     "take",
+     "get",
+     "put",
+     "pick"
+    ]
+   },
+   {
+    "sentence_with_blank": "Take your shoes ___ before you come in.",
+    "correct_word": "off",
+    "options": [
+     "off",
+     "out of",
+     "away from",
+     "over"
+    ]
+   },
+   {
+    "sentence_with_blank": "I don't know this word. I'll ___ it up in the dictionary.",
+    "correct_word": "look",
+    "options": [
+     "see",
+     "look",
+     "watch",
+     "find"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 41,
+  "title": "phrasal verbs 2 (inseparable)",
+  "title_uz": "Frazeologik fe'llar 2 (ajralmaydigan)",
+  "rule_uz": "Ba'zi phrasal verblar ajralmaydi: to'ldiruvchi har doim zarrachadan keyin keladi. Masalan: look after (qarash, g'amxo'rlik qilish), get on with (til topishmoq), run out of (tugab qolmoq), look forward to (intizorlik bilan kutmoq), come across (tasodifan uchratmoq). Olmosh ham zarrachadan keyin keladi: look after them, ya'ni look them after emas. Look forward to dan keyin -ing shakli keladi.",
+  "forms": [
+   "look after / look for + object",
+   "get on with / run out of + object",
+   "look forward to + noun or -ing",
+   "object always after the particle"
+  ],
+  "examples": [
+   {
+    "en": "I look after my little brother in the afternoon.",
+    "uz": "Tushdan keyin men ukamga qarayman."
+   },
+   {
+    "en": "We ran out of milk this morning.",
+    "uz": "Bugun ertalab sutimiz tugab qoldi."
+   },
+   {
+    "en": "I'm looking forward to seeing my cousins.",
+    "uz": "Amakivachchalarimni ko'rishni intizorlik bilan kutyapman."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She looks them after every day.",
+    "right": "She looks after them every day.",
+    "note_uz": "Ajralmaydigan phrasal verbda olmosh oxirida turadi."
+   },
+   {
+    "wrong": "I look forward to see you.",
+    "right": "I look forward to seeing you.",
+    "note_uz": "Look forward to dan keyin -ing shakli keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Can you ___ my cat while I'm away?",
+    "correct_word": "look after",
+    "options": [
+     "look at",
+     "look after",
+     "look up",
+     "look into it"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm ___ my keys. Have you seen them?",
+    "correct_word": "looking for",
+    "options": [
+     "looking after",
+     "looking up",
+     "looking for",
+     "looking at"
+    ]
+   },
+   {
+    "sentence_with_blank": "We have ___ sugar. Can you buy some?",
+    "correct_word": "run out of",
+    "options": [
+     "got on with",
+     "looked after",
+     "come across",
+     "run out of"
+    ]
+   },
+   {
+    "sentence_with_blank": "I get ___ well with my new classmates.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "off",
+     "up",
+     "after"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is looking forward ___ the summer holidays.",
+    "correct_word": "to",
+    "options": [
+     "for",
+     "to",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ an old photo when I was cleaning my room.",
+    "correct_word": "came across",
+    "options": [
+     "ran out of",
+     "looked after",
+     "came across",
+     "got on with"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 42,
+  "title": "prepositions after adjectives (afraid of, good at)",
+  "title_uz": "Sifatdan keyingi predloglar",
+  "rule_uz": "Ko'p sifatlar o'zidan keyin aniq bir predlog talab qiladi, ularni birga yodlash kerak: afraid of, good at, interested in, proud of, angry with, worried about, different from, ready for. Predlogdan keyin ot, olmosh yoki -ing shakli keladi: good at swimming. To + fe'l kelmaydi: afraid of flying, afraid to fly emas (bu ham bor, lekin ma'no biroz boshqa).",
+  "forms": [
+   "afraid of, proud of, scared of",
+   "good at, bad at",
+   "interested in, keen on",
+   "worried about, angry with"
+  ],
+  "examples": [
+   {
+    "en": "My little sister is afraid of the dark.",
+    "uz": "Singlim qorong'ilikdan qo'rqadi."
+   },
+   {
+    "en": "Aziz is very good at maths.",
+    "uz": "Aziz matematikadan juda yaxshi."
+   },
+   {
+    "en": "We are proud of our team.",
+    "uz": "Biz jamoamizdan faxrlanamiz."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I'm interested on robots.",
+    "right": "I'm interested in robots.",
+    "note_uz": "Interested bilan in predlogi ishlatiladi."
+   },
+   {
+    "wrong": "She is good in drawing.",
+    "right": "She is good at drawing.",
+    "note_uz": "Good bilan at ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "My brother is afraid ___ spiders.",
+    "correct_word": "of",
+    "options": [
+     "from",
+     "with",
+     "of",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is very good ___ playing the piano.",
+    "correct_word": "at",
+    "options": [
+     "in",
+     "of",
+     "for",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Are you interested ___ space and planets?",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "of",
+     "about"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum was angry ___ me because I broke the window.",
+    "correct_word": "with",
+    "options": [
+     "of",
+     "with",
+     "for to",
+     "at to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm worried ___ the exam on Monday.",
+    "correct_word": "about",
+    "options": [
+     "of",
+     "at",
+     "about",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "Your pencil case is different ___ mine.",
+    "correct_word": "from",
+    "options": [
+     "with",
+     "of",
+     "at",
+     "from"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 43,
+  "title": "prepositions after verbs (listen to, wait for)",
+  "title_uz": "Fe'ldan keyingi predloglar",
+  "rule_uz": "Ba'zi fe'llar aniq bir predlog bilan ishlatiladi: listen to, wait for, look at, talk to, ask for, depend on, belong to, think about, laugh at, arrive at/in. O'zbek tilida bu fe'llar predlogsiz kelishi mumkin, shuning uchun inglizchada predlogni tushirib qoldirmaslik kerak: I listen to music. Predlogdan keyin olmosh bo'lsa, u to'ldiruvchi shaklida keladi: wait for me, listen to him.",
+  "forms": [
+   "listen to, talk to, belong to",
+   "wait for, ask for, look for",
+   "look at, laugh at, think about",
+   "depend on, arrive in / at"
+  ],
+  "examples": [
+   {
+    "en": "We are waiting for the bus.",
+    "uz": "Biz avtobusni kutyapmiz."
+   },
+   {
+    "en": "Please listen to your teacher.",
+    "uz": "Iltimos, o'qituvchingizni tinglang."
+   },
+   {
+    "en": "The children laughed at the funny clown.",
+    "uz": "Bolalar kulgili masxarabozga qarab kulishdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I'm waiting the bus.",
+    "right": "I'm waiting for the bus.",
+    "note_uz": "Wait fe'lidan keyin for kerak."
+   },
+   {
+    "wrong": "She listens music every day.",
+    "right": "She listens to music every day.",
+    "note_uz": "Listen dan keyin to kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Please listen ___ me carefully.",
+    "correct_word": "to",
+    "options": [
+     "at",
+     "for",
+     "on",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are waiting ___ the train.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "to",
+     "at",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look ___ the blackboard, everyone.",
+    "correct_word": "at",
+    "options": [
+     "to",
+     "at",
+     "for",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "This bag belongs ___ my sister.",
+    "correct_word": "to",
+    "options": [
+     "for",
+     "at",
+     "to",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The match depends ___ the weather.",
+    "correct_word": "on",
+    "options": [
+     "of",
+     "from",
+     "to",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "We arrived ___ the hotel at midnight.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "to",
+     "into to",
+     "on"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 44,
+  "title": "prepositions of movement",
+  "title_uz": "Harakat predloglari",
+  "rule_uz": "Harakat yo'nalishini ko'rsatish uchun predloglar ishlatiladi. To - biror joyga: go to school. Into - ichiga, out of - ichidan tashqariga. Across - bir tomondan ikkinchi tomonga (yuzasi bo'ylab), through - ichidan o'tib, along - bo'ylab. Up - yuqoriga, down - pastga. Over - ustidan oshib, past - yonidan o'tib. Round/around - atrofida aylanib, towards - tomon.",
+  "forms": [
+   "to, into, out of",
+   "across, through, along",
+   "up, down, over, under",
+   "past, round, towards"
+  ],
+  "examples": [
+   {
+    "en": "The cat jumped over the fence.",
+    "uz": "Mushuk to'siqdan sakrab o'tdi."
+   },
+   {
+    "en": "We walked through the forest to the lake.",
+    "uz": "Biz o'rmon ichidan ko'lgacha yurdik."
+   },
+   {
+    "en": "The bus drove past our school.",
+    "uz": "Avtobus maktabimiz yonidan o'tib ketdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She went in the room slowly.",
+    "right": "She went into the room slowly.",
+    "note_uz": "Harakat bilan ichiga kirish uchun into ishlatiladi."
+   },
+   {
+    "wrong": "He ran through the road.",
+    "right": "He ran across the road.",
+    "note_uz": "Yo'lning bir tomonidan ikkinchisiga o'tish uchun across."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The boy ran ___ the room and shut the door.",
+    "correct_word": "into",
+    "options": [
+     "into",
+     "up",
+     "along",
+     "past"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful when you walk ___ the street.",
+    "correct_word": "across",
+    "options": [
+     "along to",
+     "across",
+     "into",
+     "over to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The train goes ___ a long tunnel under the mountain.",
+    "correct_word": "through",
+    "options": [
+     "across",
+     "along",
+     "through",
+     "over"
+    ]
+   },
+   {
+    "sentence_with_blank": "We walked ___ the river for an hour.",
+    "correct_word": "along",
+    "options": [
+     "through",
+     "into",
+     "across of",
+     "along"
+    ]
+   },
+   {
+    "sentence_with_blank": "The horse jumped ___ the wall and ran away.",
+    "correct_word": "over",
+    "options": [
+     "over",
+     "into",
+     "along",
+     "towards from"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bus went ___ the library without stopping.",
+    "correct_word": "past",
+    "options": [
+     "into",
+     "past",
+     "through",
+     "up"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 45,
+  "title": "contrast: although, however, despite",
+  "title_uz": "Qarama-qarshilik: although, however, despite",
+  "rule_uz": "Although, however va despite ikki fikr bir-biriga zid bo'lganda ishlatiladi. Although bilan to'liq gap keladi: Although it was cold, we played outside. Despite dan keyin ot yoki -ing shakli keladi: Despite the rain, we went out. However yangi gap boshida keladi va undan keyin vergul qo'yiladi: It was cold. However, we played outside. Despite dan keyin of kelmaydi va gap (ega + fe'l) kelmaydi.",
+  "forms": [
+   "Although + subject + verb, ...",
+   "Despite + noun / -ing, ...",
+   "Sentence. However, + sentence.",
+   "Despite the fact that + subject + verb"
+  ],
+  "examples": [
+   {
+    "en": "Although he was tired, he finished his homework.",
+    "uz": "U charchagan bo'lsa ham, uy vazifasini tugatdi."
+   },
+   {
+    "en": "Despite the rain, we played football.",
+    "uz": "Yomg'irga qaramay, biz futbol o'ynadik."
+   },
+   {
+    "en": "The test was difficult. However, most students passed.",
+    "uz": "Test qiyin edi. Biroq, ko'pchilik o'quvchilar o'tdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Despite he was ill, he came to school.",
+    "right": "Although he was ill, he came to school.",
+    "note_uz": "Despite dan keyin to'liq gap kelmaydi, although ishlating."
+   },
+   {
+    "wrong": "Despite of the noise, I slept well.",
+    "right": "Despite the noise, I slept well.",
+    "note_uz": "Despite bilan of ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "___ it was raining, we went to the park.",
+    "correct_word": "Although",
+    "options": [
+     "Although",
+     "Despite",
+     "However",
+     "Because"
+    ]
+   },
+   {
+    "sentence_with_blank": "She went to school ___ feeling ill.",
+    "correct_word": "despite",
+    "options": [
+     "although",
+     "despite",
+     "however",
+     "but if"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like pizza. ___, I don't eat it every day.",
+    "correct_word": "However",
+    "options": [
+     "Although",
+     "Despite",
+     "However",
+     "Because"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ the cold weather, they swam in the lake.",
+    "correct_word": "Despite",
+    "options": [
+     "Although",
+     "Despite",
+     "However",
+     "Despite of"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ he studied hard, he failed the exam.",
+    "correct_word": "Although",
+    "options": [
+     "Despite",
+     "However",
+     "Although",
+     "In spite"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our team lost the match. ___, we had a great time.",
+    "correct_word": "However",
+    "options": [
+     "Despite",
+     "Although",
+     "However",
+     "Because"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 46,
+  "title": "reason and result: because, so, therefore, as",
+  "title_uz": "Sabab va natija: because, so, therefore, as",
+  "rule_uz": "Because va as sababni bildiradi: I stayed home because I was ill. So va therefore natijani bildiradi: I was ill, so I stayed home. Because dan keyin sabab, so dan keyin natija keladi. Therefore odatda yangi gap boshida keladi va undan keyin vergul qo'yiladi. As gap boshida ham kelishi mumkin: As it was late, we went home.",
+  "forms": [
+   "Result + because + reason",
+   "Reason, so + result",
+   "Reason. Therefore, + result.",
+   "As + reason, result"
+  ],
+  "examples": [
+   {
+    "en": "I took an umbrella because it was raining.",
+    "uz": "Yomg'ir yog'ayotgani uchun men soyabon oldim."
+   },
+   {
+    "en": "It was very hot, so we bought ice cream.",
+    "uz": "Juda issiq edi, shuning uchun biz muzqaymoq sotib oldik."
+   },
+   {
+    "en": "As I was hungry, I made a sandwich.",
+    "uz": "Qornim och bo'lgani uchun men buterbrod tayyorladim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I was tired, because I went to bed early.",
+    "right": "I was tired, so I went to bed early.",
+    "note_uz": "Natija oldidan so ishlatiladi, because emas."
+   },
+   {
+    "wrong": "Because it was late, so we left.",
+    "right": "Because it was late, we left.",
+    "note_uz": "Because va so bir gapda birga ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I couldn't play outside ___ it was raining.",
+    "correct_word": "because",
+    "options": [
+     "so",
+     "because",
+     "therefore",
+     "but"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was raining, ___ we stayed at home.",
+    "correct_word": "so",
+    "options": [
+     "because",
+     "so",
+     "as",
+     "although"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is happy ___ she passed her exam.",
+    "correct_word": "because",
+    "options": [
+     "so",
+     "because",
+     "therefore",
+     "however"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ it was Sunday, the shop was closed.",
+    "correct_word": "As",
+    "options": [
+     "So",
+     "Therefore",
+     "As",
+     "But"
+    ]
+   },
+   {
+    "sentence_with_blank": "The film was boring. ___, we left early.",
+    "correct_word": "Therefore",
+    "options": [
+     "Because",
+     "Therefore",
+     "As",
+     "Although"
+    ]
+   },
+   {
+    "sentence_with_blank": "He missed the bus, ___ he was late for school.",
+    "correct_word": "so",
+    "options": [
+     "because",
+     "as",
+     "so",
+     "despite"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 47,
+  "title": "purpose: to, in order to, so that",
+  "title_uz": "Maqsad: to, in order to, so that",
+  "rule_uz": "Nima uchun biror ish qilganimizni aytish uchun maqsad bildiruvchi qurilmalar ishlatiladi. To va in order to dan keyin fe'lning oddiy shakli keladi: I use an app to learn English. So that dan keyin to'liq gap keladi, ko'pincha can, could yoki will bilan: I speak slowly so that everyone can understand. Inkorda in order not to ishlatiladi. For dan keyin fe'l -ing shaklida kelmaydi, maqsad uchun to ishlating.",
+  "forms": [
+   "I use it + to + verb",
+   "I use it + in order to + verb",
+   "I speak slowly + so that + subject + can / could",
+   "in order not to + verb"
+  ],
+  "examples": [
+   {
+    "en": "He went to the shop to buy some milk.",
+    "uz": "U sut sotib olish uchun do'konga bordi."
+   },
+   {
+    "en": "She got up early in order to catch the first bus.",
+    "uz": "U birinchi avtobusga ulgurish uchun erta turdi."
+   },
+   {
+    "en": "I wrote the date down so that I wouldn't forget it.",
+    "uz": "Unutmaslik uchun men sanani yozib qo'ydim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I went to the library for borrow a book.",
+    "right": "I went to the library to borrow a book.",
+    "note_uz": "Maqsad uchun to + fe'l ishlatiladi, for + fe'l emas."
+   },
+   {
+    "wrong": "He ran in order to not be late.",
+    "right": "He ran in order not to be late.",
+    "note_uz": "Inkor: in order not to."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I went to the shop ___ buy some bread.",
+    "correct_word": "to",
+    "options": [
+     "for",
+     "to",
+     "so",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "She studies hard ___ she can pass the test.",
+    "correct_word": "so that",
+    "options": [
+     "to",
+     "for",
+     "so that",
+     "in order"
+    ]
+   },
+   {
+    "sentence_with_blank": "We left early ___ not to miss the train.",
+    "correct_word": "in order",
+    "options": [
+     "so that",
+     "to",
+     "for",
+     "in order"
+    ]
+   },
+   {
+    "sentence_with_blank": "He saved money ___ he could buy a new bike.",
+    "correct_word": "so that",
+    "options": [
+     "to",
+     "in order",
+     "for",
+     "so that"
+    ]
+   },
+   {
+    "sentence_with_blank": "I set an alarm ___ I wouldn't be late.",
+    "correct_word": "so that",
+    "options": [
+     "to",
+     "for",
+     "in order to",
+     "so that"
+    ]
+   },
+   {
+    "sentence_with_blank": "They took a map in order ___ get lost.",
+    "correct_word": "not to",
+    "options": [
+     "to not",
+     "not for",
+     "don't to",
+     "not to"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 48,
+  "title": "time linkers: while, during, until, by the time",
+  "title_uz": "Vaqt bog'lovchilari: while, during, until, by the time",
+  "rule_uz": "While dan keyin to'liq gap keladi va u bir ish davom etayotgan paytni bildiradi: While I was cooking, he called. During dan keyin ot keladi: during the lesson, during the holidays. Until biror ish to'xtaguncha degan ma'noni beradi: Wait until I come. By the time esa biror vaqtgacha ish allaqachon bajarilganini bildiradi: By the time we arrived, the film had started.",
+  "forms": [
+   "while + subject + verb (was / were + -ing)",
+   "during + noun (the lesson, the trip)",
+   "wait until + subject + verb",
+   "By the time + subject + verb, ... had + past participle"
+  ],
+  "examples": [
+   {
+    "en": "I read a book while I was waiting for the bus.",
+    "uz": "Men avtobus kutayotganimda kitob o'qidim."
+   },
+   {
+    "en": "He fell asleep during the film.",
+    "uz": "U film paytida uxlab qoldi."
+   },
+   {
+    "en": "By the time we got to the station, the train had left.",
+    "uz": "Biz bekatga yetib borguncha poyezd ketib bo'lgan edi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I fell asleep while the lesson.",
+    "right": "I fell asleep during the lesson.",
+    "note_uz": "While dan keyin gap, during dan keyin ot keladi."
+   },
+   {
+    "wrong": "Wait here until will come my mother.",
+    "right": "Wait here until my mother comes.",
+    "note_uz": "Until dan keyin kelasi zamon emas, hozirgi zamon ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "We were very quiet ___ the lesson.",
+    "correct_word": "during",
+    "options": [
+     "while",
+     "during",
+     "until",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't go out ___ you finish your homework.",
+    "correct_word": "until",
+    "options": [
+     "while",
+     "during",
+     "until",
+     "by the time"
+    ]
+   },
+   {
+    "sentence_with_blank": "My phone rang ___ I was having dinner.",
+    "correct_word": "while",
+    "options": [
+     "during",
+     "until",
+     "while",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "She stayed in Samarkand ___ the summer holidays.",
+    "correct_word": "during",
+    "options": [
+     "while",
+     "until",
+     "during",
+     "by the time"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ I got home, my brother had eaten all the cake.",
+    "correct_word": "By the time",
+    "options": [
+     "While",
+     "During",
+     "Until",
+     "By the time"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please wait here ___ the teacher comes back.",
+    "correct_word": "until",
+    "options": [
+     "while",
+     "during",
+     "by the time",
+     "until"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 49,
+  "title": "time adverbs: since, for, ago, already, yet, still",
+  "title_uz": "Vaqt ravishlari: since, for, ago, already, yet, still",
+  "rule_uz": "For davomiylikni bildiradi (for two years), since esa boshlanish vaqtini (since 2020). Ikkalasi ham Present Perfect bilan ishlatiladi. Ago o'tgan zamon bilan keladi: two days ago. Already va just gap o'rtasida, yet esa so'roq va inkor gaplar oxirida keladi: Have you finished yet? Still ish hali davom etayotganini bildiradi va odatda fe'ldan oldin keladi: He still lives here.",
+  "forms": [
+   "have lived here + for five years",
+   "have lived here + since 2019",
+   "I saw him + two days ago (past simple)",
+   "have already / haven't ... yet / still + verb"
+  ],
+  "examples": [
+   {
+    "en": "We have known each other for three years.",
+    "uz": "Biz bir-birimizni uch yildan beri bilamiz."
+   },
+   {
+    "en": "I haven't finished my project yet.",
+    "uz": "Men loyihamni hali tugatmadim."
+   },
+   {
+    "en": "She moved to London two years ago.",
+    "uz": "U ikki yil oldin Londonga ko'chib o'tdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have lived here since five years.",
+    "right": "I have lived here for five years.",
+    "note_uz": "Muddat oldidan for, boshlanish nuqtasi oldidan since ishlatiladi."
+   },
+   {
+    "wrong": "I have seen him two days ago.",
+    "right": "I saw him two days ago.",
+    "note_uz": "Ago bilan Past Simple ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I have studied English ___ four years.",
+    "correct_word": "for",
+    "options": [
+     "since",
+     "ago",
+     "for",
+     "still"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has lived in Tashkent ___ 2018.",
+    "correct_word": "since",
+    "options": [
+     "for",
+     "ago",
+     "since",
+     "yet"
+    ]
+   },
+   {
+    "sentence_with_blank": "We visited the museum a week ___.",
+    "correct_word": "ago",
+    "options": [
+     "for",
+     "since",
+     "yet",
+     "ago"
+    ]
+   },
+   {
+    "sentence_with_blank": "Have you done your homework ___?",
+    "correct_word": "yet",
+    "options": [
+     "already",
+     "still",
+     "yet",
+     "ago"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's ten o'clock and he is ___ sleeping!",
+    "correct_word": "still",
+    "options": [
+     "yet",
+     "already",
+     "for",
+     "still"
+    ]
+   },
+   {
+    "sentence_with_blank": "I don't need to eat. I have ___ had lunch.",
+    "correct_word": "already",
+    "options": [
+     "yet",
+     "still",
+     "ago",
+     "already"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 50,
+  "title": "wish + past simple",
+  "title_uz": "Wish + Past Simple",
+  "rule_uz": "Wish bilan hozirgi vaqtdagi istamagan holat haqida afsuslanamiz: I wish I had a dog (lekin menda it yo'q). Wish dan keyin Past Simple ishlatiladi, lekin ma'nosi hozirgi zamonga tegishli. To be fe'li uchun barcha shaxslarda were ishlatish mumkin: I wish I were taller. Kelajakdagi istak uchun I wish you would shaklidan ham foydalaniladi.",
+  "forms": [
+   "I wish + I / you / we / they + had",
+   "I wish + he / she / it + lived (Past Simple)",
+   "I wish + I were / he were",
+   "I wish I could + verb"
+  ],
+  "examples": [
+   {
+    "en": "I wish I had a bigger room.",
+    "uz": "Qani endi xonam kattaroq bo'lsa."
+   },
+   {
+    "en": "She wishes she lived near the sea.",
+    "uz": "Qani endi u dengiz yonida yashasa."
+   },
+   {
+    "en": "I wish I could swim faster.",
+    "uz": "Qani endi tezroq suza olsam."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I wish I have a bike.",
+    "right": "I wish I had a bike.",
+    "note_uz": "Wish dan keyin Past Simple ishlatiladi."
+   },
+   {
+    "wrong": "I wish I am taller.",
+    "right": "I wish I were taller.",
+    "note_uz": "Wish dan keyin am emas, were ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I don't have a pet. I wish I ___ a cat.",
+    "correct_word": "had",
+    "options": [
+     "have",
+     "had",
+     "will have",
+     "would have"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's cold today. I wish it ___ warmer.",
+    "correct_word": "were",
+    "options": [
+     "is",
+     "will be",
+     "were",
+     "has been"
+    ]
+   },
+   {
+    "sentence_with_blank": "He can't play the guitar. He wishes he ___ play it.",
+    "correct_word": "could",
+    "options": [
+     "can",
+     "could",
+     "would",
+     "will"
+    ]
+   },
+   {
+    "sentence_with_blank": "We live far from school. We wish we ___ closer.",
+    "correct_word": "lived",
+    "options": [
+     "live",
+     "lived",
+     "are living",
+     "will live"
+    ]
+   },
+   {
+    "sentence_with_blank": "I wish I ___ so much homework tonight.",
+    "correct_word": "didn't have",
+    "options": [
+     "don't have",
+     "didn't have",
+     "haven't",
+     "wouldn't have"
+    ]
+   },
+   {
+    "sentence_with_blank": "She wishes she ___ more free time to read.",
+    "correct_word": "had",
+    "options": [
+     "has",
+     "having",
+     "had",
+     "will have"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 51,
+  "title": "would rather / prefer",
+  "title_uz": "Would rather / prefer",
+  "rule_uz": "Nimani ko'proq yoqtirishni aytish uchun prefer va would rather ishlatiladi. Prefer dan keyin -ing yoki to + fe'l keladi: I prefer swimming to running. Would rather dan keyin to'siz fe'l keladi: I would rather stay at home. Taqqoslash uchun would rather ... than ishlatiladi: I'd rather walk than take the bus. Inkori: would rather not.",
+  "forms": [
+   "prefer + noun / -ing + to + noun / -ing",
+   "would prefer + to + verb",
+   "would rather + verb (no to)",
+   "would rather + verb + than + verb"
+  ],
+  "examples": [
+   {
+    "en": "I prefer tea to coffee.",
+    "uz": "Men choyni kofedan afzal ko'raman."
+   },
+   {
+    "en": "I'd rather play chess than watch TV.",
+    "uz": "Televizor ko'rgandan ko'ra shaxmat o'ynashni afzal ko'raman."
+   },
+   {
+    "en": "Would you prefer to go by train?",
+    "uz": "Poyezdda borishni afzal ko'rasizmi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I would rather to stay home.",
+    "right": "I would rather stay home.",
+    "note_uz": "Would rather dan keyin to ishlatilmaydi."
+   },
+   {
+    "wrong": "I prefer cycling than walking.",
+    "right": "I prefer cycling to walking.",
+    "note_uz": "Prefer bilan than emas, to ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I would rather ___ at home today.",
+    "correct_word": "stay",
+    "options": [
+     "to stay",
+     "staying",
+     "stay",
+     "stayed"
+    ]
+   },
+   {
+    "sentence_with_blank": "She prefers cats ___ dogs.",
+    "correct_word": "to",
+    "options": [
+     "than",
+     "from",
+     "to",
+     "over to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'd rather walk ___ take a taxi.",
+    "correct_word": "than",
+    "options": [
+     "to",
+     "that",
+     "than",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "Would you ___ to sit by the window?",
+    "correct_word": "prefer",
+    "options": [
+     "rather",
+     "prefer",
+     "like better",
+     "want better"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother prefers playing chess ___ football.",
+    "correct_word": "to",
+    "options": [
+     "than",
+     "to playing",
+     "for",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'd rather ___ spicy food, thanks.",
+    "correct_word": "not eat",
+    "options": [
+     "not to eat",
+     "don't eat",
+     "not eat",
+     "no eat"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 52,
+  "title": "it as dummy subject; there is / there are in different tenses",
+  "title_uz": "Sodda ega it; there is / there are turli zamonlarda",
+  "rule_uz": "Ob-havo, vaqt va masofa haqida gapirganda it ega vazifasida keladi: It is cold. It is five o'clock. There is / there are biror narsa borligini bildiradi. Birlik otlar bilan there is, ko'plik bilan there are ishlatiladi. O'tgan zamonda there was / there were, Present Perfect da there has been / there have been, kelasi zamonda there will be ishlatiladi.",
+  "forms": [
+   "It is + weather / time / distance",
+   "There is / was + singular noun",
+   "There are / were + plural noun",
+   "There will be / There has been + noun"
+  ],
+  "examples": [
+   {
+    "en": "It was sunny when we arrived.",
+    "uz": "Biz yetib kelganimizda havo quyoshli edi."
+   },
+   {
+    "en": "There were many people at the concert.",
+    "uz": "Konsertda ko'p odam bor edi."
+   },
+   {
+    "en": "There will be a test next Monday.",
+    "uz": "Kelasi dushanba kuni test bo'ladi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Is raining now.",
+    "right": "It is raining now.",
+    "note_uz": "Inglizcha gapda ega bo'lishi shart, shuning uchun it ishlatiladi."
+   },
+   {
+    "wrong": "There was two books on the desk.",
+    "right": "There were two books on the desk.",
+    "note_uz": "Ko'plik ot bilan were ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "___ is very hot in Bukhara in July.",
+    "correct_word": "It",
+    "options": [
+     "There",
+     "It",
+     "This",
+     "That"
+    ]
+   },
+   {
+    "sentence_with_blank": "There ___ a lot of children in the park yesterday.",
+    "correct_word": "were",
+    "options": [
+     "was",
+     "were",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "There ___ a party at school next Friday.",
+    "correct_word": "will be",
+    "options": [
+     "is",
+     "was",
+     "will be",
+     "has"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ takes about ten minutes to walk to the station.",
+    "correct_word": "It",
+    "options": [
+     "There",
+     "It",
+     "He",
+     "What"
+    ]
+   },
+   {
+    "sentence_with_blank": "There ___ three accidents on this road this month.",
+    "correct_word": "have been",
+    "options": [
+     "was",
+     "have been",
+     "were being",
+     "has been"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look! ___ is a rainbow in the sky.",
+    "correct_word": "There",
+    "options": [
+     "It",
+     "There",
+     "Here are",
+     "They"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 53,
+  "title": "have / get something done",
+  "title_uz": "Have / get something done",
+  "rule_uz": "Biror ishni o'zimiz qilmay, boshqa odamga qildirganimizda have something done yoki get something done ishlatiladi. Shakli: have + narsa + o'tgan zamon sifatdoshi (Past Participle). Masalan: I had my hair cut (men sochimni oldirdim). Kim qilgani odatda aytilmaydi. Get shakli ko'proq so'zlashuv tilida ishlatiladi.",
+  "forms": [
+   "have + object + past participle",
+   "get + object + past participle",
+   "She has her hair cut every month.",
+   "I need to get my bike repaired."
+  ],
+  "examples": [
+   {
+    "en": "We had our house painted last year.",
+    "uz": "Biz o'tgan yili uyimizni bo'yatdik."
+   },
+   {
+    "en": "I'm going to get my phone fixed tomorrow.",
+    "uz": "Men ertaga telefonimni ta'mirlatmoqchiman."
+   },
+   {
+    "en": "He has his hair cut every month.",
+    "uz": "U har oy sochini oldiradi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I cut my hair yesterday at the barber's.",
+    "right": "I had my hair cut yesterday.",
+    "note_uz": "Boshqa odam qilgan ishda have + Past Participle ishlatiladi."
+   },
+   {
+    "wrong": "I had repaired my bike.",
+    "right": "I had my bike repaired.",
+    "note_uz": "Tartib: have + narsa + Past Participle."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I had my bike ___ last week.",
+    "correct_word": "repaired",
+    "options": [
+     "repair",
+     "repairing",
+     "repaired",
+     "to repair"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is going to ___ her photo taken.",
+    "correct_word": "have",
+    "options": [
+     "make",
+     "do",
+     "have",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ our windows cleaned every month.",
+    "correct_word": "have",
+    "options": [
+     "are",
+     "make",
+     "have",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "He had his tooth ___ yesterday.",
+    "correct_word": "checked",
+    "options": [
+     "check",
+     "checking",
+     "checked",
+     "to check"
+    ]
+   },
+   {
+    "sentence_with_blank": "My parents ___ their kitchen painted last summer.",
+    "correct_word": "had",
+    "options": [
+     "have",
+     "were",
+     "had",
+     "made"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need to get my computer ___ before Monday.",
+    "correct_word": "fixed",
+    "options": [
+     "fix",
+     "fixing",
+     "fixes",
+     "fixed"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 54,
+  "title": "get + adjective; get used to",
+  "title_uz": "Get + sifat; get used to",
+  "rule_uz": "Get sifat bilan kelsa, \"bo'lmoq, bo'lib qolmoq\" ma'nosini beradi: get tired, get cold, get dark. Bu o'zgarish jarayonini bildiradi. Get used to + ot yoki -ing esa biror narsaga o'rganib qolish degan ma'noni beradi: I'm getting used to the new school. Be used to ham shunday: o'rganib qolgan holat.",
+  "forms": [
+   "get + adjective (tired, cold, angry)",
+   "get used to + noun",
+   "get used to + verb-ing",
+   "be used to + noun / verb-ing"
+  ],
+  "examples": [
+   {
+    "en": "It gets dark early in winter.",
+    "uz": "Qishda erta qorong'i bo'ladi."
+   },
+   {
+    "en": "I'm getting used to the new school.",
+    "uz": "Men yangi maktabga o'rganib qolyapman."
+   },
+   {
+    "en": "She isn't used to waking up early.",
+    "uz": "U erta turishga o'rganmagan."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I'm getting used to wake up early.",
+    "right": "I'm getting used to waking up early.",
+    "note_uz": "Get used to dan keyin -ing shakli keladi."
+   },
+   {
+    "wrong": "He got angrily.",
+    "right": "He got angry.",
+    "note_uz": "Get dan keyin ravish emas, sifat keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "It gets ___ very early in December.",
+    "correct_word": "dark",
+    "options": [
+     "darkly",
+     "dark",
+     "darkness",
+     "to dark"
+    ]
+   },
+   {
+    "sentence_with_blank": "My little sister got ___ after the long walk.",
+    "correct_word": "tired",
+    "options": [
+     "tiredly",
+     "tire",
+     "tired",
+     "tiring to"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is used to ___ in a big city.",
+    "correct_word": "living",
+    "options": [
+     "live",
+     "lived",
+     "living",
+     "to live"
+    ]
+   },
+   {
+    "sentence_with_blank": "We soon got used ___ the noise.",
+    "correct_word": "to",
+    "options": [
+     "with",
+     "to",
+     "at",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's getting ___. Let's put on our coats.",
+    "correct_word": "cold",
+    "options": [
+     "coldly",
+     "coldness",
+     "cold",
+     "to cold"
+    ]
+   },
+   {
+    "sentence_with_blank": "I can't get used to ___ my food with chopsticks.",
+    "correct_word": "eating",
+    "options": [
+     "eat",
+     "to eat",
+     "eating",
+     "ate"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 55,
+  "title": "make / let / allow",
+  "title_uz": "Make / let / allow",
+  "rule_uz": "Make biror kishini majburlashni bildiradi: My mum makes me clean my room. Let ruxsat berishni bildiradi: My dad lets me use his laptop. Make va let dan keyin to'siz fe'l keladi. Allow ham ruxsat bildiradi, lekin dan keyin to bilan fe'l keladi: They allow us to use phones. Passivda esa be allowed to ishlatiladi.",
+  "forms": [
+   "make + person + verb (no to)",
+   "let + person + verb (no to)",
+   "allow + person + to + verb",
+   "be allowed to + verb"
+  ],
+  "examples": [
+   {
+    "en": "The teacher made us repeat the words.",
+    "uz": "O'qituvchi bizni so'zlarni takrorlashga majbur qildi."
+   },
+   {
+    "en": "My parents let me stay up late on Fridays.",
+    "uz": "Ota-onam juma kunlari kech yotishga ruxsat berishadi."
+   },
+   {
+    "en": "We aren't allowed to eat in class.",
+    "uz": "Darsda ovqat yeyishga ruxsat yo'q."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "My mum made me to clean my room.",
+    "right": "My mum made me clean my room.",
+    "note_uz": "Make dan keyin to ishlatilmaydi."
+   },
+   {
+    "wrong": "He lets me to play games.",
+    "right": "He lets me play games.",
+    "note_uz": "Let dan keyin ham to ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "My mother makes me ___ my bed every day.",
+    "correct_word": "make",
+    "options": [
+     "to make",
+     "making",
+     "make",
+     "made"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our teacher lets us ___ music during breaks.",
+    "correct_word": "listen to",
+    "options": [
+     "to listen to",
+     "listening to",
+     "listened",
+     "listen to"
+    ]
+   },
+   {
+    "sentence_with_blank": "They don't allow students ___ phones in the exam.",
+    "correct_word": "to use",
+    "options": [
+     "use",
+     "using",
+     "to use",
+     "used"
+    ]
+   },
+   {
+    "sentence_with_blank": "The film made everyone ___.",
+    "correct_word": "laugh",
+    "options": [
+     "to laugh",
+     "laughing",
+     "laugh",
+     "laughed to"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are not ___ to run in the corridor.",
+    "correct_word": "allowed",
+    "options": [
+     "let",
+     "made",
+     "allowed",
+     "letting"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ me borrow his bike if I'm careful.",
+    "correct_word": "lets",
+    "options": [
+     "allows",
+     "makes",
+     "lets",
+     "is allowing to"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 56,
+  "title": "countable and uncountable nouns; containers (a bottle of, a slice of)",
+  "title_uz": "Sanaladigan va sanalmaydigan otlar; idishlar",
+  "rule_uz": "Sanaladigan otlarni sanash mumkin: an apple, two apples. Sanalmaydigan otlarni (water, bread, milk, money, information) sanab bo'lmaydi va ko'plik shaklida ishlatilmaydi. Ularni o'lchash uchun idish va bo'lak so'zlari ishlatiladi: a bottle of water, a slice of bread, a piece of advice. Many sanaladigan otlar bilan, much esa sanalmaydigan otlar bilan keladi. Sanalmaydigan otlar bilan fe'l birlikda bo'ladi.",
+  "forms": [
+   "a / an + singular countable noun; plural -s",
+   "uncountable noun: no a / an, no -s",
+   "a bottle / carton / glass of + uncountable",
+   "a slice / piece / bar of + uncountable"
+  ],
+  "examples": [
+   {
+    "en": "I'd like a glass of orange juice, please.",
+    "uz": "Bir stakan apelsin sharbati bering."
+   },
+   {
+    "en": "She gave me a useful piece of advice.",
+    "uz": "U menga foydali maslahat berdi."
+   },
+   {
+    "en": "How much bread do we need?",
+    "uz": "Bizga qancha non kerak?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I need some informations.",
+    "right": "I need some information.",
+    "note_uz": "Information sanalmaydigan ot, -s olmaydi."
+   },
+   {
+    "wrong": "How many water do you drink?",
+    "right": "How much water do you drink?",
+    "note_uz": "Sanalmaydigan ot bilan much ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Can I have a ___ of water, please?",
+    "correct_word": "glass",
+    "options": [
+     "slice",
+     "bar",
+     "glass",
+     "piece"
+    ]
+   },
+   {
+    "sentence_with_blank": "We don't have ___ milk in the fridge.",
+    "correct_word": "much",
+    "options": [
+     "many",
+     "a",
+     "much",
+     "few"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ate two ___ of pizza.",
+    "correct_word": "slices",
+    "options": [
+     "slice",
+     "slices",
+     "pieces of",
+     "sliced"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher gave us some useful ___.",
+    "correct_word": "information",
+    "options": [
+     "informations",
+     "an information",
+     "information",
+     "a information"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need a ___ of chocolate for the cake.",
+    "correct_word": "bar",
+    "options": [
+     "bottle",
+     "bar",
+     "slice",
+     "glass"
+    ]
+   },
+   {
+    "sentence_with_blank": "How ___ students are there in your class?",
+    "correct_word": "many",
+    "options": [
+     "much",
+     "many",
+     "a lot",
+     "little"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 57,
+  "title": "possessives: 's / of / double possessive",
+  "title_uz": "Egalik shakllari: 's / of / double possessive",
+  "rule_uz": "Odamlar va hayvonlarga tegishli narsa uchun 's qo'shamiz: Ali's bag, my sister's room. Ko'plik -s bilan tugasa, faqat apostrof qo'shiladi: the girls' room. Jonsiz narsalar uchun of ishlatiladi: the door of the classroom. Double possessive: a friend of mine, a book of Tom's. Bu bir nechta do'stlardan birini bildiradi.",
+  "forms": [
+   "person / animal + 's + noun",
+   "plural noun ending in -s + ' + noun",
+   "the + noun + of + the + thing",
+   "a friend of mine / a friend of Ali's"
+  ],
+  "examples": [
+   {
+    "en": "This is my brother's bicycle.",
+    "uz": "Bu akamning velosipedi."
+   },
+   {
+    "en": "The windows of our classroom are very big.",
+    "uz": "Sinfimizning derazalari juda katta."
+   },
+   {
+    "en": "She is a friend of mine.",
+    "uz": "U mening do'stlarimdan biri."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The door of Anvar is open.",
+    "right": "Anvar's door is open.",
+    "note_uz": "Odamga tegishli narsa uchun 's ishlatiladi."
+   },
+   {
+    "wrong": "This is a friend of me.",
+    "right": "This is a friend of mine.",
+    "note_uz": "Of dan keyin me emas, mine keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "This is my ___ book.",
+    "correct_word": "sister's",
+    "options": [
+     "sisters",
+     "sister's",
+     "sisters'",
+     "of sister"
+    ]
+   },
+   {
+    "sentence_with_blank": "Anna and Zara are sisters. This is the ___ room.",
+    "correct_word": "girls'",
+    "options": [
+     "girl's",
+     "girls'",
+     "girls's",
+     "of girls"
+    ]
+   },
+   {
+    "sentence_with_blank": "We painted the ___ of the house.",
+    "correct_word": "walls",
+    "options": [
+     "wall's",
+     "wall of",
+     "walls'",
+     "walls"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom is a friend ___ mine from school.",
+    "correct_word": "of",
+    "options": [
+     "from",
+     "with",
+     "of",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like my ___ new haircut.",
+    "correct_word": "brother's",
+    "options": [
+     "brothers",
+     "brother's",
+     "brothers's",
+     "of brother"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's a photo of the ___ of the mountain.",
+    "correct_word": "top",
+    "options": [
+     "top's",
+     "top",
+     "tops'",
+     "top's of"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 58,
+  "title": "defining relative clauses: leaving out the pronoun",
+  "title_uz": "Aniqlovchi ergash gaplar: olmoshni tushirib qoldirish",
+  "rule_uz": "Aniqlovchi ergash gapda who, which yoki that ot haqida muhim ma'lumot beradi. Agar olmosh ergash gapdagi ob'ekt bo'lsa, uni tushirib qoldirish mumkin: The book (that) I read was great. Olmosh ega bo'lsa, uni tushirib bo'lmaydi: The girl who lives here is my friend. Tekshirish usuli: olmoshdan keyin ega (I, he, we) kelsa, olmoshni tushirish mumkin.",
+  "forms": [
+   "The film (that) we saw was funny.",
+   "The boy (who) I met is nice.",
+   "The girl who lives here is nice (olmosh kerak).",
+   "who / which / that + verb: tushirib bo'lmaydi"
+  ],
+  "examples": [
+   {
+    "en": "The song you like is on the radio.",
+    "uz": "Siz yoqtirgan qo'shiq radioda ketyapti."
+   },
+   {
+    "en": "This is the boy I told you about.",
+    "uz": "Bu men sizga aytgan bola."
+   },
+   {
+    "en": "The man who lives next door is a doctor.",
+    "uz": "Qo'shni uyda yashaydigan odam shifokor."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The girl lives next door is my friend.",
+    "right": "The girl who lives next door is my friend.",
+    "note_uz": "Olmosh ega bo'lsa, uni tushirib bo'lmaydi."
+   },
+   {
+    "wrong": "The book that I read it was great.",
+    "right": "The book that I read was great.",
+    "note_uz": "Ob'ektni qayta takrorlamang: it ortiqcha."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The pizza ___ we ate was delicious.",
+    "correct_word": "that",
+    "options": [
+     "who",
+     "what",
+     "that",
+     "where"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy ___ sits next to me is Jasur.",
+    "correct_word": "who",
+    "options": [
+     "he",
+     "who",
+     "what",
+     "whose"
+    ]
+   },
+   {
+    "sentence_with_blank": "The movie (that) ___ yesterday was great.",
+    "correct_word": "we saw",
+    "options": [
+     "we saw",
+     "saw",
+     "we saw it",
+     "was seen"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is this the bag you ___ yesterday?",
+    "correct_word": "lost",
+    "options": [
+     "losing",
+     "lost it",
+     "lose it",
+     "lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher ___ teaches us maths is very kind.",
+    "correct_word": "who",
+    "options": [
+     "whom she",
+     "who",
+     "he",
+     "which she"
+    ]
+   },
+   {
+    "sentence_with_blank": "The picture (which) she ___ was beautiful.",
+    "correct_word": "painted",
+    "options": [
+     "painted it",
+     "painting",
+     "paint it",
+     "painted"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 59,
+  "title": "mixed review: tenses in a story",
+  "title_uz": "Aralash takrorlash: hikoyadagi zamonlar",
+  "rule_uz": "Hikoya aytganda bir nechta o'tgan zamon shakllari birga ishlatiladi. Past Simple voqealar ketma-ketligini aytadi: He opened the door and went in. Past Continuous fonda davom etgan ishni bildiradi: It was raining. Past Perfect esa boshqa voqeadan oldin bo'lgan ishni bildiradi: He had forgotten his key. Hozirgi zamon holatlari uchun Present Perfect ishlatiladi.",
+  "forms": [
+   "Past Simple: voqealar ketma-ketligi",
+   "Past Continuous: fon, davom etgan ish",
+   "Past Perfect: oldin bo'lgan ish (had + V3)",
+   "Present Perfect: hozirgi natija"
+  ],
+  "examples": [
+   {
+    "en": "It was raining when I left the house.",
+    "uz": "Uydan chiqqanimda yomg'ir yog'ayotgan edi."
+   },
+   {
+    "en": "When we arrived, the film had already started.",
+    "uz": "Biz yetib kelganimizda film allaqachon boshlangan edi."
+   },
+   {
+    "en": "I was walking home when I saw a rainbow.",
+    "uz": "Uyga ketayotib, men kamalakni ko'rdim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "When I arrived, the lesson already started.",
+    "right": "When I arrived, the lesson had already started.",
+    "note_uz": "Oldin bo'lgan ish uchun Past Perfect kerak."
+   },
+   {
+    "wrong": "I walked home when it started to rain.",
+    "right": "I was walking home when it started to rain.",
+    "note_uz": "Davom etayotgan ish uchun Past Continuous ishlating."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Yesterday I ___ to school by bus.",
+    "correct_word": "went",
+    "options": [
+     "go",
+     "gone",
+     "went",
+     "was go"
+    ]
+   },
+   {
+    "sentence_with_blank": "While we ___ lunch, the phone rang.",
+    "correct_word": "were having",
+    "options": [
+     "had",
+     "have",
+     "were having",
+     "are having"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ her bag on the train, so she was upset.",
+    "correct_word": "had left",
+    "options": [
+     "left",
+     "was leaving",
+     "had left",
+     "has left"
+    ]
+   },
+   {
+    "sentence_with_blank": "When I got to the cinema, my friends ___ inside.",
+    "correct_word": "were already",
+    "options": [
+     "are already",
+     "already",
+     "have been",
+     "were already"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was sad because he ___ his phone.",
+    "correct_word": "had lost",
+    "options": [
+     "lost",
+     "was losing",
+     "has lost",
+     "had lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ the story for an hour when Mum called me for dinner.",
+    "correct_word": "had been reading",
+    "options": [
+     "was read",
+     "had been reading",
+     "have been reading",
+     "read"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 60,
+  "title": "mixed review: conditionals",
+  "title_uz": "Aralash takrorlash: shart gaplar",
+  "rule_uz": "Zero conditional umumiy haqiqatlar uchun: If you heat ice, it melts. First conditional kelajakdagi real imkoniyat uchun: If it rains, we will stay home. Second conditional xayoliy yoki noreal vaziyat uchun: If I had a bike, I would ride it to school. If gapida zamon, asosiy gapda esa will yoki would keladi. If dan keyin will yoki would ishlatilmaydi.",
+  "forms": [
+   "If + present, present (haqiqat)",
+   "If + present, will + verb",
+   "If + past simple, would + verb",
+   "unless = if ... not"
+  ],
+  "examples": [
+   {
+    "en": "If you mix red and blue, you get purple.",
+    "uz": "Qizil va ko'kni aralashtirsangiz, binafsha rang chiqadi."
+   },
+   {
+    "en": "If I finish early, I will call you.",
+    "uz": "Agar erta tugatsam, senga qo'ng'iroq qilaman."
+   },
+   {
+    "en": "If I were a bird, I would fly over the mountains.",
+    "uz": "Agar qush bo'lsam, tog'lar uzra uchardim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "If it will rain, we will stay home.",
+    "right": "If it rains, we will stay home.",
+    "note_uz": "If dan keyin will ishlatilmaydi."
+   },
+   {
+    "wrong": "If I have a dog, I would take it for walks.",
+    "right": "If I had a dog, I would take it for walks.",
+    "note_uz": "Xayoliy vaziyatda if + Past Simple."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "If you heat water to 100 degrees, it ___.",
+    "correct_word": "boils",
+    "options": [
+     "will boil",
+     "boiled",
+     "boils",
+     "would boil"
+    ]
+   },
+   {
+    "sentence_with_blank": "If I see Ali tomorrow, I ___ him the news.",
+    "correct_word": "will tell",
+    "options": [
+     "would tell",
+     "told",
+     "tell",
+     "will tell"
+    ]
+   },
+   {
+    "sentence_with_blank": "If I ___ a million dollars, I would travel the world.",
+    "correct_word": "had",
+    "options": [
+     "have",
+     "will have",
+     "had",
+     "would have"
+    ]
+   },
+   {
+    "sentence_with_blank": "We won't go to the beach ___ the weather improves.",
+    "correct_word": "unless",
+    "options": [
+     "if",
+     "when",
+     "unless",
+     "because"
+    ]
+   },
+   {
+    "sentence_with_blank": "If she studied more, she ___ better marks.",
+    "correct_word": "would get",
+    "options": [
+     "will get",
+     "gets",
+     "would get",
+     "got"
+    ]
+   },
+   {
+    "sentence_with_blank": "If it ___ tomorrow, we will have the picnic.",
+    "correct_word": "doesn't rain",
+    "options": [
+     "won't rain",
+     "didn't rain",
+     "doesn't rain",
+     "wouldn't rain"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 61,
+  "title": "mixed review: passive and reported speech",
+  "title_uz": "Aralash takrorlash: majhul nisbat va ko'chirma gap",
+  "rule_uz": "Majhul nisbat ishni kim qilgani muhim bo'lmaganda ishlatiladi: be + Past Participle. Masalan: English is spoken here. Ko'chirma gapni o'zgartirganda zamon bir qadam orqaga suriladi: \"I am tired\" - He said he was tired. Savollar if yoki so'roq so'z bilan beriladi va tartib oddiy gapdagidek bo'ladi. Buyruqlar uchun told / asked + kishi + to + fe'l ishlatiladi.",
+  "forms": [
+   "am / is / are + past participle",
+   "was / were + past participle",
+   "said that + she was (am - was)",
+   "told / asked + person + to + verb"
+  ],
+  "examples": [
+   {
+    "en": "This bridge was built in 1990.",
+    "uz": "Bu ko'prik 1990-yilda qurilgan."
+   },
+   {
+    "en": "Tom said that he was hungry.",
+    "uz": "Tom o'zi och ekanini aytdi."
+   },
+   {
+    "en": "The teacher asked us to open our books.",
+    "uz": "O'qituvchi bizdan kitoblarimizni ochishni so'radi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The window was broke by the ball.",
+    "right": "The window was broken by the ball.",
+    "note_uz": "Majhul nisbatda Past Participle (broken) kerak."
+   },
+   {
+    "wrong": "She asked me where do I live.",
+    "right": "She asked me where I lived.",
+    "note_uz": "Ko'chirma savolda oddiy tartib ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "English ___ in many countries.",
+    "correct_word": "is spoken",
+    "options": [
+     "speaks",
+     "is speaking",
+     "is spoken",
+     "spoke"
+    ]
+   },
+   {
+    "sentence_with_blank": "The cake ___ by my grandmother yesterday.",
+    "correct_word": "was made",
+    "options": [
+     "made",
+     "is made",
+     "was made",
+     "was making"
+    ]
+   },
+   {
+    "sentence_with_blank": "Ali said, \"I like pizza.\" -> Ali said that he ___ pizza.",
+    "correct_word": "liked",
+    "options": [
+     "likes",
+     "like",
+     "liked",
+     "has liked"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Where do you live?\" -> She asked me where I ___.",
+    "correct_word": "lived",
+    "options": [
+     "do live",
+     "live",
+     "lived",
+     "did live"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Close the door,\" said Dad. -> Dad told me ___ the door.",
+    "correct_word": "to close",
+    "options": [
+     "close",
+     "closing",
+     "to close",
+     "that close"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many photos ___ at the school party last week.",
+    "correct_word": "were taken",
+    "options": [
+     "are taken",
+     "took",
+     "were taken",
+     "was taken"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 62,
+  "title": "phrasal verbs 3 (travel)",
+  "title_uz": "Frazali fe'llar 3 (sayohat)",
+  "rule_uz": "Frazali fe'l fe'l va predlog yoki ravishdan iborat bo'lib, ma'nosi alohida bo'ladi. Sayohat haqida ko'p ishlatiladi: set off (yo'lga chiqmoq), check in (ro'yxatdan o'tmoq), take off (uchmoq), get on (transportga chiqmoq), get off (tushmoq), look around (aylanib ko'rmoq). Ularni butun ibora sifatida yodlash kerak.",
+  "forms": [
+   "set off = yo'lga chiqmoq",
+   "check in / check out = ro'yxatdan o'tmoq / chiqmoq",
+   "take off = (samolyot) uchmoq",
+   "get on / get off = chiqmoq / tushmoq"
+  ],
+  "examples": [
+   {
+    "en": "We set off at six in the morning.",
+    "uz": "Biz ertalab soat oltida yo'lga chiqdik."
+   },
+   {
+    "en": "The plane took off ten minutes late.",
+    "uz": "Samolyot o'n daqiqa kechikib ko'tarildi."
+   },
+   {
+    "en": "We checked in at the hotel and went to our room.",
+    "uz": "Biz mehmonxonada ro'yxatdan o'tib, xonamizga bordik."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The plane took out at nine o'clock.",
+    "right": "The plane took off at nine o'clock.",
+    "note_uz": "Samolyot uchishi take off deyiladi."
+   },
+   {
+    "wrong": "We got in the bus at the market.",
+    "right": "We got on the bus at the market.",
+    "note_uz": "Avtobus, poyezd bilan get on ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "We need to ___ early to arrive before dark.",
+    "correct_word": "set off",
+    "options": [
+     "take off",
+     "check out",
+     "set off",
+     "get in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The plane ___ at 10 a.m.",
+    "correct_word": "took off",
+    "options": [
+     "set off",
+     "got off",
+     "took off",
+     "checked in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the bus at the next stop.",
+    "correct_word": "get off",
+    "options": [
+     "get out",
+     "take off",
+     "get off",
+     "set off"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ at the hotel at noon.",
+    "correct_word": "checked in",
+    "options": [
+     "set in",
+     "checked out",
+     "looked in",
+     "checked in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's ___ the old town this afternoon.",
+    "correct_word": "look around",
+    "options": [
+     "look after",
+     "look up",
+     "look around",
+     "look for"
+    ]
+   },
+   {
+    "sentence_with_blank": "We must ___ of the hotel by 11 o'clock.",
+    "correct_word": "check out",
+    "options": [
+     "check in",
+     "take out",
+     "get on",
+     "check out"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 63,
+  "title": "phrasal verbs 4 (daily life)",
+  "title_uz": "Frazali fe'llar 4 (kundalik hayot)",
+  "rule_uz": "Kundalik hayotda ko'p ishlatiladigan frazali fe'llar: wake up (uyg'onmoq), get up (turmoq), put on (kiymoq), take off (yechmoq), turn on / off (yoqmoq / o'chirmoq), clean up (tozalamoq), pick up (olmoq), throw away (tashlamoq). Ko'pchiligida ot fe'l bilan ravish orasiga ham, keyin ham kela oladi. Olmosh bo'lsa, doim orada turadi: turn it off.",
+  "forms": [
+   "wake up / get up",
+   "put on / take off + clothes",
+   "turn on / turn off + a device",
+   "pick up / throw away / clean up"
+  ],
+  "examples": [
+   {
+    "en": "I turn off the lights before I go to bed.",
+    "uz": "Yotishdan oldin men chiroqlarni o'chiraman."
+   },
+   {
+    "en": "Please pick up your toys.",
+    "uz": "Iltimos, o'yinchoqlaringizni yig'ishtiring."
+   },
+   {
+    "en": "He put on his coat and went outside.",
+    "uz": "U paltosini kiyib, tashqariga chiqdi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Please turn off it.",
+    "right": "Please turn it off.",
+    "note_uz": "Olmosh fe'l va ravish orasida turadi."
+   },
+   {
+    "wrong": "I woke up my sister at seven, then I got on.",
+    "right": "I woke my sister up at seven, then I got up.",
+    "note_uz": "Turmoq - get up, get on emas."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "It's cold outside. ___ your jacket.",
+    "correct_word": "Put on",
+    "options": [
+     "Take off",
+     "Put on",
+     "Turn off",
+     "Wake up"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the TV. I'm doing homework.",
+    "correct_word": "turn off",
+    "options": [
+     "put on",
+     "turn off",
+     "pick up",
+     "get up"
+    ]
+   },
+   {
+    "sentence_with_blank": "I usually ___ at six o'clock.",
+    "correct_word": "get up",
+    "options": [
+     "put up",
+     "get up",
+     "take up",
+     "clean up"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't ___ the paper. Put it in the recycling bin.",
+    "correct_word": "throw away",
+    "options": [
+     "throw off",
+     "turn away",
+     "pick on",
+     "throw away"
+    ]
+   },
+   {
+    "sentence_with_blank": "Your room is a mess. Please ___ it.",
+    "correct_word": "clean it up",
+    "options": [
+     "clean up it",
+     "it clean up",
+     "up clean it",
+     "clean it up"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's hot in here. You can ___ your sweater.",
+    "correct_word": "take off",
+    "options": [
+     "put off",
+     "take off",
+     "turn off",
+     "wake up"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 64,
+  "title": "word formation: suffixes (-er, -tion, -ment)",
+  "title_uz": "So'z yasalishi: qo'shimchalar (-er, -tion, -ment)",
+  "rule_uz": "Qo'shimchalar yordamida fe'ldan ot yasaladi. -er / -or ishni bajaruvchi odamni bildiradi: teach - teacher, act - actor. -tion / -sion harakat yoki natijani bildiradi: decide - decision, inform - information. -ment ham shunday: move - movement, enjoy - enjoyment. Ba'zan imlo biroz o'zgaradi: educate - education.",
+  "forms": [
+   "verb + -er / -or = person (teach - teacher)",
+   "verb + -tion / -sion (invite - invitation)",
+   "verb + -ment (develop - development)",
+   "verb ending in -e: drop e (educate - education)"
+  ],
+  "examples": [
+   {
+    "en": "My uncle is a very good driver.",
+    "uz": "Amakim juda yaxshi haydovchi."
+   },
+   {
+    "en": "We got an invitation to the party.",
+    "uz": "Biz ziyofatga taklifnoma oldik."
+   },
+   {
+    "en": "The government wants to improve education.",
+    "uz": "Hukumat ta'limni yaxshilamoqchi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She is a good teach.",
+    "right": "She is a good teacher.",
+    "note_uz": "Odam nomi uchun fe'lga -er qo'shiladi."
+   },
+   {
+    "wrong": "This is a great enjoy.",
+    "right": "This is great enjoyment.",
+    "note_uz": "Ot yasash uchun -ment kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "My brother is a football ___.",
+    "correct_word": "player",
+    "options": [
+     "play",
+     "playment",
+     "player",
+     "playtion"
+    ]
+   },
+   {
+    "sentence_with_blank": "She sent me an ___ to her birthday.",
+    "correct_word": "invitation",
+    "options": [
+     "invite",
+     "invitement",
+     "invitation",
+     "inviter"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ of the new library took two years.",
+    "correct_word": "construction",
+    "options": [
+     "construct",
+     "constructer",
+     "construction",
+     "constructing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please read the ___ on the board carefully.",
+    "correct_word": "information",
+    "options": [
+     "informer",
+     "informing",
+     "informment",
+     "information"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a lot of ___ in this old castle.",
+    "correct_word": "excitement",
+    "options": [
+     "excite",
+     "exciter",
+     "excitement",
+     "excitation"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our new ___ studies animals in Africa.",
+    "correct_word": "scientist",
+    "options": [
+     "science",
+     "sciencer",
+     "scientist",
+     "scientment"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 65,
+  "title": "word formation: prefixes (un-, dis-, im-)",
+  "title_uz": "So'z yasalishi: old qo'shimchalar (un-, dis-, im-)",
+  "rule_uz": "Old qo'shimchalar so'z ma'nosini qarama-qarshisiga o'zgartiradi. Un- ko'p sifatlar bilan keladi: happy - unhappy, usual - unusual. Dis- ko'pincha fe'l va otlar bilan: agree - disagree, like - dislike. Im- p yoki m bilan boshlanadigan so'zlar oldida: possible - impossible, polite - impolite. So'zning imlosi o'zgarmaydi, faqat boshiga qo'shimcha qo'shiladi.",
+  "forms": [
+   "un- + happy, usual, kind, fair",
+   "dis- + agree, like, appear",
+   "im- + possible, polite, patient",
+   "in- / ir- / il-: boshqa so'zlar (incorrect)"
+  ],
+  "examples": [
+   {
+    "en": "I was unhappy when I lost my keys.",
+    "uz": "Kalitlarimni yo'qotganimda xafa bo'ldim."
+   },
+   {
+    "en": "They disagree about the plan.",
+    "uz": "Ular reja haqida kelisha olmayaptilar."
+   },
+   {
+    "en": "It is impossible to finish this in five minutes.",
+    "uz": "Buni besh daqiqada tugatish mumkin emas."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "It is unpossible to open this box.",
+    "right": "It is impossible to open this box.",
+    "note_uz": "Possible oldidan im- qo'shiladi."
+   },
+   {
+    "wrong": "I undislike spiders.",
+    "right": "I dislike spiders.",
+    "note_uz": "Like ning inkori dislike, un- emas."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "He was very ___ when he lost the match.",
+    "correct_word": "unhappy",
+    "options": [
+     "dishappy",
+     "imhappy",
+     "unhappy",
+     "inhappy"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ with you. I think the plan is bad.",
+    "correct_word": "disagree",
+    "options": [
+     "unagree",
+     "imagree",
+     "disagree",
+     "inagree"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's ___ to speak loudly in the library.",
+    "correct_word": "impolite",
+    "options": [
+     "unpolite",
+     "dispolite",
+     "impolite",
+     "inpolite"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister can't wait. She is very ___.",
+    "correct_word": "impatient",
+    "options": [
+     "unpatient",
+     "dispatient",
+     "impatient",
+     "inpatient"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ his brother's new haircut.",
+    "correct_word": "dislikes",
+    "options": [
+     "unlikes",
+     "imlikes",
+     "dislikes",
+     "inlikes"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was an ___ day. It snowed in May!",
+    "correct_word": "unusual",
+    "options": [
+     "disusual",
+     "imusual",
+     "unusual",
+     "inusual"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 66,
+  "title": "discourse markers and linking in writing (first, then, finally)",
+  "title_uz": "Yozuvda bog'lovchi so'zlar (first, then, finally)",
+  "rule_uz": "Yozuvda fikrlarni tartib bilan bog'lash uchun bog'lovchi so'zlar ishlatiladi. Tartib uchun: first, then, next, after that, finally. Fikr qo'shish uchun: also, in addition. Qarama-qarshilik uchun: however, but. Natija uchun: so, therefore. Gap boshidagi bog'lovchi so'zdan keyin odatda vergul qo'yiladi: First, mix the eggs.",
+  "forms": [
+   "First, ... Then, ... Next, ...",
+   "After that, ... Finally, ...",
+   "In addition, ... / Also, ...",
+   "However, ... / Therefore, ..."
+  ],
+  "examples": [
+   {
+    "en": "First, wash your hands. Then, cut the vegetables.",
+    "uz": "Avval qo'llaringizni yuving. Keyin sabzavotlarni to'g'rang."
+   },
+   {
+    "en": "I like football. In addition, I enjoy swimming.",
+    "uz": "Men futbolni yoqtiraman. Bundan tashqari, suzishni ham yaxshi ko'raman."
+   },
+   {
+    "en": "Finally, we reached the top of the hill.",
+    "uz": "Nihoyat, biz tepalikning cho'qqisiga yetdik."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Finally, then, first I went to the shop.",
+    "right": "First, I went to the shop. Then, I came home.",
+    "note_uz": "Tartib to'g'ri bo'lishi kerak: first - then - finally."
+   },
+   {
+    "wrong": "It rained. Therefore, but we went out.",
+    "right": "It rained. However, we went out.",
+    "note_uz": "Qarama-qarshilik uchun however kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "___, open the box. Then, take out the pieces.",
+    "correct_word": "First",
+    "options": [
+     "Finally",
+     "However",
+     "First",
+     "Therefore"
+    ]
+   },
+   {
+    "sentence_with_blank": "We packed our bags. ___, we drove to the airport.",
+    "correct_word": "After that",
+    "options": [
+     "However",
+     "Therefore",
+     "After that",
+     "Because"
+    ]
+   },
+   {
+    "sentence_with_blank": "The park was lovely. ___, there was a small lake.",
+    "correct_word": "In addition",
+    "options": [
+     "However",
+     "Finally",
+     "In addition",
+     "Therefore"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a long trip. ___, we were very tired.",
+    "correct_word": "Therefore",
+    "options": [
+     "However",
+     "Therefore",
+     "Next",
+     "Also"
+    ]
+   },
+   {
+    "sentence_with_blank": "I love cats. ___, my sister is afraid of them.",
+    "correct_word": "However",
+    "options": [
+     "Therefore",
+     "In addition",
+     "However",
+     "After that"
+    ]
+   },
+   {
+    "sentence_with_blank": "___, we said goodbye and went home. It was a great day.",
+    "correct_word": "Finally",
+    "options": [
+     "First",
+     "Next",
+     "Finally",
+     "However"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1513 @@
+[
+ {
+  "unit": 50,
+  "title": "animal, bird, fish",
+  "vocabulary": [
+   {
+    "word": "a wild animal",
+    "translation_uz": "yovvoyi hayvon",
+    "example_sentence": "A wolf is a wild animal."
+   },
+   {
+    "word": "a farm animal",
+    "translation_uz": "fermadagi hayvon",
+    "example_sentence": "A cow is a farm animal."
+   },
+   {
+    "word": "look after an animal",
+    "translation_uz": "hayvonga qaramoq",
+    "example_sentence": "Children must look after their animals."
+   },
+   {
+    "word": "feed the animals",
+    "translation_uz": "hayvonlarni boqmoq",
+    "example_sentence": "We feed the animals every morning."
+   },
+   {
+    "word": "an endangered animal",
+    "translation_uz": "yo'qolib borayotgan hayvon",
+    "example_sentence": "The panda is an endangered animal."
+   },
+   {
+    "word": "a flock of birds",
+    "translation_uz": "qushlar to'dasi",
+    "example_sentence": "A flock of birds flew over the lake."
+   },
+   {
+    "word": "birds sing",
+    "translation_uz": "qushlar sayraydi",
+    "example_sentence": "Birds sing early in the morning."
+   },
+   {
+    "word": "a bird's nest",
+    "translation_uz": "qush uyasi",
+    "example_sentence": "There is a bird's nest in the tree."
+   },
+   {
+    "word": "birds fly south",
+    "translation_uz": "qushlar janubga uchadi",
+    "example_sentence": "In autumn many birds fly south."
+   },
+   {
+    "word": "catch a fish",
+    "translation_uz": "baliq tutmoq",
+    "example_sentence": "My dad caught a big fish."
+   },
+   {
+    "word": "fish and chips",
+    "translation_uz": "baliq va kartoshka",
+    "example_sentence": "We had fish and chips for dinner."
+   },
+   {
+    "word": "a school of fish",
+    "translation_uz": "baliqlar to'dasi",
+    "example_sentence": "We saw a school of fish under the boat."
+   },
+   {
+    "word": "go fishing",
+    "translation_uz": "baliq ovlashga bormoq",
+    "example_sentence": "Let's go fishing on Sunday."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A tiger is a ___ animal.",
+    "correct_word": "wild",
+    "options": [
+     "wild",
+     "tasty",
+     "square",
+     "loud"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the animals before school.",
+    "correct_word": "feed",
+    "options": [
+     "drive",
+     "feed",
+     "paint",
+     "cut"
+    ]
+   },
+   {
+    "sentence_with_blank": "In autumn birds ___ south.",
+    "correct_word": "fly",
+    "options": [
+     "swim",
+     "dig",
+     "fly",
+     "grow"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandfather loves to ___ fishing on the lake.",
+    "correct_word": "go",
+    "options": [
+     "walk",
+     "run",
+     "drive",
+     "go"
+    ]
+   },
+   {
+    "sentence_with_blank": "A big ___ of birds sat on the roof.",
+    "correct_word": "flock",
+    "options": [
+     "flock",
+     "flight",
+     "school",
+     "pair"
+    ]
+   },
+   {
+    "sentence_with_blank": "The fisherman ___ three fish this morning.",
+    "correct_word": "caught",
+    "options": [
+     "built",
+     "caught",
+     "wore",
+     "opened"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Animals Around Us",
+   "text": "Our school has a small farm. The children look after the farm animals every day. In the morning we feed the animals and in the afternoon we clean their house. A bird has built a nest on the roof, and birds sing there every morning. There is also a pond with a few fish. Last Friday the teacher told us about an endangered animal called the snow leopard.",
+   "key_words": [
+    {
+     "word": "pond",
+     "translation_uz": "hovuz"
+    },
+    {
+     "word": "roof",
+     "translation_uz": "tom"
+    },
+    {
+     "word": "snow leopard",
+     "translation_uz": "qor qoplon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What do the children do in the morning?",
+     "options": [
+      "Catch fish",
+      "Sing songs",
+      "Feed the animals",
+      "Clean the roof"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did the bird build its nest?",
+     "options": [
+      "In the pond",
+      "In the barn",
+      "In a tree by the road",
+      "On the roof"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the teacher talk about on Friday?",
+     "options": [
+      "An endangered animal",
+      "A school trip",
+      "A pond",
+      "A farm visit"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Fishing Trip",
+   "script": "Last Sunday my uncle and I went fishing on a quiet lake. Birds were singing in the trees around us. After two hours my uncle caught a big fish. We saw a school of small fish under the boat, too. In autumn many birds fly south, and I saw a large flock above the lake. In the evening we had fish and chips at home.",
+   "questions": [
+    {
+     "question": "Where did they go fishing?",
+     "options": [
+      "In the sea",
+      "On a quiet lake",
+      "In a river",
+      "At a pond"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who caught a big fish?",
+     "options": [
+      "The writer",
+      "A bird",
+      "The uncle",
+      "Nobody"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did they eat in the evening?",
+     "options": [
+      "Pizza",
+      "Soup",
+      "Rice",
+      "Fish and chips"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Birds sing in the morning.",
+    "We feed the animals.",
+    "Let's go fishing."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Animals",
+    "question_text": "What is your favourite animal?",
+    "hint_words": [
+     "my favourite",
+     "wild",
+     "big",
+     "cute"
+    ]
+   },
+   {
+    "topic": "Birds",
+    "question_text": "Can you see birds near your home?",
+    "hint_words": [
+     "yes",
+     "trees",
+     "sing",
+     "sometimes"
+    ]
+   },
+   {
+    "topic": "Fish",
+    "question_text": "Do you like to eat fish?",
+    "hint_words": [
+     "yes",
+     "no",
+     "delicious",
+     "sometimes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 51,
+  "title": "pet, cat, dog",
+  "vocabulary": [
+   {
+    "word": "keep a pet",
+    "translation_uz": "uy hayvonini saqlamoq",
+    "example_sentence": "We keep a pet rabbit at home."
+   },
+   {
+    "word": "have a pet",
+    "translation_uz": "uy hayvoniga ega bo'lmoq",
+    "example_sentence": "Do you have a pet?"
+   },
+   {
+    "word": "look after a pet",
+    "translation_uz": "uy hayvoniga qaramoq",
+    "example_sentence": "It is my job to look after our pet."
+   },
+   {
+    "word": "a pet shop",
+    "translation_uz": "uy hayvonlari do'koni",
+    "example_sentence": "We bought fish food at the pet shop."
+   },
+   {
+    "word": "a stray cat",
+    "translation_uz": "uysiz mushuk",
+    "example_sentence": "A stray cat sleeps under our car."
+   },
+   {
+    "word": "a cat purrs",
+    "translation_uz": "mushuk xurillaydi",
+    "example_sentence": "The cat purrs when I stroke it."
+   },
+   {
+    "word": "chase a mouse",
+    "translation_uz": "sichqonni quvmoq",
+    "example_sentence": "The cat chased a mouse into the garden."
+   },
+   {
+    "word": "walk the dog",
+    "translation_uz": "itni sayr qildirmoq",
+    "example_sentence": "I walk the dog every evening."
+   },
+   {
+    "word": "a dog barks",
+    "translation_uz": "it vovullaydi",
+    "example_sentence": "The dog barks at strangers."
+   },
+   {
+    "word": "take the dog to the vet",
+    "translation_uz": "itni veterinarga olib bormoq",
+    "example_sentence": "Mum took the dog to the vet."
+   },
+   {
+    "word": "a guide dog",
+    "translation_uz": "yo'lboshlovchi it",
+    "example_sentence": "A guide dog helps blind people."
+   },
+   {
+    "word": "train a dog",
+    "translation_uz": "itni o'rgatmoq",
+    "example_sentence": "He is training his dog to sit."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Dad and I ___ the dog in the park every evening.",
+    "correct_word": "walk",
+    "options": [
+     "walk",
+     "fly",
+     "write",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our cat likes to ___ mice in the barn.",
+    "correct_word": "chase",
+    "options": [
+     "wear",
+     "chase",
+     "type",
+     "sell"
+    ]
+   },
+   {
+    "sentence_with_blank": "When a dog is angry, it ___.",
+    "correct_word": "barks",
+    "options": [
+     "purrs",
+     "sings",
+     "barks",
+     "flies"
+    ]
+   },
+   {
+    "sentence_with_blank": "A happy cat ___ when you stroke it.",
+    "correct_word": "purrs",
+    "options": [
+     "barks",
+     "roars",
+     "buzzes",
+     "purrs"
+    ]
+   },
+   {
+    "sentence_with_blank": "We bought food for our rabbit at the ___ shop.",
+    "correct_word": "pet",
+    "options": [
+     "pet",
+     "tooth",
+     "shoe",
+     "coat"
+    ]
+   },
+   {
+    "sentence_with_blank": "If the dog is ill, take it to the ___.",
+    "correct_word": "vet",
+    "options": [
+     "baker",
+     "vet",
+     "pilot",
+     "driver"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Pet Dog",
+   "text": "I have a pet dog called Max. He is brown and very friendly. It is my job to look after him, so I feed him and walk him every day. Max barks when someone comes to the door, but he never bites. Last month he was ill, and Mum took him to the vet. Now he is well again and runs in the park.",
+   "key_words": [
+    {
+     "word": "friendly",
+     "translation_uz": "do'stona"
+    },
+    {
+     "word": "bite",
+     "translation_uz": "tishlamoq"
+    },
+    {
+     "word": "ill",
+     "translation_uz": "kasal"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Whose job is it to look after Max?",
+     "options": [
+      "Mum's",
+      "The vet's",
+      "The writer's",
+      "Dad's"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did Mum take Max to the vet?",
+     "options": [
+      "He barked",
+      "He ran away",
+      "He was hungry",
+      "He was ill"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Max do when someone comes to the door?",
+     "options": [
+      "He barks",
+      "He sleeps",
+      "He bites",
+      "He hides"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Stray Cat",
+   "script": "A stray cat lives near our school. Nobody keeps her as a pet, so the children bring her milk. She likes to chase mice behind the old library. When the girls stroke her, she purrs loudly. The teacher says we can take her to the pet shop for a collar next week.",
+   "questions": [
+    {
+     "question": "Where does the stray cat live?",
+     "options": [
+      "In a pet shop",
+      "Near the school",
+      "At the vet",
+      "In a library"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the cat chase?",
+     "options": [
+      "Birds",
+      "Dogs",
+      "Mice",
+      "Butterflies"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will the teacher do next week?",
+     "options": [
+      "Take the cat home",
+      "Call the vet",
+      "Buy a dog",
+      "Take the cat to the pet shop"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I walk the dog.",
+    "The cat purrs.",
+    "Do you have a pet?"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Pets",
+    "question_text": "Do you have a pet?",
+    "hint_words": [
+     "yes",
+     "no",
+     "cat",
+     "dog"
+    ]
+   },
+   {
+    "topic": "Pets",
+    "question_text": "Who looks after your pet?",
+    "hint_words": [
+     "I",
+     "my mum",
+     "feed",
+     "walk"
+    ]
+   },
+   {
+    "topic": "Dogs and cats",
+    "question_text": "Which do you like more, cats or dogs?",
+    "hint_words": [
+     "cats",
+     "dogs",
+     "because",
+     "soft"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 52,
+  "title": "plant, crop",
+  "vocabulary": [
+   {
+    "word": "grow a plant",
+    "translation_uz": "o'simlik o'stirmoq",
+    "example_sentence": "I grow a plant on my windowsill."
+   },
+   {
+    "word": "water the plants",
+    "translation_uz": "o'simliklarga suv quymoq",
+    "example_sentence": "Please water the plants every two days."
+   },
+   {
+    "word": "a house plant",
+    "translation_uz": "xona o'simligi",
+    "example_sentence": "A house plant makes the room fresh."
+   },
+   {
+    "word": "plant a seed",
+    "translation_uz": "urug' ekmoq",
+    "example_sentence": "The children planted a seed in a pot."
+   },
+   {
+    "word": "a plant needs light",
+    "translation_uz": "o'simlikka yorug'lik kerak",
+    "example_sentence": "Every plant needs light and water."
+   },
+   {
+    "word": "a poisonous plant",
+    "translation_uz": "zaharli o'simlik",
+    "example_sentence": "Don't touch that poisonous plant."
+   },
+   {
+    "word": "a plant grows",
+    "translation_uz": "o'simlik o'sadi",
+    "example_sentence": "The plant grew ten centimetres in a month."
+   },
+   {
+    "word": "grow crops",
+    "translation_uz": "ekin yetishtirmoq",
+    "example_sentence": "Farmers grow crops such as wheat and corn."
+   },
+   {
+    "word": "harvest the crops",
+    "translation_uz": "hosilni yig'ib olmoq",
+    "example_sentence": "In autumn they harvest the crops."
+   },
+   {
+    "word": "a good crop",
+    "translation_uz": "yaxshi hosil",
+    "example_sentence": "It was a good crop of potatoes."
+   },
+   {
+    "word": "crops fail",
+    "translation_uz": "hosil bo'lmay qoladi",
+    "example_sentence": "In dry years the crops fail."
+   },
+   {
+    "word": "a cash crop",
+    "translation_uz": "sotish uchun ekin",
+    "example_sentence": "Cotton is an important cash crop."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister likes to ___ the plants in the morning.",
+    "correct_word": "water",
+    "options": [
+     "water",
+     "eat",
+     "drive",
+     "kick"
+    ]
+   },
+   {
+    "sentence_with_blank": "Farmers ___ the crops in autumn.",
+    "correct_word": "harvest",
+    "options": [
+     "paint",
+     "harvest",
+     "iron",
+     "dance"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every plant needs water and ___.",
+    "correct_word": "light",
+    "options": [
+     "noise",
+     "money",
+     "light",
+     "pen"
+    ]
+   },
+   {
+    "sentence_with_blank": "We can ___ a seed in this small pot.",
+    "correct_word": "plant",
+    "options": [
+     "sail",
+     "open",
+     "spend",
+     "plant"
+    ]
+   },
+   {
+    "sentence_with_blank": "In very dry years the crops ___.",
+    "correct_word": "fail",
+    "options": [
+     "fail",
+     "sing",
+     "smile",
+     "paint"
+    ]
+   },
+   {
+    "sentence_with_blank": "Wheat and corn are two important ___.",
+    "correct_word": "crops",
+    "options": [
+     "stairs",
+     "crops",
+     "engines",
+     "tickets"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "In the Greenhouse",
+   "text": "Our school has a small greenhouse. Every Monday we water the plants and look at how they grow. This week we planted a seed of a sunflower. Every plant needs light, so we put the pots near the window. In the village farmers grow crops like wheat and cotton. In autumn they harvest the crops, and this year it was a good crop.",
+   "key_words": [
+    {
+     "word": "greenhouse",
+     "translation_uz": "issiqxona"
+    },
+    {
+     "word": "sunflower",
+     "translation_uz": "kungaboqar"
+    },
+    {
+     "word": "cotton",
+     "translation_uz": "paxta"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class plant this week?",
+     "options": [
+      "A cotton seed",
+      "A tomato",
+      "A sunflower seed",
+      "A tree"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why do they put the pots near the window?",
+     "options": [
+      "It is warmer",
+      "It is tidy",
+      "The window is big",
+      "Plants need light"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What kind of crop did the farmers have this year?",
+     "options": [
+      "A good one",
+      "A bad one",
+      "A small one",
+      "None"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Farmer's Year",
+   "script": "In spring the farmer plants seeds in his fields. In summer he waters the crops because the weather is hot and dry. Last year the crops failed because there was no rain. This year the weather was better, so the crop was good. In October he and his sons harvest the crops and sell them at the market.",
+   "questions": [
+    {
+     "question": "When does the farmer plant seeds?",
+     "options": [
+      "In autumn",
+      "In spring",
+      "In winter",
+      "In summer"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did the crops fail last year?",
+     "options": [
+      "There was too much snow",
+      "The seeds were old",
+      "There was no rain",
+      "There was no farmer"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where does the farmer sell the crops?",
+     "options": [
+      "At school",
+      "At the airport",
+      "In the forest",
+      "At the market"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Water the plants.",
+    "Farmers grow crops.",
+    "Plants need light."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Plants",
+    "question_text": "Do you have plants at home?",
+    "hint_words": [
+     "yes",
+     "no",
+     "flowers",
+     "windowsill"
+    ]
+   },
+   {
+    "topic": "Plants",
+    "question_text": "Who waters the plants in your house?",
+    "hint_words": [
+     "my mum",
+     "I",
+     "every day",
+     "water"
+    ]
+   },
+   {
+    "topic": "Farming",
+    "question_text": "What crops grow in your country?",
+    "hint_words": [
+     "wheat",
+     "cotton",
+     "corn",
+     "fruit"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 53,
+  "title": "flower, grass",
+  "vocabulary": [
+   {
+    "word": "pick flowers",
+    "translation_uz": "gul termoq",
+    "example_sentence": "She picked flowers for her teacher."
+   },
+   {
+    "word": "a bunch of flowers",
+    "translation_uz": "bir dasta gul",
+    "example_sentence": "He gave her a bunch of flowers."
+   },
+   {
+    "word": "wild flowers",
+    "translation_uz": "yovvoyi gullar",
+    "example_sentence": "Wild flowers grow in the meadow."
+   },
+   {
+    "word": "flowers bloom",
+    "translation_uz": "gullar ochiladi",
+    "example_sentence": "The flowers bloom in spring."
+   },
+   {
+    "word": "smell a flower",
+    "translation_uz": "gulni hidlamoq",
+    "example_sentence": "She stopped to smell a flower."
+   },
+   {
+    "word": "arrange flowers",
+    "translation_uz": "gullarni tartiblab qo'ymoq",
+    "example_sentence": "Mum arranges flowers in a vase."
+   },
+   {
+    "word": "a flower bed",
+    "translation_uz": "gulzor",
+    "example_sentence": "The gardener cleaned the flower bed."
+   },
+   {
+    "word": "cut the grass",
+    "translation_uz": "maysani o'rmoq",
+    "example_sentence": "Dad cuts the grass every Saturday."
+   },
+   {
+    "word": "long grass",
+    "translation_uz": "uzun o't",
+    "example_sentence": "A snake hid in the long grass."
+   },
+   {
+    "word": "green grass",
+    "translation_uz": "yashil maysa",
+    "example_sentence": "The cows eat green grass."
+   },
+   {
+    "word": "lie on the grass",
+    "translation_uz": "maysada yotmoq",
+    "example_sentence": "We lay on the grass and looked at the sky."
+   },
+   {
+    "word": "keep off the grass",
+    "translation_uz": "maysaga chiqmang",
+    "example_sentence": "The sign says: keep off the grass."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "In spring the flowers ___ in our garden.",
+    "correct_word": "bloom",
+    "options": [
+     "bloom",
+     "swim",
+     "fall",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ the grass every Saturday.",
+    "correct_word": "cuts",
+    "options": [
+     "bakes",
+     "cuts",
+     "reads",
+     "opens"
+    ]
+   },
+   {
+    "sentence_with_blank": "She gave her mother a ___ of flowers.",
+    "correct_word": "bunch",
+    "options": [
+     "flight",
+     "pair",
+     "bunch",
+     "slice"
+    ]
+   },
+   {
+    "sentence_with_blank": "A snake can hide in long ___.",
+    "correct_word": "grass",
+    "options": [
+     "bread",
+     "paper",
+     "glass",
+     "grass"
+    ]
+   },
+   {
+    "sentence_with_blank": "We lay ___ the grass and watched the clouds.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "at",
+     "through",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "The girl stopped to ___ a red flower.",
+    "correct_word": "smell",
+    "options": [
+     "drive",
+     "smell",
+     "wash",
+     "spend"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Spring in the Park",
+   "text": "It is spring and the park is beautiful. Wild flowers bloom everywhere, and the grass is green and soft. A gardener is cutting the grass near the flower bed. Some children are picking flowers, but a sign says: keep off the grass. A little girl smells a yellow flower and smiles. Then she gives a bunch of flowers to her grandmother.",
+   "key_words": [
+    {
+     "word": "gardener",
+     "translation_uz": "bog'bon"
+    },
+    {
+     "word": "sign",
+     "translation_uz": "belgi"
+    },
+    {
+     "word": "soft",
+     "translation_uz": "yumshoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is the gardener doing?",
+     "options": [
+      "Planting trees",
+      "Picking flowers",
+      "Cutting the grass",
+      "Watering the flower bed"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the sign say?",
+     "options": [
+      "No dogs",
+      "Do not pick flowers",
+      "Be quiet",
+      "Keep off the grass"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who gets a bunch of flowers?",
+     "options": [
+      "The girl's grandmother",
+      "The gardener",
+      "The teacher",
+      "Her friend"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Birthday Present",
+   "script": "Today is Mum's birthday. My brother and I walked to the field to pick wild flowers. We found red and yellow ones in the long grass. At home we arranged the flowers in a vase. Mum smelled them and said, \"They are lovely!\" Then we lay on the grass in the garden and ate cake.",
+   "questions": [
+    {
+     "question": "Where did the children pick flowers?",
+     "options": [
+      "In a shop",
+      "In a field",
+      "In the garden",
+      "In the park"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did they put the flowers?",
+     "options": [
+      "In a bag",
+      "On the grass",
+      "In a vase",
+      "In a pot"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did they do in the garden?",
+     "options": [
+      "Cut the grass",
+      "Planted seeds",
+      "Watered the plants",
+      "Lay on the grass and ate cake"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Pick some flowers.",
+    "Cut the grass.",
+    "The flowers bloom."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Flowers",
+    "question_text": "What is your favourite flower?",
+    "hint_words": [
+     "rose",
+     "tulip",
+     "my favourite",
+     "colour"
+    ]
+   },
+   {
+    "topic": "Flowers",
+    "question_text": "Have you ever given someone flowers?",
+    "hint_words": [
+     "yes",
+     "no",
+     "birthday",
+     "mother"
+    ]
+   },
+   {
+    "topic": "Grass",
+    "question_text": "Do you like to lie on the grass?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sky",
+     "soft"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 54,
+  "title": "tree, garden",
+  "vocabulary": [
+   {
+    "word": "plant a tree",
+    "translation_uz": "daraxt ekmoq",
+    "example_sentence": "We plant a tree every spring."
+   },
+   {
+    "word": "climb a tree",
+    "translation_uz": "daraxtga chiqmoq",
+    "example_sentence": "The boy climbed a tree to get his ball."
+   },
+   {
+    "word": "cut down a tree",
+    "translation_uz": "daraxtni kesib tashlamoq",
+    "example_sentence": "They cut down the old tree."
+   },
+   {
+    "word": "a fruit tree",
+    "translation_uz": "meva daraxti",
+    "example_sentence": "We have a fruit tree in our yard."
+   },
+   {
+    "word": "under a tree",
+    "translation_uz": "daraxt tagida",
+    "example_sentence": "We had lunch under a tree."
+   },
+   {
+    "word": "the leaves fall from the trees",
+    "translation_uz": "barglar daraxtlardan to'kiladi",
+    "example_sentence": "In autumn the leaves fall from the trees."
+   },
+   {
+    "word": "a tall tree",
+    "translation_uz": "baland daraxt",
+    "example_sentence": "A tall tree grows next to the house."
+   },
+   {
+    "word": "in the garden",
+    "translation_uz": "bog'da",
+    "example_sentence": "The children play in the garden."
+   },
+   {
+    "word": "a vegetable garden",
+    "translation_uz": "sabzavot bog'i",
+    "example_sentence": "Grandma has a vegetable garden."
+   },
+   {
+    "word": "work in the garden",
+    "translation_uz": "bog'da ishlamoq",
+    "example_sentence": "Dad likes to work in the garden."
+   },
+   {
+    "word": "a back garden",
+    "translation_uz": "uyning orqa bog'i",
+    "example_sentence": "Our back garden is quite big."
+   },
+   {
+    "word": "a botanical garden",
+    "translation_uz": "botanika bog'i",
+    "example_sentence": "We visited the botanical garden on a school trip."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Last week we ___ a small apple tree.",
+    "correct_word": "planted",
+    "options": [
+     "planted",
+     "ate",
+     "washed",
+     "closed"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother ___ a tree and could not come down.",
+    "correct_word": "climbed",
+    "options": [
+     "drank",
+     "climbed",
+     "wrote",
+     "sold"
+    ]
+   },
+   {
+    "sentence_with_blank": "Grandma grows tomatoes in her vegetable ___.",
+    "correct_word": "garden",
+    "options": [
+     "stairs",
+     "kitchen",
+     "garden",
+     "fence"
+    ]
+   },
+   {
+    "sentence_with_blank": "In autumn the ___ fall from the trees.",
+    "correct_word": "leaves",
+    "options": [
+     "stones",
+     "tickets",
+     "rivers",
+     "leaves"
+    ]
+   },
+   {
+    "sentence_with_blank": "We sat ___ a big tree and drank tea.",
+    "correct_word": "under",
+    "options": [
+     "under",
+     "over",
+     "from",
+     "since"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad likes to ___ in the garden at weekends.",
+    "correct_word": "work",
+    "options": [
+     "sleep",
+     "work",
+     "fly",
+     "swim"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our Garden",
+   "text": "We have a big back garden. In the garden there is a tall tree, and I sometimes climb it. We also have two fruit trees: an apple tree and a cherry tree. Last year Dad planted a vegetable garden next to the fence. In autumn the leaves fall from the trees, and we rake them into piles. My family often has tea under the tall tree.",
+   "key_words": [
+    {
+     "word": "rake",
+     "translation_uz": "tirmalamoq"
+    },
+    {
+     "word": "pile",
+     "translation_uz": "uyum"
+    },
+    {
+     "word": "cherry",
+     "translation_uz": "gilos"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What fruit trees do they have?",
+     "options": [
+      "Pear and plum",
+      "Orange and lemon",
+      "Apple and cherry",
+      "Peach only"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who planted the vegetable garden?",
+     "options": [
+      "Mum",
+      "The writer",
+      "Grandma",
+      "Dad"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do they do with the leaves?",
+     "options": [
+      "Rake them into piles",
+      "Burn them",
+      "Sell them",
+      "Plant them"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Old Tree",
+   "script": "There is an old tree in the middle of our village. It is very tall, and its leaves fall in autumn. Children climb it in summer, and old men sit under the tree and talk. Some people wanted to cut it down, but everyone said no. Now the village has a small garden around the tree with flowers and benches.",
+   "questions": [
+    {
+     "question": "Where is the old tree?",
+     "options": [
+      "Behind a school",
+      "In the middle of the village",
+      "In a garden at the market",
+      "By the river"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who sits under the tree?",
+     "options": [
+      "Teachers",
+      "Doctors",
+      "Old men",
+      "Farmers"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did some people want to do?",
+     "options": [
+      "Climb it",
+      "Paint it",
+      "Plant another",
+      "Cut it down"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Plant a tree.",
+    "We work in the garden.",
+    "The leaves fall."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Trees",
+    "question_text": "Is there a tree near your house?",
+    "hint_words": [
+     "yes",
+     "no",
+     "tall",
+     "big"
+    ]
+   },
+   {
+    "topic": "Garden",
+    "question_text": "Do you have a garden?",
+    "hint_words": [
+     "yes",
+     "no",
+     "flowers",
+     "vegetables"
+    ]
+   },
+   {
+    "topic": "Trees",
+    "question_text": "Have you ever planted a tree?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "school"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 55,
+  "title": "fence, gate",
+  "vocabulary": [
+   {
+    "word": "build a fence",
+    "translation_uz": "to'siq qurmoq",
+    "example_sentence": "They built a fence around the field."
+   },
+   {
+    "word": "paint a fence",
+    "translation_uz": "to'siqni bo'yamoq",
+    "example_sentence": "We painted the fence green."
+   },
+   {
+    "word": "a wooden fence",
+    "translation_uz": "yog'och to'siq",
+    "example_sentence": "A wooden fence goes round the yard."
+   },
+   {
+    "word": "a high fence",
+    "translation_uz": "baland to'siq",
+    "example_sentence": "The dog cannot jump over a high fence."
+   },
+   {
+    "word": "climb over a fence",
+    "translation_uz": "to'siqdan oshib o'tmoq",
+    "example_sentence": "The boy climbed over the fence to get his ball."
+   },
+   {
+    "word": "sit on the fence",
+    "translation_uz": "betaraf bo'lmoq",
+    "example_sentence": "He sits on the fence and doesn't choose."
+   },
+   {
+    "word": "a garden fence",
+    "translation_uz": "bog' to'sig'i",
+    "example_sentence": "The garden fence is broken."
+   },
+   {
+    "word": "open the gate",
+    "translation_uz": "darvozani ochmoq",
+    "example_sentence": "Please open the gate for the car."
+   },
+   {
+    "word": "close the gate",
+    "translation_uz": "darvozani yopmoq",
+    "example_sentence": "Always close the gate after you."
+   },
+   {
+    "word": "lock the gate",
+    "translation_uz": "darvozani qulflamoq",
+    "example_sentence": "Dad locks the gate at night."
+   },
+   {
+    "word": "at the gate",
+    "translation_uz": "darvoza oldida",
+    "example_sentence": "Someone is waiting at the gate."
+   },
+   {
+    "word": "a garden gate",
+    "translation_uz": "bog' darvozasi",
+    "example_sentence": "The garden gate squeaks."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The farmer ___ a fence around the field.",
+    "correct_word": "built",
+    "options": [
+     "built",
+     "drank",
+     "sang",
+     "ate"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the gate so the sheep can't run away.",
+    "correct_word": "close",
+    "options": [
+     "eat",
+     "close",
+     "paint",
+     "wear"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ball flew ___ the fence.",
+    "correct_word": "over",
+    "options": [
+     "into",
+     "about",
+     "over",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "Someone is knocking ___ the gate.",
+    "correct_word": "at",
+    "options": [
+     "by",
+     "for",
+     "with",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ the gate every night.",
+    "correct_word": "locks",
+    "options": [
+     "locks",
+     "reads",
+     "bakes",
+     "dances"
+    ]
+   },
+   {
+    "sentence_with_blank": "We need a high ___ to keep the dog in the garden.",
+    "correct_word": "fence",
+    "options": [
+     "spoon",
+     "fence",
+     "pillow",
+     "wave"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Painting the Fence",
+   "text": "This weekend we are painting the garden fence. It is a wooden fence, and it is old. My sister and I are using white paint. Dad is fixing the garden gate, because it does not close well. When the work is done, we will lock the gate and have a picnic in the garden.",
+   "key_words": [
+    {
+     "word": "fix",
+     "translation_uz": "tuzatmoq"
+    },
+    {
+     "word": "picnic",
+     "translation_uz": "piknik"
+    },
+    {
+     "word": "wooden",
+     "translation_uz": "yog'ochdan yasalgan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What colour paint are they using?",
+     "options": [
+      "Green",
+      "Brown",
+      "White",
+      "Blue"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is Dad doing?",
+     "options": [
+      "Painting the fence",
+      "Cutting the grass",
+      "Making lunch",
+      "Fixing the gate"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will they do after the work?",
+     "options": [
+      "Have a picnic",
+      "Go shopping",
+      "Watch TV",
+      "Visit a farm"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Runaway Sheep",
+   "script": "A sheep ran away from the farm yesterday. Someone forgot to close the gate. The farmer looked everywhere and found the sheep in a neighbour's garden. It climbed over a low fence to get there. Now the farmer is building a higher fence and he locks the gate every evening.",
+   "questions": [
+    {
+     "question": "Why did the sheep run away?",
+     "options": [
+      "The fence was broken",
+      "The gate was open",
+      "It was hungry",
+      "A dog chased it"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where was the sheep found?",
+     "options": [
+      "In a forest",
+      "By the river",
+      "In a neighbour's garden",
+      "In the school"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is the farmer building now?",
+     "options": [
+      "A new gate",
+      "A barn",
+      "A bridge",
+      "A higher fence"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Close the gate.",
+    "He built a fence.",
+    "The fence is high."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fence",
+    "question_text": "Is there a fence around your house?",
+    "hint_words": [
+     "yes",
+     "no",
+     "wooden",
+     "high"
+    ]
+   },
+   {
+    "topic": "Gate",
+    "question_text": "Do you close the gate at night?",
+    "hint_words": [
+     "yes",
+     "always",
+     "lock",
+     "dad"
+    ]
+   },
+   {
+    "topic": "Painting",
+    "question_text": "Have you ever painted a fence?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "white"
+    ]
+   }
+  ]
+ }
+]

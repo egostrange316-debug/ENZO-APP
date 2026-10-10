@@ -1,0 +1,1804 @@
+[
+ {
+  "unit": 166,
+  "title": "news",
+  "vocabulary": [
+   {
+    "word": "hear the news",
+    "translation_uz": "yangilikni eshitmoq",
+    "example_sentence": "Did you hear the news about the new library?"
+   },
+   {
+    "word": "read the news",
+    "translation_uz": "yangiliklarni o'qimoq",
+    "example_sentence": "My father reads the news online every morning."
+   },
+   {
+    "word": "watch the news",
+    "translation_uz": "yangiliklarni ko'rmoq",
+    "example_sentence": "We watch the news on TV after dinner."
+   },
+   {
+    "word": "break the news",
+    "translation_uz": "yomon xabarni (ehtiyotkorlik bilan) yetkazmoq",
+    "example_sentence": "The doctor broke the news to the family gently."
+   },
+   {
+    "word": "good news / bad news",
+    "translation_uz": "yaxshi xabar / yomon xabar",
+    "example_sentence": "I have some good news for you!"
+   },
+   {
+    "word": "great news",
+    "translation_uz": "ajoyib xabar",
+    "example_sentence": "It's great news that you passed the exam."
+   },
+   {
+    "word": "sad news",
+    "translation_uz": "qayg'uli xabar",
+    "example_sentence": "We received some sad news about our old neighbour."
+   },
+   {
+    "word": "latest news",
+    "translation_uz": "so'nggi yangiliklar",
+    "example_sentence": "Have you seen the latest news about the football team?"
+   },
+   {
+    "word": "local news",
+    "translation_uz": "mahalliy yangiliklar",
+    "example_sentence": "The local news said the bridge will close for repairs."
+   },
+   {
+    "word": "world news",
+    "translation_uz": "jahon yangiliklari",
+    "example_sentence": "The teacher asked us to follow the world news."
+   },
+   {
+    "word": "a piece of news",
+    "translation_uz": "bitta xabar",
+    "example_sentence": "That is an interesting piece of news."
+   },
+   {
+    "word": "news report",
+    "translation_uz": "yangiliklar ma'ruzasi",
+    "example_sentence": "The news report was about a storm in the north."
+   },
+   {
+    "word": "in the news",
+    "translation_uz": "yangiliklarda (e'tiborda)",
+    "example_sentence": "The young inventor has been in the news a lot."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I have ___ wonderful news for you: we won the match!",
+    "correct_word": "some",
+    "options": [
+     "some",
+     "these",
+     "many",
+     "a"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandfather likes to ___ the news on television every evening.",
+    "correct_word": "watch",
+    "options": [
+     "listen",
+     "look",
+     "watch",
+     "hear"
+    ]
+   },
+   {
+    "sentence_with_blank": "The doctor had to ___ the news to the family carefully.",
+    "correct_word": "break",
+    "options": [
+     "open",
+     "crack",
+     "tell out",
+     "break"
+    ]
+   },
+   {
+    "sentence_with_blank": "That is an interesting ___ of news.",
+    "correct_word": "piece",
+    "options": [
+     "part",
+     "piece",
+     "type",
+     "kind"
+    ]
+   },
+   {
+    "sentence_with_blank": "Have you heard the latest ___ about the festival?",
+    "correct_word": "news",
+    "options": [
+     "newspaper",
+     "news",
+     "newsletter",
+     "new"
+    ]
+   },
+   {
+    "sentence_with_blank": "The young artist has been ___ the news a lot this month.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "at",
+     "in",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Good News at Last",
+   "text": "Yesterday evening my family was watching the local news on TV. The reporter said that our town will get a new sports centre next year. It was great news for all the young people here. My brother, who plays basketball, jumped up and shouted with joy. Then the reporter said the news report would continue with the weather. Mum switched off the television and said, \"Let's have a special dinner!\" We celebrated together. Dad read the latest news again online, just to be sure it was true.",
+   "key_words": [
+    {
+     "word": "reporter",
+     "translation_uz": "muxbir"
+    },
+    {
+     "word": "celebrate",
+     "translation_uz": "nishonlamoq"
+    },
+    {
+     "word": "switch off",
+     "translation_uz": "o'chirmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What will the town get next year?",
+     "options": [
+      "A new school",
+      "A new sports centre",
+      "A new park",
+      "A new hospital"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did the writer's brother react?",
+     "options": [
+      "He went to sleep",
+      "He called a friend",
+      "He jumped up and shouted with joy",
+      "He turned off the TV"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Dad do after dinner started?",
+     "options": [
+      "He cooked",
+      "He went out",
+      "He wrote a letter",
+      "He read the news online again"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Did You Hear?",
+   "script": "Aziz: Hi, Kamila! Have you heard the news? Kamila: No, what happened? Aziz: Our school choir won the national competition. Kamila: That's fantastic news! Who told you? Aziz: I saw it in the local news this morning. Our music teacher was in the news too, because she trained the choir. Kamila: We should send her a card. Aziz: Great idea. Let's buy one after school.",
+   "questions": [
+    {
+     "question": "What did the school choir win?",
+     "options": [
+      "The national competition",
+      "A local contest",
+      "A music test",
+      "A sports match"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did Aziz see the news?",
+     "options": [
+      "On a poster",
+      "In the local news",
+      "In a letter",
+      "At the school gate"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What do they decide to do?",
+     "options": [
+      "Join the choir",
+      "Call the reporter",
+      "Buy a card for the teacher",
+      "Make a film"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I have some good news.",
+    "Did you watch the news?",
+    "It was sad news."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "News",
+    "question_text": "Where do you usually get your news from?",
+    "hint_words": [
+     "TV",
+     "phone",
+     "internet",
+     "family"
+    ]
+   },
+   {
+    "topic": "News",
+    "question_text": "What was the best piece of news you heard recently?",
+    "hint_words": [
+     "recently",
+     "good news",
+     "friend",
+     "exam"
+    ]
+   },
+   {
+    "topic": "News",
+    "question_text": "Is it important to follow the news? Why?",
+    "hint_words": [
+     "important",
+     "world",
+     "learn",
+     "know"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 167,
+  "title": "message",
+  "vocabulary": [
+   {
+    "word": "send a message",
+    "translation_uz": "xabar yubormoq",
+    "example_sentence": "I'll send you a message when I arrive."
+   },
+   {
+    "word": "receive a message",
+    "translation_uz": "xabar olmoq",
+    "example_sentence": "She received a message from her cousin."
+   },
+   {
+    "word": "leave a message",
+    "translation_uz": "xabar qoldirmoq",
+    "example_sentence": "He wasn't at home, so I left a message."
+   },
+   {
+    "word": "take a message",
+    "translation_uz": "xabarni qabul qilib olmoq (yozib olmoq)",
+    "example_sentence": "Can I take a message for her?"
+   },
+   {
+    "word": "get the message",
+    "translation_uz": "maqsadni tushunmoq",
+    "example_sentence": "I told him to be quiet, and he finally got the message."
+   },
+   {
+    "word": "a text message",
+    "translation_uz": "matnli xabar (SMS)",
+    "example_sentence": "I sent my brother a text message."
+   },
+   {
+    "word": "a voice message",
+    "translation_uz": "ovozli xabar",
+    "example_sentence": "She left a voice message on my phone."
+   },
+   {
+    "word": "an email message",
+    "translation_uz": "elektron pochta xabari",
+    "example_sentence": "He wrote a short email message to the teacher."
+   },
+   {
+    "word": "a short message",
+    "translation_uz": "qisqa xabar",
+    "example_sentence": "Just send a short message to say you're safe."
+   },
+   {
+    "word": "a message from",
+    "translation_uz": "... dan kelgan xabar",
+    "example_sentence": "I got a message from my teacher."
+   },
+   {
+    "word": "a message to",
+    "translation_uz": "... ga xabar",
+    "example_sentence": "This is a message to all students."
+   },
+   {
+    "word": "reply to a message",
+    "translation_uz": "xabarga javob bermoq",
+    "example_sentence": "Please reply to my message soon."
+   },
+   {
+    "word": "delete a message",
+    "translation_uz": "xabarni o'chirmoq",
+    "example_sentence": "I accidentally deleted the message."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I'm sorry he's out. Can I ___ a message?",
+    "correct_word": "take",
+    "options": [
+     "bring",
+     "make",
+     "take",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ a message after the beep.",
+    "correct_word": "leave",
+    "options": [
+     "stay",
+     "leave",
+     "put",
+     "let"
+    ]
+   },
+   {
+    "sentence_with_blank": "I told her many times, but she didn't get the ___.",
+    "correct_word": "message",
+    "options": [
+     "speech",
+     "sign",
+     "letter",
+     "message"
+    ]
+   },
+   {
+    "sentence_with_blank": "Did you ___ to my message yesterday?",
+    "correct_word": "reply",
+    "options": [
+     "say",
+     "tell",
+     "reply",
+     "answer"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a message ___ your teacher on the board.",
+    "correct_word": "from",
+    "options": [
+     "by",
+     "of",
+     "at",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "I sent her a text ___ to say I would be late.",
+    "correct_word": "message",
+    "options": [
+     "report",
+     "speech",
+     "message",
+     "paper"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Message from Grandma",
+   "text": "Yesterday I was playing football when my phone buzzed. It was a voice message from my grandmother. She said, \"Hello, dear! Can you call me tonight? I have something to tell you.\" After the game, I tried to reply to her message with a text, but she doesn't like writing. So I called her instead. Nobody answered, so I left a message. Later, my mother took a message from Grandma, too. In the end, we all talked on the phone together. It was a lovely evening.",
+   "key_words": [
+    {
+     "word": "buzz",
+     "translation_uz": "vizillamoq"
+    },
+    {
+     "word": "reply",
+     "translation_uz": "javob bermoq"
+    },
+    {
+     "word": "lovely",
+     "translation_uz": "yoqimli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of message did the writer receive?",
+     "options": [
+      "A voice message",
+      "A letter",
+      "An email",
+      "A postcard"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the writer call instead of texting?",
+     "options": [
+      "The phone was broken",
+      "Grandma doesn't like writing",
+      "It was late",
+      "He had no credit"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the writer do when nobody answered?",
+     "options": [
+      "He went to sleep",
+      "He wrote a letter",
+      "He left a message",
+      "He called a friend"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Office",
+   "script": "Receptionist: Good morning, Dr Brown's office. Caller: Hello, may I speak to Dr Brown? Receptionist: I'm sorry, she's in a meeting. Can I take a message? Caller: Yes, please. It's Jim Carter. Tell her I got her email message, and I'll reply by Friday. Receptionist: Of course. Anything else? Caller: Yes, please ask her to call me back on my mobile. Receptionist: I'll give her the message as soon as she is free.",
+   "questions": [
+    {
+     "question": "Why can't the caller speak to Dr Brown?",
+     "options": [
+      "She is on holiday",
+      "She is ill",
+      "She has gone home",
+      "She is in a meeting"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When will Jim reply?",
+     "options": [
+      "By Friday",
+      "Today",
+      "On Monday",
+      "Next month"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Jim want Dr Brown to do?",
+     "options": [
+      "Send an email",
+      "Call him on his mobile",
+      "Visit his office",
+      "Write a letter"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I received a text message.",
+    "Can I take a message?",
+    "She left a voice message."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Messages",
+    "question_text": "How many messages do you send every day?",
+    "hint_words": [
+     "a lot",
+     "about",
+     "friends",
+     "phone"
+    ]
+   },
+   {
+    "topic": "Messages",
+    "question_text": "Do you prefer text messages or voice messages? Why?",
+    "hint_words": [
+     "prefer",
+     "quick",
+     "easy",
+     "voice"
+    ]
+   },
+   {
+    "topic": "Messages",
+    "question_text": "Tell me about a message that made you happy.",
+    "hint_words": [
+     "from",
+     "friend",
+     "good news",
+     "happy"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 168,
+  "title": "document",
+  "vocabulary": [
+   {
+    "word": "an official document",
+    "translation_uz": "rasmiy hujjat",
+    "example_sentence": "You need an official document to open a bank account."
+   },
+   {
+    "word": "a legal document",
+    "translation_uz": "huquqiy hujjat",
+    "example_sentence": "The lawyer prepared a legal document."
+   },
+   {
+    "word": "an important document",
+    "translation_uz": "muhim hujjat",
+    "example_sentence": "Keep this important document in a safe place."
+   },
+   {
+    "word": "sign a document",
+    "translation_uz": "hujjatga imzo chekmoq",
+    "example_sentence": "Please sign the document at the bottom."
+   },
+   {
+    "word": "read a document",
+    "translation_uz": "hujjatni o'qimoq",
+    "example_sentence": "Read the document carefully before you sign it."
+   },
+   {
+    "word": "fill in a document",
+    "translation_uz": "hujjatni to'ldirmoq",
+    "example_sentence": "She filled in the document with her name and address."
+   },
+   {
+    "word": "prepare a document",
+    "translation_uz": "hujjat tayyorlamoq",
+    "example_sentence": "The secretary is preparing the documents for the meeting."
+   },
+   {
+    "word": "a travel document",
+    "translation_uz": "safar hujjati",
+    "example_sentence": "A passport is the most common travel document."
+   },
+   {
+    "word": "a secret document",
+    "translation_uz": "maxfiy hujjat",
+    "example_sentence": "The film is about a thief who steals secret documents."
+   },
+   {
+    "word": "save a document",
+    "translation_uz": "hujjatni saqlamoq",
+    "example_sentence": "Don't forget to save the document on your computer."
+   },
+   {
+    "word": "print a document",
+    "translation_uz": "hujjatni chop etmoq",
+    "example_sentence": "Can you print this document for me?"
+   },
+   {
+    "word": "a document about",
+    "translation_uz": "... haqida hujjat",
+    "example_sentence": "We found a document about the history of our school."
+   },
+   {
+    "word": "document (verb)",
+    "translation_uz": "hujjatlashtirmoq, qayd etmoq",
+    "example_sentence": "The scientist documented every step of the experiment."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "You have to ___ the document before you can send it.",
+    "correct_word": "sign",
+    "options": [
+     "paint",
+     "write down",
+     "draw",
+     "sign"
+    ]
+   },
+   {
+    "sentence_with_blank": "A passport is an important travel ___.",
+    "correct_word": "document",
+    "options": [
+     "paper",
+     "letter",
+     "document",
+     "message"
+    ]
+   },
+   {
+    "sentence_with_blank": "The lawyer is ___ a legal document for the new company.",
+    "correct_word": "preparing",
+    "options": [
+     "giving",
+     "hanging",
+     "preparing",
+     "cooking"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ in this document with your name and address.",
+    "correct_word": "fill",
+    "options": [
+     "fill",
+     "make",
+     "write on",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't forget to ___ the document before you close the computer.",
+    "correct_word": "save",
+    "options": [
+     "hold",
+     "keep up",
+     "stay",
+     "save"
+    ]
+   },
+   {
+    "sentence_with_blank": "I found an old document ___ our family history.",
+    "correct_word": "about",
+    "options": [
+     "about",
+     "at",
+     "to",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Travelling Abroad",
+   "text": "Next month my family is going to Turkey for a holiday. Mum has prepared all the important documents in a blue folder. We need our passports, which are official documents, and our tickets. Last week I helped Dad fill in a visa form. He signed the document at the bottom, and I checked the spelling of our names. Mum also printed a document about the hotel, with the address and phone number. She says it is better to keep paper copies of everything. I am so excited, and I cannot wait to go.",
+   "key_words": [
+    {
+     "word": "passport",
+     "translation_uz": "pasport"
+    },
+    {
+     "word": "visa",
+     "translation_uz": "viza"
+    },
+    {
+     "word": "folder",
+     "translation_uz": "papka"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the family going?",
+     "options": [
+      "To Spain",
+      "To Egypt",
+      "To Italy",
+      "To Turkey"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where does Mum keep the documents?",
+     "options": [
+      "In a blue folder",
+      "In a bag",
+      "In a drawer",
+      "In a box"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the writer help Dad do?",
+     "options": [
+      "Buy tickets",
+      "Fill in a visa form",
+      "Pack the cases",
+      "Call the hotel"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Bank",
+   "script": "Clerk: Good afternoon. How can I help you? Boy: Hello. I'd like to open a bank account, please. Clerk: Of course. Do you have an official document with your name on it? Boy: Yes, here is my passport. Clerk: Thank you. Please fill in this form and sign the document at the bottom. Boy: Where do I sign? Clerk: Here, next to the date. I'll print a copy for you.",
+   "questions": [
+    {
+     "question": "What does the boy want to do?",
+     "options": [
+      "Get a loan",
+      "Buy a house",
+      "Open a bank account",
+      "Change money"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which document does he show?",
+     "options": [
+      "His school card",
+      "A letter",
+      "A ticket",
+      "His passport"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where must he sign?",
+     "options": [
+      "Next to the date",
+      "On the back",
+      "At the top",
+      "On the envelope"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Please sign the document.",
+    "This is an official document.",
+    "I need to print it."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Documents",
+    "question_text": "What important documents do you have at home?",
+    "hint_words": [
+     "passport",
+     "certificate",
+     "I have",
+     "safe"
+    ]
+   },
+   {
+    "topic": "Documents",
+    "question_text": "Why is it important to read a document before signing?",
+    "hint_words": [
+     "careful",
+     "important",
+     "understand",
+     "mistake"
+    ]
+   },
+   {
+    "topic": "Documents",
+    "question_text": "Do you save documents on a computer or on paper?",
+    "hint_words": [
+     "computer",
+     "paper",
+     "safe",
+     "prefer"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 169,
+  "title": "article",
+  "vocabulary": [
+   {
+    "word": "write an article",
+    "translation_uz": "maqola yozmoq",
+    "example_sentence": "Our teacher wrote an article for the school magazine."
+   },
+   {
+    "word": "read an article",
+    "translation_uz": "maqola o'qimoq",
+    "example_sentence": "I read an interesting article about space."
+   },
+   {
+    "word": "publish an article",
+    "translation_uz": "maqolani nashr qilmoq",
+    "example_sentence": "The newspaper published her article on Monday."
+   },
+   {
+    "word": "a newspaper article",
+    "translation_uz": "gazeta maqolasi",
+    "example_sentence": "There was a newspaper article about our school."
+   },
+   {
+    "word": "a magazine article",
+    "translation_uz": "jurnal maqolasi",
+    "example_sentence": "I found a magazine article about healthy food."
+   },
+   {
+    "word": "an online article",
+    "translation_uz": "internetdagi maqola",
+    "example_sentence": "He shared an online article with his friends."
+   },
+   {
+    "word": "a long article",
+    "translation_uz": "uzun maqola",
+    "example_sentence": "It's a long article, so it takes ten minutes to read."
+   },
+   {
+    "word": "a front-page article",
+    "translation_uz": "birinchi sahifadagi maqola",
+    "example_sentence": "His photo was on the front page of the paper."
+   },
+   {
+    "word": "an article about / on",
+    "translation_uz": "... haqida maqola",
+    "example_sentence": "She wrote an article on climate change."
+   },
+   {
+    "word": "an article by",
+    "translation_uz": "... tomonidan yozilgan maqola",
+    "example_sentence": "This is an article by a famous journalist."
+   },
+   {
+    "word": "a feature article",
+    "translation_uz": "maxsus (mavzuli) maqola",
+    "example_sentence": "The magazine had a feature article about robots."
+   },
+   {
+    "word": "a news article",
+    "translation_uz": "yangiliklar maqolasi",
+    "example_sentence": "The news article explained what had happened."
+   },
+   {
+    "word": "a definite / indefinite article",
+    "translation_uz": "aniq / noaniq artikl",
+    "example_sentence": "\"The\" is a definite article in English."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The journalist ___ an article about the new museum.",
+    "correct_word": "wrote",
+    "options": [
+     "said",
+     "wrote",
+     "drew",
+     "told"
+    ]
+   },
+   {
+    "sentence_with_blank": "The paper ___ my article on its front page.",
+    "correct_word": "published",
+    "options": [
+     "sent",
+     "opened",
+     "kept",
+     "published"
+    ]
+   },
+   {
+    "sentence_with_blank": "I read an interesting article ___ dinosaurs.",
+    "correct_word": "about",
+    "options": [
+     "with",
+     "about",
+     "at",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is an article ___ a well-known scientist.",
+    "correct_word": "by",
+    "options": [
+     "to",
+     "at",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"A\" is an indefinite ___ in English.",
+    "correct_word": "article",
+    "options": [
+     "verb",
+     "article",
+     "noun",
+     "adjective"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"The\" is the ___ article in English.",
+    "correct_word": "definite",
+    "options": [
+     "formal",
+     "definite",
+     "official",
+     "indefinite"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My First Article",
+   "text": "Last term I joined the school newspaper club. We meet every Friday, and each student writes an article. My first article was about our school library. I interviewed the librarian and took some photos. It was a short article, but it took me three days to write. Our teacher corrected the mistakes, and then the newspaper published it. I was so proud when I saw my name under the title. My friends read the article online, and they said it was very interesting. Now I want to write a longer article about school sports.",
+   "key_words": [
+    {
+     "word": "interview",
+     "translation_uz": "intervyu olmoq"
+    },
+    {
+     "word": "librarian",
+     "translation_uz": "kutubxonachi"
+    },
+    {
+     "word": "proud",
+     "translation_uz": "faxrlangan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the first article about?",
+     "options": [
+      "School sports",
+      "A new teacher",
+      "The school library",
+      "The school canteen"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did it take to write?",
+     "options": [
+      "One day",
+      "A week",
+      "Two hours",
+      "Three days"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will the writer write about next?",
+     "options": [
+      "School sports",
+      "Music",
+      "Food",
+      "The librarian"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Magazine Article",
+   "script": "Dad: What are you reading, Ben? Ben: It's a magazine article about robots. It's by a famous scientist. Dad: Is it interesting? Ben: Yes. It says robots will help doctors in the future. It's a long article, but I like it. Dad: Can I read it after you? Ben: Sure. I found it online, so I can send you the link. Dad: Thanks. I'd like to read it tonight.",
+   "questions": [
+    {
+     "question": "What is the article about?",
+     "options": [
+      "Space",
+      "Robots",
+      "Animals",
+      "Football"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who wrote the article?",
+     "options": [
+      "Ben's teacher",
+      "A doctor",
+      "A famous scientist",
+      "Ben's dad"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did Ben find the article?",
+     "options": [
+      "In a library",
+      "In a newspaper",
+      "At school",
+      "Online"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She wrote a newspaper article.",
+    "I read an online article.",
+    "The article was very long."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Articles",
+    "question_text": "What kind of articles do you like to read?",
+    "hint_words": [
+     "I like",
+     "sport",
+     "science",
+     "music"
+    ]
+   },
+   {
+    "topic": "Articles",
+    "question_text": "Would you like to write an article? What about?",
+    "hint_words": [
+     "I would like",
+     "about",
+     "school",
+     "hobby"
+    ]
+   },
+   {
+    "topic": "Articles",
+    "question_text": "Do you read articles online or on paper?",
+    "hint_words": [
+     "online",
+     "paper",
+     "phone",
+     "prefer"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 170,
+  "title": "letter",
+  "vocabulary": [
+   {
+    "word": "write a letter",
+    "translation_uz": "xat yozmoq",
+    "example_sentence": "I wrote a letter to my pen friend in Japan."
+   },
+   {
+    "word": "send a letter",
+    "translation_uz": "xat jo'natmoq",
+    "example_sentence": "She sent a letter to the city council."
+   },
+   {
+    "word": "receive a letter",
+    "translation_uz": "xat olmoq",
+    "example_sentence": "We received a letter from the school yesterday."
+   },
+   {
+    "word": "post a letter",
+    "translation_uz": "xatni pochtaga tashlamoq",
+    "example_sentence": "I need to post this letter before five."
+   },
+   {
+    "word": "open a letter",
+    "translation_uz": "xatni ochmoq",
+    "example_sentence": "He opened the letter with shaking hands."
+   },
+   {
+    "word": "a letter from",
+    "translation_uz": "... dan kelgan xat",
+    "example_sentence": "There's a letter from Grandpa on the table."
+   },
+   {
+    "word": "a letter to",
+    "translation_uz": "... ga xat",
+    "example_sentence": "I wrote a letter to the mayor."
+   },
+   {
+    "word": "a love letter",
+    "translation_uz": "sevgi xati",
+    "example_sentence": "The old box contained a love letter."
+   },
+   {
+    "word": "a formal letter",
+    "translation_uz": "rasmiy xat",
+    "example_sentence": "You should write a formal letter to apply for the job."
+   },
+   {
+    "word": "a letter of complaint",
+    "translation_uz": "shikoyat xati",
+    "example_sentence": "They wrote a letter of complaint to the shop."
+   },
+   {
+    "word": "a covering letter",
+    "translation_uz": "ilova (qo'shimcha) xat",
+    "example_sentence": "Send a covering letter with your application."
+   },
+   {
+    "word": "by letter",
+    "translation_uz": "xat orqali",
+    "example_sentence": "He told us the news by letter."
+   },
+   {
+    "word": "a capital letter",
+    "translation_uz": "bosh harf",
+    "example_sentence": "Names start with a capital letter."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I need to ___ this letter before the last collection today.",
+    "correct_word": "post",
+    "options": [
+     "post",
+     "make",
+     "say",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "She wrote a formal letter of ___ to the airline.",
+    "correct_word": "complaint",
+    "options": [
+     "complain",
+     "complaining",
+     "complaint",
+     "complained"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a letter ___ my uncle in Canada.",
+    "correct_word": "from",
+    "options": [
+     "at",
+     "from",
+     "off",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Names always begin with a capital ___.",
+    "correct_word": "letter",
+    "options": [
+     "sentence",
+     "line",
+     "letter",
+     "word"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ the letter carefully and began to read.",
+    "correct_word": "opened",
+    "options": [
+     "opened",
+     "started",
+     "lost",
+     "closed"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandparents told us the news ___ letter.",
+    "correct_word": "by",
+    "options": [
+     "in",
+     "with",
+     "on",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Letter from Abroad",
+   "text": "Last Saturday a letter arrived from my pen friend, Kenji, in Japan. I was very happy to receive a letter on real paper, because I usually only get emails. I opened the letter carefully and read it twice. Kenji wrote about his school, his family and his favourite food. He also sent a photo of Mount Fuji. I want to reply by letter, too. This evening I will write a long letter to him and post it tomorrow morning. It will take about a week to arrive.",
+   "key_words": [
+    {
+     "word": "pen friend",
+     "translation_uz": "yozishma do'st"
+    },
+    {
+     "word": "carefully",
+     "translation_uz": "ehtiyotkorlik bilan"
+    },
+    {
+     "word": "arrive",
+     "translation_uz": "yetib kelmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who sent the letter?",
+     "options": [
+      "The writer's teacher",
+      "Kenji",
+      "A cousin",
+      "A shop"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Kenji send with the letter?",
+     "options": [
+      "A present",
+      "A map",
+      "A photo of Mount Fuji",
+      "A drawing"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When will the writer post the reply?",
+     "options": [
+      "This evening",
+      "On Saturday",
+      "Next week",
+      "Tomorrow morning"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Post Office",
+   "script": "Woman: Good morning. I'd like to send this letter to London, please. Clerk: Certainly. Is it an urgent letter? Woman: No, it isn't. It's a letter of thanks to my aunt. Clerk: Then second class is fine. It will take about five days. Woman: How much is it? Clerk: Two pounds, please. Woman: Here you are. Clerk: Thank you. I'll post the letter this afternoon.",
+   "questions": [
+    {
+     "question": "Where is the woman sending her letter?",
+     "options": [
+      "To London",
+      "To Paris",
+      "To Rome",
+      "To Berlin"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who is the letter for?",
+     "options": [
+      "Her teacher",
+      "Her aunt",
+      "Her boss",
+      "Her friend"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long will it take?",
+     "options": [
+      "One day",
+      "Two weeks",
+      "About five days",
+      "A month"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I wrote a long letter.",
+    "Please post this letter.",
+    "Begin with a capital letter."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Letters",
+    "question_text": "When did you last write or receive a letter?",
+    "hint_words": [
+     "last year",
+     "card",
+     "grandparents",
+     "birthday"
+    ]
+   },
+   {
+    "topic": "Letters",
+    "question_text": "Do you think people should write more letters? Why?",
+    "hint_words": [
+     "personal",
+     "slow",
+     "special",
+     "emails"
+    ]
+   },
+   {
+    "topic": "Letters",
+    "question_text": "Who would you like to write a letter to?",
+    "hint_words": [
+     "I would like",
+     "friend",
+     "family",
+     "thank"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 171,
+  "title": "mail",
+  "vocabulary": [
+   {
+    "word": "check your mail",
+    "translation_uz": "pochtangizni tekshirmoq",
+    "example_sentence": "I check my mail every morning."
+   },
+   {
+    "word": "send mail",
+    "translation_uz": "pochta jo'natmoq",
+    "example_sentence": "They send a lot of mail before the holidays."
+   },
+   {
+    "word": "get / receive mail",
+    "translation_uz": "pochta olmoq",
+    "example_sentence": "We don't get much mail these days."
+   },
+   {
+    "word": "open the mail",
+    "translation_uz": "pochtani ochmoq",
+    "example_sentence": "Dad opens the mail at breakfast."
+   },
+   {
+    "word": "by mail",
+    "translation_uz": "pochta orqali",
+    "example_sentence": "The tickets will be sent to you by mail."
+   },
+   {
+    "word": "junk mail",
+    "translation_uz": "keraksiz reklama pochtasi",
+    "example_sentence": "Half of our mail is junk mail."
+   },
+   {
+    "word": "express mail",
+    "translation_uz": "tezkor pochta",
+    "example_sentence": "We sent the gift by express mail."
+   },
+   {
+    "word": "air mail",
+    "translation_uz": "aviapochta",
+    "example_sentence": "The parcel went by air mail."
+   },
+   {
+    "word": "the morning mail",
+    "translation_uz": "ertalabki pochta",
+    "example_sentence": "The morning mail usually arrives at nine."
+   },
+   {
+    "word": "an email",
+    "translation_uz": "elektron xat",
+    "example_sentence": "I sent her an email last night."
+   },
+   {
+    "word": "send an email",
+    "translation_uz": "elektron xat yubormoq",
+    "example_sentence": "Please send me an email with the details."
+   },
+   {
+    "word": "email address",
+    "translation_uz": "elektron pochta manzili",
+    "example_sentence": "What's your email address?"
+   },
+   {
+    "word": "a mailbox",
+    "translation_uz": "pochta qutisi",
+    "example_sentence": "There was a postcard in the mailbox."
+   },
+   {
+    "word": "a mail carrier / postman",
+    "translation_uz": "xat tashuvchi (pochtachi)",
+    "example_sentence": "The mail carrier brings our mail at noon."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Dad always ___ the mail before breakfast.",
+    "correct_word": "checks",
+    "options": [
+     "catches",
+     "checks",
+     "speaks",
+     "tells"
+    ]
+   },
+   {
+    "sentence_with_blank": "Most of what we get is junk ___.",
+    "correct_word": "mail",
+    "options": [
+     "message",
+     "mail",
+     "news",
+     "paper"
+    ]
+   },
+   {
+    "sentence_with_blank": "I sent the package ___ air mail to Canada.",
+    "correct_word": "by",
+    "options": [
+     "by",
+     "at",
+     "with",
+     "in front"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you send me an ___ with the details?",
+    "correct_word": "email",
+    "options": [
+     "mailer",
+     "mailing",
+     "email",
+     "emailed"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ carrier comes to our street at about noon.",
+    "correct_word": "mail",
+    "options": [
+     "shop",
+     "school",
+     "mail",
+     "bank"
+    ]
+   },
+   {
+    "sentence_with_blank": "What is your email ___? I'd like to write to you.",
+    "correct_word": "address",
+    "options": [
+     "home",
+     "place",
+     "address",
+     "number"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Waiting for the Mail",
+   "text": "Every day at noon, I wait for the mail carrier at our gate. Most of the mail is junk mail, but today there was a surprise. I found a parcel from my aunt in Canada. She sent it by air mail, and it took only one week. Inside there was a book and a short note. I immediately wrote her an email to say thank you. Then I checked my other mail: a bill for Dad and a postcard for my sister. I put everything in the kitchen and told my family about the parcel.",
+   "key_words": [
+    {
+     "word": "parcel",
+     "translation_uz": "posilka"
+    },
+    {
+     "word": "postcard",
+     "translation_uz": "otkritka"
+    },
+    {
+     "word": "bill",
+     "translation_uz": "hisob-kitob (to'lov varaqasi)"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who sent the parcel?",
+     "options": [
+      "The writer's aunt",
+      "A friend",
+      "The school",
+      "A shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did it arrive?",
+     "options": [
+      "By train",
+      "By air mail",
+      "By car",
+      "By hand"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the writer do first after opening it?",
+     "options": [
+      "Read the book",
+      "Called Mum",
+      "Wrote her an email",
+      "Went to school"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Where Is the Mail?",
+   "script": "Sophie: Have you checked the mail today, Mum? Mum: Yes, there was only junk mail. Sophie: I'm waiting for a parcel. It should arrive by express mail. Mum: What is in it? Sophie: A birthday present for Dad. I ordered it online last week. Mum: Then check the mailbox again at four. The mail carrier sometimes comes late. Sophie: Okay. I'll also send Dad an email so he doesn't ask about it.",
+   "questions": [
+    {
+     "question": "What kind of mail did Mum find?",
+     "options": [
+      "A parcel",
+      "A bill",
+      "A postcard",
+      "Junk mail"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the parcel for?",
+     "options": [
+      "Dad's birthday",
+      "Mum's birthday",
+      "A school project",
+      "Sophie's holiday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When should Sophie check the mailbox again?",
+     "options": [
+      "At noon",
+      "At four",
+      "At six",
+      "At nine"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I checked my mail today.",
+    "Send me an email.",
+    "Most of it is junk mail."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Mail",
+    "question_text": "Do you get much mail at home? What kind?",
+    "hint_words": [
+     "letters",
+     "bills",
+     "parcels",
+     "junk"
+    ]
+   },
+   {
+    "topic": "Mail",
+    "question_text": "How often do you check your email?",
+    "hint_words": [
+     "every day",
+     "often",
+     "phone",
+     "sometimes"
+    ]
+   },
+   {
+    "topic": "Mail",
+    "question_text": "Do you prefer a letter by mail or an email? Why?",
+    "hint_words": [
+     "prefer",
+     "fast",
+     "special",
+     "paper"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 172,
+  "title": "advert, publicity and reputation",
+  "vocabulary": [
+   {
+    "word": "place / put an advert",
+    "translation_uz": "e'lon bermoq",
+    "example_sentence": "They put an advert in the local paper."
+   },
+   {
+    "word": "run an advert",
+    "translation_uz": "reklama ko'rsatmoq",
+    "example_sentence": "The company runs adverts on TV."
+   },
+   {
+    "word": "a TV advert",
+    "translation_uz": "televizion reklama",
+    "example_sentence": "I like the new TV advert for orange juice."
+   },
+   {
+    "word": "an advert for",
+    "translation_uz": "... uchun reklama",
+    "example_sentence": "I saw an advert for a new phone."
+   },
+   {
+    "word": "answer an advert",
+    "translation_uz": "e'longa javob bermoq",
+    "example_sentence": "He answered an advert for a part-time job."
+   },
+   {
+    "word": "a job advert",
+    "translation_uz": "ish e'loni",
+    "example_sentence": "There's a job advert in the window."
+   },
+   {
+    "word": "get / attract publicity",
+    "translation_uz": "e'tibor (reklama) jalb qilmoq",
+    "example_sentence": "The event attracted a lot of publicity."
+   },
+   {
+    "word": "good / bad publicity",
+    "translation_uz": "yaxshi / yomon shuhrat (reklama)",
+    "example_sentence": "Even bad publicity can bring new customers."
+   },
+   {
+    "word": "a publicity campaign",
+    "translation_uz": "reklama kampaniyasi",
+    "example_sentence": "The club started a publicity campaign for the concert."
+   },
+   {
+    "word": "have a good reputation",
+    "translation_uz": "yaxshi obro'ga ega bo'lmoq",
+    "example_sentence": "This school has a good reputation."
+   },
+   {
+    "word": "build a reputation",
+    "translation_uz": "obro' qozonmoq",
+    "example_sentence": "She built a reputation as a fair teacher."
+   },
+   {
+    "word": "damage a reputation",
+    "translation_uz": "obro'ga putur yetkazmoq",
+    "example_sentence": "One mistake can damage a company's reputation."
+   },
+   {
+    "word": "a reputation for",
+    "translation_uz": "... bilan nom chiqargan",
+    "example_sentence": "The restaurant has a reputation for fast service."
+   },
+   {
+    "word": "advertise a product",
+    "translation_uz": "mahsulotni reklama qilmoq",
+    "example_sentence": "They use famous players to advertise their shoes."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The shop ___ an advert in the newspaper for a new assistant.",
+    "correct_word": "placed",
+    "options": [
+     "held",
+     "kept",
+     "placed",
+     "built"
+    ]
+   },
+   {
+    "sentence_with_blank": "The restaurant has a good ___ for its tasty soup.",
+    "correct_word": "reputation",
+    "options": [
+     "lesson",
+     "reputation",
+     "rule",
+     "price"
+    ]
+   },
+   {
+    "sentence_with_blank": "The festival got a lot of ___ on social media.",
+    "correct_word": "publicity",
+    "options": [
+     "publicity",
+     "advertise",
+     "reputation",
+     "advertised"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was ___ a job advert in the window when I saw him.",
+    "correct_word": "reading",
+    "options": [
+     "saying",
+     "reading",
+     "speaking",
+     "telling"
+    ]
+   },
+   {
+    "sentence_with_blank": "One bad review can ___ a company's reputation.",
+    "correct_word": "damage",
+    "options": [
+     "fall",
+     "damage",
+     "draw",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "Companies often ___ their products on TV.",
+    "correct_word": "advertise",
+    "options": [
+     "advert",
+     "advertiser",
+     "advertise",
+     "advertising"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The New Café",
+   "text": "A new café opened on our street last month. At first nobody knew about it, so the owner, Mrs Rose, decided to put an advert in the local newspaper. She also made a publicity campaign online, with photos of her cakes. Soon the café got a lot of good publicity, and many people came. Now it has a reputation for the best chocolate cake in town. Mrs Rose is also looking for a helper, so she put a job advert in the window. She says that a good reputation takes time to build but can be damaged quickly.",
+   "key_words": [
+    {
+     "word": "owner",
+     "translation_uz": "egasi"
+    },
+    {
+     "word": "customer",
+     "translation_uz": "mijoz"
+    },
+    {
+     "word": "review",
+     "translation_uz": "sharh, baho"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did Mrs Rose put her first advert?",
+     "options": [
+      "On the radio",
+      "On a bus",
+      "On TV",
+      "In the local newspaper"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the café famous for?",
+     "options": [
+      "Chocolate cake",
+      "Coffee",
+      "Ice cream",
+      "Pizza"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why is there a job advert in the window?",
+     "options": [
+      "She is closing",
+      "She needs a helper",
+      "She is moving",
+      "She sells the café"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Good Advert",
+   "script": "Kim: Did you see the new TV advert for Sunny Juice? Leo: Yes, it's very funny. A dog drinks the juice and starts to dance. Kim: The company spent a lot of money on this publicity campaign. Leo: It worked! Everyone is talking about it. Kim: Their juice has a good reputation too. It's made from real fruit. Leo: I agree. I bought a bottle yesterday, and it was delicious.",
+   "questions": [
+    {
+     "question": "What happens in the advert?",
+     "options": [
+      "A boy sings",
+      "A cat sleeps",
+      "A dog dances",
+      "A girl runs"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is Sunny Juice made from?",
+     "options": [
+      "Sugar water",
+      "Milk",
+      "Vegetables",
+      "Real fruit"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Leo do yesterday?",
+     "options": [
+      "Bought a bottle of juice",
+      "Made an advert",
+      "Visited the factory",
+      "Wrote a letter"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I saw a funny TV advert.",
+    "The school has a good reputation.",
+    "They started a publicity campaign."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Adverts and reputation",
+    "question_text": "What is your favourite advert? Why do you like it?",
+    "hint_words": [
+     "funny",
+     "music",
+     "I like",
+     "product"
+    ]
+   },
+   {
+    "topic": "Adverts and reputation",
+    "question_text": "Do adverts make you buy things?",
+    "hint_words": [
+     "sometimes",
+     "often",
+     "never",
+     "want"
+    ]
+   },
+   {
+    "topic": "Adverts and reputation",
+    "question_text": "Why is a good reputation important for a school or shop?",
+    "hint_words": [
+     "customers",
+     "trust",
+     "students",
+     "good"
+    ]
+   }
+  ]
+ }
+]

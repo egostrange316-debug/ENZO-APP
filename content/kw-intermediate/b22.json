@@ -1,0 +1,1297 @@
+[
+ {
+  "unit": 174,
+  "title": "machine",
+  "vocabulary": [
+   {
+    "word": "operate a machine",
+    "translation_uz": "mashinani boshqarmoq",
+    "example_sentence": "Only trained workers can operate this machine."
+   },
+   {
+    "word": "use a machine",
+    "translation_uz": "mashinadan foydalanmoq",
+    "example_sentence": "Do you know how to use this machine?"
+   },
+   {
+    "word": "turn on / switch on a machine",
+    "translation_uz": "mashinani yoqmoq",
+    "example_sentence": "Switch on the machine and wait a minute."
+   },
+   {
+    "word": "turn off a machine",
+    "translation_uz": "mashinani o'chirmoq",
+    "example_sentence": "Always turn off the machine after use."
+   },
+   {
+    "word": "the machine works / breaks down",
+    "translation_uz": "mashina ishlaydi / buziladi",
+    "example_sentence": "The machine broke down in the middle of the day."
+   },
+   {
+    "word": "a washing machine",
+    "translation_uz": "kir yuvish mashinasi",
+    "example_sentence": "Our washing machine is very old."
+   },
+   {
+    "word": "a sewing machine",
+    "translation_uz": "tikuv mashinasi",
+    "example_sentence": "My grandmother makes dresses on a sewing machine."
+   },
+   {
+    "word": "a vending machine",
+    "translation_uz": "savdo avtomati",
+    "example_sentence": "I bought a bottle of water from the vending machine."
+   },
+   {
+    "word": "a cash machine",
+    "translation_uz": "bankomat",
+    "example_sentence": "There is a cash machine outside the bank."
+   },
+   {
+    "word": "a heavy machine",
+    "translation_uz": "og'ir mashina",
+    "example_sentence": "A heavy machine was digging the road."
+   },
+   {
+    "word": "a machine for",
+    "translation_uz": "... uchun mashina",
+    "example_sentence": "This is a machine for making coffee."
+   },
+   {
+    "word": "by machine",
+    "translation_uz": "mashina yordamida",
+    "example_sentence": "The cloth is made by machine."
+   },
+   {
+    "word": "machinery",
+    "translation_uz": "mashinalar (jamlama)",
+    "example_sentence": "Farmers need modern machinery to work faster."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A trained worker must ___ this big machine.",
+    "correct_word": "operate",
+    "options": [
+     "ride",
+     "hold",
+     "play",
+     "operate"
+    ]
+   },
+   {
+    "sentence_with_blank": "The washing machine ___ down, so we called a repairman.",
+    "correct_word": "broke",
+    "options": [
+     "put",
+     "broke",
+     "fell",
+     "took"
+    ]
+   },
+   {
+    "sentence_with_blank": "I got a snack from the vending ___.",
+    "correct_word": "machine",
+    "options": [
+     "robot",
+     "tool",
+     "machine",
+     "engine"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ off the machine when you leave the room.",
+    "correct_word": "turn",
+    "options": [
+     "turn",
+     "take",
+     "make",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is a machine ___ making bread.",
+    "correct_word": "for",
+    "options": [
+     "on",
+     "at",
+     "of",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "Grandma makes clothes ___ a sewing machine.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "at",
+     "for",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Old Sewing Machine",
+   "text": "My grandmother has an old sewing machine in her room. It is more than forty years old, but it still works well. She uses the machine to make dresses and curtains for the whole family. Last week it suddenly stopped, and she was worried. My uncle, who knows a lot about machines, looked at it and found a broken needle. He fixed it in five minutes. Grandma was so happy that she made him a cup of tea. She says modern machines are fast, but her old machine is her best friend.",
+   "key_words": [
+    {
+     "word": "curtain",
+     "translation_uz": "parda"
+    },
+    {
+     "word": "needle",
+     "translation_uz": "igna"
+    },
+    {
+     "word": "worried",
+     "translation_uz": "xavotirda"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How old is the sewing machine?",
+     "options": [
+      "Ten years",
+      "More than forty years",
+      "A hundred years",
+      "Five years"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was wrong with the machine?",
+     "options": [
+      "A missing wheel",
+      "A loose cable",
+      "A broken needle",
+      "A broken table"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who fixed it?",
+     "options": [
+      "The writer's father",
+      "A repairman",
+      "Grandma herself",
+      "The writer's uncle"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Laundry",
+   "script": "Mum: Ali, can you switch on the washing machine, please? Ali: Sure. Which button do I press? Mum: The green one. Then choose forty degrees. Ali: It's making a strange noise, Mum. Mum: Oh dear, turn it off at once. I think something is stuck inside. Ali: I'll check. Yes, there is a sock! Mum: Thank goodness. Now start the machine again.",
+   "questions": [
+    {
+     "question": "What does Mum ask Ali to do?",
+     "options": [
+      "Switch on the washing machine",
+      "Cook dinner",
+      "Wash the dishes",
+      "Clean his room"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why do they turn off the machine?",
+     "options": [
+      "It is too hot",
+      "It makes a strange noise",
+      "It is full",
+      "The power is out"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was inside the machine?",
+     "options": [
+      "A coin",
+      "A toy",
+      "A sock",
+      "A key"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Please turn off the machine.",
+    "I bought it from a vending machine.",
+    "The old machine broke down."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Machines",
+    "question_text": "Which machines do you use at home every day?",
+    "hint_words": [
+     "washing machine",
+     "fridge",
+     "oven",
+     "I use"
+    ]
+   },
+   {
+    "topic": "Machines",
+    "question_text": "What machine would you like to invent?",
+    "hint_words": [
+     "I would like",
+     "help",
+     "robot",
+     "useful"
+    ]
+   },
+   {
+    "topic": "Machines",
+    "question_text": "Do machines make life easier? How?",
+    "hint_words": [
+     "easier",
+     "faster",
+     "save time",
+     "work"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 175,
+  "title": "equipment",
+  "vocabulary": [
+   {
+    "word": "sports equipment",
+    "translation_uz": "sport jihozlari",
+    "example_sentence": "The school keeps its sports equipment in a big cupboard."
+   },
+   {
+    "word": "camping equipment",
+    "translation_uz": "lager jihozlari",
+    "example_sentence": "We packed our camping equipment into the car."
+   },
+   {
+    "word": "office equipment",
+    "translation_uz": "ofis jihozlari",
+    "example_sentence": "The company bought new office equipment."
+   },
+   {
+    "word": "electrical equipment",
+    "translation_uz": "elektr jihozlari",
+    "example_sentence": "Don't touch electrical equipment with wet hands."
+   },
+   {
+    "word": "safety equipment",
+    "translation_uz": "xavfsizlik jihozlari",
+    "example_sentence": "Builders must wear safety equipment."
+   },
+   {
+    "word": "modern equipment",
+    "translation_uz": "zamonaviy uskunalar",
+    "example_sentence": "The hospital has very modern equipment."
+   },
+   {
+    "word": "a piece of equipment",
+    "translation_uz": "bitta uskuna",
+    "example_sentence": "A microscope is an important piece of equipment."
+   },
+   {
+    "word": "buy equipment",
+    "translation_uz": "jihozlar sotib olmoq",
+    "example_sentence": "The club needs money to buy new equipment."
+   },
+   {
+    "word": "hire / rent equipment",
+    "translation_uz": "jihozlarni ijaraga olmoq",
+    "example_sentence": "You can hire ski equipment at the resort."
+   },
+   {
+    "word": "check the equipment",
+    "translation_uz": "jihozlarni tekshirmoq",
+    "example_sentence": "Please check the equipment before the lesson."
+   },
+   {
+    "word": "install equipment",
+    "translation_uz": "jihozlarni o'rnatmoq",
+    "example_sentence": "Workers installed new equipment in the lab."
+   },
+   {
+    "word": "equipment failure",
+    "translation_uz": "jihozning ishdan chiqishi",
+    "example_sentence": "The match was delayed because of equipment failure."
+   },
+   {
+    "word": "be equipped with",
+    "translation_uz": "... bilan jihozlangan bo'lmoq",
+    "example_sentence": "The classroom is equipped with a large screen."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Our school has a lot of modern ___.",
+    "correct_word": "equipment",
+    "options": [
+     "equipments",
+     "an equipment",
+     "equipment",
+     "equipped"
+    ]
+   },
+   {
+    "sentence_with_blank": "A telescope is an important ___ of equipment for astronomers.",
+    "correct_word": "piece",
+    "options": [
+     "bit",
+     "piece",
+     "unit",
+     "part"
+    ]
+   },
+   {
+    "sentence_with_blank": "The workers must wear safety ___ on the building site.",
+    "correct_word": "equipment",
+    "options": [
+     "equipment",
+     "dress",
+     "suit",
+     "coat"
+    ]
+   },
+   {
+    "sentence_with_blank": "We can ___ camping equipment from the shop for a week.",
+    "correct_word": "hire",
+    "options": [
+     "hold",
+     "lend",
+     "hire",
+     "own"
+    ]
+   },
+   {
+    "sentence_with_blank": "The new lab is ___ with modern equipment.",
+    "correct_word": "equipped",
+    "options": [
+     "equipped",
+     "open",
+     "full",
+     "ready"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the equipment before you start the experiment.",
+    "correct_word": "check",
+    "options": [
+     "check",
+     "watch",
+     "see",
+     "look"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Science Club",
+   "text": "Our school has a science club, and it meets every Wednesday after lessons. Last month the school bought new equipment for the lab, including six microscopes and some safety glasses. The room is now equipped with modern computers, too. Mrs Davis always asks us to check the equipment before we use it, and to put everything back carefully. Last week there was a small problem with an electrical piece of equipment, and we had to wait. A technician fixed it quickly. We love our club, and we feel lucky to learn with such good equipment.",
+   "key_words": [
+    {
+     "word": "microscope",
+     "translation_uz": "mikroskop"
+    },
+    {
+     "word": "technician",
+     "translation_uz": "texnik, usta"
+    },
+    {
+     "word": "lucky",
+     "translation_uz": "omadli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the science club meet?",
+     "options": [
+      "On Wednesday",
+      "On Monday",
+      "On Friday",
+      "On Sunday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the school buy?",
+     "options": [
+      "A new bus",
+      "New lab equipment",
+      "A swimming pool",
+      "Books"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who fixed the electrical equipment?",
+     "options": [
+      "Mrs Davis",
+      "A student",
+      "A technician",
+      "The headmaster"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Camping Plans",
+   "script": "Tom: Are you ready for the camping trip, Dave? Dave: Almost. I need a tent and a sleeping bag. Tom: You can hire camping equipment from the shop near the station. Dave: Good idea. How much is it? Tom: About ten pounds per day for everything. Dave: That's cheaper than buying equipment. Tom: Yes. I'll bring the stove and the torch. Dave: Great. I'll check the weather forecast tonight.",
+   "questions": [
+    {
+     "question": "What does Dave need?",
+     "options": [
+      "A boat and a map",
+      "A bike and a helmet",
+      "A car and a camera",
+      "A tent and a sleeping bag"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where can Dave hire the equipment?",
+     "options": [
+      "At a shop near the station",
+      "At school",
+      "Online",
+      "From Tom's house"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will Tom bring?",
+     "options": [
+      "A tent",
+      "A stove and a torch",
+      "Food and drinks",
+      "A guitar"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We need new sports equipment.",
+    "Wear safety equipment, please.",
+    "The lab has modern equipment."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Equipment",
+    "question_text": "What sports equipment do you have at home?",
+    "hint_words": [
+     "ball",
+     "bike",
+     "racket",
+     "I have"
+    ]
+   },
+   {
+    "topic": "Equipment",
+    "question_text": "What equipment do you need for your hobby?",
+    "hint_words": [
+     "I need",
+     "shoes",
+     "camera",
+     "guitar"
+    ]
+   },
+   {
+    "topic": "Equipment",
+    "question_text": "Why is safety equipment important?",
+    "hint_words": [
+     "protect",
+     "safe",
+     "accident",
+     "wear"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 176,
+  "title": "computer and internet",
+  "vocabulary": [
+   {
+    "word": "turn on / switch on a computer",
+    "translation_uz": "kompyuterni yoqmoq",
+    "example_sentence": "Switch on the computer and open the file."
+   },
+   {
+    "word": "use a computer",
+    "translation_uz": "kompyuterdan foydalanmoq",
+    "example_sentence": "I use a computer to do my homework."
+   },
+   {
+    "word": "a computer game",
+    "translation_uz": "kompyuter o'yini",
+    "example_sentence": "He plays a computer game after school."
+   },
+   {
+    "word": "a computer program",
+    "translation_uz": "kompyuter dasturi",
+    "example_sentence": "She wrote a simple computer program."
+   },
+   {
+    "word": "a laptop computer",
+    "translation_uz": "noutbuk",
+    "example_sentence": "I carry my laptop computer in my bag."
+   },
+   {
+    "word": "computer skills",
+    "translation_uz": "kompyuter ko'nikmalari",
+    "example_sentence": "Most jobs require good computer skills."
+   },
+   {
+    "word": "surf the internet",
+    "translation_uz": "internetda kezmoq",
+    "example_sentence": "Don't surf the internet for too long at night."
+   },
+   {
+    "word": "go online",
+    "translation_uz": "internetga ulanmoq",
+    "example_sentence": "I go online to check the news."
+   },
+   {
+    "word": "an internet connection",
+    "translation_uz": "internet aloqasi",
+    "example_sentence": "We have a very fast internet connection."
+   },
+   {
+    "word": "download a file",
+    "translation_uz": "faylni yuklab olmoq",
+    "example_sentence": "I downloaded the file from the school website."
+   },
+   {
+    "word": "send an email",
+    "translation_uz": "elektron xat yubormoq",
+    "example_sentence": "Can you send an email to the teacher?"
+   },
+   {
+    "word": "a website",
+    "translation_uz": "veb-sayt",
+    "example_sentence": "Our school has a colourful website."
+   },
+   {
+    "word": "search for information",
+    "translation_uz": "ma'lumot qidirmoq",
+    "example_sentence": "She searched for information about volcanoes."
+   },
+   {
+    "word": "log in / log out",
+    "translation_uz": "tizimga kirmoq / chiqmoq",
+    "example_sentence": "You need your password to log in."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ on the computer and open the document.",
+    "correct_word": "switch",
+    "options": [
+     "take",
+     "make",
+     "hold",
+     "switch"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister ___ the internet to find information for her project.",
+    "correct_word": "surfs",
+    "options": [
+     "flies",
+     "rides",
+     "swims",
+     "surfs"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's quicker to ___ the file than to ask for a copy.",
+    "correct_word": "download",
+    "options": [
+     "carry",
+     "bring",
+     "download",
+     "pull"
+    ]
+   },
+   {
+    "sentence_with_blank": "The video is not loading because my internet ___ is slow.",
+    "correct_word": "connection",
+    "options": [
+     "door",
+     "road",
+     "bridge",
+     "connection"
+    ]
+   },
+   {
+    "sentence_with_blank": "Which ___ do you use to write your reports?",
+    "correct_word": "program",
+    "options": [
+     "program",
+     "programmed",
+     "programmer",
+     "programming"
+    ]
+   },
+   {
+    "sentence_with_blank": "You need a password to ___ in to your account.",
+    "correct_word": "log",
+    "options": [
+     "log",
+     "come",
+     "put",
+     "step"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Learning on the Internet",
+   "text": "Last year my school closed for two weeks because of heavy snow, so we studied online. I switched on my laptop computer every morning and logged in to the school website. The teachers sent us work, and we downloaded the files. At first my internet connection was slow, and the video kept stopping. My brother helped me to fix the problem. In the afternoons I searched for information on the internet for my history project. After a week, I became much better at using the computer. Now I use computer skills in many other subjects, too.",
+   "key_words": [
+    {
+     "word": "heavy snow",
+     "translation_uz": "qalin qor"
+    },
+    {
+     "word": "project",
+     "translation_uz": "loyiha"
+    },
+    {
+     "word": "slow",
+     "translation_uz": "sekin"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the school close?",
+     "options": [
+      "Because of a holiday",
+      "Because of a fire",
+      "Because of a strike",
+      "Because of heavy snow"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was the first problem?",
+     "options": [
+      "A slow internet connection",
+      "A broken laptop",
+      "No files",
+      "A lost password"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who helped the writer fix the problem?",
+     "options": [
+      "A teacher",
+      "The writer's brother",
+      "A neighbour",
+      "Dad"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Computer Class",
+   "script": "Teacher: Good morning, everyone. Please switch on your computers and log in. Today we will make a simple computer program. Student: Mrs Hill, my computer is not working. Teacher: Let me see. Your internet connection is off. Click here to go online again. Student: Thank you. It works. Teacher: Good. Now download the file called Start and open it. We will write the program together.",
+   "questions": [
+    {
+     "question": "What will the class make today?",
+     "options": [
+      "A website",
+      "A game",
+      "A simple computer program",
+      "An email"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was wrong with the student's computer?",
+     "options": [
+      "The screen was broken",
+      "The battery was empty",
+      "The password was wrong",
+      "The internet connection was off"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What file must the class download?",
+     "options": [
+      "The file called Start",
+      "The file called Test",
+      "The file called Game",
+      "The file called Home"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Please switch on the computer.",
+    "I surf the internet every day.",
+    "Download the file, please."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Computers and the internet",
+    "question_text": "What do you use the internet for every day?",
+    "hint_words": [
+     "homework",
+     "videos",
+     "music",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Computers and the internet",
+    "question_text": "How many hours do you spend on the computer?",
+    "hint_words": [
+     "about",
+     "hour",
+     "every day",
+     "too much"
+    ]
+   },
+   {
+    "topic": "Computers and the internet",
+    "question_text": "What are the advantages and disadvantages of the internet?",
+    "hint_words": [
+     "fast",
+     "information",
+     "dangerous",
+     "waste of time"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 177,
+  "title": "fault",
+  "vocabulary": [
+   {
+    "word": "find a fault",
+    "translation_uz": "kamchilik / nosozlikni topmoq",
+    "example_sentence": "The mechanic found a fault in the engine."
+   },
+   {
+    "word": "a technical fault",
+    "translation_uz": "texnik nosozlik",
+    "example_sentence": "The train was late because of a technical fault."
+   },
+   {
+    "word": "a mechanical fault",
+    "translation_uz": "mexanik nosozlik",
+    "example_sentence": "The car stopped due to a mechanical fault."
+   },
+   {
+    "word": "an electrical fault",
+    "translation_uz": "elektr nosozligi",
+    "example_sentence": "An electrical fault caused the lights to go out."
+   },
+   {
+    "word": "a serious fault",
+    "translation_uz": "jiddiy nosozlik",
+    "example_sentence": "The plane had a serious fault, so the flight was cancelled."
+   },
+   {
+    "word": "a minor fault",
+    "translation_uz": "kichik nuqson",
+    "example_sentence": "There is a minor fault in this shirt."
+   },
+   {
+    "word": "a fault in",
+    "translation_uz": "... dagi nosozlik",
+    "example_sentence": "There is a fault in the heating system."
+   },
+   {
+    "word": "be at fault",
+    "translation_uz": "aybdor bo'lmoq",
+    "example_sentence": "The other driver was at fault in the accident."
+   },
+   {
+    "word": "it's my / your fault",
+    "translation_uz": "bu mening / sening ayb(im) / ayb(ing)",
+    "example_sentence": "It's my fault; I forgot to lock the door."
+   },
+   {
+    "word": "find fault with",
+    "translation_uz": "ayb qidirmoq (tanqid qilmoq)",
+    "example_sentence": "He always finds fault with everything I do."
+   },
+   {
+    "word": "through no fault of",
+    "translation_uz": "... ning aybisiz",
+    "example_sentence": "Through no fault of his own, he missed the bus."
+   },
+   {
+    "word": "a fault develops",
+    "translation_uz": "nosozlik paydo bo'ladi",
+    "example_sentence": "A fault developed in the washing machine."
+   },
+   {
+    "word": "a faulty switch",
+    "translation_uz": "nosoz tugma",
+    "example_sentence": "A faulty switch caused the lamp to flicker."
+   },
+   {
+    "word": "generous to a fault",
+    "translation_uz": "haddan ortiq saxiy",
+    "example_sentence": "My uncle is generous to a fault."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The engineer ___ a fault in the machine and stopped it.",
+    "correct_word": "found",
+    "options": [
+     "found",
+     "took",
+     "made",
+     "lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "The flight was delayed because of a technical ___.",
+    "correct_word": "fault",
+    "options": [
+     "fault",
+     "mistaken",
+     "damage",
+     "fail"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm sorry, it was my ___; I didn't read the instructions.",
+    "correct_word": "fault",
+    "options": [
+     "crime",
+     "guilt",
+     "blame",
+     "fault"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a small fault ___ the heating system.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "by",
+     "in",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother always finds fault ___ my cooking.",
+    "correct_word": "with",
+    "options": [
+     "about",
+     "to",
+     "on",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The driver who hit the fence was ___ fault.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "on",
+     "in",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Broken Lift",
+   "text": "Yesterday morning the lift in our building stopped working. A small note on the door said that there was a technical fault. Mrs Brown, who lives on the eighth floor, had to walk up the stairs with her shopping. She was not angry and did not find fault with anyone, because she knew it was nobody's fault. In the afternoon an engineer arrived and found an electrical fault in the control panel. He repaired it in an hour. By the evening, the lift worked again, and everybody in the building was happy.",
+   "key_words": [
+    {
+     "word": "engineer",
+     "translation_uz": "muhandis"
+    },
+    {
+     "word": "control panel",
+     "translation_uz": "boshqaruv paneli"
+    },
+    {
+     "word": "lift",
+     "translation_uz": "lift"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was wrong with the lift?",
+     "options": [
+      "It was dirty",
+      "It was too small",
+      "It had a technical fault",
+      "It was full"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which floor does Mrs Brown live on?",
+     "options": [
+      "The second",
+      "The fifth",
+      "The tenth",
+      "The eighth"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did the engineer take to repair it?",
+     "options": [
+      "One hour",
+      "Five minutes",
+      "A whole day",
+      "A week"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Problem with the Bike",
+   "script": "Dad: What's the matter, Sam? Sam: My bike has a fault. The back wheel makes a noise. Dad: Let me look. There's a minor fault in the chain. Sam: Is it my fault? Dad: No, it isn't. It's old, and the chain is worn. It's not a serious fault. Sam: Can we fix it today? Dad: I think so. We need a new chain from the shop. Come on, let's go.",
+   "questions": [
+    {
+     "question": "What is wrong with Sam's bike?",
+     "options": [
+      "The seat is broken",
+      "The back wheel makes a noise",
+      "The brakes are missing",
+      "The tyre is flat"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the fault in?",
+     "options": [
+      "The wheel",
+      "The seat",
+      "The chain",
+      "The light"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do they need?",
+     "options": [
+      "A new bike",
+      "A new wheel",
+      "A new helmet",
+      "A new chain"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "It was a technical fault.",
+    "It's not your fault.",
+    "He found a fault in it."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Faults",
+    "question_text": "Have you ever had a fault with your phone or computer?",
+    "hint_words": [
+     "once",
+     "screen",
+     "battery",
+     "problem"
+    ]
+   },
+   {
+    "topic": "Faults",
+    "question_text": "Do you often say \"It's my fault\"? When?",
+    "hint_words": [
+     "sometimes",
+     "mistake",
+     "sorry",
+     "forgot"
+    ]
+   },
+   {
+    "topic": "Faults",
+    "question_text": "Why do people find fault with others?",
+    "hint_words": [
+     "angry",
+     "tired",
+     "jealous",
+     "critical"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 178,
+  "title": "repair",
+  "vocabulary": [
+   {
+    "word": "repair a car",
+    "translation_uz": "mashinani ta'mirlamoq",
+    "example_sentence": "My dad can repair almost any car."
+   },
+   {
+    "word": "repair a roof",
+    "translation_uz": "tomni ta'mirlamoq",
+    "example_sentence": "They are repairing the roof before winter."
+   },
+   {
+    "word": "do a repair",
+    "translation_uz": "ta'mirlash ishini bajarmoq",
+    "example_sentence": "The mechanic did a quick repair."
+   },
+   {
+    "word": "carry out repairs",
+    "translation_uz": "ta'mirlash ishlarini olib bormoq",
+    "example_sentence": "Workers are carrying out repairs on the bridge."
+   },
+   {
+    "word": "in need of repair",
+    "translation_uz": "ta'mirga muhtoj",
+    "example_sentence": "The old house is in need of repair."
+   },
+   {
+    "word": "under repair",
+    "translation_uz": "ta'mirda",
+    "example_sentence": "The road is under repair, so use another route."
+   },
+   {
+    "word": "beyond repair",
+    "translation_uz": "ta'mirlab bo'lmaydigan",
+    "example_sentence": "The phone fell into water and is beyond repair."
+   },
+   {
+    "word": "a repair shop",
+    "translation_uz": "ta'mirlash ustaxonasi",
+    "example_sentence": "I took my laptop to a repair shop."
+   },
+   {
+    "word": "repair costs",
+    "translation_uz": "ta'mir xarajatlari",
+    "example_sentence": "The repair costs were higher than the price of a new one."
+   },
+   {
+    "word": "a quick repair",
+    "translation_uz": "tez ta'mirlash",
+    "example_sentence": "It was only a quick repair, so I waited."
+   },
+   {
+    "word": "get something repaired",
+    "translation_uz": "biror narsani ta'mirlatmoq",
+    "example_sentence": "I got my watch repaired yesterday."
+   },
+   {
+    "word": "a repairman",
+    "translation_uz": "ta'mirchi usta",
+    "example_sentence": "The repairman arrived at ten o'clock."
+   },
+   {
+    "word": "make repairs",
+    "translation_uz": "ta'mirlash ishlarini qilmoq",
+    "example_sentence": "The school will make repairs during the summer."
+   },
+   {
+    "word": "in good / bad repair",
+    "translation_uz": "yaxshi / yomon holatda",
+    "example_sentence": "The fence is in bad repair."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My uncle can ___ almost anything, from bicycles to radios.",
+    "correct_word": "repair",
+    "options": [
+     "wait",
+     "win",
+     "pay",
+     "repair"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bridge is closed because it is ___ repair.",
+    "correct_word": "under",
+    "options": [
+     "under",
+     "on",
+     "by",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The old radio is ___ repair; it will never work again.",
+    "correct_word": "beyond",
+    "options": [
+     "over",
+     "behind",
+     "beyond",
+     "above"
+    ]
+   },
+   {
+    "sentence_with_blank": "I took my phone to a repair ___ near the market.",
+    "correct_word": "shop",
+    "options": [
+     "class",
+     "bank",
+     "shop",
+     "bridge"
+    ]
+   },
+   {
+    "sentence_with_blank": "We had the roof ___ before winter.",
+    "correct_word": "repaired",
+    "options": [
+     "to repair",
+     "repaired",
+     "repair",
+     "repairing"
+    ]
+   },
+   {
+    "sentence_with_blank": "The old school building is in need ___ repair.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "with",
+     "to",
+     "for"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Fixing the Bike",
+   "text": "Last Sunday my bicycle's front tyre was flat, and the chain was loose. At first I thought it was beyond repair, because the bike is very old. My neighbour, Mr Gafur, has a small repair shop on our street. He looked at the bike and said that it was only in need of a quick repair. He changed the tyre and tightened the chain in twenty minutes. The repair costs were very small, only a few dollars. Now my bike runs like new, and I ride it to school every day. Next time I will learn to do simple repairs myself.",
+   "key_words": [
+    {
+     "word": "flat tyre",
+     "translation_uz": "puchaygan shina"
+    },
+    {
+     "word": "chain",
+     "translation_uz": "zanjir"
+    },
+    {
+     "word": "tighten",
+     "translation_uz": "tortmoq, mahkamlamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was wrong with the bike?",
+     "options": [
+      "A broken seat",
+      "A flat tyre and a loose chain",
+      "No brakes",
+      "A missing wheel"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who repaired the bike?",
+     "options": [
+      "The writer's father",
+      "A teacher",
+      "Mr Gafur",
+      "The writer himself"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How were the repair costs?",
+     "options": [
+      "Very high",
+      "There were none",
+      "Too high to pay",
+      "Very small"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Repair Shop",
+   "script": "Customer: Hello. My laptop doesn't turn on. Can you repair it? Repairman: Let me have a look. Hmm, there is an electrical fault in the charger. Customer: Is it a serious fault? Repairman: No, it's a quick repair. I can do it today. Customer: How much will it cost? Repairman: About twenty dollars. Come back at five o'clock. Customer: Wonderful, thank you. I'll be back later.",
+   "questions": [
+    {
+     "question": "What is wrong with the laptop?",
+     "options": [
+      "It doesn't turn on",
+      "The screen is broken",
+      "It is too slow",
+      "It is very hot"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where is the fault?",
+     "options": [
+      "In the keyboard",
+      "In the charger",
+      "In the screen",
+      "In the battery"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When should the customer come back?",
+     "options": [
+      "At noon",
+      "Tomorrow",
+      "At five o'clock",
+      "At nine o'clock"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "The road is under repair.",
+    "Can you repair my phone?",
+    "It is beyond repair."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Repairs",
+    "question_text": "Can you repair simple things at home? What can you fix?",
+    "hint_words": [
+     "bike",
+     "toy",
+     "I can",
+     "tool"
+    ]
+   },
+   {
+    "topic": "Repairs",
+    "question_text": "What do you do when something breaks?",
+    "hint_words": [
+     "repair",
+     "throw away",
+     "ask",
+     "shop"
+    ]
+   },
+   {
+    "topic": "Repairs",
+    "question_text": "Is it better to repair things or buy new ones? Why?",
+    "hint_words": [
+     "cheaper",
+     "better",
+     "environment",
+     "new"
+    ]
+   }
+  ]
+ }
+]

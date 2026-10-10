@@ -1,0 +1,1809 @@
+[
+ {
+  "unit": 98,
+  "title": "life",
+  "vocabulary": [
+   {
+    "word": "a happy life",
+    "translation_uz": "baxtli hayot",
+    "example_sentence": "She has had a happy life with her family."
+   },
+   {
+    "word": "a long life",
+    "translation_uz": "uzun umr",
+    "example_sentence": "My grandfather lived a long life."
+   },
+   {
+    "word": "lead a quiet life",
+    "translation_uz": "tinch hayot kechirmoq",
+    "example_sentence": "After retiring, he leads a quiet life in the countryside."
+   },
+   {
+    "word": "change your life",
+    "translation_uz": "hayotingizni o'zgartirmoq",
+    "example_sentence": "Moving to a new city changed her life."
+   },
+   {
+    "word": "save someone's life",
+    "translation_uz": "birovning hayotini saqlab qolmoq",
+    "example_sentence": "The doctor saved the boy's life."
+   },
+   {
+    "word": "risk your life",
+    "translation_uz": "jonini xavf ostiga qo'ymoq",
+    "example_sentence": "Firefighters often risk their lives to help others."
+   },
+   {
+    "word": "earn a living",
+    "translation_uz": "kun kechirmoq, pul topmoq",
+    "example_sentence": "He earns a living by driving a taxi."
+   },
+   {
+    "word": "the meaning of life",
+    "translation_uz": "hayotning ma'nosi",
+    "example_sentence": "We talked about the meaning of life in class."
+   },
+   {
+    "word": "a way of life",
+    "translation_uz": "hayot tarzi",
+    "example_sentence": "Farming is a way of life for many families here."
+   },
+   {
+    "word": "for the rest of your life",
+    "translation_uz": "umringizning oxirigacha",
+    "example_sentence": "I will remember this day for the rest of my life."
+   },
+   {
+    "word": "full of life",
+    "translation_uz": "hayotga to'la, quvnoq",
+    "example_sentence": "Her little brother is always full of life."
+   },
+   {
+    "word": "alive / live / living",
+    "translation_uz": "tirik / yashamoq / yashayotgan",
+    "example_sentence": "Scientists study living things in the ocean."
+   },
+   {
+    "word": "life expectancy",
+    "translation_uz": "o'rtacha umr ko'rish",
+    "example_sentence": "Life expectancy is higher today than a hundred years ago."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandmother has had a very ___ life, and she is always smiling.",
+    "correct_word": "happy",
+    "options": [
+     "happy",
+     "angry",
+     "empty",
+     "heavy"
+    ]
+   },
+   {
+    "sentence_with_blank": "The nurse ___ the old man's life after the accident.",
+    "correct_word": "saved",
+    "options": [
+     "kept",
+     "saved",
+     "made",
+     "took"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ a living as a mechanic in a small garage.",
+    "correct_word": "earns",
+    "options": [
+     "wins",
+     "gets up",
+     "earns",
+     "makes up"
+    ]
+   },
+   {
+    "sentence_with_blank": "Moving abroad completely ___ her life.",
+    "correct_word": "changed",
+    "options": [
+     "turned",
+     "moved",
+     "passed",
+     "changed"
+    ]
+   },
+   {
+    "sentence_with_blank": "I will never forget that trip ___ the rest of my life.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "in",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our grandfather lived a long and quiet ___.",
+    "correct_word": "life",
+    "options": [
+     "live",
+     "life",
+     "alive",
+     "living"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Quiet Life",
+   "text": "My grandfather, Karim, has led a quiet life in a small village. He earns a living by growing apples and selling them at the local market. For him, farming is not just a job but a way of life. Last year he fell ill, and a young doctor saved his life. Since then, he says he wants to enjoy the rest of his life with his family. He is seventy-eight years old, but he is still full of life. Every evening he tells us stories about his long life.",
+   "key_words": [
+    {
+     "word": "lead a quiet life",
+     "translation_uz": "tinch hayot kechirmoq"
+    },
+    {
+     "word": "earn a living",
+     "translation_uz": "kun kechirmoq"
+    },
+    {
+     "word": "way of life",
+     "translation_uz": "hayot tarzi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How does Karim earn a living?",
+     "options": [
+      "He grows and sells apples",
+      "He drives a taxi",
+      "He teaches at school",
+      "He works as a doctor"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who saved Karim's life last year?",
+     "options": [
+      "His son",
+      "A neighbour",
+      "A young doctor",
+      "A farmer"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How does Karim feel now?",
+     "options": [
+      "Very tired of life",
+      "Full of life",
+      "Afraid of everything",
+      "Bored at home"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Changing My Life",
+   "script": "Hi, I am Dana. Two years ago I decided to change my life. I used to work in an office, but I did not enjoy it. I wanted a job with more meaning, so I started to study to become a nurse. It was hard, but I am glad I did it. Now I help people every day and I feel that my work is important. My parents say I look much happier. I think I will keep this way of life for the rest of my life.",
+   "questions": [
+    {
+     "question": "What did Dana do two years ago?",
+     "options": [
+      "She moved abroad",
+      "She bought a house",
+      "She retired",
+      "She decided to change her life"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Dana study to become?",
+     "options": [
+      "A teacher",
+      "A pilot",
+      "A farmer",
+      "A nurse"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do Dana's parents say?",
+     "options": [
+      "She looks much happier",
+      "She works too much",
+      "She should return to the office",
+      "She is too young"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "She changed her life.",
+    "He earns a good living.",
+    "They lead a quiet life."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Life",
+    "question_text": "Do you want a quiet life or an exciting life? Why?",
+    "hint_words": [
+     "quiet",
+     "exciting",
+     "because",
+     "prefer"
+    ]
+   },
+   {
+    "topic": "Life",
+    "question_text": "What would you like to change in your life?",
+    "hint_words": [
+     "change",
+     "I would like",
+     "better",
+     "soon"
+    ]
+   },
+   {
+    "topic": "Life",
+    "question_text": "Who has had an interesting life in your family?",
+    "hint_words": [
+     "grandfather",
+     "grandmother",
+     "story",
+     "long life"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 99,
+  "title": "death",
+  "vocabulary": [
+   {
+    "word": "die of an illness",
+    "translation_uz": "kasallikdan vafot etmoq",
+    "example_sentence": "Many people once died of simple illnesses."
+   },
+   {
+    "word": "die in an accident",
+    "translation_uz": "baxtsiz hodisada halok bo'lmoq",
+    "example_sentence": "Two people died in the accident on the motorway."
+   },
+   {
+    "word": "die young / die peacefully",
+    "translation_uz": "yoshligida / tinchgina vafot etmoq",
+    "example_sentence": "The old writer died peacefully at home."
+   },
+   {
+    "word": "death / dead / die",
+    "translation_uz": "o'lim / o'lik / o'lmoq",
+    "example_sentence": "The news of his death made everyone sad."
+   },
+   {
+    "word": "a sudden death",
+    "translation_uz": "kutilmagan o'lim",
+    "example_sentence": "His sudden death was a shock to the family."
+   },
+   {
+    "word": "the cause of death",
+    "translation_uz": "o'lim sababi",
+    "example_sentence": "The doctor explained the cause of death."
+   },
+   {
+    "word": "the death of someone",
+    "translation_uz": "birovning vafoti",
+    "example_sentence": "We were sad to hear of the death of our teacher."
+   },
+   {
+    "word": "be dead",
+    "translation_uz": "o'lik bo'lmoq",
+    "example_sentence": "The plant is dead; it needs water too late."
+   },
+   {
+    "word": "attend a funeral",
+    "translation_uz": "dafn marosimida qatnashmoq",
+    "example_sentence": "Many neighbours attended the funeral."
+   },
+   {
+    "word": "pay your respects",
+    "translation_uz": "hurmat bildirmoq (vafot etganga)",
+    "example_sentence": "People came to pay their respects to the family."
+   },
+   {
+    "word": "mourn / be in mourning",
+    "translation_uz": "motam tutmoq / motamda bo'lmoq",
+    "example_sentence": "The whole country mourned the loss of the poet."
+   },
+   {
+    "word": "a loss / lose someone",
+    "translation_uz": "yo'qotish / yaqinini yo'qotmoq",
+    "example_sentence": "She lost her grandfather last spring."
+   },
+   {
+    "word": "leave a will",
+    "translation_uz": "vasiyatnoma qoldirmoq",
+    "example_sentence": "He left a will for his children."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Her grandfather ___ of a heart problem last winter.",
+    "correct_word": "died",
+    "options": [
+     "lost",
+     "died",
+     "left",
+     "fell"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ of the old teacher made the whole school quiet.",
+    "correct_word": "death",
+    "options": [
+     "dead",
+     "die",
+     "death",
+     "dying"
+    ]
+   },
+   {
+    "sentence_with_blank": "A lot of people ___ the funeral to say goodbye.",
+    "correct_word": "attended",
+    "options": [
+     "joined",
+     "went",
+     "visited",
+     "attended"
+    ]
+   },
+   {
+    "sentence_with_blank": "They came to pay their ___ to the family.",
+    "correct_word": "respects",
+    "options": [
+     "respects",
+     "wishes",
+     "thanks",
+     "pities"
+    ]
+   },
+   {
+    "sentence_with_blank": "Two drivers died ___ the accident on the road.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bird in the garden was ___ when we found it.",
+    "correct_word": "dead",
+    "options": [
+     "death",
+     "died",
+     "dead",
+     "die"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Sad Day",
+   "text": "Last week our neighbour, Mr Aziz, died peacefully at the age of ninety. His death was not sudden, because he had been ill for some time. Many people attended the funeral to pay their respects to his family. His grandchildren read a short poem about him. The family was in mourning for several days, and neighbours brought food to their house. I did not know him well, but my mother says he was a kind man who always helped others. We will remember him for a long time.",
+   "key_words": [
+    {
+     "word": "die peacefully",
+     "translation_uz": "tinchgina vafot etmoq"
+    },
+    {
+     "word": "attend a funeral",
+     "translation_uz": "dafn marosimida qatnashmoq"
+    },
+    {
+     "word": "pay your respects",
+     "translation_uz": "hurmat bildirmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How old was Mr Aziz?",
+     "options": [
+      "Seventy",
+      "Ninety",
+      "Eighty",
+      "Sixty"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the neighbours do for the family?",
+     "options": [
+      "They sold the house",
+      "They painted the fence",
+      "They moved away",
+      "They brought food"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why does the writer say his death was not sudden?",
+     "options": [
+      "He had been ill for some time",
+      "He was very young",
+      "He lived abroad",
+      "He had an accident"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Saying Goodbye",
+   "script": "Teacher: Today we will talk about a sad subject. In many cultures, people attend a funeral when someone dies. They pay their respects and support the family. Student: Is it normal to feel sad for a long time? Teacher: Yes, it is. When we lose someone, we mourn and we need time. Talking to friends and family helps a lot. Student: What can we do to help? Teacher: We can listen, bring food, or simply stay with the family.",
+   "questions": [
+    {
+     "question": "Why do people attend a funeral?",
+     "options": [
+      "To celebrate",
+      "To sign a will",
+      "To pay respects and support the family",
+      "To buy flowers"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the teacher say about feeling sad?",
+     "options": [
+      "It is normal and takes time",
+      "It is wrong",
+      "It lasts only one day",
+      "It is a secret"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How can we help a family in mourning?",
+     "options": [
+      "Ask many questions",
+      "Stay away",
+      "Give them homework",
+      "Listen and stay with them"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "He died peacefully.",
+    "We attended the funeral.",
+    "They are in mourning."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Death",
+    "question_text": "How do people say goodbye to someone who has died in your country?",
+    "hint_words": [
+     "funeral",
+     "family",
+     "pray",
+     "respect"
+    ]
+   },
+   {
+    "topic": "Death",
+    "question_text": "How can we help a friend who has lost someone?",
+    "hint_words": [
+     "listen",
+     "visit",
+     "kind",
+     "help"
+    ]
+   },
+   {
+    "topic": "Death",
+    "question_text": "Why is it important to remember people who have died?",
+    "hint_words": [
+     "remember",
+     "stories",
+     "love",
+     "memory"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 100,
+  "title": "age",
+  "vocabulary": [
+   {
+    "word": "at the age of ten",
+    "translation_uz": "o'n yoshida",
+    "example_sentence": "She started to play the piano at the age of ten."
+   },
+   {
+    "word": "be the same age",
+    "translation_uz": "tengdosh bo'lmoq",
+    "example_sentence": "My cousin and I are the same age."
+   },
+   {
+    "word": "under age / over age",
+    "translation_uz": "voyaga yetmagan / belgilangan yoshdan oshgan",
+    "example_sentence": "You cannot drive if you are under age."
+   },
+   {
+    "word": "middle-aged",
+    "translation_uz": "o'rta yoshli",
+    "example_sentence": "A middle-aged man opened the shop door."
+   },
+   {
+    "word": "elderly / old age",
+    "translation_uz": "keksa / keksalik",
+    "example_sentence": "Elderly passengers can sit at the front of the bus."
+   },
+   {
+    "word": "come of age",
+    "translation_uz": "voyaga yetmoq",
+    "example_sentence": "In many countries, you come of age at eighteen."
+   },
+   {
+    "word": "an age limit",
+    "translation_uz": "yosh chegarasi",
+    "example_sentence": "There is an age limit for this film."
+   },
+   {
+    "word": "be thirty years old",
+    "translation_uz": "o'ttiz yoshda bo'lmoq",
+    "example_sentence": "He is thirty years old."
+   },
+   {
+    "word": "act your age",
+    "translation_uz": "yoshingizga mos ish tuting",
+    "example_sentence": "Stop shouting and act your age!"
+   },
+   {
+    "word": "look your age",
+    "translation_uz": "yoshingizdek ko'rinmoq",
+    "example_sentence": "She is fifty but does not look her age."
+   },
+   {
+    "word": "grow older / get old",
+    "translation_uz": "qarimoq, yoshi ulg'aymoq",
+    "example_sentence": "As we grow older, we need more rest."
+   },
+   {
+    "word": "age group",
+    "translation_uz": "yosh guruhi",
+    "example_sentence": "Children in this age group love cartoons."
+   },
+   {
+    "word": "for ages",
+    "translation_uz": "uzoq vaqtdan beri",
+    "example_sentence": "I have not seen him for ages."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister started to swim ___ the age of six.",
+    "correct_word": "at",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother and I are the ___ age, so we share the same class.",
+    "correct_word": "same",
+    "options": [
+     "equal",
+     "similar",
+     "like",
+     "same"
+    ]
+   },
+   {
+    "sentence_with_blank": "You have to be at least sixteen; there is an age ___ for this course.",
+    "correct_word": "limit",
+    "options": [
+     "limit",
+     "border",
+     "rule",
+     "line"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is sixty, but she does not ___ her age.",
+    "correct_word": "look",
+    "options": [
+     "show",
+     "look",
+     "seem",
+     "feel"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is not easy to learn this as we get ___.",
+    "correct_word": "older",
+    "options": [
+     "oldest",
+     "elder",
+     "older",
+     "age"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have not seen my old teacher ___ ages.",
+    "correct_word": "for",
+    "options": [
+     "since",
+     "in",
+     "during",
+     "for"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Three Generations",
+   "text": "There are three generations in our family. My grandfather is eighty and now enjoys a quiet old age. My parents are middle-aged and both work hard. I am sixteen, and my little brother is only six. He started school at the age of six, and he loves it. My cousin and I are the same age, so we spend a lot of time together. Next year I will come of age, and I will be allowed to vote in some countries. My grandmother says she does not feel her age, and she still walks to the market every day.",
+   "key_words": [
+    {
+     "word": "old age",
+     "translation_uz": "keksalik"
+    },
+    {
+     "word": "middle-aged",
+     "translation_uz": "o'rta yoshli"
+    },
+    {
+     "word": "come of age",
+     "translation_uz": "voyaga yetmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How old is the writer's grandfather?",
+     "options": [
+      "Sixty",
+      "Seventy",
+      "Eighty",
+      "Ninety"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who is the same age as the writer?",
+     "options": [
+      "His cousin",
+      "His brother",
+      "His father",
+      "His teacher"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the grandmother still do every day?",
+     "options": [
+      "Goes to school",
+      "Drives a car",
+      "Works in an office",
+      "Walks to the market"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Age Limits",
+   "script": "Boy: Can I buy a ticket for this film? Cashier: How old are you? Boy: I am twelve. Cashier: I am sorry, there is an age limit. You must be at least fourteen. Boy: My brother is fifteen. Can he buy a ticket? Cashier: Yes, he can, because he is over the age limit. Boy: OK. I will come back in two years, then. Cashier: Good idea. There is a lovely cartoon for your age group in Room 3.",
+   "questions": [
+    {
+     "question": "How old is the boy?",
+     "options": [
+      "Fourteen",
+      "Twelve",
+      "Fifteen",
+      "Sixteen"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the minimum age for the film?",
+     "options": [
+      "Twelve",
+      "Fourteen",
+      "Fifteen",
+      "Eighteen"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the cashier suggest?",
+     "options": [
+      "Coming back tomorrow",
+      "Buying two tickets",
+      "A cartoon in Room 3",
+      "Waiting outside"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She is middle-aged.",
+    "He is under age.",
+    "We are the same age."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Age",
+    "question_text": "At what age do children start school in your country?",
+    "hint_words": [
+     "start",
+     "school",
+     "six",
+     "seven"
+    ]
+   },
+   {
+    "topic": "Age",
+    "question_text": "Are you the same age as your friends?",
+    "hint_words": [
+     "same age",
+     "older",
+     "younger",
+     "friend"
+    ]
+   },
+   {
+    "topic": "Age",
+    "question_text": "What is good about being old?",
+    "hint_words": [
+     "wise",
+     "free time",
+     "grandparents",
+     "experience"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 101,
+  "title": "character",
+  "vocabulary": [
+   {
+    "word": "a strong character",
+    "translation_uz": "kuchli xarakter",
+    "example_sentence": "She has a strong character and never gives up."
+   },
+   {
+    "word": "a good / bad character",
+    "translation_uz": "yaxshi / yomon xarakter",
+    "example_sentence": "He has a good character and is honest."
+   },
+   {
+    "word": "have a sense of humour",
+    "translation_uz": "hazil tuyg'usiga ega bo'lmoq",
+    "example_sentence": "My uncle has a great sense of humour."
+   },
+   {
+    "word": "a kind-hearted person",
+    "translation_uz": "mehribon inson",
+    "example_sentence": "Our neighbour is a kind-hearted person."
+   },
+   {
+    "word": "in character / out of character",
+    "translation_uz": "xarakteriga mos / xos emas",
+    "example_sentence": "Shouting is out of character for him."
+   },
+   {
+    "word": "a main character",
+    "translation_uz": "bosh qahramon",
+    "example_sentence": "The main character in the book is a young girl."
+   },
+   {
+    "word": "show your character",
+    "translation_uz": "xarakterini namoyon qilmoq",
+    "example_sentence": "Difficult times show your true character."
+   },
+   {
+    "word": "shy / confident",
+    "translation_uz": "uyatchan / ishonchli",
+    "example_sentence": "He is shy at first, but he is confident on stage."
+   },
+   {
+    "word": "get on well with",
+    "translation_uz": "bilan yaxshi chiqishmoq",
+    "example_sentence": "I get on well with my classmates."
+   },
+   {
+    "word": "a quick temper / lose your temper",
+    "translation_uz": "jahldorlik / jahli chiqmoq",
+    "example_sentence": "Try not to lose your temper in an argument."
+   },
+   {
+    "word": "generous / selfish",
+    "translation_uz": "saxiy / xudbin",
+    "example_sentence": "She is generous and shares her lunch."
+   },
+   {
+    "word": "patient with someone",
+    "translation_uz": "birovga sabrli",
+    "example_sentence": "A good teacher is patient with students."
+   },
+   {
+    "word": "take after someone",
+    "translation_uz": "birovga o'xshab ketmoq (xarakter)",
+    "example_sentence": "You take after your mother; you are both calm."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister has a strong ___ and always says what she thinks.",
+    "correct_word": "character",
+    "options": [
+     "figure",
+     "manner",
+     "style",
+     "character"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is a ___ person and always helps old people in the street.",
+    "correct_word": "kind-hearted",
+    "options": [
+     "kind-hearted",
+     "short-tempered",
+     "bad-mannered",
+     "two-faced"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is out of ___ for Ali to be late; he is always on time.",
+    "correct_word": "character",
+    "options": [
+     "habit",
+     "character",
+     "mood",
+     "mind"
+    ]
+   },
+   {
+    "sentence_with_blank": "I get ___ well with my new neighbours.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "up",
+     "on",
+     "off"
+    ]
+   },
+   {
+    "sentence_with_blank": "Try not to lose your ___ when you are tired.",
+    "correct_word": "temper",
+    "options": [
+     "anger",
+     "mind",
+     "nature",
+     "temper"
+    ]
+   },
+   {
+    "sentence_with_blank": "The main ___ in this film is a clever detective.",
+    "correct_word": "character",
+    "options": [
+     "character",
+     "scene",
+     "title",
+     "story"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Best Friend",
+   "text": "My best friend, Laura, has a lovely character. She is kind-hearted and always ready to help. She also has a good sense of humour, so she makes everybody laugh. At first she was shy, but now she is confident when she speaks in class. She never loses her temper, even when our team loses a game. Some people say she takes after her grandmother, who is also patient and calm. I get on very well with her, and I think a true friend shows her character in difficult times.",
+   "key_words": [
+    {
+     "word": "sense of humour",
+     "translation_uz": "hazil tuyg'usi"
+    },
+    {
+     "word": "lose your temper",
+     "translation_uz": "jahli chiqmoq"
+    },
+    {
+     "word": "take after",
+     "translation_uz": "o'xshab ketmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was Laura like at first?",
+     "options": [
+      "Angry",
+      "Selfish",
+      "Lazy",
+      "Shy"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who does Laura take after?",
+     "options": [
+      "Her sister",
+      "Her grandmother",
+      "Her teacher",
+      "Her aunt"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Laura do when her team loses?",
+     "options": [
+      "She leaves the room",
+      "She cries loudly",
+      "She does not lose her temper",
+      "She argues with the referee"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A New Student",
+   "script": "Anna: Have you met the new boy in our class? Tom: Yes, his name is Jack. He is a bit shy, but he seems kind. Anna: I think he has a good sense of humour. He made everyone laugh at lunch. Tom: Really? That is surprising, because he does not say much. Anna: Maybe it was out of character for him. Tom: Let us invite him to play football. I am sure he will get on well with the team.",
+   "questions": [
+    {
+     "question": "How does Tom describe Jack?",
+     "options": [
+      "A bit shy but kind",
+      "Loud and selfish",
+      "Angry and rude",
+      "Lazy and bored"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Jack do at lunch?",
+     "options": [
+      "Lost his temper",
+      "Ate alone",
+      "Made everyone laugh",
+      "Played football"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Tom want to do?",
+     "options": [
+      "Ask Jack to leave",
+      "Invite Jack to play football",
+      "Change classes",
+      "Call the teacher"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "She has a strong character.",
+    "He has a good sense of humour.",
+    "I get on well with him."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Character",
+    "question_text": "How would you describe your character?",
+    "hint_words": [
+     "I am",
+     "friendly",
+     "calm",
+     "funny"
+    ]
+   },
+   {
+    "topic": "Character",
+    "question_text": "What character qualities do you like in a friend?",
+    "hint_words": [
+     "honest",
+     "kind",
+     "generous",
+     "loyal"
+    ]
+   },
+   {
+    "topic": "Character",
+    "question_text": "Who in your family has a strong character?",
+    "hint_words": [
+     "mother",
+     "father",
+     "strong",
+     "never gives up"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 102,
+  "title": "clothes and fashion",
+  "vocabulary": [
+   {
+    "word": "wear a uniform",
+    "translation_uz": "forma kiymoq",
+    "example_sentence": "Students wear a uniform at our school."
+   },
+   {
+    "word": "put on / take off a coat",
+    "translation_uz": "palto kiymoq / yechmoq",
+    "example_sentence": "Put on your coat; it is cold outside."
+   },
+   {
+    "word": "try on a jacket",
+    "translation_uz": "kurtkani o'lchab ko'rmoq",
+    "example_sentence": "Can I try on this jacket, please?"
+   },
+   {
+    "word": "fit / suit someone",
+    "translation_uz": "o'lchamiga to'g'ri kelmoq / yarashmoq",
+    "example_sentence": "This shirt fits me, and the colour suits you."
+   },
+   {
+    "word": "dress smartly / casually",
+    "translation_uz": "chiroyli / oddiy kiyinmoq",
+    "example_sentence": "He always dresses smartly for work."
+   },
+   {
+    "word": "be dressed in black",
+    "translation_uz": "qora kiyingan bo'lmoq",
+    "example_sentence": "The singer was dressed in black."
+   },
+   {
+    "word": "in fashion / out of fashion",
+    "translation_uz": "modada / modadan chiqqan",
+    "example_sentence": "Long coats are in fashion this winter."
+   },
+   {
+    "word": "follow the latest fashion",
+    "translation_uz": "so'nggi modaga ergashmoq",
+    "example_sentence": "She likes to follow the latest fashion."
+   },
+   {
+    "word": "a fashion show",
+    "translation_uz": "moda namoyishi",
+    "example_sentence": "We watched a fashion show on TV."
+   },
+   {
+    "word": "designer clothes",
+    "translation_uz": "dizayner kiyimlari",
+    "example_sentence": "Designer clothes are often very expensive."
+   },
+   {
+    "word": "second-hand clothes",
+    "translation_uz": "ishlatilgan kiyimlar",
+    "example_sentence": "I buy second-hand clothes to save money."
+   },
+   {
+    "word": "a pair of jeans / shoes",
+    "translation_uz": "bir juft jinsi / poyabzal",
+    "example_sentence": "I need a new pair of shoes."
+   },
+   {
+    "word": "a loose / tight sweater",
+    "translation_uz": "keng / tor sviter",
+    "example_sentence": "This sweater is too tight for me."
+   },
+   {
+    "word": "match / go with",
+    "translation_uz": "mos kelmoq",
+    "example_sentence": "Your scarf goes well with that coat."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can I ___ on these trousers before I buy them?",
+    "correct_word": "try",
+    "options": [
+     "try",
+     "wear",
+     "dress",
+     "change"
+    ]
+   },
+   {
+    "sentence_with_blank": "The jacket is nice, but it does not ___ me; it is too small.",
+    "correct_word": "fit",
+    "options": [
+     "suit",
+     "fit",
+     "match",
+     "wear"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was ___ in a long blue dress at the party.",
+    "correct_word": "dressed",
+    "options": [
+     "worn",
+     "put",
+     "dressed",
+     "wearing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Bright colours are very much in ___ this summer.",
+    "correct_word": "fashion",
+    "options": [
+     "style",
+     "trend",
+     "mode",
+     "fashion"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ off your wet shoes at the door.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "turn",
+     "make",
+     "give"
+    ]
+   },
+   {
+    "sentence_with_blank": "This red scarf goes really well ___ your coat.",
+    "correct_word": "with",
+    "options": [
+     "to",
+     "with",
+     "for",
+     "on"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day at the Shops",
+   "text": "Last Saturday I went shopping with my cousin. She loves fashion and always follows the latest trends. In the first shop, she tried on a green jacket, but it did not fit her. Then she found a pair of jeans that suited her very well. I prefer simple clothes, so I bought a loose grey sweater. In a small market we saw second-hand clothes at low prices. My cousin said that old styles are coming back into fashion. We went home happy, with two full bags.",
+   "key_words": [
+    {
+     "word": "try on",
+     "translation_uz": "kiyib ko'rmoq"
+    },
+    {
+     "word": "in fashion",
+     "translation_uz": "modada"
+    },
+    {
+     "word": "second-hand",
+     "translation_uz": "ishlatilgan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who loves fashion?",
+     "options": [
+      "The writer's cousin",
+      "The writer's mother",
+      "The shop assistant",
+      "The writer"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the green jacket not work?",
+     "options": [
+      "It was too expensive",
+      "It was dirty",
+      "It did not fit her",
+      "It was old"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the writer buy?",
+     "options": [
+      "A green jacket",
+      "A loose grey sweater",
+      "A pair of jeans",
+      "A scarf"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "School Uniform",
+   "script": "At my school, everyone wears a uniform. We put on a white shirt, dark trousers or a skirt, and a blue jacket. Some students think it is boring, but I like it because we do not have to choose clothes every morning. On Fridays we can dress casually, and we wear jeans and T-shirts. Last Friday I wore a yellow sweater, and my friend said it went well with my shoes. The teachers say a uniform makes all students equal.",
+   "questions": [
+    {
+     "question": "What do students wear on most days?",
+     "options": [
+      "Jeans",
+      "Sports clothes",
+      "Coats",
+      "A uniform"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why does the speaker like the uniform?",
+     "options": [
+      "It is colourful",
+      "It is cheap",
+      "It is loose",
+      "No need to choose clothes"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What can students wear on Fridays?",
+     "options": [
+      "Casual clothes",
+      "Pyjamas",
+      "Black suits",
+      "Nothing special"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Try on this jacket.",
+    "She dresses very smartly.",
+    "Take off your coat."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Clothes",
+    "question_text": "What do you wear at school or work?",
+    "hint_words": [
+     "uniform",
+     "shirt",
+     "trousers",
+     "jacket"
+    ]
+   },
+   {
+    "topic": "Fashion",
+    "question_text": "Do you follow fashion? Why or why not?",
+    "hint_words": [
+     "trends",
+     "in fashion",
+     "expensive",
+     "comfortable"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "What was the last thing you bought to wear?",
+    "hint_words": [
+     "bought",
+     "pair of",
+     "new",
+     "size"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 103,
+  "title": "appearance",
+  "vocabulary": [
+   {
+    "word": "good-looking / attractive",
+    "translation_uz": "kelishgan / jozibali",
+    "example_sentence": "He is a good-looking young man."
+   },
+   {
+    "word": "look like someone",
+    "translation_uz": "birovga o'xshamoq",
+    "example_sentence": "You look like your father."
+   },
+   {
+    "word": "tall / short / of medium height",
+    "translation_uz": "baland / past / o'rta bo'yli",
+    "example_sentence": "My brother is tall and thin."
+   },
+   {
+    "word": "slim / well-built",
+    "translation_uz": "ozg'in / baquvvat",
+    "example_sentence": "The coach is a well-built man."
+   },
+   {
+    "word": "fair / dark hair",
+    "translation_uz": "och / qora sochli",
+    "example_sentence": "She has long dark hair."
+   },
+   {
+    "word": "curly / straight / wavy hair",
+    "translation_uz": "jingalak / tekis / to'lqinsimon soch",
+    "example_sentence": "I wish I had curly hair."
+   },
+   {
+    "word": "blue / brown eyes",
+    "translation_uz": "ko'k / jigarrang ko'z",
+    "example_sentence": "The baby has big brown eyes."
+   },
+   {
+    "word": "have a beard / moustache",
+    "translation_uz": "soqolli / mo'ylovli bo'lmoq",
+    "example_sentence": "My uncle has a beard."
+   },
+   {
+    "word": "wear glasses",
+    "translation_uz": "ko'zoynak taqmoq",
+    "example_sentence": "The girl with glasses is my cousin."
+   },
+   {
+    "word": "first impression",
+    "translation_uz": "birinchi taassurot",
+    "example_sentence": "He made a good first impression."
+   },
+   {
+    "word": "appearance / appear",
+    "translation_uz": "tashqi ko'rinish / ko'rinmoq",
+    "example_sentence": "Appearance is not the most important thing."
+   },
+   {
+    "word": "neat and tidy",
+    "translation_uz": "ozoda va saranjom",
+    "example_sentence": "Her clothes are always neat and tidy."
+   },
+   {
+    "word": "change your appearance",
+    "translation_uz": "tashqi ko'rinishini o'zgartirmoq",
+    "example_sentence": "She changed her appearance with a new haircut."
+   },
+   {
+    "word": "in his twenties",
+    "translation_uz": "yigirma yoshlarda",
+    "example_sentence": "The teacher is a man in his twenties."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "You really ___ like your grandmother in this photo.",
+    "correct_word": "look",
+    "options": [
+     "sound",
+     "look",
+     "feel",
+     "taste"
+    ]
+   },
+   {
+    "sentence_with_blank": "The new neighbour is a tall man ___ a beard.",
+    "correct_word": "with",
+    "options": [
+     "in",
+     "by",
+     "with",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has long, ___ hair that falls on her shoulders.",
+    "correct_word": "straight",
+    "options": [
+     "flat",
+     "plain",
+     "even",
+     "straight"
+    ]
+   },
+   {
+    "sentence_with_blank": "I was nervous, but I wanted to make a good first ___.",
+    "correct_word": "impression",
+    "options": [
+     "impression",
+     "opinion",
+     "feeling",
+     "idea"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother is short, but he is very strong and well-___.",
+    "correct_word": "built",
+    "options": [
+     "made",
+     "built",
+     "grown",
+     "set"
+    ]
+   },
+   {
+    "sentence_with_blank": "The man is in his ___ and works as a pilot.",
+    "correct_word": "thirties",
+    "options": [
+     "thirty",
+     "third",
+     "thirties",
+     "thirtieth"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Describing People",
+   "text": "Yesterday our class played a game of describing people. I described my teacher, Mr Brown. He is a tall man in his forties with short fair hair and blue eyes. He wears glasses and has a small moustache. He is slim and always neat and tidy. My friends said, \"That is easy! It is Mr Brown!\" Then Sara described her brother. He has curly dark hair and brown eyes, and he looks like her father. We learned that small details help us to describe a person well.",
+   "key_words": [
+    {
+     "word": "moustache",
+     "translation_uz": "mo'ylov"
+    },
+    {
+     "word": "neat and tidy",
+     "translation_uz": "ozoda"
+    },
+    {
+     "word": "curly hair",
+     "translation_uz": "jingalak soch"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How old is Mr Brown?",
+     "options": [
+      "In his twenties",
+      "In his forties",
+      "In his fifties",
+      "In his thirties"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What colour are Mr Brown's eyes?",
+     "options": [
+      "Green",
+      "Brown",
+      "Grey",
+      "Blue"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who does Sara's brother look like?",
+     "options": [
+      "Her father",
+      "Her mother",
+      "Her teacher",
+      "Her friend"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Lost at the Station",
+   "script": "Woman: Excuse me, I am looking for my son. He is eight years old. Officer: Can you describe him? Woman: He is quite short for his age. He has straight fair hair and brown eyes. He wears glasses and a red jacket. Officer: Does he look like you? Woman: Yes, people say he looks just like me. Officer: Do not worry. We will make an announcement, and he will come to the information desk.",
+   "questions": [
+    {
+     "question": "How old is the boy?",
+     "options": [
+      "Six",
+      "Ten",
+      "Eight",
+      "Twelve"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the boy wear?",
+     "options": [
+      "Glasses and a red jacket",
+      "A blue hat",
+      "A school uniform",
+      "A long coat"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will the officer do?",
+     "options": [
+      "Call the teacher",
+      "Close the station",
+      "Drive to the school",
+      "Make an announcement"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She has curly dark hair.",
+    "He made a good first impression.",
+    "My uncle wears glasses."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Appearance",
+    "question_text": "Can you describe your best friend?",
+    "hint_words": [
+     "tall",
+     "hair",
+     "eyes",
+     "wears"
+    ]
+   },
+   {
+    "topic": "Appearance",
+    "question_text": "Who do you look like in your family?",
+    "hint_words": [
+     "look like",
+     "mother",
+     "father",
+     "eyes"
+    ]
+   },
+   {
+    "topic": "Appearance",
+    "question_text": "Is appearance important? Why or why not?",
+    "hint_words": [
+     "first impression",
+     "kind",
+     "clean",
+     "important"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 104,
+  "title": "habit and routine",
+  "vocabulary": [
+   {
+    "word": "get into a habit",
+    "translation_uz": "odat tusmoq",
+    "example_sentence": "It is easy to get into the habit of going to bed late."
+   },
+   {
+    "word": "break a habit",
+    "translation_uz": "odatdan voz kechmoq",
+    "example_sentence": "He wants to break the habit of biting his nails."
+   },
+   {
+    "word": "a good / bad habit",
+    "translation_uz": "yaxshi / yomon odat",
+    "example_sentence": "Reading before bed is a good habit."
+   },
+   {
+    "word": "be in the habit of doing",
+    "translation_uz": "... qilishga odatlangan bo'lmoq",
+    "example_sentence": "I am in the habit of walking to work."
+   },
+   {
+    "word": "do something out of habit",
+    "translation_uz": "odatga ko'ra qilmoq",
+    "example_sentence": "I locked the door out of habit."
+   },
+   {
+    "word": "a daily routine",
+    "translation_uz": "kundalik tartib",
+    "example_sentence": "My daily routine starts at six o'clock."
+   },
+   {
+    "word": "follow a routine",
+    "translation_uz": "tartibga rioya qilmoq",
+    "example_sentence": "Children feel safe when they follow a routine."
+   },
+   {
+    "word": "get out of a routine",
+    "translation_uz": "odatiy tartibdan chiqmoq",
+    "example_sentence": "On holiday we get out of our routine."
+   },
+   {
+    "word": "a morning / bedtime routine",
+    "translation_uz": "ertalabki / uxlashdan oldingi tartib",
+    "example_sentence": "Brushing teeth is part of my bedtime routine."
+   },
+   {
+    "word": "do something regularly",
+    "translation_uz": "muntazam qilmoq",
+    "example_sentence": "I exercise regularly three times a week."
+   },
+   {
+    "word": "as usual",
+    "translation_uz": "odatdagidek",
+    "example_sentence": "As usual, I had tea and toast for breakfast."
+   },
+   {
+    "word": "used to do",
+    "translation_uz": "ilgari ... qilar edi",
+    "example_sentence": "I used to play outside every afternoon."
+   },
+   {
+    "word": "get used to",
+    "translation_uz": "o'rganib qolmoq",
+    "example_sentence": "She slowly got used to the new school."
+   },
+   {
+    "word": "on a regular basis",
+    "translation_uz": "muntazam ravishda",
+    "example_sentence": "We visit our grandparents on a regular basis."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I want to ___ the habit of eating too many sweets.",
+    "correct_word": "break",
+    "options": [
+     "stop",
+     "leave",
+     "break",
+     "lose"
+    ]
+   },
+   {
+    "sentence_with_blank": "Drinking water in the morning is a very good ___.",
+    "correct_word": "habit",
+    "options": [
+     "custom",
+     "rule",
+     "manner",
+     "habit"
+    ]
+   },
+   {
+    "sentence_with_blank": "He got ___ the habit of checking his phone every five minutes.",
+    "correct_word": "into",
+    "options": [
+     "into",
+     "onto",
+     "in",
+     "up"
+    ]
+   },
+   {
+    "sentence_with_blank": "My daily ___ starts with a short walk and a shower.",
+    "correct_word": "routine",
+    "options": [
+     "custom",
+     "routine",
+     "plan",
+     "timing"
+    ]
+   },
+   {
+    "sentence_with_blank": "As ___, I woke up at six and made breakfast.",
+    "correct_word": "usual",
+    "options": [
+     "usually",
+     "often",
+     "usual",
+     "normal"
+    ]
+   },
+   {
+    "sentence_with_blank": "At first I could not sleep, but I got ___ to the noise.",
+    "correct_word": "used",
+    "options": [
+     "use",
+     "using",
+     "usual",
+     "used"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Morning Routine",
+   "text": "I have a simple daily routine, and it helps me feel calm. I get up at six and drink a glass of water out of habit. Then I do some exercise, and I try to do it regularly. After breakfast I walk to school with my brother. I used to stay up late, but I broke that bad habit last year. Now I go to bed at ten, and I read for twenty minutes. When we go on holiday, we get out of our routine, but I always enjoy it. Good habits make life easier.",
+   "key_words": [
+    {
+     "word": "daily routine",
+     "translation_uz": "kundalik tartib"
+    },
+    {
+     "word": "break a habit",
+     "translation_uz": "odatdan voz kechmoq"
+    },
+    {
+     "word": "out of habit",
+     "translation_uz": "odatga ko'ra"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the writer drink after getting up?",
+     "options": [
+      "Tea",
+      "Milk",
+      "A glass of water",
+      "Juice"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which bad habit did the writer break?",
+     "options": [
+      "Staying up late",
+      "Missing breakfast",
+      "Walking to school",
+      "Reading"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When does the writer go to bed now?",
+     "options": [
+      "At eleven",
+      "At nine",
+      "At midnight",
+      "At ten"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A New Routine",
+   "script": "Mum: You look tired, Daniel. Daniel: Yes. I have not got used to my new school yet. Mum: Let us make a simple routine. First, pack your bag the night before. Daniel: Good idea. I used to forget my books. Mum: Second, go to bed at the same time every evening. Daniel: OK. And in the morning, I will get up at seven, as usual. Mum: Perfect. After a few weeks, it will become a good habit.",
+   "questions": [
+    {
+     "question": "Why does Daniel look tired?",
+     "options": [
+      "He is ill",
+      "He is not used to his new school",
+      "He played football",
+      "He has no breakfast"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What should Daniel do the night before?",
+     "options": [
+      "Wash his shoes",
+      "Pack his bag",
+      "Phone a friend",
+      "Clean his room"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What time will Daniel get up?",
+     "options": [
+      "At six",
+      "At eight",
+      "At seven",
+      "At nine"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I broke a bad habit.",
+    "She follows a daily routine.",
+    "He got used to it."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Habits",
+    "question_text": "What is your morning routine?",
+    "hint_words": [
+     "get up",
+     "breakfast",
+     "school",
+     "usually"
+    ]
+   },
+   {
+    "topic": "Habits",
+    "question_text": "Do you have any good or bad habits?",
+    "hint_words": [
+     "good habit",
+     "bad habit",
+     "sometimes",
+     "always"
+    ]
+   },
+   {
+    "topic": "Routine",
+    "question_text": "What do you do regularly at the weekend?",
+    "hint_words": [
+     "regularly",
+     "visit",
+     "play",
+     "help"
+    ]
+   }
+  ]
+ }
+]

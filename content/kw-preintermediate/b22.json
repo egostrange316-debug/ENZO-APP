@@ -1,0 +1,1518 @@
+[
+ {
+  "unit": 178,
+  "title": "phone / telephone",
+  "vocabulary": [
+   {
+    "word": "answer the phone",
+    "translation_uz": "telefonga javob bermoq",
+    "example_sentence": "Please answer the phone."
+   },
+   {
+    "word": "pick up the phone",
+    "translation_uz": "trubkani ko'tarmoq",
+    "example_sentence": "He picked up the phone quickly."
+   },
+   {
+    "word": "hang up the phone",
+    "translation_uz": "trubkani qo'ymoq",
+    "example_sentence": "She hung up the phone and smiled."
+   },
+   {
+    "word": "the phone rings",
+    "translation_uz": "telefon jiringlaydi",
+    "example_sentence": "The phone rang at midnight."
+   },
+   {
+    "word": "on the phone",
+    "translation_uz": "telefonda",
+    "example_sentence": "My mum is on the phone."
+   },
+   {
+    "word": "talk on the phone",
+    "translation_uz": "telefonda gaplashmoq",
+    "example_sentence": "I talk on the phone with my cousin."
+   },
+   {
+    "word": "a phone number",
+    "translation_uz": "telefon raqami",
+    "example_sentence": "What is your phone number?"
+   },
+   {
+    "word": "a mobile phone",
+    "translation_uz": "mobil telefon",
+    "example_sentence": "He got a new mobile phone."
+   },
+   {
+    "word": "charge a phone",
+    "translation_uz": "telefonni zaryadlamoq",
+    "example_sentence": "I need to charge my phone."
+   },
+   {
+    "word": "switch off your phone",
+    "translation_uz": "telefonni o'chirmoq",
+    "example_sentence": "Switch off your phone in class."
+   },
+   {
+    "word": "a phone call",
+    "translation_uz": "telefon qo'ng'irog'i",
+    "example_sentence": "I had a phone call from Tom."
+   },
+   {
+    "word": "a telephone box",
+    "translation_uz": "telefon budkasi",
+    "example_sentence": "There is an old telephone box in the street."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can you ___ the phone? It is ringing.",
+    "correct_word": "answer",
+    "options": [
+     "eat",
+     "wash",
+     "plant",
+     "answer"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ off your phone during the lesson.",
+    "correct_word": "switch",
+    "options": [
+     "fill",
+     "cut",
+     "switch",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "My phone is nearly dead, so I must ___ it.",
+    "correct_word": "charge",
+    "options": [
+     "plant",
+     "charge",
+     "cook",
+     "teach"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum is talking ___ the phone with Grandma.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "What is your phone ___? I want to call you.",
+    "correct_word": "number",
+    "options": [
+     "number",
+     "colour",
+     "roof",
+     "price"
+    ]
+   },
+   {
+    "sentence_with_blank": "When the phone ___, I ran to the kitchen.",
+    "correct_word": "rang",
+    "options": [
+     "ate",
+     "flew",
+     "sailed",
+     "rang"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My First Phone",
+   "text": "For my birthday I got a mobile phone. I was very happy! Dad showed me how to charge it and how to save a phone number. At school I must switch off my phone in class. Yesterday my phone rang during lunch. It was my grandma. I answered the phone and we talked for ten minutes. Before she hung up, she said, \"Don't forget to charge your phone!\"",
+   "key_words": [
+    {
+     "word": "birthday",
+     "translation_uz": "tug'ilgan kun"
+    },
+    {
+     "word": "save",
+     "translation_uz": "saqlamoq"
+    },
+    {
+     "word": "forget",
+     "translation_uz": "unutmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was the writer happy?",
+     "options": [
+      "He got a bike",
+      "He got a dog",
+      "He got a mobile phone",
+      "He got a book"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who phoned during lunch?",
+     "options": [
+      "Dad",
+      "A teacher",
+      "Grandma",
+      "A friend"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What must the writer do at school?",
+     "options": [
+      "Charge the phone",
+      "Switch off the phone in class",
+      "Hang up",
+      "Save numbers"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Old Telephone",
+   "script": "In my grandpa's house there is an old telephone. It is black and heavy. When the phone rings, it makes a very loud sound. Grandpa picks up the phone and says, \"Hello?\" He cannot take it outside, because it is not a mobile phone. He likes to talk on the phone with his old friends for a long time. At night he hangs up and says, \"Time for tea.\"",
+   "questions": [
+    {
+     "question": "What colour is the old telephone?",
+     "options": [
+      "Black",
+      "White",
+      "Red",
+      "Green"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why can't Grandpa take it outside?",
+     "options": [
+      "It is broken",
+      "It is too small",
+      "It is lost",
+      "It is not a mobile phone"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Grandpa say at night?",
+     "options": [
+      "Good morning",
+      "Let's go out",
+      "I am tired",
+      "Time for tea"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Answer the phone.",
+    "What is your phone number?",
+    "He hung up the phone."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Phones",
+    "question_text": "Do you have a mobile phone?",
+    "hint_words": [
+     "yes",
+     "no",
+     "new",
+     "big"
+    ]
+   },
+   {
+    "topic": "Phones",
+    "question_text": "Who do you talk to on the phone?",
+    "hint_words": [
+     "friends",
+     "family",
+     "Grandma",
+     "every day"
+    ]
+   },
+   {
+    "topic": "Phones",
+    "question_text": "What is your phone number?",
+    "hint_words": [
+     "my number",
+     "is",
+     "eight",
+     "nine"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 179,
+  "title": "call",
+  "vocabulary": [
+   {
+    "word": "make a call",
+    "translation_uz": "qo'ng'iroq qilmoq",
+    "example_sentence": "I need to make a call."
+   },
+   {
+    "word": "get a call",
+    "translation_uz": "qo'ng'iroq olmoq",
+    "example_sentence": "She got a call from her friend."
+   },
+   {
+    "word": "give someone a call",
+    "translation_uz": "birovga qo'ng'iroq qilmoq",
+    "example_sentence": "Give me a call tonight."
+   },
+   {
+    "word": "call someone back",
+    "translation_uz": "qayta qo'ng'iroq qilmoq",
+    "example_sentence": "I'll call you back in five minutes."
+   },
+   {
+    "word": "call the doctor",
+    "translation_uz": "shifokorni chaqirmoq",
+    "example_sentence": "Mum called the doctor."
+   },
+   {
+    "word": "call a taxi",
+    "translation_uz": "taksi chaqirmoq",
+    "example_sentence": "Let's call a taxi."
+   },
+   {
+    "word": "call for help",
+    "translation_uz": "yordam so'ramoq",
+    "example_sentence": "He called for help."
+   },
+   {
+    "word": "a short call",
+    "translation_uz": "qisqa qo'ng'iroq",
+    "example_sentence": "It was a short call."
+   },
+   {
+    "word": "a long call",
+    "translation_uz": "uzoq qo'ng'iroq",
+    "example_sentence": "She had a long call with her sister."
+   },
+   {
+    "word": "a missed call",
+    "translation_uz": "javobsiz qo'ng'iroq",
+    "example_sentence": "I have two missed calls."
+   },
+   {
+    "word": "be called",
+    "translation_uz": "... deb nomlanmoq",
+    "example_sentence": "My dog is called Max."
+   },
+   {
+    "word": "call someone names",
+    "translation_uz": "birovni haqorat qilmoq",
+    "example_sentence": "Don't call people names."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I want to ___ a call to my grandma.",
+    "correct_word": "make",
+    "options": [
+     "eat",
+     "climb",
+     "make",
+     "spill"
+    ]
+   },
+   {
+    "sentence_with_blank": "I was busy, so I will ___ you back later.",
+    "correct_word": "call",
+    "options": [
+     "hide",
+     "call",
+     "carry",
+     "dig"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a fire, so they called for ___.",
+    "correct_word": "help",
+    "options": [
+     "help",
+     "pencil",
+     "juice",
+     "stairs"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is raining hard. Let's call a ___ to get home.",
+    "correct_word": "taxi",
+    "options": [
+     "taxi",
+     "banana",
+     "river",
+     "cloud"
+    ]
+   },
+   {
+    "sentence_with_blank": "I had two missed ___ on my phone this morning.",
+    "correct_word": "calls",
+    "options": [
+     "apples",
+     "shoes",
+     "doors",
+     "calls"
+    ]
+   },
+   {
+    "sentence_with_blank": "My little cat is ___ Luna.",
+    "correct_word": "called",
+    "options": [
+     "spoken",
+     "heard",
+     "called",
+     "shown"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Quick Call",
+   "text": "Last night my phone rang at nine o'clock. It was my cousin Jasur. He said, \"Can I give you a call tomorrow?\" I said, \"Yes, but please call me before school.\" It was a short call. This morning I had two missed calls on my phone, but they were from my aunt. I called her back. She wanted to know if we needed a taxi to the airport. Mum said, \"Yes, please call a taxi for six o'clock.\"",
+   "key_words": [
+    {
+     "word": "cousin",
+     "translation_uz": "amakivachcha"
+    },
+    {
+     "word": "airport",
+     "translation_uz": "aeroport"
+    },
+    {
+     "word": "before",
+     "translation_uz": "oldin"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who phoned at nine o'clock?",
+     "options": [
+      "The aunt",
+      "Jasur",
+      "A teacher",
+      "Dad"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How many missed calls were there?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "Five"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Mum ask the aunt to do?",
+     "options": [
+      "Call a taxi for six o'clock",
+      "Call the doctor",
+      "Buy tickets",
+      "Visit them"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "An Emergency",
+   "script": "Last week our neighbour fell in his garden and could not stand up. His wife made a call at once. She called the doctor and a taxi too. The doctor came in ten minutes. He said it was not serious. The neighbour is called Mr Rustam, and he is seventy years old. Later, his wife gave my mum a call to say thank you.",
+   "questions": [
+    {
+     "question": "Who made the call?",
+     "options": [
+      "The doctor",
+      "The speaker",
+      "Mum",
+      "The neighbour's wife"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did the doctor take?",
+     "options": [
+      "One hour",
+      "Five minutes",
+      "Ten minutes",
+      "Two hours"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How old is Mr Rustam?",
+     "options": [
+      "Sixty",
+      "Eighty",
+      "Seventy",
+      "Fifty"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Give me a call.",
+    "I will call you back.",
+    "Call a taxi."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Calls",
+    "question_text": "Who gives you a call every day?",
+    "hint_words": [
+     "mum",
+     "friend",
+     "Grandma",
+     "call"
+    ]
+   },
+   {
+    "topic": "Calls",
+    "question_text": "Do you prefer a short call or a long call?",
+    "hint_words": [
+     "short",
+     "long",
+     "because",
+     "talk"
+    ]
+   },
+   {
+    "topic": "Calls",
+    "question_text": "What do you do when you miss a call?",
+    "hint_words": [
+     "call back",
+     "message",
+     "ask",
+     "wait"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 180,
+  "title": "camera, photograph / photo",
+  "vocabulary": [
+   {
+    "word": "take a photo",
+    "translation_uz": "rasmga olmoq",
+    "example_sentence": "Let's take a photo of the cat."
+   },
+   {
+    "word": "take a photograph of someone",
+    "translation_uz": "birovning suratini olmoq",
+    "example_sentence": "He took a photograph of his grandma."
+   },
+   {
+    "word": "a digital camera",
+    "translation_uz": "raqamli fotoapparat",
+    "example_sentence": "My dad has a digital camera."
+   },
+   {
+    "word": "a camera phone",
+    "translation_uz": "kamerali telefon",
+    "example_sentence": "I took the picture with a camera phone."
+   },
+   {
+    "word": "a security camera",
+    "translation_uz": "kuzatuv kamerasi",
+    "example_sentence": "There is a security camera at the shop."
+   },
+   {
+    "word": "a family photo",
+    "translation_uz": "oilaviy surat",
+    "example_sentence": "We have a family photo on the wall."
+   },
+   {
+    "word": "a photo of the mountains",
+    "translation_uz": "tog'lar surati",
+    "example_sentence": "This is a photo of the mountains."
+   },
+   {
+    "word": "in a photo",
+    "translation_uz": "suratda",
+    "example_sentence": "You look happy in this photo."
+   },
+   {
+    "word": "print a photo",
+    "translation_uz": "rasmni chop etmoq",
+    "example_sentence": "I want to print this photo."
+   },
+   {
+    "word": "share a photo",
+    "translation_uz": "rasmni ulashmoq",
+    "example_sentence": "She shared a photo with her friends."
+   },
+   {
+    "word": "a photo album",
+    "translation_uz": "foto albom",
+    "example_sentence": "Grandpa shows us his photo album."
+   },
+   {
+    "word": "look at a photograph",
+    "translation_uz": "suratga qaramoq",
+    "example_sentence": "We looked at an old photograph."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Smile! I want to ___ a photo of you.",
+    "correct_word": "take",
+    "options": [
+     "eat",
+     "take",
+     "wash",
+     "drive"
+    ]
+   },
+   {
+    "sentence_with_blank": "My dad bought a new digital ___ for our trip.",
+    "correct_word": "camera",
+    "options": [
+     "camera",
+     "window",
+     "spoon",
+     "hat"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a family ___ on the wall in our living room.",
+    "correct_word": "photo",
+    "options": [
+     "noise",
+     "banana",
+     "pillow",
+     "photo"
+    ]
+   },
+   {
+    "sentence_with_blank": "You look very happy ___ this photo.",
+    "correct_word": "in",
+    "options": [
+     "to",
+     "off",
+     "for",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the photo so we can put it on the wall.",
+    "correct_word": "print",
+    "options": [
+     "swim",
+     "bake",
+     "print",
+     "cut"
+    ]
+   },
+   {
+    "sentence_with_blank": "I want to ___ this photo with my cousins.",
+    "correct_word": "share",
+    "options": [
+     "dig",
+     "share",
+     "sleep",
+     "pour"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our Trip to the Mountains",
+   "text": "Last summer we went to the mountains. My dad took his new digital camera. He took many photographs of the lakes and trees. I took a photo of a small goat. My little sister looked silly in the photo because she had a big hat. Mum printed our best photos and made a photo album. There is also a family photo of all of us next to the lake. I love looking at it.",
+   "key_words": [
+    {
+     "word": "goat",
+     "translation_uz": "echki"
+    },
+    {
+     "word": "silly",
+     "translation_uz": "kulgili"
+    },
+    {
+     "word": "lake",
+     "translation_uz": "ko'l"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who took photographs with a digital camera?",
+     "options": [
+      "Dad",
+      "Mum",
+      "The sister",
+      "The teacher"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was in the writer's photo?",
+     "options": [
+      "A small goat",
+      "A big lake",
+      "A car",
+      "A bird"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Mum make?",
+     "options": [
+      "A cake",
+      "A map",
+      "A video",
+      "A photo album"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Grandpa's Photos",
+   "script": "My grandpa has a big photo album. Last Sunday he showed it to me. The first photograph was of him at school. He was very thin and had a big smile. There was also a family photo with all his brothers. Grandpa did not have a camera phone then. He used an old camera, and he had to print every photo. Now I take photos with my phone and share them.",
+   "questions": [
+    {
+     "question": "What did Grandpa show the speaker?",
+     "options": [
+      "A video",
+      "A film",
+      "A photo album",
+      "A book of stories"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was the first photograph of?",
+     "options": [
+      "The family",
+      "Grandpa at school",
+      "A house",
+      "A lake"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Grandpa use then?",
+     "options": [
+      "A camera phone",
+      "An old camera",
+      "A computer",
+      "A video"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Take a photo of me.",
+    "This is my camera.",
+    "Look at the photograph."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Photos",
+    "question_text": "Do you like taking photos?",
+    "hint_words": [
+     "yes",
+     "no",
+     "phone",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Photos",
+    "question_text": "What is in your family photo?",
+    "hint_words": [
+     "family",
+     "Mum",
+     "Dad",
+     "smile"
+    ]
+   },
+   {
+    "topic": "Photos",
+    "question_text": "Who do you share photos with?",
+    "hint_words": [
+     "friends",
+     "cousins",
+     "family",
+     "send"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 181,
+  "title": "video / DVD",
+  "vocabulary": [
+   {
+    "word": "watch a video",
+    "translation_uz": "video ko'rmoq",
+    "example_sentence": "We watched a video in class."
+   },
+   {
+    "word": "make a video",
+    "translation_uz": "video tayyorlamoq",
+    "example_sentence": "They made a video of their trip."
+   },
+   {
+    "word": "record a video",
+    "translation_uz": "video yozib olmoq (kamerada)",
+    "example_sentence": "I recorded a video of my dog."
+   },
+   {
+    "word": "a music video",
+    "translation_uz": "musiqiy video",
+    "example_sentence": "She likes a new music video."
+   },
+   {
+    "word": "a video game",
+    "translation_uz": "video o'yin",
+    "example_sentence": "He plays a video game after school."
+   },
+   {
+    "word": "a video call",
+    "translation_uz": "video qo'ng'iroq",
+    "example_sentence": "We had a video call with Grandpa."
+   },
+   {
+    "word": "upload a video",
+    "translation_uz": "videoni yuklamoq",
+    "example_sentence": "He uploaded a video to the site."
+   },
+   {
+    "word": "on video",
+    "translation_uz": "videoda",
+    "example_sentence": "The match is on video."
+   },
+   {
+    "word": "watch a DVD",
+    "translation_uz": "DVD ko'rmoq",
+    "example_sentence": "We watched a DVD last night."
+   },
+   {
+    "word": "play a DVD",
+    "translation_uz": "DVD qo'ymoq",
+    "example_sentence": "Can you play the DVD?"
+   },
+   {
+    "word": "rent a DVD",
+    "translation_uz": "DVD ijaraga olmoq",
+    "example_sentence": "We rent a DVD on Fridays."
+   },
+   {
+    "word": "a DVD player",
+    "translation_uz": "DVD pleyer",
+    "example_sentence": "Our DVD player is old."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We ___ a video in class about space.",
+    "correct_word": "watched",
+    "options": [
+     "watched",
+     "ate",
+     "built",
+     "washed"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin ___ a video of his dog and sent it to us.",
+    "correct_word": "recorded",
+    "options": [
+     "painted",
+     "drank",
+     "wore",
+     "recorded"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ the DVD, please? The film is ready.",
+    "correct_word": "play",
+    "options": [
+     "bake",
+     "hide",
+     "play",
+     "jump"
+    ]
+   },
+   {
+    "sentence_with_blank": "We had a video ___ with my aunt in Germany.",
+    "correct_word": "call",
+    "options": [
+     "spoon",
+     "hill",
+     "call",
+     "tree"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wants to ___ a new video to the internet.",
+    "correct_word": "upload",
+    "options": [
+     "stir",
+     "upload",
+     "fold",
+     "peel"
+    ]
+   },
+   {
+    "sentence_with_blank": "The goal is ___ video, so we can see it again.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "up",
+     "off",
+     "out"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Film Night",
+   "text": "Every Friday we have a film night at home. First, Dad rents a DVD from the shop. Then he puts the DVD in the DVD player. Last week we watched a funny film about a talking dog. My little brother laughed a lot. After the film, we made a short video of ourselves. We recorded it on Mum's phone. Then we had a video call with Grandma and showed her the video.",
+   "key_words": [
+    {
+     "word": "rents",
+     "translation_uz": "ijaraga oladi"
+    },
+    {
+     "word": "talking",
+     "translation_uz": "gapiradigan"
+    },
+    {
+     "word": "laughed",
+     "translation_uz": "kuldi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When do they have film night?",
+     "options": [
+      "Every Saturday",
+      "Every Monday",
+      "Every day",
+      "Every Friday"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was the film about?",
+     "options": [
+      "A pirate",
+      "A robot",
+      "A school",
+      "A talking dog"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who did they have a video call with?",
+     "options": [
+      "Dad",
+      "A teacher",
+      "Grandma",
+      "A cousin"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Making a Video",
+   "script": "Our class made a video about recycling. First, we wrote a short story. Then Ali recorded the video on his dad's camera. We acted in it. It took three days. When it was ready, our teacher uploaded the video to the school website. She also put the video on a DVD. On Monday we will watch it in class. I hope it is funny!",
+   "questions": [
+    {
+     "question": "What was the video about?",
+     "options": [
+      "Animals",
+      "Recycling",
+      "Sport",
+      "Food"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who recorded the video?",
+     "options": [
+      "Ali",
+      "The teacher",
+      "The speaker",
+      "Ali's dad"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the teacher upload the video?",
+     "options": [
+      "The school website",
+      "A shop",
+      "A phone",
+      "A television"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Watch a video.",
+    "Play the DVD.",
+    "We had a video call."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Videos and DVDs",
+    "question_text": "What video do you like to watch?",
+    "hint_words": [
+     "funny",
+     "music",
+     "cartoon",
+     "often"
+    ]
+   },
+   {
+    "topic": "Videos and DVDs",
+    "question_text": "Do you play video games?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sometimes",
+     "game"
+    ]
+   },
+   {
+    "topic": "Videos and DVDs",
+    "question_text": "Have you ever made a video?",
+    "hint_words": [
+     "yes",
+     "no",
+     "phone",
+     "friends"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 182,
+  "title": "minute, hour, week, month, year",
+  "vocabulary": [
+   {
+    "word": "wait a minute",
+    "translation_uz": "bir daqiqa kuting",
+    "example_sentence": "Wait a minute, please."
+   },
+   {
+    "word": "in a few minutes",
+    "translation_uz": "bir necha daqiqadan keyin",
+    "example_sentence": "I will be ready in a few minutes."
+   },
+   {
+    "word": "ten minutes late",
+    "translation_uz": "o'n daqiqa kechikib",
+    "example_sentence": "The bus was ten minutes late."
+   },
+   {
+    "word": "half an hour",
+    "translation_uz": "yarim soat",
+    "example_sentence": "The lesson lasts half an hour."
+   },
+   {
+    "word": "an hour ago",
+    "translation_uz": "bir soat oldin",
+    "example_sentence": "He left an hour ago."
+   },
+   {
+    "word": "for hours",
+    "translation_uz": "soatlab",
+    "example_sentence": "We talked for hours."
+   },
+   {
+    "word": "a week ago",
+    "translation_uz": "bir hafta oldin",
+    "example_sentence": "We met a week ago."
+   },
+   {
+    "word": "once a week",
+    "translation_uz": "haftada bir marta",
+    "example_sentence": "I swim once a week."
+   },
+   {
+    "word": "last week",
+    "translation_uz": "o'tgan hafta",
+    "example_sentence": "We went there last week."
+   },
+   {
+    "word": "next month",
+    "translation_uz": "kelasi oy",
+    "example_sentence": "My birthday is next month."
+   },
+   {
+    "word": "every month",
+    "translation_uz": "har oy",
+    "example_sentence": "We visit Grandma every month."
+   },
+   {
+    "word": "this year",
+    "translation_uz": "bu yil",
+    "example_sentence": "I am ten years old this year."
+   },
+   {
+    "word": "for years",
+    "translation_uz": "yillar davomida",
+    "example_sentence": "They have lived here for years."
+   },
+   {
+    "word": "a year ago",
+    "translation_uz": "bir yil oldin",
+    "example_sentence": "I started English a year ago."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please wait a ___. I will be ready soon.",
+    "correct_word": "minute",
+    "options": [
+     "carpet",
+     "cloud",
+     "door",
+     "minute"
+    ]
+   },
+   {
+    "sentence_with_blank": "The film lasted two ___, so we were tired.",
+    "correct_word": "hours",
+    "options": [
+     "rooms",
+     "bridges",
+     "hours",
+     "pencils"
+    ]
+   },
+   {
+    "sentence_with_blank": "I go swimming once a ___, on Saturdays.",
+    "correct_word": "week",
+    "options": [
+     "chair",
+     "week",
+     "nose",
+     "song"
+    ]
+   },
+   {
+    "sentence_with_blank": "My birthday is ___ month, in May.",
+    "correct_word": "next",
+    "options": [
+     "hungry",
+     "next",
+     "quiet",
+     "thin"
+    ]
+   },
+   {
+    "sentence_with_blank": "They have lived in this town ___ years.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "by",
+     "in",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "He left an hour ___, so he is home now.",
+    "correct_word": "ago",
+    "options": [
+     "for",
+     "by",
+     "at",
+     "ago"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Busy Weeks",
+   "text": "This week is very busy for me. I have swimming lessons once a week, and each lesson lasts an hour. Yesterday the bus was ten minutes late, so I waited for half an hour. Next month I will have a big exam, so I study every evening. A year ago I could not swim at all! Now I can swim for hours. My teacher says I will be a champion in two years.",
+   "key_words": [
+    {
+     "word": "lesson",
+     "translation_uz": "dars"
+    },
+    {
+     "word": "champion",
+     "translation_uz": "chempion"
+    },
+    {
+     "word": "exam",
+     "translation_uz": "imtihon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How often does the writer have swimming lessons?",
+     "options": [
+      "Twice a week",
+      "Every day",
+      "Once a week",
+      "Once a month"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did the writer wait for the bus?",
+     "options": [
+      "Ten minutes",
+      "An hour",
+      "Half an hour",
+      "Two hours"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When will the exam be?",
+     "options": [
+      "Next week",
+      "Next month",
+      "Next year",
+      "Tomorrow"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Long Journey",
+   "script": "We are going to visit my uncle in Samarkand. The journey takes five hours by car, so we must leave early. Last year we went there in summer, and it was very hot. This time it is only two weeks until we go. My uncle has lived there for ten years. We visit him every month or two. In a few minutes Dad will pack the car, and then we will start.",
+   "questions": [
+    {
+     "question": "How long is the journey by car?",
+     "options": [
+      "Five hours",
+      "Two hours",
+      "Ten hours",
+      "One hour"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long until they go?",
+     "options": [
+      "Two days",
+      "Two months",
+      "Two years",
+      "Two weeks"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who will pack the car?",
+     "options": [
+      "Mum",
+      "The uncle",
+      "The speaker",
+      "Dad"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Wait a minute.",
+    "See you next week.",
+    "I started a year ago."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Time words",
+    "question_text": "How many hours do you sleep?",
+    "hint_words": [
+     "eight",
+     "nine",
+     "at night",
+     "hours"
+    ]
+   },
+   {
+    "topic": "Time words",
+    "question_text": "What are you doing next week?",
+    "hint_words": [
+     "school",
+     "trip",
+     "visit",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Time words",
+    "question_text": "How many years have you studied English?",
+    "hint_words": [
+     "one",
+     "two",
+     "years",
+     "since"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 183,
+  "title": "time",
+  "vocabulary": [
+   {
+    "word": "spend time",
+    "translation_uz": "vaqt sarflamoq",
+    "example_sentence": "I spend time with my friends."
+   },
+   {
+    "word": "waste time",
+    "translation_uz": "vaqtni bekor sarflamoq",
+    "example_sentence": "Don't waste time on the phone."
+   },
+   {
+    "word": "take time",
+    "translation_uz": "vaqt olmoq",
+    "example_sentence": "Learning English takes time."
+   },
+   {
+    "word": "on time",
+    "translation_uz": "o'z vaqtida",
+    "example_sentence": "The train arrived on time."
+   },
+   {
+    "word": "in time",
+    "translation_uz": "ulgurib",
+    "example_sentence": "We got there in time for the film."
+   },
+   {
+    "word": "free time",
+    "translation_uz": "bo'sh vaqt",
+    "example_sentence": "What do you do in your free time?"
+   },
+   {
+    "word": "a long time",
+    "translation_uz": "uzoq vaqt",
+    "example_sentence": "It took a long time."
+   },
+   {
+    "word": "have time",
+    "translation_uz": "vaqti bo'lmoq",
+    "example_sentence": "Do you have time to help me?"
+   },
+   {
+    "word": "save time",
+    "translation_uz": "vaqtni tejamoq",
+    "example_sentence": "A bike will save time."
+   },
+   {
+    "word": "run out of time",
+    "translation_uz": "vaqti tugamoq",
+    "example_sentence": "We ran out of time in the exam."
+   },
+   {
+    "word": "have a good time",
+    "translation_uz": "yaxshi vaqt o'tkazmoq",
+    "example_sentence": "We had a good time at the party."
+   },
+   {
+    "word": "what time is it",
+    "translation_uz": "soat necha",
+    "example_sentence": "Excuse me, what time is it?"
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I like to ___ time with my grandparents on Sundays.",
+    "correct_word": "spend",
+    "options": [
+     "drink",
+     "kick",
+     "spend",
+     "build"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't ___ time. We must finish our homework soon.",
+    "correct_word": "waste",
+    "options": [
+     "laugh",
+     "waste",
+     "melt",
+     "bake"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bus was ___ time, so we were not late for school.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "to",
+     "by",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "What do you do in your free ___? I play football.",
+    "correct_word": "time",
+    "options": [
+     "time",
+     "door",
+     "table",
+     "wall"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ran ___ of time in the test and did not finish the last page.",
+    "correct_word": "out",
+    "options": [
+     "up",
+     "down",
+     "over",
+     "out"
+    ]
+   },
+   {
+    "sentence_with_blank": "Learning to play the piano ___ a long time.",
+    "correct_word": "takes",
+    "options": [
+     "eats",
+     "drinks",
+     "takes",
+     "wears"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Free Time",
+   "text": "I do not have much free time on school days. But on Saturdays I like to spend time with my friends. Last weekend we had a good time at the park. We played football for a long time. My friend was late, but he came in time for the game. He said, \"Sorry, I did not want to waste time.\" We always try to be on time. In the evening Mum asked, \"What time is it? Come home now!\"",
+   "key_words": [
+    {
+     "word": "weekend",
+     "translation_uz": "dam olish kunlari"
+    },
+    {
+     "word": "late",
+     "translation_uz": "kech"
+    },
+    {
+     "word": "always",
+     "translation_uz": "doim"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the writer spend time with friends?",
+     "options": [
+      "On Mondays",
+      "On Saturdays",
+      "Every evening",
+      "On school days"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where did they have a good time?",
+     "options": [
+      "At school",
+      "At the park",
+      "At home",
+      "At the cinema"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who asked, What time is it?",
+     "options": [
+      "Mum",
+      "The friend",
+      "The teacher",
+      "Dad"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Be on Time",
+   "script": "Our teacher says we must be on time. Yesterday I got up late, and I ran to school. I got there just in time for the first lesson. I was lucky! My friend Aziz was five minutes late. The teacher said, \"Please do not waste time in the morning.\" Today I got up early. I had enough time for breakfast. I also had time to feed my cat.",
+   "questions": [
+    {
+     "question": "Why did the speaker run to school?",
+     "options": [
+      "The bus was late",
+      "He was happy",
+      "He lost his bag",
+      "He got up late"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How late was Aziz?",
+     "options": [
+      "Ten minutes",
+      "One hour",
+      "Five minutes",
+      "Not late"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the speaker have time for today?",
+     "options": [
+      "Football",
+      "A phone call",
+      "Breakfast and feeding the cat",
+      "Reading a book"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I have no free time.",
+    "Don't waste time.",
+    "Be on time."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Time",
+    "question_text": "What do you do in your free time?",
+    "hint_words": [
+     "play",
+     "read",
+     "friends",
+     "watch"
+    ]
+   },
+   {
+    "topic": "Time",
+    "question_text": "Are you always on time?",
+    "hint_words": [
+     "yes",
+     "no",
+     "usually",
+     "late"
+    ]
+   },
+   {
+    "topic": "Time",
+    "question_text": "What takes a long time for you?",
+    "hint_words": [
+     "homework",
+     "reading",
+     "walking",
+     "dinner"
+    ]
+   }
+  ]
+ }
+]

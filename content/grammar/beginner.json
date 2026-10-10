@@ -1,0 +1,3001 @@
+[
+ {
+  "order": 1,
+  "title": "to be: I am / you are / we are / they are",
+  "title_uz": "To be: I am, you are, we are, they are",
+  "rule_uz": "Salom! \"To be\" fe'li \"bo'lmoq\" ma'nosini beradi. Kim ekanimizni, qayerdaligimizni va yoshimizni aytganda ishlatamiz. I bilan am, you bilan are, we bilan are, they bilan are ishlatiladi. Qisqa shakllari: I'm, you're, we're, they're.",
+  "forms": [
+   "I + am",
+   "You + are",
+   "We + are",
+   "They + are",
+   "I'm / you're / we're / they're"
+  ],
+  "examples": [
+   {
+    "en": "I am ten years old.",
+    "uz": "Men o'n yoshdaman."
+   },
+   {
+    "en": "We are in class five.",
+    "uz": "Biz beshinchi sinfdamiz."
+   },
+   {
+    "en": "They are from Samarkand.",
+    "uz": "Ular Samarqanddanlar."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I are a student.",
+    "right": "I am a student.",
+    "note_uz": "I bilan faqat am ishlatiladi."
+   },
+   {
+    "wrong": "We am happy.",
+    "right": "We are happy.",
+    "note_uz": "We bilan are ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ ten years old.",
+    "correct_word": "am",
+    "options": [
+     "am",
+     "is",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ in class five.",
+    "correct_word": "are",
+    "options": [
+     "is",
+     "am",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "You ___ my best friend.",
+    "correct_word": "are",
+    "options": [
+     "am",
+     "is",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom and I ___ good friends.",
+    "correct_word": "are",
+    "options": [
+     "is",
+     "am",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ you ready for the test?",
+    "correct_word": "Are",
+    "options": [
+     "Is",
+     "Am",
+     "Are",
+     "Do"
+    ]
+   },
+   {
+    "sentence_with_blank": "My friends ___ at the park now.",
+    "correct_word": "are",
+    "options": [
+     "is",
+     "am",
+     "are",
+     "be"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 2,
+  "title": "to be: he is / she is / it is",
+  "title_uz": "To be: he is, she is, it is",
+  "rule_uz": "He, she va it bilan \"to be\" fe'lining is shakli ishlatiladi. He - o'g'il bola yoki erkak, she - qiz bola yoki ayol, it - narsa yoki hayvon uchun. Bitta odam yoki narsa haqida gapirsak ham is deymiz: Ali is, the book is. Qisqa shakllari: he's, she's, it's.",
+  "forms": [
+   "He + is",
+   "She + is",
+   "It + is",
+   "He's / she's / it's"
+  ],
+  "examples": [
+   {
+    "en": "My sister is nine.",
+    "uz": "Opam to'qqiz yoshda."
+   },
+   {
+    "en": "He is a good student.",
+    "uz": "U yaxshi o'quvchi."
+   },
+   {
+    "en": "It is a small cat.",
+    "uz": "Bu kichkina mushuk."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She am my friend.",
+    "right": "She is my friend.",
+    "note_uz": "She bilan is ishlatiladi."
+   },
+   {
+    "wrong": "He are tall.",
+    "right": "He is tall.",
+    "note_uz": "He bilan are emas, is ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "She ___ my sister.",
+    "correct_word": "is",
+    "options": [
+     "am",
+     "is",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "My father ___ a driver.",
+    "correct_word": "is",
+    "options": [
+     "am",
+     "are",
+     "is",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "The book ___ on the desk.",
+    "correct_word": "is",
+    "options": [
+     "are",
+     "am",
+     "is",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our teacher ___ very kind.",
+    "correct_word": "is",
+    "options": [
+     "are",
+     "is",
+     "am",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look at the bag. ___ is red.",
+    "correct_word": "It",
+    "options": [
+     "He",
+     "She",
+     "It",
+     "They"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother is tall. ___ is also kind.",
+    "correct_word": "He",
+    "options": [
+     "She",
+     "He",
+     "It",
+     "They"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 3,
+  "title": "to be: negatives and questions, short answers",
+  "title_uz": "To be: inkor, savol va qisqa javob",
+  "rule_uz": "Inkor gapda to be fe'lidan keyin not qo'yamiz: I am not, he is not (isn't), they are not (aren't). Savol tuzish uchun to be fe'lini gap boshiga olib chiqamiz: Are you ready? Is she a doctor? Qisqa javob: Yes, I am. / No, he isn't. Qisqa javobda fe'lni takrorlaymiz, lekin gapni to'liq aytmaymiz.",
+  "forms": [
+   "I am not / you aren't / he isn't",
+   "Am I...? Are you...? Is she...?",
+   "Yes, I am. / No, I'm not.",
+   "Yes, it is. / No, it isn't."
+  ],
+  "examples": [
+   {
+    "en": "She is not at school today.",
+    "uz": "U bugun maktabda emas."
+   },
+   {
+    "en": "Are you hungry?",
+    "uz": "Qorning ochmi?"
+   },
+   {
+    "en": "Is it a dog? No, it isn't.",
+    "uz": "Bu itmi? Yo'q, it emas."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Are you a student? Yes, I do.",
+    "right": "Are you a student? Yes, I am.",
+    "note_uz": "Savolda are bo'lsa, javobda ham am/are ishlatiladi."
+   },
+   {
+    "wrong": "He no is tall.",
+    "right": "He is not tall.",
+    "note_uz": "Inkor uchun to be dan keyin not qo'yiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ not a teacher. I am a student.",
+    "correct_word": "am",
+    "options": [
+     "is",
+     "are",
+     "am",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is ___ tired.",
+    "correct_word": "not",
+    "options": [
+     "no",
+     "not",
+     "don't",
+     "isn't"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ you a student?",
+    "correct_word": "Are",
+    "options": [
+     "Is",
+     "Am",
+     "Are",
+     "Do"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ he your brother?",
+    "correct_word": "Is",
+    "options": [
+     "Are",
+     "Am",
+     "Is",
+     "Does"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Is it a cat?\" \"No, it ___.\"",
+    "correct_word": "isn't",
+    "options": [
+     "aren't",
+     "isn't",
+     "not",
+     "doesn't"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Are they in the park?\" \"Yes, they ___.\"",
+    "correct_word": "are",
+    "options": [
+     "is",
+     "do",
+     "are",
+     "aren't"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 4,
+  "title": "a / an",
+  "title_uz": "A va an",
+  "rule_uz": "A va an \"bitta\" ma'nosini beradi va sanash mumkin bo'lgan bitta narsa oldidan keladi. Undosh tovush bilan boshlansa a ishlatamiz: a book, a dog. Unli tovush (a, e, i, o, u) bilan boshlansa an ishlatamiz: an apple, an egg. Diqqat: tovushga qaraymiz, harfga emas! University so'zi \"yu\" tovushi bilan boshlanadi, shuning uchun a university.",
+  "forms": [
+   "a + undosh: a pen, a cat",
+   "an + unli: an egg, an orange",
+   "a university (yu- tovushi)",
+   "an hour (h aytilmaydi)"
+  ],
+  "examples": [
+   {
+    "en": "I have a new bag.",
+    "uz": "Mening yangi sumkam bor."
+   },
+   {
+    "en": "She eats an apple every day.",
+    "uz": "U har kuni bitta olma yeydi."
+   },
+   {
+    "en": "My uncle is an engineer.",
+    "uz": "Amakim muhandis."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have a apple.",
+    "right": "I have an apple.",
+    "note_uz": "Apple unli tovush bilan boshlanadi, shuning uchun an."
+   },
+   {
+    "wrong": "It is an dog.",
+    "right": "It is a dog.",
+    "note_uz": "Dog undosh bilan boshlanadi, shuning uchun a."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I have ___ apple.",
+    "correct_word": "an",
+    "options": [
+     "a",
+     "an",
+     "two",
+     "many"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is ___ teacher.",
+    "correct_word": "a",
+    "options": [
+     "an",
+     "a",
+     "two",
+     "many"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is ___ elephant.",
+    "correct_word": "an",
+    "options": [
+     "a",
+     "an",
+     "two",
+     "many"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need ___ umbrella.",
+    "correct_word": "an",
+    "options": [
+     "a",
+     "an",
+     "two",
+     "many"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister goes to ___ university.",
+    "correct_word": "a",
+    "options": [
+     "an",
+     "a",
+     "two",
+     "many"
+    ]
+   },
+   {
+    "sentence_with_blank": "My father is ___ engineer.",
+    "correct_word": "an",
+    "options": [
+     "a",
+     "an",
+     "two",
+     "many"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 5,
+  "title": "plural nouns (-s, -es, -ies)",
+  "title_uz": "Ko'plik shakli: -s, -es, -ies",
+  "rule_uz": "Bir narsadan ko'p bo'lsa, otning oxiriga -s qo'shamiz: book - books. Ot -s, -x, -ch, -sh bilan tugasa -es qo'shamiz: box - boxes, watch - watches. Ot undosh + y bilan tugasa, y ni olib tashlab -ies yozamiz: baby - babies. Unli + y bilan tugasa oddiy -s qo'shiladi: monkey - monkeys.",
+  "forms": [
+   "book - books",
+   "box - boxes, watch - watches",
+   "baby - babies",
+   "monkey - monkeys"
+  ],
+  "examples": [
+   {
+    "en": "I have two books.",
+    "uz": "Mening ikkita kitobim bor."
+   },
+   {
+    "en": "There are three boxes on the table.",
+    "uz": "Stol ustida uchta quti bor."
+   },
+   {
+    "en": "The babies are sleeping.",
+    "uz": "Chaqaloqlar uxlayapti."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "two boxs",
+    "right": "two boxes",
+    "note_uz": "-x bilan tugagan otga -es qo'shiladi."
+   },
+   {
+    "wrong": "three babys",
+    "right": "three babies",
+    "note_uz": "Undosh + y: y o'rniga -ies yoziladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I have two ___.",
+    "correct_word": "books",
+    "options": [
+     "book",
+     "books",
+     "bookes",
+     "bookies"
+    ]
+   },
+   {
+    "sentence_with_blank": "There are three ___ on the table.",
+    "correct_word": "boxes",
+    "options": [
+     "boxs",
+     "boxes",
+     "boxies",
+     "box"
+    ]
+   },
+   {
+    "sentence_with_blank": "Two ___ are sleeping.",
+    "correct_word": "babies",
+    "options": [
+     "babys",
+     "babies",
+     "babyes",
+     "babis"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has three ___ in her bag.",
+    "correct_word": "watches",
+    "options": [
+     "watchs",
+     "watches",
+     "watch",
+     "watchies"
+    ]
+   },
+   {
+    "sentence_with_blank": "There are many ___ in the zoo.",
+    "correct_word": "monkeys",
+    "options": [
+     "monkies",
+     "monkeys",
+     "monkeyes",
+     "monkeis"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dilya eats two ___ for lunch.",
+    "correct_word": "sandwiches",
+    "options": [
+     "sandwichs",
+     "sandwiches",
+     "sandwichies",
+     "sandwich"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 6,
+  "title": "irregular plurals (child-children, man-men)",
+  "title_uz": "Qoidasiz ko'plik shakllari",
+  "rule_uz": "Ba'zi otlarning ko'pligi -s bilan yasalmaydi, ularni yodlash kerak. Masalan: child - children, man - men, woman - women, foot - feet, tooth - teeth, mouse - mice. Bu so'zlar bilan -s qo'shmaymiz: childs emas, children! Fish so'zi odatda ham birlikda, ham ko'plikda fish bo'ladi.",
+  "forms": [
+   "child - children",
+   "man - men, woman - women",
+   "foot - feet, tooth - teeth",
+   "mouse - mice, fish - fish"
+  ],
+  "examples": [
+   {
+    "en": "There are ten children in my class.",
+    "uz": "Sinfimizda o'nta bola bor."
+   },
+   {
+    "en": "The cat sees two mice.",
+    "uz": "Mushuk ikkita sichqonni ko'radi."
+   },
+   {
+    "en": "Brush your teeth every day.",
+    "uz": "Har kuni tishingni yuvib tur."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "two childs",
+    "right": "two children",
+    "note_uz": "Child ning ko'pligi children."
+   },
+   {
+    "wrong": "three mans",
+    "right": "three men",
+    "note_uz": "Man ning ko'pligi men."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "There are ten ___ in my class.",
+    "correct_word": "children",
+    "options": [
+     "childs",
+     "childrens",
+     "children",
+     "childes"
+    ]
+   },
+   {
+    "sentence_with_blank": "Two ___ are at the door.",
+    "correct_word": "men",
+    "options": [
+     "mans",
+     "men",
+     "mens",
+     "man"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have two ___.",
+    "correct_word": "feet",
+    "options": [
+     "foots",
+     "feets",
+     "feet",
+     "foot"
+    ]
+   },
+   {
+    "sentence_with_blank": "The cat sees two ___.",
+    "correct_word": "mice",
+    "options": [
+     "mouses",
+     "mice",
+     "mices",
+     "mouse"
+    ]
+   },
+   {
+    "sentence_with_blank": "Those ___ are my aunts.",
+    "correct_word": "women",
+    "options": [
+     "womans",
+     "womens",
+     "women",
+     "woman"
+    ]
+   },
+   {
+    "sentence_with_blank": "Brush your ___ every day.",
+    "correct_word": "teeth",
+    "options": [
+     "tooths",
+     "tooth",
+     "teeths",
+     "teeth"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 7,
+  "title": "this / that / these / those",
+  "title_uz": "This, that, these, those",
+  "rule_uz": "Ishora qilganda this, that, these, those ishlatamiz. This (bu) - yaqindagi bitta narsa, these (bular) - yaqindagi bir nechta narsa. That (u) - uzoqdagi bitta narsa, those (ular) - uzoqdagi bir nechta narsa. Bitta narsa bo'lsa is, ko'p bo'lsa are keladi: This is a pen. These are pens.",
+  "forms": [
+   "This / that + is + bitta narsa",
+   "These / those + are + ko'p narsa",
+   "this, these = yaqin",
+   "that, those = uzoq"
+  ],
+  "examples": [
+   {
+    "en": "This is my pencil.",
+    "uz": "Bu mening qalamim."
+   },
+   {
+    "en": "Those boys are my friends.",
+    "uz": "Anavi bolalar mening do'stlarim."
+   },
+   {
+    "en": "These apples are sweet.",
+    "uz": "Bu olmalar shirin."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "These is my book.",
+    "right": "This is my book.",
+    "note_uz": "Bitta narsa uchun this ishlatiladi."
+   },
+   {
+    "wrong": "Those book is old.",
+    "right": "That book is old.",
+    "note_uz": "Book bitta, shuning uchun that."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "(In my hand) ___ is my pen.",
+    "correct_word": "This",
+    "options": [
+     "This",
+     "That",
+     "These",
+     "Those"
+    ]
+   },
+   {
+    "sentence_with_blank": "(Near you) ___ are my shoes.",
+    "correct_word": "These",
+    "options": [
+     "This",
+     "That",
+     "These",
+     "Those"
+    ]
+   },
+   {
+    "sentence_with_blank": "(Across the room) ___ is my teacher.",
+    "correct_word": "That",
+    "options": [
+     "This",
+     "That",
+     "These",
+     "Those"
+    ]
+   },
+   {
+    "sentence_with_blank": "(Far away) ___ are big mountains.",
+    "correct_word": "Those",
+    "options": [
+     "This",
+     "That",
+     "These",
+     "Those"
+    ]
+   },
+   {
+    "sentence_with_blank": "(Near me) ___ apples are red.",
+    "correct_word": "These",
+    "options": [
+     "These",
+     "This",
+     "That",
+     "Those"
+    ]
+   },
+   {
+    "sentence_with_blank": "(Over there) Look at ___ birds in the tree!",
+    "correct_word": "those",
+    "options": [
+     "this",
+     "that",
+     "these",
+     "those"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 8,
+  "title": "subject pronouns and possessive adjectives (my, your, his, her, our, their)",
+  "title_uz": "Olmoshlar va egalik sifatlari",
+  "rule_uz": "Gapda kim ish qilayotganini I, you, he, she, it, we, they aytadi. Narsa kimniki ekanini my, your, his, her, our, their bildiradi. Ular otdan oldin keladi: my bag, her book, their house. I - my, you - your, he - his, she - her, we - our, they - their. It ning egalik shakli its.",
+  "forms": [
+   "I - my, you - your",
+   "he - his, she - her, it - its",
+   "we - our, they - their",
+   "egalik sifati + ot: my bag"
+  ],
+  "examples": [
+   {
+    "en": "She is my sister. Her name is Nodira.",
+    "uz": "U mening opam. Uning ismi Nodira."
+   },
+   {
+    "en": "We love our school.",
+    "uz": "Biz maktabimizni yaxshi ko'ramiz."
+   },
+   {
+    "en": "They have a dog. Their dog is big.",
+    "uz": "Ularning iti bor. Ularning iti katta."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She is Dilya. His bag is blue.",
+    "right": "She is Dilya. Her bag is blue.",
+    "note_uz": "Qiz bola uchun her ishlatiladi."
+   },
+   {
+    "wrong": "I like I school.",
+    "right": "I like my school.",
+    "note_uz": "Ot oldidan I emas, my keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Ali is my friend. ___ is ten.",
+    "correct_word": "He",
+    "options": [
+     "She",
+     "He",
+     "It",
+     "They"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is Dilya. ___ bag is blue.",
+    "correct_word": "Her",
+    "options": [
+     "His",
+     "Her",
+     "Their",
+     "She"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like ___ school.",
+    "correct_word": "my",
+    "options": [
+     "I",
+     "me",
+     "my",
+     "your"
+    ]
+   },
+   {
+    "sentence_with_blank": "My parents are teachers. ___ are kind.",
+    "correct_word": "They",
+    "options": [
+     "He",
+     "She",
+     "It",
+     "They"
+    ]
+   },
+   {
+    "sentence_with_blank": "We love ___ dog. It is very small.",
+    "correct_word": "our",
+    "options": [
+     "we",
+     "us",
+     "our",
+     "their"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom and Sara have a cat. ___ cat is black.",
+    "correct_word": "Their",
+    "options": [
+     "Them",
+     "They",
+     "Their",
+     "His"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 9,
+  "title": "possessive 's (Ali's book)",
+  "title_uz": "Egalik 's (Ali's book)",
+  "rule_uz": "Narsa kimgadir tegishli ekanini aytish uchun otga 's qo'shamiz: Ali's book - Alining kitobi. Egasi birinchi, narsa keyin turadi. The cat's ball - mushukning to'pi. Children, men kabi qoidasiz ko'plikdagi otlarga ham 's qo'shiladi: the children's toys. Savolga javobda ham ishlatsa bo'ladi: Whose bike is it? It's Ali's.",
+  "forms": [
+   "Ali's book",
+   "my sister's room",
+   "the cat's ball",
+   "the children's toys"
+  ],
+  "examples": [
+   {
+    "en": "This is Ali's bag.",
+    "uz": "Bu Alining sumkasi."
+   },
+   {
+    "en": "My mother's car is white.",
+    "uz": "Onamning mashinasi oq."
+   },
+   {
+    "en": "The children's toys are in the box.",
+    "uz": "Bolalarning o'yinchoqlari qutida."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "This is the book of Ali.",
+    "right": "This is Ali's book.",
+    "note_uz": "Ingliz tilida odatda 's ishlatiladi."
+   },
+   {
+    "wrong": "Alis book is red.",
+    "right": "Ali's book is red.",
+    "note_uz": "Apostrof (') ni unutmang."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "This is ___ book.",
+    "correct_word": "Ali's",
+    "options": [
+     "Alis",
+     "Ali's",
+     "Ali is",
+     "Alis'"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ ball is red.",
+    "correct_word": "cat's",
+    "options": [
+     "cats",
+     "cat's",
+     "cat",
+     "cat is"
+    ]
+   },
+   {
+    "sentence_with_blank": "My ___ room is big.",
+    "correct_word": "sister's",
+    "options": [
+     "sister",
+     "sisters",
+     "sister's",
+     "sister is"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ toys are in the box.",
+    "correct_word": "children's",
+    "options": [
+     "childrens'",
+     "children's",
+     "childs'",
+     "childrens"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are at my ___ house.",
+    "correct_word": "grandmother's",
+    "options": [
+     "grandmother's",
+     "grandmothers",
+     "grandmother",
+     "grandmother is"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Whose bike is it?\" \"It is ___.\"",
+    "correct_word": "Ali's",
+    "options": [
+     "Ali",
+     "Alis",
+     "Ali's",
+     "Ali is"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 10,
+  "title": "there is / there are (+ negatives, questions)",
+  "title_uz": "There is / there are",
+  "rule_uz": "Biror joyda nima borligini aytish uchun there is va there are ishlatamiz. Bitta narsa bo'lsa there is, bir nechta bo'lsa there are deymiz. Inkor: there isn't, there aren't. Savol: Is there...? Are there...? Javob: Yes, there is. / No, there aren't. Ko'plikda any so'zi ko'p ishlatiladi.",
+  "forms": [
+   "There is + a/an + bitta narsa",
+   "There are + ko'p narsa",
+   "There isn't / there aren't",
+   "Is there...? Are there...?"
+  ],
+  "examples": [
+   {
+    "en": "There is a book on the desk.",
+    "uz": "Stol ustida bitta kitob bor."
+   },
+   {
+    "en": "There are three cats in the garden.",
+    "uz": "Bog'da uchta mushuk bor."
+   },
+   {
+    "en": "Is there a park near your house?",
+    "uz": "Uyingiz yaqinida bog' bormi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "There is two books.",
+    "right": "There are two books.",
+    "note_uz": "Ikkita narsa uchun there are ishlatiladi."
+   },
+   {
+    "wrong": "There are a cat.",
+    "right": "There is a cat.",
+    "note_uz": "Bitta narsa uchun there is ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "There ___ a book on the desk.",
+    "correct_word": "is",
+    "options": [
+     "are",
+     "am",
+     "is",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "There ___ three cats in the garden.",
+    "correct_word": "are",
+    "options": [
+     "is",
+     "are",
+     "am",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "There ___ a park near my house.",
+    "correct_word": "is",
+    "options": [
+     "are",
+     "am",
+     "is",
+     "be"
+    ]
+   },
+   {
+    "sentence_with_blank": "There ___ a cat under the table, only a dog.",
+    "correct_word": "isn't",
+    "options": [
+     "aren't",
+     "isn't",
+     "not",
+     "no"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ there a swimming pool in your school?",
+    "correct_word": "Is",
+    "options": [
+     "Are",
+     "Is",
+     "Do",
+     "Has"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Are there any pens in your bag?\" \"Yes, there ___.\"",
+    "correct_word": "are",
+    "options": [
+     "is",
+     "are",
+     "have",
+     "do"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 11,
+  "title": "have got / has got",
+  "title_uz": "Have got / has got",
+  "rule_uz": "Bizda biror narsa borligini aytish uchun have got yoki has got ishlatamiz. I, you, we, they bilan have got, he, she, it bilan has got. Inkor: haven't got, hasn't got. Savol uchun Have / Has ni gap boshiga qo'yamiz: Have you got a pen? Has he got a bike? Qisqa shakllari: I've got, she's got.",
+  "forms": [
+   "I / you / we / they + have got",
+   "He / she / it + has got",
+   "haven't got / hasn't got",
+   "Have you got...? Has she got...?"
+  ],
+  "examples": [
+   {
+    "en": "I have got a new bike.",
+    "uz": "Mening yangi velosipedim bor."
+   },
+   {
+    "en": "She has got two brothers.",
+    "uz": "Uning ikkita akasi/ukasi bor."
+   },
+   {
+    "en": "Have you got a pencil?",
+    "uz": "Qalaming bormi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He have got a dog.",
+    "right": "He has got a dog.",
+    "note_uz": "He bilan has got ishlatiladi."
+   },
+   {
+    "wrong": "Do you got a pen?",
+    "right": "Have you got a pen?",
+    "note_uz": "Have got bilan do ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ got a new bike.",
+    "correct_word": "have",
+    "options": [
+     "has",
+     "have",
+     "am",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ got a red bag.",
+    "correct_word": "has",
+    "options": [
+     "have",
+     "has",
+     "is",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ got two dogs.",
+    "correct_word": "have",
+    "options": [
+     "has",
+     "have",
+     "are",
+     "does"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother ___ got a computer.",
+    "correct_word": "has",
+    "options": [
+     "have",
+     "is",
+     "haves",
+     "has"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom ___ got any brothers.",
+    "correct_word": "hasn't",
+    "options": [
+     "haven't",
+     "hasn't",
+     "doesn't",
+     "don't"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ you got a pen?",
+    "correct_word": "Have",
+    "options": [
+     "Has",
+     "Have",
+     "Do",
+     "Are"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 12,
+  "title": "can / can't (ability)",
+  "title_uz": "Can / can't: qila olish",
+  "rule_uz": "Can biror ishni qila olishimizni bildiradi. Can't (cannot) esa qila olmaslikni bildiradi. Can dan keyin fe'l o'zgarmaydi, -s ham qo'shilmaydi: She can swim. Savol uchun can ni gap boshiga olamiz: Can you ride a bike? Javob: Yes, I can. / No, I can't.",
+  "forms": [
+   "I / you / he / we / they + can + fe'l",
+   "She can't + fe'l",
+   "Can you + fe'l?",
+   "Yes, I can. / No, I can't."
+  ],
+  "examples": [
+   {
+    "en": "Birds can fly.",
+    "uz": "Qushlar ucha oladi."
+   },
+   {
+    "en": "My little brother can't read yet.",
+    "uz": "Ukam hali o'qiy olmaydi."
+   },
+   {
+    "en": "Can you swim?",
+    "uz": "Suzishni bilasanmi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She cans play the piano.",
+    "right": "She can play the piano.",
+    "note_uz": "Can ga hech qachon -s qo'shilmaydi."
+   },
+   {
+    "wrong": "He can to swim.",
+    "right": "He can swim.",
+    "note_uz": "Can dan keyin to kerak emas."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Fish ___ swim.",
+    "correct_word": "can",
+    "options": [
+     "cans",
+     "can",
+     "are",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ play the piano.",
+    "correct_word": "can",
+    "options": [
+     "cans",
+     "can",
+     "can to",
+     "is can"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Can you ride a bike?\" \"Yes, I ___.\"",
+    "correct_word": "can",
+    "options": [
+     "do",
+     "am",
+     "can",
+     "can't"
+    ]
+   },
+   {
+    "sentence_with_blank": "My little brother is two. He ___ read yet.",
+    "correct_word": "can't",
+    "options": [
+     "can",
+     "can't",
+     "cans",
+     "don't can"
+    ]
+   },
+   {
+    "sentence_with_blank": "She can ___ very fast.",
+    "correct_word": "run",
+    "options": [
+     "runs",
+     "running",
+     "to run",
+     "run"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Can he swim?\" \"No, he ___.\"",
+    "correct_word": "can't",
+    "options": [
+     "don't",
+     "isn't",
+     "can't",
+     "can"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 13,
+  "title": "imperatives (Sit down! Don't run!)",
+  "title_uz": "Buyruq gaplar",
+  "rule_uz": "Buyruq gap bilan biror ishni qilishni aytamiz yoki so'raymiz. Buning uchun fe'lning oddiy shaklini gap boshiga qo'yamiz: Sit down! Open your book! Xushmuomala bo'lish uchun please deymiz. \"Qilmang\" deyish uchun fe'ldan oldin Don't qo'yamiz: Don't run! \"Bo'l\" deyish uchun Be ishlatamiz: Be quiet!",
+  "forms": [
+   "Fe'l + ...: Sit down!",
+   "Please + fe'l: Please open the door.",
+   "Don't + fe'l: Don't run!",
+   "Be + sifat: Be quiet!"
+  ],
+  "examples": [
+   {
+    "en": "Open your books, please.",
+    "uz": "Kitoblaringizni oching, iltimos."
+   },
+   {
+    "en": "Don't touch the hot water!",
+    "uz": "Issiq suvga tegmang!"
+   },
+   {
+    "en": "Be careful on the stairs.",
+    "uz": "Zinapoyada ehtiyot bo'ling."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Don't to run!",
+    "right": "Don't run!",
+    "note_uz": "Don't dan keyin to ishlatilmaydi."
+   },
+   {
+    "wrong": "You sit down!",
+    "right": "Sit down!",
+    "note_uz": "Buyruq gapda you aytilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "___ down, please.",
+    "correct_word": "Sit",
+    "options": [
+     "Sits",
+     "Sit",
+     "Sitting",
+     "To sit"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ your hands before lunch.",
+    "correct_word": "Wash",
+    "options": [
+     "Washes",
+     "Washing",
+     "Wash",
+     "To wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ touch the hot water!",
+    "correct_word": "Don't",
+    "options": [
+     "Not",
+     "Don't",
+     "No",
+     "Doesn't"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the door. It is cold.",
+    "correct_word": "close",
+    "options": [
+     "closes",
+     "closing",
+     "to close",
+     "close"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ late for school!",
+    "correct_word": "Don't be",
+    "options": [
+     "Don't be",
+     "Not be",
+     "Don't are",
+     "Be don't"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ quiet, please! The baby is sleeping.",
+    "correct_word": "Be",
+    "options": [
+     "Is",
+     "Are",
+     "Be",
+     "Being"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 14,
+  "title": "present simple: I / you / we / they",
+  "title_uz": "Hozirgi oddiy zamon: I, you, we, they",
+  "rule_uz": "Har kuni yoki tez-tez qiladigan ishlarimiz haqida gapirganda Present Simple ishlatamiz. I, you, we, they bilan fe'lning oddiy shaklini aytamiz, hech narsa qo'shmaymiz: I play, they eat. Bu zamon bilan every day, on Sundays, in the morning kabi so'zlar ko'p ishlatiladi.",
+  "forms": [
+   "I / you + fe'l: I play",
+   "We / they + fe'l: they eat",
+   "every day, on Sundays, in the morning"
+  ],
+  "examples": [
+   {
+    "en": "I drink milk every morning.",
+    "uz": "Men har kuni ertalab sut ichaman."
+   },
+   {
+    "en": "We go to school by bus.",
+    "uz": "Biz maktabga avtobusda boramiz."
+   },
+   {
+    "en": "They play football on Sundays.",
+    "uz": "Ular yakshanba kunlari futbol o'ynaydi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I am play football.",
+    "right": "I play football.",
+    "note_uz": "Oddiy odat uchun am ishlatilmaydi."
+   },
+   {
+    "wrong": "They plays tennis.",
+    "right": "They play tennis.",
+    "note_uz": "They bilan -s qo'shilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ milk every morning.",
+    "correct_word": "drink",
+    "options": [
+     "drinks",
+     "drink",
+     "drinking",
+     "am drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ to school by bus.",
+    "correct_word": "go",
+    "options": [
+     "goes",
+     "go",
+     "going",
+     "are go"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ football on Sundays.",
+    "correct_word": "play",
+    "options": [
+     "plays",
+     "play",
+     "playing",
+     "is play"
+    ]
+   },
+   {
+    "sentence_with_blank": "You ___ English very well.",
+    "correct_word": "speak",
+    "options": [
+     "speaks",
+     "speak",
+     "speaking",
+     "are speak"
+    ]
+   },
+   {
+    "sentence_with_blank": "My friends and I ___ pizza on Fridays.",
+    "correct_word": "eat",
+    "options": [
+     "eats",
+     "eat",
+     "eating",
+     "is eat"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children ___ to music after school.",
+    "correct_word": "listen",
+    "options": [
+     "listens",
+     "listen",
+     "listening",
+     "are listen"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 15,
+  "title": "present simple: he / she / it (-s, -es)",
+  "title_uz": "Hozirgi oddiy zamon: he, she, it",
+  "rule_uz": "He, she, it bilan Present Simple da fe'lga -s qo'shamiz: she reads, he plays. Fe'l -s, -sh, -ch, -x, -o bilan tugasa -es qo'shamiz: watch - watches, go - goes. Undosh + y bilan tugasa y o'rniga -ies yozamiz: study - studies. Have fe'li alohida: he has.",
+  "forms": [
+   "He / she / it + fe'l + s: he plays",
+   "watch - watches, go - goes",
+   "study - studies",
+   "have - has"
+  ],
+  "examples": [
+   {
+    "en": "My dad drinks coffee in the morning.",
+    "uz": "Dadam ertalab qahva ichadi."
+   },
+   {
+    "en": "The dog has a long tail.",
+    "uz": "Itning uzun dumi bor."
+   },
+   {
+    "en": "Sara studies English at school.",
+    "uz": "Sara maktabda ingliz tilini o'rganadi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She go to school.",
+    "right": "She goes to school.",
+    "note_uz": "She bilan fe'lga -es qo'shiladi."
+   },
+   {
+    "wrong": "He haves a bike.",
+    "right": "He has a bike.",
+    "note_uz": "Have fe'lining he/she/it shakli has."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "My dad ___ coffee in the morning.",
+    "correct_word": "drinks",
+    "options": [
+     "drink",
+     "drinks",
+     "drinking",
+     "drinkes"
+    ]
+   },
+   {
+    "sentence_with_blank": "The dog ___ a long tail.",
+    "correct_word": "has",
+    "options": [
+     "have",
+     "has",
+     "haves",
+     "having"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bird ___ in the tree.",
+    "correct_word": "sings",
+    "options": [
+     "sing",
+     "sings",
+     "singing",
+     "singes"
+    ]
+   },
+   {
+    "sentence_with_blank": "My mother ___ TV in the evening.",
+    "correct_word": "watches",
+    "options": [
+     "watchs",
+     "watches",
+     "watch",
+     "watchies"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ to school by bike.",
+    "correct_word": "goes",
+    "options": [
+     "gos",
+     "go",
+     "goes",
+     "going"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sara ___ English at school.",
+    "correct_word": "studies",
+    "options": [
+     "studys",
+     "studies",
+     "study",
+     "studyes"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 16,
+  "title": "present simple negative (don't / doesn't)",
+  "title_uz": "Hozirgi oddiy zamon: inkor",
+  "rule_uz": "Biror ishni qilmasak, don't yoki doesn't ishlatamiz. I, you, we, they bilan don't yoziladi. He, she, it bilan doesn't yoziladi. Don't va doesn't dan keyin fe'l oddiy holida keladi, -s qo'shilmaydi: She doesn't like fish.",
+  "forms": [
+   "I / you / we / they + don't + play",
+   "He / she / it + doesn't + play",
+   "He doesn't plays (NOTO'G'RI)"
+  ],
+  "examples": [
+   {
+    "en": "I don't like carrots.",
+    "uz": "Men sabzini yoqtirmayman."
+   },
+   {
+    "en": "My cat doesn't drink milk.",
+    "uz": "Mushugim sut ichmaydi."
+   },
+   {
+    "en": "We don't have school on Sunday.",
+    "uz": "Yakshanba kuni bizda dars yo'q."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She doesn't likes pizza.",
+    "right": "She doesn't like pizza.",
+    "note_uz": "Doesn't dan keyin fe'lga -s qo'shilmaydi."
+   },
+   {
+    "wrong": "He don't play chess.",
+    "right": "He doesn't play chess.",
+    "note_uz": "He bilan doesn't ishlatamiz."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ like fish.",
+    "correct_word": "don't",
+    "options": [
+     "don't",
+     "doesn't",
+     "isn't",
+     "not"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ play football on Monday.",
+    "correct_word": "don't",
+    "options": [
+     "don't",
+     "doesn't",
+     "aren't",
+     "not"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ like milk.",
+    "correct_word": "doesn't",
+    "options": [
+     "doesn't",
+     "don't",
+     "isn't",
+     "not"
+    ]
+   },
+   {
+    "sentence_with_blank": "My dad ___ drive to work.",
+    "correct_word": "doesn't",
+    "options": [
+     "doesn't",
+     "don't",
+     "isn't",
+     "not"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom doesn't ___ TV in the morning.",
+    "correct_word": "watch",
+    "options": [
+     "watch",
+     "watches",
+     "watching",
+     "watched"
+    ]
+   },
+   {
+    "sentence_with_blank": "The dog doesn't ___ in the house.",
+    "correct_word": "sleep",
+    "options": [
+     "sleep",
+     "sleeps",
+     "sleeping",
+     "slept"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 17,
+  "title": "present simple questions (Do / Does) and short answers",
+  "title_uz": "Hozirgi oddiy zamon: savol",
+  "rule_uz": "Savol berish uchun gapning boshiga Do yoki Does qo'yamiz. I, you, we, they bilan Do ishlatamiz. He, she, it bilan Does ishlatamiz. Does dan keyin fe'lga -s qo'shilmaydi: Does she play tennis? Qisqa javob: Yes, I do. / No, she doesn't.",
+  "forms": [
+   "Do + I / you / we / they + play?",
+   "Does + he / she / it + play?",
+   "Yes, I do. / No, I don't.",
+   "Yes, she does. / No, she doesn't."
+  ],
+  "examples": [
+   {
+    "en": "Do you like chocolate?",
+    "uz": "Sen shokoladni yoqtirasanmi?"
+   },
+   {
+    "en": "Does your brother play the guitar?",
+    "uz": "Akang gitara chalarmikan?"
+   },
+   {
+    "en": "Do they walk to school? No, they don't.",
+    "uz": "Ular maktabga piyoda boradimi? Yo'q, bormaydi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Does she plays tennis?",
+    "right": "Does she play tennis?",
+    "note_uz": "Does dan keyin fe'l oddiy holida turadi."
+   },
+   {
+    "wrong": "Do he like cats?",
+    "right": "Does he like cats?",
+    "note_uz": "He, she, it bilan Does kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "___ you like pizza?",
+    "correct_word": "Do",
+    "options": [
+     "Do",
+     "Does",
+     "Are",
+     "Is"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ your sister play tennis?",
+    "correct_word": "Does",
+    "options": [
+     "Does",
+     "Do",
+     "Is",
+     "Are"
+    ]
+   },
+   {
+    "sentence_with_blank": "Do they ___ English at school?",
+    "correct_word": "speak",
+    "options": [
+     "speak",
+     "speaks",
+     "speaking",
+     "to speak"
+    ]
+   },
+   {
+    "sentence_with_blank": "Does Ali ___ a bike?",
+    "correct_word": "have",
+    "options": [
+     "have",
+     "has",
+     "having",
+     "haves"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Do you walk to school?\" \"Yes, I ___.\"",
+    "correct_word": "do",
+    "options": [
+     "do",
+     "does",
+     "am",
+     "walk"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Does she like cats?\" \"No, she ___.\"",
+    "correct_word": "doesn't",
+    "options": [
+     "doesn't",
+     "don't",
+     "isn't",
+     "not"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 18,
+  "title": "question words: what, where, who, when, how, why",
+  "title_uz": "So'roq so'zlar",
+  "rule_uz": "So'roq so'zlar bilan ko'proq ma'lumot so'raymiz. What - nima, where - qayerda, who - kim, when - qachon, how - qanday, why - nima uchun. So'roq so'z gapning boshida turadi: Where do you live? Why ga because bilan javob beramiz.",
+  "forms": [
+   "What + is / do ...? (nima)",
+   "Where / When / Who + ...? (qayerda / qachon / kim)",
+   "How + ...? (qanday)",
+   "Why + ...? - Because ..."
+  ],
+  "examples": [
+   {
+    "en": "What is your favourite colour?",
+    "uz": "Sevimli rangin qaysi?"
+   },
+   {
+    "en": "Where do you play football?",
+    "uz": "Futbolni qayerda o'ynaysan?"
+   },
+   {
+    "en": "Why are you happy? Because it is my birthday.",
+    "uz": "Nega xursandsan? Chunki bugun tug'ilgan kunim."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Where you live?",
+    "right": "Where do you live?",
+    "note_uz": "So'roq so'zdan keyin do / does yoki is / are kerak."
+   },
+   {
+    "wrong": "What is that boy? (kim?)",
+    "right": "Who is that boy?",
+    "note_uz": "Odam haqida so'rasak, who ishlatamiz."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "___ is your name?",
+    "correct_word": "What",
+    "options": [
+     "What",
+     "Where",
+     "Who",
+     "When"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ do you live? In Tashkent.",
+    "correct_word": "Where",
+    "options": [
+     "Where",
+     "Who",
+     "When",
+     "Why"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ is that boy? He is my brother.",
+    "correct_word": "Who",
+    "options": [
+     "Who",
+     "Where",
+     "When",
+     "Why"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ is your birthday? It is in May.",
+    "correct_word": "When",
+    "options": [
+     "When",
+     "Where",
+     "Who",
+     "Why"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ old are you?",
+    "correct_word": "How",
+    "options": [
+     "How",
+     "What",
+     "Where",
+     "Who"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"___ are you crying?\" \"Because I am sad.\"",
+    "correct_word": "Why",
+    "options": [
+     "Why",
+     "When",
+     "Who",
+     "Where"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 19,
+  "title": "adverbs of frequency (always, usually, sometimes, never)",
+  "title_uz": "Takrorlanish ravishlari",
+  "rule_uz": "Biror ish qanchalik tez-tez bo'lishini aytish uchun always, usually, often, sometimes, never ishlatamiz. Always - doim, never - hech qachon. Ular odatda asosiy fe'ldan oldin turadi: I always eat breakfast. Am, is, are dan keyin keladi: She is never late.",
+  "forms": [
+   "always (100%) > usually > often > sometimes > never (0%)",
+   "I / you / we / they + always + play",
+   "He / she / it + sometimes + plays",
+   "I am / He is + never + late"
+  ],
+  "examples": [
+   {
+    "en": "I always brush my teeth before bed.",
+    "uz": "Men uxlashdan oldin doim tish yuvaman."
+   },
+   {
+    "en": "My brother sometimes plays computer games.",
+    "uz": "Akam ba'zan kompyuter o'yinlarini o'ynaydi."
+   },
+   {
+    "en": "We never eat in the classroom.",
+    "uz": "Biz sinfda hech qachon ovqat yemaymiz."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I play always football.",
+    "right": "I always play football.",
+    "note_uz": "Always fe'ldan oldin turadi."
+   },
+   {
+    "wrong": "She never is late.",
+    "right": "She is never late.",
+    "note_uz": "Is / am / are dan keyin never qo'yiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "My mum cooks dinner every day. She ___ cooks dinner.",
+    "correct_word": "always",
+    "options": [
+     "always",
+     "never",
+     "sometimes",
+     "seldom"
+    ]
+   },
+   {
+    "sentence_with_blank": "Fish can't fly. Fish ___ fly.",
+    "correct_word": "never",
+    "options": [
+     "never",
+     "always",
+     "usually",
+     "often"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ eat ice cream, but not every day.",
+    "correct_word": "sometimes",
+    "options": [
+     "sometimes",
+     "always",
+     "never",
+     "every"
+    ]
+   },
+   {
+    "sentence_with_blank": "Ali ___ brushes his teeth in the morning. He does it every day.",
+    "correct_word": "always",
+    "options": [
+     "always",
+     "never",
+     "sometimes",
+     "seldom"
+    ]
+   },
+   {
+    "sentence_with_blank": "Anna ___ late for school. She always comes on time.",
+    "correct_word": "is never",
+    "options": [
+     "is never",
+     "never is",
+     "does never",
+     "never are"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ play chess on Fridays. It is their hobby.",
+    "correct_word": "often",
+    "options": [
+     "often",
+     "never",
+     "is often",
+     "does often"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 20,
+  "title": "prepositions of place (in, on, under, next to, behind, between)",
+  "title_uz": "Joy predloglari",
+  "rule_uz": "Narsa qayerda turganini aytish uchun joy predloglarini ishlatamiz. In - ichida, on - ustida, under - tagida, next to - yonida, behind - orqasida, between - ikkisining o'rtasida. Bular is / are dan keyin keladi: The cat is under the table.",
+  "forms": [
+   "in = ichida; on = ustida; under = tagida",
+   "next to = yonida",
+   "behind = orqasida",
+   "between A and B = A va B o'rtasida"
+  ],
+  "examples": [
+   {
+    "en": "The pencil is in my bag.",
+    "uz": "Qalam sumkamning ichida."
+   },
+   {
+    "en": "The cat is under the chair.",
+    "uz": "Mushuk stulning tagida."
+   },
+   {
+    "en": "The school is between the park and the shop.",
+    "uz": "Maktab park bilan do'konning o'rtasida."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "The book is in the desk. (partaning ustida)",
+    "right": "The book is on the desk.",
+    "note_uz": "Narsa sirtda tursa on, ichida bo'lsa in."
+   },
+   {
+    "wrong": "Ali sits next Dilya.",
+    "right": "Ali sits next to Dilya.",
+    "note_uz": "Next dan keyin to kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "The book is ___ the desk. I can see it on top.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "under",
+     "behind"
+    ]
+   },
+   {
+    "sentence_with_blank": "The fish are ___ the water.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "between",
+     "behind"
+    ]
+   },
+   {
+    "sentence_with_blank": "My bag is ___ my chair, on the floor below it.",
+    "correct_word": "under",
+    "options": [
+     "under",
+     "on",
+     "between",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our house is ___ the shop and the school.",
+    "correct_word": "between",
+    "options": [
+     "between",
+     "behind",
+     "on",
+     "under"
+    ]
+   },
+   {
+    "sentence_with_blank": "Ali sits ___ Dilya. They are neighbours.",
+    "correct_word": "next to",
+    "options": [
+     "next to",
+     "next",
+     "in to",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bus stop is ___ the school, at the back of it.",
+    "correct_word": "behind",
+    "options": [
+     "behind",
+     "between",
+     "on",
+     "in"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 21,
+  "title": "prepositions of time (at, on, in)",
+  "title_uz": "Vaqt predloglari",
+  "rule_uz": "Vaqt haqida gapirganda at, on, in ishlatamiz. At - aniq soat va tun bilan: at 7 o'clock, at night. On - hafta kunlari va sanalar bilan: on Monday, on 5th May. In - oylar, fasllar, yillar va kun qismlari bilan: in July, in winter, in the morning.",
+  "forms": [
+   "at + soat: at 8 o'clock, at night",
+   "on + kun: on Monday, on my birthday",
+   "in + oy / fasl / yil: in May, in summer, in 2024",
+   "in the morning / afternoon / evening"
+  ],
+  "examples": [
+   {
+    "en": "School starts at eight o'clock.",
+    "uz": "Dars soat sakkizda boshlanadi."
+   },
+   {
+    "en": "We have English on Tuesday.",
+    "uz": "Bizda seshanba kuni ingliz tili bor."
+   },
+   {
+    "en": "It is very cold in January.",
+    "uz": "Yanvarda juda sovuq bo'ladi."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I get up in 7 o'clock.",
+    "right": "I get up at 7 o'clock.",
+    "note_uz": "Aniq soat bilan at ishlatiladi."
+   },
+   {
+    "wrong": "My birthday is on May.",
+    "right": "My birthday is in May.",
+    "note_uz": "Oy nomi bilan in ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "School starts ___ eight o'clock.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "on",
+     "in",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a swimming class ___ Tuesday.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "at",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "My birthday is ___ May.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "at",
+     "on",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "We eat breakfast ___ the morning.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "at",
+     "on",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The stars come out ___ night.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "in",
+     "on",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "We have a party ___ Saturday evening.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "at",
+     "in",
+     "to"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 22,
+  "title": "like / love / hate + noun and + -ing",
+  "title_uz": "like / love / hate",
+  "rule_uz": "Nimani yoqtirishimiz yoki yoqtirmasligimizni aytish uchun like, love, hate ishlatamiz. Like - yoqtirmoq, love - juda yaxshi ko'rmoq, hate - yoqtirmaslik. Ulardan keyin ot yoki fe'l+ing keladi: I like pizza. I love swimming. He, she, it bilan -s qo'shiladi: She hates noise.",
+  "forms": [
+   "I / you / we / they + like + noun",
+   "He / she / it + likes + noun",
+   "like / love / hate + verb-ing",
+   "She loves dancing."
+  ],
+  "examples": [
+   {
+    "en": "I love bananas.",
+    "uz": "Men bananni juda yaxshi ko'raman."
+   },
+   {
+    "en": "My brother likes playing chess.",
+    "uz": "Akam shaxmat o'ynashni yoqtiradi."
+   },
+   {
+    "en": "We hate getting up early.",
+    "uz": "Biz erta turishni yoqtirmaymiz."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I like swim.",
+    "right": "I like swimming.",
+    "note_uz": "Like dan keyin fe'lga -ing qo'shamiz."
+   },
+   {
+    "wrong": "She like apples.",
+    "right": "She likes apples.",
+    "note_uz": "She bilan like ga -s qo'shiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Anna ___ apples.",
+    "correct_word": "likes",
+    "options": [
+     "likes",
+     "like",
+     "is like",
+     "liking"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like ___ football.",
+    "correct_word": "playing",
+    "options": [
+     "playing",
+     "play",
+     "plays",
+     "played"
+    ]
+   },
+   {
+    "sentence_with_blank": "He likes ___ pictures.",
+    "correct_word": "drawing",
+    "options": [
+     "drawing",
+     "draw",
+     "draws",
+     "drew"
+    ]
+   },
+   {
+    "sentence_with_blank": "We love ___ in the sea.",
+    "correct_word": "swimming",
+    "options": [
+     "swimming",
+     "swim",
+     "swims",
+     "swam"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom ___ cold milk. He never drinks it.",
+    "correct_word": "hates",
+    "options": [
+     "hates",
+     "hate",
+     "is hate",
+     "hating"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister hates ___ up early.",
+    "correct_word": "getting",
+    "options": [
+     "getting",
+     "gets",
+     "got",
+     "get"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 23,
+  "title": "object pronouns (me, you, him, her, it, us, them)",
+  "title_uz": "To'ldiruvchi olmoshlar",
+  "rule_uz": "Fe'ldan yoki predlogdan keyin me, you, him, her, it, us, them ishlatamiz. I o'rniga me, he o'rniga him, she o'rniga her, we o'rniga us, they o'rniga them. Masalan: Help me! I like her. Look at them.",
+  "forms": [
+   "I - me, you - you",
+   "he - him, she - her, it - it",
+   "we - us, they - them",
+   "verb / preposition + object pronoun"
+  ],
+  "examples": [
+   {
+    "en": "My teacher helps me with English.",
+    "uz": "O'qituvchim menga ingliz tilida yordam beradi."
+   },
+   {
+    "en": "I know him. He is in my class.",
+    "uz": "Men uni bilaman. U mening sinfimda o'qiydi."
+   },
+   {
+    "en": "Look at them! They are dancing.",
+    "uz": "Ularga qara! Ular raqsga tushyapti."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Give he the ball.",
+    "right": "Give him the ball.",
+    "note_uz": "Fe'ldan keyin he emas, him ishlatiladi."
+   },
+   {
+    "wrong": "I play with they.",
+    "right": "I play with them.",
+    "note_uz": "Predlogdan keyin them keladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "This is Ali. I know ___.",
+    "correct_word": "him",
+    "options": [
+     "him",
+     "he",
+     "his",
+     "her"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sara is my friend. I play with ___ every day.",
+    "correct_word": "her",
+    "options": [
+     "her",
+     "she",
+     "hers",
+     "him"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look at the dog. Give ___ some water.",
+    "correct_word": "it",
+    "options": [
+     "it",
+     "its",
+     "he",
+     "they"
+    ]
+   },
+   {
+    "sentence_with_blank": "These are my shoes. Do you like ___?",
+    "correct_word": "them",
+    "options": [
+     "them",
+     "they",
+     "their",
+     "it"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a question. Please listen to ___.",
+    "correct_word": "me",
+    "options": [
+     "me",
+     "I",
+     "my",
+     "mine"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum, can you help ___? My sister and I need some help.",
+    "correct_word": "us",
+    "options": [
+     "us",
+     "we",
+     "our",
+     "them"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 24,
+  "title": "some / any",
+  "title_uz": "some / any",
+  "rule_uz": "Some va any - \"bir oz\" yoki \"bir nechta\" degan ma'noni beradi. Darak gaplarda some ishlatamiz: I have some apples. Inkor gaplarda va savollarda any ishlatamiz: I don't have any apples. Do you have any apples? Taklif qilganda some ishlatiladi: Would you like some tea?",
+  "forms": [
+   "+ some: I have some books.",
+   "- not any: I don't have any books.",
+   "? any: Do you have any books?",
+   "Would you like some tea?"
+  ],
+  "examples": [
+   {
+    "en": "There are some oranges on the table.",
+    "uz": "Stol ustida bir nechta apelsin bor."
+   },
+   {
+    "en": "We don't have any bread.",
+    "uz": "Bizda non yo'q."
+   },
+   {
+    "en": "Is there any juice in the fridge?",
+    "uz": "Muzlatkichda sharbat bormi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I don't have some pens.",
+    "right": "I don't have any pens.",
+    "note_uz": "Inkor gapda any ishlatiladi."
+   },
+   {
+    "wrong": "Do you have some brothers?",
+    "right": "Do you have any brothers?",
+    "note_uz": "Oddiy savolda any ishlatiladi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I have ___ apples.",
+    "correct_word": "some",
+    "options": [
+     "some",
+     "any",
+     "a",
+     "an"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is there ___ milk in the fridge?",
+    "correct_word": "any",
+    "options": [
+     "any",
+     "some",
+     "an",
+     "a"
+    ]
+   },
+   {
+    "sentence_with_blank": "We don't have ___ bananas.",
+    "correct_word": "any",
+    "options": [
+     "any",
+     "some",
+     "a",
+     "an"
+    ]
+   },
+   {
+    "sentence_with_blank": "Would you like ___ tea?",
+    "correct_word": "some",
+    "options": [
+     "some",
+     "any",
+     "no",
+     "an"
+    ]
+   },
+   {
+    "sentence_with_blank": "There aren't ___ chairs in the room.",
+    "correct_word": "any",
+    "options": [
+     "any",
+     "some",
+     "a",
+     "an"
+    ]
+   },
+   {
+    "sentence_with_blank": "She didn't buy ___ eggs, but she bought some milk.",
+    "correct_word": "any",
+    "options": [
+     "any",
+     "some",
+     "an",
+     "a"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 25,
+  "title": "countable and uncountable nouns: how much / how many",
+  "title_uz": "Sanaladigan va sanalmaydigan otlar",
+  "rule_uz": "Bir, ikki, uch deb sanaladigan narsalar - sanaladigan otlar: apple, book. Sanab bo'lmaydigan narsalar - sanalmaydigan otlar: water, milk, rice, sugar. Sanaladigan otlar bilan how many ishlatamiz: How many eggs? Sanalmaydigan otlar bilan how much ishlatamiz: How much milk?",
+  "forms": [
+   "How many + sanaladigan ko'plik ot?",
+   "How much + sanalmaydigan ot?",
+   "a / an + apple (sanaladigan)",
+   "some + water, rice, milk (sanalmaydigan)"
+  ],
+  "examples": [
+   {
+    "en": "How many books do you have?",
+    "uz": "Sizda nechta kitob bor?"
+   },
+   {
+    "en": "How much water do you drink?",
+    "uz": "Sen qancha suv ichasan?"
+   },
+   {
+    "en": "We need some rice for lunch.",
+    "uz": "Tushlik uchun biroz guruch kerak."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "How much apples do you want?",
+    "right": "How many apples do you want?",
+    "note_uz": "Apples sanaladi, shuning uchun how many."
+   },
+   {
+    "wrong": "I need a rice.",
+    "right": "I need some rice.",
+    "note_uz": "Rice sanalmaydi, a ishlatilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "How ___ eggs do you want?",
+    "correct_word": "many",
+    "options": [
+     "many",
+     "much",
+     "some",
+     "a"
+    ]
+   },
+   {
+    "sentence_with_blank": "How ___ water is in the bottle?",
+    "correct_word": "much",
+    "options": [
+     "much",
+     "many",
+     "some",
+     "any"
+    ]
+   },
+   {
+    "sentence_with_blank": "How ___ students are in your class?",
+    "correct_word": "many",
+    "options": [
+     "many",
+     "much",
+     "some",
+     "a"
+    ]
+   },
+   {
+    "sentence_with_blank": "How ___ sugar do you need for the cake?",
+    "correct_word": "much",
+    "options": [
+     "much",
+     "many",
+     "some",
+     "an"
+    ]
+   },
+   {
+    "sentence_with_blank": "We need ___ rice for lunch.",
+    "correct_word": "some",
+    "options": [
+     "some",
+     "a",
+     "an",
+     "many"
+    ]
+   },
+   {
+    "sentence_with_blank": "I don't have ___ homework today.",
+    "correct_word": "much",
+    "options": [
+     "much",
+     "many",
+     "a",
+     "an"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 26,
+  "title": "present continuous (I am running)",
+  "title_uz": "Hozirgi davomli zamon",
+  "rule_uz": "Hozir, shu payt davom etayotgan ish haqida gapirganda Present Continuous ishlatamiz. Shakli: am / is / are + fe'l+ing. I bilan am, he / she / it bilan is, we / you / they bilan are ishlatiladi. Look! va Listen! so'zlari ko'pincha shu zamonni bildiradi.",
+  "forms": [
+   "I + am + playing",
+   "He / she / it + is + playing",
+   "We / you / they + are + playing",
+   "run - running, make - making"
+  ],
+  "examples": [
+   {
+    "en": "I am reading a book now.",
+    "uz": "Men hozir kitob o'qiyapman."
+   },
+   {
+    "en": "The children are playing in the park.",
+    "uz": "Bolalar parkda o'ynayapti."
+   },
+   {
+    "en": "Mum is cooking dinner.",
+    "uz": "Onam kechki ovqat tayyorlayapti."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She is watch TV now.",
+    "right": "She is watching TV now.",
+    "note_uz": "Is / am / are dan keyin fe'lga -ing qo'shiladi."
+   },
+   {
+    "wrong": "The boy is runing.",
+    "right": "The boy is running.",
+    "note_uz": "Qisqa fe'lda oxirgi undosh ikkita yoziladi: running."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "Look! The children ___ in the park.",
+    "correct_word": "are playing",
+    "options": [
+     "are playing",
+     "play",
+     "is playing",
+     "plays"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ a book now.",
+    "correct_word": "am reading",
+    "options": [
+     "am reading",
+     "read",
+     "reading",
+     "is reading"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ TV at the moment.",
+    "correct_word": "is watching",
+    "options": [
+     "is watching",
+     "watches",
+     "watching",
+     "are watching"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ lunch right now.",
+    "correct_word": "are eating",
+    "options": [
+     "are eating",
+     "eat",
+     "is eating",
+     "eats"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy is ___ very fast.",
+    "correct_word": "running",
+    "options": [
+     "running",
+     "runing",
+     "runs",
+     "run"
+    ]
+   },
+   {
+    "sentence_with_blank": "Anna is ___ a cake.",
+    "correct_word": "making",
+    "options": [
+     "making",
+     "makeing",
+     "make",
+     "makes"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 27,
+  "title": "present continuous vs present simple",
+  "title_uz": "Davomli va oddiy hozirgi zamon",
+  "rule_uz": "Present Simple odatlar va doimiy ishlar haqida: I go to school every day. Present Continuous esa hozir bo'layotgan ish haqida: I am going to school now. Every day, usually, always so'zlari Present Simple bilan keladi. Now, at the moment, Look!, Listen! so'zlari Present Continuous bilan keladi.",
+  "forms": [
+   "Present Simple: I play (every day)",
+   "Present Continuous: I am playing (now)",
+   "usually, always, every day + Present Simple",
+   "now, at the moment, Look! + Present Continuous"
+  ],
+  "examples": [
+   {
+    "en": "I usually walk to school, but today I am taking the bus.",
+    "uz": "Men odatda maktabga piyoda boraman, lekin bugun avtobusda ketyapman."
+   },
+   {
+    "en": "My dad works in a bank.",
+    "uz": "Dadam bankda ishlaydi."
+   },
+   {
+    "en": "Be quiet! The baby is sleeping.",
+    "uz": "Jim bo'l! Chaqaloq uxlayapti."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Look! It rains.",
+    "right": "Look! It is raining.",
+    "note_uz": "Hozir bo'layotgan ish uchun is raining."
+   },
+   {
+    "wrong": "I am going to school every day.",
+    "right": "I go to school every day.",
+    "note_uz": "Every day odat bildiradi, shuning uchun Present Simple."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I usually ___ to school by bus.",
+    "correct_word": "go",
+    "options": [
+     "go",
+     "am going",
+     "goes",
+     "going"
+    ]
+   },
+   {
+    "sentence_with_blank": "Today I ___ to school by car.",
+    "correct_word": "am going",
+    "options": [
+     "am going",
+     "go",
+     "goes",
+     "going"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look! It ___ now.",
+    "correct_word": "is raining",
+    "options": [
+     "is raining",
+     "rains",
+     "raining",
+     "rain"
+    ]
+   },
+   {
+    "sentence_with_blank": "My father ___ at a bank every day.",
+    "correct_word": "works",
+    "options": [
+     "works",
+     "is working",
+     "work",
+     "working"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be quiet! The baby ___.",
+    "correct_word": "is sleeping",
+    "options": [
+     "is sleeping",
+     "sleeps",
+     "sleep",
+     "sleeping"
+    ]
+   },
+   {
+    "sentence_with_blank": "Ali ___ his teeth now, so he can't answer the phone.",
+    "correct_word": "is brushing",
+    "options": [
+     "is brushing",
+     "brushes",
+     "brush",
+     "brushing"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 28,
+  "title": "adjectives before nouns; very + adjective",
+  "title_uz": "Sifatlar va very",
+  "rule_uz": "Sifat narsaning qanday ekanini aytadi: big, small, red, happy. Ingliz tilida sifat otdan oldin turadi: a red car (qizil mashina). Sifat hech qachon -s qo'shmaydi: two small dogs. Very sifatdan oldin qo'yilsa, ma'no kuchayadi: very big - juda katta.",
+  "forms": [
+   "a / an + sifat + ot: a big dog",
+   "sifat + ko'plik ot: two small dogs",
+   "very + sifat: very hot",
+   "am / is / are + very + sifat"
+  ],
+  "examples": [
+   {
+    "en": "This is a beautiful house.",
+    "uz": "Bu chiroyli uy."
+   },
+   {
+    "en": "My grandma is very kind.",
+    "uz": "Buvim juda mehribon."
+   },
+   {
+    "en": "They have two small dogs.",
+    "uz": "Ularning ikkita kichkina iti bor."
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have a car red.",
+    "right": "I have a red car.",
+    "note_uz": "Sifat otdan oldin keladi."
+   },
+   {
+    "wrong": "She has two smalls dogs.",
+    "right": "She has two small dogs.",
+    "note_uz": "Sifatga -s qo'shilmaydi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "This is a ___ house.",
+    "correct_word": "beautiful",
+    "options": [
+     "beautiful",
+     "beautifuls",
+     "beauty",
+     "beautifully"
+    ]
+   },
+   {
+    "sentence_with_blank": "The soup is ___ hot. Be careful!",
+    "correct_word": "very",
+    "options": [
+     "very",
+     "much",
+     "many",
+     "a"
+    ]
+   },
+   {
+    "sentence_with_blank": "They are ___ boys.",
+    "correct_word": "clever",
+    "options": [
+     "clever",
+     "clevers",
+     "cleverly",
+     "cleverness"
+    ]
+   },
+   {
+    "sentence_with_blank": "That is a ___ film. I laughed a lot.",
+    "correct_word": "funny",
+    "options": [
+     "funny",
+     "funnys",
+     "funnily",
+     "funnies"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandma is ___ kind.",
+    "correct_word": "very",
+    "options": [
+     "very",
+     "much",
+     "many",
+     "a lot"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is a ___ girl.",
+    "correct_word": "very kind",
+    "options": [
+     "very kind",
+     "kind very",
+     "very kindly",
+     "much kind"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 29,
+  "title": "want to / would like to",
+  "title_uz": "want to / would like to",
+  "rule_uz": "Biror narsani xohlasak, want to ishlatamiz: I want to play. Nazokatli aytish uchun would like to deymiz: I would like to have some water. He, she, it bilan want ga -s qo'shiladi: She wants to swim. Would like o'zgarmaydi: She would like to swim. Would like dan keyin to + fe'l keladi.",
+  "forms": [
+   "I / you / we / they + want to + play",
+   "He / she / it + wants to + play",
+   "I / he / she + would like to + play",
+   "Would you like + some tea?"
+  ],
+  "examples": [
+   {
+    "en": "I want to play football after school.",
+    "uz": "Men maktabdan keyin futbol o'ynashni xohlayman."
+   },
+   {
+    "en": "She wants to be a doctor.",
+    "uz": "U shifokor bo'lishni xohlaydi."
+   },
+   {
+    "en": "Would you like some tea?",
+    "uz": "Choy ichasizmi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He want to go home.",
+    "right": "He wants to go home.",
+    "note_uz": "He bilan want ga -s qo'shiladi."
+   },
+   {
+    "wrong": "I would like have a drink.",
+    "right": "I would like to have a drink.",
+    "note_uz": "Would like dan keyin to kerak."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "I ___ to play football.",
+    "correct_word": "want",
+    "options": [
+     "want",
+     "wants",
+     "wanting",
+     "am want"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ to be a doctor.",
+    "correct_word": "wants",
+    "options": [
+     "wants",
+     "want",
+     "wanting",
+     "is want"
+    ]
+   },
+   {
+    "sentence_with_blank": "We want ___ a new game.",
+    "correct_word": "to buy",
+    "options": [
+     "to buy",
+     "buy",
+     "buying",
+     "buys"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother doesn't ___ to eat fish.",
+    "correct_word": "want",
+    "options": [
+     "want",
+     "wants",
+     "wanting",
+     "wanted"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ you like some tea?",
+    "correct_word": "Would",
+    "options": [
+     "Would",
+     "Are",
+     "Can",
+     "Is"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'd like ___ a drink, please.",
+    "correct_word": "to have",
+    "options": [
+     "to have",
+     "have",
+     "having",
+     "has"
+    ]
+   }
+  ]
+ },
+ {
+  "order": 30,
+  "title": "Let's... / Shall we...? / Can I...? (suggestions and requests)",
+  "title_uz": "Taklif va iltimos",
+  "rule_uz": "Do'stlarga birga biror ish qilishni taklif qilamiz: Let's play! yoki Shall we play? Let's va Shall we dan keyin fe'l oddiy holida keladi. Ruxsat so'rash yoki iltimos qilish uchun Can I...? deymiz: Can I use your pen, please? Please so'zi iltimosni yanada yoqimli qiladi.",
+  "forms": [
+   "Let's + fe'l: Let's go!",
+   "Shall we + fe'l?: Shall we go?",
+   "Can I + fe'l?: Can I sit here?",
+   "Yes, let's. / Good idea! / Sure."
+  ],
+  "examples": [
+   {
+    "en": "Let's play chess after lunch.",
+    "uz": "Keling, tushlikdan keyin shaxmat o'ynaylik."
+   },
+   {
+    "en": "Shall we go to the zoo?",
+    "uz": "Hayvonot bog'iga boramizmi?"
+   },
+   {
+    "en": "Can I have some water, please?",
+    "uz": "Iltimos, menga suv bera olasizmi?"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Let's to go home.",
+    "right": "Let's go home.",
+    "note_uz": "Let's dan keyin to ishlatilmaydi."
+   },
+   {
+    "wrong": "Shall we going to the park?",
+    "right": "Shall we go to the park?",
+    "note_uz": "Shall we dan keyin fe'l oddiy holida turadi."
+   }
+  ],
+  "exercises": [
+   {
+    "sentence_with_blank": "___ play chess!",
+    "correct_word": "Let's",
+    "options": [
+     "Let's",
+     "Let",
+     "Lets",
+     "Shall"
+    ]
+   },
+   {
+    "sentence_with_blank": "Shall we ___ to the park?",
+    "correct_word": "go",
+    "options": [
+     "go",
+     "goes",
+     "going",
+     "to go"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"I'm hungry.\" \"___ have lunch!\"",
+    "correct_word": "Let's",
+    "options": [
+     "Let's",
+     "Let",
+     "Lets",
+     "Shall"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ I open the window? It is hot.",
+    "correct_word": "Can",
+    "options": [
+     "Can",
+     "Do",
+     "Are",
+     "Does"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I ___ your pen, please?",
+    "correct_word": "use",
+    "options": [
+     "use",
+     "uses",
+     "using",
+     "to use"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ we sit here?",
+    "correct_word": "Shall",
+    "options": [
+     "Shall",
+     "Let's",
+     "Are",
+     "Does"
+    ]
+   }
+  ]
+ }
+]

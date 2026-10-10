@@ -1,0 +1,1307 @@
+[
+ {
+  "unit": 84,
+  "title": "food",
+  "vocabulary": [
+   {
+    "word": "fresh food",
+    "translation_uz": "yangi (toza) oziq-ovqat",
+    "example_sentence": "I prefer fresh food from the local market."
+   },
+   {
+    "word": "frozen food",
+    "translation_uz": "muzlatilgan oziq-ovqat",
+    "example_sentence": "Frozen food is useful when you have no time to cook."
+   },
+   {
+    "word": "fast food",
+    "translation_uz": "tez tayyorlanadigan ovqat (fast-fud)",
+    "example_sentence": "Eating too much fast food is bad for your health."
+   },
+   {
+    "word": "junk food",
+    "translation_uz": "foydasiz (zararli) ovqat",
+    "example_sentence": "Chips and sweets are examples of junk food."
+   },
+   {
+    "word": "healthy food",
+    "translation_uz": "sog'lom ovqat",
+    "example_sentence": "The school canteen serves healthy food."
+   },
+   {
+    "word": "organic food",
+    "translation_uz": "organik oziq-ovqat",
+    "example_sentence": "Organic food is often more expensive."
+   },
+   {
+    "word": "home-cooked food",
+    "translation_uz": "uyda tayyorlangan ovqat",
+    "example_sentence": "Nothing is better than home-cooked food."
+   },
+   {
+    "word": "spicy / tasty food",
+    "translation_uz": "achchiq / mazali ovqat",
+    "example_sentence": "I can't eat very spicy food."
+   },
+   {
+    "word": "cook / prepare food",
+    "translation_uz": "ovqat tayyorlamoq",
+    "example_sentence": "My father cooks food for the whole family on Sundays."
+   },
+   {
+    "word": "buy food",
+    "translation_uz": "oziq-ovqat sotib olmoq",
+    "example_sentence": "We buy food at the supermarket once a week."
+   },
+   {
+    "word": "food shopping",
+    "translation_uz": "oziq-ovqat xaridi",
+    "example_sentence": "I do the food shopping with my mum on Saturdays."
+   },
+   {
+    "word": "food poisoning",
+    "translation_uz": "ovqatdan zaharlanish",
+    "example_sentence": "He got food poisoning from some old chicken."
+   },
+   {
+    "word": "food for thought",
+    "translation_uz": "o'ylantiradigan narsa",
+    "example_sentence": "The teacher's speech gave us food for thought."
+   },
+   {
+    "word": "a food shortage",
+    "translation_uz": "oziq-ovqat tanqisligi",
+    "example_sentence": "The drought caused a food shortage in the region."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Chips and sweets are examples of ___ food.",
+    "correct_word": "junk",
+    "options": [
+     "fresh",
+     "junk",
+     "organic",
+     "frozen"
+    ]
+   },
+   {
+    "sentence_with_blank": "My mother ___ food for the family every evening.",
+    "correct_word": "cooks",
+    "options": [
+     "builds",
+     "grows",
+     "cooks",
+     "carries"
+    ]
+   },
+   {
+    "sentence_with_blank": "We do the food ___ on Saturday mornings.",
+    "correct_word": "shopping",
+    "options": [
+     "market",
+     "shopping",
+     "spending",
+     "buying"
+    ]
+   },
+   {
+    "sentence_with_blank": "You should eat more ___ food, such as fruit and vegetables.",
+    "correct_word": "healthy",
+    "options": [
+     "fast",
+     "junk",
+     "healthy",
+     "spicy"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was ill because he got food ___ at a restaurant.",
+    "correct_word": "poisoning",
+    "options": [
+     "shortage",
+     "thought",
+     "poisoning",
+     "shopping"
+    ]
+   },
+   {
+    "sentence_with_blank": "The speech gave everyone food ___ thought.",
+    "correct_word": "for",
+    "options": [
+     "on",
+     "for",
+     "to",
+     "of"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Dinner at Grandma's",
+   "text": "Every Friday my family has dinner at my grandmother's house. She never buys fast food or frozen food. Instead, she goes food shopping at the market and chooses fresh vegetables. Her home-cooked food is delicious, but sometimes it is too spicy for my little brother. Last month my cousin got food poisoning after eating at a street stall, so Grandma says we should always be careful. After dinner we play cards and she tells us stories about her childhood.",
+   "key_words": [
+    {
+     "word": "fresh",
+     "translation_uz": "yangi, toza"
+    },
+    {
+     "word": "delicious",
+     "translation_uz": "mazali"
+    },
+    {
+     "word": "stall",
+     "translation_uz": "peshtaxta"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where does the family have dinner on Fridays?",
+     "options": [
+      "At Grandma's house",
+      "In a restaurant",
+      "At school",
+      "At the market"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why is the food sometimes a problem for the little brother?",
+     "options": [
+      "It is cold",
+      "It is too spicy",
+      "It is frozen",
+      "It is too sweet"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What happened to the cousin?",
+     "options": [
+      "He lost his wallet",
+      "He cooked dinner",
+      "He got food poisoning",
+      "He moved house"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Menu",
+   "script": "Girl: What would you like for lunch? Boy: I usually eat fast food, but my doctor says I should eat healthy food. Girl: Then let's cook something together. I bought fresh vegetables and some rice. Boy: Is the rice spicy? Girl: No, it is not. Boy: Perfect. Home-cooked food always tastes better than junk food.",
+   "questions": [
+    {
+     "question": "What does the doctor advise the boy?",
+     "options": [
+      "To eat fast food",
+      "To skip lunch",
+      "To cook less",
+      "To eat healthy food"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the girl buy?",
+     "options": [
+      "Fresh vegetables and rice",
+      "Frozen pizza",
+      "Spicy chicken",
+      "Sweets"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the boy think about home-cooked food?",
+     "options": [
+      "It is too expensive",
+      "It tastes better than junk food",
+      "It is too spicy",
+      "It takes too long"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I like home-cooked food.",
+    "Fast food is not healthy.",
+    "We bought fresh food."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Food",
+    "question_text": "What is your favourite food? Why do you like it?",
+    "hint_words": [
+     "favourite",
+     "delicious",
+     "I like",
+     "eat"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Do you eat junk food? How often?",
+    "hint_words": [
+     "junk food",
+     "sometimes",
+     "never",
+     "health"
+    ]
+   },
+   {
+    "topic": "Cooking",
+    "question_text": "Who cooks food in your family?",
+    "hint_words": [
+     "mother",
+     "father",
+     "cook",
+     "dinner"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 85,
+  "title": "drink",
+  "vocabulary": [
+   {
+    "word": "a hot / cold drink",
+    "translation_uz": "issiq / sovuq ichimlik",
+    "example_sentence": "Would you like a hot drink?"
+   },
+   {
+    "word": "a soft drink",
+    "translation_uz": "gazlangan (alkogolsiz) ichimlik",
+    "example_sentence": "He ordered a soft drink with his pizza."
+   },
+   {
+    "word": "a fizzy drink",
+    "translation_uz": "gazlangan ichimlik (pufakli)",
+    "example_sentence": "Fizzy drinks have a lot of sugar."
+   },
+   {
+    "word": "a sugary drink",
+    "translation_uz": "shirin ichimlik",
+    "example_sentence": "Try not to give children too many sugary drinks."
+   },
+   {
+    "word": "have a drink",
+    "translation_uz": "biror narsa ichmoq",
+    "example_sentence": "Let's have a drink after the match."
+   },
+   {
+    "word": "order a drink",
+    "translation_uz": "ichimlik buyurtma bermoq",
+    "example_sentence": "She ordered a drink and a sandwich."
+   },
+   {
+    "word": "pour a drink",
+    "translation_uz": "ichimlik quymoq",
+    "example_sentence": "He poured a drink for each guest."
+   },
+   {
+    "word": "a drink of water",
+    "translation_uz": "bir ho'plam suv",
+    "example_sentence": "Can I have a drink of water, please?"
+   },
+   {
+    "word": "drink too much",
+    "translation_uz": "haddan ziyod ichmoq",
+    "example_sentence": "Don't drink too much coffee at night."
+   },
+   {
+    "word": "drink to someone's health",
+    "translation_uz": "birovning sog'lig'iga ichmoq",
+    "example_sentence": "They raised their glasses and drank to her health."
+   },
+   {
+    "word": "drinking water",
+    "translation_uz": "ichimlik suvi",
+    "example_sentence": "Clean drinking water is important for everyone."
+   },
+   {
+    "word": "a drinks machine",
+    "translation_uz": "ichimliklar avtomati",
+    "example_sentence": "There is a drinks machine near the gym."
+   },
+   {
+    "word": "drink up",
+    "translation_uz": "ichib bo'lmoq (oxirigacha)",
+    "example_sentence": "Drink up, we have to leave now."
+   },
+   {
+    "word": "a long drink",
+    "translation_uz": "katta stakan salqin ichimlik",
+    "example_sentence": "After the run, he had a long cold drink."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Would you like a hot ___ , such as tea or coffee?",
+    "correct_word": "drink",
+    "options": [
+     "food",
+     "meal",
+     "dish",
+     "drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "Lemonade is a popular soft ___.",
+    "correct_word": "drink",
+    "options": [
+     "cake",
+     "snack",
+     "dish",
+     "drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I have a ___ of water, please?",
+    "correct_word": "drink",
+    "options": [
+     "part",
+     "drink",
+     "piece",
+     "kind"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't ___ too much coffee before bed.",
+    "correct_word": "drink",
+    "options": [
+     "drink",
+     "spend",
+     "eat",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "They ___ a drink for each guest at the party.",
+    "correct_word": "poured",
+    "options": [
+     "built",
+     "poured",
+     "baked",
+     "cooked"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ up your milk; we are leaving soon.",
+    "correct_word": "drink",
+    "options": [
+     "fill",
+     "eat",
+     "drink",
+     "take"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Hot Day",
+   "text": "Last Sunday was very hot, so we went to the park with a bag full of drinks. My father had brought bottles of drinking water, and my mother made cold lemonade. I wanted a fizzy drink, but there was a drinks machine only near the gate. My sister said that sugary drinks do not help when you are thirsty. So I had a long cold drink of water instead, and I felt better at once. In the evening we drank up the rest of the lemonade and went home.",
+   "key_words": [
+    {
+     "word": "thirsty",
+     "translation_uz": "chanqagan"
+    },
+    {
+     "word": "lemonade",
+     "translation_uz": "limonad"
+    },
+    {
+     "word": "gate",
+     "translation_uz": "darvoza"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the mother make?",
+     "options": [
+      "Hot tea",
+      "Cold lemonade",
+      "Orange juice",
+      "Coffee"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where was the drinks machine?",
+     "options": [
+      "Next to the lake",
+      "In the bag",
+      "Near the gate",
+      "At home"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the narrator drink in the end?",
+     "options": [
+      "A fizzy drink",
+      "Coffee",
+      "Milk",
+      "Water"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "In a Café",
+   "script": "Waiter: Hello. Can I take your order? Girl: Yes, I'd like a hot chocolate, please. Waiter: Anything else? Girl: And a glass of water for my brother. He doesn't like fizzy drinks. Waiter: Of course. Would you like something to eat? Girl: Not now, thank you. Maybe later.",
+   "questions": [
+    {
+     "question": "What does the girl order for herself?",
+     "options": [
+      "A hot chocolate",
+      "A coffee",
+      "A fizzy drink",
+      "Tea"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does her brother get?",
+     "options": [
+      "A soft drink",
+      "A glass of water",
+      "Milk",
+      "Juice"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Do they order food?",
+     "options": [
+      "Yes, a sandwich",
+      "Yes, a cake",
+      "Not yet",
+      "No, never"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Would you like a drink?",
+    "I ordered a cold drink.",
+    "Drink more water."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Drinks",
+    "question_text": "What do you usually drink in the morning?",
+    "hint_words": [
+     "tea",
+     "milk",
+     "morning",
+     "usually"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Why is drinking water important?",
+    "hint_words": [
+     "healthy",
+     "water",
+     "body",
+     "thirsty"
+    ]
+   },
+   {
+    "topic": "Habits",
+    "question_text": "Do you like fizzy drinks? Why or why not?",
+    "hint_words": [
+     "sugar",
+     "fizzy",
+     "taste",
+     "bad for"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 86,
+  "title": "meal and dish",
+  "vocabulary": [
+   {
+    "word": "have a meal",
+    "translation_uz": "ovqatlanmoq",
+    "example_sentence": "We have a big meal together on Sundays."
+   },
+   {
+    "word": "cook / prepare a meal",
+    "translation_uz": "ovqat tayyorlamoq",
+    "example_sentence": "She prepared a meal for twelve guests."
+   },
+   {
+    "word": "a three-course meal",
+    "translation_uz": "uch xil taomli ovqat",
+    "example_sentence": "We had a three-course meal at the hotel."
+   },
+   {
+    "word": "a light meal",
+    "translation_uz": "yengil ovqat",
+    "example_sentence": "I'd prefer a light meal in the evening."
+   },
+   {
+    "word": "a hot meal",
+    "translation_uz": "issiq ovqat",
+    "example_sentence": "Children get a hot meal at school."
+   },
+   {
+    "word": "a main meal",
+    "translation_uz": "asosiy ovqat",
+    "example_sentence": "Lunch is the main meal of the day in many countries."
+   },
+   {
+    "word": "a meal out",
+    "translation_uz": "restoranda ovqatlanish",
+    "example_sentence": "Let's go for a meal out on Friday."
+   },
+   {
+    "word": "enjoy your meal",
+    "translation_uz": "yoqimli ishtaha",
+    "example_sentence": "The waiter smiled and said, enjoy your meal."
+   },
+   {
+    "word": "a traditional dish",
+    "translation_uz": "an'anaviy taom",
+    "example_sentence": "Plov is a traditional dish in Uzbekistan."
+   },
+   {
+    "word": "the main dish",
+    "translation_uz": "asosiy taom",
+    "example_sentence": "The main dish was chicken with rice."
+   },
+   {
+    "word": "a side dish",
+    "translation_uz": "garnir",
+    "example_sentence": "A salad is a good side dish."
+   },
+   {
+    "word": "a vegetarian dish",
+    "translation_uz": "vegetarian taomi",
+    "example_sentence": "The restaurant has several vegetarian dishes."
+   },
+   {
+    "word": "a national / local dish",
+    "translation_uz": "milliy / mahalliy taom",
+    "example_sentence": "Try the local dish when you travel."
+   },
+   {
+    "word": "wash the dishes",
+    "translation_uz": "idish-tovoq yuvmoq",
+    "example_sentence": "I wash the dishes after dinner."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We usually ___ a meal together at seven o'clock.",
+    "correct_word": "have",
+    "options": [
+     "have",
+     "play",
+     "go",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "We had a three-___ meal: soup, chicken and ice cream.",
+    "correct_word": "course",
+    "options": [
+     "part",
+     "step",
+     "course",
+     "level"
+    ]
+   },
+   {
+    "sentence_with_blank": "Plov is a traditional ___ in my country.",
+    "correct_word": "dish",
+    "options": [
+     "menu",
+     "meal",
+     "dish",
+     "drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's my turn to wash the ___ tonight.",
+    "correct_word": "dishes",
+    "options": [
+     "dishes",
+     "menus",
+     "foods",
+     "meals"
+    ]
+   },
+   {
+    "sentence_with_blank": "Rice is a good side ___ with fish.",
+    "correct_word": "dish",
+    "options": [
+     "menu",
+     "meal",
+     "plate of",
+     "dish"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's go out for a meal ___ on Saturday.",
+    "correct_word": "out",
+    "options": [
+     "away",
+     "off",
+     "up",
+     "out"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Sunday Lunch",
+   "text": "On Sundays, my grandfather cooks a big meal for the whole family. The main dish is usually plov, a traditional dish of our region. There are also two or three side dishes, such as salad and pickles. After the meal, everyone helps to wash the dishes. Last week, however, we went for a meal out because Grandfather was tired. We had a light meal in a small restaurant. He said that the plov there was good, but not as good as his own.",
+   "key_words": [
+    {
+     "word": "region",
+     "translation_uz": "hudud, viloyat"
+    },
+    {
+     "word": "pickles",
+     "translation_uz": "tuzlangan sabzavotlar"
+    },
+    {
+     "word": "tired",
+     "translation_uz": "charchagan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who cooks the Sunday meal?",
+     "options": [
+      "The mother",
+      "The cousin",
+      "The grandfather",
+      "A chef"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is the main dish?",
+     "options": [
+      "Soup",
+      "Fish",
+      "Pasta",
+      "Plov"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did they go to a restaurant last week?",
+     "options": [
+      "Grandfather was tired",
+      "It was a birthday",
+      "The kitchen was closed",
+      "They had guests"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Restaurant Talk",
+   "script": "Waiter: Are you ready to order? Man: Yes. We'd like the lamb as a main dish, and a vegetarian dish for my wife. Waiter: Would you like a side dish? Man: Yes, a salad, please. Waiter: Good choice. Enjoy your meal! Man: Thank you. We come here for a meal out every month.",
+   "questions": [
+    {
+     "question": "What does the man order as a main dish?",
+     "options": [
+      "Fish",
+      "Lamb",
+      "Chicken",
+      "Pasta"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the side dish?",
+     "options": [
+      "Rice",
+      "Soup",
+      "A salad",
+      "Bread"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How often do they eat there?",
+     "options": [
+      "Every week",
+      "Every day",
+      "Once a year",
+      "Every month"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Enjoy your meal.",
+    "We had a light meal.",
+    "She washed the dishes."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Meals",
+    "question_text": "What is your main meal of the day?",
+    "hint_words": [
+     "breakfast",
+     "lunch",
+     "dinner",
+     "main"
+    ]
+   },
+   {
+    "topic": "Dishes",
+    "question_text": "What is a traditional dish in your country?",
+    "hint_words": [
+     "traditional",
+     "made of",
+     "rice",
+     "delicious"
+    ]
+   },
+   {
+    "topic": "Chores",
+    "question_text": "Who washes the dishes at your home?",
+    "hint_words": [
+     "wash",
+     "dishes",
+     "after",
+     "help"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 87,
+  "title": "diet and appetite",
+  "vocabulary": [
+   {
+    "word": "a healthy / balanced diet",
+    "translation_uz": "sog'lom / muvozanatli ovqatlanish",
+    "example_sentence": "A balanced diet includes fruit, vegetables and protein."
+   },
+   {
+    "word": "a poor / unhealthy diet",
+    "translation_uz": "yomon / nosog'lom ovqatlanish",
+    "example_sentence": "A poor diet can make you tired."
+   },
+   {
+    "word": "be on a diet",
+    "translation_uz": "parhezda bo'lmoq",
+    "example_sentence": "My aunt is on a diet at the moment."
+   },
+   {
+    "word": "go on a diet",
+    "translation_uz": "parhez boshlamoq",
+    "example_sentence": "He decided to go on a diet before the summer."
+   },
+   {
+    "word": "follow a diet",
+    "translation_uz": "parhezga rioya qilmoq",
+    "example_sentence": "The doctor asked her to follow a special diet."
+   },
+   {
+    "word": "a vegetarian diet",
+    "translation_uz": "vegetarian ovqatlanish",
+    "example_sentence": "She follows a vegetarian diet."
+   },
+   {
+    "word": "a low-fat / low-sugar diet",
+    "translation_uz": "yog'i / shakari kam parhez",
+    "example_sentence": "A low-sugar diet is good for your teeth."
+   },
+   {
+    "word": "a good appetite",
+    "translation_uz": "yaxshi ishtaha",
+    "example_sentence": "After the swim I had a good appetite."
+   },
+   {
+    "word": "a healthy appetite",
+    "translation_uz": "yaxshi (sog'lom) ishtaha",
+    "example_sentence": "Growing boys have a healthy appetite."
+   },
+   {
+    "word": "lose your appetite",
+    "translation_uz": "ishtahani yo'qotmoq",
+    "example_sentence": "He lost his appetite when he had a cold."
+   },
+   {
+    "word": "have no appetite",
+    "translation_uz": "ishtahasi bo'lmoq",
+    "example_sentence": "I have no appetite in hot weather."
+   },
+   {
+    "word": "spoil your appetite",
+    "translation_uz": "ishtahani buzmoq",
+    "example_sentence": "Don't eat sweets now, you will spoil your appetite."
+   },
+   {
+    "word": "work up an appetite",
+    "translation_uz": "ishtaha ochmoq (harakat bilan)",
+    "example_sentence": "A long walk will work up an appetite."
+   },
+   {
+    "word": "lose weight",
+    "translation_uz": "vazn yo'qotmoq",
+    "example_sentence": "She is trying to lose weight in a healthy way."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A ___ diet contains fruit, vegetables, protein and a little sugar.",
+    "correct_word": "balanced",
+    "options": [
+     "heavy",
+     "poor",
+     "balanced",
+     "strict"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle is ___ a diet because his doctor told him to.",
+    "correct_word": "on",
+    "options": [
+     "with",
+     "in",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The little girl has a healthy ___ and always finishes her dinner.",
+    "correct_word": "appetite",
+    "options": [
+     "stomach",
+     "taste",
+     "appetite",
+     "hunger"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't eat that biscuit now; you will spoil your ___.",
+    "correct_word": "appetite",
+    "options": [
+     "stomach",
+     "appetite",
+     "hunger",
+     "fitness"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ her appetite when she got a fever.",
+    "correct_word": "lost",
+    "options": [
+     "dropped",
+     "lost",
+     "missed",
+     "failed"
+    ]
+   },
+   {
+    "sentence_with_blank": "A long swim in the sea really ___ up an appetite.",
+    "correct_word": "works",
+    "options": [
+     "takes",
+     "puts",
+     "brings",
+     "works"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Healthy Habits",
+   "text": "Our school nurse, Mrs Aliyeva, gave a talk about diets. She explained that you do not need to go on a diet to be healthy. A balanced diet with fresh food is enough. She also told us not to eat sweets before dinner because they spoil your appetite. Some students have a healthy appetite after sports, and that is normal. Mrs Aliyeva said that if you lose your appetite for several days, you should see a doctor. At the end, she gave us a list of tips.",
+   "key_words": [
+    {
+     "word": "nurse",
+     "translation_uz": "hamshira"
+    },
+    {
+     "word": "balanced",
+     "translation_uz": "muvozanatli"
+    },
+    {
+     "word": "tips",
+     "translation_uz": "maslahatlar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who gave the talk?",
+     "options": [
+      "A doctor",
+      "A cook",
+      "A teacher of sport",
+      "The school nurse"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why shouldn't students eat sweets before dinner?",
+     "options": [
+      "They spoil your appetite",
+      "They are too expensive",
+      "They make you tired",
+      "They are dangerous"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What should you do if you lose your appetite for days?",
+     "options": [
+      "Go on a diet",
+      "See a doctor",
+      "Eat more sweets",
+      "Do sport"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Lunch Break",
+   "script": "Sara: You are not eating your sandwich. Are you on a diet? Tim: No, I just have no appetite today. Sara: Maybe you ate too many biscuits this morning. They spoil your appetite. Tim: Yes, I ate four! Sara: Well, a balanced diet doesn't include four biscuits. Let's go for a walk. A short walk will work up an appetite.",
+   "questions": [
+    {
+     "question": "Why isn't Tim eating?",
+     "options": [
+      "He is on a diet",
+      "He is angry",
+      "He has no appetite",
+      "He is late"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How many biscuits did Tim eat?",
+     "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Four"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Sara suggest?",
+     "options": [
+      "A short walk",
+      "A sleep",
+      "A game",
+      "A doctor"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "She is on a diet.",
+    "I have no appetite.",
+    "Eat a balanced diet."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Diet",
+    "question_text": "What do you think is a healthy diet?",
+    "hint_words": [
+     "fruit",
+     "vegetables",
+     "balanced",
+     "sugar"
+    ]
+   },
+   {
+    "topic": "Appetite",
+    "question_text": "What spoils your appetite?",
+    "hint_words": [
+     "sweets",
+     "snacks",
+     "before dinner",
+     "tired"
+    ]
+   },
+   {
+    "topic": "Weight",
+    "question_text": "Why do some people go on a diet?",
+    "hint_words": [
+     "lose weight",
+     "health",
+     "doctor",
+     "summer"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 88,
+  "title": "party",
+  "vocabulary": [
+   {
+    "word": "have / throw a party",
+    "translation_uz": "bazm o'tkazmoq",
+    "example_sentence": "We are going to throw a party for her birthday."
+   },
+   {
+    "word": "organise a party",
+    "translation_uz": "bazm tashkil qilmoq",
+    "example_sentence": "The class organised a party for the teacher."
+   },
+   {
+    "word": "go to a party",
+    "translation_uz": "bazmga bormoq",
+    "example_sentence": "Are you going to the party on Saturday?"
+   },
+   {
+    "word": "invite someone to a party",
+    "translation_uz": "birovni bazmga taklif qilmoq",
+    "example_sentence": "I invited all my classmates to the party."
+   },
+   {
+    "word": "a birthday party",
+    "translation_uz": "tug'ilgan kun bazmi",
+    "example_sentence": "Her birthday party starts at four o'clock."
+   },
+   {
+    "word": "a surprise party",
+    "translation_uz": "kutilmagan bazm (syurpriz)",
+    "example_sentence": "They planned a surprise party for their dad."
+   },
+   {
+    "word": "a farewell party",
+    "translation_uz": "xayrlashuv bazmi",
+    "example_sentence": "We gave a farewell party for our English teacher."
+   },
+   {
+    "word": "a New Year party",
+    "translation_uz": "Yangi yil bazmi",
+    "example_sentence": "Our New Year party was in the school hall."
+   },
+   {
+    "word": "a party dress / outfit",
+    "translation_uz": "bazm kiyimi",
+    "example_sentence": "She wore a red party dress."
+   },
+   {
+    "word": "a party game",
+    "translation_uz": "bazm o'yini",
+    "example_sentence": "Musical chairs is a classic party game."
+   },
+   {
+    "word": "be the life of the party",
+    "translation_uz": "bazmning jonli ishtirokchisi bo'lmoq",
+    "example_sentence": "Jasur is always the life of the party."
+   },
+   {
+    "word": "a political party",
+    "translation_uz": "siyosiy partiya",
+    "example_sentence": "The two political parties disagreed about taxes."
+   },
+   {
+    "word": "party food",
+    "translation_uz": "bazm taomlari",
+    "example_sentence": "We made a lot of party food."
+   },
+   {
+    "word": "guest of honour",
+    "translation_uz": "faxriy mehmon",
+    "example_sentence": "The oldest guest was the guest of honour at the party."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Next month we will ___ a party to celebrate my sister's graduation.",
+    "correct_word": "throw",
+    "options": [
+     "throw out",
+     "go",
+     "carry",
+     "throw"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ about thirty people to my birthday party.",
+    "correct_word": "invited",
+    "options": [
+     "told",
+     "invited",
+     "brought",
+     "joined"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a ___ party, so nobody told Dad before the day.",
+    "correct_word": "surprise",
+    "options": [
+     "costume",
+     "farewell",
+     "wedding",
+     "surprise"
+    ]
+   },
+   {
+    "sentence_with_blank": "Musical chairs is a famous party ___ for children.",
+    "correct_word": "game",
+    "options": [
+     "lesson",
+     "sport",
+     "game",
+     "match"
+    ]
+   },
+   {
+    "sentence_with_blank": "We had a ___ party for our friend who is moving to another city.",
+    "correct_word": "farewell",
+    "options": [
+     "birthday",
+     "wedding",
+     "welcome",
+     "farewell"
+    ]
+   },
+   {
+    "sentence_with_blank": "Are you coming ___ the party on Friday?",
+    "correct_word": "to",
+    "options": [
+     "for",
+     "in",
+     "at",
+     "to"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Surprise for Mum",
+   "text": "Last Saturday we organised a surprise party for my mother's birthday. First, I invited her friends and our neighbours. My sister made some party food, including a big chocolate cake. We hid in the living room until Mum came home from work. When she opened the door, everyone shouted, \"Happy birthday!\" She was so surprised that she laughed and cried at the same time. We played a few party games, and my uncle, who is always the life of the party, told funny stories. It was a perfect evening.",
+   "key_words": [
+    {
+     "word": "neighbours",
+     "translation_uz": "qo'shnilar"
+    },
+    {
+     "word": "hide",
+     "translation_uz": "yashirinmoq"
+    },
+    {
+     "word": "surprised",
+     "translation_uz": "hayron bo'lgan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Whose birthday was it?",
+     "options": [
+      "The narrator's mother's",
+      "The sister's",
+      "The uncle's",
+      "The neighbour's"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did everyone hide?",
+     "options": [
+      "In the garden",
+      "In the living room",
+      "In the kitchen",
+      "Under the table"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who is the life of the party?",
+     "options": [
+      "The sister",
+      "The mother",
+      "The uncle",
+      "A neighbour"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Party Plans",
+   "script": "Nodira: We need to organise a farewell party for Mr Ismoilov. Davron: Good idea. When is his last day? Nodira: Next Friday. I'll invite the teachers, and you can bring the music. Davron: What about party food? Nodira: Everyone can bring something. I'll make a cake. Davron: Great. I hope it will be a good party.",
+   "questions": [
+    {
+     "question": "Who is leaving?",
+     "options": [
+      "Davron",
+      "Nodira",
+      "The director",
+      "Mr Ismoilov"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When is his last day?",
+     "options": [
+      "Next Friday",
+      "Next Monday",
+      "Tomorrow",
+      "This Sunday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will Davron bring?",
+     "options": [
+      "The cake",
+      "The music",
+      "The invitations",
+      "The tables"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Let's throw a party.",
+    "She wore a party dress.",
+    "I went to a party."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Parties",
+    "question_text": "Tell me about your last birthday party.",
+    "hint_words": [
+     "birthday",
+     "friends",
+     "cake",
+     "fun"
+    ]
+   },
+   {
+    "topic": "Parties",
+    "question_text": "Do you prefer big parties or small ones? Why?",
+    "hint_words": [
+     "big",
+     "small",
+     "friends",
+     "noisy"
+    ]
+   },
+   {
+    "topic": "Planning",
+    "question_text": "How do you organise a surprise party?",
+    "hint_words": [
+     "plan",
+     "invite",
+     "secret",
+     "food"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1488 @@
+[
+ {
+  "unit": 42,
+  "title": "sea, wave",
+  "vocabulary": [
+   {
+    "word": "swim in the sea",
+    "translation_uz": "dengizda suzmoq",
+    "example_sentence": "We swim in the sea every summer."
+   },
+   {
+    "word": "by the sea",
+    "translation_uz": "dengiz bo'yida",
+    "example_sentence": "They have a small house by the sea."
+   },
+   {
+    "word": "the sea is calm",
+    "translation_uz": "dengiz tinch",
+    "example_sentence": "The sea is calm this morning."
+   },
+   {
+    "word": "the sea is rough",
+    "translation_uz": "dengiz notinch",
+    "example_sentence": "Boats stay in port when the sea is rough."
+   },
+   {
+    "word": "sail across the sea",
+    "translation_uz": "dengiz bo'ylab suzib o'tmoq",
+    "example_sentence": "The ship sailed across the sea."
+   },
+   {
+    "word": "a sea view",
+    "translation_uz": "dengizga qaragan manzara",
+    "example_sentence": "Our hotel room has a lovely sea view."
+   },
+   {
+    "word": "a big wave",
+    "translation_uz": "katta to'lqin",
+    "example_sentence": "A big wave hit the rocks."
+   },
+   {
+    "word": "ride a wave",
+    "translation_uz": "to'lqinda uchmoq",
+    "example_sentence": "Surfers ride a wave on their boards."
+   },
+   {
+    "word": "waves crash on the rocks",
+    "translation_uz": "to'lqinlar toshlarga urilmoqda",
+    "example_sentence": "Waves crash on the rocks near the cliff."
+   },
+   {
+    "word": "wave goodbye",
+    "translation_uz": "xayrlashib qo'l silkitmoq",
+    "example_sentence": "She waved goodbye from the boat."
+   },
+   {
+    "word": "the waves are high",
+    "translation_uz": "to'lqinlar baland",
+    "example_sentence": "Don't swim today because the waves are high."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We like to ___ in the sea when it is hot.",
+    "correct_word": "swim",
+    "options": [
+     "swim",
+     "fly",
+     "write",
+     "sleep"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our hotel is ___ the sea.",
+    "correct_word": "by",
+    "options": [
+     "of",
+     "by",
+     "from",
+     "about"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ship will ___ across the sea to the island.",
+    "correct_word": "sail",
+    "options": [
+     "bake",
+     "paint",
+     "sail",
+     "read"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is dangerous to swim when the sea is ___.",
+    "correct_word": "rough",
+    "options": [
+     "tasty",
+     "quiet",
+     "gentle",
+     "rough"
+    ]
+   },
+   {
+    "sentence_with_blank": "Big ___ crash on the rocks in winter.",
+    "correct_word": "waves",
+    "options": [
+     "waves",
+     "chairs",
+     "pencils",
+     "clouds"
+    ]
+   },
+   {
+    "sentence_with_blank": "The girl stood on the beach and ___ goodbye.",
+    "correct_word": "waved",
+    "options": [
+     "cooked",
+     "waved",
+     "drank",
+     "sold"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day by the Sea",
+   "text": "We spent the weekend in a small town by the sea. In the morning the sea was calm, so we went to swim. After lunch the wind came and the waves became high. My brother watched a surfer ride a big wave. Our room had a beautiful sea view. In the evening we waved goodbye to the fishing boats.",
+   "key_words": [
+    {
+     "word": "calm",
+     "translation_uz": "tinch"
+    },
+    {
+     "word": "surfer",
+     "translation_uz": "to'lqinda uchuvchi"
+    },
+    {
+     "word": "fishing boat",
+     "translation_uz": "baliq ovlovchi qayiq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the family go to swim in the morning?",
+     "options": [
+      "The sea was rough",
+      "It was raining",
+      "The sea was calm",
+      "The boats were away"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the brother watch?",
+     "options": [
+      "A ship sailing away",
+      "A fisherman swimming",
+      "A dog in the sea",
+      "A surfer riding a big wave"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the room have?",
+     "options": [
+      "A sea view",
+      "A swimming pool",
+      "A big garden",
+      "A mountain view"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Rough Sea",
+   "script": "Today the sea is rough. The waves are very high and they crash on the rocks. A small boat is trying to sail across the sea to the harbour. People stand by the sea and watch. Tomorrow the sea will be calm again, and we can swim.",
+   "questions": [
+    {
+     "question": "What is the sea like today?",
+     "options": [
+      "Calm",
+      "Rough",
+      "Frozen",
+      "Warm and quiet"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the small boat trying to do?",
+     "options": [
+      "Catch a big fish",
+      "Carry a surfer",
+      "Sail across the sea to the harbour",
+      "Wave goodbye"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When can people swim again?",
+     "options": [
+      "Today",
+      "Next month",
+      "In the evening",
+      "Tomorrow"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We swim in the sea.",
+    "The waves are high.",
+    "She waved goodbye."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sea",
+    "question_text": "Do you like to swim in the sea?",
+    "hint_words": [
+     "yes",
+     "swim",
+     "summer",
+     "water"
+    ]
+   },
+   {
+    "topic": "Sea",
+    "question_text": "Is the sea near your town?",
+    "hint_words": [
+     "far",
+     "near",
+     "no",
+     "by the sea"
+    ]
+   },
+   {
+    "topic": "Waves",
+    "question_text": "What can you see on a rough sea?",
+    "hint_words": [
+     "big waves",
+     "boat",
+     "wind",
+     "rocks"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 43,
+  "title": "river",
+  "vocabulary": [
+   {
+    "word": "cross a river",
+    "translation_uz": "daryodan o'tmoq",
+    "example_sentence": "We crossed the river by bridge."
+   },
+   {
+    "word": "a river flows",
+    "translation_uz": "daryo oqadi",
+    "example_sentence": "The river flows to the sea."
+   },
+   {
+    "word": "by the river",
+    "translation_uz": "daryo bo'yida",
+    "example_sentence": "We had a picnic by the river."
+   },
+   {
+    "word": "along the river",
+    "translation_uz": "daryo bo'ylab",
+    "example_sentence": "They walked along the river."
+   },
+   {
+    "word": "fish in the river",
+    "translation_uz": "daryoda baliq tutmoq",
+    "example_sentence": "My grandfather likes to fish in the river."
+   },
+   {
+    "word": "swim in a river",
+    "translation_uz": "daryoda suzmoq",
+    "example_sentence": "The water is cold, so we don't swim in the river."
+   },
+   {
+    "word": "a bridge over the river",
+    "translation_uz": "daryo ustidagi ko'prik",
+    "example_sentence": "There is an old bridge over the river."
+   },
+   {
+    "word": "the river bank",
+    "translation_uz": "daryo qirg'og'i",
+    "example_sentence": "Children played on the river bank."
+   },
+   {
+    "word": "a long river",
+    "translation_uz": "uzun daryo",
+    "example_sentence": "The Amu Darya is a long river."
+   },
+   {
+    "word": "the river is deep",
+    "translation_uz": "daryo chuqur",
+    "example_sentence": "Be careful, the river is deep here."
+   },
+   {
+    "word": "the river floods",
+    "translation_uz": "daryo toshadi",
+    "example_sentence": "After the rain the river floods."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We walked ___ the river after lunch.",
+    "correct_word": "along",
+    "options": [
+     "along",
+     "under",
+     "between",
+     "into"
+    ]
+   },
+   {
+    "sentence_with_blank": "They built a new bridge ___ the river.",
+    "correct_word": "over",
+    "options": [
+     "at",
+     "over",
+     "for",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle likes to ___ in the river on Sundays.",
+    "correct_word": "fish",
+    "options": [
+     "sing",
+     "draw",
+     "fish",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "The river ___ through the city to the sea.",
+    "correct_word": "flows",
+    "options": [
+     "jumps",
+     "sleeps",
+     "smiles",
+     "flows"
+    ]
+   },
+   {
+    "sentence_with_blank": "We must ___ the river to get to the village.",
+    "correct_word": "cross",
+    "options": [
+     "cross",
+     "eat",
+     "wear",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't swim here. The river is very ___.",
+    "correct_word": "deep",
+    "options": [
+     "tasty",
+     "deep",
+     "sweet",
+     "soft"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Long River",
+   "text": "Our village is by a long river. A bridge goes over the river, and every morning I cross it to go to school. My father likes to fish in the river on Saturdays. In spring, after the rain, the river floods and the water comes up to the bank. Then we walk along the river and look at the high water.",
+   "key_words": [
+    {
+     "word": "village",
+     "translation_uz": "qishloq"
+    },
+    {
+     "word": "flood",
+     "translation_uz": "toshmoq"
+    },
+    {
+     "word": "bank",
+     "translation_uz": "qirg'oq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How does the writer go to school?",
+     "options": [
+      "By boat",
+      "By bus along the river",
+      "Across the bridge over the river",
+      "By train"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the father do on Saturdays?",
+     "options": [
+      "He builds bridges",
+      "He swims",
+      "He sells fish",
+      "He fishes in the river"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When does the river flood?",
+     "options": [
+      "In spring after the rain",
+      "In winter",
+      "In summer",
+      "Every night"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Walk by the River",
+   "script": "Anna and her friends are walking along the river. The river is wide and deep, so nobody swims in it. They see a man fishing from the river bank. Soon they cross an old bridge to the other side. There they have a picnic under a big tree.",
+   "questions": [
+    {
+     "question": "Why does nobody swim in the river?",
+     "options": [
+      "It is dirty",
+      "It is wide and deep",
+      "It is frozen",
+      "It is too short"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the man do?",
+     "options": [
+      "He paints",
+      "He swims",
+      "He fishes",
+      "He sells tickets"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where do the friends have a picnic?",
+     "options": [
+      "On the bridge",
+      "In a boat",
+      "In a car",
+      "Under a big tree on the other side"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We cross the river.",
+    "The river flows to the sea.",
+    "He fishes in the river."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "River",
+    "question_text": "Is there a river in your city?",
+    "hint_words": [
+     "yes",
+     "no",
+     "big",
+     "near"
+    ]
+   },
+   {
+    "topic": "River",
+    "question_text": "What do people do by a river?",
+    "hint_words": [
+     "fish",
+     "walk",
+     "picnic",
+     "swim"
+    ]
+   },
+   {
+    "topic": "River",
+    "question_text": "Have you ever crossed a bridge over a river?",
+    "hint_words": [
+     "yes",
+     "bridge",
+     "big",
+     "once"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 44,
+  "title": "island, beach",
+  "vocabulary": [
+   {
+    "word": "a small island",
+    "translation_uz": "kichik orol",
+    "example_sentence": "They live on a small island."
+   },
+   {
+    "word": "on an island",
+    "translation_uz": "orolda",
+    "example_sentence": "We spent a week on an island."
+   },
+   {
+    "word": "a desert island",
+    "translation_uz": "odamsiz orol",
+    "example_sentence": "The story is about a boy on a desert island."
+   },
+   {
+    "word": "visit an island",
+    "translation_uz": "orolga tashrif buyurmoq",
+    "example_sentence": "Tourists visit the island by boat."
+   },
+   {
+    "word": "an island in the Pacific",
+    "translation_uz": "Tinch okeandagi orol",
+    "example_sentence": "Hawaii is an island in the Pacific."
+   },
+   {
+    "word": "go to the beach",
+    "translation_uz": "plyajga bormoq",
+    "example_sentence": "Let's go to the beach tomorrow."
+   },
+   {
+    "word": "lie on the beach",
+    "translation_uz": "plyajda yotmoq",
+    "example_sentence": "She likes to lie on the beach and read."
+   },
+   {
+    "word": "a sandy beach",
+    "translation_uz": "qumli plyaj",
+    "example_sentence": "We found a long sandy beach."
+   },
+   {
+    "word": "walk along the beach",
+    "translation_uz": "plyaj bo'ylab yurmoq",
+    "example_sentence": "We walked along the beach at sunset."
+   },
+   {
+    "word": "a beach towel",
+    "translation_uz": "plyaj sochig'i",
+    "example_sentence": "Don't forget your beach towel."
+   },
+   {
+    "word": "an empty beach",
+    "translation_uz": "bo'sh plyaj",
+    "example_sentence": "In winter the beach is empty."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Let's ___ to the beach after school.",
+    "correct_word": "go",
+    "options": [
+     "go",
+     "write",
+     "cut",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "They live ___ a small island near the coast.",
+    "correct_word": "on",
+    "options": [
+     "at",
+     "on",
+     "of",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy was alone on a ___ island.",
+    "correct_word": "desert",
+    "options": [
+     "busy",
+     "noisy",
+     "desert",
+     "crowded"
+    ]
+   },
+   {
+    "sentence_with_blank": "We lay ___ the beach and watched the clouds.",
+    "correct_word": "on",
+    "options": [
+     "into",
+     "from",
+     "between",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "Take a towel to the ___.",
+    "correct_word": "beach",
+    "options": [
+     "beach",
+     "stairs",
+     "kitchen",
+     "office"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many tourists ___ the island every summer.",
+    "correct_word": "visit",
+    "options": [
+     "wash",
+     "visit",
+     "sew",
+     "hide"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our Island Holiday",
+   "text": "Last summer we went to a small island. We took a boat from the port, and it took one hour. The island has a long sandy beach. Every morning we walked along the beach and looked for shells. In the afternoon I lay on the beach with a book. On the last day the beach was empty, and we felt like we were on a desert island.",
+   "key_words": [
+    {
+     "word": "shell",
+     "translation_uz": "chig'anoq"
+    },
+    {
+     "word": "port",
+     "translation_uz": "port"
+    },
+    {
+     "word": "holiday",
+     "translation_uz": "ta'til"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did the family get to the island?",
+     "options": [
+      "By plane",
+      "By bus",
+      "By boat",
+      "By bike"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did they look for on the beach?",
+     "options": [
+      "Fish",
+      "Towels",
+      "Boats",
+      "Shells"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How was the beach on the last day?",
+     "options": [
+      "Empty",
+      "Crowded",
+      "Rainy",
+      "Dirty"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Beach Day",
+   "script": "Tom and his sister go to the beach on Saturday. They take towels, water and a ball. The beach is sandy and quite long. There is a small island far away in the sea. Tom says, \"One day I will visit that island.\" His sister wants to lie on the beach and sleep.",
+   "questions": [
+    {
+     "question": "What day do they go to the beach?",
+     "options": [
+      "Sunday",
+      "Saturday",
+      "Friday",
+      "Monday"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What can they see far away in the sea?",
+     "options": [
+      "A big ship",
+      "A mountain",
+      "A small island",
+      "A river"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Tom's sister want to do?",
+     "options": [
+      "Visit the island",
+      "Play ball",
+      "Swim far",
+      "Lie on the beach and sleep"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Let's go to the beach.",
+    "It is a small island.",
+    "We walked along the beach."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Beach",
+    "question_text": "Do you like going to the beach?",
+    "hint_words": [
+     "yes",
+     "sand",
+     "sun",
+     "swim"
+    ]
+   },
+   {
+    "topic": "Island",
+    "question_text": "Would you like to live on an island?",
+    "hint_words": [
+     "yes",
+     "no",
+     "quiet",
+     "boat"
+    ]
+   },
+   {
+    "topic": "Holiday",
+    "question_text": "What do you take to the beach?",
+    "hint_words": [
+     "towel",
+     "water",
+     "ball",
+     "hat"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 45,
+  "title": "sand",
+  "vocabulary": [
+   {
+    "word": "golden sand",
+    "translation_uz": "oltin rang qum",
+    "example_sentence": "The beach has soft golden sand."
+   },
+   {
+    "word": "white sand",
+    "translation_uz": "oq qum",
+    "example_sentence": "The island is famous for its white sand."
+   },
+   {
+    "word": "soft sand",
+    "translation_uz": "yumshoq qum",
+    "example_sentence": "The soft sand felt warm under my feet."
+   },
+   {
+    "word": "play in the sand",
+    "translation_uz": "qumda o'ynamoq",
+    "example_sentence": "The kids play in the sand all afternoon."
+   },
+   {
+    "word": "dig in the sand",
+    "translation_uz": "qumni kovlamoq",
+    "example_sentence": "He dug in the sand with a spade."
+   },
+   {
+    "word": "build a sandcastle",
+    "translation_uz": "qum qasri qurmoq",
+    "example_sentence": "We built a sandcastle near the water."
+   },
+   {
+    "word": "walk on the sand",
+    "translation_uz": "qumda yurmoq",
+    "example_sentence": "It is hard to walk on the sand."
+   },
+   {
+    "word": "a grain of sand",
+    "translation_uz": "bir dona qum",
+    "example_sentence": "I have a grain of sand in my shoe."
+   },
+   {
+    "word": "sand dunes",
+    "translation_uz": "qum tepaliklari",
+    "example_sentence": "Camels walk over the sand dunes."
+   },
+   {
+    "word": "sand gets in your shoes",
+    "translation_uz": "qum poyabzalga kirib qoladi",
+    "example_sentence": "Sand gets in your shoes at the beach."
+   },
+   {
+    "word": "a sand storm",
+    "translation_uz": "qum bo'roni",
+    "example_sentence": "A sand storm covered the road."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The children ___ a sandcastle on the beach.",
+    "correct_word": "built",
+    "options": [
+     "built",
+     "drank",
+     "wore",
+     "read"
+    ]
+   },
+   {
+    "sentence_with_blank": "Camels walk slowly across the ___ dunes.",
+    "correct_word": "sand",
+    "options": [
+     "river",
+     "sand",
+     "bus",
+     "tree"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ in the sand with a small spade.",
+    "correct_word": "dug",
+    "options": [
+     "sang",
+     "wrote",
+     "dug",
+     "flew"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a ___ of sand in my eye.",
+    "correct_word": "grain",
+    "options": [
+     "flight",
+     "glass",
+     "page",
+     "grain"
+    ]
+   },
+   {
+    "sentence_with_blank": "The beach has soft golden ___.",
+    "correct_word": "sand",
+    "options": [
+     "sand",
+     "stairs",
+     "gate",
+     "snow"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was hard to walk ___ the sand.",
+    "correct_word": "on",
+    "options": [
+     "with",
+     "on",
+     "for",
+     "to"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Sandcastle",
+   "text": "Lina and Omar went to the beach with a spade and a bucket. The sand was soft and golden, so it was easy to dig. They played in the sand for two hours and built a big sandcastle. Then a wave came and washed it away. Lina found a grain of sand in her shoe and laughed. \"Let's build another one!\" said Omar.",
+   "key_words": [
+    {
+     "word": "bucket",
+     "translation_uz": "chelak"
+    },
+    {
+     "word": "spade",
+     "translation_uz": "belkurak"
+    },
+    {
+     "word": "washed away",
+     "translation_uz": "yuvib ketdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Lina and Omar take to the beach?",
+     "options": [
+      "A ball and a net",
+      "A boat",
+      "A spade and a bucket",
+      "A tent"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened to the sandcastle?",
+     "options": [
+      "The wind broke it",
+      "A dog jumped on it",
+      "Omar left it",
+      "A wave washed it away"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Lina find in her shoe?",
+     "options": [
+      "A grain of sand",
+      "A shell",
+      "A coin",
+      "A stone"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Desert",
+   "script": "Sand dunes cover a large part of the desert. The sand is hot during the day and cold at night. Yesterday a small sand storm began, and the tourists could not see the road. They waited in the bus for one hour. After the storm the sand was soft and golden again.",
+   "questions": [
+    {
+     "question": "What covers a large part of the desert?",
+     "options": [
+      "Rivers",
+      "Sand dunes",
+      "Forests",
+      "Fields"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What could the tourists not see during the storm?",
+     "options": [
+      "The sun",
+      "The bus",
+      "The road",
+      "The sea"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where did the tourists wait?",
+     "options": [
+      "In a tent",
+      "In a hotel",
+      "By a river",
+      "In the bus"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "The sand is soft.",
+    "We built a sandcastle.",
+    "Camels walk on the sand."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sand",
+    "question_text": "Do you like to play in the sand?",
+    "hint_words": [
+     "yes",
+     "build",
+     "beach",
+     "soft"
+    ]
+   },
+   {
+    "topic": "Sand",
+    "question_text": "What colour is sand?",
+    "hint_words": [
+     "golden",
+     "white",
+     "yellow",
+     "brown"
+    ]
+   },
+   {
+    "topic": "Desert",
+    "question_text": "Would you like to visit the desert?",
+    "hint_words": [
+     "yes",
+     "no",
+     "hot",
+     "camel"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 46,
+  "title": "mountain, forest",
+  "vocabulary": [
+   {
+    "word": "climb a mountain",
+    "translation_uz": "tog'ga chiqmoq",
+    "example_sentence": "They climbed a mountain last year."
+   },
+   {
+    "word": "the top of the mountain",
+    "translation_uz": "tog'ning cho'qqisi",
+    "example_sentence": "The top of the mountain is covered with snow."
+   },
+   {
+    "word": "a mountain range",
+    "translation_uz": "tog' tizmasi",
+    "example_sentence": "A high mountain range is in the east."
+   },
+   {
+    "word": "a mountain village",
+    "translation_uz": "tog'li qishloq",
+    "example_sentence": "My grandmother lives in a mountain village."
+   },
+   {
+    "word": "a mountain path",
+    "translation_uz": "tog' yo'li",
+    "example_sentence": "We walked along a narrow mountain path."
+   },
+   {
+    "word": "at the foot of the mountain",
+    "translation_uz": "tog' etagida",
+    "example_sentence": "Our camp was at the foot of the mountain."
+   },
+   {
+    "word": "a thick forest",
+    "translation_uz": "qalin o'rmon",
+    "example_sentence": "The thick forest was dark and quiet."
+   },
+   {
+    "word": "get lost in the forest",
+    "translation_uz": "o'rmonda adashib qolmoq",
+    "example_sentence": "Don't get lost in the forest."
+   },
+   {
+    "word": "walk through the forest",
+    "translation_uz": "o'rmon bo'ylab yurmoq",
+    "example_sentence": "We walked through the forest to the lake."
+   },
+   {
+    "word": "a forest fire",
+    "translation_uz": "o'rmon yong'ini",
+    "example_sentence": "A forest fire destroyed many trees."
+   },
+   {
+    "word": "a rainforest",
+    "translation_uz": "yomg'irli tropik o'rmon",
+    "example_sentence": "Many animals live in the rainforest."
+   },
+   {
+    "word": "a snow-capped mountain",
+    "translation_uz": "qor bilan qoplangan tog'",
+    "example_sentence": "We could see a snow-capped mountain."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "In summer many people ___ the mountain.",
+    "correct_word": "climb",
+    "options": [
+     "climb",
+     "paint",
+     "wash",
+     "bake"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was easy to get ___ in the thick forest.",
+    "correct_word": "lost",
+    "options": [
+     "tall",
+     "lost",
+     "cold",
+     "happy"
+    ]
+   },
+   {
+    "sentence_with_blank": "A small village is at the ___ of the mountain.",
+    "correct_word": "foot",
+    "options": [
+     "hand",
+     "wing",
+     "foot",
+     "page"
+    ]
+   },
+   {
+    "sentence_with_blank": "We walked ___ the forest to find mushrooms.",
+    "correct_word": "through",
+    "options": [
+     "above",
+     "since",
+     "during",
+     "through"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ was so big that nobody could stop the fire.",
+    "correct_word": "forest fire",
+    "options": [
+     "forest fire",
+     "sea wave",
+     "school bus",
+     "picnic"
+    ]
+   },
+   {
+    "sentence_with_blank": "From the top of the ___ we saw the whole valley.",
+    "correct_word": "mountain",
+    "options": [
+     "kitchen",
+     "mountain",
+     "stairs",
+     "fence"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Up the Mountain",
+   "text": "Last weekend our class climbed a mountain. First we walked through a thick forest on a narrow path. The teacher told us, \"Don't get lost, stay together!\" After three hours we reached the top of the mountain. We could see a mountain village far below. The air was cold and fresh, and we ate our sandwiches there.",
+   "key_words": [
+    {
+     "word": "narrow",
+     "translation_uz": "tor"
+    },
+    {
+     "word": "reached",
+     "translation_uz": "yetib bordi"
+    },
+    {
+     "word": "fresh",
+     "translation_uz": "toza"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class do first?",
+     "options": [
+      "Ate sandwiches",
+      "Visited a village",
+      "Walked through a forest",
+      "Took a bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the teacher say?",
+     "options": [
+      "Run to the top",
+      "Eat now",
+      "Go home",
+      "Stay together and don't get lost"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did it take to reach the top?",
+     "options": [
+      "Three hours",
+      "One hour",
+      "Five hours",
+      "Two days"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Forest Fire",
+   "script": "A forest fire started near a mountain village on Monday. The wind was strong, and the fire moved fast through the thick forest. Firefighters came from the city and worked all night. By the morning the fire stopped at the foot of the mountain. The villagers were safe, but many trees were gone.",
+   "questions": [
+    {
+     "question": "When did the fire start?",
+     "options": [
+      "On Friday",
+      "On Monday",
+      "On Sunday",
+      "In the morning of Tuesday"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where did the fire stop?",
+     "options": [
+      "In the village",
+      "At the top",
+      "At the foot of the mountain",
+      "At the river"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How was the weather during the fire?",
+     "options": [
+      "Snowy",
+      "Foggy",
+      "Rainy",
+      "Windy"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We climbed a mountain.",
+    "The forest is thick.",
+    "Don't get lost."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Mountains",
+    "question_text": "Have you ever climbed a mountain?",
+    "hint_words": [
+     "yes",
+     "no",
+     "high",
+     "top"
+    ]
+   },
+   {
+    "topic": "Forest",
+    "question_text": "Would you like to walk through a forest?",
+    "hint_words": [
+     "yes",
+     "trees",
+     "quiet",
+     "animals"
+    ]
+   },
+   {
+    "topic": "Nature",
+    "question_text": "Which do you prefer, mountains or the sea?",
+    "hint_words": [
+     "mountains",
+     "sea",
+     "because",
+     "fresh air"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 47,
+  "title": "field, ground",
+  "vocabulary": [
+   {
+    "word": "a field of wheat",
+    "translation_uz": "bug'doy dalasi",
+    "example_sentence": "A field of wheat looks golden in summer."
+   },
+   {
+    "word": "work in the fields",
+    "translation_uz": "dalada ishlamoq",
+    "example_sentence": "Farmers work in the fields all day."
+   },
+   {
+    "word": "a football field",
+    "translation_uz": "futbol maydoni",
+    "example_sentence": "The boys are on the football field."
+   },
+   {
+    "word": "a field of flowers",
+    "translation_uz": "gullar maydoni",
+    "example_sentence": "We ran through a field of flowers."
+   },
+   {
+    "word": "cross a field",
+    "translation_uz": "dalani kesib o'tmoq",
+    "example_sentence": "The cows cross the field every morning."
+   },
+   {
+    "word": "on the ground",
+    "translation_uz": "yerda",
+    "example_sentence": "The apples are on the ground."
+   },
+   {
+    "word": "sit on the ground",
+    "translation_uz": "yerda o'tirmoq",
+    "example_sentence": "We sat on the ground and had lunch."
+   },
+   {
+    "word": "fall to the ground",
+    "translation_uz": "yerga yiqilmoq",
+    "example_sentence": "The leaves fall to the ground in autumn."
+   },
+   {
+    "word": "under the ground",
+    "translation_uz": "yer ostida",
+    "example_sentence": "Rabbits live under the ground."
+   },
+   {
+    "word": "hard ground",
+    "translation_uz": "qattiq yer",
+    "example_sentence": "The ground was too hard to dig."
+   },
+   {
+    "word": "wet ground",
+    "translation_uz": "nam yer",
+    "example_sentence": "Don't sit on the wet ground."
+   },
+   {
+    "word": "above the ground",
+    "translation_uz": "yer ustida",
+    "example_sentence": "The plane was high above the ground."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The farmer ___ in the fields every day.",
+    "correct_word": "works",
+    "options": [
+     "works",
+     "swims",
+     "sings",
+     "dances"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a big field of ___ behind our house.",
+    "correct_word": "wheat",
+    "options": [
+     "stairs",
+     "wheat",
+     "engines",
+     "tickets"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ripe pears fell ___ the ground.",
+    "correct_word": "to",
+    "options": [
+     "of",
+     "by",
+     "to",
+     "about"
+    ]
+   },
+   {
+    "sentence_with_blank": "We sat ___ the ground because there were no chairs.",
+    "correct_word": "on",
+    "options": [
+     "over",
+     "behind",
+     "till",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boys play football on the ___ field.",
+    "correct_word": "football",
+    "options": [
+     "football",
+     "kitchen",
+     "river",
+     "sandy"
+    ]
+   },
+   {
+    "sentence_with_blank": "Moles live ___ the ground.",
+    "correct_word": "under",
+    "options": [
+     "above",
+     "under",
+     "beside",
+     "across"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day on the Farm",
+   "text": "My uncle has a farm with a big field of wheat. In summer I help him work in the fields. At lunch we sit on the ground under a tree. The ground is dry and warm in July, but after rain it is wet and soft. Behind the farm there is a football field, and my cousins and I play there in the evening.",
+   "key_words": [
+    {
+     "word": "farm",
+     "translation_uz": "ferma"
+    },
+    {
+     "word": "dry",
+     "translation_uz": "quruq"
+    },
+    {
+     "word": "cousin",
+     "translation_uz": "amakivachcha"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the uncle have?",
+     "options": [
+      "A football club",
+      "A forest",
+      "A farm with a field of wheat",
+      "A shop"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where do they sit at lunch?",
+     "options": [
+      "In the kitchen",
+      "On a bus",
+      "On a bridge",
+      "On the ground under a tree"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do the children do in the evening?",
+     "options": [
+      "Play on the football field",
+      "Cut wheat",
+      "Visit the town",
+      "Ride horses"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "After the Storm",
+   "script": "Last night there was a big storm. This morning the ground is wet and soft. Many apples fell to the ground in the garden. Dad walked across the field to check the animals. The children could not play football, because the football field was full of water.",
+   "questions": [
+    {
+     "question": "What is the ground like this morning?",
+     "options": [
+      "Hard and dry",
+      "Wet and soft",
+      "Frozen",
+      "Sandy"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What fell to the ground in the garden?",
+     "options": [
+      "Pears",
+      "Branches only",
+      "Apples",
+      "Stones"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why could the children not play football?",
+     "options": [
+      "They were ill",
+      "It was night",
+      "The ball was lost",
+      "The field was full of water"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "The ground is wet.",
+    "We work in the fields.",
+    "Sit on the ground."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Farm",
+    "question_text": "Have you ever worked in a field?",
+    "hint_words": [
+     "yes",
+     "no",
+     "farm",
+     "help"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "Where do you play football?",
+    "hint_words": [
+     "field",
+     "park",
+     "school",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "What is the ground like after rain?",
+    "hint_words": [
+     "wet",
+     "soft",
+     "muddy",
+     "slippery"
+    ]
+   }
+  ]
+ }
+]

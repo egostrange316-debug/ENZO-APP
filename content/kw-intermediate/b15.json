@@ -1,0 +1,2833 @@
+[
+ {
+  "unit": 114,
+  "title": "head",
+  "vocabulary": [
+   {
+    "word": "shake your head",
+    "translation_uz": "boshini chayqamoq",
+    "example_sentence": "She shook her head when I asked if she was hungry."
+   },
+   {
+    "word": "nod your head",
+    "translation_uz": "bosh irg'amoq",
+    "example_sentence": "He nodded his head to show that he agreed."
+   },
+   {
+    "word": "hit your head",
+    "translation_uz": "boshini urib olmoq",
+    "example_sentence": "Be careful or you will hit your head on the low door."
+   },
+   {
+    "word": "have a headache",
+    "translation_uz": "boshi og'rimoq",
+    "example_sentence": "I have a headache after the long exam."
+   },
+   {
+    "word": "the head of the school",
+    "translation_uz": "maktab direktori",
+    "example_sentence": "The head of the school welcomed the new students."
+   },
+   {
+    "word": "head teacher",
+    "translation_uz": "maktab direktori (bosh o'qituvchi)",
+    "example_sentence": "Our head teacher wrote a letter to all the parents."
+   },
+   {
+    "word": "head for home",
+    "translation_uz": "uyga qarab yo'l olmoq",
+    "example_sentence": "After the match we all headed for home."
+   },
+   {
+    "word": "use your head",
+    "translation_uz": "aqlini ishlatmoq",
+    "example_sentence": "Use your head and think before you answer."
+   },
+   {
+    "word": "from head to foot",
+    "translation_uz": "tepadan tirnoqqacha",
+    "example_sentence": "The boy was covered in mud from head to foot."
+   },
+   {
+    "word": "lose your head",
+    "translation_uz": "o'zini yo'qotib qo'ymoq",
+    "example_sentence": "Don't lose your head if the alarm rings; stay calm."
+   },
+   {
+    "word": "a newspaper headline",
+    "translation_uz": "gazeta sarlavhasi",
+    "example_sentence": "The headline on the front page was about the storm."
+   },
+   {
+    "word": "head over heels in love",
+    "translation_uz": "ustma-ust oshiq bo'lmoq",
+    "example_sentence": "He fell head over heels in love with her."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please don't ___ your head on the shelf above the bed.",
+    "correct_word": "hit",
+    "options": [
+     "hit",
+     "lift",
+     "hold",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "When I asked him to come, he just ___ his head and said no.",
+    "correct_word": "shook",
+    "options": [
+     "shook",
+     "nodded",
+     "raised",
+     "turned"
+    ]
+   },
+   {
+    "sentence_with_blank": "She nodded her head to show she ___ with me.",
+    "correct_word": "agreed",
+    "options": [
+     "agreed",
+     "argued",
+     "disagreed",
+     "refused"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is late, so let's ___ for home.",
+    "correct_word": "head",
+    "options": [
+     "head",
+     "walk",
+     "run",
+     "go"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ of the school gave a short speech at the end.",
+    "correct_word": "head",
+    "options": [
+     "head",
+     "top",
+     "end",
+     "front"
+    ]
+   },
+   {
+    "sentence_with_blank": "Try to ___ your head and solve the problem calmly.",
+    "correct_word": "use",
+    "options": [
+     "use",
+     "take",
+     "make",
+     "do"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Busy Morning",
+   "text": "Last Monday I woke up with a terrible headache. I got out of bed too quickly and hit my head on the shelf. Mum shook her head and gave me some water. At school the head teacher was standing at the gate, and he nodded his head when I said good morning. In class we read a newspaper headline about a new park in our town. After lessons I was tired, so I headed for home and went straight to bed.",
+   "key_words": [
+    {
+     "word": "headache",
+     "translation_uz": "bosh og'rig'i"
+    },
+    {
+     "word": "shelf",
+     "translation_uz": "javon"
+    },
+    {
+     "word": "gate",
+     "translation_uz": "darvoza"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer hit his head on?",
+     "options": [
+      "The door",
+      "The table",
+      "The window",
+      "The shelf"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who was standing at the school gate?",
+     "options": [
+      "The head teacher",
+      "Mum",
+      "A friend",
+      "A police officer"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was the newspaper headline about?",
+     "options": [
+      "A football match",
+      "A new park",
+      "A storm",
+      "A school trip"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "After School",
+   "script": "Anna: You look tired, Tom. Are you OK? Tom: I have a headache. I hit my head on the cupboard in the kitchen this morning. Anna: Oh no! Use your head next time and look where you are going. Tom: I know. The head of the school saw me and shook his head, but he was kind. Anna: Why don't you head for home and rest? Tom: Good idea. I will see you on Friday.",
+   "questions": [
+    {
+     "question": "Where did Tom hit his head?",
+     "options": [
+      "On a cupboard",
+      "On a door",
+      "On a wall",
+      "On a chair"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who shook his head?",
+     "options": [
+      "Anna",
+      "Tom's father",
+      "The head of the school",
+      "A teacher"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Anna advise Tom to do?",
+     "options": [
+      "Go to the doctor",
+      "Call his mum",
+      "Do more homework",
+      "Go home and rest"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I have a headache.",
+    "He shook his head.",
+    "Let's head for home."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Head",
+    "question_text": "Do you ever have a headache? What do you do?",
+    "hint_words": [
+     "sometimes",
+     "water",
+     "rest",
+     "medicine"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Who is the head of your school?",
+    "hint_words": [
+     "head teacher",
+     "name",
+     "kind",
+     "strict"
+    ]
+   },
+   {
+    "topic": "Habits",
+    "question_text": "When do you shake or nod your head?",
+    "hint_words": [
+     "yes",
+     "no",
+     "agree",
+     "disagree"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 115,
+  "title": "hand",
+  "vocabulary": [
+   {
+    "word": "shake hands",
+    "translation_uz": "qo'l berib ko'rishmoq",
+    "example_sentence": "The two captains shook hands before the match."
+   },
+   {
+    "word": "hold hands",
+    "translation_uz": "qo'l ushlashmoq",
+    "example_sentence": "The children held hands as they crossed the road."
+   },
+   {
+    "word": "raise your hand",
+    "translation_uz": "qo'l ko'tarmoq",
+    "example_sentence": "Raise your hand if you know the answer."
+   },
+   {
+    "word": "wave your hand",
+    "translation_uz": "qo'l silkimoq",
+    "example_sentence": "She waved her hand from the window of the train."
+   },
+   {
+    "word": "give someone a hand",
+    "translation_uz": "birovga yordam bermoq",
+    "example_sentence": "Can you give me a hand with these bags?"
+   },
+   {
+    "word": "by hand",
+    "translation_uz": "qo'lda",
+    "example_sentence": "This carpet was made by hand."
+   },
+   {
+    "word": "hand in hand",
+    "translation_uz": "qo'l ushlashib",
+    "example_sentence": "The old couple walked hand in hand along the river."
+   },
+   {
+    "word": "in your hand",
+    "translation_uz": "qo'lingizda",
+    "example_sentence": "He had a map in his hand."
+   },
+   {
+    "word": "on the one hand ... on the other hand",
+    "translation_uz": "bir tomondan ... ikkinchi tomondan",
+    "example_sentence": "On the one hand it is cheap; on the other hand it is far away."
+   },
+   {
+    "word": "hand something to someone",
+    "translation_uz": "biror narsani birovga uzatmoq",
+    "example_sentence": "Please hand the pen to your neighbour."
+   },
+   {
+    "word": "hand in your homework",
+    "translation_uz": "uy vazifasini topshirmoq",
+    "example_sentence": "You must hand in your homework by Friday."
+   },
+   {
+    "word": "a handful of",
+    "translation_uz": "bir hovuch",
+    "example_sentence": "Only a handful of students came to the club."
+   },
+   {
+    "word": "get out of hand",
+    "translation_uz": "nazoratdan chiqib ketmoq",
+    "example_sentence": "The party got out of hand and the neighbours complained."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The players ___ hands before the game started.",
+    "correct_word": "shook",
+    "options": [
+     "shook",
+     "gave",
+     "took",
+     "held"
+    ]
+   },
+   {
+    "sentence_with_blank": "Could you give me a ___ with this heavy box?",
+    "correct_word": "hand",
+    "options": [
+     "hand",
+     "arm",
+     "finger",
+     "help"
+    ]
+   },
+   {
+    "sentence_with_blank": "She wrote the whole letter ___ hand.",
+    "correct_word": "by",
+    "options": [
+     "by",
+     "with",
+     "in",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ your hand if you want to ask a question.",
+    "correct_word": "raise",
+    "options": [
+     "raise",
+     "rise",
+     "lift up",
+     "push"
+    ]
+   },
+   {
+    "sentence_with_blank": "You must hand ___ your homework before lunch.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "On the one hand I love pizza; on the other ___ it is not healthy.",
+    "correct_word": "hand",
+    "options": [
+     "hand",
+     "side",
+     "way",
+     "part"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Craft Fair",
+   "text": "Last Saturday my sister and I went to a craft fair in the town hall. Everything there was made by hand: bags, candles and little wooden toys. A woman held a small bird in her hand and showed us how she carved it. On the one hand, the prices were a bit high, but on the other hand, the work was beautiful. A man gave us a hand when we dropped our shopping, and we shook hands to say thank you. Only a handful of people were there early, so we had time to look at everything.",
+   "key_words": [
+    {
+     "word": "craft fair",
+     "translation_uz": "hunarmandchilik yarmarkasi"
+    },
+    {
+     "word": "carve",
+     "translation_uz": "o'ymakorlik qilmoq"
+    },
+    {
+     "word": "candle",
+     "translation_uz": "sham"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where was the fair?",
+     "options": [
+      "In a school",
+      "In the town hall",
+      "In a park",
+      "In a market"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the woman show them?",
+     "options": [
+      "How she painted a plate",
+      "How she made a candle",
+      "How she carved a bird",
+      "How she sewed a bag"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did they shake hands with the man?",
+     "options": [
+      "He sold them a toy",
+      "He gave them a hand with their shopping",
+      "He was their teacher",
+      "He won a prize"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Homework Reminder",
+   "script": "Teacher: Good morning, everyone. Please hand in your homework now. Who has not finished? Raise your hand. Boy: I did most of it, but my printer broke. I wrote the last page by hand. Teacher: That is fine, Bekzod. Can you give Maria a hand with the posters after lunch? Boy: Of course. Only a handful of us have finished the posters, so we need more help. Teacher: Thank you. See you at one o'clock.",
+   "questions": [
+    {
+     "question": "Why did the boy write a page by hand?",
+     "options": [
+      "He lost his pen",
+      "He liked it",
+      "His printer broke",
+      "He had no paper"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the teacher ask the boy to do after lunch?",
+     "options": [
+      "Help Maria with the posters",
+      "Clean the room",
+      "Write a report",
+      "Go home"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How many students have finished the posters?",
+     "options": [
+      "Everyone",
+      "None",
+      "Half of the class",
+      "Only a few"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Raise your hand, please.",
+    "Hand in your homework.",
+    "Can you give me a hand?"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Helping",
+    "question_text": "When did you last give someone a hand?",
+    "hint_words": [
+     "helped",
+     "friend",
+     "bags",
+     "homework"
+    ]
+   },
+   {
+    "topic": "Greetings",
+    "question_text": "When do people shake hands in your country?",
+    "hint_words": [
+     "meet",
+     "new people",
+     "friends",
+     "polite"
+    ]
+   },
+   {
+    "topic": "Making things",
+    "question_text": "What do you like to make by hand?",
+    "hint_words": [
+     "cook",
+     "draw",
+     "toys",
+     "gift"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 116,
+  "title": "heart",
+  "vocabulary": [
+   {
+    "word": "have a good heart",
+    "translation_uz": "mehribon qalbli bo'lmoq",
+    "example_sentence": "My grandfather has a good heart and helps everyone."
+   },
+   {
+    "word": "a kind heart",
+    "translation_uz": "mehribon yurak",
+    "example_sentence": "She is a girl with a kind heart."
+   },
+   {
+    "word": "a heart attack",
+    "translation_uz": "yurak xuruji",
+    "example_sentence": "A heart attack is a serious medical problem."
+   },
+   {
+    "word": "your heart beats",
+    "translation_uz": "yuragi urmoq",
+    "example_sentence": "My heart beats fast when I run."
+   },
+   {
+    "word": "heart disease",
+    "translation_uz": "yurak kasalligi",
+    "example_sentence": "Exercise can help prevent heart disease."
+   },
+   {
+    "word": "learn by heart",
+    "translation_uz": "yodlab olmoq",
+    "example_sentence": "We had to learn the poem by heart."
+   },
+   {
+    "word": "know by heart",
+    "translation_uz": "yoddan bilmoq",
+    "example_sentence": "She knows all the words of the song by heart."
+   },
+   {
+    "word": "from the bottom of my heart",
+    "translation_uz": "chin yurakdan",
+    "example_sentence": "Thank you from the bottom of my heart."
+   },
+   {
+    "word": "break someone's heart",
+    "translation_uz": "birovning yuragini ranjitmoq",
+    "example_sentence": "The sad news broke her heart."
+   },
+   {
+    "word": "lose heart",
+    "translation_uz": "ruhan tushmoq",
+    "example_sentence": "Don't lose heart if you fail the first time."
+   },
+   {
+    "word": "take something to heart",
+    "translation_uz": "yurakka olmoq",
+    "example_sentence": "Don't take his words to heart; he was joking."
+   },
+   {
+    "word": "at heart",
+    "translation_uz": "aslida, ichida",
+    "example_sentence": "He looks serious, but he is a kind boy at heart."
+   },
+   {
+    "word": "heartbroken",
+    "translation_uz": "yuragi vayron bo'lgan",
+    "example_sentence": "She was heartbroken when her cat ran away."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We have to learn this poem by ___ for tomorrow.",
+    "correct_word": "heart",
+    "options": [
+     "heart",
+     "mind",
+     "head",
+     "memory"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the long run, my heart was ___ very fast.",
+    "correct_word": "beating",
+    "options": [
+     "beating",
+     "running",
+     "moving",
+     "shaking"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't lose ___; you can try again next week.",
+    "correct_word": "heart",
+    "options": [
+     "heart",
+     "mind",
+     "face",
+     "sleep"
+    ]
+   },
+   {
+    "sentence_with_blank": "He looks strict, but he is very kind at ___.",
+    "correct_word": "heart",
+    "options": [
+     "heart",
+     "home",
+     "last",
+     "least"
+    ]
+   },
+   {
+    "sentence_with_blank": "Thank you from the bottom of my ___ for your help.",
+    "correct_word": "heart",
+    "options": [
+     "heart",
+     "chest",
+     "body",
+     "hand"
+    ]
+   },
+   {
+    "sentence_with_blank": "Doctors say a healthy diet helps to prevent heart ___.",
+    "correct_word": "disease",
+    "options": [
+     "disease",
+     "ill",
+     "sick",
+     "illness"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Concert",
+   "text": "Dilnoza was nervous before the school concert. She had learned her song by heart, but her heart was beating very fast. Her teacher, Mrs Rose, has a kind heart and she smiled at her. \"Don't lose heart,\" she said. \"You know the words by heart.\" Dilnoza sang well, and everyone clapped. After the concert she thanked her teacher from the bottom of her heart. At heart, she was still a little shy, but she felt very proud.",
+   "key_words": [
+    {
+     "word": "nervous",
+     "translation_uz": "asabiylashgan"
+    },
+    {
+     "word": "clap",
+     "translation_uz": "qarsak chalmoq"
+    },
+    {
+     "word": "proud",
+     "translation_uz": "faxrlangan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did Dilnoza feel before the concert?",
+     "options": [
+      "Angry",
+      "Bored",
+      "Nervous",
+      "Sleepy"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Mrs Rose say?",
+     "options": [
+      "Sing louder",
+      "Don't lose heart",
+      "Go home",
+      "Stop singing"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Dilnoza do after the concert?",
+     "options": [
+      "Cried",
+      "Left early",
+      "Sang again",
+      "Thanked her teacher"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talk with Grandad",
+   "script": "Girl: Grandad, you know so many old songs by heart! Grandad: Yes, I learned them as a boy. My heart still beats faster when I hear them. Girl: Did the doctor say your heart is OK? Grandad: Yes, he said I have no heart disease, because I walk every day. Girl: That is good news. You have a kind heart, Grandad, and I love you from the bottom of my heart. Grandad: Thank you, my dear.",
+   "questions": [
+    {
+     "question": "How did Grandad learn the songs?",
+     "options": [
+      "From a book",
+      "As a boy",
+      "From the radio",
+      "From a teacher"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why does Grandad have no heart disease?",
+     "options": [
+      "He takes medicine",
+      "He sleeps a lot",
+      "He walks every day",
+      "He eats fish"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the girl say about her grandfather?",
+     "options": [
+      "He is strict",
+      "He is funny",
+      "He is young",
+      "He has a kind heart"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I know it by heart.",
+    "Don't lose heart.",
+    "He has a kind heart."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Learning",
+    "question_text": "What have you learned by heart?",
+    "hint_words": [
+     "poem",
+     "song",
+     "words",
+     "easy"
+    ]
+   },
+   {
+    "topic": "Feelings",
+    "question_text": "What makes your heart beat fast?",
+    "hint_words": [
+     "running",
+     "exam",
+     "scary",
+     "excited"
+    ]
+   },
+   {
+    "topic": "People",
+    "question_text": "Who do you know with a kind heart?",
+    "hint_words": [
+     "friend",
+     "mother",
+     "helps",
+     "kind"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 117,
+  "title": "eye",
+  "vocabulary": [
+   {
+    "word": "close your eyes",
+    "translation_uz": "ko'zini yummoq",
+    "example_sentence": "Close your eyes and make a wish."
+   },
+   {
+    "word": "open your eyes",
+    "translation_uz": "ko'zini ochmoq",
+    "example_sentence": "The baby opened her eyes and smiled."
+   },
+   {
+    "word": "keep an eye on",
+    "translation_uz": "ko'z-quloq bo'lmoq",
+    "example_sentence": "Can you keep an eye on my bag?"
+   },
+   {
+    "word": "catch someone's eye",
+    "translation_uz": "e'tiborini tortmoq",
+    "example_sentence": "A red dress in the window caught my eye."
+   },
+   {
+    "word": "have good eyes",
+    "translation_uz": "ko'zi o'tkir bo'lmoq",
+    "example_sentence": "My grandmother still has good eyes."
+   },
+   {
+    "word": "have brown eyes",
+    "translation_uz": "qo'ng'ir ko'zli bo'lmoq",
+    "example_sentence": "My brother has brown eyes like our father."
+   },
+   {
+    "word": "rub your eyes",
+    "translation_uz": "ko'zini ishqalamoq",
+    "example_sentence": "He rubbed his eyes because he was sleepy."
+   },
+   {
+    "word": "in the eyes of",
+    "translation_uz": "...ning nazarida",
+    "example_sentence": "In the eyes of a child, the zoo is a magical place."
+   },
+   {
+    "word": "see eye to eye",
+    "translation_uz": "bir fikrda bo'lmoq",
+    "example_sentence": "My parents don't always see eye to eye about money."
+   },
+   {
+    "word": "with your own eyes",
+    "translation_uz": "o'z ko'zi bilan",
+    "example_sentence": "I saw the accident with my own eyes."
+   },
+   {
+    "word": "an eye test",
+    "translation_uz": "ko'z tekshiruvi",
+    "example_sentence": "I have an eye test next week."
+   },
+   {
+    "word": "eye contact",
+    "translation_uz": "ko'z bilan aloqa",
+    "example_sentence": "Try to make eye contact when you speak."
+   },
+   {
+    "word": "in the blink of an eye",
+    "translation_uz": "ko'z ochib yumguncha",
+    "example_sentence": "The cat jumped over the wall in the blink of an eye."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can you keep an ___ on my little brother for a minute?",
+    "correct_word": "eye",
+    "options": [
+     "eye",
+     "ear",
+     "hand",
+     "arm"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bright poster ___ my eye as I walked past.",
+    "correct_word": "caught",
+    "options": [
+     "caught",
+     "hit",
+     "took",
+     "got"
+    ]
+   },
+   {
+    "sentence_with_blank": "I saw the rainbow with my own ___.",
+    "correct_word": "eyes",
+    "options": [
+     "eyes",
+     "looks",
+     "sights",
+     "views"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister and I never see eye to ___ about music.",
+    "correct_word": "eye",
+    "options": [
+     "eye",
+     "face",
+     "ear",
+     "mind"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy rubbed his eyes and slowly ___ them.",
+    "correct_word": "opened",
+    "options": [
+     "opened",
+     "broke",
+     "filled",
+     "turned"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is polite to make eye ___ when you talk to people.",
+    "correct_word": "contact",
+    "options": [
+     "contact",
+     "touch",
+     "meeting",
+     "link"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Trip to the Eye Doctor",
+   "text": "Last week I had an eye test because I could not read the board at school. The doctor asked me to close my eyes for a moment and then to open them wide. She said I do not have very good eyes, so I need glasses. At the shop, a pair of green glasses caught my eye. My mother and I did not see eye to eye, because she liked the black ones. In the end we chose the green ones. I put them on and could see every leaf on the tree outside in the blink of an eye.",
+   "key_words": [
+    {
+     "word": "glasses",
+     "translation_uz": "ko'zoynak"
+    },
+    {
+     "word": "board",
+     "translation_uz": "doska"
+    },
+    {
+     "word": "leaf",
+     "translation_uz": "barg"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer go to the doctor?",
+     "options": [
+      "He had a headache",
+      "He could not read the board",
+      "He lost his glasses",
+      "He hurt his eye"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Which glasses caught his eye?",
+     "options": [
+      "Black ones",
+      "Blue ones",
+      "Red ones",
+      "Green ones"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did he see with the new glasses?",
+     "options": [
+      "Every leaf on a tree",
+      "A bird",
+      "A car",
+      "His mother's face"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Zoo",
+   "script": "Guide: Please keep an eye on your children near the lions. Tourist: Thank you. Look, Sara! Close your eyes... now open them! Girl: Wow! A baby elephant! Tourist: Yes, I saw it with my own eyes this morning and it caught my eye at once. Guide: In the eyes of a child, it is the best animal in the zoo. Girl: Dad, can we stay all day? Tourist: We will see. Let's visit the monkeys first.",
+   "questions": [
+    {
+     "question": "What does the guide ask the visitors to do?",
+     "options": [
+      "Feed the lions",
+      "Buy tickets",
+      "Keep an eye on their children",
+      "Take photos"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What animal does the girl see?",
+     "options": [
+      "A lion",
+      "A baby elephant",
+      "A monkey",
+      "A tiger"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where will they go first?",
+     "options": [
+      "To the cafe",
+      "To the lions",
+      "To the elephants",
+      "To the monkeys"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Close your eyes now.",
+    "She has green eyes.",
+    "Keep an eye on him."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Looks",
+    "question_text": "What colour are your eyes?",
+    "hint_words": [
+     "brown",
+     "blue",
+     "green",
+     "black"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Do you wear glasses? Why or why not?",
+    "hint_words": [
+     "glasses",
+     "read",
+     "see",
+     "good eyes"
+    ]
+   },
+   {
+    "topic": "Disagreeing",
+    "question_text": "Who do you not always see eye to eye with?",
+    "hint_words": [
+     "brother",
+     "friend",
+     "parents",
+     "music"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 118,
+  "title": "sight",
+  "vocabulary": [
+   {
+    "word": "lose your sight",
+    "translation_uz": "ko'rish qobiliyatini yo'qotmoq",
+    "example_sentence": "Some people lose their sight as they get older."
+   },
+   {
+    "word": "good sight",
+    "translation_uz": "yaxshi ko'rish",
+    "example_sentence": "Eagles have very good sight."
+   },
+   {
+    "word": "poor sight",
+    "translation_uz": "yomon ko'rish",
+    "example_sentence": "My grandfather has poor sight, so he wears thick glasses."
+   },
+   {
+    "word": "have good eyesight",
+    "translation_uz": "ko'zi o'tkir bo'lmoq",
+    "example_sentence": "You need good eyesight to be a pilot."
+   },
+   {
+    "word": "catch sight of",
+    "translation_uz": "ko'zi tushib qolmoq",
+    "example_sentence": "I caught sight of a fox in the garden."
+   },
+   {
+    "word": "lose sight of",
+    "translation_uz": "ko'zdan yo'qotmoq",
+    "example_sentence": "Don't lose sight of your little sister in the crowd."
+   },
+   {
+    "word": "at first sight",
+    "translation_uz": "birinchi qarashdayoq",
+    "example_sentence": "It was love at first sight."
+   },
+   {
+    "word": "come into sight",
+    "translation_uz": "ko'rinib qolmoq",
+    "example_sentence": "The ship slowly came into sight."
+   },
+   {
+    "word": "out of sight",
+    "translation_uz": "ko'zdan g'oyib",
+    "example_sentence": "The balloon rose until it was out of sight."
+   },
+   {
+    "word": "in sight",
+    "translation_uz": "ko'rinadigan joyda",
+    "example_sentence": "There was no shop in sight."
+   },
+   {
+    "word": "a beautiful sight",
+    "translation_uz": "go'zal manzara",
+    "example_sentence": "The mountains in spring are a beautiful sight."
+   },
+   {
+    "word": "the sights of a city",
+    "translation_uz": "shahar diqqatga sazovor joylari",
+    "example_sentence": "We spent a day seeing the sights of Samarkand."
+   },
+   {
+    "word": "a sight for sore eyes",
+    "translation_uz": "ko'rishga quvonarli narsa",
+    "example_sentence": "After the long journey, our house was a sight for sore eyes."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "After the accident, he began to ___ his sight slowly.",
+    "correct_word": "lose",
+    "options": [
+     "lose",
+     "miss",
+     "drop",
+     "leave"
+    ]
+   },
+   {
+    "sentence_with_blank": "I caught ___ of my friend across the street.",
+    "correct_word": "sight",
+    "options": [
+     "sight",
+     "look",
+     "view",
+     "watch"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bird flew up and was soon out of ___.",
+    "correct_word": "sight",
+    "options": [
+     "sight",
+     "eye",
+     "view point",
+     "look"
+    ]
+   },
+   {
+    "sentence_with_blank": "Their eyes met and it was love at first ___.",
+    "correct_word": "sight",
+    "options": [
+     "sight",
+     "look",
+     "time",
+     "view"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was no hotel in ___ when we got off the bus.",
+    "correct_word": "sight",
+    "options": [
+     "sight",
+     "eyes",
+     "looking",
+     "watch"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tourists come to see the ___ of the old city.",
+    "correct_word": "sights",
+    "options": [
+     "sights",
+     "views",
+     "looks",
+     "seeings"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Lost in the Crowd",
+   "text": "At the fair, Ali was holding his little brother's hand when a clown walked past. For a moment the boy looked away, and he lost sight of his brother. There were people everywhere, and no police officer was in sight. Then he caught sight of a red balloon in the sky. His brother was holding it! Ali ran towards it. At first sight, the boy looked happy, but then he began to cry. Ali hugged him. It was a sight for sore eyes.",
+   "key_words": [
+    {
+     "word": "clown",
+     "translation_uz": "masxaraboz"
+    },
+    {
+     "word": "balloon",
+     "translation_uz": "shar"
+    },
+    {
+     "word": "hug",
+     "translation_uz": "quchoqlamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who did Ali lose sight of?",
+     "options": [
+      "His friend",
+      "His brother",
+      "His mother",
+      "His teacher"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Ali catch sight of?",
+     "options": [
+      "A red balloon",
+      "A clown",
+      "A policeman",
+      "A shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the little boy do at the end?",
+     "options": [
+      "Ran away",
+      "Bought a toy",
+      "Went home",
+      "Began to cry"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Boat Trip",
+   "script": "Guide: Look at the sea! In a minute the island will come into sight. Tourist: What a beautiful sight! Guide: Yes. Have you got good eyesight? Sometimes you can catch sight of dolphins. Tourist: My sight is not very good, I need my glasses. Guide: Keep them on! Don't lose sight of the water. Tourist: There is nothing in sight yet. Guide: Wait a little. The island is a sight for sore eyes after a long journey.",
+   "questions": [
+    {
+     "question": "What will come into sight soon?",
+     "options": [
+      "A ship",
+      "The island",
+      "A beach",
+      "Dolphins"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the tourist need?",
+     "options": [
+      "A camera",
+      "A hat",
+      "His glasses",
+      "A map"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why is the island a sight for sore eyes?",
+     "options": [
+      "It is small",
+      "It is very old",
+      "It is cold",
+      "The journey was long"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "The ship came into sight.",
+    "He has poor sight.",
+    "It was a beautiful sight."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sights",
+    "question_text": "What sights would you show a visitor in your city?",
+    "hint_words": [
+     "museum",
+     "park",
+     "old",
+     "market"
+    ]
+   },
+   {
+    "topic": "Eyesight",
+    "question_text": "Do you have good eyesight?",
+    "hint_words": [
+     "glasses",
+     "read",
+     "far",
+     "near"
+    ]
+   },
+   {
+    "topic": "Memories",
+    "question_text": "Tell about something that was a beautiful sight.",
+    "hint_words": [
+     "sunset",
+     "mountains",
+     "sea",
+     "snow"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 119,
+  "title": "view",
+  "vocabulary": [
+   {
+    "word": "a beautiful view",
+    "translation_uz": "go'zal manzara",
+    "example_sentence": "The hotel room has a beautiful view of the lake."
+   },
+   {
+    "word": "a view of the sea",
+    "translation_uz": "dengiz manzarasi",
+    "example_sentence": "We had a view of the sea from our balcony."
+   },
+   {
+    "word": "a room with a view",
+    "translation_uz": "manzarali xona",
+    "example_sentence": "We asked for a room with a view."
+   },
+   {
+    "word": "admire the view",
+    "translation_uz": "manzaraga mahliyo bo'lmoq",
+    "example_sentence": "We stopped to admire the view from the top of the hill."
+   },
+   {
+    "word": "enjoy the view",
+    "translation_uz": "manzaradan zavqlanmoq",
+    "example_sentence": "Sit down and enjoy the view."
+   },
+   {
+    "word": "block the view",
+    "translation_uz": "ko'rinishni to'smoq",
+    "example_sentence": "Please move; your hat blocks my view."
+   },
+   {
+    "word": "come into view",
+    "translation_uz": "ko'rinib qolmoq",
+    "example_sentence": "The castle came into view after the bend."
+   },
+   {
+    "word": "in view of",
+    "translation_uz": "...ni hisobga olib",
+    "example_sentence": "In view of the bad weather, the trip was cancelled."
+   },
+   {
+    "word": "my point of view",
+    "translation_uz": "mening nuqtai nazarim",
+    "example_sentence": "From my point of view, homework is useful."
+   },
+   {
+    "word": "in my view",
+    "translation_uz": "mening fikrimcha",
+    "example_sentence": "In my view, this film is too long."
+   },
+   {
+    "word": "share someone's view",
+    "translation_uz": "birovning fikriga qo'shilmoq",
+    "example_sentence": "I share your view about the new rules."
+   },
+   {
+    "word": "express a view",
+    "translation_uz": "fikr bildirmoq",
+    "example_sentence": "Everyone can express a view in our class."
+   },
+   {
+    "word": "a different view",
+    "translation_uz": "boshqacha qarash",
+    "example_sentence": "My sister has a different view of the problem."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Our hotel room has a lovely ___ of the mountains.",
+    "correct_word": "view",
+    "options": [
+     "view",
+     "look",
+     "sight",
+     "show"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please sit down; you are ___ my view of the stage.",
+    "correct_word": "blocking",
+    "options": [
+     "blocking",
+     "closing",
+     "covering up",
+     "stopping"
+    ]
+   },
+   {
+    "sentence_with_blank": "In my ___, English is easier than maths.",
+    "correct_word": "view",
+    "options": [
+     "view",
+     "sight",
+     "eye",
+     "watch"
+    ]
+   },
+   {
+    "sentence_with_blank": "In ___ of the heavy rain, the match was moved indoors.",
+    "correct_word": "view",
+    "options": [
+     "view",
+     "sight",
+     "front",
+     "look"
+    ]
+   },
+   {
+    "sentence_with_blank": "We stood at the top and ___ the view for a long time.",
+    "correct_word": "admired",
+    "options": [
+     "admired",
+     "watched out",
+     "looked",
+     "saw"
+    ]
+   },
+   {
+    "sentence_with_blank": "Everyone in the class can ___ a view about the topic.",
+    "correct_word": "express",
+    "options": [
+     "express",
+     "say",
+     "tell",
+     "speak"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Top of the Hill",
+   "text": "On Sunday we climbed a hill near our village. The path was steep, and in view of the heat, we took many breaks. At the top the clouds moved away and a beautiful view of the valley came into view. We admired the view for a long time. Dad said that, in his view, it was the best place in the country. I did not share his view completely, because I love the sea more. But I agreed that it was a good place to enjoy the view and eat our sandwiches.",
+   "key_words": [
+    {
+     "word": "steep",
+     "translation_uz": "tik"
+    },
+    {
+     "word": "valley",
+     "translation_uz": "vodiy"
+    },
+    {
+     "word": "path",
+     "translation_uz": "yo'l (so'qmoq)"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did they go on Sunday?",
+     "options": [
+      "To the sea",
+      "To a lake",
+      "To a village shop",
+      "To a hill"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did they take many breaks?",
+     "options": [
+      "Because of the heat",
+      "Because of the rain",
+      "Because of the wind",
+      "Because of the snow"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer love more than the hill?",
+     "options": [
+      "The forest",
+      "The desert",
+      "The sea",
+      "The city"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing a Room",
+   "script": "Receptionist: Good evening. Your room is on the fifth floor. Guest: Does it have a view? Receptionist: Yes, a room with a view of the park. Guest: Wonderful! My wife wants to enjoy the view in the morning. Receptionist: In view of the nice weather, breakfast is served on the terrace. Guest: Lovely. From my point of view, a good view is more important than a big room. Receptionist: I agree with you completely.",
+   "questions": [
+    {
+     "question": "Which floor is the room on?",
+     "options": [
+      "The second",
+      "The third",
+      "The fourth",
+      "The fifth"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What can the guest see from the room?",
+     "options": [
+      "A river",
+      "A park",
+      "The sea",
+      "A street"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is breakfast served?",
+     "options": [
+      "In the room",
+      "On the terrace",
+      "In the garden",
+      "In the lobby"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We admired the view.",
+    "What a beautiful view!",
+    "In my view, it's good."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Views",
+    "question_text": "What is the best view in your town?",
+    "hint_words": [
+     "hill",
+     "river",
+     "park",
+     "city"
+    ]
+   },
+   {
+    "topic": "Opinion",
+    "question_text": "What is your point of view on homework?",
+    "hint_words": [
+     "useful",
+     "too much",
+     "tired",
+     "learn"
+    ]
+   },
+   {
+    "topic": "Travel",
+    "question_text": "Do you prefer a room with a view or a cheap room?",
+    "hint_words": [
+     "view",
+     "price",
+     "sea",
+     "comfortable"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 120,
+  "title": "smell",
+  "vocabulary": [
+   {
+    "word": "a nice smell",
+    "translation_uz": "yoqimli hid",
+    "example_sentence": "There is a nice smell in the kitchen."
+   },
+   {
+    "word": "a bad smell",
+    "translation_uz": "yomon hid",
+    "example_sentence": "A bad smell came from the old fridge."
+   },
+   {
+    "word": "a strong smell",
+    "translation_uz": "o'tkir hid",
+    "example_sentence": "Onions have a strong smell."
+   },
+   {
+    "word": "smell of something",
+    "translation_uz": "...ning hidi kelmoq",
+    "example_sentence": "The room smells of paint."
+   },
+   {
+    "word": "smell like",
+    "translation_uz": "...ga o'xshab hid kelmoq",
+    "example_sentence": "This soap smells like roses."
+   },
+   {
+    "word": "smell good",
+    "translation_uz": "yaxshi hid kelmoq",
+    "example_sentence": "Your perfume smells good."
+   },
+   {
+    "word": "smell awful",
+    "translation_uz": "jirkanch hid kelmoq",
+    "example_sentence": "The rubbish bin smells awful."
+   },
+   {
+    "word": "the smell of fresh bread",
+    "translation_uz": "yangi non hidi",
+    "example_sentence": "I love the smell of fresh bread in the morning."
+   },
+   {
+    "word": "a sense of smell",
+    "translation_uz": "hid bilish sezgisi",
+    "example_sentence": "Dogs have a very good sense of smell."
+   },
+   {
+    "word": "lose your sense of smell",
+    "translation_uz": "hid bilishni yo'qotmoq",
+    "example_sentence": "When I had a cold, I lost my sense of smell."
+   },
+   {
+    "word": "notice a smell",
+    "translation_uz": "hidni sezmoq",
+    "example_sentence": "Did you notice a smell of gas?"
+   },
+   {
+    "word": "smell a rat",
+    "translation_uz": "shubhalanmoq",
+    "example_sentence": "When he told two different stories, I began to smell a rat."
+   },
+   {
+    "word": "a smelly sock",
+    "translation_uz": "badbo'y paypoq",
+    "example_sentence": "Take your smelly socks out of the bag."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The kitchen ___ of fresh bread every morning.",
+    "correct_word": "smells",
+    "options": [
+     "smells",
+     "feels",
+     "tastes",
+     "sounds"
+    ]
+   },
+   {
+    "sentence_with_blank": "This flower ___ like lemons.",
+    "correct_word": "smells",
+    "options": [
+     "smells",
+     "looks",
+     "smiles",
+     "hears"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dogs have a very good sense of ___.",
+    "correct_word": "smell",
+    "options": [
+     "smell",
+     "smelling",
+     "nose",
+     "scent"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a strong ___ of smoke in the house.",
+    "correct_word": "smell",
+    "options": [
+     "smell",
+     "taste",
+     "noise",
+     "touch"
+    ]
+   },
+   {
+    "sentence_with_blank": "The burnt toast gave off a bad ___ in the kitchen.",
+    "correct_word": "smell",
+    "options": [
+     "smell",
+     "taste",
+     "noise",
+     "touch"
+    ]
+   },
+   {
+    "sentence_with_blank": "She began to smell a ___ when he changed his story.",
+    "correct_word": "rat",
+    "options": [
+     "rat",
+     "mouse",
+     "fish",
+     "cat"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Grandma's Kitchen",
+   "text": "I love my grandmother's kitchen. When I open the door, there is always a nice smell of fresh bread. Today the room smelled of apples and cinnamon too. Grandma says that I have a good sense of smell, like our dog. But last week I had a cold and lost my sense of smell for two days. Everything smelled of nothing! Now I can enjoy the strong smell of her tea again. Only the smelly socks of my brother smell awful, and Grandma opens the window.",
+   "key_words": [
+    {
+     "word": "cinnamon",
+     "translation_uz": "doljin"
+    },
+    {
+     "word": "cold",
+     "translation_uz": "shamollash"
+    },
+    {
+     "word": "tea",
+     "translation_uz": "choy"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the kitchen smell of every day?",
+     "options": [
+      "Fresh bread",
+      "Fish",
+      "Tea",
+      "Soup"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened last week?",
+     "options": [
+      "The dog was ill",
+      "Grandma went away",
+      "The writer had a cold",
+      "The kitchen was painted"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What smells awful?",
+     "options": [
+      "The tea",
+      "The apples",
+      "The dog",
+      "The brother's socks"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Strange Smell",
+   "script": "Mum: What is that smell? Boy: I don't know. It smells like burning toast. Mum: No, it smells of gas! Don't touch anything. Boy: Shall I open the window? Mum: Yes, please. You have a better sense of smell than me. Boy: Wait, it's only the old cheese in the fridge. It smells awful! Mum: Oh dear. Throw it away, please. Boy: With pleasure. I will also clean the shelf.",
+   "questions": [
+    {
+     "question": "What does the boy first think the smell is?",
+     "options": [
+      "Burning toast",
+      "Gas",
+      "Fish",
+      "Smoke"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the real cause of the smell?",
+     "options": [
+      "A cake",
+      "The rubbish bin",
+      "An old cheese",
+      "Dirty socks"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will the boy do?",
+     "options": [
+      "Call Dad",
+      "Throw the cheese away",
+      "Go out",
+      "Cook dinner"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "It smells like roses.",
+    "What a nice smell!",
+    "The fish smells awful."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Food",
+    "question_text": "What food has a nice smell for you?",
+    "hint_words": [
+     "bread",
+     "cake",
+     "coffee",
+     "rice"
+    ]
+   },
+   {
+    "topic": "Senses",
+    "question_text": "Is your sense of smell good?",
+    "hint_words": [
+     "yes",
+     "no",
+     "dog",
+     "nose"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "What does your house smell of?",
+    "hint_words": [
+     "food",
+     "flowers",
+     "clean",
+     "paint"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 121,
+  "title": "taste",
+  "vocabulary": [
+   {
+    "word": "a sweet taste",
+    "translation_uz": "shirin ta'm",
+    "example_sentence": "The tea has a sweet taste."
+   },
+   {
+    "word": "a bitter taste",
+    "translation_uz": "achchiq ta'm",
+    "example_sentence": "Some medicine has a bitter taste."
+   },
+   {
+    "word": "a strong taste",
+    "translation_uz": "kuchli ta'm",
+    "example_sentence": "This cheese has a strong taste."
+   },
+   {
+    "word": "taste good",
+    "translation_uz": "mazali bo'lmoq",
+    "example_sentence": "The soup tastes good."
+   },
+   {
+    "word": "taste awful",
+    "translation_uz": "jirkanch ta'mli bo'lmoq",
+    "example_sentence": "The coffee tasted awful without sugar."
+   },
+   {
+    "word": "taste of something",
+    "translation_uz": "...ning ta'mi bor",
+    "example_sentence": "The juice tastes of oranges."
+   },
+   {
+    "word": "taste like",
+    "translation_uz": "...ga o'xshash ta'mi bor",
+    "example_sentence": "Rabbit tastes a bit like chicken."
+   },
+   {
+    "word": "try a taste",
+    "translation_uz": "tatib ko'rmoq",
+    "example_sentence": "Can I have a taste of your cake?"
+   },
+   {
+    "word": "have a taste for",
+    "translation_uz": "...ga qiziqish/moyil bo'lmoq",
+    "example_sentence": "She has a taste for spicy food."
+   },
+   {
+    "word": "acquire a taste for",
+    "translation_uz": "...ga o'rganmoq (ta'mini yoqtirmoq)",
+    "example_sentence": "He acquired a taste for olives."
+   },
+   {
+    "word": "a matter of taste",
+    "translation_uz": "did masalasi",
+    "example_sentence": "Music is a matter of taste."
+   },
+   {
+    "word": "good taste in clothes",
+    "translation_uz": "kiyimda yaxshi did",
+    "example_sentence": "My aunt has good taste in clothes."
+   },
+   {
+    "word": "in bad taste",
+    "translation_uz": "noo'rin, did yo'q",
+    "example_sentence": "His joke was in bad taste."
+   },
+   {
+    "word": "taste buds",
+    "translation_uz": "ta'm sezish retseptorlari",
+    "example_sentence": "Lemon wakes up your taste buds."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "This soup ___ delicious. Can I have some more?",
+    "correct_word": "tastes",
+    "options": [
+     "tastes",
+     "smells",
+     "looks",
+     "feels"
+    ]
+   },
+   {
+    "sentence_with_blank": "The medicine has a ___ taste, but it helps.",
+    "correct_word": "bitter",
+    "options": [
+     "bitter",
+     "rough",
+     "heavy",
+     "wide"
+    ]
+   },
+   {
+    "sentence_with_blank": "Coffee ___ awful without sugar, I think.",
+    "correct_word": "tastes",
+    "options": [
+     "tastes",
+     "sounds",
+     "feels",
+     "smells"
+    ]
+   },
+   {
+    "sentence_with_blank": "Do you like this music? Well, it is a matter of ___.",
+    "correct_word": "taste",
+    "options": [
+     "taste",
+     "choice",
+     "feeling",
+     "test"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I have a ___ of your ice cream?",
+    "correct_word": "taste",
+    "options": [
+     "taste",
+     "touch",
+     "smell",
+     "sight"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has very good ___ in clothes.",
+    "correct_word": "taste",
+    "options": [
+     "taste",
+     "test",
+     "try",
+     "choice"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My First Olive",
+   "text": "Last week my uncle gave me an olive. I put it in my mouth and made a face. It had a strong, bitter taste and I thought it tasted awful. My cousin laughed and said that it is a matter of taste. He told me that he also hated olives at first, but then he acquired a taste for them. I tried another one and the taste was a little better. My uncle said that I have a taste for adventure, but my sister said that it was in bad taste to laugh at me!",
+   "key_words": [
+    {
+     "word": "olive",
+     "translation_uz": "zaytun"
+    },
+    {
+     "word": "adventure",
+     "translation_uz": "sarguzasht"
+    },
+    {
+     "word": "laugh",
+     "translation_uz": "kulmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who gave the writer an olive?",
+     "options": [
+      "His uncle",
+      "His cousin",
+      "His sister",
+      "His mother"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the first olive taste?",
+     "options": [
+      "Sweet",
+      "Strong and bitter",
+      "Sour",
+      "Salty and sweet"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the sister say?",
+     "options": [
+      "It was a good joke",
+      "Olives are healthy",
+      "It was in bad taste to laugh",
+      "She wanted more"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Cafe",
+   "script": "Waiter: Would you like to try a taste of our new cake? Girl: Yes, please. Mmm, it has a sweet taste, like honey. Waiter: It tastes of honey and lemon. Girl: My brother has a taste for sweet things, but I prefer something bitter. Waiter: Then try our black tea. Girl: Thanks. Does it taste strong? Waiter: Yes, but you can add sugar. It's a matter of taste.",
+   "questions": [
+    {
+     "question": "What does the new cake taste of?",
+     "options": [
+      "Chocolate",
+      "Honey and lemon",
+      "Apple",
+      "Coffee"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who has a taste for sweet things?",
+     "options": [
+      "The waiter",
+      "The girl",
+      "The girl's brother",
+      "The girl's mother"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the waiter suggest the girl drink?",
+     "options": [
+      "Milk",
+      "Juice",
+      "Water",
+      "Black tea"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "It tastes of lemon.",
+    "Can I have a taste?",
+    "It's a matter of taste."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Food",
+    "question_text": "What is your favourite taste: sweet, salty or sour?",
+    "hint_words": [
+     "sweet",
+     "salty",
+     "sour",
+     "spicy"
+    ]
+   },
+   {
+    "topic": "New foods",
+    "question_text": "Have you acquired a taste for any food?",
+    "hint_words": [
+     "olives",
+     "tea",
+     "fish",
+     "spicy"
+    ]
+   },
+   {
+    "topic": "Opinion",
+    "question_text": "Is music a matter of taste? Why?",
+    "hint_words": [
+     "different",
+     "like",
+     "dislike",
+     "style"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 122,
+  "title": "voice",
+  "vocabulary": [
+   {
+    "word": "raise your voice",
+    "translation_uz": "ovozini ko'tarmoq",
+    "example_sentence": "Please don't raise your voice in the library."
+   },
+   {
+    "word": "lower your voice",
+    "translation_uz": "ovozini pasaytirmoq",
+    "example_sentence": "He lowered his voice to tell us the secret."
+   },
+   {
+    "word": "lose your voice",
+    "translation_uz": "ovozidan ayrilmoq",
+    "example_sentence": "I shouted so much at the match that I lost my voice."
+   },
+   {
+    "word": "a loud voice",
+    "translation_uz": "baland ovoz",
+    "example_sentence": "The teacher has a loud voice."
+   },
+   {
+    "word": "a quiet voice",
+    "translation_uz": "past ovoz",
+    "example_sentence": "She spoke in a quiet voice."
+   },
+   {
+    "word": "a deep voice",
+    "translation_uz": "bo'g'iq, past (qalin) ovoz",
+    "example_sentence": "My uncle has a deep voice."
+   },
+   {
+    "word": "a soft voice",
+    "translation_uz": "mayin ovoz",
+    "example_sentence": "The nurse spoke in a soft voice."
+   },
+   {
+    "word": "a singing voice",
+    "translation_uz": "qo'shiq aytish ovozi",
+    "example_sentence": "She has a beautiful singing voice."
+   },
+   {
+    "word": "in a loud voice",
+    "translation_uz": "baland ovozda",
+    "example_sentence": "He called her name in a loud voice."
+   },
+   {
+    "word": "at the top of your voice",
+    "translation_uz": "to'liq ovozda",
+    "example_sentence": "The boys were shouting at the top of their voices."
+   },
+   {
+    "word": "hear a voice",
+    "translation_uz": "ovoz eshitmoq",
+    "example_sentence": "I heard a voice behind me."
+   },
+   {
+    "word": "recognise someone's voice",
+    "translation_uz": "ovozidan tanimoq",
+    "example_sentence": "I recognised her voice on the phone at once."
+   },
+   {
+    "word": "a voice message",
+    "translation_uz": "ovozli xabar",
+    "example_sentence": "Send me a voice message when you arrive."
+   },
+   {
+    "word": "have a say / give your voice",
+    "translation_uz": "fikr bildirish huquqi bo'lmoq",
+    "example_sentence": "Students should have a voice in school decisions."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please don't ___ your voice; the baby is sleeping.",
+    "correct_word": "raise",
+    "options": [
+     "raise",
+     "rise",
+     "lift",
+     "increase"
+    ]
+   },
+   {
+    "sentence_with_blank": "I shouted all day and now I have ___ my voice.",
+    "correct_word": "lost",
+    "options": [
+     "lost",
+     "missed",
+     "dropped",
+     "left"
+    ]
+   },
+   {
+    "sentence_with_blank": "The singer has a wonderful singing ___.",
+    "correct_word": "voice",
+    "options": [
+     "voice",
+     "sound",
+     "noise",
+     "note"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children were shouting at the top of their ___.",
+    "correct_word": "voices",
+    "options": [
+     "voices",
+     "mouths",
+     "heads",
+     "throats"
+    ]
+   },
+   {
+    "sentence_with_blank": "I knew it was Ali; I ___ his voice at once.",
+    "correct_word": "recognised",
+    "options": [
+     "recognised",
+     "remembered",
+     "forgot",
+     "heard of"
+    ]
+   },
+   {
+    "sentence_with_blank": "He spoke in a very ___ voice, so we could hardly hear him.",
+    "correct_word": "quiet",
+    "options": [
+     "quiet",
+     "slow",
+     "short",
+     "late"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Phone Call",
+   "text": "Yesterday evening my phone rang. I did not know the number, but I recognised the voice at once. It was my cousin Jasur. He had a cold and had almost lost his voice, so he spoke in a quiet voice. I had to ask him to speak louder. He said he wanted to send me a voice message with a song, because he has a beautiful singing voice. I laughed and said that his voice was too deep for that song. Then my mother raised her voice from the kitchen and told us to have dinner.",
+   "key_words": [
+    {
+     "word": "cousin",
+     "translation_uz": "amakivachcha"
+    },
+    {
+     "word": "cold",
+     "translation_uz": "shamollash"
+    },
+    {
+     "word": "song",
+     "translation_uz": "qo'shiq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who called the writer?",
+     "options": [
+      "His uncle",
+      "His friend",
+      "His teacher",
+      "His cousin"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did the cousin speak quietly?",
+     "options": [
+      "It was late",
+      "He had almost lost his voice",
+      "He was angry",
+      "He was afraid"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who told them to have dinner?",
+     "options": [
+      "Dad",
+      "The writer's mother",
+      "The cousin",
+      "The teacher"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "After the Match",
+   "script": "Boy: Did you go to the match? Girl: Yes, I shouted at the top of my voice and now I have almost lost my voice! Boy: I can hardly hear you. Girl: I know. Please don't raise your voice, I will talk in a quiet voice. Boy: Tea with honey helps. My mum gave me some when I lost my voice last winter. Girl: Great idea. Tomorrow I will send you a voice message if I can speak.",
+   "questions": [
+    {
+     "question": "Why has the girl almost lost her voice?",
+     "options": [
+      "She has a cold",
+      "She sang too much",
+      "She talked on the phone",
+      "She shouted at the match"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What helps the voice, according to the boy?",
+     "options": [
+      "Cold water",
+      "Tea with honey",
+      "A hot bath",
+      "Medicine"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will the girl do tomorrow?",
+     "options": [
+      "Call him",
+      "Visit him",
+      "Send a voice message",
+      "Go to a match"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Don't raise your voice.",
+    "She has a deep voice.",
+    "I lost my voice."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Voice",
+    "question_text": "Do you have a loud or a quiet voice?",
+    "hint_words": [
+     "loud",
+     "quiet",
+     "deep",
+     "soft"
+    ]
+   },
+   {
+    "topic": "Singing",
+    "question_text": "Do you like singing? Is your voice good?",
+    "hint_words": [
+     "songs",
+     "shower",
+     "school",
+     "bad"
+    ]
+   },
+   {
+    "topic": "Phone",
+    "question_text": "Do you send voice messages? Why?",
+    "hint_words": [
+     "friends",
+     "fast",
+     "easy",
+     "typing"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 123,
+  "title": "breath",
+  "vocabulary": [
+   {
+    "word": "take a deep breath",
+    "translation_uz": "chuqur nafas olmoq",
+    "example_sentence": "Take a deep breath and count to ten."
+   },
+   {
+    "word": "hold your breath",
+    "translation_uz": "nafasini ushlab turmoq",
+    "example_sentence": "How long can you hold your breath under water?"
+   },
+   {
+    "word": "out of breath",
+    "translation_uz": "hansirab qolgan",
+    "example_sentence": "I was out of breath after running up the stairs."
+   },
+   {
+    "word": "catch your breath",
+    "translation_uz": "nafasini rostlamoq",
+    "example_sentence": "Let's stop and catch our breath."
+   },
+   {
+    "word": "lose your breath",
+    "translation_uz": "nafasi qisilmoq",
+    "example_sentence": "He lost his breath at the top of the hill."
+   },
+   {
+    "word": "short of breath",
+    "translation_uz": "nafasi yetmay qolgan",
+    "example_sentence": "Grandad gets short of breath when he climbs."
+   },
+   {
+    "word": "breathe in / breathe out",
+    "translation_uz": "nafas olmoq / chiqarmoq",
+    "example_sentence": "Breathe in slowly, then breathe out."
+   },
+   {
+    "word": "breathe deeply",
+    "translation_uz": "nafasni chuqur olib turmoq",
+    "example_sentence": "Breathe deeply and relax."
+   },
+   {
+    "word": "a breath of fresh air",
+    "translation_uz": "toza havo nafasi",
+    "example_sentence": "Let's go outside for a breath of fresh air."
+   },
+   {
+    "word": "bad breath",
+    "translation_uz": "og'izdan yoqimsiz hid",
+    "example_sentence": "Garlic can give you bad breath."
+   },
+   {
+    "word": "under your breath",
+    "translation_uz": "pichirlab, ichida",
+    "example_sentence": "She said something under her breath."
+   },
+   {
+    "word": "with bated breath",
+    "translation_uz": "nafasini ichiga yutib",
+    "example_sentence": "We waited with bated breath for the result."
+   },
+   {
+    "word": "breathing problems",
+    "translation_uz": "nafas olish muammolari",
+    "example_sentence": "Dust can cause breathing problems."
+   },
+   {
+    "word": "breathless",
+    "translation_uz": "nafasi tiqilgan",
+    "example_sentence": "He arrived breathless after the race."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Take a deep ___ and try to relax.",
+    "correct_word": "breath",
+    "options": [
+     "breath",
+     "air",
+     "wind",
+     "sigh"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was out of ___ after climbing the stairs.",
+    "correct_word": "breath",
+    "options": [
+     "breath",
+     "wind",
+     "air",
+     "power"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's stop here and catch our ___.",
+    "correct_word": "breath",
+    "options": [
+     "breath",
+     "air",
+     "rest",
+     "wind"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ in slowly through your nose.",
+    "correct_word": "breathe",
+    "options": [
+     "breathe",
+     "breath",
+     "inhale",
+     "blow"
+    ]
+   },
+   {
+    "sentence_with_blank": "He said something under his ___, but I could not hear it.",
+    "correct_word": "breath",
+    "options": [
+     "breath",
+     "voice",
+     "mouth",
+     "tongue"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dust and smoke can cause ___ problems.",
+    "correct_word": "breathing",
+    "options": [
+     "breathing",
+     "breath",
+     "breathe",
+     "breathed"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Swimming Lesson",
+   "text": "Our swimming teacher says that we must learn to breathe properly. First, we stand in the water and take a deep breath. Then we hold our breath and put our faces in the water. When I came up for air the first time, I was completely out of breath. I stopped for a minute to catch my breath. My friend Murod said something under his breath, but I did not hear him. At the end of the lesson we went outside for a breath of fresh air. I was tired, but I could hold my breath for ten seconds!",
+   "key_words": [
+    {
+     "word": "properly",
+     "translation_uz": "to'g'ri"
+    },
+    {
+     "word": "swimming",
+     "translation_uz": "suzish"
+    },
+    {
+     "word": "teacher",
+     "translation_uz": "o'qituvchi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What do they do first in the lesson?",
+     "options": [
+      "Swim across the pool",
+      "Take a deep breath",
+      "Jump into the water",
+      "Run outside"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long could the writer hold his breath at the end?",
+     "options": [
+      "Three seconds",
+      "Five seconds",
+      "Ten seconds",
+      "Twenty seconds"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did the writer stop for a minute?",
+     "options": [
+      "To catch his breath",
+      "To talk to Murod",
+      "To drink water",
+      "To get a towel"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "On the Mountain Path",
+   "script": "Dad: Let's stop for a minute and catch our breath. Girl: I'm out of breath, Dad! Dad: Take a deep breath, breathe in slowly and breathe out. Girl: That's better. It's nice to have a breath of fresh air after the city. Dad: Yes, but I get short of breath when I climb now. Girl: You said something under your breath. Dad: I said, I need to exercise more. Come on, the top is only twenty minutes away.",
+   "questions": [
+    {
+     "question": "Why do they stop?",
+     "options": [
+      "To eat lunch",
+      "To take photos",
+      "To catch their breath",
+      "To rest the dog"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Dad say he needs?",
+     "options": [
+      "More water",
+      "More exercise",
+      "A map",
+      "A longer holiday"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How far is the top?",
+     "options": [
+      "Ten minutes",
+      "Twenty minutes",
+      "Thirty minutes",
+      "One hour"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Take a deep breath.",
+    "I'm out of breath.",
+    "Hold your breath."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Exercise",
+    "question_text": "When are you out of breath?",
+    "hint_words": [
+     "running",
+     "stairs",
+     "football",
+     "tired"
+    ]
+   },
+   {
+    "topic": "Swimming",
+    "question_text": "How long can you hold your breath?",
+    "hint_words": [
+     "seconds",
+     "water",
+     "try",
+     "long"
+    ]
+   },
+   {
+    "topic": "Relaxing",
+    "question_text": "What do you do to relax? Do you breathe deeply?",
+    "hint_words": [
+     "walk",
+     "music",
+     "sleep",
+     "deep breath"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 124,
+  "title": "sleep, dream",
+  "vocabulary": [
+   {
+    "word": "go to sleep",
+    "translation_uz": "uxlab qolmoq",
+    "example_sentence": "The baby went to sleep at eight."
+   },
+   {
+    "word": "fall asleep",
+    "translation_uz": "uxlab qolmoq (uyquga ketmoq)",
+    "example_sentence": "I fell asleep in front of the television."
+   },
+   {
+    "word": "get some sleep",
+    "translation_uz": "bir oz uxlab olmoq",
+    "example_sentence": "You should get some sleep before the exam."
+   },
+   {
+    "word": "a good night's sleep",
+    "translation_uz": "yaxshi tungi uyqu",
+    "example_sentence": "A good night's sleep helps you learn."
+   },
+   {
+    "word": "a deep sleep",
+    "translation_uz": "chuqur uyqu",
+    "example_sentence": "Grandad was in a deep sleep and did not hear the phone."
+   },
+   {
+    "word": "a light sleeper",
+    "translation_uz": "uyquchan emas (uyg'oq uxlovchi)",
+    "example_sentence": "My mother is a light sleeper."
+   },
+   {
+    "word": "can't get to sleep",
+    "translation_uz": "uxlay olmaslik",
+    "example_sentence": "I can't get to sleep when it is hot."
+   },
+   {
+    "word": "oversleep",
+    "translation_uz": "uxlab qolmoq (uyg'onolmay)",
+    "example_sentence": "I overslept and was late for school."
+   },
+   {
+    "word": "sleepy / asleep",
+    "translation_uz": "uyqusirash / uxlab yotgan",
+    "example_sentence": "The children were asleep by nine."
+   },
+   {
+    "word": "have a dream",
+    "translation_uz": "tush ko'rmoq",
+    "example_sentence": "I had a strange dream last night."
+   },
+   {
+    "word": "a bad dream",
+    "translation_uz": "yomon tush",
+    "example_sentence": "The little boy woke up from a bad dream."
+   },
+   {
+    "word": "a dream come true",
+    "translation_uz": "amalga oshgan orzu",
+    "example_sentence": "Playing for the national team is a dream come true."
+   },
+   {
+    "word": "daydream",
+    "translation_uz": "xayol surmoq",
+    "example_sentence": "He often daydreams in the lessons."
+   },
+   {
+    "word": "dream of / about",
+    "translation_uz": "...ni orzu qilmoq / tushida ko'rmoq",
+    "example_sentence": "She dreams of becoming a doctor."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The baby will ___ to sleep soon.",
+    "correct_word": "go",
+    "options": [
+     "go",
+     "come",
+     "fall",
+     "get"
+    ]
+   },
+   {
+    "sentence_with_blank": "I was so tired that I ___ asleep on the bus.",
+    "correct_word": "fell",
+    "options": [
+     "fell",
+     "got",
+     "went",
+     "came"
+    ]
+   },
+   {
+    "sentence_with_blank": "You need a good night's ___ before the test.",
+    "correct_word": "sleep",
+    "options": [
+     "sleep",
+     "rest",
+     "dream",
+     "bed"
+    ]
+   },
+   {
+    "sentence_with_blank": "My alarm didn't ring, so I ___ and missed the bus.",
+    "correct_word": "overslept",
+    "options": [
+     "overslept",
+     "oversaw",
+     "overate",
+     "overtook"
+    ]
+   },
+   {
+    "sentence_with_blank": "Last night I ___ a strange dream about a dragon.",
+    "correct_word": "had",
+    "options": [
+     "had",
+     "made",
+     "took",
+     "did"
+    ]
+   },
+   {
+    "sentence_with_blank": "She dreams ___ becoming a famous singer.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "to",
+     "at",
+     "for"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Strange Dream",
+   "text": "Last night I could not get to sleep because it was hot. At last I fell asleep, and I had a strange dream. In the dream I was a bird and flew over our school. I was in a deep sleep, so I did not hear my alarm clock. I overslept and was late for class. My teacher said I looked sleepy, and I told her about the dream. She smiled and said that she often daydreams too. She dreams of travelling around the world. Tonight I will go to bed early and get a good night's sleep.",
+   "key_words": [
+    {
+     "word": "alarm clock",
+     "translation_uz": "budilnik"
+    },
+    {
+     "word": "strange",
+     "translation_uz": "g'alati"
+    },
+    {
+     "word": "travel",
+     "translation_uz": "sayohat qilmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why could the writer not get to sleep?",
+     "options": [
+      "It was noisy",
+      "He was hungry",
+      "It was hot",
+      "He was afraid"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was the writer in the dream?",
+     "options": [
+      "A dragon",
+      "A bird",
+      "A teacher",
+      "A pilot"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the teacher dream of?",
+     "options": [
+      "Travelling the world",
+      "Becoming a singer",
+      "Living in the country",
+      "Flying a plane"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Good Morning!",
+   "script": "Mum: Wake up, Aziz! You have overslept again. Aziz: Sorry, Mum. I couldn't get to sleep last night. Mum: Why not? Aziz: I had a bad dream and woke up at two o'clock. After that I stayed awake for a long time. Mum: Poor boy. You need a good night's sleep. Aziz: Tonight I will go to sleep at nine. Mum: Good. Now eat your breakfast quickly or you'll be late.",
+   "questions": [
+    {
+     "question": "What time did Aziz wake up in the night?",
+     "options": [
+      "Midnight",
+      "One o'clock",
+      "Two o'clock",
+      "Three o'clock"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did Aziz sleep badly?",
+     "options": [
+      "A noise",
+      "A bad dream",
+      "A phone call",
+      "A storm"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What time will he go to sleep tonight?",
+     "options": [
+      "Eight",
+      "Ten",
+      "Half past nine",
+      "Nine"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I fell asleep early.",
+    "I had a bad dream.",
+    "Get a good night's sleep."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Sleep",
+    "question_text": "How many hours do you sleep every night?",
+    "hint_words": [
+     "eight",
+     "nine",
+     "enough",
+     "tired"
+    ]
+   },
+   {
+    "topic": "Dreams",
+    "question_text": "Do you remember your dreams? Tell me one.",
+    "hint_words": [
+     "strange",
+     "fly",
+     "school",
+     "funny"
+    ]
+   },
+   {
+    "topic": "Future",
+    "question_text": "What do you dream of doing in the future?",
+    "hint_words": [
+     "doctor",
+     "travel",
+     "famous",
+     "pilot"
+    ]
+   }
+  ]
+ }
+]

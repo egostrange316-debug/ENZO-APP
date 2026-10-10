@@ -1,0 +1,1829 @@
+[
+ {
+  "unit": 22,
+  "title": "weather",
+  "vocabulary": [
+   {
+    "word": "the weather forecast",
+    "translation_uz": "ob-havo ma'lumoti",
+    "example_sentence": "The weather forecast says it will snow tomorrow."
+   },
+   {
+    "word": "check the weather",
+    "translation_uz": "ob-havoni tekshirmoq",
+    "example_sentence": "I always check the weather before I go cycling."
+   },
+   {
+    "word": "good / bad weather",
+    "translation_uz": "yaxshi / yomon ob-havo",
+    "example_sentence": "We had bad weather for most of the holiday."
+   },
+   {
+    "word": "terrible weather",
+    "translation_uz": "juda yomon ob-havo",
+    "example_sentence": "It was terrible weather, so the match was cancelled."
+   },
+   {
+    "word": "hot / cold weather",
+    "translation_uz": "issiq / sovuq ob-havo",
+    "example_sentence": "I prefer cold weather because I do not like the heat."
+   },
+   {
+    "word": "wet weather",
+    "translation_uz": "yomg'irli ob-havo",
+    "example_sentence": "Wet weather is common in autumn."
+   },
+   {
+    "word": "mild weather",
+    "translation_uz": "iliq, mo'tadil ob-havo",
+    "example_sentence": "The mild weather in March makes it a nice time to visit."
+   },
+   {
+    "word": "changeable weather",
+    "translation_uz": "o'zgaruvchan ob-havo",
+    "example_sentence": "Changeable weather means you should take a coat and sunglasses."
+   },
+   {
+    "word": "weather conditions",
+    "translation_uz": "ob-havo sharoitlari",
+    "example_sentence": "Bad weather conditions delayed the flight."
+   },
+   {
+    "word": "the weather gets better / worse",
+    "translation_uz": "ob-havo yaxshilanadi / yomonlashadi",
+    "example_sentence": "The weather got worse in the afternoon."
+   },
+   {
+    "word": "weather permitting",
+    "translation_uz": "ob-havo ruxsat bersa",
+    "example_sentence": "We will have the party in the garden, weather permitting."
+   },
+   {
+    "word": "depend on the weather",
+    "translation_uz": "ob-havoga bog'liq bo'lmoq",
+    "example_sentence": "Our plans for Saturday depend on the weather."
+   },
+   {
+    "word": "be under the weather",
+    "translation_uz": "o'zini yomon his qilmoq",
+    "example_sentence": "I am a bit under the weather today, so I will stay home."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "According to the weather ___, it will rain tomorrow.",
+    "correct_word": "forecast",
+    "options": [
+     "schedule",
+     "lesson",
+     "forecast",
+     "ticket"
+    ]
+   },
+   {
+    "sentence_with_blank": "We will have the picnic tomorrow, ___ permitting.",
+    "correct_word": "weather",
+    "options": [
+     "rain",
+     "sun",
+     "season",
+     "weather"
+    ]
+   },
+   {
+    "sentence_with_blank": "I feel a bit ___ the weather today, so I will stay in bed.",
+    "correct_word": "under",
+    "options": [
+     "under",
+     "below",
+     "beneath",
+     "over"
+    ]
+   },
+   {
+    "sentence_with_blank": "The weather in spring is very ___; it can be sunny and then rainy.",
+    "correct_word": "changeable",
+    "options": [
+     "changeless",
+     "changeable",
+     "unchanged",
+     "moving"
+    ]
+   },
+   {
+    "sentence_with_blank": "Winters here are ___, with very little snow.",
+    "correct_word": "mild",
+    "options": [
+     "soft",
+     "weak",
+     "mild",
+     "thin"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our plans depend ___ the weather.",
+    "correct_word": "on",
+    "options": [
+     "of",
+     "from",
+     "with",
+     "on"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day at the Lake",
+   "text": "Last Saturday Bobur wanted to go to the lake with his friends. First he checked the weather on his phone. The forecast said it would be warm in the morning, but changeable in the afternoon. The boys decided to go early, weather permitting. At the lake the sun was shining, so they swam and played football. At three o'clock dark clouds appeared and the wind became cold. They quickly packed their bags and took the bus home before the rain started.",
+   "key_words": [
+    {
+     "word": "forecast",
+     "translation_uz": "ob-havo bashorati"
+    },
+    {
+     "word": "pack",
+     "translation_uz": "yig'moq, joylamoq"
+    },
+    {
+     "word": "wind",
+     "translation_uz": "shamol"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Bobur do first?",
+     "options": [
+      "He called a friend",
+      "He packed a bag",
+      "He checked the weather on his phone",
+      "He bought tickets"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was the forecast for the afternoon?",
+     "options": [
+      "Very hot",
+      "Snowy",
+      "Foggy",
+      "Changeable"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did the boys go home at three o'clock?",
+     "options": [
+      "Dark clouds came and the wind became cold",
+      "They were hungry",
+      "The bus was leaving",
+      "They lost the ball"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a Barbecue",
+   "script": "Sam: Shall we have the barbecue on Sunday? Lola: It depends on the weather. Let me check the forecast. Hmm, it says there will be wet weather on Saturday, but it will get better on Sunday. Sam: Great. How about two o'clock? Lola: Yes, weather permitting. And if it rains, we can cook inside. Sam: I will invite Max too, but he said he is a bit under the weather. Lola: Poor Max! Let us hope he feels better soon.",
+   "questions": [
+    {
+     "question": "When will it be wet?",
+     "options": [
+      "On Sunday",
+      "On Monday",
+      "On Friday",
+      "On Saturday"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What time do they plan the barbecue?",
+     "options": [
+      "Two o'clock",
+      "One o'clock",
+      "Three o'clock",
+      "Noon"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the problem with Max?",
+     "options": [
+      "He is busy",
+      "He is under the weather",
+      "He lives far away",
+      "He hates barbecues"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The weather forecast is good.",
+    "Our plans depend on the weather.",
+    "It was terrible weather yesterday."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weather",
+    "question_text": "What is your favourite kind of weather?",
+    "hint_words": [
+     "I like",
+     "sunny",
+     "snowy",
+     "because"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "What was the weather like yesterday?",
+    "hint_words": [
+     "yesterday",
+     "it was",
+     "cloudy",
+     "windy"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "Do you check the weather forecast every day?",
+    "hint_words": [
+     "yes",
+     "no",
+     "phone",
+     "sometimes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 23,
+  "title": "heat and temperature",
+  "vocabulary": [
+   {
+    "word": "a high / low temperature",
+    "translation_uz": "yuqori / past harorat",
+    "example_sentence": "Plants die at a very low temperature."
+   },
+   {
+    "word": "the temperature rises",
+    "translation_uz": "harorat ko'tariladi",
+    "example_sentence": "In July the temperature rises to forty degrees."
+   },
+   {
+    "word": "the temperature falls / drops",
+    "translation_uz": "harorat pasayadi",
+    "example_sentence": "At night the temperature drops quickly."
+   },
+   {
+    "word": "a temperature of 30 degrees",
+    "translation_uz": "o'ttiz daraja harorat",
+    "example_sentence": "Yesterday there was a temperature of 30 degrees."
+   },
+   {
+    "word": "take someone's temperature",
+    "translation_uz": "haroratini o'lchamoq",
+    "example_sentence": "The nurse took my temperature and said I was fine."
+   },
+   {
+    "word": "have a temperature",
+    "translation_uz": "tanasi qizigan bo'lmoq",
+    "example_sentence": "My little brother has a temperature, so he stayed in bed."
+   },
+   {
+    "word": "room temperature",
+    "translation_uz": "xona harorati",
+    "example_sentence": "Leave the eggs at room temperature for an hour."
+   },
+   {
+    "word": "body temperature",
+    "translation_uz": "tana harorati",
+    "example_sentence": "Normal body temperature is about 37 degrees."
+   },
+   {
+    "word": "freezing temperatures",
+    "translation_uz": "sovuq harorat (muzlatuvchi)",
+    "example_sentence": "Freezing temperatures closed the mountain road."
+   },
+   {
+    "word": "a heat wave",
+    "translation_uz": "jazirama issiq davri",
+    "example_sentence": "During the heat wave we stayed indoors at noon."
+   },
+   {
+    "word": "intense heat",
+    "translation_uz": "kuchli issiqlik",
+    "example_sentence": "The intense heat made everyone tired."
+   },
+   {
+    "word": "in the heat",
+    "translation_uz": "issiqda",
+    "example_sentence": "It is hard to work in the heat."
+   },
+   {
+    "word": "heat up",
+    "translation_uz": "isitmoq",
+    "example_sentence": "Please heat up the soup for lunch."
+   },
+   {
+    "word": "central heating",
+    "translation_uz": "markaziy isitish",
+    "example_sentence": "Our building has central heating from October."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Yesterday the temperature ___ to 38 degrees, the hottest day of the year.",
+    "correct_word": "rose",
+    "options": [
+     "fell",
+     "dropped",
+     "sank",
+     "rose"
+    ]
+   },
+   {
+    "sentence_with_blank": "The nurse took my ___ and said I had a fever.",
+    "correct_word": "temperature",
+    "options": [
+     "temperature",
+     "heat",
+     "warmth",
+     "degree"
+    ]
+   },
+   {
+    "sentence_with_blank": "Keep the medicine at ___ temperature, not in the sun.",
+    "correct_word": "room",
+    "options": [
+     "home",
+     "room",
+     "flat",
+     "hall"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a heat ___ in the country, and everyone is staying indoors.",
+    "correct_word": "wave",
+    "options": [
+     "storm",
+     "wind",
+     "wave",
+     "stream"
+    ]
+   },
+   {
+    "sentence_with_blank": "The heat was so ___ that we could not walk outside at noon.",
+    "correct_word": "intense",
+    "options": [
+     "heavy",
+     "thick",
+     "deep",
+     "intense"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let us ___ up the soup in the microwave.",
+    "correct_word": "heat",
+    "options": [
+     "heat",
+     "boil",
+     "burn",
+     "melt"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Hottest Week",
+   "text": "Last July there was a heat wave in our city. The temperature rose to forty degrees, and the intense heat made everyone tired. Schools were closed and people stayed indoors at noon. My little sister had a temperature, so Mum took her temperature every few hours. We drank a lot of water and used fans because there was no air conditioning in our flat. At night the temperature dropped a little, and then we opened all the windows. After one week, the weather finally changed.",
+   "key_words": [
+    {
+     "word": "fan",
+     "translation_uz": "ventilyator"
+    },
+    {
+     "word": "tired",
+     "translation_uz": "charchagan"
+    },
+    {
+     "word": "fever",
+     "translation_uz": "isitma"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What happened in the city last July?",
+     "options": [
+      "There was a flood",
+      "There was a storm",
+      "There was snow",
+      "There was a heat wave"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did Mum take the little sister's temperature?",
+     "options": [
+      "She had a temperature",
+      "She was cold",
+      "She was sleepy",
+      "She wanted to swim"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the family do at night?",
+     "options": [
+      "They went swimming",
+      "They opened all the windows",
+      "They turned on the heating",
+      "They left the city"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Doctor's",
+   "script": "Doctor: Hello, Dina. What is the matter? Dina: I feel hot and tired, and my head hurts. Doctor: Let me take your temperature. It is thirty-eight degrees, so you have a temperature. Normal body temperature is about thirty-seven. Dina: Is it serious? Doctor: No, but you should rest in bed for two days. Keep your room at a comfortable temperature, and drink plenty of water. Dina: Can I go to school on Thursday? Doctor: Come back to see me first.",
+   "questions": [
+    {
+     "question": "What temperature does Dina have?",
+     "options": [
+      "Thirty-eight degrees",
+      "Thirty-seven degrees",
+      "Thirty-six degrees",
+      "Forty degrees"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long should Dina rest?",
+     "options": [
+      "One day",
+      "Two days",
+      "A week",
+      "Three days"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What should Dina do before she goes back to school?",
+     "options": [
+      "Call her teacher",
+      "Buy new medicine",
+      "See the doctor again",
+      "Take a long walk"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "The nurse took my temperature.",
+    "The temperature dropped at night.",
+    "We had a heat wave in July."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Temperature",
+    "question_text": "What is the temperature today?",
+    "hint_words": [
+     "degrees",
+     "hot",
+     "cold",
+     "about"
+    ]
+   },
+   {
+    "topic": "Temperature",
+    "question_text": "How do you stay cool in a heat wave?",
+    "hint_words": [
+     "water",
+     "fan",
+     "shade",
+     "stay inside"
+    ]
+   },
+   {
+    "topic": "Temperature",
+    "question_text": "Do you prefer hot or cold weather?",
+    "hint_words": [
+     "I prefer",
+     "because",
+     "summer",
+     "winter"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 24,
+  "title": "air",
+  "vocabulary": [
+   {
+    "word": "fresh air",
+    "translation_uz": "toza havo",
+    "example_sentence": "Let's go for a walk and get some fresh air."
+   },
+   {
+    "word": "clean / polluted air",
+    "translation_uz": "toza / ifloslangan havo",
+    "example_sentence": "People in the mountains breathe clean air."
+   },
+   {
+    "word": "let some air in",
+    "translation_uz": "xonaga havo kiritmoq",
+    "example_sentence": "Open the window and let some air in."
+   },
+   {
+    "word": "breathe in / out",
+    "translation_uz": "nafas olmoq / nafas chiqarmoq",
+    "example_sentence": "Breathe in slowly, then breathe out."
+   },
+   {
+    "word": "in the open air",
+    "translation_uz": "ochiq havoda",
+    "example_sentence": "In summer we eat dinner in the open air."
+   },
+   {
+    "word": "by air",
+    "translation_uz": "havo yo'li bilan",
+    "example_sentence": "Goods travelled by air arrive in a few hours."
+   },
+   {
+    "word": "air travel",
+    "translation_uz": "havo transporti orqali sayohat",
+    "example_sentence": "Air travel is faster than train travel."
+   },
+   {
+    "word": "air quality",
+    "translation_uz": "havo sifati",
+    "example_sentence": "Air quality is poor in the city on hot days."
+   },
+   {
+    "word": "air conditioning",
+    "translation_uz": "konditsioner",
+    "example_sentence": "The hotel room had air conditioning."
+   },
+   {
+    "word": "air pressure",
+    "translation_uz": "havo bosimi",
+    "example_sentence": "Air pressure falls before a storm."
+   },
+   {
+    "word": "pump air into a tyre",
+    "translation_uz": "shinaga havo damlamoq",
+    "example_sentence": "He pumped air into the bicycle tyre."
+   },
+   {
+    "word": "a breath of fresh air",
+    "translation_uz": "toza havo nafasi (yangilik)",
+    "example_sentence": "The new teacher was a breath of fresh air."
+   },
+   {
+    "word": "in the air",
+    "translation_uz": "havoda",
+    "example_sentence": "There was a smell of fresh bread in the air."
+   },
+   {
+    "word": "disappear into thin air",
+    "translation_uz": "havoga singib ketmoq",
+    "example_sentence": "My keys disappeared into thin air."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Open the window to let some fresh ___ in.",
+    "correct_word": "air",
+    "options": [
+     "air",
+     "wind",
+     "breath",
+     "weather"
+    ]
+   },
+   {
+    "sentence_with_blank": "We had lunch in the open ___ because the day was warm.",
+    "correct_word": "air",
+    "options": [
+     "sky",
+     "air",
+     "space",
+     "nature"
+    ]
+   },
+   {
+    "sentence_with_blank": "Goods travel ___ air in just a few hours.",
+    "correct_word": "by",
+    "options": [
+     "with",
+     "on",
+     "by",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "The air ___ in the city is poor on hot summer days.",
+    "correct_word": "quality",
+    "options": [
+     "class",
+     "style",
+     "grade",
+     "quality"
+    ]
+   },
+   {
+    "sentence_with_blank": "Take a deep breath and breathe ___ slowly.",
+    "correct_word": "out",
+    "options": [
+     "out",
+     "off",
+     "away",
+     "up"
+    ]
+   },
+   {
+    "sentence_with_blank": "The hotel room had air ___, so it was cool.",
+    "correct_word": "conditioning",
+    "options": [
+     "freezing",
+     "conditioning",
+     "blowing",
+     "cleaning"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Walk in the Mountains",
+   "text": "Last weekend my class went on a trip to the mountains. In the city the air quality is poor, but in the mountains the air is clean and fresh. We had lunch in the open air and the teacher told us to breathe in deeply. Everybody felt full of energy. Our guide explained that at the top of a mountain the air pressure is lower, so some people breathe faster. In the evening there was a smell of smoke in the air from a village fire, and we went back to the hotel by bus.",
+   "key_words": [
+    {
+     "word": "deeply",
+     "translation_uz": "chuqur"
+    },
+    {
+     "word": "energy",
+     "translation_uz": "quvvat"
+    },
+    {
+     "word": "guide",
+     "translation_uz": "yo'lboshchi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the class like the mountains?",
+     "options": [
+      "The air is clean and fresh",
+      "It was warm",
+      "There was no wind",
+      "The hotel was cheap"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the teacher tell the students to do?",
+     "options": [
+      "Run quickly",
+      "Breathe in deeply",
+      "Sing a song",
+      "Close their eyes"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did they return to the hotel?",
+     "options": [
+      "On foot",
+      "By air",
+      "By bus",
+      "By train"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Hot Classroom",
+   "script": "Teacher: It is very hot in here. Let us open the window and let some air in. Pupil: There is a lot of noise from the street. Teacher: True. We have no air conditioning, so we have to choose. Maybe we can have the lesson in the open air. Pupil: Yes, in the school garden. Teacher: Good idea. The air quality is better there, and it is a breath of fresh air for everyone. Please bring your books and a pen, and we will start in five minutes.",
+   "questions": [
+    {
+     "question": "Why does the teacher open the window?",
+     "options": [
+      "It is raining",
+      "It is very hot",
+      "The room smells of paint",
+      "The pupils are cold"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the school not have?",
+     "options": [
+      "Tables",
+      "A garden",
+      "Air conditioning",
+      "Windows"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where will the lesson take place?",
+     "options": [
+      "In the gym",
+      "In the library",
+      "In the street",
+      "In the school garden"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Let some fresh air in.",
+    "We eat in the open air.",
+    "The air quality is poor."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Air",
+    "question_text": "Where can you find fresh air in your town?",
+    "hint_words": [
+     "park",
+     "mountains",
+     "forest",
+     "near"
+    ]
+   },
+   {
+    "topic": "Air",
+    "question_text": "Do you like to study in the open air?",
+    "hint_words": [
+     "yes",
+     "no",
+     "garden",
+     "noisy"
+    ]
+   },
+   {
+    "topic": "Air",
+    "question_text": "How is the air in your city?",
+    "hint_words": [
+     "clean",
+     "dirty",
+     "traffic",
+     "I think"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 25,
+  "title": "light",
+  "vocabulary": [
+   {
+    "word": "switch on / off the light",
+    "translation_uz": "chiroqni yoqmoq / o'chirmoq",
+    "example_sentence": "Please switch off the light when you leave."
+   },
+   {
+    "word": "turn on a lamp",
+    "translation_uz": "lampani yoqmoq",
+    "example_sentence": "She turned on the lamp and began to read."
+   },
+   {
+    "word": "bright light",
+    "translation_uz": "yorqin yorug'lik",
+    "example_sentence": "The bright light woke me up early."
+   },
+   {
+    "word": "dim light",
+    "translation_uz": "xira yorug'lik",
+    "example_sentence": "We could hardly read in the dim light."
+   },
+   {
+    "word": "natural light",
+    "translation_uz": "tabiiy yorug'lik",
+    "example_sentence": "The room has plenty of natural light."
+   },
+   {
+    "word": "daylight",
+    "translation_uz": "kunduzgi yorug'lik",
+    "example_sentence": "Photographs look best in daylight."
+   },
+   {
+    "word": "the light of the sun",
+    "translation_uz": "quyosh nuri",
+    "example_sentence": "We sat in the light of the sun by the window."
+   },
+   {
+    "word": "a ray of light",
+    "translation_uz": "nur shu'lasi",
+    "example_sentence": "A ray of light came through the curtain."
+   },
+   {
+    "word": "a flash of light",
+    "translation_uz": "yorug'lik chaqnashi",
+    "example_sentence": "We saw a flash of light in the sky."
+   },
+   {
+    "word": "light a candle",
+    "translation_uz": "sham yoqmoq",
+    "example_sentence": "She lit a candle for the birthday cake."
+   },
+   {
+    "word": "a light bulb",
+    "translation_uz": "lampochka",
+    "example_sentence": "The light bulb in the kitchen needs changing."
+   },
+   {
+    "word": "traffic lights",
+    "translation_uz": "svetofor",
+    "example_sentence": "Stop when the traffic lights are red."
+   },
+   {
+    "word": "come to light",
+    "translation_uz": "oshkor bo'lmoq",
+    "example_sentence": "New facts about the old castle came to light."
+   },
+   {
+    "word": "the light goes out",
+    "translation_uz": "chiroq o'chadi",
+    "example_sentence": "The light went out during the storm."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please switch ___ the light, it is too dark in here.",
+    "correct_word": "on",
+    "options": [
+     "up",
+     "on",
+     "in",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "This room has lots of natural ___ because of the big windows.",
+    "correct_word": "light",
+    "options": [
+     "lamp",
+     "sun",
+     "light",
+     "day"
+    ]
+   },
+   {
+    "sentence_with_blank": "The traffic ___ were red, so all the cars stopped.",
+    "correct_word": "lights",
+    "options": [
+     "signs",
+     "lamps",
+     "flags",
+     "lights"
+    ]
+   },
+   {
+    "sentence_with_blank": "She lit a ___ on the birthday cake.",
+    "correct_word": "candle",
+    "options": [
+     "candle",
+     "bulb",
+     "switch",
+     "screen"
+    ]
+   },
+   {
+    "sentence_with_blank": "The room was in ___ light, so I could hardly read.",
+    "correct_word": "dim",
+    "options": [
+     "slow",
+     "dim",
+     "short",
+     "heavy"
+    ]
+   },
+   {
+    "sentence_with_blank": "New facts about the case came to ___ last week.",
+    "correct_word": "light",
+    "options": [
+     "sight",
+     "view",
+     "light",
+     "eye"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Power Cut",
+   "text": "Last Friday evening the light went out in our street. At first I was afraid, because it was completely dark. Then my mother lit a candle and a ray of light moved across the wall. We sat in the kitchen and played cards in the dim light. After an hour my father checked the fuse box, but the problem was in the whole street. At nine o'clock the lights came on again. My brother ran to switch off the extra lamps, and we all laughed.",
+   "key_words": [
+    {
+     "word": "power cut",
+     "translation_uz": "elektr uzilishi"
+    },
+    {
+     "word": "fuse box",
+     "translation_uz": "saqlagich qutisi"
+    },
+    {
+     "word": "afraid",
+     "translation_uz": "qo'rqqan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What happened in the street on Friday evening?",
+     "options": [
+      "A fire started",
+      "The light went out",
+      "A storm began",
+      "A car crashed"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the family play in the kitchen?",
+     "options": [
+      "Chess",
+      "Football",
+      "Cards",
+      "Music"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When did the lights come on?",
+     "options": [
+      "After ten minutes",
+      "At midnight",
+      "At seven o'clock",
+      "At nine o'clock"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Taking Photos",
+   "script": "Photographer: For this photo we need natural light, so please stand near the window. Boy: It is a bit dark today. Photographer: Don't worry. I will turn on the lamp. Now the light is too bright, so I will turn it down. Boy: Can I smile? Photographer: Yes, but wait for the flash of light. There it is. Perfect! Come and see the picture. In daylight your eyes look green.",
+   "questions": [
+    {
+     "question": "Why does the boy stand near the window?",
+     "options": [
+      "It is warm there",
+      "The wall is white",
+      "They need natural light",
+      "He likes the view"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the photographer do with the lamp?",
+     "options": [
+      "He breaks it",
+      "He changes the bulb",
+      "He hides it",
+      "He turns it on"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What colour do the boy's eyes look in daylight?",
+     "options": [
+      "Green",
+      "Brown",
+      "Blue",
+      "Grey"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Switch off the light, please.",
+    "There is a light bulb here.",
+    "Light a candle for me."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Light",
+    "question_text": "Do you sleep with the light on or off?",
+    "hint_words": [
+     "off",
+     "on",
+     "dark",
+     "I sleep"
+    ]
+   },
+   {
+    "topic": "Light",
+    "question_text": "Is there much natural light in your room?",
+    "hint_words": [
+     "yes",
+     "no",
+     "window",
+     "bright"
+    ]
+   },
+   {
+    "topic": "Light",
+    "question_text": "What do you do when the light goes out?",
+    "hint_words": [
+     "candle",
+     "phone",
+     "wait",
+     "torch"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 26,
+  "title": "fire",
+  "vocabulary": [
+   {
+    "word": "light a fire",
+    "translation_uz": "olov yoqmoq",
+    "example_sentence": "The scouts lit a fire to cook their dinner."
+   },
+   {
+    "word": "make a fire",
+    "translation_uz": "gulxan yoqmoq",
+    "example_sentence": "It is easy to make a fire with dry wood."
+   },
+   {
+    "word": "put out a fire",
+    "translation_uz": "olovni o'chirmoq",
+    "example_sentence": "Firefighters put out the fire in ten minutes."
+   },
+   {
+    "word": "a fire breaks out",
+    "translation_uz": "yong'in chiqadi",
+    "example_sentence": "A fire broke out in the old warehouse."
+   },
+   {
+    "word": "catch fire",
+    "translation_uz": "alanga olmoq",
+    "example_sentence": "Dry grass can catch fire easily."
+   },
+   {
+    "word": "set fire to",
+    "translation_uz": "o't qo'ymoq",
+    "example_sentence": "Never set fire to rubbish in the garden."
+   },
+   {
+    "word": "on fire",
+    "translation_uz": "yonib turgan",
+    "example_sentence": "Look! The car is on fire."
+   },
+   {
+    "word": "a fire alarm",
+    "translation_uz": "yong'in signalizatsiyasi",
+    "example_sentence": "The fire alarm rang during the lesson."
+   },
+   {
+    "word": "a fire engine",
+    "translation_uz": "o't o'chirish mashinasi",
+    "example_sentence": "A fire engine arrived with its siren on."
+   },
+   {
+    "word": "the fire brigade",
+    "translation_uz": "o't o'chirish xizmati",
+    "example_sentence": "Someone called the fire brigade immediately."
+   },
+   {
+    "word": "a fire exit",
+    "translation_uz": "yong'in chiqish eshigi",
+    "example_sentence": "Keep the fire exit clear."
+   },
+   {
+    "word": "a fire drill",
+    "translation_uz": "yong'in mashqi",
+    "example_sentence": "We have a fire drill at school every term."
+   },
+   {
+    "word": "a forest fire",
+    "translation_uz": "o'rmon yong'ini",
+    "example_sentence": "Hot, dry weather can start a forest fire."
+   },
+   {
+    "word": "an open fire",
+    "translation_uz": "ochiq olov",
+    "example_sentence": "The cottage has an open fire in the living room."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Firefighters worked for hours to ___ out the fire.",
+    "correct_word": "put",
+    "options": [
+     "take",
+     "give",
+     "put",
+     "push"
+    ]
+   },
+   {
+    "sentence_with_blank": "A small fire ___ out in the kitchen last night.",
+    "correct_word": "broke",
+    "options": [
+     "fell",
+     "ran",
+     "took",
+     "broke"
+    ]
+   },
+   {
+    "sentence_with_blank": "The dry grass caught ___ in the hot sun.",
+    "correct_word": "fire",
+    "options": [
+     "fire",
+     "flame",
+     "heat",
+     "burn"
+    ]
+   },
+   {
+    "sentence_with_blank": "Someone ___ fire to the old paper behind the shop.",
+    "correct_word": "set",
+    "options": [
+     "made",
+     "set",
+     "gave",
+     "took"
+    ]
+   },
+   {
+    "sentence_with_blank": "Everyone left the building when the fire ___ rang.",
+    "correct_word": "alarm",
+    "options": [
+     "clock",
+     "phone",
+     "alarm",
+     "door"
+    ]
+   },
+   {
+    "sentence_with_blank": "Look at that car! It is ___ fire!",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "at",
+     "with",
+     "on"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Fire Drill",
+   "text": "Every term our school has a fire drill. Last Wednesday the fire alarm rang in the middle of a maths lesson. We left our bags and walked quickly to the nearest fire exit. Our teacher counted us in the yard to make sure everybody was safe. A firefighter came and explained how to put out a small fire with a blanket. He also told us that many fires break out in kitchens, so people should never leave cooking alone. It was not a real fire, but we learned a lot.",
+   "key_words": [
+    {
+     "word": "blanket",
+     "translation_uz": "ko'rpa"
+    },
+    {
+     "word": "yard",
+     "translation_uz": "hovli"
+    },
+    {
+     "word": "safe",
+     "translation_uz": "xavfsiz"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When did the fire alarm ring?",
+     "options": [
+      "During lunch",
+      "After school",
+      "During a maths lesson",
+      "In the morning break"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the students do first?",
+     "options": [
+      "They took their coats",
+      "They called home",
+      "They opened the windows",
+      "They left their bags"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where do many fires break out, according to the firefighter?",
+     "options": [
+      "In kitchens",
+      "In schools",
+      "In forests",
+      "In cars"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Camping Trip",
+   "script": "Leader: Let's make a fire before it gets dark. Boy: Shall I find some wood? Leader: Yes, but only dry wood. Wet wood doesn't catch fire easily. Remember the rules: we light the fire far from the tents, and we never leave it alone. Boy: What if it becomes too big? Leader: Then we put it out with water. Before we go to sleep, we always check that the fire is completely out. A forest fire can start from one small spark.",
+   "questions": [
+    {
+     "question": "What kind of wood should the boy find?",
+     "options": [
+      "Wet wood",
+      "Green wood",
+      "Old furniture",
+      "Dry wood"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where do they light the fire?",
+     "options": [
+      "Far from the tents",
+      "Inside a tent",
+      "Next to the car",
+      "Under a tree"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do they do before they sleep?",
+     "options": [
+      "Add more wood",
+      "Check the fire is out",
+      "Tell stories by the fire",
+      "Cook dinner"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "They lit a fire.",
+    "The fire alarm rang loudly.",
+    "Call the fire brigade!"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fire Safety",
+    "question_text": "What should you do if you hear a fire alarm?",
+    "hint_words": [
+     "leave",
+     "calm",
+     "exit",
+     "do not run"
+    ]
+   },
+   {
+    "topic": "Fire Safety",
+    "question_text": "Have you ever made a fire?",
+    "hint_words": [
+     "yes",
+     "no",
+     "camping",
+     "wood"
+    ]
+   },
+   {
+    "topic": "Fire Safety",
+    "question_text": "Why is a forest fire dangerous?",
+    "hint_words": [
+     "animals",
+     "trees",
+     "fast",
+     "smoke"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 27,
+  "title": "water",
+  "vocabulary": [
+   {
+    "word": "drinking water",
+    "translation_uz": "ichimlik suvi",
+    "example_sentence": "Clean drinking water is vital for health."
+   },
+   {
+    "word": "fresh water / salt water",
+    "translation_uz": "chuchuk suv / sho'r suv",
+    "example_sentence": "Fish in the sea live in salt water."
+   },
+   {
+    "word": "tap water",
+    "translation_uz": "jo'mrak suvi",
+    "example_sentence": "In many cities tap water is safe to drink."
+   },
+   {
+    "word": "mineral water",
+    "translation_uz": "mineral suv",
+    "example_sentence": "I always take a bottle of mineral water to school."
+   },
+   {
+    "word": "running water",
+    "translation_uz": "oqar suv",
+    "example_sentence": "The village now has running water in every house."
+   },
+   {
+    "word": "hot / cold water",
+    "translation_uz": "issiq / sovuq suv",
+    "example_sentence": "There is no hot water in the morning."
+   },
+   {
+    "word": "a glass of water",
+    "translation_uz": "bir stakan suv",
+    "example_sentence": "Can I have a glass of water, please?"
+   },
+   {
+    "word": "boil water",
+    "translation_uz": "suvni qaynatmoq",
+    "example_sentence": "You must boil water before drinking it on a camping trip."
+   },
+   {
+    "word": "pour water",
+    "translation_uz": "suv quymoq",
+    "example_sentence": "She poured water into the cups."
+   },
+   {
+    "word": "the water supply",
+    "translation_uz": "suv ta'minoti",
+    "example_sentence": "The water supply was cut off for two hours."
+   },
+   {
+    "word": "the water level",
+    "translation_uz": "suv sathi",
+    "example_sentence": "The water level in the lake rose after the rain."
+   },
+   {
+    "word": "under water",
+    "translation_uz": "suv ostida",
+    "example_sentence": "Divers can stay under water for only a short time."
+   },
+   {
+    "word": "water the plants",
+    "translation_uz": "o'simliklarga suv bermoq",
+    "example_sentence": "I water the plants every morning."
+   },
+   {
+    "word": "save water",
+    "translation_uz": "suvni tejamoq",
+    "example_sentence": "We can save water by taking short showers."
+   },
+   {
+    "word": "waterproof",
+    "translation_uz": "suv o'tkazmaydigan",
+    "example_sentence": "This jacket is waterproof."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The water ___ in the lake rose after the heavy rain.",
+    "correct_word": "level",
+    "options": [
+     "size",
+     "edge",
+     "top",
+     "level"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the plants every morning, because it is hot.",
+    "correct_word": "water",
+    "options": [
+     "water",
+     "drink",
+     "wash",
+     "dry"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I have a ___ of water, please?",
+    "correct_word": "glass",
+    "options": [
+     "piece",
+     "glass",
+     "plate",
+     "slice"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ water into the cups and gave them to the guests.",
+    "correct_word": "poured",
+    "options": [
+     "dropped",
+     "pushed",
+     "poured",
+     "closed"
+    ]
+   },
+   {
+    "sentence_with_blank": "Divers can stay ___ water for only a short time.",
+    "correct_word": "under",
+    "options": [
+     "on",
+     "over",
+     "above",
+     "under"
+    ]
+   },
+   {
+    "sentence_with_blank": "We should ___ water, because there is not much rain this year.",
+    "correct_word": "save",
+    "options": [
+     "save",
+     "spend",
+     "win",
+     "gain"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Water for the Village",
+   "text": "Until last year the people in Zarina's village had no running water. Women and children walked a kilometre every morning to a well and carried heavy buckets home. Then a charity built a water supply system. Now every house has a tap, and the water is clean and safe to drink. Zarina's grandmother says that the new water is the best gift the village has ever had. Zarina turns off the tap when she brushes her teeth, because she wants to save water.",
+   "key_words": [
+    {
+     "word": "well",
+     "translation_uz": "quduq"
+    },
+    {
+     "word": "bucket",
+     "translation_uz": "chelak"
+    },
+    {
+     "word": "charity",
+     "translation_uz": "xayriya tashkiloti"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did people in the village do every morning before?",
+     "options": [
+      "Went to school",
+      "Dug a river",
+      "Bought bottles",
+      "Walked to a well"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who built the water supply system?",
+     "options": [
+      "A charity",
+      "The government",
+      "The villagers alone",
+      "Zarina's father"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Zarina do to save water?",
+     "options": [
+      "She drinks less",
+      "She turns off the tap when she brushes her teeth",
+      "She has a bath every day",
+      "She waters the plants at night"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Campsite",
+   "script": "Father: Before we drink the river water, we must boil it. Son: Why? It looks clean. Father: Because it can contain germs. We also have tap water at the campsite, but the supply is limited, so please save water. Son: Can I wash my hands under the tap? Father: Yes, but turn it off quickly. And pour some water on the campfire before bed. Son: OK, Dad. Can I have a glass of mineral water, please? Father: Of course. It is in the blue bag.",
+   "questions": [
+    {
+     "question": "Why must they boil the river water?",
+     "options": [
+      "It can contain germs",
+      "It is too cold",
+      "It is salty",
+      "It has fish in it"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What should the son do with the tap?",
+     "options": [
+      "Leave it open",
+      "Turn it off quickly",
+      "Break it",
+      "Fill a bucket"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is the mineral water?",
+     "options": [
+      "In the car",
+      "In the river",
+      "In the blue bag",
+      "In the tent"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Drinking water is important.",
+    "Please save water.",
+    "I water the plants."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Water",
+    "question_text": "How much water do you drink every day?",
+    "hint_words": [
+     "glasses",
+     "about",
+     "a lot",
+     "I drink"
+    ]
+   },
+   {
+    "topic": "Water",
+    "question_text": "How can people save water at home?",
+    "hint_words": [
+     "tap",
+     "shower",
+     "short",
+     "turn off"
+    ]
+   },
+   {
+    "topic": "Water",
+    "question_text": "Is the tap water in your town safe?",
+    "hint_words": [
+     "yes",
+     "no",
+     "drink",
+     "boil"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 28,
+  "title": "noise and silence",
+  "vocabulary": [
+   {
+    "word": "make a noise",
+    "translation_uz": "shovqin qilmoq",
+    "example_sentence": "Please do not make a noise in the library."
+   },
+   {
+    "word": "a loud noise",
+    "translation_uz": "baland shovqin",
+    "example_sentence": "We heard a loud noise outside the window."
+   },
+   {
+    "word": "a strange noise",
+    "translation_uz": "g'alati shovqin",
+    "example_sentence": "I heard a strange noise coming from the attic."
+   },
+   {
+    "word": "background noise",
+    "translation_uz": "fon shovqini",
+    "example_sentence": "There was a lot of background noise in the cafe."
+   },
+   {
+    "word": "the noise level",
+    "translation_uz": "shovqin darajasi",
+    "example_sentence": "The noise level near the airport is very high."
+   },
+   {
+    "word": "noisy neighbours",
+    "translation_uz": "shovqinchi qo'shnilar",
+    "example_sentence": "Our noisy neighbours play music every night."
+   },
+   {
+    "word": "reduce the noise",
+    "translation_uz": "shovqinni kamaytirmoq",
+    "example_sentence": "Thick windows reduce the noise from the street."
+   },
+   {
+    "word": "complete silence",
+    "translation_uz": "to'liq sukunat",
+    "example_sentence": "The exam room was in complete silence."
+   },
+   {
+    "word": "in silence",
+    "translation_uz": "jim, sukutda",
+    "example_sentence": "The students listened in silence."
+   },
+   {
+    "word": "break the silence",
+    "translation_uz": "sukunatni buzmoq",
+    "example_sentence": "The teacher broke the silence with a question."
+   },
+   {
+    "word": "fall silent",
+    "translation_uz": "jim bo'lib qolmoq",
+    "example_sentence": "The whole room fell silent when the director came in."
+   },
+   {
+    "word": "keep silent",
+    "translation_uz": "sukut saqlamoq",
+    "example_sentence": "He kept silent about the surprise party."
+   },
+   {
+    "word": "a minute's silence",
+    "translation_uz": "bir daqiqa sukut",
+    "example_sentence": "We held a minute's silence at the school ceremony."
+   },
+   {
+    "word": "peace and quiet",
+    "translation_uz": "tinchlik va sukunat",
+    "example_sentence": "I need some peace and quiet to study."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please don't make so much ___; the baby is sleeping.",
+    "correct_word": "noise",
+    "options": [
+     "noise",
+     "quiet",
+     "silence",
+     "calm"
+    ]
+   },
+   {
+    "sentence_with_blank": "The class sat ___ silence while the teacher read the test results.",
+    "correct_word": "in",
+    "options": [
+     "with",
+     "in",
+     "by",
+     "under"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the news, the whole room fell ___.",
+    "correct_word": "silent",
+    "options": [
+     "silence",
+     "silently",
+     "silent",
+     "calm"
+    ]
+   },
+   {
+    "sentence_with_blank": "Nobody spoke, and the teacher finally ___ the silence.",
+    "correct_word": "broke",
+    "options": [
+     "opened",
+     "closed",
+     "dropped",
+     "broke"
+    ]
+   },
+   {
+    "sentence_with_blank": "I heard a strange ___ coming from the attic.",
+    "correct_word": "noise",
+    "options": [
+     "noise",
+     "silence",
+     "quiet",
+     "calm"
+    ]
+   },
+   {
+    "sentence_with_blank": "We moved to the countryside for some peace and ___.",
+    "correct_word": "quiet",
+    "options": [
+     "silent",
+     "quiet",
+     "silence",
+     "rest"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Studying in Peace",
+   "text": "Aziz lives in a flat next to a busy road, and his neighbours are noisy. Last week he had an important exam, and he could not study because of the noise level. He needed peace and quiet, so he went to the city library. There the rooms were in complete silence, and nobody made a noise. Only the soft sound of pages broke the silence. Aziz studied for four hours and felt ready for the exam. On the way home he decided to buy thick curtains to reduce the noise from the road.",
+   "key_words": [
+    {
+     "word": "exam",
+     "translation_uz": "imtihon"
+    },
+    {
+     "word": "curtain",
+     "translation_uz": "parda"
+    },
+    {
+     "word": "neighbour",
+     "translation_uz": "qo'shni"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why could Aziz not study at home?",
+     "options": [
+      "The noise level was too high",
+      "He was ill",
+      "He had no books",
+      "His room was cold"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did Aziz go to study?",
+     "options": [
+      "A cafe",
+      "The city library",
+      "His school",
+      "A friend's house"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Aziz plan to buy?",
+     "options": [
+      "A radio",
+      "Headphones",
+      "Thick curtains",
+      "A new desk"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Quiet Moment",
+   "script": "Teacher: Before we start the ceremony, I would like us to keep silent for a minute. Please stand up. Students: Yes, Miss. Teacher: Thank you. Now you may sit down. Today we remember our old school director, who worked here for thirty years. Boy: May I read a poem? Teacher: Of course, Rustam. Everybody, please listen in silence. When he finishes, we will sing the school song together. Remember, no loud noise in the corridor afterwards.",
+   "questions": [
+    {
+     "question": "What does the teacher ask the students to do first?",
+     "options": [
+      "Sing a song",
+      "Keep silent for a minute",
+      "Read a poem",
+      "Clean the room"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long did the old director work at the school?",
+     "options": [
+      "Ten years",
+      "Twenty years",
+      "Thirty years",
+      "Fifty years"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will happen after the poem?",
+     "options": [
+      "They will go home",
+      "They will have a test",
+      "They will play football",
+      "They will sing the school song"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Please do not make a noise.",
+    "The room fell silent.",
+    "I need peace and quiet."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Noise and Silence",
+    "question_text": "Is your street noisy or quiet?",
+    "hint_words": [
+     "noisy",
+     "quiet",
+     "cars",
+     "at night"
+    ]
+   },
+   {
+    "topic": "Noise and Silence",
+    "question_text": "Where do you go when you need peace and quiet?",
+    "hint_words": [
+     "library",
+     "park",
+     "my room",
+     "I go"
+    ]
+   },
+   {
+    "topic": "Noise and Silence",
+    "question_text": "Can you study with background noise?",
+    "hint_words": [
+     "yes",
+     "no",
+     "music",
+     "hard"
+    ]
+   }
+  ]
+ }
+]

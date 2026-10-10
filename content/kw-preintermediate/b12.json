@@ -1,0 +1,1448 @@
+[
+ {
+  "unit": 98,
+  "title": "bread, sandwich",
+  "vocabulary": [
+   {
+    "word": "bake bread",
+    "translation_uz": "non yopmoq",
+    "example_sentence": "My grandmother bakes bread every Friday."
+   },
+   {
+    "word": "fresh bread",
+    "translation_uz": "yangi non",
+    "example_sentence": "The smell of fresh bread filled the kitchen."
+   },
+   {
+    "word": "a loaf of bread",
+    "translation_uz": "bir bo'lak (butun) non",
+    "example_sentence": "Please buy a loaf of bread on your way home."
+   },
+   {
+    "word": "a slice of bread",
+    "translation_uz": "bir tilim non",
+    "example_sentence": "I had a slice of bread with jam."
+   },
+   {
+    "word": "white bread",
+    "translation_uz": "oq non",
+    "example_sentence": "We usually eat brown bread, not white bread."
+   },
+   {
+    "word": "bread and butter",
+    "translation_uz": "non va sariyog'",
+    "example_sentence": "She likes bread and butter with her tea."
+   },
+   {
+    "word": "toast the bread",
+    "translation_uz": "nonni qizartirmoq (tosterda)",
+    "example_sentence": "Toast the bread for two minutes."
+   },
+   {
+    "word": "make a sandwich",
+    "translation_uz": "sendvich tayyorlamoq",
+    "example_sentence": "I made a sandwich for the school trip."
+   },
+   {
+    "word": "a cheese sandwich",
+    "translation_uz": "pishloqli sendvich",
+    "example_sentence": "He ate a cheese sandwich in the park."
+   },
+   {
+    "word": "a sandwich bar",
+    "translation_uz": "sendvichxona",
+    "example_sentence": "We met at the sandwich bar near the station."
+   },
+   {
+    "word": "a packed lunch",
+    "translation_uz": "uydan olingan tushlik",
+    "example_sentence": "The children bring a sandwich in their packed lunch."
+   },
+   {
+    "word": "cut a sandwich in half",
+    "translation_uz": "sendvichni ikkiga bo'lmoq",
+    "example_sentence": "Dad cut the sandwich in half for us."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandmother likes to ___ bread on Fridays.",
+    "correct_word": "bake",
+    "options": [
+     "bake",
+     "paint",
+     "drive",
+     "sing"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you buy a ___ of bread from the shop?",
+    "correct_word": "loaf",
+    "options": [
+     "pair",
+     "loaf",
+     "tower",
+     "bunch"
+    ]
+   },
+   {
+    "sentence_with_blank": "I always make a ___ for the school trip.",
+    "correct_word": "sandwich",
+    "options": [
+     "storm",
+     "hat",
+     "sandwich",
+     "mountain"
+    ]
+   },
+   {
+    "sentence_with_blank": "She put a slice of cheese between two ___ of bread.",
+    "correct_word": "slices",
+    "options": [
+     "roofs",
+     "pages",
+     "wheels",
+     "slices"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ the sandwich in half so we could share it.",
+    "correct_word": "cut",
+    "options": [
+     "cut",
+     "grew",
+     "watched",
+     "lost"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Bakery on Our Street",
+   "text": "There is a small bakery on our street. The baker gets up at four o'clock to bake bread. By seven o'clock the fresh bread is on the shelves. I often buy a loaf on my way to school. At lunchtime I make a cheese sandwich with two slices of white bread. My best friend prefers brown bread. We eat our sandwiches together in the garden.",
+   "key_words": [
+    {
+     "word": "bakery",
+     "translation_uz": "novvoyxona"
+    },
+    {
+     "word": "shelves",
+     "translation_uz": "tokchalar"
+    },
+    {
+     "word": "prefers",
+     "translation_uz": "afzal ko'radi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the baker get up?",
+     "options": [
+      "At four o'clock",
+      "At seven o'clock",
+      "At six o'clock",
+      "At noon"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What kind of bread does the best friend prefer?",
+     "options": [
+      "White bread",
+      "Brown bread",
+      "Sweet bread",
+      "No bread"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where do they eat their sandwiches?",
+     "options": [
+      "At school",
+      "At the bakery",
+      "In the garden",
+      "In the park"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Picnic Plan",
+   "script": "Tomorrow we are going on a picnic. I will make a sandwich for everyone. First I toast some bread. Then I put butter and cheese on a slice. My sister will bring fruit and juice. Dad says we need one more loaf of bread, so I will go to the bakery this evening.",
+   "questions": [
+    {
+     "question": "What will the speaker make?",
+     "options": [
+      "A cake",
+      "Soup",
+      "A salad",
+      "A sandwich for everyone"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the speaker put on the bread?",
+     "options": [
+      "Butter and cheese",
+      "Jam and eggs",
+      "Chocolate",
+      "Fish"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where will the speaker go this evening?",
+     "options": [
+      "To the park",
+      "To the bakery",
+      "To school",
+      "To the market"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I bake bread.",
+    "A loaf of bread, please.",
+    "Make a sandwich."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Bread",
+    "question_text": "What kind of bread do you eat at home?",
+    "hint_words": [
+     "white",
+     "brown",
+     "we eat",
+     "bread"
+    ]
+   },
+   {
+    "topic": "Sandwich",
+    "question_text": "What do you like in a sandwich?",
+    "hint_words": [
+     "cheese",
+     "chicken",
+     "I like",
+     "sandwich"
+    ]
+   },
+   {
+    "topic": "Lunch",
+    "question_text": "Do you take a packed lunch to school?",
+    "hint_words": [
+     "I take",
+     "sandwich",
+     "packed lunch",
+     "school"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 99,
+  "title": "cake, biscuit",
+  "vocabulary": [
+   {
+    "word": "bake a cake",
+    "translation_uz": "tort pishirmoq",
+    "example_sentence": "We baked a cake for Mum's birthday."
+   },
+   {
+    "word": "a birthday cake",
+    "translation_uz": "tug'ilgan kun torti",
+    "example_sentence": "The birthday cake had ten candles."
+   },
+   {
+    "word": "a piece of cake",
+    "translation_uz": "bir bo'lak tort",
+    "example_sentence": "Would you like a piece of cake?"
+   },
+   {
+    "word": "cut the cake",
+    "translation_uz": "tortni kesmoq",
+    "example_sentence": "Dad will cut the cake after dinner."
+   },
+   {
+    "word": "a chocolate cake",
+    "translation_uz": "shokoladli tort",
+    "example_sentence": "My favourite is chocolate cake."
+   },
+   {
+    "word": "a cake shop",
+    "translation_uz": "qandolat do'koni",
+    "example_sentence": "There is a nice cake shop near my school."
+   },
+   {
+    "word": "a packet of biscuits",
+    "translation_uz": "bir pachka pechenye",
+    "example_sentence": "I bought a packet of biscuits for tea."
+   },
+   {
+    "word": "a chocolate biscuit",
+    "translation_uz": "shokoladli pechenye",
+    "example_sentence": "He ate a chocolate biscuit with his milk."
+   },
+   {
+    "word": "dip a biscuit in tea",
+    "translation_uz": "pechenyeni choyga botirmoq",
+    "example_sentence": "Grandpa likes to dip his biscuit in tea."
+   },
+   {
+    "word": "a tin of biscuits",
+    "translation_uz": "pechenye solingan quti",
+    "example_sentence": "Mum keeps a tin of biscuits on the shelf."
+   },
+   {
+    "word": "homemade cakes",
+    "translation_uz": "uyda tayyorlangan tortlar",
+    "example_sentence": "Her homemade cakes are the best in town."
+   },
+   {
+    "word": "a cup of tea and a biscuit",
+    "translation_uz": "bir piyola choy va pechenye",
+    "example_sentence": "After school I have a cup of tea and a biscuit."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We will ___ a cake for Grandma's birthday.",
+    "correct_word": "bake",
+    "options": [
+     "ride",
+     "bake",
+     "wear",
+     "pull"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum is going to ___ the cake into eight pieces.",
+    "correct_word": "cut",
+    "options": [
+     "jump",
+     "read",
+     "cut",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "She opened a ___ of biscuits and offered one to me.",
+    "correct_word": "packet",
+    "options": [
+     "pair",
+     "team",
+     "floor",
+     "packet"
+    ]
+   },
+   {
+    "sentence_with_blank": "Would you like a ___ of cake?",
+    "correct_word": "piece",
+    "options": [
+     "piece",
+     "pair",
+     "group",
+     "crowd"
+    ]
+   },
+   {
+    "sentence_with_blank": "My grandfather likes to ___ his biscuit in his tea.",
+    "correct_word": "dip",
+    "options": [
+     "kick",
+     "dip",
+     "sew",
+     "post"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Surprise Cake",
+   "text": "Yesterday was my mother's birthday. My sister and I wanted to surprise her, so we baked a chocolate cake in the afternoon. It was not easy! The cake was a little flat, but it tasted wonderful. We put ten candles on top. After dinner, Dad cut the cake and everyone had a piece. Mum was so happy that she cried. Then she opened a tin of biscuits and we ate those too.",
+   "key_words": [
+    {
+     "word": "surprise",
+     "translation_uz": "syurpriz qilmoq"
+    },
+    {
+     "word": "candles",
+     "translation_uz": "shamlar"
+    },
+    {
+     "word": "flat",
+     "translation_uz": "yassi, past"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who baked the cake?",
+     "options": [
+      "Mum",
+      "The writer and the sister",
+      "The father",
+      "A baker"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was wrong with the cake?",
+     "options": [
+      "It was a little flat",
+      "It was burnt",
+      "It was too big",
+      "It was cold"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who cut the cake?",
+     "options": [
+      "Mum",
+      "The sister",
+      "Dad",
+      "The writer"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Tea Time",
+   "script": "Every afternoon at four o'clock we have tea. Grandpa makes a pot of tea and Grandma brings a tin of biscuits. I like chocolate biscuits best. Grandpa dips his biscuit in his tea, but Grandma says that is not polite. On Sundays she bakes a cake, and we all have a big piece.",
+   "questions": [
+    {
+     "question": "When do they have tea?",
+     "options": [
+      "At six o'clock",
+      "At noon",
+      "At nine o'clock",
+      "At four o'clock"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Which biscuits does the speaker like best?",
+     "options": [
+      "Chocolate biscuits",
+      "Plain biscuits",
+      "Sweet biscuits with jam",
+      "Ginger biscuits"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Grandma do on Sundays?",
+     "options": [
+      "She goes shopping",
+      "She bakes a cake",
+      "She makes soup",
+      "She visits friends"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Bake a cake.",
+    "A piece of cake, please.",
+    "I like biscuits."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Cake",
+    "question_text": "What cake do you like best?",
+    "hint_words": [
+     "chocolate",
+     "birthday",
+     "I like",
+     "cake"
+    ]
+   },
+   {
+    "topic": "Birthday",
+    "question_text": "What do you eat on your birthday?",
+    "hint_words": [
+     "birthday cake",
+     "candles",
+     "we eat",
+     "family"
+    ]
+   },
+   {
+    "topic": "Biscuits",
+    "question_text": "Do you eat biscuits with tea or milk?",
+    "hint_words": [
+     "biscuits",
+     "tea",
+     "milk",
+     "I eat"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 100,
+  "title": "pasta, rice",
+  "vocabulary": [
+   {
+    "word": "cook pasta",
+    "translation_uz": "makaron pishirmoq",
+    "example_sentence": "Cook the pasta for ten minutes."
+   },
+   {
+    "word": "a bowl of pasta",
+    "translation_uz": "bir kosa makaron",
+    "example_sentence": "He ate a bowl of pasta for dinner."
+   },
+   {
+    "word": "pasta with tomato sauce",
+    "translation_uz": "pomidorli sousli makaron",
+    "example_sentence": "I like pasta with tomato sauce."
+   },
+   {
+    "word": "pasta salad",
+    "translation_uz": "makaronli salat",
+    "example_sentence": "We took pasta salad to the picnic."
+   },
+   {
+    "word": "boil pasta",
+    "translation_uz": "makaronni qaynatmoq",
+    "example_sentence": "Boil the pasta in salted water."
+   },
+   {
+    "word": "grow rice",
+    "translation_uz": "guruch yetishtirmoq",
+    "example_sentence": "Farmers grow rice in warm, wet places."
+   },
+   {
+    "word": "boiled rice",
+    "translation_uz": "qaynatilgan guruch",
+    "example_sentence": "We had chicken with boiled rice."
+   },
+   {
+    "word": "fried rice",
+    "translation_uz": "qovurilgan guruch",
+    "example_sentence": "Fried rice is popular in many countries."
+   },
+   {
+    "word": "a bag of rice",
+    "translation_uz": "bir qop guruch",
+    "example_sentence": "Please buy a bag of rice."
+   },
+   {
+    "word": "rice and vegetables",
+    "translation_uz": "guruch va sabzavotlar",
+    "example_sentence": "She cooked rice and vegetables for lunch."
+   },
+   {
+    "word": "a rice field",
+    "translation_uz": "sholipoya",
+    "example_sentence": "The rice fields look green in summer."
+   },
+   {
+    "word": "serve with rice",
+    "translation_uz": "guruch bilan birga dasturxonga tortmoq",
+    "example_sentence": "The chicken is served with rice."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ the pasta in a big pan of water.",
+    "correct_word": "boil",
+    "options": [
+     "paint",
+     "fly",
+     "boil",
+     "ring"
+    ]
+   },
+   {
+    "sentence_with_blank": "In many countries farmers ___ rice in wet fields.",
+    "correct_word": "grow",
+    "options": [
+     "drive",
+     "break",
+     "tell",
+     "grow"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ate a big ___ of pasta.",
+    "correct_word": "bowl",
+    "options": [
+     "bowl",
+     "pair",
+     "hole",
+     "boat"
+    ]
+   },
+   {
+    "sentence_with_blank": "Pasta ___ tomato sauce is my favourite dinner.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "with",
+     "at",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "We bought a ___ of rice at the market.",
+    "correct_word": "bag",
+    "options": [
+     "boat",
+     "team",
+     "bag",
+     "crowd"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Dinner for Six",
+   "text": "Tonight six people are coming for dinner, so my father is cooking a lot of food. First he boils the pasta and makes a tomato sauce. My mother cooks rice with vegetables in a big pan. I make a pasta salad for starters. The guests love the food and ask for a second bowl. After dinner, we all sit together and talk.",
+   "key_words": [
+    {
+     "word": "guests",
+     "translation_uz": "mehmonlar"
+    },
+    {
+     "word": "starters",
+     "translation_uz": "birinchi taom, sovuq gazak"
+    },
+    {
+     "word": "sauce",
+     "translation_uz": "sous"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many people are coming for dinner?",
+     "options": [
+      "Six",
+      "Four",
+      "Eight",
+      "Ten"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer make?",
+     "options": [
+      "Fried rice",
+      "A pasta salad",
+      "A tomato sauce",
+      "A birthday cake"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What do the guests ask for?",
+     "options": [
+      "Some tea",
+      "A recipe",
+      "Another table",
+      "A second bowl"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Cooking Lesson",
+   "script": "Today my uncle is teaching me to cook. First we boil the pasta for ten minutes. Then we make a sauce with tomatoes and onions. My uncle also shows me how to cook rice. He says one cup of rice needs two cups of water. We put everything on the table and eat a big bowl of pasta each.",
+   "questions": [
+    {
+     "question": "Who is teaching the speaker to cook?",
+     "options": [
+      "An uncle",
+      "A father",
+      "A teacher",
+      "A neighbour"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long do they boil the pasta?",
+     "options": [
+      "Five minutes",
+      "Ten minutes",
+      "Twenty minutes",
+      "One hour"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How much water does one cup of rice need?",
+     "options": [
+      "One cup",
+      "Three cups",
+      "Two cups",
+      "Half a cup"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Cook the pasta.",
+    "I like fried rice.",
+    "A bowl of rice."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Pasta",
+    "question_text": "Do you like pasta? What sauce do you like?",
+    "hint_words": [
+     "I like",
+     "tomato sauce",
+     "pasta",
+     "cheese"
+    ]
+   },
+   {
+    "topic": "Rice",
+    "question_text": "How often do you eat rice?",
+    "hint_words": [
+     "every day",
+     "sometimes",
+     "I eat",
+     "rice"
+    ]
+   },
+   {
+    "topic": "Cooking",
+    "question_text": "Can you cook pasta or rice?",
+    "hint_words": [
+     "I can",
+     "boil",
+     "cook",
+     "pan"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 101,
+  "title": "potatoes, chips",
+  "vocabulary": [
+   {
+    "word": "peel potatoes",
+    "translation_uz": "kartoshka archmoq",
+    "example_sentence": "Please peel the potatoes for dinner."
+   },
+   {
+    "word": "boil potatoes",
+    "translation_uz": "kartoshka qaynatmoq",
+    "example_sentence": "Boil the potatoes for twenty minutes."
+   },
+   {
+    "word": "mashed potatoes",
+    "translation_uz": "kartoshka pyuresi",
+    "example_sentence": "Mashed potatoes go well with chicken."
+   },
+   {
+    "word": "roast potatoes",
+    "translation_uz": "qovurilgan (pechda) kartoshka",
+    "example_sentence": "Grandma makes the best roast potatoes."
+   },
+   {
+    "word": "baked potatoes",
+    "translation_uz": "pechda pishirilgan kartoshka",
+    "example_sentence": "We had baked potatoes with cheese."
+   },
+   {
+    "word": "a sack of potatoes",
+    "translation_uz": "bir qop kartoshka",
+    "example_sentence": "The farmer sold us a sack of potatoes."
+   },
+   {
+    "word": "grow potatoes",
+    "translation_uz": "kartoshka yetishtirmoq",
+    "example_sentence": "They grow potatoes on their small farm."
+   },
+   {
+    "word": "fish and chips",
+    "translation_uz": "baliq va qovurilgan kartoshka",
+    "example_sentence": "Fish and chips is a famous English meal."
+   },
+   {
+    "word": "a portion of chips",
+    "translation_uz": "bir porsiya chips (fri)",
+    "example_sentence": "I would like a portion of chips, please."
+   },
+   {
+    "word": "fry chips",
+    "translation_uz": "kartoshka fri qovurmoq",
+    "example_sentence": "Dad fries chips on Fridays."
+   },
+   {
+    "word": "hot chips",
+    "translation_uz": "issiq kartoshka fri",
+    "example_sentence": "Be careful, the chips are very hot."
+   },
+   {
+    "word": "a packet of crisps",
+    "translation_uz": "bir pachka chips (qiyom)",
+    "example_sentence": "He opened a packet of crisps at break."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Mum asked me to ___ the potatoes before cooking.",
+    "correct_word": "peel",
+    "options": [
+     "sing",
+     "kick",
+     "visit",
+     "peel"
+    ]
+   },
+   {
+    "sentence_with_blank": "___ potatoes are soft and made with milk and butter.",
+    "correct_word": "Mashed",
+    "options": [
+     "Mashed",
+     "Painted",
+     "Broken",
+     "Wet"
+    ]
+   },
+   {
+    "sentence_with_blank": "I would like a ___ of chips, please.",
+    "correct_word": "portion",
+    "options": [
+     "pair",
+     "portion",
+     "team",
+     "shelf"
+    ]
+   },
+   {
+    "sentence_with_blank": "Farmers ___ potatoes in the ground.",
+    "correct_word": "grow",
+    "options": [
+     "fly",
+     "wear",
+     "grow",
+     "sew"
+    ]
+   },
+   {
+    "sentence_with_blank": "English people often eat fish and ___ on Fridays.",
+    "correct_word": "chips",
+    "options": [
+     "shoes",
+     "books",
+     "keys",
+     "chips"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Potato Day",
+   "text": "Every autumn my uncle has a potato day on his farm. He grows potatoes all year, and in October we dig them up. Each of us fills a sack of potatoes. In the evening Aunt peels some, and we eat mashed potatoes and roast potatoes. Dad makes chips too, and my little cousin eats a huge portion. The potatoes taste better when you grow them yourself.",
+   "key_words": [
+    {
+     "word": "dig up",
+     "translation_uz": "kovlab olmoq"
+    },
+    {
+     "word": "huge",
+     "translation_uz": "ulkan"
+    },
+    {
+     "word": "autumn",
+     "translation_uz": "kuz"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When do they dig up the potatoes?",
+     "options": [
+      "In October",
+      "In June",
+      "In January",
+      "In March"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do they fill?",
+     "options": [
+      "Baskets",
+      "Sacks",
+      "Boxes",
+      "Bowls"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who eats a huge portion of chips?",
+     "options": [
+      "The uncle",
+      "The writer",
+      "The little cousin",
+      "Aunt"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Fish and Chips",
+   "script": "On Fridays our family goes to the fish and chip shop. Dad orders fish and a big portion of chips for everyone. The chips are very hot, so we wait a little. Mum prefers baked potatoes with cheese at home, but she comes with us anyway. We eat on a bench near the river.",
+   "questions": [
+    {
+     "question": "When does the family go to the chip shop?",
+     "options": [
+      "On Sundays",
+      "On Mondays",
+      "On Saturdays",
+      "On Fridays"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Mum prefer?",
+     "options": [
+      "Baked potatoes with cheese",
+      "Mashed potatoes",
+      "Rice",
+      "Fried fish"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where do they eat?",
+     "options": [
+      "At home",
+      "On a bench near the river",
+      "At school",
+      "In the car"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Peel the potatoes.",
+    "Fish and chips, please.",
+    "The chips are hot."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Potatoes",
+    "question_text": "How do you like potatoes: mashed, roast or chips?",
+    "hint_words": [
+     "I like",
+     "mashed",
+     "roast",
+     "chips"
+    ]
+   },
+   {
+    "topic": "Fast food",
+    "question_text": "Do you often eat chips? When?",
+    "hint_words": [
+     "sometimes",
+     "with",
+     "I eat",
+     "chips"
+    ]
+   },
+   {
+    "topic": "Cooking",
+    "question_text": "Can you peel potatoes? Who cooks them at your home?",
+    "hint_words": [
+     "peel",
+     "my mother",
+     "cook",
+     "potatoes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 102,
+  "title": "chocolate, sugar",
+  "vocabulary": [
+   {
+    "word": "a bar of chocolate",
+    "translation_uz": "bir plitka shokolad",
+    "example_sentence": "I bought a bar of chocolate for my friend."
+   },
+   {
+    "word": "a box of chocolates",
+    "translation_uz": "bir quti shokolad konfetlari",
+    "example_sentence": "He gave her a box of chocolates."
+   },
+   {
+    "word": "hot chocolate",
+    "translation_uz": "issiq shokolad (ichimlik)",
+    "example_sentence": "We drink hot chocolate in winter."
+   },
+   {
+    "word": "milk chocolate",
+    "translation_uz": "sutli shokolad",
+    "example_sentence": "Most children love milk chocolate."
+   },
+   {
+    "word": "dark chocolate",
+    "translation_uz": "qora shokolad",
+    "example_sentence": "Dark chocolate has a strong taste."
+   },
+   {
+    "word": "a chocolate ice cream",
+    "translation_uz": "shokoladli muzqaymoq",
+    "example_sentence": "I would like a chocolate ice cream."
+   },
+   {
+    "word": "a spoonful of sugar",
+    "translation_uz": "bir qoshiq shakar",
+    "example_sentence": "Add a spoonful of sugar to the tea."
+   },
+   {
+    "word": "a bag of sugar",
+    "translation_uz": "bir qop shakar",
+    "example_sentence": "Mum bought a bag of sugar for the cake."
+   },
+   {
+    "word": "add sugar",
+    "translation_uz": "shakar solmoq",
+    "example_sentence": "Do not add too much sugar to the drink."
+   },
+   {
+    "word": "brown sugar",
+    "translation_uz": "jigarrang shakar",
+    "example_sentence": "Brown sugar makes the cake darker."
+   },
+   {
+    "word": "too much sugar",
+    "translation_uz": "juda ko'p shakar",
+    "example_sentence": "Too much sugar is bad for your teeth."
+   },
+   {
+    "word": "sugar-free",
+    "translation_uz": "shakarsiz",
+    "example_sentence": "He drinks sugar-free lemonade."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She gave me a ___ of chocolates for my birthday.",
+    "correct_word": "box",
+    "options": [
+     "box",
+     "pair",
+     "group",
+     "floor"
+    ]
+   },
+   {
+    "sentence_with_blank": "In winter I like to drink hot ___.",
+    "correct_word": "chocolate",
+    "options": [
+     "stairs",
+     "chocolate",
+     "paper",
+     "shoes"
+    ]
+   },
+   {
+    "sentence_with_blank": "Do you take sugar in your tea? Yes, one ___, please.",
+    "correct_word": "spoonful",
+    "options": [
+     "pair",
+     "page",
+     "spoonful",
+     "team"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dentists say that too ___ sugar is bad for your teeth.",
+    "correct_word": "much",
+    "options": [
+     "many",
+     "few",
+     "every",
+     "much"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ a little sugar to the lemon juice.",
+    "correct_word": "add",
+    "options": [
+     "add",
+     "kick",
+     "stand",
+     "read"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Sweet Tooth",
+   "text": "My little brother has a sweet tooth. He loves a bar of milk chocolate after lunch, and he always drinks hot chocolate before bed. He also adds two spoonfuls of sugar to his tea. Mum worries that he eats too much sugar. She says it is bad for his teeth. Now he is trying dark chocolate because it has less sugar, but he does not like the taste.",
+   "key_words": [
+    {
+     "word": "sweet tooth",
+     "translation_uz": "shirinlikka o'ch"
+    },
+    {
+     "word": "worries",
+     "translation_uz": "xavotir olmoq"
+    },
+    {
+     "word": "taste",
+     "translation_uz": "ta'm"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the brother drink before bed?",
+     "options": [
+      "Tea with sugar",
+      "Hot chocolate",
+      "Milk",
+      "Juice"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why does Mum worry?",
+     "options": [
+      "He eats too much sugar",
+      "He eats no breakfast",
+      "He sleeps too late",
+      "He does not drink water"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why does he try dark chocolate?",
+     "options": [
+      "It is cheaper",
+      "It is bigger",
+      "It has less sugar",
+      "It is sweeter"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Making Hot Chocolate",
+   "script": "It is cold today, so I am making hot chocolate. I heat some milk in a pan. Then I add a spoonful of chocolate powder and a little brown sugar. My sister wants a sugar-free drink, so I use less sugar for her cup. We drink it with a biscuit and watch the snow outside.",
+   "questions": [
+    {
+     "question": "Why is the speaker making hot chocolate?",
+     "options": [
+      "It is cold",
+      "It is a birthday",
+      "There is no milk",
+      "The sister is ill"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the speaker add to the pan?",
+     "options": [
+      "Salt and rice",
+      "Tea and lemon",
+      "Butter and eggs",
+      "Chocolate powder and brown sugar"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do they drink it with?",
+     "options": [
+      "A sandwich",
+      "A biscuit",
+      "A cake",
+      "Fruit"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "A bar of chocolate.",
+    "Add some sugar.",
+    "I like hot chocolate."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Chocolate",
+    "question_text": "Do you like chocolate? Which kind?",
+    "hint_words": [
+     "milk",
+     "dark",
+     "I like",
+     "chocolate"
+    ]
+   },
+   {
+    "topic": "Sugar",
+    "question_text": "Do you put sugar in your tea?",
+    "hint_words": [
+     "I put",
+     "a spoonful",
+     "tea",
+     "sugar"
+    ]
+   },
+   {
+    "topic": "Healthy",
+    "question_text": "Why is too much sugar bad for you?",
+    "hint_words": [
+     "teeth",
+     "bad",
+     "too much",
+     "healthy"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 103,
+  "title": "salt",
+  "vocabulary": [
+   {
+    "word": "add salt",
+    "translation_uz": "tuz solmoq",
+    "example_sentence": "Add a little salt to the soup."
+   },
+   {
+    "word": "a pinch of salt",
+    "translation_uz": "bir chimdim tuz",
+    "example_sentence": "Put a pinch of salt in the water."
+   },
+   {
+    "word": "pass the salt",
+    "translation_uz": "tuzni uzatmoq",
+    "example_sentence": "Could you pass the salt, please?"
+   },
+   {
+    "word": "salt and pepper",
+    "translation_uz": "tuz va murch",
+    "example_sentence": "Please put salt and pepper on the table."
+   },
+   {
+    "word": "too much salt",
+    "translation_uz": "juda ko'p tuz",
+    "example_sentence": "This soup has too much salt."
+   },
+   {
+    "word": "a salt shaker",
+    "translation_uz": "tuzdon",
+    "example_sentence": "There is a salt shaker on every table."
+   },
+   {
+    "word": "sea salt",
+    "translation_uz": "dengiz tuzi",
+    "example_sentence": "Sea salt is made from sea water."
+   },
+   {
+    "word": "salty food",
+    "translation_uz": "sho'r ovqat",
+    "example_sentence": "Salty food makes you thirsty."
+   },
+   {
+    "word": "taste salty",
+    "translation_uz": "sho'r ta'm bermoq",
+    "example_sentence": "The sea water tastes very salty."
+   },
+   {
+    "word": "salt the water",
+    "translation_uz": "suvga tuz solmoq",
+    "example_sentence": "Salt the water before you boil the pasta."
+   },
+   {
+    "word": "a packet of salted nuts",
+    "translation_uz": "bir pachka tuzlangan yong'oq",
+    "example_sentence": "He ate a packet of salted nuts."
+   },
+   {
+    "word": "low in salt",
+    "translation_uz": "tuzi kam",
+    "example_sentence": "Doctors say we need food that is low in salt."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ a little salt to the potatoes.",
+    "correct_word": "add",
+    "options": [
+     "miss",
+     "add",
+     "wear",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "Could you ___ me the salt, please?",
+    "correct_word": "pass",
+    "options": [
+     "break",
+     "climb",
+     "pass",
+     "kick"
+    ]
+   },
+   {
+    "sentence_with_blank": "Put in just a ___ of salt, not a spoonful.",
+    "correct_word": "pinch",
+    "options": [
+     "pair",
+     "group",
+     "sheet",
+     "pinch"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sea water tastes very ___.",
+    "correct_word": "salty",
+    "options": [
+     "salty",
+     "sweet",
+     "sour",
+     "cold"
+    ]
+   },
+   {
+    "sentence_with_blank": "The soup is too ___ because Dad added too much salt.",
+    "correct_word": "salty",
+    "options": [
+     "sweet",
+     "salty",
+     "hot",
+     "empty"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Salty Soup",
+   "text": "Yesterday I cooked soup for my family for the first time. I chopped the vegetables and boiled them in water. Then I added salt, but I added too much! When my father tasted the soup, he made a funny face. It was very salty. Mum said, \"Next time, just add a pinch of salt and taste it first.\" We drank a lot of water that evening, and we all laughed.",
+   "key_words": [
+    {
+     "word": "funny face",
+     "translation_uz": "kulgili yuz"
+    },
+    {
+     "word": "tasted",
+     "translation_uz": "tatib ko'rdi"
+    },
+    {
+     "word": "first time",
+     "translation_uz": "birinchi marta"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What went wrong with the soup?",
+     "options": [
+      "It was cold",
+      "It had no vegetables",
+      "It had too much salt",
+      "It was burnt"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Dad do?",
+     "options": [
+      "He made a funny face",
+      "He cooked a new soup",
+      "He went to bed",
+      "He cried"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the family do that evening?",
+     "options": [
+      "They ate pasta",
+      "They drank a lot of water",
+      "They went out",
+      "They cooked again"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "On the Table",
+   "script": "At dinner the food was good but a little plain. My brother asked, \"Please pass the salt.\" I gave him the salt shaker, and he added a pinch to his rice. Dad does not use much salt because it is not healthy. Mum says sea salt tastes better. She keeps a small jar of it near the cooker.",
+   "questions": [
+    {
+     "question": "What did the brother ask for?",
+     "options": [
+      "The pepper",
+      "The water",
+      "The bread",
+      "The salt"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did he add the salt to?",
+     "options": [
+      "His rice",
+      "His soup",
+      "His egg",
+      "His chicken"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where does Mum keep the sea salt?",
+     "options": [
+      "In the fridge",
+      "Near the cooker",
+      "In her bag",
+      "On the balcony"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Pass the salt.",
+    "Add a pinch of salt.",
+    "The soup is salty."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Salt",
+    "question_text": "Do you add salt to your food?",
+    "hint_words": [
+     "I add",
+     "a little",
+     "salt",
+     "food"
+    ]
+   },
+   {
+    "topic": "Taste",
+    "question_text": "What food tastes very salty to you?",
+    "hint_words": [
+     "chips",
+     "nuts",
+     "salty",
+     "tastes"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "Why is too much salt not healthy?",
+    "hint_words": [
+     "too much",
+     "salt",
+     "healthy",
+     "doctors"
+    ]
+   }
+  ]
+ }
+]

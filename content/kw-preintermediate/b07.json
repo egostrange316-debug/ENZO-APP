@@ -1,0 +1,1508 @@
+[
+ {
+  "unit": 58,
+  "title": "car",
+  "vocabulary": [
+   {
+    "word": "drive a car",
+    "translation_uz": "mashina haydamoq",
+    "example_sentence": "My mother drives a car to work."
+   },
+   {
+    "word": "park a car",
+    "translation_uz": "mashinani to'xtatmoq",
+    "example_sentence": "You can't park a car here."
+   },
+   {
+    "word": "wash the car",
+    "translation_uz": "mashinani yuvmoq",
+    "example_sentence": "Dad washes the car on Sundays."
+   },
+   {
+    "word": "get into a car",
+    "translation_uz": "mashinaga o'tirmoq",
+    "example_sentence": "She got into the car and fastened her seat belt."
+   },
+   {
+    "word": "get out of a car",
+    "translation_uz": "mashinadan tushmoq",
+    "example_sentence": "We got out of the car at the shop."
+   },
+   {
+    "word": "by car",
+    "translation_uz": "mashinada",
+    "example_sentence": "We go to the village by car."
+   },
+   {
+    "word": "a car park",
+    "translation_uz": "avtoturargoh",
+    "example_sentence": "The car park is behind the supermarket."
+   },
+   {
+    "word": "a car accident",
+    "translation_uz": "avtohalokat",
+    "example_sentence": "There was a car accident on the main road."
+   },
+   {
+    "word": "a car breaks down",
+    "translation_uz": "mashina buzilib qoladi",
+    "example_sentence": "Our car broke down on the way home."
+   },
+   {
+    "word": "a second-hand car",
+    "translation_uz": "ishlatilgan mashina",
+    "example_sentence": "They bought a second-hand car."
+   },
+   {
+    "word": "a car crash",
+    "translation_uz": "avtohalokat (to'qnashuv)",
+    "example_sentence": "Nobody was hurt in the car crash."
+   },
+   {
+    "word": "rent a car",
+    "translation_uz": "mashina ijaraga olmoq",
+    "example_sentence": "We rented a car on holiday."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My father learned to ___ a car when he was eighteen.",
+    "correct_word": "drive",
+    "options": [
+     "drive",
+     "swim",
+     "cook",
+     "write"
+    ]
+   },
+   {
+    "sentence_with_blank": "We always travel to my grandma's ___ car.",
+    "correct_word": "by",
+    "options": [
+     "with",
+     "by",
+     "on",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the car in the car park.",
+    "correct_word": "park",
+    "options": [
+     "wash",
+     "sing",
+     "park",
+     "bake"
+    ]
+   },
+   {
+    "sentence_with_blank": "The car ___ down on the motorway, so we called a mechanic.",
+    "correct_word": "broke",
+    "options": [
+     "fell",
+     "grew",
+     "flew",
+     "broke"
+    ]
+   },
+   {
+    "sentence_with_blank": "She got ___ of the car and walked to the door.",
+    "correct_word": "out",
+    "options": [
+     "out",
+     "up",
+     "away",
+     "off"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother ___ the car every Saturday morning.",
+    "correct_word": "washes",
+    "options": [
+     "reads",
+     "washes",
+     "wears",
+     "drinks"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Trip by Car",
+   "text": "On Saturday my family went to the mountains by car. Dad drove and Mum read the map. After an hour our car broke down, so we got out of the car and waited. A kind man helped us, and we parked the car in a small car park near a cafe. Later a mechanic fixed it. We arrived late but happy.",
+   "key_words": [
+    {
+     "word": "map",
+     "translation_uz": "xarita"
+    },
+    {
+     "word": "mechanic",
+     "translation_uz": "mexanik"
+    },
+    {
+     "word": "fixed",
+     "translation_uz": "tuzatdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who drove the car?",
+     "options": [
+      "Mum",
+      "A kind man",
+      "Dad",
+      "The mechanic"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened after an hour?",
+     "options": [
+      "They arrived",
+      "They had lunch",
+      "They got lost",
+      "The car broke down"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who fixed the car?",
+     "options": [
+      "A mechanic",
+      "Dad",
+      "Mum",
+      "The kind man"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Busy Morning",
+   "script": "This morning my dad washed the car before work. Then he drove me to school. The car park near the school was full, so he parked on a side street. I got out of the car and said goodbye. On the radio they said there was a car accident on the main road, so Dad went another way.",
+   "questions": [
+    {
+     "question": "What did Dad do before work?",
+     "options": [
+      "He parked on the main road",
+      "He washed the car",
+      "He repaired the car",
+      "He rented a car"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did Dad park on a side street?",
+     "options": [
+      "He liked it",
+      "The school was closed",
+      "The car park was full",
+      "There was snow"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened on the main road?",
+     "options": [
+      "A parade",
+      "A fire",
+      "A race",
+      "A car accident"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "He drives a car.",
+    "We go by car.",
+    "Park the car here."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Cars",
+    "question_text": "Does your family have a car?",
+    "hint_words": [
+     "yes",
+     "no",
+     "big",
+     "small"
+    ]
+   },
+   {
+    "topic": "Cars",
+    "question_text": "Can you drive a car?",
+    "hint_words": [
+     "yes",
+     "no",
+     "not yet",
+     "learn"
+    ]
+   },
+   {
+    "topic": "Travel",
+    "question_text": "Do you like travelling by car?",
+    "hint_words": [
+     "yes",
+     "no",
+     "window",
+     "music"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 59,
+  "title": "bus, petrol",
+  "vocabulary": [
+   {
+    "word": "catch a bus",
+    "translation_uz": "avtobusga ulgurmoq",
+    "example_sentence": "I catch the bus at eight o'clock."
+   },
+   {
+    "word": "miss the bus",
+    "translation_uz": "avtobusdan qolmoq",
+    "example_sentence": "He missed the bus and was late."
+   },
+   {
+    "word": "get on the bus",
+    "translation_uz": "avtobusga chiqmoq",
+    "example_sentence": "She got on the bus at the market."
+   },
+   {
+    "word": "get off the bus",
+    "translation_uz": "avtobusdan tushmoq",
+    "example_sentence": "We get off the bus near the school."
+   },
+   {
+    "word": "by bus",
+    "translation_uz": "avtobusda",
+    "example_sentence": "I go to school by bus."
+   },
+   {
+    "word": "a bus stop",
+    "translation_uz": "avtobus bekati",
+    "example_sentence": "Wait at the bus stop."
+   },
+   {
+    "word": "a bus driver",
+    "translation_uz": "avtobus haydovchisi",
+    "example_sentence": "The bus driver says good morning."
+   },
+   {
+    "word": "a school bus",
+    "translation_uz": "maktab avtobusi",
+    "example_sentence": "The school bus comes at seven."
+   },
+   {
+    "word": "a bus ticket",
+    "translation_uz": "avtobus chiptasi",
+    "example_sentence": "A bus ticket costs one pound."
+   },
+   {
+    "word": "fill the car with petrol",
+    "translation_uz": "mashinaga benzin quymoq",
+    "example_sentence": "Dad filled the car with petrol."
+   },
+   {
+    "word": "a petrol station",
+    "translation_uz": "yoqilg'i quyish shoxobchasi",
+    "example_sentence": "There is a petrol station near the bridge."
+   },
+   {
+    "word": "run out of petrol",
+    "translation_uz": "benzin tugab qolmoq",
+    "example_sentence": "The car ran out of petrol."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I have to ___ the bus at seven o'clock.",
+    "correct_word": "catch",
+    "options": [
+     "catch",
+     "cook",
+     "paint",
+     "build"
+    ]
+   },
+   {
+    "sentence_with_blank": "We were late because we ___ the bus.",
+    "correct_word": "missed",
+    "options": [
+     "drank",
+     "missed",
+     "ate",
+     "wrote"
+    ]
+   },
+   {
+    "sentence_with_blank": "Get ___ the bus at the next stop.",
+    "correct_word": "off",
+    "options": [
+     "in",
+     "up",
+     "off",
+     "over"
+    ]
+   },
+   {
+    "sentence_with_blank": "The car stopped because it ran ___ of petrol.",
+    "correct_word": "out",
+    "options": [
+     "off",
+     "away",
+     "up",
+     "out"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad stopped at the petrol ___ to buy fuel.",
+    "correct_word": "station",
+    "options": [
+     "station",
+     "kitchen",
+     "school",
+     "garden"
+    ]
+   },
+   {
+    "sentence_with_blank": "Children wait for the school bus at the bus ___.",
+    "correct_word": "stop",
+    "options": [
+     "shop",
+     "stop",
+     "hole",
+     "door"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Going to School",
+   "text": "I go to school by bus. Every morning I walk to the bus stop and catch the number five bus. The bus driver is very friendly. Yesterday I missed the bus, so my dad took me by car. On the way we stopped at the petrol station because the car was almost out of petrol. I got to school ten minutes late.",
+   "key_words": [
+    {
+     "word": "friendly",
+     "translation_uz": "do'stona"
+    },
+    {
+     "word": "almost",
+     "translation_uz": "deyarli"
+    },
+    {
+     "word": "late",
+     "translation_uz": "kech"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How does the writer usually go to school?",
+     "options": [
+      "By car",
+      "By bike",
+      "By bus",
+      "On foot"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did the writer go by car yesterday?",
+     "options": [
+      "The bus was full",
+      "It was a holiday",
+      "His dad wanted a walk",
+      "He missed the bus"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did they stop at the petrol station?",
+     "options": [
+      "The car was almost out of petrol",
+      "Dad needed a ticket",
+      "They wanted breakfast",
+      "They got lost"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Waiting for the Bus",
+   "script": "Sara is at the bus stop. She wants to catch the eight-thirty bus to the city. She has a bus ticket in her bag. The bus is late, and she is worried. At last the bus comes, and Sara gets on. The bus driver smiles and says, \"Good morning!\" She gets off the bus in front of the library.",
+   "questions": [
+    {
+     "question": "Which bus does Sara want to catch?",
+     "options": [
+      "The five o'clock bus",
+      "The eight-thirty bus",
+      "The school bus",
+      "The night bus"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Sara have in her bag?",
+     "options": [
+      "A map",
+      "A book about buses",
+      "A bus ticket",
+      "Petrol"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where does Sara get off?",
+     "options": [
+      "At the school",
+      "At the market",
+      "At the station",
+      "In front of the library"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I catch the bus.",
+    "We missed the bus.",
+    "Fill the car with petrol."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Buses",
+    "question_text": "How do you go to school?",
+    "hint_words": [
+     "by bus",
+     "by car",
+     "on foot",
+     "by bike"
+    ]
+   },
+   {
+    "topic": "Buses",
+    "question_text": "Have you ever missed a bus?",
+    "hint_words": [
+     "yes",
+     "no",
+     "late",
+     "once"
+    ]
+   },
+   {
+    "topic": "Petrol",
+    "question_text": "Where can you buy petrol?",
+    "hint_words": [
+     "petrol station",
+     "near",
+     "car",
+     "fill"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 60,
+  "title": "plane, airport",
+  "vocabulary": [
+   {
+    "word": "catch a plane",
+    "translation_uz": "samolyotga ulgurmoq",
+    "example_sentence": "We must catch a plane at six."
+   },
+   {
+    "word": "miss a plane",
+    "translation_uz": "samolyotdan qolmoq",
+    "example_sentence": "He missed his plane because of traffic."
+   },
+   {
+    "word": "go by plane",
+    "translation_uz": "samolyotda bormoq",
+    "example_sentence": "They go to Istanbul by plane."
+   },
+   {
+    "word": "a plane takes off",
+    "translation_uz": "samolyot ko'tariladi",
+    "example_sentence": "The plane takes off at noon."
+   },
+   {
+    "word": "a plane lands",
+    "translation_uz": "samolyot qo'nadi",
+    "example_sentence": "The plane landed safely."
+   },
+   {
+    "word": "get on a plane",
+    "translation_uz": "samolyotga chiqmoq",
+    "example_sentence": "The passengers get on the plane."
+   },
+   {
+    "word": "a plane to Tashkent",
+    "translation_uz": "Toshkentga samolyot",
+    "example_sentence": "There is a plane to Tashkent every day."
+   },
+   {
+    "word": "go to the airport",
+    "translation_uz": "aeroportga bormoq",
+    "example_sentence": "We go to the airport by taxi."
+   },
+   {
+    "word": "arrive at the airport",
+    "translation_uz": "aeroportga yetib kelmoq",
+    "example_sentence": "They arrived at the airport early."
+   },
+   {
+    "word": "an airport terminal",
+    "translation_uz": "aeroport terminali",
+    "example_sentence": "The airport terminal is very big."
+   },
+   {
+    "word": "check in at the airport",
+    "translation_uz": "aeroportda ro'yxatdan o'tmoq",
+    "example_sentence": "You must check in two hours before."
+   },
+   {
+    "word": "a flight is delayed",
+    "translation_uz": "reys kechikmoqda",
+    "example_sentence": "Our flight is delayed by an hour."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The plane will ___ off in ten minutes.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "put",
+     "give",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "We must ___ a plane at six, so wake up early.",
+    "correct_word": "catch",
+    "options": [
+     "cook",
+     "catch",
+     "grow",
+     "cut"
+    ]
+   },
+   {
+    "sentence_with_blank": "We arrived ___ the airport at noon.",
+    "correct_word": "at",
+    "options": [
+     "of",
+     "by",
+     "at",
+     "between"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is cold, so the flight is ___ and we wait.",
+    "correct_word": "delayed",
+    "options": [
+     "painted",
+     "cooked",
+     "planted",
+     "delayed"
+    ]
+   },
+   {
+    "sentence_with_blank": "They go to London ___ plane.",
+    "correct_word": "by",
+    "options": [
+     "by",
+     "in",
+     "with",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "Passengers must ___ in at the desk before the flight.",
+    "correct_word": "check",
+    "options": [
+     "run",
+     "check",
+     "fall",
+     "sing"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "At the Airport",
+   "text": "Yesterday we went to the airport at five in the morning. We wanted to catch a plane to Samarkand. First we checked in and left our bags. Then we waited in the terminal, because our flight was delayed. At last we got on the plane. It took off at nine, and I looked out of the window. The plane landed safely one hour later.",
+   "key_words": [
+    {
+     "word": "bags",
+     "translation_uz": "sumkalar"
+    },
+    {
+     "word": "window",
+     "translation_uz": "deraza"
+    },
+    {
+     "word": "safely",
+     "translation_uz": "xavfsiz"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the family want to go?",
+     "options": [
+      "Tashkent",
+      "Bukhara",
+      "Samarkand",
+      "Istanbul"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did they wait in the terminal?",
+     "options": [
+      "They missed the plane",
+      "They were hungry",
+      "The airport was closed",
+      "The flight was delayed"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When did the plane take off?",
+     "options": [
+      "At nine",
+      "At five",
+      "At noon",
+      "At seven"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Pilot's Day",
+   "script": "Mr Karimov is a pilot. He goes to the airport very early every day. He checks the plane and talks to the passengers. When the plane takes off, he flies it high above the clouds. He lands the plane at the next airport and has a cup of tea. His son says, \"One day I will fly a plane too!\"",
+   "questions": [
+    {
+     "question": "What does Mr Karimov do?",
+     "options": [
+      "He is a driver",
+      "He is a pilot",
+      "He is a teacher",
+      "He is a doctor"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When does he go to the airport?",
+     "options": [
+      "At night only",
+      "At noon",
+      "Very early",
+      "On Sundays"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does his son want?",
+     "options": [
+      "To work at the airport",
+      "To drive a bus",
+      "To be a doctor",
+      "To fly a plane one day"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "The plane takes off.",
+    "We go to the airport.",
+    "Our flight is delayed."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Planes",
+    "question_text": "Have you ever travelled by plane?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "window"
+    ]
+   },
+   {
+    "topic": "Airport",
+    "question_text": "What do people do at an airport?",
+    "hint_words": [
+     "check in",
+     "wait",
+     "fly",
+     "buy tickets"
+    ]
+   },
+   {
+    "topic": "Travel",
+    "question_text": "Where would you like to fly?",
+    "hint_words": [
+     "London",
+     "Istanbul",
+     "Dubai",
+     "home"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 61,
+  "title": "train",
+  "vocabulary": [
+   {
+    "word": "catch a train",
+    "translation_uz": "poyezdga ulgurmoq",
+    "example_sentence": "We caught the last train home."
+   },
+   {
+    "word": "miss the train",
+    "translation_uz": "poyezddan qolmoq",
+    "example_sentence": "Run, or you'll miss the train!"
+   },
+   {
+    "word": "get on the train",
+    "translation_uz": "poyezdga chiqmoq",
+    "example_sentence": "The children got on the train."
+   },
+   {
+    "word": "get off the train",
+    "translation_uz": "poyezddan tushmoq",
+    "example_sentence": "We get off the train in Bukhara."
+   },
+   {
+    "word": "by train",
+    "translation_uz": "poyezdda",
+    "example_sentence": "I like to travel by train."
+   },
+   {
+    "word": "a train station",
+    "translation_uz": "vokzal",
+    "example_sentence": "Meet me at the train station."
+   },
+   {
+    "word": "a train leaves",
+    "translation_uz": "poyezd jo'naydi",
+    "example_sentence": "The train leaves at ten past nine."
+   },
+   {
+    "word": "a train arrives",
+    "translation_uz": "poyezd yetib keladi",
+    "example_sentence": "The train arrives at platform two."
+   },
+   {
+    "word": "a fast train",
+    "translation_uz": "tezyurar poyezd",
+    "example_sentence": "The fast train takes only two hours."
+   },
+   {
+    "word": "a train ticket",
+    "translation_uz": "poyezd chiptasi",
+    "example_sentence": "He bought a train ticket online."
+   },
+   {
+    "word": "change trains",
+    "translation_uz": "poyezdni almashtirmoq",
+    "example_sentence": "You have to change trains at Navoi."
+   },
+   {
+    "word": "a train is late",
+    "translation_uz": "poyezd kechikmoqda",
+    "example_sentence": "The train is late because of snow."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We must hurry or we will ___ the train.",
+    "correct_word": "miss",
+    "options": [
+     "miss",
+     "eat",
+     "grow",
+     "paint"
+    ]
+   },
+   {
+    "sentence_with_blank": "Get ___ the train at the third station.",
+    "correct_word": "off",
+    "options": [
+     "for",
+     "off",
+     "into",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The train ___ at platform two at eight.",
+    "correct_word": "arrives",
+    "options": [
+     "grows",
+     "cooks",
+     "arrives",
+     "jumps"
+    ]
+   },
+   {
+    "sentence_with_blank": "I bought a train ___ at the station.",
+    "correct_word": "ticket",
+    "options": [
+     "pillow",
+     "carpet",
+     "window",
+     "ticket"
+    ]
+   },
+   {
+    "sentence_with_blank": "We travel to the south ___ train.",
+    "correct_word": "by",
+    "options": [
+     "by",
+     "at",
+     "of",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "You have to ___ trains in the next city.",
+    "correct_word": "change",
+    "options": [
+     "wash",
+     "change",
+     "bake",
+     "draw"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Train Journey",
+   "text": "I love travelling by train. Last month I went to Bukhara with my grandfather. We arrived at the train station early and showed our train tickets. The fast train left at nine and arrived at one o'clock. We did not have to change trains. When we got off the train, my uncle was waiting for us on the platform.",
+   "key_words": [
+    {
+     "word": "platform",
+     "translation_uz": "platforma"
+    },
+    {
+     "word": "showed",
+     "translation_uz": "ko'rsatdi"
+    },
+    {
+     "word": "waiting",
+     "translation_uz": "kutmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who travelled with the writer?",
+     "options": [
+      "His uncle",
+      "His mother",
+      "His grandfather",
+      "His friend"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When did the train arrive?",
+     "options": [
+      "At nine",
+      "At two",
+      "At midnight",
+      "At one o'clock"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who waited on the platform?",
+     "options": [
+      "His uncle",
+      "His father",
+      "A guide",
+      "A teacher"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Late Train",
+   "script": "Today the train is late because of heavy snow. Many people wait at the train station. A woman asks, \"When does the train leave?\" The man at the desk says, \"In forty minutes.\" A boy is hungry, so his mother buys him a sandwich. At last the train arrives and everyone gets on the train happily.",
+   "questions": [
+    {
+     "question": "Why is the train late?",
+     "options": [
+      "Because of a strike",
+      "Because of heavy snow",
+      "Because of a driver",
+      "Because of rain"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long must they wait before it leaves?",
+     "options": [
+      "Four minutes",
+      "One hour",
+      "Forty minutes",
+      "Ten minutes"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the mother buy?",
+     "options": [
+      "A ticket",
+      "A map",
+      "A drink",
+      "A sandwich"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "We caught the train.",
+    "The train is late.",
+    "Get off the train."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Trains",
+    "question_text": "Have you ever travelled by train?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "long"
+    ]
+   },
+   {
+    "topic": "Trains",
+    "question_text": "Do you like trains?",
+    "hint_words": [
+     "yes",
+     "fast",
+     "window",
+     "comfortable"
+    ]
+   },
+   {
+    "topic": "Station",
+    "question_text": "What can you see at a train station?",
+    "hint_words": [
+     "platform",
+     "tickets",
+     "trains",
+     "people"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 62,
+  "title": "taxi, ferry",
+  "vocabulary": [
+   {
+    "word": "take a taxi",
+    "translation_uz": "taksi olmoq",
+    "example_sentence": "Let's take a taxi to the hotel."
+   },
+   {
+    "word": "call a taxi",
+    "translation_uz": "taksi chaqirmoq",
+    "example_sentence": "Can you call a taxi for us?"
+   },
+   {
+    "word": "by taxi",
+    "translation_uz": "taksida",
+    "example_sentence": "We went to the airport by taxi."
+   },
+   {
+    "word": "a taxi driver",
+    "translation_uz": "taksi haydovchisi",
+    "example_sentence": "The taxi driver was very polite."
+   },
+   {
+    "word": "a taxi rank",
+    "translation_uz": "taksi bekati",
+    "example_sentence": "There is a taxi rank outside the station."
+   },
+   {
+    "word": "pay the taxi fare",
+    "translation_uz": "taksi haqini to'lamoq",
+    "example_sentence": "He paid the taxi fare and got out."
+   },
+   {
+    "word": "hail a taxi",
+    "translation_uz": "taksini to'xtatmoq",
+    "example_sentence": "She tried to hail a taxi in the rain."
+   },
+   {
+    "word": "catch a ferry",
+    "translation_uz": "paromga ulgurmoq",
+    "example_sentence": "We need to catch the ferry at noon."
+   },
+   {
+    "word": "take the ferry",
+    "translation_uz": "paromda bormoq",
+    "example_sentence": "We took the ferry across the bay."
+   },
+   {
+    "word": "a ferry crosses the river",
+    "translation_uz": "parom daryodan o'tadi",
+    "example_sentence": "The ferry crosses the river every hour."
+   },
+   {
+    "word": "a car ferry",
+    "translation_uz": "mashinalar paromi",
+    "example_sentence": "The car ferry carries trucks too."
+   },
+   {
+    "word": "a ferry terminal",
+    "translation_uz": "parom bekati",
+    "example_sentence": "The ferry terminal is by the port."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is raining, so let's ___ a taxi.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "eat",
+     "grow",
+     "build"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ a taxi for me, please?",
+    "correct_word": "call",
+    "options": [
+     "paint",
+     "call",
+     "wash",
+     "sew"
+    ]
+   },
+   {
+    "sentence_with_blank": "We crossed the bay ___ ferry.",
+    "correct_word": "by",
+    "options": [
+     "at",
+     "of",
+     "by",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The taxi ___ was friendly and showed us the sights.",
+    "correct_word": "driver",
+    "options": [
+     "ticket",
+     "station",
+     "engine",
+     "driver"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ferry ___ the river every hour.",
+    "correct_word": "crosses",
+    "options": [
+     "crosses",
+     "eats",
+     "reads",
+     "drinks"
+    ]
+   },
+   {
+    "sentence_with_blank": "He paid the taxi ___ and said thank you.",
+    "correct_word": "fare",
+    "options": [
+     "grass",
+     "fare",
+     "fence",
+     "wave"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Island Holiday Plans",
+   "text": "We are going to an island next week. First we will take a taxi to the ferry terminal. The taxi driver will wait for us outside. Then we will catch the ferry at noon. The ferry crosses the bay in forty minutes. It is a car ferry, so some tourists take their cars. We will have lunch on the ferry.",
+   "key_words": [
+    {
+     "word": "bay",
+     "translation_uz": "qo'ltiq"
+    },
+    {
+     "word": "tourist",
+     "translation_uz": "sayyoh"
+    },
+    {
+     "word": "outside",
+     "translation_uz": "tashqarida"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How will they get to the ferry terminal?",
+     "options": [
+      "On foot",
+      "By bus",
+      "By taxi",
+      "By bike"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long does the ferry take to cross the bay?",
+     "options": [
+      "One hour",
+      "Ten minutes",
+      "Four hours",
+      "Forty minutes"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where will they have lunch?",
+     "options": [
+      "On the ferry",
+      "In the taxi",
+      "On the island",
+      "At home"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Rainy Night",
+   "script": "It is late and raining hard. Maya stands outside the station and tries to hail a taxi. At last a taxi stops. The taxi driver asks, \"Where to?\" Maya says, \"The ferry terminal, please.\" At the terminal she pays the taxi fare and runs to the ferry. She catches it just before it leaves.",
+   "questions": [
+    {
+     "question": "What is the weather like?",
+     "options": [
+      "Sunny",
+      "Rainy",
+      "Snowy",
+      "Windy and hot"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where does Maya want to go?",
+     "options": [
+      "The airport",
+      "Her school",
+      "The ferry terminal",
+      "A hotel"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happens at the end?",
+     "options": [
+      "She misses the ferry",
+      "She calls her mother",
+      "She walks home",
+      "She catches the ferry"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Let's take a taxi.",
+    "Call a taxi, please.",
+    "We took the ferry."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Taxi",
+    "question_text": "Do you ever take a taxi?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sometimes",
+     "expensive"
+    ]
+   },
+   {
+    "topic": "Ferry",
+    "question_text": "Have you ever been on a ferry?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "boat"
+    ]
+   },
+   {
+    "topic": "Travel",
+    "question_text": "How do you go to the airport?",
+    "hint_words": [
+     "by taxi",
+     "by bus",
+     "by car",
+     "train"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 63,
+  "title": "bike, lorry",
+  "vocabulary": [
+   {
+    "word": "ride a bike",
+    "translation_uz": "velosipedda yurmoq",
+    "example_sentence": "I ride a bike to school."
+   },
+   {
+    "word": "fall off a bike",
+    "translation_uz": "velosipeddan yiqilmoq",
+    "example_sentence": "He fell off his bike and hurt his knee."
+   },
+   {
+    "word": "a mountain bike",
+    "translation_uz": "tog' velosipedi",
+    "example_sentence": "My brother has a new mountain bike."
+   },
+   {
+    "word": "by bike",
+    "translation_uz": "velosipedda",
+    "example_sentence": "We go to the park by bike."
+   },
+   {
+    "word": "a bike lane",
+    "translation_uz": "velosiped yo'lakchasi",
+    "example_sentence": "Use the bike lane, not the pavement."
+   },
+   {
+    "word": "fix a bike",
+    "translation_uz": "velosipedni tuzatmoq",
+    "example_sentence": "Dad helped me fix my bike."
+   },
+   {
+    "word": "pump up the tyres",
+    "translation_uz": "shinalarni shishirmoq",
+    "example_sentence": "I pumped up the tyres of my bike."
+   },
+   {
+    "word": "wear a helmet",
+    "translation_uz": "dubulg'a kiymoq",
+    "example_sentence": "Always wear a helmet on a bike."
+   },
+   {
+    "word": "drive a lorry",
+    "translation_uz": "yuk mashinasini haydamoq",
+    "example_sentence": "My uncle drives a lorry."
+   },
+   {
+    "word": "a lorry driver",
+    "translation_uz": "yuk mashinasi haydovchisi",
+    "example_sentence": "The lorry driver stopped for a rest."
+   },
+   {
+    "word": "a lorry carries goods",
+    "translation_uz": "yuk mashinasi yuk tashiydi",
+    "example_sentence": "A lorry carries goods to the shops."
+   },
+   {
+    "word": "load a lorry",
+    "translation_uz": "yuk mashinasini yuklamoq",
+    "example_sentence": "Workers loaded the lorry with boxes."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Always ___ a helmet when you ride a bike.",
+    "correct_word": "wear",
+    "options": [
+     "wear",
+     "eat",
+     "sing",
+     "grow"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother ___ off his bike and hurt his arm.",
+    "correct_word": "fell",
+    "options": [
+     "wrote",
+     "fell",
+     "cooked",
+     "asked"
+    ]
+   },
+   {
+    "sentence_with_blank": "We go to the lake ___ bike.",
+    "correct_word": "by",
+    "options": [
+     "for",
+     "of",
+     "by",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "A big lorry ___ goods to the market.",
+    "correct_word": "carries",
+    "options": [
+     "reads",
+     "sings",
+     "wears",
+     "carries"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad helped me ___ my bike because the chain was broken.",
+    "correct_word": "fix",
+    "options": [
+     "fix",
+     "paint",
+     "water",
+     "bake"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle works as a lorry ___.",
+    "correct_word": "driver",
+    "options": [
+     "teacher",
+     "driver",
+     "doctor",
+     "baker"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My New Bike",
+   "text": "For my birthday I got a new mountain bike. I ride my bike to school every day, and I always wear a helmet. Last week the chain broke, so Dad helped me fix it. Then I pumped up the tyres. On the road to school I see big lorries carrying goods to the town. I use the bike lane and feel very safe.",
+   "key_words": [
+    {
+     "word": "chain",
+     "translation_uz": "zanjir"
+    },
+    {
+     "word": "tyre",
+     "translation_uz": "shina"
+    },
+    {
+     "word": "safe",
+     "translation_uz": "xavfsiz"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer get for his birthday?",
+     "options": [
+      "A lorry",
+      "A helmet",
+      "A mountain bike",
+      "A car"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who helped fix the bike?",
+     "options": [
+      "Mum",
+      "A teacher",
+      "A lorry driver",
+      "Dad"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where does the writer ride?",
+     "options": [
+      "In the bike lane",
+      "On the pavement",
+      "In the forest",
+      "On the motorway"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Lorry Driver",
+   "script": "Rustam is a lorry driver. He drives a big lorry from the factory to the city every day. Workers load the lorry with boxes in the morning. The lorry carries goods to many shops. On Sundays Rustam stays home and rides a bike with his daughter in the park. She always wears a helmet.",
+   "questions": [
+    {
+     "question": "What does Rustam do?",
+     "options": [
+      "He repairs bikes",
+      "He drives a lorry",
+      "He works in a shop",
+      "He teaches"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the lorry carry?",
+     "options": [
+      "People",
+      "Animals",
+      "Goods to shops",
+      "Petrol"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Rustam do on Sundays?",
+     "options": [
+      "Loads the lorry",
+      "Goes fishing",
+      "Works at the factory",
+      "Rides a bike with his daughter"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I ride a bike.",
+    "Wear a helmet.",
+    "He drives a lorry."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Bikes",
+    "question_text": "Can you ride a bike?",
+    "hint_words": [
+     "yes",
+     "no",
+     "learn",
+     "fast"
+    ]
+   },
+   {
+    "topic": "Bikes",
+    "question_text": "Do you wear a helmet when you ride?",
+    "hint_words": [
+     "yes",
+     "always",
+     "sometimes",
+     "no"
+    ]
+   },
+   {
+    "topic": "Lorries",
+    "question_text": "What do lorries carry?",
+    "hint_words": [
+     "goods",
+     "boxes",
+     "food",
+     "furniture"
+    ]
+   }
+  ]
+ }
+]

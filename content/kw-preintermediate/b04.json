@@ -1,0 +1,1548 @@
+[
+ {
+  "unit": 34,
+  "title": "sky, sun",
+  "vocabulary": [
+   {
+    "word": "a clear sky",
+    "translation_uz": "ochiq osmon",
+    "example_sentence": "Tonight we have a clear sky."
+   },
+   {
+    "word": "a cloudy sky",
+    "translation_uz": "bulutli osmon",
+    "example_sentence": "The sky is cloudy today."
+   },
+   {
+    "word": "a blue sky",
+    "translation_uz": "moviy osmon",
+    "example_sentence": "The sky was bright blue."
+   },
+   {
+    "word": "look up at the sky",
+    "translation_uz": "osmonga qaramoq",
+    "example_sentence": "We looked up at the sky and saw a plane."
+   },
+   {
+    "word": "in the sky",
+    "translation_uz": "osmonda",
+    "example_sentence": "A kite is flying in the sky."
+   },
+   {
+    "word": "the sun rises",
+    "translation_uz": "quyosh chiqadi",
+    "example_sentence": "The sun rises at six in summer."
+   },
+   {
+    "word": "the sun sets",
+    "translation_uz": "quyosh botadi",
+    "example_sentence": "The sun sets behind the hills."
+   },
+   {
+    "word": "the sun shines",
+    "translation_uz": "quyosh porlaydi",
+    "example_sentence": "The sun is shining in the garden."
+   },
+   {
+    "word": "in the sun",
+    "translation_uz": "quyoshda",
+    "example_sentence": "The cat is sleeping in the sun."
+   },
+   {
+    "word": "sit in the sun",
+    "translation_uz": "quyoshda o'tirmoq",
+    "example_sentence": "Grandpa likes to sit in the sun."
+   },
+   {
+    "word": "get sunburnt",
+    "translation_uz": "quyoshda kuymoq",
+    "example_sentence": "Use cream or you will get sunburnt."
+   },
+   {
+    "word": "sunrise and sunset",
+    "translation_uz": "quyosh chiqishi va botishi",
+    "example_sentence": "We watched the sunset from the roof."
+   },
+   {
+    "word": "a ray of sun",
+    "translation_uz": "quyosh nuri",
+    "example_sentence": "A ray of sun came through the window."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Look at the sky! It is completely ___ today.",
+    "correct_word": "clear",
+    "options": [
+     "clear",
+     "hungry",
+     "thin",
+     "angry"
+    ]
+   },
+   {
+    "sentence_with_blank": "The sun ___ in the east in the morning.",
+    "correct_word": "rises",
+    "options": [
+     "sinks",
+     "rises",
+     "hides",
+     "cries"
+    ]
+   },
+   {
+    "sentence_with_blank": "In the evening, the sun ___ behind the mountains.",
+    "correct_word": "sets",
+    "options": [
+     "opens",
+     "climbs",
+     "sets",
+     "starts"
+    ]
+   },
+   {
+    "sentence_with_blank": "The cat likes to sleep ___ the sun.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "from",
+     "with",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "Put on cream or you will get ___.",
+    "correct_word": "sunburnt",
+    "options": [
+     "sunburnt",
+     "sunset",
+     "sunny",
+     "sunrise"
+    ]
+   },
+   {
+    "sentence_with_blank": "Birds were flying high ___ the sky.",
+    "correct_word": "in",
+    "options": [
+     "with",
+     "in",
+     "by",
+     "for"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day at the Lake",
+   "text": "We got up early and watched the sun rise over the lake. The sky was clear and blue, and a few birds flew in the sky. At noon the sun was very hot, so we sat in the shade and drank cold juice. My brother did not put on cream and he got sunburnt on his nose! In the evening the sun set behind the hills, and the sky turned red and orange. It was the most beautiful sunset I have ever seen.",
+   "key_words": [
+    {
+     "word": "lake",
+     "translation_uz": "ko'l"
+    },
+    {
+     "word": "shade",
+     "translation_uz": "soya"
+    },
+    {
+     "word": "hills",
+     "translation_uz": "tepaliklar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the brother forget to do?",
+     "options": [
+      "Drink juice",
+      "Put on cream",
+      "Wear a hat",
+      "Wake up early"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What colour did the sky turn at sunset?",
+     "options": [
+      "Red and orange",
+      "Blue and green",
+      "Black and white",
+      "Yellow and grey"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the family sit at noon?",
+     "options": [
+      "In the boat",
+      "In the water",
+      "On the hill",
+      "In the shade"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Weather Report",
+   "script": "Good morning! Today we have a clear blue sky all over the country. The sun rises at six and sets at eight in the evening. It will be hot, so please sit in the shade at noon. Children, do not forget your hats, because you can get sunburnt very fast. Tomorrow the sky will be cloudy in the north.",
+   "questions": [
+    {
+     "question": "What is the sky like today?",
+     "options": [
+      "Cloudy",
+      "Dark",
+      "Clear and blue",
+      "Grey"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When does the sun set?",
+     "options": [
+      "At six in the evening",
+      "At eight in the evening",
+      "At noon",
+      "At nine in the morning"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where will the sky be cloudy tomorrow?",
+     "options": [
+      "In the north",
+      "In the south",
+      "In the east",
+      "In the west"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "The sky is blue.",
+    "The sun sets late.",
+    "Sit in the shade."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weather",
+    "question_text": "What is the sky like today?",
+    "hint_words": [
+     "clear",
+     "cloudy",
+     "blue",
+     "grey"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "Do you like to sit in the sun?",
+    "hint_words": [
+     "yes",
+     "no",
+     "hot",
+     "cream"
+    ]
+   },
+   {
+    "topic": "Nature",
+    "question_text": "When does the sun set in summer?",
+    "hint_words": [
+     "late",
+     "at eight",
+     "evening",
+     "red sky"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 35,
+  "title": "moon, star",
+  "vocabulary": [
+   {
+    "word": "a full moon",
+    "translation_uz": "to'lin oy",
+    "example_sentence": "There is a full moon tonight."
+   },
+   {
+    "word": "a new moon",
+    "translation_uz": "yangi oy",
+    "example_sentence": "You cannot see the moon at new moon."
+   },
+   {
+    "word": "the moon rises",
+    "translation_uz": "oy chiqadi",
+    "example_sentence": "The moon rises after sunset."
+   },
+   {
+    "word": "the moon is out",
+    "translation_uz": "oy chiqib turibdi",
+    "example_sentence": "The moon is out and it is bright."
+   },
+   {
+    "word": "by the light of the moon",
+    "translation_uz": "oy yorug'ida",
+    "example_sentence": "We walked home by the light of the moon."
+   },
+   {
+    "word": "land on the moon",
+    "translation_uz": "oyga qo'nmoq",
+    "example_sentence": "Astronauts landed on the moon."
+   },
+   {
+    "word": "once in a blue moon",
+    "translation_uz": "juda kamdan-kam (ibora)",
+    "example_sentence": "I see my cousin once in a blue moon."
+   },
+   {
+    "word": "a bright star",
+    "translation_uz": "yorqin yulduz",
+    "example_sentence": "Look at that bright star."
+   },
+   {
+    "word": "the stars are out",
+    "translation_uz": "yulduzlar ko'rinib turibdi",
+    "example_sentence": "The stars are out tonight."
+   },
+   {
+    "word": "count the stars",
+    "translation_uz": "yulduzlarni sanamoq",
+    "example_sentence": "We lay down to count the stars."
+   },
+   {
+    "word": "a shooting star",
+    "translation_uz": "uchar yulduz",
+    "example_sentence": "I saw a shooting star and made a wish."
+   },
+   {
+    "word": "a film star",
+    "translation_uz": "kino yulduzi",
+    "example_sentence": "She wants to be a film star."
+   },
+   {
+    "word": "a five-star hotel",
+    "translation_uz": "besh yulduzli mehmonxona",
+    "example_sentence": "They stayed in a five-star hotel."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Tonight there is a ___ moon and it is very bright.",
+    "correct_word": "full",
+    "options": [
+     "full",
+     "tall",
+     "loud",
+     "wet"
+    ]
+   },
+   {
+    "sentence_with_blank": "Astronauts ___ on the moon in 1969.",
+    "correct_word": "landed",
+    "options": [
+     "slept",
+     "landed",
+     "grew",
+     "jumped over"
+    ]
+   },
+   {
+    "sentence_with_blank": "I saw a shooting star and ___ a wish.",
+    "correct_word": "made",
+    "options": [
+     "did",
+     "took",
+     "made",
+     "got on"
+    ]
+   },
+   {
+    "sentence_with_blank": "We lay on the grass and tried to ___ the stars.",
+    "correct_word": "count",
+    "options": [
+     "wash",
+     "carry",
+     "pay",
+     "count"
+    ]
+   },
+   {
+    "sentence_with_blank": "I only see my cousin once in a blue ___.",
+    "correct_word": "moon",
+    "options": [
+     "moon",
+     "sky",
+     "sun",
+     "star"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ are out, so it must be night.",
+    "correct_word": "stars",
+    "options": [
+     "suns",
+     "stars",
+     "clouds",
+     "rains"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Camping Night",
+   "text": "Last summer we went camping in the mountains. At night the moon was full and very bright. We walked to the river by the light of the moon, and there were no street lamps at all. The stars were out, and my uncle showed me a bright star called the North Star. Suddenly I saw a shooting star! I made a wish, but I cannot tell you what it was. My sister counted the stars until she fell asleep.",
+   "key_words": [
+    {
+     "word": "camping",
+     "translation_uz": "lagerda yashash"
+    },
+    {
+     "word": "wish",
+     "translation_uz": "tilak"
+    },
+    {
+     "word": "street lamps",
+     "translation_uz": "ko'cha chiroqlari"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the moon like?",
+     "options": [
+      "New and dark",
+      "Small and red",
+      "Full and bright",
+      "Hidden by clouds"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who showed the writer the North Star?",
+     "options": [
+      "An uncle",
+      "A teacher",
+      "A friend",
+      "A brother"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the writer do after seeing the shooting star?",
+     "options": [
+      "Took a photo",
+      "Made a wish",
+      "Ran home",
+      "Counted stars"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Space Club",
+   "script": "Every Friday our school has a Space Club. Last week we learned that the first people landed on the moon a long time ago. Our teacher says the moon rises later every night. We also learned that a star is not a small light, but a huge ball of fire. At the end, the teacher gave each of us a paper star. Next week we will watch the sky and count the stars together.",
+   "questions": [
+    {
+     "question": "What happens on Fridays at school?",
+     "options": [
+      "A football match",
+      "A film night",
+      "A test",
+      "The Space Club"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the teacher give each student?",
+     "options": [
+      "A paper star",
+      "A toy rocket",
+      "A book",
+      "A moon picture"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will the club do next week?",
+     "options": [
+      "Visit a museum",
+      "Count the stars",
+      "Make a rocket",
+      "Draw the sun"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The moon is full.",
+    "Count the stars.",
+    "I saw a shooting star."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Night",
+    "question_text": "Is there a full moon tonight?",
+    "hint_words": [
+     "yes",
+     "no",
+     "bright",
+     "maybe"
+    ]
+   },
+   {
+    "topic": "Night",
+    "question_text": "Have you ever seen a shooting star?",
+    "hint_words": [
+     "yes",
+     "no",
+     "once",
+     "wish"
+    ]
+   },
+   {
+    "topic": "Space",
+    "question_text": "Would you like to land on the moon?",
+    "hint_words": [
+     "yes",
+     "no",
+     "rocket",
+     "astronaut"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 36,
+  "title": "rain",
+  "vocabulary": [
+   {
+    "word": "heavy rain",
+    "translation_uz": "kuchli yomg'ir",
+    "example_sentence": "We stayed home because of the heavy rain."
+   },
+   {
+    "word": "light rain",
+    "translation_uz": "yengil yomg'ir",
+    "example_sentence": "There was light rain in the morning."
+   },
+   {
+    "word": "it's pouring with rain",
+    "translation_uz": "yomg'ir quyib turibdi",
+    "example_sentence": "Take an umbrella. It's pouring with rain!"
+   },
+   {
+    "word": "It's raining",
+    "translation_uz": "yomg'ir yog'yapti",
+    "example_sentence": "It's raining again today."
+   },
+   {
+    "word": "be caught in the rain",
+    "translation_uz": "yomg'irga tushib qolmoq",
+    "example_sentence": "We were caught in the rain on the way home."
+   },
+   {
+    "word": "get wet in the rain",
+    "translation_uz": "yomg'irda ho'l bo'lmoq",
+    "example_sentence": "Don't get wet in the rain."
+   },
+   {
+    "word": "stop raining",
+    "translation_uz": "yomg'ir tinmoq",
+    "example_sentence": "I hope it stops raining soon."
+   },
+   {
+    "word": "in the rain",
+    "translation_uz": "yomg'irda",
+    "example_sentence": "The kids were playing in the rain."
+   },
+   {
+    "word": "a rain cloud",
+    "translation_uz": "yomg'ir buluti",
+    "example_sentence": "A big rain cloud is over the city."
+   },
+   {
+    "word": "rain or shine",
+    "translation_uz": "yomg'ir bo'lsa ham, bo'lmasa ham",
+    "example_sentence": "We play football rain or shine."
+   },
+   {
+    "word": "rainforest",
+    "translation_uz": "yomg'irli tropik o'rmon",
+    "example_sentence": "Many animals live in the rainforest."
+   },
+   {
+    "word": "a drop of rain",
+    "translation_uz": "bir tomchi yomg'ir",
+    "example_sentence": "I felt a drop of rain on my nose."
+   },
+   {
+    "word": "take an umbrella",
+    "translation_uz": "soyabon olmoq",
+    "example_sentence": "Take an umbrella, it may rain."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We stayed inside because of the ___ rain.",
+    "correct_word": "heavy",
+    "options": [
+     "heavy",
+     "tall",
+     "loud",
+     "short"
+    ]
+   },
+   {
+    "sentence_with_blank": "Take an umbrella! It is ___ with rain.",
+    "correct_word": "pouring",
+    "options": [
+     "opening",
+     "pouring",
+     "jumping",
+     "walking"
+    ]
+   },
+   {
+    "sentence_with_blank": "We were ___ in the rain on the way home.",
+    "correct_word": "caught",
+    "options": [
+     "kept",
+     "lost",
+     "caught",
+     "broken"
+    ]
+   },
+   {
+    "sentence_with_blank": "I hope it ___ raining soon.",
+    "correct_word": "stops",
+    "options": [
+     "opens",
+     "starts up",
+     "wins",
+     "stops"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many wonderful animals live in the ___.",
+    "correct_word": "rainforest",
+    "options": [
+     "rainforest",
+     "bookshop",
+     "bathroom",
+     "garage"
+    ]
+   },
+   {
+    "sentence_with_blank": "Children were playing happily ___ the rain.",
+    "correct_word": "in",
+    "options": [
+     "of",
+     "in",
+     "by",
+     "from"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Rainy Saturday",
+   "text": "On Saturday it was pouring with rain, so we could not go to the park. Heavy rain fell all morning, and the streets were full of water. In the afternoon the rain stopped, and I went out with my umbrella. A little boy was playing in the rain, and he got very wet. His mother was not angry, because she had a big towel. My friend Anvar and I are lucky, because our football team plays rain or shine.",
+   "key_words": [
+    {
+     "word": "umbrella",
+     "translation_uz": "soyabon"
+    },
+    {
+     "word": "streets",
+     "translation_uz": "ko'chalar"
+    },
+    {
+     "word": "lucky",
+     "translation_uz": "omadli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why couldn't the family go to the park?",
+     "options": [
+      "The park was closed",
+      "They were ill",
+      "They were late",
+      "It was pouring with rain"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the writer take outside?",
+     "options": [
+      "An umbrella",
+      "A towel",
+      "A football",
+      "A coat only"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When does the football team play?",
+     "options": [
+      "Only on sunny days",
+      "Rain or shine",
+      "Only in the evening",
+      "Never on Saturdays"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Radio News",
+   "script": "Here is the weather. This morning there will be light rain in the south. In the afternoon the rain will become heavy, and it will pour in the east. If you go out, take an umbrella, because you may be caught in the rain. Tonight the rain will stop, and tomorrow it will be dry and sunny.",
+   "questions": [
+    {
+     "question": "What will the weather be like in the south in the morning?",
+     "options": [
+      "Heavy rain",
+      "Sun",
+      "Light rain",
+      "Snow"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where will it pour in the afternoon?",
+     "options": [
+      "In the east",
+      "In the west",
+      "In the north",
+      "In the south"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will tomorrow be like?",
+     "options": [
+      "Rainy",
+      "Dry and sunny",
+      "Windy",
+      "Foggy"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "It is pouring with rain.",
+    "Take an umbrella.",
+    "The rain has stopped."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weather",
+    "question_text": "Do you like rain?",
+    "hint_words": [
+     "yes",
+     "no",
+     "puddles",
+     "umbrella"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "What do you do on a rainy day?",
+    "hint_words": [
+     "read",
+     "play",
+     "stay home",
+     "watch TV"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "Have you ever been caught in the rain?",
+    "hint_words": [
+     "yes",
+     "once",
+     "wet",
+     "umbrella"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 37,
+  "title": "thunder, lightning, cloud",
+  "vocabulary": [
+   {
+    "word": "a clap of thunder",
+    "translation_uz": "momaqaldiroq gumburlashi",
+    "example_sentence": "We heard a loud clap of thunder."
+   },
+   {
+    "word": "hear thunder",
+    "translation_uz": "momaqaldiroqni eshitmoq",
+    "example_sentence": "I heard thunder in the night."
+   },
+   {
+    "word": "thunder and lightning",
+    "translation_uz": "chaqmoq va momaqaldiroq",
+    "example_sentence": "There was thunder and lightning all night."
+   },
+   {
+    "word": "a thunderstorm",
+    "translation_uz": "momaqaldiroqli bo'ron",
+    "example_sentence": "A thunderstorm is coming."
+   },
+   {
+    "word": "a flash of lightning",
+    "translation_uz": "chaqmoq yaltirashi",
+    "example_sentence": "A flash of lightning lit up the room."
+   },
+   {
+    "word": "be struck by lightning",
+    "translation_uz": "chaqmoq urmoq",
+    "example_sentence": "The old tree was struck by lightning."
+   },
+   {
+    "word": "lightning strikes",
+    "translation_uz": "chaqmoq uradi",
+    "example_sentence": "Lightning strikes tall trees."
+   },
+   {
+    "word": "a dark cloud",
+    "translation_uz": "qora bulut",
+    "example_sentence": "A dark cloud is above the hill."
+   },
+   {
+    "word": "a rain cloud",
+    "translation_uz": "yomg'ir buluti",
+    "example_sentence": "The rain cloud moved to the east."
+   },
+   {
+    "word": "clouds gather",
+    "translation_uz": "bulutlar to'planadi",
+    "example_sentence": "Dark clouds were gathering in the sky."
+   },
+   {
+    "word": "the clouds clear",
+    "translation_uz": "bulutlar tarqaladi",
+    "example_sentence": "The clouds cleared and the sun came out."
+   },
+   {
+    "word": "cloud over",
+    "translation_uz": "osmon bulut bilan qoplanadi",
+    "example_sentence": "The sky began to cloud over."
+   },
+   {
+    "word": "under a cloud",
+    "translation_uz": "gumon ostida (ibora)",
+    "example_sentence": "He left school under a cloud."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We heard a loud ___ of thunder.",
+    "correct_word": "clap",
+    "options": [
+     "clap",
+     "cut",
+     "drop",
+     "pile"
+    ]
+   },
+   {
+    "sentence_with_blank": "A flash of ___ lit up the dark room.",
+    "correct_word": "lightning",
+    "options": [
+     "thunder",
+     "lightning",
+     "rain",
+     "snow"
+    ]
+   },
+   {
+    "sentence_with_blank": "The old tree was ___ by lightning.",
+    "correct_word": "struck",
+    "options": [
+     "kicked",
+     "washed",
+     "struck",
+     "opened"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dark clouds began to ___ above the mountains.",
+    "correct_word": "gather",
+    "options": [
+     "cook",
+     "swim",
+     "shout",
+     "gather"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a thunder___ coming, so stay inside.",
+    "correct_word": "storm",
+    "options": [
+     "storm",
+     "rain",
+     "hit",
+     "pot"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the storm, the clouds ___ and the sun came out.",
+    "correct_word": "cleared",
+    "options": [
+     "cooked",
+     "cleared",
+     "painted",
+     "laughed"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Big Storm",
+   "text": "At lunchtime dark clouds began to gather in the sky. Soon the sky was grey and the wind grew strong. Then we heard a loud clap of thunder, and a bright flash of lightning lit up our garden. My little sister hid under the table, but I told her, \"Don't be afraid.\" The thunderstorm lasted for an hour. In the evening the clouds cleared, and a beautiful rainbow came out. We were very happy, and Dad made hot chocolate.",
+   "key_words": [
+    {
+     "word": "rainbow",
+     "translation_uz": "kamalak"
+    },
+    {
+     "word": "hid",
+     "translation_uz": "yashirindi"
+    },
+    {
+     "word": "afraid",
+     "translation_uz": "qo'rqqan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the little sister hide?",
+     "options": [
+      "In the garden",
+      "In her bed",
+      "Under the table",
+      "Behind the door"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did the thunderstorm last?",
+     "options": [
+      "An hour",
+      "Ten minutes",
+      "All night",
+      "Two hours"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What came out in the evening?",
+     "options": [
+      "The moon",
+      "A rainbow",
+      "A rain cloud",
+      "Snow"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Storm Safety",
+   "script": "When there is thunder and lightning, it is not safe to stand under a tall tree. Lightning often strikes tall things. Go inside a house and stay away from the windows. You can count the seconds between the flash and the thunder. If the clouds gather and the sky turns dark, listen to the radio. When the clouds clear, you can go out again.",
+   "questions": [
+    {
+     "question": "Where is it not safe to stand?",
+     "options": [
+      "In a house",
+      "Under a tall tree",
+      "In a car",
+      "In a school"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What can you count?",
+     "options": [
+      "The seconds between the flash and the thunder",
+      "The clouds",
+      "The trees",
+      "The raindrops"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When can you go out again?",
+     "options": [
+      "When it is dark",
+      "When the wind comes",
+      "When you feel hungry",
+      "When the clouds clear"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I heard thunder.",
+    "A flash of lightning.",
+    "Dark clouds gather."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weather",
+    "question_text": "Are you afraid of thunder?",
+    "hint_words": [
+     "yes",
+     "no",
+     "a little",
+     "loud"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "What do you do in a thunderstorm?",
+    "hint_words": [
+     "stay inside",
+     "hide",
+     "watch",
+     "count"
+    ]
+   },
+   {
+    "topic": "Sky",
+    "question_text": "What colour are rain clouds?",
+    "hint_words": [
+     "dark",
+     "grey",
+     "black",
+     "heavy"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 38,
+  "title": "snow, ice",
+  "vocabulary": [
+   {
+    "word": "heavy snow",
+    "translation_uz": "qalin qor",
+    "example_sentence": "Heavy snow fell all night."
+   },
+   {
+    "word": "It's snowing",
+    "translation_uz": "qor yog'yapti",
+    "example_sentence": "Look, it's snowing!"
+   },
+   {
+    "word": "deep snow",
+    "translation_uz": "chuqur qor",
+    "example_sentence": "The snow is deep in the garden."
+   },
+   {
+    "word": "a snowman",
+    "translation_uz": "qorbobo",
+    "example_sentence": "We built a snowman in the garden."
+   },
+   {
+    "word": "build a snowman",
+    "translation_uz": "qorbobo yasamoq",
+    "example_sentence": "Let's build a snowman."
+   },
+   {
+    "word": "a snowball fight",
+    "translation_uz": "qor to'pi o'yini",
+    "example_sentence": "We had a snowball fight at school."
+   },
+   {
+    "word": "be covered in snow",
+    "translation_uz": "qor bilan qoplangan bo'lmoq",
+    "example_sentence": "The hills are covered in snow."
+   },
+   {
+    "word": "snow melts",
+    "translation_uz": "qor erimoq",
+    "example_sentence": "The snow melts in spring."
+   },
+   {
+    "word": "a block of ice",
+    "translation_uz": "muz bo'lagi",
+    "example_sentence": "He put a block of ice in the box."
+   },
+   {
+    "word": "ice cubes",
+    "translation_uz": "muz kublari",
+    "example_sentence": "Put some ice cubes in my juice."
+   },
+   {
+    "word": "thin ice",
+    "translation_uz": "yupqa muz",
+    "example_sentence": "Do not walk on thin ice."
+   },
+   {
+    "word": "break the ice",
+    "translation_uz": "muzni buzmoq (tanishuvni boshlamoq)",
+    "example_sentence": "A joke helps to break the ice."
+   },
+   {
+    "word": "slip on the ice",
+    "translation_uz": "muzda sirpanmoq",
+    "example_sentence": "Grandma slipped on the ice."
+   },
+   {
+    "word": "an ice rink",
+    "translation_uz": "konkida uchish maydoni",
+    "example_sentence": "We went to the ice rink on Saturday."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Look outside! It is ___ and everything is white.",
+    "correct_word": "snowing",
+    "options": [
+     "snowing",
+     "melting",
+     "burning",
+     "sleeping"
+    ]
+   },
+   {
+    "sentence_with_blank": "We want to ___ a snowman in the garden.",
+    "correct_word": "build",
+    "options": [
+     "drink",
+     "build",
+     "sing",
+     "drive"
+    ]
+   },
+   {
+    "sentence_with_blank": "The hills are ___ in snow.",
+    "correct_word": "covered",
+    "options": [
+     "filled",
+     "dressed",
+     "covered",
+     "painted"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful! Do not walk on ___ ice.",
+    "correct_word": "thin",
+    "options": [
+     "hungry",
+     "early",
+     "happy",
+     "thin"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please put some ice ___ in my glass of juice.",
+    "correct_word": "cubes",
+    "options": [
+     "cubes",
+     "pages",
+     "eggs",
+     "flowers"
+    ]
+   },
+   {
+    "sentence_with_blank": "She slipped ___ the ice and fell.",
+    "correct_word": "on",
+    "options": [
+     "at",
+     "on",
+     "with",
+     "from"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Winter Holiday",
+   "text": "This winter it snowed for three days. In the morning, the whole village was covered in snow. We went outside and built a big snowman with a carrot nose. Then we had a snowball fight, and I was hit on the back. On the pond there was thin ice, so Dad said, \"Stay away from it.\" On Sunday we went to the ice rink and learned to skate. My brother slipped on the ice twice, but he laughed and tried again.",
+   "key_words": [
+    {
+     "word": "carrot",
+     "translation_uz": "sabzi"
+    },
+    {
+     "word": "pond",
+     "translation_uz": "hovuz"
+    },
+    {
+     "word": "skate",
+     "translation_uz": "konkida uchmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long did it snow?",
+     "options": [
+      "One day",
+      "Three days",
+      "A week",
+      "All winter"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Dad say about the pond?",
+     "options": [
+      "Stay away from the thin ice",
+      "It is a good place to skate",
+      "It is too cold",
+      "Let's fish there"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did they go on Sunday?",
+     "options": [
+      "To the hills",
+      "To a hotel",
+      "To the ice rink",
+      "To the park"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Cold Drinks",
+   "script": "In summer I love cold drinks. Mum puts ice cubes in my juice. Yesterday I saw a man selling blocks of ice in the market. In winter things are different. When it snows, we build a snowman in front of the house, and my uncle takes photos. Last year the snow was very deep, and we could not open the door! Dad cleared the snow with a big shovel.",
+   "questions": [
+    {
+     "question": "What does Mum put in the juice?",
+     "options": [
+      "Sugar",
+      "Milk",
+      "Salt",
+      "Ice cubes"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who takes photos of the snowman?",
+     "options": [
+      "The speaker's uncle",
+      "The speaker's father",
+      "The neighbour",
+      "The teacher"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why could they not open the door last year?",
+     "options": [
+      "The door was broken",
+      "The snow was very deep",
+      "They lost the key",
+      "It was too windy"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "It is snowing.",
+    "Build a snowman.",
+    "Ice melts fast."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Winter",
+    "question_text": "Does it snow in your town?",
+    "hint_words": [
+     "yes",
+     "no",
+     "a lot",
+     "sometimes"
+    ]
+   },
+   {
+    "topic": "Winter",
+    "question_text": "Have you ever built a snowman?",
+    "hint_words": [
+     "yes",
+     "no",
+     "big",
+     "carrot"
+    ]
+   },
+   {
+    "topic": "Winter",
+    "question_text": "Do you like ice cream in winter?",
+    "hint_words": [
+     "yes",
+     "no",
+     "cold",
+     "chocolate"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 39,
+  "title": "wind, fog",
+  "vocabulary": [
+   {
+    "word": "a strong wind",
+    "translation_uz": "kuchli shamol",
+    "example_sentence": "A strong wind blew my hat away."
+   },
+   {
+    "word": "a light wind",
+    "translation_uz": "yengil shamol",
+    "example_sentence": "There is a light wind today."
+   },
+   {
+    "word": "the wind blows",
+    "translation_uz": "shamol esadi",
+    "example_sentence": "The wind blows from the north."
+   },
+   {
+    "word": "the wind drops",
+    "translation_uz": "shamol pasayadi",
+    "example_sentence": "The wind dropped in the evening."
+   },
+   {
+    "word": "a gust of wind",
+    "translation_uz": "shamol gupurishi",
+    "example_sentence": "A gust of wind closed the door."
+   },
+   {
+    "word": "be windy",
+    "translation_uz": "shamolli bo'lmoq",
+    "example_sentence": "It is windy outside."
+   },
+   {
+    "word": "against the wind",
+    "translation_uz": "shamolga qarshi",
+    "example_sentence": "We walked against the wind."
+   },
+   {
+    "word": "in the wind",
+    "translation_uz": "shamolda",
+    "example_sentence": "The flags are flying in the wind."
+   },
+   {
+    "word": "dense fog",
+    "translation_uz": "quyuq tuman",
+    "example_sentence": "There was dense fog on the road."
+   },
+   {
+    "word": "thick fog",
+    "translation_uz": "qalin tuman",
+    "example_sentence": "Thick fog covered the village."
+   },
+   {
+    "word": "the fog lifts",
+    "translation_uz": "tuman tarqaladi",
+    "example_sentence": "The fog lifted at ten o'clock."
+   },
+   {
+    "word": "fog comes down",
+    "translation_uz": "tuman tushadi",
+    "example_sentence": "The fog came down quickly."
+   },
+   {
+    "word": "foggy weather",
+    "translation_uz": "tumanli ob-havo",
+    "example_sentence": "I do not like foggy weather."
+   },
+   {
+    "word": "a fog of smoke",
+    "translation_uz": "tutun tumani",
+    "example_sentence": "A fog of smoke filled the room."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A ___ wind blew my hat off my head.",
+    "correct_word": "strong",
+    "options": [
+     "strong",
+     "fat",
+     "green",
+     "sleepy"
+    ]
+   },
+   {
+    "sentence_with_blank": "The wind ___ from the sea in the afternoon.",
+    "correct_word": "blows",
+    "options": [
+     "eats",
+     "blows",
+     "draws",
+     "sells"
+    ]
+   },
+   {
+    "sentence_with_blank": "A gust ___ wind closed the door with a bang.",
+    "correct_word": "of",
+    "options": [
+     "on",
+     "at",
+     "of",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "Drivers must be careful when it is ___ on the road.",
+    "correct_word": "foggy",
+    "options": [
+     "lucky",
+     "sunny",
+     "sleepy",
+     "foggy"
+    ]
+   },
+   {
+    "sentence_with_blank": "The fog ___ at ten o'clock and the sun came out.",
+    "correct_word": "lifted",
+    "options": [
+     "lifted",
+     "jumped",
+     "bought",
+     "sang"
+    ]
+   },
+   {
+    "sentence_with_blank": "We walked ___ the wind and it was hard.",
+    "correct_word": "against",
+    "options": [
+     "among",
+     "against",
+     "behind",
+     "since"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Kite Day",
+   "text": "On Sunday there was a light wind, so we took our kites to the field. At first the wind was too weak. Then a strong gust of wind came, and my kite flew high in the sky. Later the wind dropped, and thick fog came down. We could not see the other end of the field. We waited and played cards in the car. At eleven the fog lifted, and we saw the green hills again. It was a funny day.",
+   "key_words": [
+    {
+     "word": "kite",
+     "translation_uz": "varrak"
+    },
+    {
+     "word": "weak",
+     "translation_uz": "zaif"
+    },
+    {
+     "word": "field",
+     "translation_uz": "dala"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the kite fly high?",
+     "options": [
+      "Dad pulled it",
+      "The fog came",
+      "A strong gust of wind came",
+      "It was very light"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened after the wind dropped?",
+     "options": [
+      "Thick fog came down",
+      "It rained",
+      "It snowed",
+      "It got hot"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the family do in the car?",
+     "options": [
+      "Ate lunch",
+      "Played cards",
+      "Slept",
+      "Watched TV"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Foggy Morning",
+   "script": "This morning there was dense fog in our town. I could not see the school from the bus stop. The bus driver drove very slowly, and the bus came late. At eleven the fog began to lift. After school, a strong wind began to blow, and it blew my scarf away. I ran after it against the wind! A kind lady caught it and gave it back to me.",
+   "questions": [
+    {
+     "question": "What was the weather like this morning?",
+     "options": [
+      "Strong wind",
+      "Dense fog",
+      "Heavy rain",
+      "Hot sun"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the wind blow away?",
+     "options": [
+      "The speaker's scarf",
+      "A hat",
+      "A bag",
+      "A kite"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who gave the scarf back?",
+     "options": [
+      "The bus driver",
+      "A teacher",
+      "A friend",
+      "A kind lady"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "There is thick fog.",
+    "The wind is strong.",
+    "The fog has lifted."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weather",
+    "question_text": "Is it windy today?",
+    "hint_words": [
+     "yes",
+     "no",
+     "a little",
+     "strong"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "Do you like foggy weather?",
+    "hint_words": [
+     "no",
+     "dark",
+     "cold",
+     "slow"
+    ]
+   },
+   {
+    "topic": "Fun",
+    "question_text": "Can you fly a kite?",
+    "hint_words": [
+     "yes",
+     "no",
+     "wind",
+     "field"
+    ]
+   }
+  ]
+ }
+]

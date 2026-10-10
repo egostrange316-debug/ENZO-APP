@@ -1,0 +1,1493 @@
+[
+ {
+  "unit": 106,
+  "title": "body, muscle",
+  "vocabulary": [
+   {
+    "word": "the human body",
+    "translation_uz": "inson tanasi",
+    "example_sentence": "The heart is an important part of the human body."
+   },
+   {
+    "word": "keep your body healthy",
+    "translation_uz": "tanangni sog'lom saqlamoq",
+    "example_sentence": "Sport helps you keep your body healthy."
+   },
+   {
+    "word": "body language",
+    "translation_uz": "tana tili",
+    "example_sentence": "His body language showed that he was nervous."
+   },
+   {
+    "word": "a part of the body",
+    "translation_uz": "tananing bir qismi",
+    "example_sentence": "The knee is a part of the body."
+   },
+   {
+    "word": "look after your body",
+    "translation_uz": "tanangga g'amxo'rlik qilmoq",
+    "example_sentence": "We must look after our body."
+   },
+   {
+    "word": "the whole body",
+    "translation_uz": "butun tana",
+    "example_sentence": "My whole body was tired after the race."
+   },
+   {
+    "word": "body temperature",
+    "translation_uz": "tana harorati",
+    "example_sentence": "The nurse checked my body temperature."
+   },
+   {
+    "word": "strong muscles",
+    "translation_uz": "kuchli mushaklar",
+    "example_sentence": "Football players have strong muscles."
+   },
+   {
+    "word": "build muscle",
+    "translation_uz": "mushak o'stirmoq",
+    "example_sentence": "Swimming helps to build muscle."
+   },
+   {
+    "word": "pull a muscle",
+    "translation_uz": "mushakni cho'zib olmoq",
+    "example_sentence": "He pulled a muscle in his leg."
+   },
+   {
+    "word": "a muscle hurts",
+    "translation_uz": "mushak og'riydi",
+    "example_sentence": "My muscles hurt after the long walk."
+   },
+   {
+    "word": "stretch a muscle",
+    "translation_uz": "mushakni cho'zmoq",
+    "example_sentence": "Stretch your muscles before you run."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Exercise helps you keep your ___ healthy.",
+    "correct_word": "body",
+    "options": [
+     "body",
+     "bread",
+     "window",
+     "road"
+    ]
+   },
+   {
+    "sentence_with_blank": "Swimming can help you ___ muscle.",
+    "correct_word": "build",
+    "options": [
+     "paint",
+     "build",
+     "read",
+     "cut"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ a muscle in his leg while playing football.",
+    "correct_word": "pulled",
+    "options": [
+     "baked",
+     "spoke",
+     "pulled",
+     "watched"
+    ]
+   },
+   {
+    "sentence_with_blank": "Always ___ your muscles before you run.",
+    "correct_word": "stretch",
+    "options": [
+     "boil",
+     "post",
+     "sell",
+     "stretch"
+    ]
+   },
+   {
+    "sentence_with_blank": "His ___ language showed that he was angry.",
+    "correct_word": "body",
+    "options": [
+     "body",
+     "bread",
+     "book",
+     "bank"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Gym Day",
+   "text": "On Saturdays my older brother goes to the gym. He wants to build muscle and keep his body strong. He lifts light weights and runs on a machine. Last week he pulled a muscle in his back and could not play football. The doctor said, \"Stretch your muscles first, and look after your body.\" Now my brother always does exercises before he trains.",
+   "key_words": [
+    {
+     "word": "weights",
+     "translation_uz": "tosh/og'irlik"
+    },
+    {
+     "word": "machine",
+     "translation_uz": "mashina, trenajyor"
+    },
+    {
+     "word": "exercises",
+     "translation_uz": "mashqlar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why does the brother go to the gym?",
+     "options": [
+      "To build muscle",
+      "To meet a friend",
+      "To learn swimming",
+      "To watch a game"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened last week?",
+     "options": [
+      "He broke his arm",
+      "He lost his bag",
+      "He pulled a muscle",
+      "He won a race"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the brother do now before he trains?",
+     "options": [
+      "Sleeps",
+      "Eats cake",
+      "Watches TV",
+      "Exercises"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Healthy Habits",
+   "script": "Our teacher talked about the human body today. She said we must look after our body. We need sleep, water and good food. Exercise gives us strong muscles. After the lesson I tried to stretch my muscles, and my whole body felt better. I want to run every morning.",
+   "questions": [
+    {
+     "question": "What did the teacher talk about?",
+     "options": [
+      "Food",
+      "The human body",
+      "Sports",
+      "Animals"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does exercise give us?",
+     "options": [
+      "Strong muscles",
+      "New shoes",
+      "More homework",
+      "A bigger bag"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the speaker want to do every morning?",
+     "options": [
+      "Swim",
+      "Read",
+      "Run",
+      "Cook"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Look after your body.",
+    "I have strong muscles.",
+    "Stretch your muscles."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Body",
+    "question_text": "What do you do to keep your body healthy?",
+    "hint_words": [
+     "I eat",
+     "exercise",
+     "sleep",
+     "healthy"
+    ]
+   },
+   {
+    "topic": "Muscles",
+    "question_text": "Do you want strong muscles? Why?",
+    "hint_words": [
+     "I want",
+     "strong",
+     "sport",
+     "because"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "What sport makes your whole body work?",
+    "hint_words": [
+     "swimming",
+     "running",
+     "football",
+     "body"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 107,
+  "title": "skin, stomach",
+  "vocabulary": [
+   {
+    "word": "dry skin",
+    "translation_uz": "quruq teri",
+    "example_sentence": "Winter air can give you dry skin."
+   },
+   {
+    "word": "sensitive skin",
+    "translation_uz": "sezgir teri",
+    "example_sentence": "Babies have very sensitive skin."
+   },
+   {
+    "word": "protect your skin from the sun",
+    "translation_uz": "terini quyoshdan himoya qilmoq",
+    "example_sentence": "Wear a hat to protect your skin from the sun."
+   },
+   {
+    "word": "skin cream",
+    "translation_uz": "teri kremi",
+    "example_sentence": "Mum uses a skin cream every evening."
+   },
+   {
+    "word": "pale skin",
+    "translation_uz": "oqargan (rangsiz) teri",
+    "example_sentence": "She had pale skin because she was ill."
+   },
+   {
+    "word": "burn your skin",
+    "translation_uz": "terini kuydirmoq",
+    "example_sentence": "Be careful not to burn your skin in the sun."
+   },
+   {
+    "word": "skin colour",
+    "translation_uz": "teri rangi",
+    "example_sentence": "Skin colour comes from our parents."
+   },
+   {
+    "word": "have a stomach ache",
+    "translation_uz": "oshqozoni og'rimoq",
+    "example_sentence": "I have a stomach ache after eating too much."
+   },
+   {
+    "word": "an upset stomach",
+    "translation_uz": "oshqozon buzilishi",
+    "example_sentence": "He stayed home with an upset stomach."
+   },
+   {
+    "word": "an empty stomach",
+    "translation_uz": "och qorin",
+    "example_sentence": "Do not run on an empty stomach."
+   },
+   {
+    "word": "a full stomach",
+    "translation_uz": "to'q qorin",
+    "example_sentence": "On a full stomach it is hard to run."
+   },
+   {
+    "word": "lie on your stomach",
+    "translation_uz": "qorinbilan yotmoq",
+    "example_sentence": "The baby likes to lie on her stomach."
+   },
+   {
+    "word": "feel sick in your stomach",
+    "translation_uz": "oshqozonda ko'ngil aynishini sezmoq",
+    "example_sentence": "The boat made me feel sick in my stomach."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Use a sun cream to ___ your skin from the sun.",
+    "correct_word": "protect",
+    "options": [
+     "paint",
+     "protect",
+     "kick",
+     "bake"
+    ]
+   },
+   {
+    "sentence_with_blank": "I have a ___ ache because I ate too many sweets.",
+    "correct_word": "stomach",
+    "options": [
+     "finger",
+     "toe",
+     "stomach",
+     "hair"
+    ]
+   },
+   {
+    "sentence_with_blank": "Babies have soft, ___ skin.",
+    "correct_word": "sensitive",
+    "options": [
+     "loud",
+     "fast",
+     "round",
+     "sensitive"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't go running on an ___ stomach.",
+    "correct_word": "empty",
+    "options": [
+     "empty",
+     "early",
+     "alone",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "He stayed in bed with an ___ stomach.",
+    "correct_word": "upset",
+    "options": [
+     "angry",
+     "upset",
+     "empty",
+     "excited"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day at the Beach",
+   "text": "Last Sunday we spent the day at the beach. Mum put sun cream on our skin because she wanted to protect it from the sun. My little brother has sensitive skin, so he wore a hat and a T-shirt. At lunch he ate three ice creams on an empty stomach, and later he had a stomach ache. Dad gave him some water and he lay on his stomach in the shade. He felt better in an hour.",
+   "key_words": [
+    {
+     "word": "sun cream",
+     "translation_uz": "quyoshdan himoya kremi"
+    },
+    {
+     "word": "shade",
+     "translation_uz": "soya"
+    },
+    {
+     "word": "hat",
+     "translation_uz": "shlyapa"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did Mum put cream on their skin?",
+     "options": [
+      "Because it was dry",
+      "To protect it from the sun",
+      "Because it was cold",
+      "Because they swam"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the little brother eat?",
+     "options": [
+      "Three ice creams",
+      "Two sandwiches",
+      "A cake",
+      "Fish and chips"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did he lie after the stomach ache?",
+     "options": [
+      "In the sea",
+      "In the car",
+      "In the water",
+      "In the shade"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Doctor's",
+   "script": "I have a stomach ache today, so I am at the doctor's. The doctor asks me, \"What did you eat yesterday?\" I say, \"Fish and a lot of chocolate.\" She says it is an upset stomach and tells me to drink water and rest. She also looks at my skin because I have a red spot on my arm. It is not serious.",
+   "questions": [
+    {
+     "question": "Why is the speaker at the doctor's?",
+     "options": [
+      "He has a stomach ache",
+      "He has a cold",
+      "He broke his leg",
+      "He needs new glasses"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the doctor tell him to do?",
+     "options": [
+      "Run every day",
+      "Eat more chocolate",
+      "Drink water and rest",
+      "Go swimming"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the doctor look at?",
+     "options": [
+      "His shoes",
+      "His skin",
+      "His eyes",
+      "His bag"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I have a stomach ache.",
+    "Protect your skin.",
+    "He has dry skin."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Skin",
+    "question_text": "How do you protect your skin in summer?",
+    "hint_words": [
+     "sun cream",
+     "hat",
+     "shade",
+     "I wear"
+    ]
+   },
+   {
+    "topic": "Stomach",
+    "question_text": "What do you do when you have a stomach ache?",
+    "hint_words": [
+     "I drink",
+     "rest",
+     "water",
+     "doctor"
+    ]
+   },
+   {
+    "topic": "Health",
+    "question_text": "What food gives you a stomach ache?",
+    "hint_words": [
+     "too many",
+     "sweets",
+     "I feel",
+     "sick"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 108,
+  "title": "waist, back",
+  "vocabulary": [
+   {
+    "word": "a thin waist",
+    "translation_uz": "ingichka bel",
+    "example_sentence": "The dancer has a thin waist."
+   },
+   {
+    "word": "a belt around your waist",
+    "translation_uz": "belga bog'langan kamar",
+    "example_sentence": "He wears a belt around his waist."
+   },
+   {
+    "word": "up to your waist",
+    "translation_uz": "belingizgacha",
+    "example_sentence": "The water came up to my waist."
+   },
+   {
+    "word": "waist measurement",
+    "translation_uz": "bel o'lchami",
+    "example_sentence": "The tailor took my waist measurement."
+   },
+   {
+    "word": "tie it around your waist",
+    "translation_uz": "belingga bog'lamoq",
+    "example_sentence": "Tie a jumper around your waist."
+   },
+   {
+    "word": "hurt your back",
+    "translation_uz": "belingni (orqangni) og'ritmoq",
+    "example_sentence": "I hurt my back when I lifted the box."
+   },
+   {
+    "word": "a bad back",
+    "translation_uz": "og'riydigan bel",
+    "example_sentence": "My uncle has a bad back."
+   },
+   {
+    "word": "back pain",
+    "translation_uz": "bel og'rig'i",
+    "example_sentence": "Sitting for hours can cause back pain."
+   },
+   {
+    "word": "on your back",
+    "translation_uz": "chalqancha",
+    "example_sentence": "Lie on your back and look at the stars."
+   },
+   {
+    "word": "the back of the chair",
+    "translation_uz": "stul suyanchig'i",
+    "example_sentence": "Put your coat on the back of the chair."
+   },
+   {
+    "word": "scratch your back",
+    "translation_uz": "orqangni qashimoq",
+    "example_sentence": "Can you scratch my back, please?"
+   },
+   {
+    "word": "carry on your back",
+    "translation_uz": "orqangda ko'tarmoq",
+    "example_sentence": "The children carry their school bags on their back."
+   },
+   {
+    "word": "at the back of the room",
+    "translation_uz": "xonaning orqa tomonida",
+    "example_sentence": "Our teacher sits at the back of the room."
+   },
+   {
+    "word": "stand back to back",
+    "translation_uz": "orqama-orqa turmoq",
+    "example_sentence": "The two friends stood back to back."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The tailor measured my ___ for the new trousers.",
+    "correct_word": "waist",
+    "options": [
+     "finger",
+     "toe",
+     "waist",
+     "ear"
+    ]
+   },
+   {
+    "sentence_with_blank": "He cannot lift heavy boxes because he has a bad ___.",
+    "correct_word": "back",
+    "options": [
+     "arm",
+     "hair",
+     "toe",
+     "back"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children ___ their school bags on their backs.",
+    "correct_word": "carry",
+    "options": [
+     "carry",
+     "kick",
+     "boil",
+     "cut"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am lying ___ my back and looking at the sky.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The water in the river was only ___ to my waist.",
+    "correct_word": "up",
+    "options": [
+     "out",
+     "off",
+     "up",
+     "down"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Hiking Day",
+   "text": "Last weekend we went hiking in the mountains. I carried a heavy bag on my back and my father wore a belt around his waist with a water bottle. We crossed a small river and the water came up to my waist! Later my father hurt his back when he lifted a big stone. He lay on his back on the grass for ten minutes. After that we walked home slowly.",
+   "key_words": [
+    {
+     "word": "hiking",
+     "translation_uz": "tog'da sayr qilish"
+    },
+    {
+     "word": "crossed",
+     "translation_uz": "kesib o'tdi"
+    },
+    {
+     "word": "stone",
+     "translation_uz": "tosh"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the family go?",
+     "options": [
+      "To the sea",
+      "To a museum",
+      "Hiking in the mountains",
+      "To a farm"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How high was the water?",
+     "options": [
+      "Up to the writer's waist",
+      "Up to the knees",
+      "Up to the neck",
+      "Only to the toes"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the father do after he hurt his back?",
+     "options": [
+      "He swam",
+      "He lay on his back on the grass",
+      "He ran home",
+      "He cooked"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Back Pain",
+   "script": "My grandfather has a bad back. He cannot carry heavy things, so I carry his bag for him. The doctor says he should not sit for a long time. When we watch TV, he sits on a chair with a pillow at his back. Every morning he does gentle exercises and tries to stretch.",
+   "questions": [
+    {
+     "question": "Who has a bad back?",
+     "options": [
+      "The father",
+      "The grandfather",
+      "The teacher",
+      "The speaker"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who carries the grandfather's bag?",
+     "options": [
+      "The speaker",
+      "The doctor",
+      "The grandmother",
+      "A neighbour"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does he put at his back on the chair?",
+     "options": [
+      "A blanket",
+      "A bag",
+      "A pillow",
+      "A book"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I hurt my back.",
+    "He has a bad back.",
+    "Tie it around your waist."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Back",
+    "question_text": "Do you carry a school bag on your back? Is it heavy?",
+    "hint_words": [
+     "heavy",
+     "school bag",
+     "I carry",
+     "back"
+    ]
+   },
+   {
+    "topic": "Posture",
+    "question_text": "How should we sit to keep our back healthy?",
+    "hint_words": [
+     "straight",
+     "chair",
+     "sit",
+     "back"
+    ]
+   },
+   {
+    "topic": "Clothes",
+    "question_text": "Do you wear a belt around your waist?",
+    "hint_words": [
+     "I wear",
+     "belt",
+     "trousers",
+     "waist"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 109,
+  "title": "arm, wrist, leg",
+  "vocabulary": [
+   {
+    "word": "break your arm",
+    "translation_uz": "qo'lingni sindirmoq",
+    "example_sentence": "He broke his arm when he fell from the tree."
+   },
+   {
+    "word": "fold your arms",
+    "translation_uz": "qo'llaringni kesishtirmoq",
+    "example_sentence": "Fold your arms and listen carefully."
+   },
+   {
+    "word": "arm in arm",
+    "translation_uz": "qo'ltiqlashib",
+    "example_sentence": "The friends walked arm in arm."
+   },
+   {
+    "word": "carry something in your arms",
+    "translation_uz": "qo'lida ko'tarmoq",
+    "example_sentence": "She carried the baby in her arms."
+   },
+   {
+    "word": "hold out your arm",
+    "translation_uz": "qo'lingni cho'zmoq",
+    "example_sentence": "Hold out your arm for the doctor."
+   },
+   {
+    "word": "hurt your wrist",
+    "translation_uz": "bilagingni og'ritmoq",
+    "example_sentence": "I hurt my wrist when I played tennis."
+   },
+   {
+    "word": "a watch on your wrist",
+    "translation_uz": "bilakdagi soat",
+    "example_sentence": "He wears a watch on his wrist."
+   },
+   {
+    "word": "a broken wrist",
+    "translation_uz": "sinib qolgan bilak",
+    "example_sentence": "She cannot write with a broken wrist."
+   },
+   {
+    "word": "break your leg",
+    "translation_uz": "oyog'ingni sindirmoq",
+    "example_sentence": "He broke his leg while skiing."
+   },
+   {
+    "word": "cross your legs",
+    "translation_uz": "oyoq chalishtirmoq",
+    "example_sentence": "Don't cross your legs on the bus."
+   },
+   {
+    "word": "stretch your legs",
+    "translation_uz": "oyoqlarni yozmoq (sayr qilib)",
+    "example_sentence": "Let's stretch our legs in the park."
+   },
+   {
+    "word": "a leg of a table",
+    "translation_uz": "stol oyog'i",
+    "example_sentence": "One leg of the table is broken."
+   },
+   {
+    "word": "a chicken leg",
+    "translation_uz": "tovuq oyog'i",
+    "example_sentence": "I ate a chicken leg for dinner."
+   },
+   {
+    "word": "pull someone's leg",
+    "translation_uz": "birovni hazillashib aldamoq",
+    "example_sentence": "Are you pulling my leg?"
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "He fell off his bike and ___ his arm.",
+    "correct_word": "broke",
+    "options": [
+     "sold",
+     "drew",
+     "heard",
+     "broke"
+    ]
+   },
+   {
+    "sentence_with_blank": "The two sisters walked ___ in arm.",
+    "correct_word": "arm",
+    "options": [
+     "arm",
+     "hand",
+     "wrist",
+     "leg"
+    ]
+   },
+   {
+    "sentence_with_blank": "I wear my watch on my left ___.",
+    "correct_word": "wrist",
+    "options": [
+     "knee",
+     "wrist",
+     "toe",
+     "back"
+    ]
+   },
+   {
+    "sentence_with_blank": "After two hours in the car, we got out to ___ our legs.",
+    "correct_word": "stretch",
+    "options": [
+     "fix",
+     "eat",
+     "stretch",
+     "sing"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can't be serious. Are you ___ my leg?",
+    "correct_word": "pulling",
+    "options": [
+     "kicking",
+     "breaking",
+     "washing",
+     "pulling"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Broken Arm",
+   "text": "Last month my cousin fell off his bike and broke his arm. He also hurt his wrist, so he could not hold a pencil. The doctor put his arm in a white plaster. At school his friends signed it, and he carried his books in his other arm. After four weeks the plaster came off. Now he rides carefully, and he always walks arm in arm with his mother when it is icy.",
+   "key_words": [
+    {
+     "word": "plaster",
+     "translation_uz": "gips"
+    },
+    {
+     "word": "icy",
+     "translation_uz": "muzlagan"
+    },
+    {
+     "word": "signed",
+     "translation_uz": "imzo qo'ydi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did the cousin hurt his arm?",
+     "options": [
+      "He fell from a tree",
+      "He fell off his bike",
+      "He played football",
+      "He slipped at home"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the doctor put on his arm?",
+     "options": [
+      "A white plaster",
+      "A bag of ice",
+      "A watch",
+      "A new shirt"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long did he have the plaster?",
+     "options": [
+      "Two days",
+      "Ten days",
+      "A year",
+      "Four weeks"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Stretch Your Legs",
+   "script": "We have been in the car for three hours. My legs are tired, so we stop in a small town to stretch our legs. I sit down and cross my legs on a bench. My little sister holds her teddy in her arms. Dad checks the watch on his wrist and says we can have ten minutes. Then we drive again.",
+   "questions": [
+    {
+     "question": "How long have they been in the car?",
+     "options": [
+      "One hour",
+      "Five hours",
+      "Three hours",
+      "Ten minutes"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the little sister hold?",
+     "options": [
+      "Her teddy",
+      "A drink",
+      "An ice cream",
+      "A map"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long can they stay at the town?",
+     "options": [
+      "Half an hour",
+      "Ten minutes",
+      "One hour",
+      "Two minutes"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "He broke his arm.",
+    "Stretch your legs.",
+    "Wear a watch on your wrist."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Arm",
+    "question_text": "Have you ever hurt your arm or leg?",
+    "hint_words": [
+     "I hurt",
+     "broke",
+     "fell",
+     "arm"
+    ]
+   },
+   {
+    "topic": "Sport",
+    "question_text": "Which sport uses your legs most?",
+    "hint_words": [
+     "football",
+     "running",
+     "legs",
+     "I think"
+    ]
+   },
+   {
+    "topic": "Watch",
+    "question_text": "Do you wear a watch on your wrist?",
+    "hint_words": [
+     "I wear",
+     "watch",
+     "wrist",
+     "every day"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 110,
+  "title": "finger, nail, toe",
+  "vocabulary": [
+   {
+    "word": "cut your finger",
+    "translation_uz": "barmog'ingni kesib olmoq",
+    "example_sentence": "I cut my finger with a knife."
+   },
+   {
+    "word": "point your finger",
+    "translation_uz": "barmoq bilan ko'rsatmoq",
+    "example_sentence": "It is rude to point your finger at people."
+   },
+   {
+    "word": "cross your fingers",
+    "translation_uz": "omad tilab barmoqlarni chalishtirmoq",
+    "example_sentence": "Cross your fingers for me before my exam."
+   },
+   {
+    "word": "the index finger",
+    "translation_uz": "ko'rsatkich barmoq",
+    "example_sentence": "He pressed the button with his index finger."
+   },
+   {
+    "word": "a finger ring",
+    "translation_uz": "barmoqdagi uzuk",
+    "example_sentence": "She wears a gold ring on her finger."
+   },
+   {
+    "word": "bite your nails",
+    "translation_uz": "tirnoqlarini tishlamoq",
+    "example_sentence": "Try not to bite your nails."
+   },
+   {
+    "word": "cut your nails",
+    "translation_uz": "tirnoqlaringni olmoq",
+    "example_sentence": "Cut your nails once a week."
+   },
+   {
+    "word": "paint your nails",
+    "translation_uz": "tirnoqlarni bo'yamoq",
+    "example_sentence": "She painted her nails pink."
+   },
+   {
+    "word": "a long nail",
+    "translation_uz": "uzun tirnoq",
+    "example_sentence": "The cat has a long nail."
+   },
+   {
+    "word": "a hammer and nail",
+    "translation_uz": "bolg'a va mix",
+    "example_sentence": "Dad used a hammer and a nail to hang the picture."
+   },
+   {
+    "word": "stand on your toes",
+    "translation_uz": "oyoq uchida turmoq",
+    "example_sentence": "Stand on your toes to see over the wall."
+   },
+   {
+    "word": "stub your toe",
+    "translation_uz": "oyoq barmog'ini urib olmoq",
+    "example_sentence": "I stubbed my toe on the table leg."
+   },
+   {
+    "word": "the big toe",
+    "translation_uz": "oyoqning bosh barmog'i",
+    "example_sentence": "My big toe hurts."
+   },
+   {
+    "word": "from head to toe",
+    "translation_uz": "boshdan oyoqqacha",
+    "example_sentence": "He was covered in mud from head to toe."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I accidentally ___ my finger with a sharp knife.",
+    "correct_word": "cut",
+    "options": [
+     "cut",
+     "sang",
+     "sold",
+     "heard"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is not polite to ___ your finger at people.",
+    "correct_word": "point",
+    "options": [
+     "pour",
+     "point",
+     "boil",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "Try not to ___ your nails when you are nervous.",
+    "correct_word": "bite",
+    "options": [
+     "swim",
+     "drive",
+     "bite",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "She stood on her ___ to reach the top shelf.",
+    "correct_word": "toes",
+    "options": [
+     "nails",
+     "wrists",
+     "fingers",
+     "toes"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was covered in mud from head to ___.",
+    "correct_word": "toe",
+    "options": [
+     "toe",
+     "ear",
+     "arm",
+     "hat"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Painting Afternoon",
+   "text": "On Saturday my sister and I painted our nails. She chose pink and I chose blue. I was nervous, so I crossed my fingers and tried not to touch the wet paint. Then I stubbed my toe on the table leg, and the bottle fell! Blue paint was on my floor and on my feet from head to toe, well, almost. Mum laughed and helped us to clean everything.",
+   "key_words": [
+    {
+     "word": "nervous",
+     "translation_uz": "xavotirli, asabiy"
+    },
+    {
+     "word": "wet",
+     "translation_uz": "nam"
+    },
+    {
+     "word": "bottle",
+     "translation_uz": "shisha"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Which colour did the sister choose?",
+     "options": [
+      "Pink",
+      "Blue",
+      "Red",
+      "Green"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the bottle fall?",
+     "options": [
+      "The cat jumped",
+      "The writer stubbed a toe on the table leg",
+      "Mum dropped it",
+      "The wind blew"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Mum do?",
+     "options": [
+      "She was angry",
+      "She went out",
+      "She laughed and helped to clean",
+      "She called the doctor"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Little Accidents",
+   "script": "Today was a day of small accidents. In the morning I cut my finger with a piece of paper. At lunchtime I dropped a hammer on my big toe. In the evening my sister bit her nails because she was nervous before an exam. I told her to cross her fingers. Luckily, tomorrow will be a better day.",
+   "questions": [
+    {
+     "question": "What did the speaker cut?",
+     "options": [
+      "A finger",
+      "A toe",
+      "An arm",
+      "A nail"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What fell on the speaker's toe?",
+     "options": [
+      "A book",
+      "A stone",
+      "A hammer",
+      "A plate"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did the sister bite her nails?",
+     "options": [
+      "She was hungry",
+      "She was tired",
+      "She was cold",
+      "She was nervous before an exam"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I cut my finger.",
+    "Don't bite your nails.",
+    "Cross your fingers."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fingers",
+    "question_text": "Why do people cross their fingers?",
+    "hint_words": [
+     "luck",
+     "exam",
+     "cross",
+     "good"
+    ]
+   },
+   {
+    "topic": "Nails",
+    "question_text": "Do you like to paint your nails?",
+    "hint_words": [
+     "I like",
+     "paint",
+     "colour",
+     "nails"
+    ]
+   },
+   {
+    "topic": "Accidents",
+    "question_text": "Have you ever hurt your toe or finger? How?",
+    "hint_words": [
+     "I hurt",
+     "fell",
+     "door",
+     "finger"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 111,
+  "title": "knee, foot",
+  "vocabulary": [
+   {
+    "word": "bend your knees",
+    "translation_uz": "tizzangni bukmoq",
+    "example_sentence": "Bend your knees when you jump."
+   },
+   {
+    "word": "hurt your knee",
+    "translation_uz": "tizzangni og'ritmoq",
+    "example_sentence": "He hurt his knee in the game."
+   },
+   {
+    "word": "kneel on one knee",
+    "translation_uz": "bir tizzaga cho'kmoq",
+    "example_sentence": "The knight knelt on one knee."
+   },
+   {
+    "word": "on your knees",
+    "translation_uz": "tiz cho'kib",
+    "example_sentence": "The baby crawled on her hands and knees."
+   },
+   {
+    "word": "knee-deep in water",
+    "translation_uz": "tizzagacha suvda",
+    "example_sentence": "The children were knee-deep in water."
+   },
+   {
+    "word": "a knee pain",
+    "translation_uz": "tizza og'rig'i",
+    "example_sentence": "My grandmother has a knee pain."
+   },
+   {
+    "word": "on foot",
+    "translation_uz": "piyoda",
+    "example_sentence": "We went to school on foot."
+   },
+   {
+    "word": "put your foot down",
+    "translation_uz": "oyog'ingni qo'ymoq (qat'iy turmoq)",
+    "example_sentence": "Mum put her foot down and said no."
+   },
+   {
+    "word": "at the foot of the mountain",
+    "translation_uz": "tog' etagida",
+    "example_sentence": "Our hotel is at the foot of the mountain."
+   },
+   {
+    "word": "a foot of snow",
+    "translation_uz": "bir fut qor",
+    "example_sentence": "There was a foot of snow in the garden."
+   },
+   {
+    "word": "stand on one foot",
+    "translation_uz": "bir oyoqda turmoq",
+    "example_sentence": "Can you stand on one foot?"
+   },
+   {
+    "word": "foot pain after walking",
+    "translation_uz": "yurgandan keyin oyoq og'rig'i",
+    "example_sentence": "I had foot pain after a long walk."
+   },
+   {
+    "word": "kick with your foot",
+    "translation_uz": "oyoq bilan tepmoq",
+    "example_sentence": "Kick the ball with your right foot."
+   },
+   {
+    "word": "football",
+    "translation_uz": "futbol",
+    "example_sentence": "I play football with my friends after school."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ your knees when you pick up the box.",
+    "correct_word": "bend",
+    "options": [
+     "paint",
+     "bend",
+     "cook",
+     "read"
+    ]
+   },
+   {
+    "sentence_with_blank": "The village is not far, so we can go there ___ foot.",
+    "correct_word": "on",
+    "options": [
+     "by",
+     "with",
+     "on",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "The hotel is at the ___ of the mountain.",
+    "correct_word": "foot",
+    "options": [
+     "knee",
+     "wrist",
+     "back",
+     "foot"
+    ]
+   },
+   {
+    "sentence_with_blank": "The baby crawled on her hands and ___.",
+    "correct_word": "knees",
+    "options": [
+     "knees",
+     "waists",
+     "nails",
+     "stomachs"
+    ]
+   },
+   {
+    "sentence_with_blank": "She stood on one ___ and tried not to fall.",
+    "correct_word": "foot",
+    "options": [
+     "stomach",
+     "foot",
+     "muscle",
+     "wrist"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Football Match",
+   "text": "On Sunday I played football for my school. The pitch was at the foot of a hill, and we went there on foot. In the second half I fell and hurt my knee. It was painful, so I sat down and the coach brought some ice. The doctor said I should bend my knee slowly and rest for a week. I was sad, but I can still cheer for my team from the side of the pitch.",
+   "key_words": [
+    {
+     "word": "pitch",
+     "translation_uz": "futbol maydoni"
+    },
+    {
+     "word": "coach",
+     "translation_uz": "murabbiy"
+    },
+    {
+     "word": "cheer",
+     "translation_uz": "qo'llab-quvvatlamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How did the team go to the pitch?",
+     "options": [
+      "By bus",
+      "On foot",
+      "By car",
+      "By bike"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the writer hurt?",
+     "options": [
+      "His knee",
+      "His back",
+      "His wrist",
+      "His toe"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the doctor say?",
+     "options": [
+      "Play more",
+      "Run every day",
+      "Rest for a week",
+      "Go swimming"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Snowy Walk",
+   "script": "There is a foot of snow outside today, so we walk to school on foot. The snow is deep, and it is knee-deep in some places. I bend my knees and take big steps. My feet are cold, but my new boots keep them dry. At the foot of the hill, we stop and make a snowman.",
+   "questions": [
+    {
+     "question": "How do they go to school?",
+     "options": [
+      "On foot",
+      "By train",
+      "By bus",
+      "By bike"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How deep is the snow in some places?",
+     "options": [
+      "Ankle-deep",
+      "Waist-deep",
+      "Only a little",
+      "Knee-deep"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do they make at the foot of the hill?",
+     "options": [
+      "A snowball fight",
+      "A snowman",
+      "A fire",
+      "A house"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I hurt my knee.",
+    "Go on foot.",
+    "Bend your knees."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Knee",
+    "question_text": "Have you ever hurt your knee? What happened?",
+    "hint_words": [
+     "I hurt",
+     "fell",
+     "knee",
+     "playing"
+    ]
+   },
+   {
+    "topic": "Travel",
+    "question_text": "Do you go to school on foot?",
+    "hint_words": [
+     "I go",
+     "on foot",
+     "by bus",
+     "near"
+    ]
+   },
+   {
+    "topic": "Football",
+    "question_text": "Do you play football? Do you kick with your right foot?",
+    "hint_words": [
+     "I play",
+     "kick",
+     "right",
+     "left"
+    ]
+   }
+  ]
+ }
+]

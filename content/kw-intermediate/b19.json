@@ -1,0 +1,2410 @@
+[
+ {
+  "unit": 150,
+  "title": "war",
+  "vocabulary": [
+   {
+    "word": "declare war on someone",
+    "translation_uz": "kimgadir urush e'lon qilmoq",
+    "example_sentence": "In the story, the king declared war on his neighbour."
+   },
+   {
+    "word": "go to war",
+    "translation_uz": "urushga kirmoq",
+    "example_sentence": "Leaders should try every other way before going to war."
+   },
+   {
+    "word": "be at war",
+    "translation_uz": "urush holatida bo'lmoq",
+    "example_sentence": "The two kingdoms were at war for many years."
+   },
+   {
+    "word": "a war breaks out",
+    "translation_uz": "urush boshlanadi",
+    "example_sentence": "When the war broke out, many families left their homes."
+   },
+   {
+    "word": "fight a war",
+    "translation_uz": "urush olib bormoq",
+    "example_sentence": "The soldiers fought a long war far from home."
+   },
+   {
+    "word": "win / lose a war",
+    "translation_uz": "urushda g'alaba qozonmoq / yutqazmoq",
+    "example_sentence": "Nobody really wins a war."
+   },
+   {
+    "word": "end a war",
+    "translation_uz": "urushni tugatmoq",
+    "example_sentence": "Talks helped to end the war."
+   },
+   {
+    "word": "a civil war",
+    "translation_uz": "fuqarolar urushi",
+    "example_sentence": "A civil war is fought inside one country."
+   },
+   {
+    "word": "a world war",
+    "translation_uz": "jahon urushi",
+    "example_sentence": "History books describe two world wars."
+   },
+   {
+    "word": "a war zone",
+    "translation_uz": "urush hududi",
+    "example_sentence": "Reporters sometimes work in a war zone."
+   },
+   {
+    "word": "the outbreak of war",
+    "translation_uz": "urush boshlanishi",
+    "example_sentence": "The outbreak of war surprised everyone."
+   },
+   {
+    "word": "war and peace",
+    "translation_uz": "urush va tinchlik",
+    "example_sentence": "Many novels are about war and peace."
+   },
+   {
+    "word": "a war memorial",
+    "translation_uz": "urush yodgorligi",
+    "example_sentence": "We laid flowers at the war memorial."
+   },
+   {
+    "word": "wartime",
+    "translation_uz": "urush davri",
+    "example_sentence": "In wartime, food was hard to find."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The king decided to ___ war on the neighbouring land.",
+    "correct_word": "declare",
+    "options": [
+     "declare",
+     "tell",
+     "do",
+     "speak",
+     "broke"
+    ]
+   },
+   {
+    "sentence_with_blank": "When the war ___ out, many people left the city.",
+    "correct_word": "broke",
+    "options": [
+     "broke",
+     "fell",
+     "came",
+     "ran",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The two countries in the story were ___ war for ten years.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "into",
+     "by",
+     "with",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ war is fought between groups inside one country.",
+    "correct_word": "civil",
+    "options": [
+     "civil",
+     "public",
+     "local",
+     "family",
+     "declare"
+    ]
+   },
+   {
+    "sentence_with_blank": "People tried hard to ___ the war with talks.",
+    "correct_word": "end",
+    "options": [
+     "end",
+     "lose",
+     "open",
+     "miss",
+     "ran"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ of war in the story forced the family to move.",
+    "correct_word": "outbreak",
+    "options": [
+     "outbreak",
+     "breakout",
+     "break",
+     "explosion",
+     "local"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Story from History",
+   "text": "This is a fictional story about two kingdoms, Arden and Belmor. For many years the kingdoms lived in peace, but a quarrel about land grew bigger. Finally, the king of Belmor declared war. War broke out, and many people had to leave their homes. The war lasted five years, and both sides lost many people. In the end, the two kings met to talk, and they agreed to end the war. Today there is a war memorial in the capital of Arden, where schoolchildren lay flowers every year. Teachers say that the story reminds us how important it is to solve problems without fighting.",
+   "key_words": [
+    {
+     "word": "quarrel",
+     "translation_uz": "janjal, tortishuv"
+    },
+    {
+     "word": "kingdom",
+     "translation_uz": "qirollik"
+    },
+    {
+     "word": "remind",
+     "translation_uz": "eslatmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the quarrel about?",
+     "options": [
+      "Money",
+      "A river",
+      "Land",
+      "A festival"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did the war last?",
+     "options": [
+      "Five years",
+      "One year",
+      "Ten years",
+      "Twenty years"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do schoolchildren do at the memorial?",
+     "options": [
+      "Plant trees",
+      "Lay flowers",
+      "Sing songs",
+      "Hold a race"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A History Lesson",
+   "script": "Teacher: Today we will talk about why wars begin. Often a quarrel grows until one side declares war. Pupil: Is there a winner in a war? Teacher: People often say that nobody really wins a war, because so many suffer. Pupil: How do wars end? Teacher: Usually leaders meet and agree to end the war in a peace treaty. Pupil: Did your grandfather live in wartime? Teacher: Yes, he often told me how hard life was then, and he always hoped for peace.",
+   "questions": [
+    {
+     "question": "How does a war often begin?",
+     "options": [
+      "A quarrel grows until a side declares war",
+      "A game ends",
+      "A bridge is built",
+      "A festival is cancelled"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "According to the teacher, who really wins a war?",
+     "options": [
+      "The strongest side",
+      "The older side",
+      "The richer side",
+      "Nobody"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How do wars usually end?",
+     "options": [
+      "With a sports game",
+      "With a peace treaty",
+      "With a holiday",
+      "With a new flag"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "War broke out in the story.",
+    "Nobody really wins a war.",
+    "They agreed to end the war."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "War and history",
+    "question_text": "Why do we learn about wars in history lessons?",
+    "hint_words": [
+     "learn",
+     "mistakes",
+     "past",
+     "peace"
+    ]
+   },
+   {
+    "topic": "War and history",
+    "question_text": "How can people solve problems without fighting?",
+    "hint_words": [
+     "talk",
+     "listen",
+     "agree",
+     "calm"
+    ]
+   },
+   {
+    "topic": "War and history",
+    "question_text": "Have you ever visited a memorial or a museum?",
+    "hint_words": [
+     "museum",
+     "history",
+     "visited",
+     "old"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 151,
+  "title": "peace",
+  "vocabulary": [
+   {
+    "word": "live in peace",
+    "translation_uz": "tinchlikda yashamoq",
+    "example_sentence": "People want to live in peace."
+   },
+   {
+    "word": "make peace",
+    "translation_uz": "yarashmoq, tinchlik o'rnatmoq",
+    "example_sentence": "The two friends made peace after their quarrel."
+   },
+   {
+    "word": "keep the peace",
+    "translation_uz": "tinchlikni saqlamoq",
+    "example_sentence": "Officers were sent to keep the peace."
+   },
+   {
+    "word": "break the peace",
+    "translation_uz": "tinchlikni buzmoq",
+    "example_sentence": "Loud music late at night can break the peace."
+   },
+   {
+    "word": "a peace treaty",
+    "translation_uz": "tinchlik shartnomasi",
+    "example_sentence": "Both sides signed a peace treaty."
+   },
+   {
+    "word": "peace talks",
+    "translation_uz": "tinchlik muzokaralari",
+    "example_sentence": "The peace talks lasted three days."
+   },
+   {
+    "word": "a peace agreement",
+    "translation_uz": "tinchlik kelishuvi",
+    "example_sentence": "The leaders reached a peace agreement."
+   },
+   {
+    "word": "a peace process",
+    "translation_uz": "tinchlik jarayoni",
+    "example_sentence": "The peace process needs patience."
+   },
+   {
+    "word": "world peace",
+    "translation_uz": "jahon tinchligi",
+    "example_sentence": "The children drew posters about world peace."
+   },
+   {
+    "word": "a peaceful solution",
+    "translation_uz": "tinch yechim",
+    "example_sentence": "We hope to find a peaceful solution."
+   },
+   {
+    "word": "peace and quiet",
+    "translation_uz": "tinchlik va sukunat",
+    "example_sentence": "I need some peace and quiet to study."
+   },
+   {
+    "word": "at peace with",
+    "translation_uz": "... bilan tinch",
+    "example_sentence": "He is at peace with his decision."
+   },
+   {
+    "word": "peacekeeper",
+    "translation_uz": "tinchlikparvar",
+    "example_sentence": "A peacekeeper helps to stop fighting."
+   },
+   {
+    "word": "a peaceful protest",
+    "translation_uz": "tinch namoyish",
+    "example_sentence": "It was a peaceful protest with songs and signs."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The two leaders signed a peace ___ in the capital.",
+    "correct_word": "treaty",
+    "options": [
+     "treaty",
+     "note",
+     "ticket",
+     "order",
+     "made"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the argument, the sisters ___ peace.",
+    "correct_word": "made",
+    "options": [
+     "made",
+     "did",
+     "took",
+     "kept",
+     "says"
+    ]
+   },
+   {
+    "sentence_with_blank": "Peace ___ between the two sides began on Monday.",
+    "correct_word": "talks",
+    "options": [
+     "talks",
+     "speaks",
+     "tells",
+     "says",
+     "peaceably"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need some peace and ___ to read my book.",
+    "correct_word": "quiet",
+    "options": [
+     "quiet",
+     "noise",
+     "sleep",
+     "music",
+     "treaty"
+    ]
+   },
+   {
+    "sentence_with_blank": "The class wrote about a ___ solution to the problem.",
+    "correct_word": "peaceful",
+    "options": [
+     "peaceful",
+     "peace",
+     "peaceably",
+     "peacefully",
+     "kept"
+    ]
+   },
+   {
+    "sentence_with_blank": "The soldiers were sent to ___ the peace.",
+    "correct_word": "keep",
+    "options": [
+     "keep",
+     "catch",
+     "buy",
+     "take",
+     "sleep"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Peace Day at School",
+   "text": "Every September our school celebrates Peace Day. This year, the pupils made posters about world peace and sang songs about living in peace. Our headteacher told us that peace is more than just the end of war. It means that people respect one another and find peaceful solutions to disagreements. In the afternoon, two classes that had been arguing about the football pitch made peace. They shook hands and agreed to share the pitch. After that, we planted a small tree to remember the day. I think it is the quietest and happiest day of the school year.",
+   "key_words": [
+    {
+     "word": "celebrate",
+     "translation_uz": "nishonlamoq"
+    },
+    {
+     "word": "disagreement",
+     "translation_uz": "kelishmovchilik"
+    },
+    {
+     "word": "respect",
+     "translation_uz": "hurmat qilmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the school celebrate Peace Day?",
+     "options": [
+      "In September",
+      "In January",
+      "In June",
+      "In December"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did two classes argue about?",
+     "options": [
+      "The library",
+      "The canteen",
+      "The exam",
+      "The football pitch"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the pupils plant?",
+     "options": [
+      "A flower bed",
+      "A small tree",
+      "A fence",
+      "A flag"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Peace Talks",
+   "script": "Presenter: Leaders from two fictional countries, Norvia and Tessa, begin peace talks today. Reporter: Yes, the talks are taking place in a neutral city. After a long quarrel about borders, both sides say they want a peaceful solution. They hope to sign a peace agreement by the end of the week. A peacekeeper from a neutral group is also present. Presenter: How do people in the two countries feel? Reporter: Most are hopeful. They want to live in peace and get back to normal life.",
+   "questions": [
+    {
+     "question": "Where are the talks taking place?",
+     "options": [
+      "On a ship",
+      "In a stadium",
+      "In a neutral city",
+      "At a school"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do both sides want?",
+     "options": [
+      "A peaceful solution",
+      "A bigger border",
+      "A new flag",
+      "A trade fair"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How do most people feel?",
+     "options": [
+      "Bored",
+      "Hopeful",
+      "Angry",
+      "Sleepy"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "They signed a peace treaty.",
+    "We want to live in peace.",
+    "The talks begin on Monday."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Peace",
+    "question_text": "What does peace mean to you?",
+    "hint_words": [
+     "quiet",
+     "safe",
+     "friends",
+     "happy"
+    ]
+   },
+   {
+    "topic": "Peace",
+    "question_text": "How can we make peace after an argument?",
+    "hint_words": [
+     "sorry",
+     "talk",
+     "listen",
+     "friend"
+    ]
+   },
+   {
+    "topic": "Peace",
+    "question_text": "Why is peace important for children?",
+    "hint_words": [
+     "school",
+     "safe",
+     "play",
+     "family"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 152,
+  "title": "attack",
+  "vocabulary": [
+   {
+    "word": "launch an attack",
+    "translation_uz": "hujum boshlamoq",
+    "example_sentence": "The army launched an attack at dawn in the story."
+   },
+   {
+    "word": "carry out an attack",
+    "translation_uz": "hujum amalga oshirmoq",
+    "example_sentence": "Nobody knew who carried out the attack."
+   },
+   {
+    "word": "come under attack",
+    "translation_uz": "hujumga uchramoq",
+    "example_sentence": "The village came under attack from a storm of insects."
+   },
+   {
+    "word": "be under attack",
+    "translation_uz": "hujum ostida bo'lmoq",
+    "example_sentence": "The castle was under attack for three days."
+   },
+   {
+    "word": "a surprise attack",
+    "translation_uz": "kutilmagan hujum",
+    "example_sentence": "The surprise attack gave them no time to prepare."
+   },
+   {
+    "word": "an attack on someone/something",
+    "translation_uz": "kimgadir/nimagadir qilingan hujum",
+    "example_sentence": "The report described an attack on a farm."
+   },
+   {
+    "word": "a terrorist attack",
+    "translation_uz": "terroristik hujum",
+    "example_sentence": "The news told about a terrorist attack in a fictional city."
+   },
+   {
+    "word": "a verbal attack",
+    "translation_uz": "og'zaki hujum (haqorat)",
+    "example_sentence": "His verbal attack on the referee was unfair."
+   },
+   {
+    "word": "a heart attack",
+    "translation_uz": "yurak xuruji",
+    "example_sentence": "My grandfather had a mild heart attack last year."
+   },
+   {
+    "word": "an attack of something",
+    "translation_uz": "biror narsaning xuruji",
+    "example_sentence": "She had an attack of the flu."
+   },
+   {
+    "word": "attack the problem",
+    "translation_uz": "muammoga hujum qilmoq (yechishga kirishmoq)",
+    "example_sentence": "We must attack the problem together."
+   },
+   {
+    "word": "a cyber attack",
+    "translation_uz": "kiberhujum",
+    "example_sentence": "A cyber attack closed the company's website."
+   },
+   {
+    "word": "a counter-attack",
+    "translation_uz": "qarshi hujum",
+    "example_sentence": "The team's counter-attack won the match."
+   },
+   {
+    "word": "attacker / attacked",
+    "translation_uz": "hujumchi / hujumga uchragan",
+    "example_sentence": "The attacker was caught by the guards."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The army decided to ___ an attack at dawn.",
+    "correct_word": "launch",
+    "options": [
+     "launch",
+     "hold",
+     "grow",
+     "fill",
+     "under"
+    ]
+   },
+   {
+    "sentence_with_blank": "The castle was ___ attack for three days.",
+    "correct_word": "under",
+    "options": [
+     "under",
+     "over",
+     "in",
+     "below",
+     "wooden"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was a ___ attack, and nobody was ready.",
+    "correct_word": "surprise",
+    "options": [
+     "surprise",
+     "polite",
+     "tired",
+     "wooden",
+     "ache"
+    ]
+   },
+   {
+    "sentence_with_blank": "An attack ___ a farm was reported on the news.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "for",
+     "about",
+     "fill"
+    ]
+   },
+   {
+    "sentence_with_blank": "My uncle had a heart ___ last year, but he is fine now.",
+    "correct_word": "attack",
+    "options": [
+     "attack",
+     "cough",
+     "tooth",
+     "ache",
+     "tired"
+    ]
+   },
+   {
+    "sentence_with_blank": "The company's website was closed by a cyber ___.",
+    "correct_word": "attack",
+    "options": [
+     "attack",
+     "pass",
+     "kick",
+     "rest",
+     "ache"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Castle on the Hill",
+   "text": "In this old story, a castle stands on a hill above the river town of Lorne. One autumn night, an enemy army launched a surprise attack on the town. The people ran to the castle for safety, and the guards closed the gates. The castle was under attack for three days, but the walls were strong. Then the lord of the castle decided to try a different plan. He sent a message offering to talk. The enemy leader agreed, and the attack stopped without more fighting. Today visitors can walk around the castle and imagine how the town survived.",
+   "key_words": [
+    {
+     "word": "enemy",
+     "translation_uz": "dushman"
+    },
+    {
+     "word": "guard",
+     "translation_uz": "qorovul"
+    },
+    {
+     "word": "survive",
+     "translation_uz": "omon qolmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When did the attack happen?",
+     "options": [
+      "On a summer morning",
+      "On an autumn night",
+      "On a winter afternoon",
+      "At noon in spring"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long was the castle under attack?",
+     "options": [
+      "Three days",
+      "One day",
+      "Seven days",
+      "One month"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the attack stop?",
+     "options": [
+      "It began to rain",
+      "The walls fell",
+      "The lord offered to talk",
+      "The town gave up"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Tips for Online Safety",
+   "script": "Teacher: Last week a local company suffered a cyber attack. Its website was closed for a day. Pupil: Who carried out the attack? Teacher: Nobody knows yet. But it shows why online safety matters. Pupil: What can we do? Teacher: Use strong passwords, update your devices, and never click on strange links. If something seems wrong, tell an adult. Pupil: So an attack can happen to anyone? Teacher: Yes, but small habits can protect you from many of them.",
+   "questions": [
+    {
+     "question": "What happened to the company's website?",
+     "options": [
+      "It won a prize",
+      "It became faster",
+      "It moved abroad",
+      "It was closed for a day"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What should pupils never click on?",
+     "options": [
+      "Strange links",
+      "School emails",
+      "Passwords",
+      "Updates"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What can protect you from many attacks?",
+     "options": [
+      "More games",
+      "Small safe habits",
+      "Louder music",
+      "Longer videos"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The village came under attack.",
+    "A cyber attack closed the site.",
+    "Use strong passwords."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Attack",
+    "question_text": "Why is online safety important?",
+    "hint_words": [
+     "password",
+     "safe",
+     "links",
+     "adult"
+    ]
+   },
+   {
+    "topic": "Attack",
+    "question_text": "What would you do if you saw something wrong online?",
+    "hint_words": [
+     "tell",
+     "adult",
+     "stop",
+     "report"
+    ]
+   },
+   {
+    "topic": "Attack",
+    "question_text": "What kind of story do you like: historical or modern?",
+    "hint_words": [
+     "story",
+     "history",
+     "modern",
+     "castle"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 153,
+  "title": "defence",
+  "vocabulary": [
+   {
+    "word": "defend a country",
+    "translation_uz": "mamlakatni himoya qilmoq",
+    "example_sentence": "The soldiers' job is to defend the country."
+   },
+   {
+    "word": "defend yourself",
+    "translation_uz": "o'zini himoya qilmoq",
+    "example_sentence": "Children learn how to defend themselves with words."
+   },
+   {
+    "word": "defend someone against something",
+    "translation_uz": "kimnidir biror narsadan himoya qilmoq",
+    "example_sentence": "The goalkeeper defended the goal against attacks."
+   },
+   {
+    "word": "in defence of something",
+    "translation_uz": "biror narsani himoya qilib",
+    "example_sentence": "He spoke in defence of his friend."
+   },
+   {
+    "word": "come to someone's defence",
+    "translation_uz": "kimningdir himoyasiga kelmoq",
+    "example_sentence": "I came to her defence when she was blamed."
+   },
+   {
+    "word": "self-defence",
+    "translation_uz": "o'zini himoya qilish",
+    "example_sentence": "The judge accepted that it was an act of self-defence."
+   },
+   {
+    "word": "the Ministry of Defence",
+    "translation_uz": "mudofaa vazirligi",
+    "example_sentence": "The Ministry of Defence manages the army."
+   },
+   {
+    "word": "defence spending",
+    "translation_uz": "mudofaa xarajatlari",
+    "example_sentence": "Defence spending is a big part of some budgets."
+   },
+   {
+    "word": "a defence system",
+    "translation_uz": "mudofaa tizimi",
+    "example_sentence": "The castle had a strong defence system."
+   },
+   {
+    "word": "a strong / weak defence",
+    "translation_uz": "kuchli / zaif himoya",
+    "example_sentence": "The team's weak defence lost them the match."
+   },
+   {
+    "word": "a defensive position",
+    "translation_uz": "mudofaa pozitsiyasi",
+    "example_sentence": "The army took a defensive position on the hill."
+   },
+   {
+    "word": "a defence lawyer",
+    "translation_uz": "himoyachi advokat",
+    "example_sentence": "The defence lawyer asked the witness a question."
+   },
+   {
+    "word": "the defending champions",
+    "translation_uz": "chempionlikni himoya qiluvchilar",
+    "example_sentence": "The defending champions won again."
+   },
+   {
+    "word": "defenceless",
+    "translation_uz": "himoyasiz",
+    "example_sentence": "The small animal was defenceless against the cold."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The team lost because it had a weak ___.",
+    "correct_word": "defence",
+    "options": [
+     "defence",
+     "defend",
+     "defender",
+     "defensive",
+     "school"
+    ]
+   },
+   {
+    "sentence_with_blank": "She came to her friend's ___ when others laughed.",
+    "correct_word": "defence",
+    "options": [
+     "defence",
+     "school",
+     "lunch",
+     "bed",
+     "line"
+    ]
+   },
+   {
+    "sentence_with_blank": "The soldiers' job is to ___ the country.",
+    "correct_word": "defend",
+    "options": [
+     "defend",
+     "avoid",
+     "hide",
+     "miss",
+     "defended"
+    ]
+   },
+   {
+    "sentence_with_blank": "The lawyer acted in ___ of his client.",
+    "correct_word": "defence",
+    "options": [
+     "defence",
+     "time",
+     "line",
+     "hand",
+     "bed"
+    ]
+   },
+   {
+    "sentence_with_blank": "The judge accepted that it was an act of ___.",
+    "correct_word": "self-defence",
+    "options": [
+     "self-defence",
+     "self-help",
+     "self-control",
+     "self-care",
+     "hand"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ champions won the cup for the third year.",
+    "correct_word": "defending",
+    "options": [
+     "defending",
+     "defended",
+     "defence",
+     "defensive",
+     "lunch"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Defending the Goal",
+   "text": "Our school football team has a strong defence this year. The captain, Omar, is the main defender, and he often comes to the defence of the younger players when they are nervous. Last Saturday, we played against the defending champions from the next town. They launched many attacks, but our defenders stopped them again and again. The goalkeeper defended the goal bravely. In the end, we won one to nil. The coach said that a strong defence is built on teamwork. After the match, Omar spoke in defence of the other team's goalkeeper, who had made a mistake. He said, \"It happens to everybody.\"",
+   "key_words": [
+    {
+     "word": "defender",
+     "translation_uz": "himoyachi"
+    },
+    {
+     "word": "nervous",
+     "translation_uz": "asabiylashgan"
+    },
+    {
+     "word": "teamwork",
+     "translation_uz": "jamoaviy ishlash"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who is the main defender?",
+     "options": [
+      "The coach",
+      "Omar",
+      "The goalkeeper",
+      "A teacher"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who did the school team play against?",
+     "options": [
+      "The defending champions",
+      "The teachers",
+      "A school from far away",
+      "Last year's team"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was the final score?",
+     "options": [
+      "Two to two",
+      "Three to one",
+      "One to nil",
+      "Zero to zero"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Self-defence Class",
+   "script": "Instructor: Welcome to our self-defence class for young people. Self-defence does not mean fighting. It means staying safe. First, we learn to use our voice and ask for help. Pupil: What if someone is following me? Instructor: Walk to a busy place and tell an adult you trust. Pupil: Is self-defence about being strong? Instructor: No. It is mostly about being aware and calm. We will also talk about how to defend yourself against bullying with kind but firm words.",
+   "questions": [
+    {
+     "question": "What does self-defence mean, according to the instructor?",
+     "options": [
+      "Staying safe",
+      "Fighting",
+      "Running races",
+      "Playing games"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What should you do if someone is following you?",
+     "options": [
+      "Run home alone",
+      "Ignore it",
+      "Shout at the person",
+      "Go to a busy place and tell an adult"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is self-defence mostly about?",
+     "options": [
+      "Being strong",
+      "Being aware and calm",
+      "Being fast",
+      "Being loud"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Our team has a strong defence.",
+    "He came to her defence.",
+    "The goalkeeper defended well."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Defence",
+    "question_text": "What makes a team's defence strong?",
+    "hint_words": [
+     "teamwork",
+     "players",
+     "goal",
+     "practice"
+    ]
+   },
+   {
+    "topic": "Defence",
+    "question_text": "Have you ever defended a friend?",
+    "hint_words": [
+     "friend",
+     "helped",
+     "said",
+     "kind"
+    ]
+   },
+   {
+    "topic": "Defence",
+    "question_text": "Why should young people learn to stay safe?",
+    "hint_words": [
+     "safe",
+     "adult",
+     "aware",
+     "calm"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 154,
+  "title": "bomb and explosion",
+  "vocabulary": [
+   {
+    "word": "a bomb scare",
+    "translation_uz": "bomba haqida yolg'on tahdid (vahima)",
+    "example_sentence": "A bomb scare closed the station for an hour."
+   },
+   {
+    "word": "a bomb threat",
+    "translation_uz": "bomba tahdidi",
+    "example_sentence": "School was closed after a bomb threat, which turned out to be a hoax."
+   },
+   {
+    "word": "a bomb disposal expert",
+    "translation_uz": "bomba zararsizlantiruvchi mutaxassis",
+    "example_sentence": "A bomb disposal expert checked the old bag."
+   },
+   {
+    "word": "a bomb disposal team",
+    "translation_uz": "bomba zararsizlantiruvchi guruh",
+    "example_sentence": "A bomb disposal team arrived within minutes."
+   },
+   {
+    "word": "an unexploded bomb",
+    "translation_uz": "portlamagan bomba",
+    "example_sentence": "An unexploded bomb from long ago was found at a building site."
+   },
+   {
+    "word": "a bomb shelter",
+    "translation_uz": "bomba boshpanasi",
+    "example_sentence": "The museum has an old bomb shelter you can visit."
+   },
+   {
+    "word": "a bomb alert",
+    "translation_uz": "bomba haqida ogohlantirish",
+    "example_sentence": "The bomb alert turned out to be false."
+   },
+   {
+    "word": "a loud explosion",
+    "translation_uz": "kuchli portlash",
+    "example_sentence": "Residents heard a loud explosion in the distance."
+   },
+   {
+    "word": "an explosion occurs",
+    "translation_uz": "portlash sodir bo'ladi",
+    "example_sentence": "An explosion occurred at the factory."
+   },
+   {
+    "word": "a gas explosion",
+    "translation_uz": "gaz portlashi",
+    "example_sentence": "A gas explosion damaged two buildings."
+   },
+   {
+    "word": "a controlled explosion",
+    "translation_uz": "nazorat ostidagi portlash",
+    "example_sentence": "Experts carried out a controlled explosion in an empty field."
+   },
+   {
+    "word": "explode / explosive",
+    "translation_uz": "portlamoq / portlovchi",
+    "example_sentence": "The old fireworks might explode if they are damaged."
+   },
+   {
+    "word": "the force of the explosion",
+    "translation_uz": "portlash kuchi",
+    "example_sentence": "The force of the explosion broke several windows."
+   },
+   {
+    "word": "evacuate a building",
+    "translation_uz": "binoni evakuatsiya qilmoq",
+    "example_sentence": "Staff evacuated the building quickly and calmly."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A bomb ___ made the station close for an hour.",
+    "correct_word": "scare",
+    "options": [
+     "scare",
+     "play",
+     "fear",
+     "joke",
+     "expert"
+    ]
+   },
+   {
+    "sentence_with_blank": "A bomb disposal ___ checked the suspicious bag.",
+    "correct_word": "expert",
+    "options": [
+     "expert",
+     "player",
+     "reader",
+     "teacher",
+     "exploded"
+    ]
+   },
+   {
+    "sentence_with_blank": "People heard a loud ___ near the factory.",
+    "correct_word": "explosion",
+    "options": [
+     "explosion",
+     "explode",
+     "explosive",
+     "exploded",
+     "exchange"
+    ]
+   },
+   {
+    "sentence_with_blank": "Workers found an ___ bomb from a long time ago.",
+    "correct_word": "unexploded",
+    "options": [
+     "unexploded",
+     "unexploding",
+     "exploding",
+     "unexplosive",
+     "fear"
+    ]
+   },
+   {
+    "sentence_with_blank": "Staff had to ___ the building quickly and calmly.",
+    "correct_word": "evacuate",
+    "options": [
+     "evacuate",
+     "evaluate",
+     "exchange",
+     "evolve",
+     "explode"
+    ]
+   },
+   {
+    "sentence_with_blank": "A gas ___ broke the windows of two buildings.",
+    "correct_word": "explosion",
+    "options": [
+     "explosion",
+     "flower",
+     "whistle",
+     "crash",
+     "evaluate"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A False Alarm",
+   "text": "Last Tuesday the bus station in the town of Harwick was closed for two hours because of a bomb scare. A man found a bag without an owner and told the staff. The staff evacuated the station quickly and calmly, and nobody was hurt. A police team and a bomb disposal expert arrived within ten minutes. They checked the bag carefully and found that it contained only clothes and books. The bomb alert had been a false alarm. The station manager thanked the passengers for staying calm. Police remind everyone to report any bag left alone, but never to touch it.",
+   "key_words": [
+    {
+     "word": "false alarm",
+     "translation_uz": "yolg'on ogohlantirish"
+    },
+    {
+     "word": "passenger",
+     "translation_uz": "yo'lovchi"
+    },
+    {
+     "word": "owner",
+     "translation_uz": "egasi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was the station closed?",
+     "options": [
+      "Because of a storm",
+      "Because of a strike",
+      "Because of a festival",
+      "Because of a bomb scare"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was inside the bag?",
+     "options": [
+      "Clothes and books",
+      "Food",
+      "Tools",
+      "Money"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do police ask people to do?",
+     "options": [
+      "Take it home",
+      "Report a bag left alone",
+      "Open it",
+      "Ignore it"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Radio Safety Message",
+   "script": "Announcer: This is a safety message for visitors of Harwick Park. Earlier today, an old, unexploded bomb from many years ago was found by builders near the lake. The area has been closed, and a bomb disposal team is on the way. Please stay away from the lake until further notice. Experts plan to carry out a controlled explosion this afternoon. You may hear a loud sound, but there is no danger if you stay outside the marked area.",
+   "questions": [
+    {
+     "question": "Where was the old bomb found?",
+     "options": [
+      "In the town hall",
+      "At a school",
+      "Near the lake",
+      "On a bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who is on the way?",
+     "options": [
+      "A bomb disposal team",
+      "A theatre group",
+      "A school class",
+      "A film crew"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What may people hear this afternoon?",
+     "options": [
+      "A song",
+      "A loud sound",
+      "A bell",
+      "Nothing"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The station was evacuated calmly.",
+    "Experts checked the bag carefully.",
+    "Stay away from the lake."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Safety",
+    "question_text": "What should you do if you find a bag left alone?",
+    "hint_words": [
+     "tell",
+     "adult",
+     "police",
+     "stay away"
+    ]
+   },
+   {
+    "topic": "Safety",
+    "question_text": "Why must people stay calm in an emergency?",
+    "hint_words": [
+     "calm",
+     "safe",
+     "listen",
+     "help"
+    ]
+   },
+   {
+    "topic": "Safety",
+    "question_text": "Have you ever done a fire drill at school?",
+    "hint_words": [
+     "drill",
+     "fire",
+     "outside",
+     "teacher"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 155,
+  "title": "casualty",
+  "vocabulary": [
+   {
+    "word": "heavy casualties",
+    "translation_uz": "katta talofot",
+    "example_sentence": "The storm caused heavy casualties in the story."
+   },
+   {
+    "word": "suffer casualties",
+    "translation_uz": "talofot ko'rmoq",
+    "example_sentence": "Both armies suffered casualties in the battle."
+   },
+   {
+    "word": "cause casualties",
+    "translation_uz": "talofotga sabab bo'lmoq",
+    "example_sentence": "The accident caused several casualties."
+   },
+   {
+    "word": "civilian casualties",
+    "translation_uz": "tinch aholi orasidagi talofot",
+    "example_sentence": "Aid groups tried to reduce civilian casualties."
+   },
+   {
+    "word": "no casualties",
+    "translation_uz": "talofot yo'q",
+    "example_sentence": "Luckily, there were no casualties."
+   },
+   {
+    "word": "report casualties",
+    "translation_uz": "talofot haqida xabar bermoq",
+    "example_sentence": "The radio reported casualties after the earthquake."
+   },
+   {
+    "word": "a casualty of something",
+    "translation_uz": "biror narsaning qurboni",
+    "example_sentence": "Many small shops were a casualty of the economic crisis."
+   },
+   {
+    "word": "casualty figures",
+    "translation_uz": "talofot soni (raqamlari)",
+    "example_sentence": "Casualty figures are still being checked."
+   },
+   {
+    "word": "the casualty department",
+    "translation_uz": "shoshilinch yordam bo'limi",
+    "example_sentence": "The injured man was taken to the casualty department."
+   },
+   {
+    "word": "treat casualties",
+    "translation_uz": "jabrlanganlarni davolamoq",
+    "example_sentence": "Nurses treated the casualties quickly."
+   },
+   {
+    "word": "number of casualties",
+    "translation_uz": "talofotlar soni",
+    "example_sentence": "The number of casualties was lower than feared."
+   },
+   {
+    "word": "minor / serious injuries",
+    "translation_uz": "yengil / og'ir jarohatlar",
+    "example_sentence": "Most people had only minor injuries."
+   },
+   {
+    "word": "emergency services",
+    "translation_uz": "tez yordam xizmatlari",
+    "example_sentence": "The emergency services reached the scene fast."
+   },
+   {
+    "word": "first aid",
+    "translation_uz": "birinchi tibbiy yordam",
+    "example_sentence": "A neighbour gave first aid until the ambulance came."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The factory fire caused no ___.",
+    "correct_word": "casualties",
+    "options": [
+     "casualties",
+     "casualty",
+     "casual",
+     "casually",
+     "songs"
+    ]
+   },
+   {
+    "sentence_with_blank": "The injured man was taken to the ___ department.",
+    "correct_word": "casualty",
+    "options": [
+     "casualty",
+     "casualties",
+     "casual",
+     "casually",
+     "first"
+    ]
+   },
+   {
+    "sentence_with_blank": "Both sides suffered heavy ___ in the battle in the story.",
+    "correct_word": "casualties",
+    "options": [
+     "casualties",
+     "songs",
+     "guests",
+     "rooms",
+     "casualty"
+    ]
+   },
+   {
+    "sentence_with_blank": "The emergency ___ reached the scene in minutes.",
+    "correct_word": "services",
+    "options": [
+     "services",
+     "servants",
+     "helps",
+     "works",
+     "first"
+    ]
+   },
+   {
+    "sentence_with_blank": "A passer-by gave ___ aid until the ambulance came.",
+    "correct_word": "first",
+    "options": [
+     "first",
+     "one",
+     "early",
+     "front",
+     "casualties"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many small shops were a ___ of the crisis.",
+    "correct_word": "casualty",
+    "options": [
+     "casualty",
+     "gift",
+     "surprise",
+     "member",
+     "servants"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "After the Storm",
+   "text": "Last winter a strong storm hit the coastal town of Marden. Strong winds broke many trees and some roofs. The emergency services arrived quickly and checked the streets. Luckily, there were no serious casualties, only a few minor injuries. A neighbour gave first aid to a man who had cut his hand, and an ambulance took him to the casualty department for care. The town hall reported that the number of casualties was lower than they had feared. Over the next days, volunteers helped repair roofs and clean the streets. The mayor praised the community for working together.",
+   "key_words": [
+    {
+     "word": "coastal",
+     "translation_uz": "qirg'oqdagi"
+    },
+    {
+     "word": "volunteer",
+     "translation_uz": "ko'ngilli"
+    },
+    {
+     "word": "praise",
+     "translation_uz": "maqtamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What damaged the town?",
+     "options": [
+      "A strong storm",
+      "A flood in summer",
+      "A snowstorm of ten days",
+      "A fire"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where was the man with the cut hand taken?",
+     "options": [
+      "To a school",
+      "To a theatre",
+      "To the casualty department",
+      "To a market"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who helped repair the roofs?",
+     "options": [
+      "Pupils on holiday",
+      "Volunteers",
+      "Only the mayor",
+      "Nobody"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A News Update",
+   "script": "Presenter: Here is an update on the bus accident near the lake. The emergency services reached the scene within minutes. Reporter: Yes, I'm at the hospital. The casualty department says that six passengers have minor injuries and one has serious injuries, but is stable. Nobody is in danger. Drivers are asked to avoid the road while the police finish their work. A hospital spokesperson thanked the nurses and doctors who treated the casualties so quickly.",
+   "questions": [
+    {
+     "question": "How many passengers have minor injuries?",
+     "options": [
+      "One",
+      "Three",
+      "Ten",
+      "Six"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What are drivers asked to do?",
+     "options": [
+      "Avoid the road",
+      "Use the road",
+      "Stop at the lake",
+      "Call the hospital"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who did the spokesperson thank?",
+     "options": [
+      "The drivers",
+      "The nurses and doctors",
+      "The police dogs",
+      "The passengers"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "There were no casualties.",
+    "The emergency services arrived quickly.",
+    "He needed first aid."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Emergencies",
+    "question_text": "What number do you call in an emergency?",
+    "hint_words": [
+     "call",
+     "number",
+     "help",
+     "ambulance"
+    ]
+   },
+   {
+    "topic": "Emergencies",
+    "question_text": "Do you know how to give first aid?",
+    "hint_words": [
+     "bandage",
+     "help",
+     "learn",
+     "school"
+    ]
+   },
+   {
+    "topic": "Emergencies",
+    "question_text": "Why do we thank doctors and nurses?",
+    "hint_words": [
+     "help",
+     "care",
+     "hospital",
+     "brave"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 156,
+  "title": "weapon and gun",
+  "vocabulary": [
+   {
+    "word": "a deadly weapon",
+    "translation_uz": "o'ldiruvchi qurol",
+    "example_sentence": "Carrying a deadly weapon is against the law."
+   },
+   {
+    "word": "carry a weapon",
+    "translation_uz": "qurol olib yurmoq",
+    "example_sentence": "It is illegal to carry a weapon in a public place."
+   },
+   {
+    "word": "a weapon ban",
+    "translation_uz": "qurolga taqiq",
+    "example_sentence": "The school has a strict weapon ban."
+   },
+   {
+    "word": "a nuclear weapon",
+    "translation_uz": "yadroviy qurol",
+    "example_sentence": "Many people want a world without nuclear weapons."
+   },
+   {
+    "word": "a weapons inspector",
+    "translation_uz": "qurol inspektori",
+    "example_sentence": "A weapons inspector visited the museum's old display."
+   },
+   {
+    "word": "weapons of mass destruction",
+    "translation_uz": "ommaviy qirg'in qurollari",
+    "example_sentence": "Weapons of mass destruction are banned by treaty."
+   },
+   {
+    "word": "a toy weapon",
+    "translation_uz": "o'yinchoq qurol",
+    "example_sentence": "The film shop sold costumes with a toy weapon."
+   },
+   {
+    "word": "an illegal weapon",
+    "translation_uz": "noqonuniy qurol",
+    "example_sentence": "Police found an illegal weapon in the car."
+   },
+   {
+    "word": "a firearm",
+    "translation_uz": "o't ochuvchi qurol",
+    "example_sentence": "A licence is needed to own a firearm."
+   },
+   {
+    "word": "a gun licence",
+    "translation_uz": "qurol ruxsatnomasi",
+    "example_sentence": "A hunter must have a gun licence."
+   },
+   {
+    "word": "gun law / gun control",
+    "translation_uz": "qurol qonuni / qurolni nazorat qilish",
+    "example_sentence": "Many countries have strict gun laws."
+   },
+   {
+    "word": "a gun safe",
+    "translation_uz": "qurol seyfi",
+    "example_sentence": "A gun must be kept in a gun safe."
+   },
+   {
+    "word": "a water gun",
+    "translation_uz": "suv to'pponchasi",
+    "example_sentence": "The children played with water guns in the garden."
+   },
+   {
+    "word": "hand in a weapon",
+    "translation_uz": "qurolni topshirmoq",
+    "example_sentence": "Citizens were asked to hand in unwanted weapons."
+   },
+   {
+    "word": "disarm",
+    "translation_uz": "qurolsizlantirmoq",
+    "example_sentence": "The treaty aims to disarm both armies."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is against the law to ___ a weapon in public.",
+    "correct_word": "carry",
+    "options": [
+     "carry",
+     "build",
+     "paint",
+     "bake",
+     "ancient"
+    ]
+   },
+   {
+    "sentence_with_blank": "The museum has a collection of ___ weapons from the Middle Ages.",
+    "correct_word": "ancient",
+    "options": [
+     "ancient",
+     "thin",
+     "modern",
+     "young",
+     "price"
+    ]
+   },
+   {
+    "sentence_with_blank": "Hunters must have a gun ___ before they buy a gun.",
+    "correct_word": "licence",
+    "options": [
+     "licence",
+     "ticket",
+     "rent",
+     "price",
+     "paper"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many countries have strict gun ___.",
+    "correct_word": "laws",
+    "options": [
+     "laws",
+     "games",
+     "trips",
+     "rooms",
+     "carry"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children played with ___ guns in the garden on hot days.",
+    "correct_word": "water",
+    "options": [
+     "water",
+     "iron",
+     "paper",
+     "metal",
+     "young"
+    ]
+   },
+   {
+    "sentence_with_blank": "Citizens were asked to ___ in unwanted weapons to the police.",
+    "correct_word": "hand",
+    "options": [
+     "hand",
+     "stay",
+     "run",
+     "grow",
+     "trips"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Museum of Old Weapons",
+   "text": "Last week our class visited a museum that shows how weapons changed through history. We saw swords, shields and bows from the Middle Ages, but nothing was used in our time, and everything was behind glass. The guide explained that long ago people used weapons to protect their villages. Today many countries have strict gun laws and weapon bans in public places to keep people safe. The guide also showed us a poster about a campaign for peace and for fewer weapons in the world. We left the museum thinking that it is better to solve problems with words.",
+   "key_words": [
+    {
+     "word": "sword",
+     "translation_uz": "qilich"
+    },
+    {
+     "word": "shield",
+     "translation_uz": "qalqon"
+    },
+    {
+     "word": "campaign",
+     "translation_uz": "kampaniya"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the class go?",
+     "options": [
+      "To a shop",
+      "To a museum",
+      "To a farm",
+      "To a zoo"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did people in the past use weapons, according to the guide?",
+     "options": [
+      "To protect their villages",
+      "To play sports",
+      "To decorate houses",
+      "To cook food"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the class think after the visit?",
+     "options": [
+      "Museums are boring",
+      "Swords are useful",
+      "Shields are heavy",
+      "It is better to solve problems with words"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Rules at the Event",
+   "script": "Organiser: Welcome to the medieval fair. Before you enter, I need to explain the rules. Visitors cannot carry real weapons of any kind. Toy swords are allowed, but only for the children's corner. Visitor: What about a water gun? Organiser: Water guns are fine in the picnic area but not inside the tents. If you have a weapon in your bag by mistake, please hand it in at the gate. You will get it back when you leave.",
+   "questions": [
+    {
+     "question": "What kind of event is it?",
+     "options": [
+      "A medieval fair",
+      "A football match",
+      "A concert",
+      "A school exam"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where are toy swords allowed?",
+     "options": [
+      "In the tents",
+      "At the gate",
+      "In the children's corner",
+      "Everywhere"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What should you do if you have a weapon by mistake?",
+     "options": [
+      "Hide it",
+      "Hand it in at the gate",
+      "Throw it away",
+      "Take it inside"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Weapons are not allowed here.",
+    "There are strict gun laws.",
+    "Hand it in at the gate."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Safety rules",
+    "question_text": "Why do places ban weapons?",
+    "hint_words": [
+     "safe",
+     "law",
+     "people",
+     "rules"
+    ]
+   },
+   {
+    "topic": "Safety rules",
+    "question_text": "What do you see in a history museum?",
+    "hint_words": [
+     "old",
+     "sword",
+     "armour",
+     "glass"
+    ]
+   },
+   {
+    "topic": "Safety rules",
+    "question_text": "How can people stay safe in a crowd?",
+    "hint_words": [
+     "calm",
+     "adult",
+     "exit",
+     "listen"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 157,
+  "title": "dispute and strike",
+  "vocabulary": [
+   {
+    "word": "settle a dispute",
+    "translation_uz": "nizoni hal qilmoq",
+    "example_sentence": "The two neighbours settled their dispute."
+   },
+   {
+    "word": "resolve a dispute",
+    "translation_uz": "nizoni bartaraf etmoq",
+    "example_sentence": "A mediator helped to resolve the dispute."
+   },
+   {
+    "word": "a bitter dispute",
+    "translation_uz": "keskin nizo",
+    "example_sentence": "There was a bitter dispute over the fence."
+   },
+   {
+    "word": "a dispute over/about something",
+    "translation_uz": "biror narsa yuzasidan nizo",
+    "example_sentence": "The dispute over pay lasted for months."
+   },
+   {
+    "word": "a dispute with someone",
+    "translation_uz": "kimdir bilan nizo",
+    "example_sentence": "She had a dispute with her landlord."
+   },
+   {
+    "word": "a pay dispute",
+    "translation_uz": "ish haqi bo'yicha nizo",
+    "example_sentence": "A pay dispute stopped the bus service."
+   },
+   {
+    "word": "a border dispute",
+    "translation_uz": "chegara nizosi",
+    "example_sentence": "The map shows a border dispute between two fictional states."
+   },
+   {
+    "word": "go on strike",
+    "translation_uz": "ish tashlamoq (strayk qilmoq)",
+    "example_sentence": "The train drivers went on strike."
+   },
+   {
+    "word": "be on strike",
+    "translation_uz": "strayk holatida bo'lmoq",
+    "example_sentence": "The workers are on strike for better pay."
+   },
+   {
+    "word": "call a strike",
+    "translation_uz": "strayk e'lon qilmoq",
+    "example_sentence": "The union called a strike for Monday."
+   },
+   {
+    "word": "call off a strike",
+    "translation_uz": "strayk to'xtatmoq",
+    "example_sentence": "The workers called off the strike after talks."
+   },
+   {
+    "word": "a strike over pay",
+    "translation_uz": "ish haqi yuzasidan strayk",
+    "example_sentence": "A strike over pay closed the factory."
+   },
+   {
+    "word": "a strike ballot",
+    "translation_uz": "strayk bo'yicha ovoz berish",
+    "example_sentence": "The union held a strike ballot."
+   },
+   {
+    "word": "strike action",
+    "translation_uz": "strayk harakati",
+    "example_sentence": "Teachers decided against strike action."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The workers decided to go ___ strike for better pay.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "into",
+     "settle"
+    ]
+   },
+   {
+    "sentence_with_blank": "The two sides finally managed to ___ the dispute.",
+    "correct_word": "settle",
+    "options": [
+     "settle",
+     "play",
+     "draw",
+     "cut",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a dispute ___ pay between the bus drivers and the company.",
+    "correct_word": "over",
+    "options": [
+     "over",
+     "into",
+     "through",
+     "at",
+     "activity"
+    ]
+   },
+   {
+    "sentence_with_blank": "The union decided to ___ off the strike after the talks.",
+    "correct_word": "call",
+    "options": [
+     "call",
+     "put",
+     "turn",
+     "cut",
+     "settle"
+    ]
+   },
+   {
+    "sentence_with_blank": "The two neighbours had a bitter ___ about the fence.",
+    "correct_word": "dispute",
+    "options": [
+     "dispute",
+     "dispose",
+     "disperse",
+     "disturb",
+     "put"
+    ]
+   },
+   {
+    "sentence_with_blank": "Teachers decided against strike ___.",
+    "correct_word": "action",
+    "options": [
+     "action",
+     "activity",
+     "act",
+     "doing",
+     "in"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Bus Strike",
+   "text": "In the city of Redford, bus drivers went on strike last week. They were in a pay dispute with the bus company. The drivers said their wages had not risen for three years. The union held a strike ballot, and most workers voted to take strike action. For three days, the city was very quiet. Many people walked or cycled to work, and some schools started later. On the fourth day, both sides met to settle the dispute. They agreed on a small pay rise and shorter shifts. The union called off the strike, and the buses were back on the road the next morning.",
+   "key_words": [
+    {
+     "word": "wages",
+     "translation_uz": "ish haqi, maosh"
+    },
+    {
+     "word": "shift",
+     "translation_uz": "smena"
+    },
+    {
+     "word": "union",
+     "translation_uz": "kasaba uyushmasi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who went on strike?",
+     "options": [
+      "The teachers",
+      "The doctors",
+      "The bus drivers",
+      "The shop workers"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How many years had the wages not risen?",
+     "options": [
+      "Three years",
+      "One year",
+      "Six years",
+      "Ten years"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the two sides agree?",
+     "options": [
+      "A new bus company",
+      "Free tickets",
+      "More buses",
+      "A small pay rise and shorter shifts"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Neighbours' Dispute",
+   "script": "Mia: Have you heard? Our neighbours have had a dispute about the fence for months. Leo: Yes, one wants it higher, and the other wants it lower. Mia: A mediator is coming to help resolve the dispute tomorrow. Leo: Good idea. Do you remember last year's dispute at the factory? Mia: Of course. The workers went on strike for a week. In the end, they settled it with talks. Leo: That shows it is better to talk than to quarrel.",
+   "questions": [
+    {
+     "question": "What are the neighbours arguing about?",
+     "options": [
+      "A tree",
+      "A fence",
+      "A car",
+      "A dog"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who is coming tomorrow?",
+     "options": [
+      "A mediator",
+      "A builder",
+      "A reporter",
+      "A neighbour"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the factory dispute end?",
+     "options": [
+      "With a game",
+      "With a move",
+      "With talks",
+      "With a sale"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "The workers went on strike.",
+    "They settled the dispute.",
+    "The union called off the strike."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Disputes",
+    "question_text": "How can neighbours solve a dispute peacefully?",
+    "hint_words": [
+     "talk",
+     "listen",
+     "compromise",
+     "mediator"
+    ]
+   },
+   {
+    "topic": "Disputes",
+    "question_text": "Why do workers sometimes go on strike?",
+    "hint_words": [
+     "pay",
+     "hours",
+     "conditions",
+     "fair"
+    ]
+   },
+   {
+    "topic": "Disputes",
+    "question_text": "Do you prefer talking or arguing?",
+    "hint_words": [
+     "talk",
+     "calm",
+     "argue",
+     "listen"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 158,
+  "title": "campaign and demonstration",
+  "vocabulary": [
+   {
+    "word": "launch a campaign",
+    "translation_uz": "kampaniya boshlamoq",
+    "example_sentence": "The school launched a campaign to save water."
+   },
+   {
+    "word": "run a campaign",
+    "translation_uz": "kampaniya olib bormoq",
+    "example_sentence": "Volunteers ran a campaign for cleaner parks."
+   },
+   {
+    "word": "a campaign against/for something",
+    "translation_uz": "biror narsaga qarshi / yo'lida kampaniya",
+    "example_sentence": "They started a campaign against litter."
+   },
+   {
+    "word": "an election campaign",
+    "translation_uz": "saylov kampaniyasi",
+    "example_sentence": "The election campaign ended on Friday."
+   },
+   {
+    "word": "a poster campaign",
+    "translation_uz": "plakat kampaniyasi",
+    "example_sentence": "A poster campaign encouraged people to recycle."
+   },
+   {
+    "word": "a campaign group",
+    "translation_uz": "kampaniya guruhi",
+    "example_sentence": "A local campaign group saved the library."
+   },
+   {
+    "word": "campaign for change",
+    "translation_uz": "o'zgarish uchun kampaniya",
+    "example_sentence": "Young people campaign for change in their town."
+   },
+   {
+    "word": "hold a demonstration",
+    "translation_uz": "namoyish o'tkazmoq",
+    "example_sentence": "The students held a demonstration outside the town hall."
+   },
+   {
+    "word": "take part in a demonstration",
+    "translation_uz": "namoyishda qatnashmoq",
+    "example_sentence": "Thousands took part in a peaceful demonstration."
+   },
+   {
+    "word": "a peaceful demonstration",
+    "translation_uz": "tinch namoyish",
+    "example_sentence": "Police praised the peaceful demonstration."
+   },
+   {
+    "word": "a demonstration against/in support of",
+    "translation_uz": "... ga qarshi / ... ni qo'llab-quvvatlovchi namoyish",
+    "example_sentence": "There was a demonstration in support of the new park."
+   },
+   {
+    "word": "a demonstrator",
+    "translation_uz": "namoyishchi",
+    "example_sentence": "Demonstrators carried signs and sang songs."
+   },
+   {
+    "word": "march through the streets",
+    "translation_uz": "ko'chalar bo'ylab yurish qilmoq",
+    "example_sentence": "Protesters marched through the streets calmly."
+   },
+   {
+    "word": "a petition",
+    "translation_uz": "petitsiya (jamoaviy ariza)",
+    "example_sentence": "Over a thousand people signed the petition."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The school decided to ___ a campaign to save energy.",
+    "correct_word": "launch",
+    "options": [
+     "launch",
+     "throw",
+     "hide",
+     "take",
+     "part"
+    ]
+   },
+   {
+    "sentence_with_blank": "Hundreds of people took ___ in the peaceful demonstration.",
+    "correct_word": "part",
+    "options": [
+     "part",
+     "place",
+     "hand",
+     "step",
+     "parcel"
+    ]
+   },
+   {
+    "sentence_with_blank": "They signed a ___ to keep the library open.",
+    "correct_word": "petition",
+    "options": [
+     "petition",
+     "poster",
+     "patient",
+     "parcel",
+     "stood"
+    ]
+   },
+   {
+    "sentence_with_blank": "A campaign ___ plastic bags began last month.",
+    "correct_word": "against",
+    "options": [
+     "against",
+     "from",
+     "among",
+     "behind",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "The students ___ a demonstration outside the town hall.",
+    "correct_word": "held",
+    "options": [
+     "held",
+     "kept",
+     "made up",
+     "stood",
+     "poster"
+    ]
+   },
+   {
+    "sentence_with_blank": "Marchers walked ___ the streets calmly and quietly.",
+    "correct_word": "through",
+    "options": [
+     "through",
+     "under",
+     "behind",
+     "beside",
+     "stood"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Saving the Library",
+   "text": "When the council said it would close our local library, the neighbourhood started a campaign. A campaign group launched a petition, and over two thousand people signed it. Children made posters, and teachers wrote letters to the newspaper. On Saturday there was a peaceful demonstration outside the town hall. Hundreds of demonstrators marched through the streets with signs that said Save Our Library. The mayor listened to the crowd and promised to look at the plan again. A week later, the council announced that the library would stay open. The campaign group thanked everyone who had taken part.",
+   "key_words": [
+    {
+     "word": "neighbourhood",
+     "translation_uz": "mahalla"
+    },
+    {
+     "word": "sign",
+     "translation_uz": "plakat, belgi"
+    },
+    {
+     "word": "crowd",
+     "translation_uz": "olomon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the council plan to do?",
+     "options": [
+      "Build a new library",
+      "Close the library",
+      "Sell the town hall",
+      "Add more books"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How many people signed the petition?",
+     "options": [
+      "Twenty",
+      "Two hundred",
+      "Over two thousand",
+      "Over twenty thousand"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened in the end?",
+     "options": [
+      "The library stayed open",
+      "The library moved",
+      "The mayor left",
+      "The demonstration continued"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a Campaign",
+   "script": "Lena: I want to start a campaign to clean up our local river. Ben: Great idea! How will you launch it? Lena: First, I'll make a poster campaign for school and for the shops. Then we can write a petition and ask people to sign it. Ben: Should we hold a demonstration? Lena: A peaceful one, yes, perhaps next month near the river. We'll invite the mayor to join us. Ben: I'll bring some friends. The more people take part, the stronger the message will be.",
+   "questions": [
+    {
+     "question": "What does Lena want to clean?",
+     "options": [
+      "A park",
+      "A school",
+      "A road",
+      "A river"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What will she do first?",
+     "options": [
+      "Make posters",
+      "Write letters to the mayor",
+      "Hold a demonstration",
+      "Visit the river"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who will Lena invite to the demonstration?",
+     "options": [
+      "The head of the school",
+      "The police chief",
+      "The mayor",
+      "A teacher"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "They launched a new campaign.",
+    "Many people signed the petition.",
+    "It was a peaceful demonstration."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Campaigns",
+    "question_text": "What campaign would you start in your school?",
+    "hint_words": [
+     "clean",
+     "recycle",
+     "help",
+     "poster"
+    ]
+   },
+   {
+    "topic": "Campaigns",
+    "question_text": "Why are petitions useful?",
+    "hint_words": [
+     "names",
+     "show",
+     "support",
+     "change"
+    ]
+   },
+   {
+    "topic": "Campaigns",
+    "question_text": "How can people show their opinion peacefully?",
+    "hint_words": [
+     "march",
+     "sign",
+     "talk",
+     "poster"
+    ]
+   }
+  ]
+ }
+]

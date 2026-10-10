@@ -1,0 +1,1292 @@
+[
+ {
+  "unit": 10,
+  "title": "world",
+  "vocabulary": [
+   {
+    "word": "around the world",
+    "translation_uz": "butun dunyo bo'ylab",
+    "example_sentence": "Her music is popular around the world."
+   },
+   {
+    "word": "all over the world",
+    "translation_uz": "dunyoning hamma joyida",
+    "example_sentence": "You can find this brand of phone all over the world."
+   },
+   {
+    "word": "travel round the world",
+    "translation_uz": "dunyo bo'ylab sayohat qilmoq",
+    "example_sentence": "He dreams of travelling round the world by ship."
+   },
+   {
+    "word": "the whole world",
+    "translation_uz": "butun dunyo (hamma odamlar)",
+    "example_sentence": "The whole world watched the final match on television."
+   },
+   {
+    "word": "the biggest in the world",
+    "translation_uz": "dunyodagi eng kattasi",
+    "example_sentence": "The Pacific is the biggest ocean in the world."
+   },
+   {
+    "word": "a world record",
+    "translation_uz": "jahon rekordi",
+    "example_sentence": "She broke the world record in the 200 metres."
+   },
+   {
+    "word": "world-famous",
+    "translation_uz": "dunyoga mashhur",
+    "example_sentence": "The world-famous painter is visiting our city next month."
+   },
+   {
+    "word": "a map of the world",
+    "translation_uz": "dunyo xaritasi",
+    "example_sentence": "There is a large map of the world on the classroom wall."
+   },
+   {
+    "word": "the developing world",
+    "translation_uz": "rivojlanayotgan mamlakatlar",
+    "example_sentence": "Many charities bring clean water to the developing world."
+   },
+   {
+    "word": "world news",
+    "translation_uz": "jahon yangiliklari",
+    "example_sentence": "My father reads the world news every morning."
+   },
+   {
+    "word": "the outside world",
+    "translation_uz": "tashqi dunyo",
+    "example_sentence": "The small mountain village had few links with the outside world."
+   },
+   {
+    "word": "a better world",
+    "translation_uz": "yaxshiroq dunyo",
+    "example_sentence": "Young people often want to build a better world."
+   },
+   {
+    "word": "see the world",
+    "translation_uz": "dunyoni ko'rmoq",
+    "example_sentence": "After university she wants to save money and see the world."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She broke the world ___ in swimming last year.",
+    "correct_word": "record",
+    "options": [
+     "record",
+     "prize",
+     "number",
+     "best"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is the biggest hotel ___ the world.",
+    "correct_word": "in",
+    "options": [
+     "of",
+     "in",
+     "on",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wants to travel ___ the world when he finishes school.",
+    "correct_word": "round",
+    "options": [
+     "into",
+     "inside",
+     "round",
+     "between"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ world watched the opening ceremony on television.",
+    "correct_word": "whole",
+    "options": [
+     "full",
+     "all",
+     "every",
+     "whole"
+    ]
+   },
+   {
+    "sentence_with_blank": "The Eiffel Tower is a ___ famous building.",
+    "correct_word": "world",
+    "options": [
+     "world",
+     "earth",
+     "global",
+     "country"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like reading the ___ news on the internet.",
+    "correct_word": "world",
+    "options": [
+     "earth",
+     "world",
+     "globe",
+     "planet"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Map of the World",
+   "text": "Tom has a big map of the world on his bedroom wall. He puts a red pin in every country that he has read about. His uncle is a pilot, and he has flown all over the world. Last week the uncle brought Tom a small gift from Japan. Tom's dream is to travel round the world and see the biggest cities. He also enjoys watching the world news with his father, because it shows him how different life is in other countries.",
+   "key_words": [
+    {
+     "word": "pilot",
+     "translation_uz": "uchuvchi"
+    },
+    {
+     "word": "pin",
+     "translation_uz": "to'g'nog'ich"
+    },
+    {
+     "word": "gift",
+     "translation_uz": "sovg'a"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Tom put in the countries he has read about?",
+     "options": [
+      "A red pin",
+      "A flag",
+      "A photo",
+      "A sticker"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who has flown all over the world?",
+     "options": [
+      "Tom's father",
+      "Tom's uncle",
+      "Tom's teacher",
+      "Tom's friend"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Tom want to do one day?",
+     "options": [
+      "Become a pilot",
+      "Live in Japan",
+      "Travel round the world",
+      "Draw maps"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a Trip",
+   "script": "Anna: I have just bought a book about the world's most famous places. Ben: Great! Where do you want to go first? Anna: I would like to see the pyramids in Egypt, because they are world-famous. After that I want to visit Australia. It is a very long way from here. Ben: You could travel round the world in six months if you save enough money. Anna: I am saving every month. My brother says it is the best way to see the world.",
+   "questions": [
+    {
+     "question": "What is the book about?",
+     "options": [
+      "Cooking",
+      "The world's most famous places",
+      "Animals",
+      "School subjects"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where does Anna want to go after Egypt?",
+     "options": [
+      "Japan",
+      "Brazil",
+      "Australia",
+      "Canada"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How is Anna getting money for the trip?",
+     "options": [
+      "She sells her books",
+      "Her brother pays",
+      "She wins a prize",
+      "She saves money every month"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "The pyramids are world-famous.",
+    "She wants to see the world.",
+    "Look at the map of the world."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "The World",
+    "question_text": "Which country would you like to visit?",
+    "hint_words": [
+     "I would like",
+     "country",
+     "because",
+     "beautiful"
+    ]
+   },
+   {
+    "topic": "The World",
+    "question_text": "What do you know about world records?",
+    "hint_words": [
+     "fastest",
+     "tallest",
+     "record",
+     "I know"
+    ]
+   },
+   {
+    "topic": "The World",
+    "question_text": "How do you learn about the world?",
+    "hint_words": [
+     "news",
+     "books",
+     "internet",
+     "travel"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 11,
+  "title": "country",
+  "vocabulary": [
+   {
+    "word": "a foreign country",
+    "translation_uz": "chet el",
+    "example_sentence": "It can be hard to live in a foreign country at first."
+   },
+   {
+    "word": "my home country",
+    "translation_uz": "mening vatanim",
+    "example_sentence": "In my home country the winters are very cold."
+   },
+   {
+    "word": "a developing country",
+    "translation_uz": "rivojlanayotgan davlat",
+    "example_sentence": "Many people in the developing country are learning English online."
+   },
+   {
+    "word": "run a country",
+    "translation_uz": "mamlakatni boshqarmoq",
+    "example_sentence": "The president and his ministers run the country."
+   },
+   {
+    "word": "leave a country",
+    "translation_uz": "mamlakatni tark etmoq",
+    "example_sentence": "You need a passport to leave a country."
+   },
+   {
+    "word": "travel across the country",
+    "translation_uz": "butun mamlakat bo'ylab sayohat qilmoq",
+    "example_sentence": "We travelled across the country by train last summer."
+   },
+   {
+    "word": "all over the country",
+    "translation_uz": "mamlakatning hamma yerida",
+    "example_sentence": "Schools all over the country start in September."
+   },
+   {
+    "word": "in the country",
+    "translation_uz": "qishloqda, shahar tashqarisida",
+    "example_sentence": "My grandparents live in the country, far from the city."
+   },
+   {
+    "word": "country life",
+    "translation_uz": "qishloq hayoti",
+    "example_sentence": "Country life is quiet, but it can be lonely."
+   },
+   {
+    "word": "a country road",
+    "translation_uz": "qishloq yo'li",
+    "example_sentence": "We drove along a narrow country road."
+   },
+   {
+    "word": "a national anthem",
+    "translation_uz": "davlat madhiyasi",
+    "example_sentence": "Every country has its own flag and national anthem."
+   },
+   {
+    "word": "a rich / poor country",
+    "translation_uz": "boy / kambag'al mamlakat",
+    "example_sentence": "A poor country needs help to build new schools."
+   },
+   {
+    "word": "the north / south of the country",
+    "translation_uz": "mamlakatning shimoli / janubi",
+    "example_sentence": "It rains more in the north of the country."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My grandparents live ___ the country, near a small river.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our president and her team ___ the country.",
+    "correct_word": "run",
+    "options": [
+     "do",
+     "hold",
+     "run",
+     "carry"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was difficult to live in a ___ country without speaking the language.",
+    "correct_word": "foreign",
+    "options": [
+     "strange",
+     "outside",
+     "distant",
+     "foreign"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many families in the ___ of the country have farms.",
+    "correct_word": "south",
+    "options": [
+     "south",
+     "bottom",
+     "down",
+     "below"
+    ]
+   },
+   {
+    "sentence_with_blank": "We took a train ___ the country and saw many towns.",
+    "correct_word": "across",
+    "options": [
+     "between",
+     "across",
+     "against",
+     "beside"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is English spoken ___ the country, or only in big cities?",
+    "correct_word": "all over",
+    "options": [
+     "in all",
+     "for all",
+     "all over",
+     "at all"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Life in the Country",
+   "text": "Sara's family used to live in a big city, but last year they moved to the country. At first she missed her friends and the noisy streets. Now she loves country life. Every morning she walks along a country road to the school bus. Her father works on a farm in the south of the country, and her mother teaches in the village. At weekends the family travels across the country to visit Sara's grandmother, who lives in the capital.",
+   "key_words": [
+    {
+     "word": "farm",
+     "translation_uz": "ferma"
+    },
+    {
+     "word": "village",
+     "translation_uz": "qishloq"
+    },
+    {
+     "word": "capital",
+     "translation_uz": "poytaxt"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did Sara miss the city at first?",
+     "options": [
+      "She hated the school",
+      "She missed her friends and the noisy streets",
+      "She had no bicycle",
+      "Her house was too small"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Sara's mother do?",
+     "options": [
+      "She works on a farm",
+      "She drives a bus",
+      "She teaches in the village",
+      "She is a doctor"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where does Sara's grandmother live?",
+     "options": [
+      "On a farm",
+      "In the village",
+      "In the south",
+      "In the capital"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Foreign Country",
+   "script": "Teacher: Today Omar will tell us about his trip. Omar: Last summer I visited a foreign country for the first time. It was Turkey. I flew there with my uncle and we travelled across the country by bus. The roads were good, even the small country roads. I liked the people, but I missed my home country and my mother's food. Teacher: Would you go again? Omar: Yes, I want to see the north of the country next time.",
+   "questions": [
+    {
+     "question": "How did Omar and his uncle get to Turkey?",
+     "options": [
+      "They took a bus",
+      "They took a boat",
+      "They flew",
+      "They drove a car"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Omar miss?",
+     "options": [
+      "His friends at school",
+      "His bicycle",
+      "His dog",
+      "His mother's food"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does he want to see next time?",
+     "options": [
+      "The north of the country",
+      "The capital",
+      "The sea",
+      "The mountains in the south"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I live in the country.",
+    "He visited a foreign country.",
+    "Who runs the country?"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Countries",
+    "question_text": "Do you prefer city life or country life?",
+    "hint_words": [
+     "I prefer",
+     "quiet",
+     "busy",
+     "because"
+    ]
+   },
+   {
+    "topic": "Countries",
+    "question_text": "Which foreign country would you like to visit?",
+    "hint_words": [
+     "I would like",
+     "foreign",
+     "because",
+     "people"
+    ]
+   },
+   {
+    "topic": "Countries",
+    "question_text": "What is the best part of your country?",
+    "hint_words": [
+     "north",
+     "south",
+     "mountains",
+     "food"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 12,
+  "title": "home",
+  "vocabulary": [
+   {
+    "word": "at home",
+    "translation_uz": "uyda",
+    "example_sentence": "I am usually at home on Sunday evenings."
+   },
+   {
+    "word": "go home",
+    "translation_uz": "uyga ketmoq",
+    "example_sentence": "We go home at three o'clock on Fridays."
+   },
+   {
+    "word": "come home",
+    "translation_uz": "uyga qaytmoq",
+    "example_sentence": "She comes home late when she has football practice."
+   },
+   {
+    "word": "leave home",
+    "translation_uz": "uydan ketmoq (mustaqil yashash uchun)",
+    "example_sentence": "Many young people leave home to study at university."
+   },
+   {
+    "word": "work from home",
+    "translation_uz": "uyda ishlamoq (masofadan)",
+    "example_sentence": "My aunt works from home two days a week."
+   },
+   {
+    "word": "stay at home",
+    "translation_uz": "uyda qolmoq",
+    "example_sentence": "It was raining, so we decided to stay at home."
+   },
+   {
+    "word": "make yourself at home",
+    "translation_uz": "o'zingizni uyingizdagidek his qiling",
+    "example_sentence": "Please come in and make yourself at home."
+   },
+   {
+    "word": "feel at home",
+    "translation_uz": "o'zini uydagidek his qilmoq",
+    "example_sentence": "After a week in the new school he felt at home."
+   },
+   {
+    "word": "a home town",
+    "translation_uz": "tug'ilgan shahar",
+    "example_sentence": "My home town is famous for its markets."
+   },
+   {
+    "word": "a second home",
+    "translation_uz": "ikkinchi uy",
+    "example_sentence": "They bought a second home by the sea."
+   },
+   {
+    "word": "home address",
+    "translation_uz": "uy manzili",
+    "example_sentence": "Please write your home address on the form."
+   },
+   {
+    "word": "a care home",
+    "translation_uz": "keksalar uyi",
+    "example_sentence": "My grandfather visits his friends in a care home."
+   },
+   {
+    "word": "be homesick",
+    "translation_uz": "vatanini sog'inmoq",
+    "example_sentence": "She was homesick during her first month abroad."
+   },
+   {
+    "word": "home cooking",
+    "translation_uz": "uy ovqati",
+    "example_sentence": "Nothing tastes better than home cooking."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It was raining, so we decided to stay ___ home.",
+    "correct_word": "at",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please come in and make ___ at home.",
+    "correct_word": "yourself",
+    "options": [
+     "you",
+     "your",
+     "itself",
+     "yourself"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many students ___ home when they start university.",
+    "correct_word": "leave",
+    "options": [
+     "leave",
+     "quit",
+     "let",
+     "left"
+    ]
+   },
+   {
+    "sentence_with_blank": "My sister ___ from home on Mondays and Tuesdays.",
+    "correct_word": "works",
+    "options": [
+     "stays",
+     "works",
+     "goes",
+     "comes"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ home from school at four o'clock every day.",
+    "correct_word": "comes",
+    "options": [
+     "enters",
+     "visits",
+     "comes",
+     "joins"
+    ]
+   },
+   {
+    "sentence_with_blank": "After a few weeks in the new town, she began to feel ___ home.",
+    "correct_word": "at",
+    "options": [
+     "in",
+     "on",
+     "for",
+     "at"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A New Start",
+   "text": "Leila left home last September to study in another city. At first she felt homesick and she called her parents every night. Her flat is small, but her roommate told her to make herself at home. Leila often cooks dishes from her home town because home cooking reminds her of her mother. Now she goes home once a month by bus. Her parents say that the house feels empty without her, but they are very proud.",
+   "key_words": [
+    {
+     "word": "roommate",
+     "translation_uz": "xonadosh"
+    },
+    {
+     "word": "proud",
+     "translation_uz": "faxrlangan"
+    },
+    {
+     "word": "remind",
+     "translation_uz": "eslatmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did Leila call her parents every night?",
+     "options": [
+      "She lost her keys",
+      "She needed money",
+      "She felt homesick",
+      "She was ill"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does Leila's cooking remind her of?",
+     "options": [
+      "Her teacher",
+      "Her roommate",
+      "Her school",
+      "Her mother"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How often does Leila go home now?",
+     "options": [
+      "Once a month",
+      "Every night",
+      "Every week",
+      "Once a year"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Working from Home",
+   "script": "Interviewer: Do you work in an office? Mr Karim: No, I work from home. I started last year. Interviewer: What do you like about it? Mr Karim: I can stay at home when the weather is bad, and I see my children when they come home from school. The only problem is that I sometimes feel lonely, so on Fridays I meet a friend in a cafe. Interviewer: Do you think you will go back to an office? Mr Karim: Not soon. I feel at home here.",
+   "questions": [
+    {
+     "question": "When did Mr Karim start working from home?",
+     "options": [
+      "Last month",
+      "Two years ago",
+      "This morning",
+      "Last year"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the only problem he mentions?",
+     "options": [
+      "He sometimes feels lonely",
+      "The noise",
+      "The low pay",
+      "The long journey"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does he do on Fridays?",
+     "options": [
+      "He goes to the office",
+      "He meets a friend in a cafe",
+      "He visits his parents",
+      "He stays in bed"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Please make yourself at home.",
+    "She works from home.",
+    "I come home at five."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "What time do you usually come home?",
+    "hint_words": [
+     "I usually",
+     "o'clock",
+     "school",
+     "after"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you like staying at home at weekends?",
+    "hint_words": [
+     "yes",
+     "no",
+     "rest",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "What is your favourite home-cooked meal?",
+    "hint_words": [
+     "my favourite",
+     "mother",
+     "soup",
+     "delicious"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 13,
+  "title": "building",
+  "vocabulary": [
+   {
+    "word": "a tall building",
+    "translation_uz": "baland bino",
+    "example_sentence": "The tall building in the centre has fifty floors."
+   },
+   {
+    "word": "a historic building",
+    "translation_uz": "tarixiy bino",
+    "example_sentence": "The museum is in a beautiful historic building."
+   },
+   {
+    "word": "an office building",
+    "translation_uz": "ofis binosi",
+    "example_sentence": "She works on the fourth floor of an office building."
+   },
+   {
+    "word": "an apartment building",
+    "translation_uz": "ko'p qavatli turar joy",
+    "example_sentence": "We live in a modern apartment building near the station."
+   },
+   {
+    "word": "put up a building",
+    "translation_uz": "bino qurmoq (ko'tarmoq)",
+    "example_sentence": "They put up the new building in only eight months."
+   },
+   {
+    "word": "tear down a building",
+    "translation_uz": "binoni buzib tashlamoq",
+    "example_sentence": "The city plans to tear down the old building."
+   },
+   {
+    "word": "a building site",
+    "translation_uz": "qurilish maydoni",
+    "example_sentence": "Wear a helmet when you walk on a building site."
+   },
+   {
+    "word": "building materials",
+    "translation_uz": "qurilish materiallari",
+    "example_sentence": "Bricks and cement are common building materials."
+   },
+   {
+    "word": "enter a building",
+    "translation_uz": "binoga kirmoq",
+    "example_sentence": "Visitors must sign their name before they enter the building."
+   },
+   {
+    "word": "a public building",
+    "translation_uz": "jamoat binosi",
+    "example_sentence": "The library is an important public building."
+   },
+   {
+    "word": "a listed building",
+    "translation_uz": "muhofaza qilinadigan bino",
+    "example_sentence": "You cannot change a listed building without permission."
+   },
+   {
+    "word": "the building industry",
+    "translation_uz": "qurilish sohasi",
+    "example_sentence": "Her brother works in the building industry."
+   },
+   {
+    "word": "a building collapses",
+    "translation_uz": "bino qulaydi",
+    "example_sentence": "The engineers checked that the building would not collapse."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "They plan to ___ down the old cinema and build a park.",
+    "correct_word": "tear",
+    "options": [
+     "break",
+     "cut",
+     "drop",
+     "tear"
+    ]
+   },
+   {
+    "sentence_with_blank": "Workers must wear helmets on the building ___.",
+    "correct_word": "site",
+    "options": [
+     "site",
+     "place",
+     "spot",
+     "yard"
+    ]
+   },
+   {
+    "sentence_with_blank": "The company will ___ up a new building next to the river.",
+    "correct_word": "put",
+    "options": [
+     "set",
+     "put",
+     "lay",
+     "turn"
+    ]
+   },
+   {
+    "sentence_with_blank": "Bricks, wood and cement are all building ___.",
+    "correct_word": "materials",
+    "options": [
+     "tools",
+     "things",
+     "materials",
+     "machines"
+    ]
+   },
+   {
+    "sentence_with_blank": "Visitors can ___ the building through the main door.",
+    "correct_word": "enter",
+    "options": [
+     "join",
+     "arrive",
+     "go",
+     "enter"
+    ]
+   },
+   {
+    "sentence_with_blank": "The castle is a ___ building, more than 600 years old.",
+    "correct_word": "historic",
+    "options": [
+     "historic",
+     "historian",
+     "histories",
+     "historically"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Old Station",
+   "text": "In the centre of our town there is an old station. It is a historic building, and people say it was built in 1890. Last year the council wanted to tear it down and put up an office building. Many citizens did not agree, so they wrote letters and held a meeting. In the end the council decided to keep the station. Now builders are repairing the roof and the walls, and the building site is open to school visitors on Saturdays.",
+   "key_words": [
+    {
+     "word": "council",
+     "translation_uz": "shahar kengashi"
+    },
+    {
+     "word": "citizen",
+     "translation_uz": "fuqaro"
+    },
+    {
+     "word": "repair",
+     "translation_uz": "ta'mirlamoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the council want to do last year?",
+     "options": [
+      "Sell the station",
+      "Paint the station",
+      "Open a school there",
+      "Tear down the station"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the citizens do?",
+     "options": [
+      "They wrote letters and held a meeting",
+      "They moved away",
+      "They built a new station",
+      "They closed the road"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who can visit the building site on Saturdays?",
+     "options": [
+      "Only workers",
+      "School visitors",
+      "Only the council",
+      "Nobody"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Tour Guide",
+   "script": "Guide: Welcome to the city. On your left you can see the tallest building in the country. It has seventy floors, and it is an office building. On your right is the town hall, a historic building from the nineteenth century. Tourist: Can we go inside? Guide: Yes, but you must enter through the side door. The main entrance is closed because workers are repairing it. Please do not walk near the building site next to it.",
+   "questions": [
+    {
+     "question": "How many floors does the tallest building have?",
+     "options": [
+      "Seventy",
+      "Fifty",
+      "Sixty",
+      "Ninety"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the town hall?",
+     "options": [
+      "An office building",
+      "A historic building",
+      "A new school",
+      "A hotel"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why is the main entrance closed?",
+     "options": [
+      "It is lunchtime",
+      "It is a holiday",
+      "Workers are repairing it",
+      "The door is broken by a storm"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "That is a tall building.",
+    "They put up a new building.",
+    "Enter through the side door."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Buildings",
+    "question_text": "What is the tallest building you know?",
+    "hint_words": [
+     "the tallest",
+     "floors",
+     "city",
+     "I know"
+    ]
+   },
+   {
+    "topic": "Buildings",
+    "question_text": "Is there a historic building in your town?",
+    "hint_words": [
+     "yes",
+     "castle",
+     "museum",
+     "old"
+    ]
+   },
+   {
+    "topic": "Buildings",
+    "question_text": "What building do you like most?",
+    "hint_words": [
+     "I like",
+     "because",
+     "beautiful",
+     "modern"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 14,
+  "title": "accommodation and rent",
+  "vocabulary": [
+   {
+    "word": "rent a flat",
+    "translation_uz": "kvartira ijaraga olmoq",
+    "example_sentence": "They rent a flat in the city centre."
+   },
+   {
+    "word": "pay the rent",
+    "translation_uz": "ijara haqini to'lamoq",
+    "example_sentence": "He pays the rent on the first day of every month."
+   },
+   {
+    "word": "monthly rent",
+    "translation_uz": "oylik ijara haqi",
+    "example_sentence": "The monthly rent is 300 dollars."
+   },
+   {
+    "word": "rent out a room",
+    "translation_uz": "xonani ijaraga bermoq",
+    "example_sentence": "My aunt rents out a room to a student."
+   },
+   {
+    "word": "a flat to rent",
+    "translation_uz": "ijaraga beriladigan kvartira",
+    "example_sentence": "We saw a flat to rent in the newspaper."
+   },
+   {
+    "word": "the rent goes up",
+    "translation_uz": "ijara haqi oshadi",
+    "example_sentence": "The rent goes up every January."
+   },
+   {
+    "word": "a landlord / a tenant",
+    "translation_uz": "uy egasi / ijarachi",
+    "example_sentence": "The landlord asked the tenant to pay on time."
+   },
+   {
+    "word": "find accommodation",
+    "translation_uz": "turar joy topmoq",
+    "example_sentence": "It is hard to find accommodation in a tourist town in summer."
+   },
+   {
+    "word": "student accommodation",
+    "translation_uz": "talabalar turar joyi",
+    "example_sentence": "Student accommodation is cheaper than a private flat."
+   },
+   {
+    "word": "book accommodation",
+    "translation_uz": "turar joy band qilmoq",
+    "example_sentence": "You should book accommodation early for the holidays."
+   },
+   {
+    "word": "accommodation is included",
+    "translation_uz": "turar joy narxga kiradi",
+    "example_sentence": "Breakfast and accommodation are included in the price."
+   },
+   {
+    "word": "sign a contract",
+    "translation_uz": "shartnoma imzolamoq",
+    "example_sentence": "Read it carefully before you sign the contract."
+   },
+   {
+    "word": "pay a deposit",
+    "translation_uz": "kafolat puli to'lamoq",
+    "example_sentence": "You have to pay a deposit when you rent a flat."
+   },
+   {
+    "word": "move in / move out",
+    "translation_uz": "ko'chib kirmoq / ko'chib chiqmoq",
+    "example_sentence": "We move in on Monday and move out in June."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My cousin ___ a small flat near the university.",
+    "correct_word": "rents",
+    "options": [
+     "rents",
+     "lends",
+     "borrows",
+     "hires"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ is very high, so they are looking for a cheaper place.",
+    "correct_word": "rent",
+    "options": [
+     "salary",
+     "rent",
+     "wage",
+     "tax"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please read the ___ before you sign it.",
+    "correct_word": "contract",
+    "options": [
+     "letter",
+     "ticket",
+     "contract",
+     "menu"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ told us that the roof would be repaired next week.",
+    "correct_word": "landlord",
+    "options": [
+     "tenant",
+     "neighbour",
+     "guest",
+     "landlord"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is difficult to ___ accommodation in the city in September.",
+    "correct_word": "find",
+    "options": [
+     "find",
+     "catch",
+     "win",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "When you rent a flat you usually have to pay a ___.",
+    "correct_word": "deposit",
+    "options": [
+     "discount",
+     "deposit",
+     "present",
+     "reward"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Looking for a Flat",
+   "text": "Mina has just started working in a new city, so she needs to find accommodation. She looked at three flats to rent last weekend. The first one was too far from her office. The second was cheap, but the landlord wanted a deposit of two months' rent. The third flat was perfect: it is close to a metro station, and the monthly rent includes water and heating. Mina signed the contract on Monday, and she will move in next week.",
+   "key_words": [
+    {
+     "word": "heating",
+     "translation_uz": "isitish"
+    },
+    {
+     "word": "perfect",
+     "translation_uz": "ajoyib, mukammal"
+    },
+    {
+     "word": "office",
+     "translation_uz": "ofis"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did Mina not choose the first flat?",
+     "options": [
+      "It was too far from her office",
+      "It was too small",
+      "It was too expensive",
+      "It had no kitchen"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was the problem with the second flat?",
+     "options": [
+      "It had no windows",
+      "The landlord wanted a big deposit",
+      "It was noisy",
+      "It was on the top floor"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is included in the rent of the third flat?",
+     "options": [
+      "Furniture",
+      "Internet and food",
+      "Water and heating",
+      "Cleaning"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Agency",
+   "script": "Agent: Good morning. How can I help? Student: I am looking for student accommodation for September. Agent: We have a room in a shared flat. The monthly rent is 200 dollars. Student: Is that with bills? Agent: Yes, accommodation is included with electricity and internet. You must pay a deposit of 200 dollars, and you can move in on the first of September. Student: That sounds good. When do I sign the contract? Agent: Tomorrow, if you bring your passport.",
+   "questions": [
+    {
+     "question": "What does the student want?",
+     "options": [
+      "A hotel room",
+      "Student accommodation",
+      "A house to buy",
+      "A job"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the monthly rent?",
+     "options": [
+      "100 dollars",
+      "300 dollars",
+      "200 dollars",
+      "500 dollars"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What must the student bring tomorrow?",
+     "options": [
+      "A deposit receipt",
+      "A photo of the flat",
+      "A letter from school",
+      "A passport"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "I pay the rent monthly.",
+    "They rent a small flat.",
+    "He will sign the contract."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Renting",
+    "question_text": "Would you like to rent a flat one day?",
+    "hint_words": [
+     "I would like",
+     "flat",
+     "city",
+     "because"
+    ]
+   },
+   {
+    "topic": "Renting",
+    "question_text": "What is important when you look for accommodation?",
+    "hint_words": [
+     "price",
+     "location",
+     "clean",
+     "size"
+    ]
+   },
+   {
+    "topic": "Renting",
+    "question_text": "Do you know anyone who rents a room?",
+    "hint_words": [
+     "my cousin",
+     "student",
+     "pays",
+     "rent"
+    ]
+   }
+  ]
+ }
+]

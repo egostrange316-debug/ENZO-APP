@@ -1,4 +1,5 @@
 const User = require('../models/User');
+const { graceEnd } = require('../lib/subscription');
 
 /**
  * Obuna holatini tekshiradi va kerak bo'lsa AVTOMATIK bloklaydi.
@@ -10,7 +11,8 @@ const User = require('../models/User');
 async function evaluateSubscription(user) {
   if (user.status === 'blocked') return false;
 
-  if (user.subscription_end_date && user.subscription_end_date < new Date()) {
+  // Muddat tugagach 5 kun to'lov muddati (grace) — shu vaqt ichida dars ochiq. Undan keyin blok.
+  if (user.subscription_end_date && graceEnd(user.subscription_end_date) < new Date()) {
     // Atomik: parallel so'rovlarda ham bir marta yoziladi va hech narsa "qaytib" ochilmaydi
     await User.updateOne({ _id: user._id, status: 'active' }, { $set: { status: 'blocked' } });
     user.status = 'blocked';

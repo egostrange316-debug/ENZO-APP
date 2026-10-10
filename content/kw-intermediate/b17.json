@@ -1,0 +1,1317 @@
+[
+ {
+  "unit": 136,
+  "title": "government and election",
+  "vocabulary": [
+   {
+    "word": "form a government",
+    "translation_uz": "hukumat tuzmoq",
+    "example_sentence": "After the election, the largest party formed a government."
+   },
+   {
+    "word": "lead the government",
+    "translation_uz": "hukumatga rahbarlik qilmoq",
+    "example_sentence": "The prime minister leads the government."
+   },
+   {
+    "word": "local government",
+    "translation_uz": "mahalliy hokimiyat",
+    "example_sentence": "Local government looks after parks and roads in our town."
+   },
+   {
+    "word": "government policy",
+    "translation_uz": "hukumat siyosati",
+    "example_sentence": "The new government policy helps small farms."
+   },
+   {
+    "word": "a government minister",
+    "translation_uz": "hukumat vaziri",
+    "example_sentence": "A government minister visited our school."
+   },
+   {
+    "word": "the government announced",
+    "translation_uz": "hukumat e'lon qildi",
+    "example_sentence": "The government announced a plan to build more schools."
+   },
+   {
+    "word": "hold an election",
+    "translation_uz": "saylov o'tkazmoq",
+    "example_sentence": "The country holds an election every four years."
+   },
+   {
+    "word": "win an election",
+    "translation_uz": "saylovda g'alaba qozonmoq",
+    "example_sentence": "She won the election by a large number of votes."
+   },
+   {
+    "word": "lose an election",
+    "translation_uz": "saylovda yutqazmoq",
+    "example_sentence": "The old mayor lost the election."
+   },
+   {
+    "word": "call an election",
+    "translation_uz": "saylov e'lon qilmoq",
+    "example_sentence": "The president called an election for next spring."
+   },
+   {
+    "word": "a general election",
+    "translation_uz": "umumiy saylov",
+    "example_sentence": "A general election is a big event for the whole nation."
+   },
+   {
+    "word": "stand in an election",
+    "translation_uz": "saylovda nomzod bo'lib qatnashmoq",
+    "example_sentence": "My aunt will stand in the local election."
+   },
+   {
+    "word": "election campaign",
+    "translation_uz": "saylov kampaniyasi",
+    "example_sentence": "The election campaign lasted for six weeks."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The new party hopes to ___ the next government.",
+    "correct_word": "form",
+    "options": [
+     "form",
+     "carry",
+     "break",
+     "paint",
+     "calls"
+    ]
+   },
+   {
+    "sentence_with_blank": "Voters will go to the polls when the president ___ an election.",
+    "correct_word": "calls",
+    "options": [
+     "calls",
+     "wears",
+     "makes",
+     "opens",
+     "failed"
+    ]
+   },
+   {
+    "sentence_with_blank": "The mayor was very sad when he ___ the election.",
+    "correct_word": "lost",
+    "options": [
+     "lost",
+     "missed",
+     "dropped",
+     "failed",
+     "elected"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our town council is part of ___ government.",
+    "correct_word": "local",
+    "options": [
+     "local",
+     "tiny",
+     "near",
+     "short",
+     "carry"
+    ]
+   },
+   {
+    "sentence_with_blank": "The country holds a general ___ every five years.",
+    "correct_word": "election",
+    "options": [
+     "election",
+     "elect",
+     "elected",
+     "electing",
+     "lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "She decided to stand ___ the local election.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "at",
+     "for",
+     "short"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Fictional Election",
+   "text": "In the republic of Valmar, the people hold a general election every four years. This year the government called an election earlier than planned because it could not agree on a new tax. During the election campaign, the leaders of the two main parties visited towns and villages. One of them promised to improve local government and build more libraries. The other said that government policy on transport must change. On election day, millions of citizens went to the polls. The party led by Mrs Dorin won the election, and she began to form a government the next week.",
+   "key_words": [
+    {
+     "word": "election campaign",
+     "translation_uz": "saylov kampaniyasi"
+    },
+    {
+     "word": "tax",
+     "translation_uz": "soliq"
+    },
+    {
+     "word": "citizen",
+     "translation_uz": "fuqaro"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was the election called early?",
+     "options": [
+      "The government could not agree on a new tax",
+      "The leader was ill",
+      "A new library opened",
+      "The people asked for a holiday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who won the election?",
+     "options": [
+      "The party of the other leader",
+      "A group of students",
+      "Nobody won",
+      "The party led by Mrs Dorin"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the other leader want to change?",
+     "options": [
+      "The school year",
+      "Government policy on transport",
+      "The name of the country",
+      "The election day"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Election Night",
+   "script": "Presenter: Good evening. Tonight the people of Valmar are waiting for the results of the election. Reporter: Thank you. I am outside the town hall. Voters have been coming here since early morning, and about seventy per cent of people have voted so far. The election campaign was very busy, and both leaders say they are confident. Presenter: When will we know who has won? Reporter: We expect the first results at ten o'clock. If one party wins enough seats, it can form a government by Friday.",
+   "questions": [
+    {
+     "question": "Where is the reporter?",
+     "options": [
+      "Outside the town hall",
+      "At a school",
+      "In a park",
+      "At the airport"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What time are the first results expected?",
+     "options": [
+      "Six o'clock",
+      "Eight o'clock",
+      "Midnight",
+      "Ten o'clock"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When could a government be formed?",
+     "options": [
+      "By Monday",
+      "By Wednesday",
+      "By Friday",
+      "Next year"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "The election campaign was busy.",
+    "Voters went to the polls.",
+    "She will form a government."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Politics",
+    "question_text": "Do people in your country vote in elections?",
+    "hint_words": [
+     "vote",
+     "every",
+     "years",
+     "leader"
+    ]
+   },
+   {
+    "topic": "Politics",
+    "question_text": "What would you do if you led a government?",
+    "hint_words": [
+     "I would",
+     "build",
+     "schools",
+     "help"
+    ]
+   },
+   {
+    "topic": "Politics",
+    "question_text": "Why is it important to hold fair elections?",
+    "hint_words": [
+     "fair",
+     "people",
+     "choose",
+     "leader"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 137,
+  "title": "vote",
+  "vocabulary": [
+   {
+    "word": "vote for someone",
+    "translation_uz": "kimgadir ovoz bermoq",
+    "example_sentence": "I will vote for Ali as class leader."
+   },
+   {
+    "word": "vote against a plan",
+    "translation_uz": "rejaga qarshi ovoz bermoq",
+    "example_sentence": "Most members voted against the plan."
+   },
+   {
+    "word": "vote on a proposal",
+    "translation_uz": "taklif yuzasidan ovoz bermoq",
+    "example_sentence": "The council will vote on the proposal tomorrow."
+   },
+   {
+    "word": "vote in an election",
+    "translation_uz": "saylovda ovoz bermoq",
+    "example_sentence": "You can vote in an election when you are eighteen."
+   },
+   {
+    "word": "the right to vote",
+    "translation_uz": "ovoz berish huquqi",
+    "example_sentence": "Every adult citizen has the right to vote."
+   },
+   {
+    "word": "a vote of confidence",
+    "translation_uz": "ishonch bildirish ovozi",
+    "example_sentence": "The leader won a vote of confidence in parliament."
+   },
+   {
+    "word": "cast a vote",
+    "translation_uz": "ovoz bermoq (bulletin tashlamoq)",
+    "example_sentence": "Each person can cast only one vote."
+   },
+   {
+    "word": "win the vote",
+    "translation_uz": "ovoz berishda g'alaba qozonmoq",
+    "example_sentence": "Our team won the vote by ten to five."
+   },
+   {
+    "word": "a majority vote",
+    "translation_uz": "ko'pchilik ovozi",
+    "example_sentence": "The decision was made by a majority vote."
+   },
+   {
+    "word": "take a vote",
+    "translation_uz": "ovoz berishga qo'ymoq",
+    "example_sentence": "Let's take a vote on where to go for the trip."
+   },
+   {
+    "word": "a secret vote",
+    "translation_uz": "yashirin ovoz berish",
+    "example_sentence": "The students had a secret vote for the best poster."
+   },
+   {
+    "word": "voter",
+    "translation_uz": "saylovchi",
+    "example_sentence": "Every voter receives a card in the post."
+   },
+   {
+    "word": "polling station",
+    "translation_uz": "ovoz berish uchastkasi",
+    "example_sentence": "The polling station is in our school hall."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Citizens over eighteen have the ___ to vote.",
+    "correct_word": "right",
+    "options": [
+     "right",
+     "wish",
+     "reason",
+     "order",
+     "vote"
+    ]
+   },
+   {
+    "sentence_with_blank": "The class decided to take a ___ on the trip.",
+    "correct_word": "vote",
+    "options": [
+     "vote",
+     "voter",
+     "voting",
+     "voted",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "Most students voted ___ the new rule because it was too strict.",
+    "correct_word": "against",
+    "options": [
+     "against",
+     "about",
+     "with",
+     "from",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ for the candidate you like best.",
+    "correct_word": "vote",
+    "options": [
+     "vote",
+     "elect",
+     "select",
+     "count",
+     "reason"
+    ]
+   },
+   {
+    "sentence_with_blank": "The members will vote ___ the budget on Monday.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "at",
+     "of",
+     "by",
+     "about"
+    ]
+   },
+   {
+    "sentence_with_blank": "Each voter can ___ only one vote.",
+    "correct_word": "cast",
+    "options": [
+     "cast",
+     "throw",
+     "send",
+     "drop",
+     "at"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Council Vote",
+   "text": "Last Friday our school held a vote to choose a new head of the school council. Three students stood for the job. Every pupil had the right to vote, and the voting was secret. We went to the polling station, which was just the library, and each of us cast one vote. The teachers counted the papers after lunch. A girl named Mira won the vote with sixty votes. She promised to talk about the canteen menu at the first meeting. Some pupils voted against her, but they all clapped when the result was announced.",
+   "key_words": [
+    {
+     "word": "head of the school council",
+     "translation_uz": "maktab kengashi raisi"
+    },
+    {
+     "word": "promise",
+     "translation_uz": "va'da bermoq"
+    },
+    {
+     "word": "result",
+     "translation_uz": "natija"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where was the polling station?",
+     "options": [
+      "In the library",
+      "In the gym",
+      "In the canteen",
+      "In the music room"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How many votes did Mira get?",
+     "options": [
+      "Ten",
+      "Thirty",
+      "Sixty",
+      "Ninety"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Mira promise to talk about?",
+     "options": [
+      "Longer holidays",
+      "The canteen menu",
+      "Homework",
+      "School uniforms"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Voting Day",
+   "script": "Tom: Are you going to vote today? Anna: Yes, I'm on my way to the polling station now. It's my first time, so I'm a little nervous. Tom: Don't worry. You show your card and then you cast your vote in private. Anna: Do I have to vote for one person only? Tom: Yes, just one. Last time my grandfather voted against the main plan, and his side lost by a small majority. Anna: Then every vote really matters!",
+   "questions": [
+    {
+     "question": "What is Anna going to do?",
+     "options": [
+      "Vote for the first time",
+      "Meet her teacher",
+      "Count the votes",
+      "Open a shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How many people can a voter choose?",
+     "options": [
+      "Two",
+      "Three",
+      "As many as they like",
+      "One"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What happened last time to Tom's grandfather?",
+     "options": [
+      "He did not go",
+      "His side lost by a small majority",
+      "He won by a large majority",
+      "He forgot his card"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Every vote really matters.",
+    "I cast my vote.",
+    "We voted against the plan."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Voting",
+    "question_text": "Have you ever voted for something at school?",
+    "hint_words": [
+     "class",
+     "voted",
+     "leader",
+     "yes"
+    ]
+   },
+   {
+    "topic": "Voting",
+    "question_text": "At what age should people get the right to vote?",
+    "hint_words": [
+     "age",
+     "eighteen",
+     "sixteen",
+     "think"
+    ]
+   },
+   {
+    "topic": "Voting",
+    "question_text": "Why is a secret vote a good idea?",
+    "hint_words": [
+     "secret",
+     "free",
+     "choose",
+     "afraid"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 138,
+  "title": "society",
+  "vocabulary": [
+   {
+    "word": "modern society",
+    "translation_uz": "zamonaviy jamiyat",
+    "example_sentence": "Modern society depends on technology."
+   },
+   {
+    "word": "society as a whole",
+    "translation_uz": "butun jamiyat",
+    "example_sentence": "These changes will help society as a whole."
+   },
+   {
+    "word": "a member of society",
+    "translation_uz": "jamiyat a'zosi",
+    "example_sentence": "Every member of society should respect others."
+   },
+   {
+    "word": "a fair society",
+    "translation_uz": "adolatli jamiyat",
+    "example_sentence": "We all want to live in a fair society."
+   },
+   {
+    "word": "a peaceful society",
+    "translation_uz": "tinch jamiyat",
+    "example_sentence": "A peaceful society needs good laws and kind people."
+   },
+   {
+    "word": "benefit society",
+    "translation_uz": "jamiyatga foyda keltirmoq",
+    "example_sentence": "Good teachers benefit society for many years."
+   },
+   {
+    "word": "serve society",
+    "translation_uz": "jamiyatga xizmat qilmoq",
+    "example_sentence": "Nurses and doctors serve society every day."
+   },
+   {
+    "word": "the needs of society",
+    "translation_uz": "jamiyat ehtiyojlari",
+    "example_sentence": "Schools must meet the needs of society."
+   },
+   {
+    "word": "a society for something",
+    "translation_uz": "biror narsa jamiyati (uyushma)",
+    "example_sentence": "She joined a society for the protection of birds."
+   },
+   {
+    "word": "a charity society",
+    "translation_uz": "xayriya jamiyati",
+    "example_sentence": "The charity society collects food for families."
+   },
+   {
+    "word": "social problems",
+    "translation_uz": "ijtimoiy muammalar",
+    "example_sentence": "Poverty is one of the biggest social problems."
+   },
+   {
+    "word": "social change",
+    "translation_uz": "ijtimoiy o'zgarish",
+    "example_sentence": "The internet has brought great social change."
+   },
+   {
+    "word": "social media",
+    "translation_uz": "ijtimoiy tarmoqlar",
+    "example_sentence": "Many teenagers use social media every day."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Doctors and teachers ___ society in important ways.",
+    "correct_word": "serve",
+    "options": [
+     "serve",
+     "carry",
+     "keep",
+     "watch",
+     "fair"
+    ]
+   },
+   {
+    "sentence_with_blank": "We want to build a ___ society where everyone has the same chances.",
+    "correct_word": "fair",
+    "options": [
+     "fair",
+     "heavy",
+     "empty",
+     "narrow",
+     "piece"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every ___ of society should follow the rules.",
+    "correct_word": "member",
+    "options": [
+     "member",
+     "owner",
+     "guest",
+     "piece",
+     "socially"
+    ]
+   },
+   {
+    "sentence_with_blank": "Pollution is a problem for society as a ___.",
+    "correct_word": "whole",
+    "options": [
+     "whole",
+     "full",
+     "all",
+     "total",
+     "heavy"
+    ]
+   },
+   {
+    "sentence_with_blank": "She joined a ___ for the protection of old buildings.",
+    "correct_word": "society",
+    "options": [
+     "society",
+     "social",
+     "socially",
+     "sociable",
+     "whole"
+    ]
+   },
+   {
+    "sentence_with_blank": "The Industrial Revolution brought great ___ change.",
+    "correct_word": "social",
+    "options": [
+     "social",
+     "society",
+     "socially",
+     "sociable",
+     "watch"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Helping Our Society",
+   "text": "Our teacher says that school is a small society. Everyone is a member, and everyone has a role. Last month our class started a charity society to help older people in our street. We bring them food and read to them. Our teacher explained that a fair society looks after all its members, not only the strong ones. She also told us that modern society faces many social problems, such as loneliness and poverty. Small actions can benefit society as a whole, she said. We agreed, and now more pupils want to join us.",
+   "key_words": [
+    {
+     "word": "charity",
+     "translation_uz": "xayriya"
+    },
+    {
+     "word": "loneliness",
+     "translation_uz": "yolg'izlik"
+    },
+    {
+     "word": "role",
+     "translation_uz": "vazifa, rol"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class start?",
+     "options": [
+      "A football team",
+      "A newspaper",
+      "A charity society",
+      "A choir"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who does the class help?",
+     "options": [
+      "Older people in their street",
+      "Young children",
+      "Teachers",
+      "Farmers"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does a fair society do, according to the teacher?",
+     "options": [
+      "Helps only the strong",
+      "Looks after all its members",
+      "Closes schools",
+      "Stops all change"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talk About Society",
+   "script": "Good morning, everyone. Today I want to talk about being part of a society. Every one of us is a member of society, and we all depend on each other. Farmers grow food, drivers bring it to the shops, and shop workers sell it to us. A peaceful society works only when people respect one another. Social media can bring people together, but it can also create problems if we are not careful. So my question is simple: what can you do to benefit society this week?",
+   "questions": [
+    {
+     "question": "What does the speaker say about farmers?",
+     "options": [
+      "They grow food",
+      "They drive buses",
+      "They teach children",
+      "They sell phones"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does a peaceful society need?",
+     "options": [
+      "More shops",
+      "Faster phones",
+      "Bigger cities",
+      "Respect between people"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the final question about?",
+     "options": [
+      "Their favourite food",
+      "Their homework",
+      "What the listeners can do for society",
+      "Their holidays"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "We all depend on each other.",
+    "Society needs respect.",
+    "Help your society this week."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Society",
+    "question_text": "What can young people do to help society?",
+    "hint_words": [
+     "help",
+     "clean",
+     "old",
+     "volunteer"
+    ]
+   },
+   {
+    "topic": "Society",
+    "question_text": "Do you think social media is good or bad for society?",
+    "hint_words": [
+     "good",
+     "bad",
+     "friends",
+     "time"
+    ]
+   },
+   {
+    "topic": "Society",
+    "question_text": "Describe a fair society.",
+    "hint_words": [
+     "fair",
+     "everyone",
+     "rules",
+     "chance"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 139,
+  "title": "justice",
+  "vocabulary": [
+   {
+    "word": "a sense of justice",
+    "translation_uz": "adolat tuyg'usi",
+    "example_sentence": "Even small children have a sense of justice."
+   },
+   {
+    "word": "fight for justice",
+    "translation_uz": "adolat uchun kurashmoq",
+    "example_sentence": "Many brave people have fought for justice."
+   },
+   {
+    "word": "seek justice",
+    "translation_uz": "adolatni izlamoq",
+    "example_sentence": "The family sought justice after the accident."
+   },
+   {
+    "word": "bring someone to justice",
+    "translation_uz": "kimnidir sudga tortmoq",
+    "example_sentence": "The police worked hard to bring the thief to justice."
+   },
+   {
+    "word": "do justice to something",
+    "translation_uz": "biror narsaga munosib bo'lmoq (haqqini ado etmoq)",
+    "example_sentence": "This photo does not do justice to the beautiful view."
+   },
+   {
+    "word": "justice for all",
+    "translation_uz": "hamma uchun adolat",
+    "example_sentence": "The sign in the court says: justice for all."
+   },
+   {
+    "word": "the justice system",
+    "translation_uz": "sud tizimi",
+    "example_sentence": "The justice system must treat everyone equally."
+   },
+   {
+    "word": "a miscarriage of justice",
+    "translation_uz": "adolatsiz hukm",
+    "example_sentence": "The judge admitted it was a miscarriage of justice."
+   },
+   {
+    "word": "equal justice",
+    "translation_uz": "teng adolat",
+    "example_sentence": "Equal justice means the same rules for rich and poor."
+   },
+   {
+    "word": "social justice",
+    "translation_uz": "ijtimoiy adolat",
+    "example_sentence": "Social justice is about fair chances for everyone."
+   },
+   {
+    "word": "the Minister of Justice",
+    "translation_uz": "adliya vaziri",
+    "example_sentence": "The Minister of Justice visited the new court."
+   },
+   {
+    "word": "unjust / injustice",
+    "translation_uz": "adolatsiz / adolatsizlik",
+    "example_sentence": "He felt anger at the injustice of the decision."
+   },
+   {
+    "word": "a just decision",
+    "translation_uz": "adolatli qaror",
+    "example_sentence": "The judge made a just decision."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The police tried to bring the thief to ___.",
+    "correct_word": "justice",
+    "options": [
+     "justice",
+     "court",
+     "prison",
+     "law",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "People marched to fight ___ justice.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "to",
+     "of",
+     "at",
+     "pattern"
+    ]
+   },
+   {
+    "sentence_with_blank": "A good justice ___ treats everyone equally.",
+    "correct_word": "system",
+    "options": [
+     "system",
+     "machine",
+     "unit",
+     "pattern",
+     "justly"
+    ]
+   },
+   {
+    "sentence_with_blank": "This small picture does not do ___ to the real painting.",
+    "correct_word": "justice",
+    "options": [
+     "justice",
+     "right",
+     "good",
+     "honour",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "The class thought the teacher's decision was fair and ___.",
+    "correct_word": "just",
+    "options": [
+     "just",
+     "unjust",
+     "injustice",
+     "justly",
+     "right"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people were angry at the ___ of the decision.",
+    "correct_word": "injustice",
+    "options": [
+     "injustice",
+     "unjust",
+     "justify",
+     "justly",
+     "law"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Question of Justice",
+   "text": "Last year, a boy in our town was blamed for breaking a shop window. He said he was innocent, but nobody listened. His older sister had a strong sense of justice and decided to find the truth. She looked at the shop's camera pictures and showed them to the police. They saw that the real person was a stranger, and they brought him to justice. The boy was free, and the shop owner said sorry. The judge said it could have been a miscarriage of justice, and he thanked the sister. Now she wants to study law and work in the justice system.",
+   "key_words": [
+    {
+     "word": "innocent",
+     "translation_uz": "aybsiz"
+    },
+    {
+     "word": "stranger",
+     "translation_uz": "notanish odam"
+    },
+    {
+     "word": "judge",
+     "translation_uz": "sudya"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the boy blamed for?",
+     "options": [
+      "Taking a bicycle",
+      "Breaking a shop window",
+      "Missing school",
+      "Painting a wall"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who found the truth?",
+     "options": [
+      "His older sister",
+      "His teacher",
+      "The shop owner",
+      "The judge"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the sister want to do in the future?",
+     "options": [
+      "Open a shop",
+      "Become a pilot",
+      "Study law and work in the justice system",
+      "Move abroad"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Justice for Everyone",
+   "script": "Teacher: Today we are talking about justice. What does the word mean to you? Pupil: For me, it means fair treatment. A just decision is one that does not take a side. Teacher: Good. Can you give an example? Pupil: Yes. If two pupils break a rule, both should get the same punishment. That is equal justice. Teacher: Excellent. Remember that a good justice system also listens to everyone before it decides.",
+   "questions": [
+    {
+     "question": "What does justice mean to the pupil?",
+     "options": [
+      "Fair treatment",
+      "A strict rule",
+      "A school prize",
+      "A long holiday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What should happen if two pupils break a rule?",
+     "options": [
+      "Only one is punished",
+      "Nobody is punished",
+      "They go home early",
+      "They should get the same punishment"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does a good justice system do first?",
+     "options": [
+      "Closes the court",
+      "Listens to everyone",
+      "Chooses a winner",
+      "Sends people away"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Justice means fair treatment.",
+    "Everyone must get equal justice.",
+    "The decision was fair and just."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Justice",
+    "question_text": "What does justice mean to you?",
+    "hint_words": [
+     "fair",
+     "equal",
+     "same",
+     "rules"
+    ]
+   },
+   {
+    "topic": "Justice",
+    "question_text": "Have you ever seen something unfair at school?",
+    "hint_words": [
+     "unfair",
+     "teacher",
+     "once",
+     "felt"
+    ]
+   },
+   {
+    "topic": "Justice",
+    "question_text": "Why do we need a justice system?",
+    "hint_words": [
+     "need",
+     "fair",
+     "rules",
+     "protect"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 140,
+  "title": "law",
+  "vocabulary": [
+   {
+    "word": "obey the law",
+    "translation_uz": "qonunga bo'ysunmoq",
+    "example_sentence": "Drivers must obey the law."
+   },
+   {
+    "word": "break the law",
+    "translation_uz": "qonunni buzmoq",
+    "example_sentence": "It is wrong to break the law."
+   },
+   {
+    "word": "pass a law",
+    "translation_uz": "qonun qabul qilmoq",
+    "example_sentence": "Parliament passed a law about plastic bags."
+   },
+   {
+    "word": "introduce a new law",
+    "translation_uz": "yangi qonun joriy etmoq",
+    "example_sentence": "The government introduced a new law on road safety."
+   },
+   {
+    "word": "enforce the law",
+    "translation_uz": "qonunni amalda qo'llamoq",
+    "example_sentence": "The police enforce the law in our town."
+   },
+   {
+    "word": "against the law",
+    "translation_uz": "qonunga zid",
+    "example_sentence": "Dropping rubbish in the street is against the law."
+   },
+   {
+    "word": "by law",
+    "translation_uz": "qonun bo'yicha",
+    "example_sentence": "By law, children must go to school."
+   },
+   {
+    "word": "law and order",
+    "translation_uz": "qonun va tartib",
+    "example_sentence": "The mayor wants to keep law and order."
+   },
+   {
+    "word": "the rule of law",
+    "translation_uz": "qonun ustuvorligi",
+    "example_sentence": "A fair country is based on the rule of law."
+   },
+   {
+    "word": "a law on / against something",
+    "translation_uz": "biror narsa to'g'risidagi / unga qarshi qonun",
+    "example_sentence": "There is a law against smoking in schools."
+   },
+   {
+    "word": "a law firm",
+    "translation_uz": "yuridik firma",
+    "example_sentence": "My uncle works for a law firm."
+   },
+   {
+    "word": "study law",
+    "translation_uz": "huquqshunoslikni o'rganmoq",
+    "example_sentence": "She wants to study law at university."
+   },
+   {
+    "word": "a lawyer",
+    "translation_uz": "advokat, huquqshunos",
+    "example_sentence": "A lawyer explained the new rules to us."
+   },
+   {
+    "word": "law-abiding",
+    "translation_uz": "qonunga bo'ysunuvchi",
+    "example_sentence": "Most citizens are law-abiding."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is ___ the law to drive without a licence.",
+    "correct_word": "against",
+    "options": [
+     "against",
+     "under",
+     "over",
+     "outside",
+     "pass"
+    ]
+   },
+   {
+    "sentence_with_blank": "The government decided to ___ a new law on recycling.",
+    "correct_word": "pass",
+    "options": [
+     "pass",
+     "break",
+     "carry",
+     "take",
+     "reach"
+    ]
+   },
+   {
+    "sentence_with_blank": "People must ___ the law, even when nobody is watching.",
+    "correct_word": "obey",
+    "options": [
+     "obey",
+     "answer",
+     "repeat",
+     "reach",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "By ___, you must wear a seat belt in a car.",
+    "correct_word": "law",
+    "options": [
+     "law",
+     "right",
+     "rule of",
+     "order",
+     "over"
+    ]
+   },
+   {
+    "sentence_with_blank": "The police work to keep law and ___.",
+    "correct_word": "order",
+    "options": [
+     "order",
+     "rule",
+     "peace",
+     "safety",
+     "repeat"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a new law ___ dropping litter.",
+    "correct_word": "against",
+    "options": [
+     "against",
+     "from",
+     "between",
+     "across",
+     "law-abiding"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "New Laws in Our City",
+   "text": "Our city council has introduced two new laws this year. The first law is about bicycles. By law, every cyclist under sixteen must wear a helmet. The second law is against dropping litter in parks. People who break the law must pay a small fine. The police enforce both rules, but they also explain them to visitors. Our mayor said that most people in the city are law-abiding and want a clean, safe place to live. My sister now wants to study law because she wants to help write fair rules one day.",
+   "key_words": [
+    {
+     "word": "helmet",
+     "translation_uz": "dubulg'a (kaska)"
+    },
+    {
+     "word": "litter",
+     "translation_uz": "chiqindi"
+    },
+    {
+     "word": "fine",
+     "translation_uz": "jarima"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who must wear a helmet by law?",
+     "options": [
+      "Cyclists under sixteen",
+      "All drivers",
+      "Teachers",
+      "Only adults"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What must people pay if they break the park law?",
+     "options": [
+      "A ticket to the zoo",
+      "Nothing",
+      "A big prize",
+      "A small fine"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the writer's sister want to study?",
+     "options": [
+      "Medicine",
+      "Law",
+      "Art",
+      "Music"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Bus Stop",
+   "script": "Dan: Did you see the sign? It says smoking at the bus stop is against the law. Ella: Yes, the council passed that law last month. It protects people who wait for the bus. Dan: Do the police enforce it? Ella: They do. People who break the law have to pay a fine. My cousin works for a law firm, and he says most people obey the law because they understand the reason for it. Dan: That makes sense. I'm glad we have it.",
+   "questions": [
+    {
+     "question": "What is against the law at the bus stop?",
+     "options": [
+      "Waiting",
+      "Eating",
+      "Smoking",
+      "Reading"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who passed the law?",
+     "options": [
+      "The council",
+      "The school",
+      "A law firm",
+      "The bus company"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where does Ella's cousin work?",
+     "options": [
+      "At a bus station",
+      "At a law firm",
+      "At a hospital",
+      "At a school"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Smoking is against the law.",
+    "Please obey the law.",
+    "The council passed a new law."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Law",
+    "question_text": "Which laws are important for young people?",
+    "hint_words": [
+     "school",
+     "safety",
+     "helmet",
+     "rules"
+    ]
+   },
+   {
+    "topic": "Law",
+    "question_text": "Why do people obey the law?",
+    "hint_words": [
+     "safe",
+     "fine",
+     "fair",
+     "respect"
+    ]
+   },
+   {
+    "topic": "Law",
+    "question_text": "Would you like to study law? Why or why not?",
+    "hint_words": [
+     "lawyer",
+     "study",
+     "interesting",
+     "difficult"
+    ]
+   }
+  ]
+ }
+]

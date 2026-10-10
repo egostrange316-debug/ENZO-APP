@@ -1,0 +1,1508 @@
+[
+ {
+  "unit": 18,
+  "title": "table, drawer",
+  "vocabulary": [
+   {
+    "word": "lay the table",
+    "translation_uz": "dasturxon yozmoq / stolni tayyorlamoq",
+    "example_sentence": "Please lay the table for dinner."
+   },
+   {
+    "word": "clear the table",
+    "translation_uz": "stolni yig'ishtirmoq",
+    "example_sentence": "After lunch we clear the table together."
+   },
+   {
+    "word": "book a table",
+    "translation_uz": "restoranda joy band qilmoq",
+    "example_sentence": "Dad booked a table for six people."
+   },
+   {
+    "word": "sit at the table",
+    "translation_uz": "stol atrofida o'tirmoq",
+    "example_sentence": "The children sit at the table and eat."
+   },
+   {
+    "word": "a kitchen table",
+    "translation_uz": "oshxona stoli",
+    "example_sentence": "We do our homework at the kitchen table."
+   },
+   {
+    "word": "a coffee table",
+    "translation_uz": "kofe stoli (past past stol)",
+    "example_sentence": "The magazines are on the coffee table."
+   },
+   {
+    "word": "table tennis",
+    "translation_uz": "stol tennisi",
+    "example_sentence": "My cousin plays table tennis very well."
+   },
+   {
+    "word": "open a drawer",
+    "translation_uz": "tortmani ochmoq",
+    "example_sentence": "Open the drawer and take a pen."
+   },
+   {
+    "word": "shut the drawer",
+    "translation_uz": "tortmani yopmoq",
+    "example_sentence": "Shut the drawer, please."
+   },
+   {
+    "word": "a desk drawer",
+    "translation_uz": "ish stolining tortmasi",
+    "example_sentence": "My pencils are in the desk drawer."
+   },
+   {
+    "word": "the top drawer",
+    "translation_uz": "eng yuqoridagi tortma",
+    "example_sentence": "Your socks are in the top drawer."
+   },
+   {
+    "word": "a chest of drawers",
+    "translation_uz": "tortmali komod",
+    "example_sentence": "There is a chest of drawers in my room."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Mum asked me to ___ the table before dinner.",
+    "correct_word": "lay",
+    "options": [
+     "lay",
+     "jump",
+     "sing",
+     "paint"
+    ]
+   },
+   {
+    "sentence_with_blank": "After dinner, please ___ the table.",
+    "correct_word": "clear",
+    "options": [
+     "swim",
+     "clear",
+     "grow",
+     "wear"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ___ a table at the restaurant for Saturday.",
+    "correct_word": "booked",
+    "options": [
+     "cooked",
+     "closed",
+     "booked",
+     "dropped"
+    ]
+   },
+   {
+    "sentence_with_blank": "They sat ___ the table and started to eat.",
+    "correct_word": "at",
+    "options": [
+     "to",
+     "of",
+     "for",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ the top drawer? My keys are inside.",
+    "correct_word": "open",
+    "options": [
+     "open",
+     "drink",
+     "bring",
+     "tell"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please play table ___ with me after school.",
+    "correct_word": "tennis",
+    "options": [
+     "sport",
+     "tennis",
+     "ball",
+     "game"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Dinner at Grandma's",
+   "text": "On Sunday we go to Grandma's house for dinner. First, I lay the table. I put the plates and forks on the big kitchen table. Grandma keeps the forks in the top drawer, so I open it carefully. After dinner, my cousins and I clear the table and wash the dishes. Then we play table tennis in the garden. It is the best day of my week.",
+   "key_words": [
+    {
+     "word": "lay the table",
+     "translation_uz": "stolni tayyorlamoq"
+    },
+    {
+     "word": "drawer",
+     "translation_uz": "tortma"
+    },
+    {
+     "word": "cousin",
+     "translation_uz": "amakivachcha"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where does Grandma keep the forks?",
+     "options": [
+      "On the coffee table",
+      "In the garden",
+      "In the top drawer",
+      "In the fridge"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What do the children do after dinner?",
+     "options": [
+      "Clear the table and wash the dishes",
+      "Book a table",
+      "Paint the kitchen",
+      "Go to bed"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What do they play in the garden?",
+     "options": [
+      "Football",
+      "Chess",
+      "Basketball",
+      "Table tennis"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Family Restaurant",
+   "script": "Last Friday we booked a table at a small restaurant for my sister's birthday. There were six of us. We sat at a round table near the window. The waiter laid the table with white plates. After the meal, he cleared the table and brought a cake. At home, I keep my birthday cards in the top drawer of my desk.",
+   "questions": [
+    {
+     "question": "Why did the family go to the restaurant?",
+     "options": [
+      "For a wedding",
+      "For a birthday",
+      "For a school test",
+      "For a new job"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where did they sit?",
+     "options": [
+      "In the garden",
+      "Next to the door",
+      "In the kitchen",
+      "At a round table near the window"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where does the speaker keep the birthday cards?",
+     "options": [
+      "In the top drawer of the desk",
+      "Under the bed",
+      "On the coffee table",
+      "In a bag"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Lay the table, please.",
+    "Open the top drawer.",
+    "We booked a table."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "Do you lay the table at home?",
+    "hint_words": [
+     "yes",
+     "sometimes",
+     "plates",
+     "forks"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Where do you do your homework?",
+    "hint_words": [
+     "desk",
+     "table",
+     "at",
+     "room"
+    ]
+   },
+   {
+    "topic": "Games",
+    "question_text": "Can you play table tennis?",
+    "hint_words": [
+     "yes",
+     "no",
+     "a little",
+     "bat"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 19,
+  "title": "chair, mirror",
+  "vocabulary": [
+   {
+    "word": "sit on a chair",
+    "translation_uz": "stulda o'tirmoq",
+    "example_sentence": "Please sit on that chair."
+   },
+   {
+    "word": "pull up a chair",
+    "translation_uz": "stulni yaqinroq tortmoq",
+    "example_sentence": "Pull up a chair and join us."
+   },
+   {
+    "word": "an armchair",
+    "translation_uz": "kreslo",
+    "example_sentence": "Grandpa is asleep in the armchair."
+   },
+   {
+    "word": "a comfortable chair",
+    "translation_uz": "qulay stul",
+    "example_sentence": "This is a very comfortable chair."
+   },
+   {
+    "word": "the back of a chair",
+    "translation_uz": "stulning suyanchig'i",
+    "example_sentence": "My coat is on the back of the chair."
+   },
+   {
+    "word": "a folding chair",
+    "translation_uz": "yig'iladigan stul",
+    "example_sentence": "We took folding chairs to the picnic."
+   },
+   {
+    "word": "look in the mirror",
+    "translation_uz": "oynaga qaramoq",
+    "example_sentence": "She looks in the mirror every morning."
+   },
+   {
+    "word": "a mirror on the wall",
+    "translation_uz": "devordagi oyna",
+    "example_sentence": "There is a big mirror on the wall."
+   },
+   {
+    "word": "break a mirror",
+    "translation_uz": "oynani sindirmoq",
+    "example_sentence": "He broke a mirror by accident."
+   },
+   {
+    "word": "a rear-view mirror",
+    "translation_uz": "orqani ko'rsatuvchi oyna",
+    "example_sentence": "The driver checked the rear-view mirror."
+   },
+   {
+    "word": "a full-length mirror",
+    "translation_uz": "bo'yga teng katta oyna",
+    "example_sentence": "I have a full-length mirror in my room."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Come in and ___ on this chair.",
+    "correct_word": "sit",
+    "options": [
+     "run",
+     "sit",
+     "jump",
+     "swim"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ up a chair and sat next to me.",
+    "correct_word": "pulled",
+    "options": [
+     "pushed away",
+     "threw",
+     "pulled",
+     "washed"
+    ]
+   },
+   {
+    "sentence_with_blank": "Grandma sleeps in the ___ after lunch.",
+    "correct_word": "armchair",
+    "options": [
+     "bathtub",
+     "oven",
+     "bookshelf",
+     "armchair"
+    ]
+   },
+   {
+    "sentence_with_blank": "He looked ___ the mirror and smiled.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "to",
+     "with",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful! You will ___ the mirror.",
+    "correct_word": "break",
+    "options": [
+     "eat",
+     "break",
+     "read",
+     "spend"
+    ]
+   },
+   {
+    "sentence_with_blank": "Her coat is hanging on the back ___ the chair.",
+    "correct_word": "of",
+    "options": [
+     "at",
+     "to",
+     "of",
+     "in"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Grandpa's Armchair",
+   "text": "There is an old armchair in our living room. It is Grandpa's favourite chair. It is very comfortable, and he reads his newspaper in it every evening. Next to the armchair there is a big mirror on the wall. When I was small, I looked in the mirror and made funny faces. Last week I pulled up a folding chair and sat next to Grandpa. He told me a story about his school.",
+   "key_words": [
+    {
+     "word": "armchair",
+     "translation_uz": "kreslo"
+    },
+    {
+     "word": "newspaper",
+     "translation_uz": "gazeta"
+    },
+    {
+     "word": "funny",
+     "translation_uz": "kulgili"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Grandpa do in his armchair?",
+     "options": [
+      "He watches football",
+      "He reads his newspaper",
+      "He cooks dinner",
+      "He paints pictures"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is the mirror?",
+     "options": [
+      "On the wall next to the armchair",
+      "In the kitchen",
+      "Behind the door",
+      "In the garden"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the writer sit on last week?",
+     "options": [
+      "The sofa",
+      "The floor",
+      "A bed",
+      "A folding chair"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A New Room",
+   "script": "I have a new room. There is a desk and a comfortable chair by the window. I got a full-length mirror for my birthday, and it is on the wall next to the door. Every morning I look in the mirror before school. Yesterday my little brother broke a small mirror, but he was not hurt. Mum was not angry.",
+   "questions": [
+    {
+     "question": "Where is the full-length mirror?",
+     "options": [
+      "Under the bed",
+      "On the desk",
+      "On the wall next to the door",
+      "Behind the chair"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When does the speaker look in the mirror?",
+     "options": [
+      "Every morning before school",
+      "Every night",
+      "Only on Sundays",
+      "After lunch"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who broke a small mirror?",
+     "options": [
+      "Mum",
+      "The speaker's little brother",
+      "The speaker",
+      "A friend"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Sit on this chair.",
+    "Look in the mirror.",
+    "A big mirror is on the wall."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "Do you have a mirror in your room?",
+    "hint_words": [
+     "yes",
+     "no",
+     "big",
+     "wall"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "What is your favourite chair at home?",
+    "hint_words": [
+     "armchair",
+     "comfortable",
+     "kitchen",
+     "sofa"
+    ]
+   },
+   {
+    "topic": "Morning",
+    "question_text": "Do you look in the mirror in the morning?",
+    "hint_words": [
+     "yes",
+     "hair",
+     "face",
+     "every day"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 20,
+  "title": "bed",
+  "vocabulary": [
+   {
+    "word": "make the bed",
+    "translation_uz": "yotoqni tuzatmoq",
+    "example_sentence": "I make my bed every morning."
+   },
+   {
+    "word": "go to bed",
+    "translation_uz": "uxlash uchun yotmoq",
+    "example_sentence": "The children go to bed at nine."
+   },
+   {
+    "word": "get into bed",
+    "translation_uz": "yotoqqa kirmoq",
+    "example_sentence": "He got into bed and closed his eyes."
+   },
+   {
+    "word": "get out of bed",
+    "translation_uz": "yotoqdan turmoq",
+    "example_sentence": "It is hard to get out of bed on Monday."
+   },
+   {
+    "word": "stay in bed",
+    "translation_uz": "yotoqda qolmoq",
+    "example_sentence": "She has a cold, so she is staying in bed."
+   },
+   {
+    "word": "lie in bed",
+    "translation_uz": "yotoqda yotmoq",
+    "example_sentence": "I like to lie in bed and read."
+   },
+   {
+    "word": "in bed",
+    "translation_uz": "yotoqda",
+    "example_sentence": "The baby is already in bed."
+   },
+   {
+    "word": "a single bed",
+    "translation_uz": "bir kishilik karavot",
+    "example_sentence": "My room has a single bed."
+   },
+   {
+    "word": "a double bed",
+    "translation_uz": "ikki kishilik karavot",
+    "example_sentence": "Mum and Dad have a double bed."
+   },
+   {
+    "word": "bunk beds",
+    "translation_uz": "ikki qavatli karavot",
+    "example_sentence": "My brother and I sleep in bunk beds."
+   },
+   {
+    "word": "a bed and breakfast",
+    "translation_uz": "yotoq va nonushta beriladigan mehmonxona",
+    "example_sentence": "We stayed at a bed and breakfast by the sea."
+   },
+   {
+    "word": "wet the bed",
+    "translation_uz": "(bola) yotoqni ho'l qilmoq",
+    "example_sentence": "Little Sam sometimes wets the bed."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ your bed before you go to school.",
+    "correct_word": "make",
+    "options": [
+     "make",
+     "do",
+     "build",
+     "paint"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is late. Time to go ___ bed.",
+    "correct_word": "to",
+    "options": [
+     "in",
+     "to",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "I was very tired, so I got ___ bed early.",
+    "correct_word": "into",
+    "options": [
+     "through",
+     "above",
+     "into",
+     "between"
+    ]
+   },
+   {
+    "sentence_with_blank": "She is ill, so she must ___ in bed today.",
+    "correct_word": "stay",
+    "options": [
+     "jump",
+     "run",
+     "play",
+     "stay"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother and I have bunk ___ in our room.",
+    "correct_word": "beds",
+    "options": [
+     "beds",
+     "chairs",
+     "doors",
+     "shelves"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is cold and I do not want to get ___ of bed.",
+    "correct_word": "out",
+    "options": [
+     "off",
+     "out",
+     "up to",
+     "away"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Morning Routine",
+   "text": "Every morning my alarm rings at seven o'clock. It is hard to get out of bed, but I do it. First I make my bed. My brother and I have bunk beds, so I make the top bed and he makes the bottom one. At night I go to bed at nine. Last winter I had a cold and I stayed in bed for three days. Mum brought me soup and tea.",
+   "key_words": [
+    {
+     "word": "bunk beds",
+     "translation_uz": "ikki qavatli karavot"
+    },
+    {
+     "word": "alarm",
+     "translation_uz": "budilnik"
+    },
+    {
+     "word": "cold",
+     "translation_uz": "shamollash"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the alarm ring?",
+     "options": [
+      "At six o'clock",
+      "At nine o'clock",
+      "At seven o'clock",
+      "At eight o'clock"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which bed does the writer make?",
+     "options": [
+      "The top bed",
+      "The bottom bed",
+      "Mum's bed",
+      "The sofa bed"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long did the writer stay in bed last winter?",
+     "options": [
+      "One day",
+      "A week",
+      "Two days",
+      "Three days"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Staying with Aunt Dilya",
+   "script": "Last summer I stayed with my aunt in a small bed and breakfast. My room had a single bed and a big window. Every morning I got out of bed at eight and made the bed. My aunt cooked eggs for breakfast. In the evening I got into bed and read a book. My cousin slept in the next room.",
+   "questions": [
+    {
+     "question": "What kind of place did the speaker stay in?",
+     "options": [
+      "A big hotel",
+      "A bed and breakfast",
+      "A tent",
+      "A school"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was in the room?",
+     "options": [
+      "A single bed",
+      "Bunk beds",
+      "A double bed",
+      "A sofa only"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the aunt cook for breakfast?",
+     "options": [
+      "Pancakes",
+      "Soup",
+      "Eggs",
+      "Rice"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I make my bed.",
+    "Go to bed now.",
+    "He stays in bed."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Routine",
+    "question_text": "What time do you go to bed?",
+    "hint_words": [
+     "at nine",
+     "at ten",
+     "night",
+     "tired"
+    ]
+   },
+   {
+    "topic": "Routine",
+    "question_text": "Do you make your bed every day?",
+    "hint_words": [
+     "yes",
+     "sometimes",
+     "never",
+     "morning"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you sleep in a single bed or a double bed?",
+    "hint_words": [
+     "single",
+     "double",
+     "bunk beds",
+     "my own"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 21,
+  "title": "sheet, blanket, pillow, mattress, wardrobe, alarm, curtains",
+  "vocabulary": [
+   {
+    "word": "change the sheets",
+    "translation_uz": "choyshablarni almashtirmoq",
+    "example_sentence": "Mum changes the sheets on Saturday."
+   },
+   {
+    "word": "a clean sheet",
+    "translation_uz": "toza choyshab",
+    "example_sentence": "I put a clean sheet on the bed."
+   },
+   {
+    "word": "a sheet of paper",
+    "translation_uz": "bir varaq qog'oz",
+    "example_sentence": "Give me a sheet of paper, please."
+   },
+   {
+    "word": "an electric blanket",
+    "translation_uz": "elektr ko'rpa",
+    "example_sentence": "In winter I use an electric blanket."
+   },
+   {
+    "word": "wrap in a blanket",
+    "translation_uz": "ko'rpaga o'ramoq",
+    "example_sentence": "She wrapped the baby in a blanket."
+   },
+   {
+    "word": "a soft pillow",
+    "translation_uz": "yumshoq yostiq",
+    "example_sentence": "I like a soft pillow."
+   },
+   {
+    "word": "a pillow fight",
+    "translation_uz": "yostiq bilan urishish o'yini",
+    "example_sentence": "We had a pillow fight at the party."
+   },
+   {
+    "word": "a hard mattress",
+    "translation_uz": "qattiq matras",
+    "example_sentence": "A hard mattress is good for your back."
+   },
+   {
+    "word": "hang clothes in the wardrobe",
+    "translation_uz": "kiyimni shkafga osmoq",
+    "example_sentence": "He hangs his shirts in the wardrobe."
+   },
+   {
+    "word": "set the alarm",
+    "translation_uz": "budilnikni qo'ymoq",
+    "example_sentence": "I set the alarm for six o'clock."
+   },
+   {
+    "word": "the alarm goes off",
+    "translation_uz": "budilnik jiringlamoq",
+    "example_sentence": "The alarm goes off at seven."
+   },
+   {
+    "word": "open the curtains",
+    "translation_uz": "pardalarni ochmoq",
+    "example_sentence": "Open the curtains and let in the sun."
+   },
+   {
+    "word": "draw the curtains",
+    "translation_uz": "pardalarni yopmoq",
+    "example_sentence": "She drew the curtains at night."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I need to ___ the alarm for six o'clock.",
+    "correct_word": "set",
+    "options": [
+     "set",
+     "wear",
+     "stir",
+     "bake"
+    ]
+   },
+   {
+    "sentence_with_blank": "The alarm ___ off and I woke up.",
+    "correct_word": "went",
+    "options": [
+     "fell",
+     "went",
+     "dropped",
+     "gave"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the curtains. It is too dark in here.",
+    "correct_word": "open",
+    "options": [
+     "eat",
+     "kick",
+     "open",
+     "feed"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the party, we had a pillow ___.",
+    "correct_word": "fight",
+    "options": [
+     "race",
+     "bath",
+     "lesson",
+     "fight"
+    ]
+   },
+   {
+    "sentence_with_blank": "The baby was ___ in a warm blanket.",
+    "correct_word": "wrapped",
+    "options": [
+     "wrapped",
+     "cut",
+     "drawn",
+     "spoken"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum is going to ___ the sheets today.",
+    "correct_word": "change",
+    "options": [
+     "lose",
+     "change",
+     "visit",
+     "invite"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Cold Night",
+   "text": "Last night it was very cold. I put on a warm blanket and a soft pillow was under my head. My old mattress is hard, but I like it. I set the alarm for six o'clock because we had an early train. Before bed I drew the curtains, and my clothes were in the wardrobe. In the morning the alarm went off and I jumped out of bed. We were not late.",
+   "key_words": [
+    {
+     "word": "mattress",
+     "translation_uz": "matras"
+    },
+    {
+     "word": "train",
+     "translation_uz": "poyezd"
+    },
+    {
+     "word": "jumped",
+     "translation_uz": "sakradi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer set the alarm for six o'clock?",
+     "options": [
+      "They had a test",
+      "They had a party",
+      "They had a visit",
+      "They had an early train"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the mattress like?",
+     "options": [
+      "Hard",
+      "Soft",
+      "Wet",
+      "New"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened in the morning?",
+     "options": [
+      "It rained",
+      "The alarm went off",
+      "The wardrobe broke",
+      "Dad came home"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Packing for Camp",
+   "script": "Tomorrow I am going to summer camp. I took my clothes from the wardrobe and put them in a bag. I also packed a thin blanket and a small pillow. The camp has beds with hard mattresses. Mum gave me a new alarm clock. I will set it for seven every morning. At camp we open the curtains early and have breakfast at eight.",
+   "questions": [
+    {
+     "question": "Where did the speaker take the clothes from?",
+     "options": [
+      "The drawer",
+      "The suitcase",
+      "The wardrobe",
+      "The kitchen"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did Mum give the speaker?",
+     "options": [
+      "A new alarm clock",
+      "A new blanket",
+      "A new pillow",
+      "A new bag"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What time will the alarm be set for?",
+     "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Set the alarm.",
+    "Open the curtains.",
+    "I need a soft pillow."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Bedroom",
+    "question_text": "Do you use a blanket at night?",
+    "hint_words": [
+     "yes",
+     "warm",
+     "winter",
+     "no"
+    ]
+   },
+   {
+    "topic": "Bedroom",
+    "question_text": "What time do you set your alarm?",
+    "hint_words": [
+     "at six",
+     "at seven",
+     "school",
+     "early"
+    ]
+   },
+   {
+    "topic": "Bedroom",
+    "question_text": "Do you have curtains in your room?",
+    "hint_words": [
+     "yes",
+     "blue",
+     "windows",
+     "dark"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 22,
+  "title": "bath, shower",
+  "vocabulary": [
+   {
+    "word": "have a bath",
+    "translation_uz": "vannada cho'milmoq",
+    "example_sentence": "I like to have a bath before bed."
+   },
+   {
+    "word": "take a bath",
+    "translation_uz": "vannada cho'milmoq (amerikancha)",
+    "example_sentence": "Dad takes a bath on Sundays."
+   },
+   {
+    "word": "run a bath",
+    "translation_uz": "vannaga suv to'ldirmoq",
+    "example_sentence": "Mum ran a bath for the baby."
+   },
+   {
+    "word": "a hot bath",
+    "translation_uz": "issiq vanna",
+    "example_sentence": "A hot bath is good after sport."
+   },
+   {
+    "word": "bubble bath",
+    "translation_uz": "ko'pikli vanna",
+    "example_sentence": "We love a bubble bath."
+   },
+   {
+    "word": "a bath towel",
+    "translation_uz": "vanna sochig'i",
+    "example_sentence": "Take a clean bath towel."
+   },
+   {
+    "word": "have a shower",
+    "translation_uz": "dush qabul qilmoq",
+    "example_sentence": "I have a shower every morning."
+   },
+   {
+    "word": "take a shower",
+    "translation_uz": "dush olmoq",
+    "example_sentence": "He took a quick shower after football."
+   },
+   {
+    "word": "be in the shower",
+    "translation_uz": "dushda bo'lmoq",
+    "example_sentence": "Don't call me now. I'm in the shower."
+   },
+   {
+    "word": "a cold shower",
+    "translation_uz": "sovuq dush",
+    "example_sentence": "A cold shower wakes you up."
+   },
+   {
+    "word": "turn on the shower",
+    "translation_uz": "dushni yoqmoq",
+    "example_sentence": "Turn on the shower and wait a minute."
+   },
+   {
+    "word": "a shower of rain",
+    "translation_uz": "qisqa yomg'ir",
+    "example_sentence": "We got wet in a shower of rain."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I usually ___ a shower in the morning.",
+    "correct_word": "have",
+    "options": [
+     "have",
+     "make",
+     "hold",
+     "carry"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum is going to ___ a bath for the baby.",
+    "correct_word": "run",
+    "options": [
+     "jump",
+     "run",
+     "grow",
+     "type"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please do not open the door. She is ___ the shower.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "from",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "After a long run, I like a cold ___.",
+    "correct_word": "shower",
+    "options": [
+     "breakfast",
+     "homework",
+     "letter",
+     "shower"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was tired, so he had a hot ___ and went to bed.",
+    "correct_word": "bath",
+    "options": [
+     "bath",
+     "lunch",
+     "game",
+     "song"
+    ]
+   },
+   {
+    "sentence_with_blank": "Turn ___ the shower and wait for the water to get warm.",
+    "correct_word": "on",
+    "options": [
+     "at",
+     "on",
+     "into",
+     "of"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Bath Time",
+   "text": "My little brother loves bath time. Mum runs a hot bath and puts in some bubble bath. He plays with his toy boat for twenty minutes. I do not like baths very much. I usually take a quick shower in the morning. Yesterday I was in the shower when the phone rang. I came out and my hair was still wet. Then I dried it with a clean towel.",
+   "key_words": [
+    {
+     "word": "bubble bath",
+     "translation_uz": "ko'pikli vanna"
+    },
+    {
+     "word": "toy boat",
+     "translation_uz": "o'yinchoq kema"
+    },
+    {
+     "word": "dried",
+     "translation_uz": "quritdi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the little brother play with in the bath?",
+     "options": [
+      "A ball",
+      "A toy boat",
+      "A fish",
+      "A book"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When does the writer usually take a shower?",
+     "options": [
+      "In the morning",
+      "At night",
+      "After lunch",
+      "Before dinner"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened yesterday?",
+     "options": [
+      "The shower broke",
+      "Mum ran a cold bath",
+      "The brother fell",
+      "The phone rang while the writer was in the shower"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "After Football",
+   "script": "After football practice, we are always dirty. Our coach says, \"Everybody, have a shower!\" The water is sometimes cold, and I do not like that. At home I prefer a hot bath. My sister takes a bubble bath on Fridays. She stays in the bath for half an hour. I think that is too long.",
+   "questions": [
+    {
+     "question": "What does the coach tell the players to do?",
+     "options": [
+      "Run again",
+      "Go home",
+      "Have a shower",
+      "Play a game"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the speaker prefer at home?",
+     "options": [
+      "A hot bath",
+      "A cold shower",
+      "A swim",
+      "Nothing"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When does the sister take a bubble bath?",
+     "options": [
+      "On Mondays",
+      "On Fridays",
+      "Every day",
+      "On Sundays"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I have a shower.",
+    "Run a hot bath.",
+    "She takes a bath."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Routine",
+    "question_text": "Do you prefer a bath or a shower?",
+    "hint_words": [
+     "bath",
+     "shower",
+     "hot",
+     "quick"
+    ]
+   },
+   {
+    "topic": "Routine",
+    "question_text": "When do you have a shower?",
+    "hint_words": [
+     "morning",
+     "evening",
+     "after sport",
+     "every day"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you like bubble baths?",
+    "hint_words": [
+     "yes",
+     "no",
+     "soap",
+     "fun"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 23,
+  "title": "towel, toilet",
+  "vocabulary": [
+   {
+    "word": "dry yourself with a towel",
+    "translation_uz": "sochiq bilan quritinmoq",
+    "example_sentence": "He dried himself with a towel."
+   },
+   {
+    "word": "a clean towel",
+    "translation_uz": "toza sochiq",
+    "example_sentence": "Take a clean towel from the shelf."
+   },
+   {
+    "word": "a bath towel",
+    "translation_uz": "katta vanna sochig'i",
+    "example_sentence": "The bath towel is blue."
+   },
+   {
+    "word": "a beach towel",
+    "translation_uz": "plyaj sochig'i",
+    "example_sentence": "Don't forget your beach towel."
+   },
+   {
+    "word": "a tea towel",
+    "translation_uz": "idish artish sochig'i",
+    "example_sentence": "Dry the cups with a tea towel."
+   },
+   {
+    "word": "throw in the towel",
+    "translation_uz": "taslim bo'lmoq (ibora)",
+    "example_sentence": "The game was hard, but he did not throw in the towel."
+   },
+   {
+    "word": "go to the toilet",
+    "translation_uz": "hojatxonaga bormoq",
+    "example_sentence": "Can I go to the toilet, please?"
+   },
+   {
+    "word": "flush the toilet",
+    "translation_uz": "hojatxona suvini tushirmoq",
+    "example_sentence": "Please flush the toilet."
+   },
+   {
+    "word": "a toilet seat",
+    "translation_uz": "hojatxona o'rindig'i",
+    "example_sentence": "Put the toilet seat down."
+   },
+   {
+    "word": "toilet paper",
+    "translation_uz": "hojatxona qog'ozi",
+    "example_sentence": "We need to buy toilet paper."
+   },
+   {
+    "word": "a public toilet",
+    "translation_uz": "jamoat hojatxonasi",
+    "example_sentence": "There is a public toilet in the park."
+   },
+   {
+    "word": "a toilet roll",
+    "translation_uz": "hojatxona qog'ozi rulosi",
+    "example_sentence": "The toilet roll is empty."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "After swimming, she ___ herself with a towel.",
+    "correct_word": "dried",
+    "options": [
+     "dried",
+     "painted",
+     "carried",
+     "filled"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I ___ to the toilet, please?",
+    "correct_word": "go",
+    "options": [
+     "stay",
+     "go",
+     "make",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the toilet after you use it.",
+    "correct_word": "flush",
+    "options": [
+     "cook",
+     "bake",
+     "flush",
+     "catch"
+    ]
+   },
+   {
+    "sentence_with_blank": "Take your beach ___ to the sea.",
+    "correct_word": "towel",
+    "options": [
+     "window",
+     "glass",
+     "clock",
+     "towel"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ran out of toilet ___.",
+    "correct_word": "paper",
+    "options": [
+     "paper",
+     "cheese",
+     "shirt",
+     "water"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is there a public ___ in this park?",
+    "correct_word": "toilet",
+    "options": [
+     "swimming",
+     "toilet",
+     "library",
+     "engine"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day at the Beach",
+   "text": "On Saturday we went to the beach. I took my beach towel and my sunglasses. After I swam, I dried myself with the towel and sat in the sun. My little sister needed to go to the toilet, so we looked for a public toilet. It was near the cafe. Then Dad washed his hands and dried them with a clean towel. We ate ice cream and went home at six.",
+   "key_words": [
+    {
+     "word": "sunglasses",
+     "translation_uz": "quyosh ko'zoynagi"
+    },
+    {
+     "word": "public toilet",
+     "translation_uz": "jamoat hojatxonasi"
+    },
+    {
+     "word": "ice cream",
+     "translation_uz": "muzqaymoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer take to the beach?",
+     "options": [
+      "A football",
+      "A tea towel",
+      "A beach towel and sunglasses",
+      "A tent"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where was the public toilet?",
+     "options": [
+      "Near the cafe",
+      "Near the sea",
+      "Behind the car",
+      "Next to the shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What time did the family go home?",
+     "options": [
+      "At five",
+      "At six",
+      "At seven",
+      "At four"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Sports Hall",
+   "script": "Our school sports hall has a big changing room. After the lesson, we put our wet towels in a bag. A teacher always says, \"Go to the toilet before the next lesson.\" There is a clean tea towel in the kitchen for the cups. Last week our team lost, but the coach said, \"Never throw in the towel!\" We want to win next time.",
+   "questions": [
+    {
+     "question": "Where do students put their wet towels?",
+     "options": [
+      "On the floor",
+      "In the toilet",
+      "On a chair",
+      "In a bag"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the teacher say before the next lesson?",
+     "options": [
+      "Go to the toilet",
+      "Play football",
+      "Wash the cups",
+      "Open a window"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the coach say after the lost game?",
+     "options": [
+      "Go home",
+      "Never throw in the towel",
+      "You are slow",
+      "Buy a new ball"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Take a clean towel.",
+    "Flush the toilet.",
+    "Dry your hands."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Beach",
+    "question_text": "What do you take to the beach?",
+    "hint_words": [
+     "towel",
+     "sunglasses",
+     "water",
+     "ball"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Where do you keep your towels?",
+    "hint_words": [
+     "bathroom",
+     "shelf",
+     "cupboard",
+     "hook"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Is there a toilet near your classroom?",
+    "hint_words": [
+     "yes",
+     "no",
+     "corridor",
+     "next to"
+    ]
+   }
+  ]
+ }
+]

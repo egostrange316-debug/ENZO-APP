@@ -1,0 +1,1871 @@
+[
+ {
+  "unit": 142,
+  "title": "crime and criminal",
+  "vocabulary": [
+   {
+    "word": "commit a crime",
+    "translation_uz": "jinoyat sodir etmoq",
+    "example_sentence": "It is a serious matter to commit a crime."
+   },
+   {
+    "word": "a serious crime",
+    "translation_uz": "og'ir jinoyat",
+    "example_sentence": "Theft of a car is a serious crime."
+   },
+   {
+    "word": "a violent crime",
+    "translation_uz": "zo'ravonlik bilan jinoyat",
+    "example_sentence": "The town has very few violent crimes."
+   },
+   {
+    "word": "petty crime",
+    "translation_uz": "mayda jinoyat",
+    "example_sentence": "Petty crime, like stealing sweets, still hurts shop owners."
+   },
+   {
+    "word": "organised crime",
+    "translation_uz": "uyushgan jinoyat",
+    "example_sentence": "Special police units fight organised crime."
+   },
+   {
+    "word": "crime rate",
+    "translation_uz": "jinoyatchilik darajasi",
+    "example_sentence": "The crime rate in our area has fallen."
+   },
+   {
+    "word": "crime prevention",
+    "translation_uz": "jinoyatning oldini olish",
+    "example_sentence": "Street lights help with crime prevention."
+   },
+   {
+    "word": "fight crime",
+    "translation_uz": "jinoyatchilikka qarshi kurashmoq",
+    "example_sentence": "The police fight crime every day."
+   },
+   {
+    "word": "report a crime",
+    "translation_uz": "jinoyat haqida xabar bermoq",
+    "example_sentence": "If you see a crime, report it to the police."
+   },
+   {
+    "word": "a crime against someone",
+    "translation_uz": "kimgadir qarshi jinoyat",
+    "example_sentence": "Stealing is a crime against the owner."
+   },
+   {
+    "word": "a criminal",
+    "translation_uz": "jinoyatchi",
+    "example_sentence": "The police caught a criminal last night."
+   },
+   {
+    "word": "a criminal record",
+    "translation_uz": "sudlanganlik (jinoiy yozuv)",
+    "example_sentence": "He has no criminal record."
+   },
+   {
+    "word": "criminal behaviour",
+    "translation_uz": "jinoiy xatti-harakat",
+    "example_sentence": "The school does not accept any criminal behaviour."
+   },
+   {
+    "word": "criminal law",
+    "translation_uz": "jinoyat qonuni",
+    "example_sentence": "She is studying criminal law."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is wrong to ___ a crime, even a small one.",
+    "correct_word": "commit",
+    "options": [
+     "commit",
+     "make",
+     "do",
+     "take",
+     "fight"
+    ]
+   },
+   {
+    "sentence_with_blank": "The police work hard to ___ crime in the city.",
+    "correct_word": "fight",
+    "options": [
+     "fight",
+     "grow",
+     "watch",
+     "order",
+     "point"
+    ]
+   },
+   {
+    "sentence_with_blank": "If you see a crime, you should ___ it to the police.",
+    "correct_word": "report",
+    "options": [
+     "report",
+     "bring",
+     "hand",
+     "point",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "The town's crime ___ went down last year.",
+    "correct_word": "rate",
+    "options": [
+     "rate",
+     "speed",
+     "price",
+     "weight",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "Stealing is a crime ___ the shop owner.",
+    "correct_word": "against",
+    "options": [
+     "against",
+     "to",
+     "for",
+     "by",
+     "report"
+    ]
+   },
+   {
+    "sentence_with_blank": "The man had no criminal ___ before this case.",
+    "correct_word": "record",
+    "options": [
+     "record",
+     "list",
+     "paper",
+     "name",
+     "weight"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Safer Streets",
+   "text": "Last year the crime rate in the town of Eastbrook was one of the highest in the region. Most offences were petty crime, such as taking bicycles, but a few were more serious. The council decided to take action. It put new lights in dark streets and asked residents to report any crime they saw. Police also visited schools to talk about crime prevention. A year later, the crime rate fell by twenty per cent. The mayor said that people had worked together to fight crime, and she thanked everyone who helped.",
+   "key_words": [
+    {
+     "word": "region",
+     "translation_uz": "hudud, viloyat"
+    },
+    {
+     "word": "resident",
+     "translation_uz": "aholi, yashovchi"
+    },
+    {
+     "word": "council",
+     "translation_uz": "kengash"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of crime was most common in Eastbrook?",
+     "options": [
+      "Petty crime",
+      "Violent crime",
+      "Organised crime",
+      "No crime"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the council put in dark streets?",
+     "options": [
+      "New police cars",
+      "Large signs",
+      "New lights",
+      "Cameras in houses"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How much did the crime rate fall?",
+     "options": [
+      "By two per cent",
+      "By twenty per cent",
+      "By fifty per cent",
+      "By one per cent"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Visit from the Police",
+   "script": "Officer: Hello, everyone. Today I want to talk about crime and how we can prevent it. Most crimes in our area are small, like taking things from unlocked cars. Pupil: What should we do if we see a crime? Officer: Stay safe and tell an adult, then report it to the police. Never try to catch a criminal yourself. Pupil: Is crime increasing? Officer: No, the crime rate is going down, and that is good news. But we still need your help.",
+   "questions": [
+    {
+     "question": "What is the most common crime in the area?",
+     "options": [
+      "Violent crimes",
+      "Crimes at school",
+      "Crimes at sea",
+      "Small crimes like taking things from cars"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What should a pupil do after seeing a crime?",
+     "options": [
+      "Tell an adult and report it",
+      "Chase the criminal",
+      "Ignore it",
+      "Post a picture online"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is happening to the crime rate?",
+     "options": [
+      "It is going up",
+      "It is going down",
+      "It stays the same",
+      "Nobody knows"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Please report any crime.",
+    "The crime rate is falling.",
+    "Never chase a criminal yourself."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Crime",
+    "question_text": "How can people prevent crime in a town?",
+    "hint_words": [
+     "lights",
+     "police",
+     "report",
+     "safe"
+    ]
+   },
+   {
+    "topic": "Crime",
+    "question_text": "Is your area safe? Why?",
+    "hint_words": [
+     "safe",
+     "quiet",
+     "people",
+     "police"
+    ]
+   },
+   {
+    "topic": "Crime",
+    "question_text": "What should you do if you lose something valuable?",
+    "hint_words": [
+     "tell",
+     "police",
+     "look",
+     "ask"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 143,
+  "title": "offence, offender and victim",
+  "vocabulary": [
+   {
+    "word": "commit an offence",
+    "translation_uz": "huquqbuzarlik sodir etmoq",
+    "example_sentence": "Driving too fast is an offence."
+   },
+   {
+    "word": "a minor offence",
+    "translation_uz": "kichik huquqbuzarlik",
+    "example_sentence": "Dropping litter is a minor offence."
+   },
+   {
+    "word": "a serious offence",
+    "translation_uz": "og'ir huquqbuzarlik",
+    "example_sentence": "Stealing from a shop is a serious offence."
+   },
+   {
+    "word": "a criminal offence",
+    "translation_uz": "jinoiy huquqbuzarlik",
+    "example_sentence": "Damaging a car on purpose is a criminal offence."
+   },
+   {
+    "word": "a traffic offence",
+    "translation_uz": "yo'l harakati qoidasini buzish",
+    "example_sentence": "He paid a fine for a traffic offence."
+   },
+   {
+    "word": "a first offence",
+    "translation_uz": "birinchi marta sodir etilgan huquqbuzarlik",
+    "example_sentence": "It was his first offence, so the judge was kind."
+   },
+   {
+    "word": "take offence at something",
+    "translation_uz": "biror narsadan xafa bo'lmoq",
+    "example_sentence": "She took offence at the rude joke."
+   },
+   {
+    "word": "an offender",
+    "translation_uz": "huquqbuzar",
+    "example_sentence": "Young offenders often receive special help."
+   },
+   {
+    "word": "a repeat offender",
+    "translation_uz": "takroriy huquqbuzar",
+    "example_sentence": "A repeat offender may receive a stronger punishment."
+   },
+   {
+    "word": "a young offender",
+    "translation_uz": "voyaga yetmagan huquqbuzar",
+    "example_sentence": "A young offender can learn from his mistake."
+   },
+   {
+    "word": "a victim",
+    "translation_uz": "jabrlanuvchi",
+    "example_sentence": "The victim of the theft was a young woman."
+   },
+   {
+    "word": "the victim of a crime",
+    "translation_uz": "jinoyat qurboni",
+    "example_sentence": "The victim of the crime was given advice."
+   },
+   {
+    "word": "fall victim to something",
+    "translation_uz": "biror narsaning qurboniga aylanmoq",
+    "example_sentence": "Many tourists fall victim to pickpockets."
+   },
+   {
+    "word": "victim support",
+    "translation_uz": "jabrlanuvchilarni qo'llab-quvvatlash",
+    "example_sentence": "Victim support offers help and advice."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Driving without a seat belt is a traffic ___.",
+    "correct_word": "offence",
+    "options": [
+     "offence",
+     "mistake",
+     "fault",
+     "damage",
+     "offender"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was a first-time ___, so the judge gave him a warning.",
+    "correct_word": "offender",
+    "options": [
+     "offender",
+     "offend",
+     "offence",
+     "offended",
+     "minor"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful, or you may fall ___ to a pickpocket.",
+    "correct_word": "victim",
+    "options": [
+     "victim",
+     "ill",
+     "loss",
+     "case",
+     "support"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dropping a small piece of paper is only a ___ offence.",
+    "correct_word": "minor",
+    "options": [
+     "minor",
+     "tiny",
+     "short",
+     "low",
+     "damage"
+    ]
+   },
+   {
+    "sentence_with_blank": "She took ___ at the unkind comment.",
+    "correct_word": "offence",
+    "options": [
+     "offence",
+     "anger",
+     "sorry",
+     "trouble",
+     "minor"
+    ]
+   },
+   {
+    "sentence_with_blank": "Victim ___ gives help to people after a crime.",
+    "correct_word": "support",
+    "options": [
+     "support",
+     "hold",
+     "carry",
+     "stand",
+     "trouble"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Learning from a Mistake",
+   "text": "Jake is sixteen. Last spring he drew pictures on the wall of a railway station with friends. It was his first offence, but it was still a criminal offence because the wall belonged to the railway company. The police spoke to Jake, and he met a worker from the company, who was the victim of the damage. She explained how much it cost to clean the wall. Jake felt sorry and agreed to help clean it. He was not a repeat offender, and he never did it again. Today he talks to other young people about what he learned.",
+   "key_words": [
+    {
+     "word": "damage",
+     "translation_uz": "zarar, shikast"
+    },
+    {
+     "word": "clean",
+     "translation_uz": "tozalamoq"
+    },
+    {
+     "word": "belonged to",
+     "translation_uz": "qarashli edi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was it a criminal offence?",
+     "options": [
+      "It was night time",
+      "The paint was red",
+      "The wall belonged to the railway company",
+      "Jake was too tall"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who explained the cost of the damage?",
+     "options": [
+      "A worker from the company",
+      "A teacher",
+      "A judge",
+      "A police dog"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Jake do today?",
+     "options": [
+      "He paints houses",
+      "He talks to other young people",
+      "He works in a bank",
+      "He plays football for money"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "News Report",
+   "script": "Newsreader: Police in the town of Millbrook say a thirty-year-old man has been given a fine for a traffic offence. He drove through a red light near the school. No one was hurt, but the police say this is a serious offence because many children cross the road there. A police officer said the driver was a repeat offender, with two earlier offences this year. A local group, called Road Victim Support, will give a talk at the school on Friday about road safety.",
+   "questions": [
+    {
+     "question": "What did the driver do?",
+     "options": [
+      "Stopped too early",
+      "Lost his licence",
+      "Hit a wall",
+      "Drove through a red light"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why is the offence serious?",
+     "options": [
+      "Many children cross the road there",
+      "It was very late",
+      "The road is long",
+      "It was raining"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will happen on Friday?",
+     "options": [
+      "A football game",
+      "A trial",
+      "A road safety talk at the school",
+      "A concert"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "It was a minor offence.",
+    "He is a repeat offender.",
+    "The victim received support."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Offences",
+    "question_text": "What is a minor offence at school?",
+    "hint_words": [
+     "late",
+     "litter",
+     "rules",
+     "phone"
+    ]
+   },
+   {
+    "topic": "Offences",
+    "question_text": "Why do some people take offence easily?",
+    "hint_words": [
+     "words",
+     "feel",
+     "rude",
+     "angry"
+    ]
+   },
+   {
+    "topic": "Offences",
+    "question_text": "How can we help the victim of a crime?",
+    "hint_words": [
+     "listen",
+     "support",
+     "kind",
+     "police"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 144,
+  "title": "arrest and charge (criminal)",
+  "vocabulary": [
+   {
+    "word": "arrest someone",
+    "translation_uz": "kimnidir hibsga olmoq",
+    "example_sentence": "The police arrested a man outside the bank."
+   },
+   {
+    "word": "be arrested",
+    "translation_uz": "hibsga olinmoq",
+    "example_sentence": "Two people were arrested last night."
+   },
+   {
+    "word": "make an arrest",
+    "translation_uz": "hibsga olish amalga oshirmoq",
+    "example_sentence": "Officers made an arrest at the station."
+   },
+   {
+    "word": "under arrest",
+    "translation_uz": "hibsga olingan",
+    "example_sentence": "You are under arrest, the officer said."
+   },
+   {
+    "word": "be arrested for something",
+    "translation_uz": "biror narsa uchun hibsga olinmoq",
+    "example_sentence": "He was arrested for stealing a bicycle."
+   },
+   {
+    "word": "resist arrest",
+    "translation_uz": "hibsga olishga qarshilik qilmoq",
+    "example_sentence": "It is an offence to resist arrest."
+   },
+   {
+    "word": "arrest warrant",
+    "translation_uz": "hibsga olish orderi",
+    "example_sentence": "The court issued an arrest warrant."
+   },
+   {
+    "word": "charge someone with something",
+    "translation_uz": "kimnidir ayblamoq (rasman)",
+    "example_sentence": "The police charged him with theft."
+   },
+   {
+    "word": "be charged with",
+    "translation_uz": "...da ayblanmoq",
+    "example_sentence": "She was charged with driving without a licence."
+   },
+   {
+    "word": "face a charge",
+    "translation_uz": "ayblovga duch kelmoq",
+    "example_sentence": "He faces a charge of causing damage."
+   },
+   {
+    "word": "a serious charge",
+    "translation_uz": "og'ir ayblov",
+    "example_sentence": "Fraud is a serious charge."
+   },
+   {
+    "word": "drop the charges",
+    "translation_uz": "ayblovlarni bekor qilmoq",
+    "example_sentence": "They dropped the charges when new facts appeared."
+   },
+   {
+    "word": "a criminal charge",
+    "translation_uz": "jinoiy ayblov",
+    "example_sentence": "He faces a criminal charge."
+   },
+   {
+    "word": "be released without charge",
+    "translation_uz": "ayblovsiz ozod qilinmoq",
+    "example_sentence": "The woman was released without charge."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The police ___ a man for breaking into a shop.",
+    "correct_word": "arrested",
+    "options": [
+     "arrested",
+     "opened",
+     "invited",
+     "paid",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was charged ___ theft.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "for",
+     "by",
+     "of",
+     "police"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is a crime to resist ___.",
+    "correct_word": "arrest",
+    "options": [
+     "arrest",
+     "catch",
+     "court",
+     "police",
+     "fell"
+    ]
+   },
+   {
+    "sentence_with_blank": "The officer said, You are under ___.",
+    "correct_word": "arrest",
+    "options": [
+     "arrest",
+     "table",
+     "noise",
+     "water",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The woman was ___ without charge after an hour.",
+    "correct_word": "released",
+    "options": [
+     "released",
+     "opened",
+     "lost",
+     "dropped",
+     "table"
+    ]
+   },
+   {
+    "sentence_with_blank": "After new facts appeared, the police ___ the charges.",
+    "correct_word": "dropped",
+    "options": [
+     "dropped",
+     "fell",
+     "threw",
+     "lowered",
+     "opened"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Night at the Station",
+   "text": "One evening a shop owner called the police because someone had broken a window. Officers arrived in minutes and found a man near the shop. They asked him questions and said he was under arrest. He did not resist arrest and went with them calmly. At the station, the police told him his rights. After a few hours, they charged him with causing damage. The next morning he appeared in court. The shop owner was glad that the police had made an arrest so quickly, and he promised to fix the window.",
+   "key_words": [
+    {
+     "word": "rights",
+     "translation_uz": "huquqlar"
+    },
+    {
+     "word": "calmly",
+     "translation_uz": "xotirjam"
+    },
+    {
+     "word": "appear in court",
+     "translation_uz": "sudga kelmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the shop owner call the police?",
+     "options": [
+      "His shop was closed",
+      "A window had been broken",
+      "He lost his keys",
+      "A customer was rude"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did the man behave when he was arrested?",
+     "options": [
+      "Calmly",
+      "Angrily",
+      "Shyly",
+      "Loudly"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was he charged with?",
+     "options": [
+      "Stealing a car",
+      "Driving too fast",
+      "Causing damage",
+      "Missing work"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Radio News",
+   "script": "Presenter: Police have arrested a woman in connection with the theft of paintings from a small museum. The woman was arrested at a train station early this morning. Officers say she did not resist arrest. Later today, she is expected to be charged with theft. The museum director said all the paintings are now safe. Police ask anyone with more information to call them. The woman has not been named, and the case will continue next week.",
+   "questions": [
+    {
+     "question": "Where was the woman arrested?",
+     "options": [
+      "At a train station",
+      "At a museum",
+      "At a bank",
+      "At a school"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the police expect later today?",
+     "options": [
+      "That she will go home",
+      "That the paintings will be sold",
+      "That the museum will close",
+      "That she will be charged with theft"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the museum director say?",
+     "options": [
+      "The museum is closed",
+      "The paintings are safe",
+      "The paintings are lost",
+      "The police made a mistake"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The police arrested the man.",
+    "He was charged with theft.",
+    "She did not resist arrest."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Police",
+    "question_text": "What does a police officer do every day?",
+    "hint_words": [
+     "help",
+     "protect",
+     "patrol",
+     "report"
+    ]
+   },
+   {
+    "topic": "Police",
+    "question_text": "Why are police officers important?",
+    "hint_words": [
+     "safe",
+     "help",
+     "law",
+     "people"
+    ]
+   },
+   {
+    "topic": "Police",
+    "question_text": "Would you like to be a police officer?",
+    "hint_words": [
+     "brave",
+     "job",
+     "help",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 145,
+  "title": "evidence",
+  "vocabulary": [
+   {
+    "word": "collect evidence",
+    "translation_uz": "dalil to'plamoq",
+    "example_sentence": "The police collected evidence at the scene."
+   },
+   {
+    "word": "gather evidence",
+    "translation_uz": "dalillarni yig'moq",
+    "example_sentence": "Officers gathered evidence for several weeks."
+   },
+   {
+    "word": "find evidence",
+    "translation_uz": "dalil topmoq",
+    "example_sentence": "They found evidence that the door was forced."
+   },
+   {
+    "word": "give evidence",
+    "translation_uz": "ko'rsatma bermoq (sudda)",
+    "example_sentence": "She gave evidence in court."
+   },
+   {
+    "word": "hear the evidence",
+    "translation_uz": "dalillarni tinglamoq",
+    "example_sentence": "The judge listened to the evidence."
+   },
+   {
+    "word": "strong evidence",
+    "translation_uz": "kuchli dalil",
+    "example_sentence": "There was strong evidence against him."
+   },
+   {
+    "word": "clear evidence",
+    "translation_uz": "aniq dalil",
+    "example_sentence": "The video was clear evidence of what happened."
+   },
+   {
+    "word": "evidence of something",
+    "translation_uz": "biror narsaning dalili",
+    "example_sentence": "There was no evidence of a break-in."
+   },
+   {
+    "word": "evidence against someone",
+    "translation_uz": "kimgadir qarshi dalil",
+    "example_sentence": "The police had no evidence against him."
+   },
+   {
+    "word": "lack of evidence",
+    "translation_uz": "dalil yetishmasligi",
+    "example_sentence": "The case ended because of a lack of evidence."
+   },
+   {
+    "word": "physical evidence",
+    "translation_uz": "moddiy dalil",
+    "example_sentence": "Footprints are one kind of physical evidence."
+   },
+   {
+    "word": "a piece of evidence",
+    "translation_uz": "bitta dalil",
+    "example_sentence": "A phone was an important piece of evidence."
+   },
+   {
+    "word": "evidence suggests",
+    "translation_uz": "dalillar shuni ko'rsatadiki",
+    "example_sentence": "The evidence suggests that the window was open."
+   },
+   {
+    "word": "destroy evidence",
+    "translation_uz": "dalillarni yo'q qilmoq",
+    "example_sentence": "It is a serious offence to destroy evidence."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Police officers ___ evidence at the scene of a crime.",
+    "correct_word": "collect",
+    "options": [
+     "collect",
+     "carry",
+     "receive",
+     "raise",
+     "give"
+    ]
+   },
+   {
+    "sentence_with_blank": "The witness will ___ evidence in court tomorrow.",
+    "correct_word": "give",
+    "options": [
+     "give",
+     "make",
+     "say",
+     "bring",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a lack ___ evidence, so the case ended.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "in",
+     "for",
+     "at",
+     "evident"
+    ]
+   },
+   {
+    "sentence_with_blank": "The camera pictures were ___ evidence of what happened.",
+    "correct_word": "clear",
+    "options": [
+     "clear",
+     "tall",
+     "quick",
+     "loud",
+     "carry"
+    ]
+   },
+   {
+    "sentence_with_blank": "The judge listened carefully to all the ___.",
+    "correct_word": "evidence",
+    "options": [
+     "evidence",
+     "evidences",
+     "evident",
+     "evidently",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is a crime to ___ evidence.",
+    "correct_word": "destroy",
+    "options": [
+     "destroy",
+     "borrow",
+     "catch",
+     "invite",
+     "loud"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Missing Bicycle",
+   "text": "When Sam's bicycle disappeared from the school yard, the headteacher asked a police officer to help. The officer began to gather evidence. First, she looked for physical evidence near the gate, such as marks on the ground. Then she watched the school camera pictures. They showed a boy from another school taking the bicycle. She had strong evidence against him, so she visited his house. His parents were surprised. The boy gave the bicycle back and said sorry. Sam was happy, and the headteacher thanked the officer for her careful work.",
+   "key_words": [
+    {
+     "word": "headteacher",
+     "translation_uz": "maktab direktori"
+    },
+    {
+     "word": "disappear",
+     "translation_uz": "g'oyib bo'lmoq"
+    },
+    {
+     "word": "careful",
+     "translation_uz": "ehtiyotkor, sinchkov"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who helped to find the bicycle?",
+     "options": [
+      "A doctor",
+      "A police officer",
+      "A cousin",
+      "A bus driver"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What showed the boy taking the bicycle?",
+     "options": [
+      "School camera pictures",
+      "A diary",
+      "A map",
+      "A letter"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the boy do in the end?",
+     "options": [
+      "Ran away",
+      "Sold it",
+      "Gave the bicycle back",
+      "Painted it"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "In the Court Class",
+   "script": "Teacher: Today we will learn how evidence works in a court case. Pupil: What is evidence exactly? Teacher: It is anything that helps to show what happened, for example a photo, a document or the words of a witness. People who see something give evidence in court. Pupil: Is one piece of evidence enough? Teacher: Often not. Judges want strong evidence from different sources. If there is a lack of evidence, the case may end without a result.",
+   "questions": [
+    {
+     "question": "What is evidence?",
+     "options": [
+      "A kind of law",
+      "A court building",
+      "A type of fine",
+      "Anything that helps show what happened"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who gives evidence in court?",
+     "options": [
+      "People who saw something",
+      "Only judges",
+      "Only police dogs",
+      "Only teachers"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What may happen if there is a lack of evidence?",
+     "options": [
+      "The judge gets angry",
+      "The case may end",
+      "The court closes forever",
+      "Everybody goes to prison"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "The police collected evidence.",
+    "There was strong evidence.",
+    "She gave evidence in court."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Evidence",
+    "question_text": "What kinds of evidence can help the police?",
+    "hint_words": [
+     "photo",
+     "video",
+     "witness",
+     "footprints"
+    ]
+   },
+   {
+    "topic": "Evidence",
+    "question_text": "Why is evidence important in a court case?",
+    "hint_words": [
+     "truth",
+     "fair",
+     "judge",
+     "prove"
+    ]
+   },
+   {
+    "topic": "Evidence",
+    "question_text": "Would you like to be a detective?",
+    "hint_words": [
+     "clues",
+     "find",
+     "job",
+     "yes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 146,
+  "title": "trial and verdict",
+  "vocabulary": [
+   {
+    "word": "stand trial",
+    "translation_uz": "sud jarayonida ishtirok etmoq (sudlanuvchi bo'lmoq)",
+    "example_sentence": "He will stand trial next month."
+   },
+   {
+    "word": "go on trial",
+    "translation_uz": "sud qilinmoq",
+    "example_sentence": "The man went on trial for fraud."
+   },
+   {
+    "word": "be on trial",
+    "translation_uz": "sud jarayonida bo'lmoq",
+    "example_sentence": "Two people are on trial in the city court."
+   },
+   {
+    "word": "a fair trial",
+    "translation_uz": "adolatli sud",
+    "example_sentence": "Everyone has the right to a fair trial."
+   },
+   {
+    "word": "a jury trial",
+    "translation_uz": "hakamlar hay'ati sud jarayoni",
+    "example_sentence": "A jury trial may last for several days."
+   },
+   {
+    "word": "the trial begins",
+    "translation_uz": "sud jarayoni boshlanadi",
+    "example_sentence": "The trial begins on Monday."
+   },
+   {
+    "word": "a trial for something",
+    "translation_uz": "biror narsa uchun sud",
+    "example_sentence": "The trial for theft ended quickly."
+   },
+   {
+    "word": "reach a verdict",
+    "translation_uz": "hukmga kelmoq",
+    "example_sentence": "The jury reached a verdict after two hours."
+   },
+   {
+    "word": "return a verdict",
+    "translation_uz": "hukm e'lon qilmoq",
+    "example_sentence": "The jury returned a verdict of not guilty."
+   },
+   {
+    "word": "a guilty verdict",
+    "translation_uz": "aybdor deb topish hukmi",
+    "example_sentence": "A guilty verdict was announced in court."
+   },
+   {
+    "word": "a not guilty verdict",
+    "translation_uz": "aybsiz deb topish hukmi",
+    "example_sentence": "The jury gave a not guilty verdict."
+   },
+   {
+    "word": "a unanimous verdict",
+    "translation_uz": "bir ovozdan chiqarilgan hukm",
+    "example_sentence": "The verdict was unanimous."
+   },
+   {
+    "word": "announce the verdict",
+    "translation_uz": "hukmni e'lon qilmoq",
+    "example_sentence": "The judge announced the verdict at noon."
+   },
+   {
+    "word": "an innocent / guilty person",
+    "translation_uz": "aybsiz / aybdor shaxs",
+    "example_sentence": "The jury believed he was innocent."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The man will ___ trial for fraud next month.",
+    "correct_word": "stand",
+    "options": [
+     "stand",
+     "sit",
+     "walk",
+     "wait",
+     "fair"
+    ]
+   },
+   {
+    "sentence_with_blank": "Everyone has the right to a ___ trial.",
+    "correct_word": "fair",
+    "options": [
+     "fair",
+     "slow",
+     "cheap",
+     "warm",
+     "innocent"
+    ]
+   },
+   {
+    "sentence_with_blank": "The jury ___ a verdict after a long discussion.",
+    "correct_word": "reached",
+    "options": [
+     "reached",
+     "arrived",
+     "got up",
+     "touched",
+     "cover"
+    ]
+   },
+   {
+    "sentence_with_blank": "The jury believed she was ___ and said not guilty.",
+    "correct_word": "innocent",
+    "options": [
+     "innocent",
+     "guilty",
+     "careful",
+     "angry",
+     "walk"
+    ]
+   },
+   {
+    "sentence_with_blank": "The judge will ___ the verdict at noon.",
+    "correct_word": "announce",
+    "options": [
+     "announce",
+     "ask",
+     "cover",
+     "hide",
+     "arrived"
+    ]
+   },
+   {
+    "sentence_with_blank": "Two men are on ___ in the city court.",
+    "correct_word": "trial",
+    "options": [
+     "trial",
+     "try",
+     "tried",
+     "trying",
+     "ask"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Day at the Trial",
+   "text": "Mina is a student who visited a local court with her class. A trial for theft was taking place. The judge explained that everyone has the right to a fair trial. Twelve members of the jury listened to the evidence and the lawyers' speeches. The trial lasted three days. In the end, the jury discussed the case for two hours and reached a verdict. The word guilty or not guilty was read aloud by one member. Mina learned that a trial is a careful process and that people must be treated fairly until the court makes its decision.",
+   "key_words": [
+    {
+     "word": "jury",
+     "translation_uz": "hakamlar hay'ati"
+    },
+    {
+     "word": "lawyer",
+     "translation_uz": "advokat"
+    },
+    {
+     "word": "process",
+     "translation_uz": "jarayon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of trial did Mina see?",
+     "options": [
+      "A trial for a car accident",
+      "A trial for theft",
+      "A trial about a school",
+      "A trial for a lost dog"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How long did the trial last?",
+     "options": [
+      "One hour",
+      "Two weeks",
+      "Three days",
+      "One month"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did the jury discuss the case?",
+     "options": [
+      "Two hours",
+      "Ten minutes",
+      "Four hours",
+      "One night"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Waiting for the Verdict",
+   "script": "Reporter: I'm standing outside the city court, where the trial of a local businessman is coming to an end. He has been on trial for fraud for one week. The jury went out at ten o'clock this morning to decide on a verdict. Lawyers for both sides are waiting nervously. The judge says that he will announce the verdict as soon as the jury reaches one. Everyone has the right to a fair trial, and the court has followed all the rules.",
+   "questions": [
+    {
+     "question": "Why is the man on trial?",
+     "options": [
+      "Theft of a car",
+      "A road offence",
+      "Breaking a window",
+      "Fraud"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the jury do at ten o'clock?",
+     "options": [
+      "They went out to decide",
+      "They went home",
+      "They stopped the trial",
+      "They started a new case"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will the judge do when the jury is ready?",
+     "options": [
+      "Close the building",
+      "Call a new jury",
+      "Announce the verdict",
+      "Go on holiday"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "The trial begins on Monday.",
+    "The jury reached a verdict.",
+    "Everyone has a fair trial."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Courts",
+    "question_text": "Would you like to see a trial? Why?",
+    "hint_words": [
+     "interesting",
+     "court",
+     "judge",
+     "learn"
+    ]
+   },
+   {
+    "topic": "Courts",
+    "question_text": "Why is a fair trial important?",
+    "hint_words": [
+     "fair",
+     "truth",
+     "rights",
+     "innocent"
+    ]
+   },
+   {
+    "topic": "Courts",
+    "question_text": "What does a judge do?",
+    "hint_words": [
+     "decide",
+     "listen",
+     "rules",
+     "court"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 147,
+  "title": "sentence and fine",
+  "vocabulary": [
+   {
+    "word": "pass sentence",
+    "translation_uz": "hukm chiqarmoq",
+    "example_sentence": "The judge passed sentence on the thief."
+   },
+   {
+    "word": "receive a sentence",
+    "translation_uz": "hukm olmoq",
+    "example_sentence": "He received a short sentence."
+   },
+   {
+    "word": "serve a sentence",
+    "translation_uz": "jazo muddatini o'tamoq",
+    "example_sentence": "He served a two-year sentence."
+   },
+   {
+    "word": "a prison sentence",
+    "translation_uz": "qamoq jazosi",
+    "example_sentence": "She received a prison sentence of one year."
+   },
+   {
+    "word": "a suspended sentence",
+    "translation_uz": "shartli hukm",
+    "example_sentence": "The young man received a suspended sentence."
+   },
+   {
+    "word": "a heavy / light sentence",
+    "translation_uz": "og'ir / yengil hukm",
+    "example_sentence": "The judge gave a light sentence for the first offence."
+   },
+   {
+    "word": "a life sentence",
+    "translation_uz": "umrbod qamoq hukmi",
+    "example_sentence": "A life sentence is for the most serious crimes."
+   },
+   {
+    "word": "sentence someone to something",
+    "translation_uz": "kimnidir biror jazoga hukm qilmoq",
+    "example_sentence": "The court sentenced him to community work."
+   },
+   {
+    "word": "pay a fine",
+    "translation_uz": "jarima to'lamoq",
+    "example_sentence": "You must pay a fine for parking here."
+   },
+   {
+    "word": "receive a fine",
+    "translation_uz": "jarima olmoq",
+    "example_sentence": "She received a fine for speeding."
+   },
+   {
+    "word": "a heavy fine",
+    "translation_uz": "katta jarima",
+    "example_sentence": "Companies that pollute may pay a heavy fine."
+   },
+   {
+    "word": "a parking fine",
+    "translation_uz": "to'xtash joyi jarimasi",
+    "example_sentence": "My dad got a parking fine yesterday."
+   },
+   {
+    "word": "be fined",
+    "translation_uz": "jarimaga tortilmoq",
+    "example_sentence": "He was fined fifty pounds."
+   },
+   {
+    "word": "fine someone for something",
+    "translation_uz": "kimnidir biror narsa uchun jarimaga tortmoq",
+    "example_sentence": "The police fined him for speeding."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The judge will ___ sentence tomorrow.",
+    "correct_word": "pass",
+    "options": [
+     "pass",
+     "carry",
+     "keep",
+     "hold",
+     "pay"
+    ]
+   },
+   {
+    "sentence_with_blank": "The man had to ___ a fine for dropping rubbish.",
+    "correct_word": "pay",
+    "options": [
+     "pay",
+     "spend",
+     "buy",
+     "cost",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was sentenced ___ one year in prison.",
+    "correct_word": "to",
+    "options": [
+     "to",
+     "for",
+     "with",
+     "on",
+     "lesson"
+    ]
+   },
+   {
+    "sentence_with_blank": "The court gave a light sentence for a first ___.",
+    "correct_word": "offence",
+    "options": [
+     "offence",
+     "offend",
+     "offender",
+     "offensive",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "My father received a parking ___ last week.",
+    "correct_word": "fine",
+    "options": [
+     "fine",
+     "gift",
+     "lesson",
+     "prize",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was ___ for driving too fast.",
+    "correct_word": "fined",
+    "options": [
+     "fined",
+     "fine",
+     "fining",
+     "finely",
+     "gift"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Fair Decision",
+   "text": "Last month a man in our town cut down trees in a public park without asking for permission. He went to court. The judge said that the offence was serious because the park belongs to everyone. She did not send him to prison. Instead, she gave him a suspended sentence and a heavy fine. He also had to plant new trees. The judge explained that a sentence should be fair and should help people to learn from their mistakes. Many people in the town agreed with this decision. The man paid the fine and planted twenty trees.",
+   "key_words": [
+    {
+     "word": "permission",
+     "translation_uz": "ruxsat"
+    },
+    {
+     "word": "public park",
+     "translation_uz": "jamoat bog'i"
+    },
+    {
+     "word": "plant",
+     "translation_uz": "ekmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the man do?",
+     "options": [
+      "Painted a building",
+      "Cut down trees in a park",
+      "Stole a bicycle",
+      "Broke a bus window"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What sentence did the judge give?",
+     "options": [
+      "A suspended sentence and a heavy fine",
+      "A life sentence",
+      "No sentence",
+      "A medal"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the man have to do besides paying?",
+     "options": [
+      "Write a book",
+      "Sell his house",
+      "Plant new trees",
+      "Clean a school"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Traffic Fines",
+   "script": "Dad: Oh no, I've received a parking fine again. Girl: How much is it? Dad: Forty pounds, and I must pay within two weeks, or it becomes sixty. Girl: That's a heavy fine for a small mistake. Dad: Yes, but the sign said no parking after six o'clock. I was fined for ignoring it. Girl: Maybe you'll be more careful next time. Dad: You're right. I'll read the signs properly from now on.",
+   "questions": [
+    {
+     "question": "How much is the fine at first?",
+     "options": [
+      "Ten pounds",
+      "Sixty pounds",
+      "One hundred pounds",
+      "Forty pounds"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What happens if Dad does not pay within two weeks?",
+     "options": [
+      "It becomes sixty pounds",
+      "It disappears",
+      "He goes to court",
+      "He gets a medal"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Dad promise to do?",
+     "options": [
+      "Sell the car",
+      "Read the signs properly",
+      "Park near the school",
+      "Drive faster"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "He received a heavy fine.",
+    "The judge passed sentence.",
+    "She paid the parking fine."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fines",
+    "question_text": "Why do people pay fines?",
+    "hint_words": [
+     "rule",
+     "break",
+     "money",
+     "pay"
+    ]
+   },
+   {
+    "topic": "Fines",
+    "question_text": "Is a fine a good punishment? Why?",
+    "hint_words": [
+     "fair",
+     "learn",
+     "money",
+     "small"
+    ]
+   },
+   {
+    "topic": "Fines",
+    "question_text": "Have you ever seen a parking ticket?",
+    "hint_words": [
+     "car",
+     "sign",
+     "street",
+     "pay"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 148,
+  "title": "punishment and prison",
+  "vocabulary": [
+   {
+    "word": "receive punishment",
+    "translation_uz": "jazo olmoq",
+    "example_sentence": "The pupils received a fair punishment."
+   },
+   {
+    "word": "a severe punishment",
+    "translation_uz": "qattiq jazo",
+    "example_sentence": "A severe punishment is not always the best way."
+   },
+   {
+    "word": "a light punishment",
+    "translation_uz": "yengil jazo",
+    "example_sentence": "He got a light punishment for his first mistake."
+   },
+   {
+    "word": "punishment for something",
+    "translation_uz": "biror narsa uchun jazo",
+    "example_sentence": "The punishment for stealing depends on the case."
+   },
+   {
+    "word": "escape punishment",
+    "translation_uz": "jazodan qochmoq",
+    "example_sentence": "Nobody should escape punishment for a serious offence."
+   },
+   {
+    "word": "capital / corporal punishment",
+    "translation_uz": "o'lim / jismoniy jazo",
+    "example_sentence": "Many countries have banned corporal punishment in schools."
+   },
+   {
+    "word": "punish someone for something",
+    "translation_uz": "kimnidir biror narsa uchun jazolamoq",
+    "example_sentence": "The school punished him for cheating."
+   },
+   {
+    "word": "go to prison",
+    "translation_uz": "qamoqqa tushmoq",
+    "example_sentence": "The thief went to prison for two years."
+   },
+   {
+    "word": "be sent to prison",
+    "translation_uz": "qamoqqa jo'natilmoq",
+    "example_sentence": "She was sent to prison for a serious crime."
+   },
+   {
+    "word": "be in prison",
+    "translation_uz": "qamoqda bo'lmoq",
+    "example_sentence": "He has been in prison since March."
+   },
+   {
+    "word": "be released from prison",
+    "translation_uz": "qamoqdan ozod qilinmoq",
+    "example_sentence": "He was released from prison early."
+   },
+   {
+    "word": "a prison officer",
+    "translation_uz": "qamoqxona xodimi",
+    "example_sentence": "A prison officer talked to us about her job."
+   },
+   {
+    "word": "a prison cell",
+    "translation_uz": "qamoqxona kamerasi",
+    "example_sentence": "A prison cell is small and plain."
+   },
+   {
+    "word": "prison reform",
+    "translation_uz": "qamoqxona islohoti",
+    "example_sentence": "Prison reform helps people start a new life."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The judge said the ___ should match the crime.",
+    "correct_word": "punishment",
+    "options": [
+     "punishment",
+     "punish",
+     "punished",
+     "punishing",
+     "paid"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boy was ___ for cheating in the exam.",
+    "correct_word": "punished",
+    "options": [
+     "punished",
+     "paid",
+     "thanked",
+     "missed",
+     "released"
+    ]
+   },
+   {
+    "sentence_with_blank": "The thief was sent ___ prison for a year.",
+    "correct_word": "to",
+    "options": [
+     "to",
+     "at",
+     "on",
+     "by",
+     "start"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was ___ from prison after serving his sentence.",
+    "correct_word": "released",
+    "options": [
+     "released",
+     "excused",
+     "opened",
+     "dismissed",
+     "punishing"
+    ]
+   },
+   {
+    "sentence_with_blank": "The punishment ___ stealing depends on the case.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "of",
+     "by",
+     "with",
+     "released"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people believe prisons should help criminals ___ a new life.",
+    "correct_word": "start",
+    "options": [
+     "start",
+     "stand",
+     "break",
+     "pass",
+     "with"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "What Is the Purpose of Prison?",
+   "text": "People sometimes ask why we have prisons. A prison is a place where people who commit serious crimes can be sent. It keeps society safe, and it is also a punishment. However, many experts say that punishment alone is not enough. Inside a prison, people can study, learn a job and meet a counsellor. Prison officers also help them prepare for life after release. When a person is released from prison, a job can help them stay away from crime. That is why many people support prison reform and fair punishment that helps people change.",
+   "key_words": [
+    {
+     "word": "purpose",
+     "translation_uz": "maqsad"
+    },
+    {
+     "word": "counsellor",
+     "translation_uz": "maslahatchi"
+    },
+    {
+     "word": "expert",
+     "translation_uz": "mutaxassis"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What do prisons keep safe?",
+     "options": [
+      "Money",
+      "Cars",
+      "Food",
+      "Society"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What can people do inside prison, according to the text?",
+     "options": [
+      "Study and learn a job",
+      "Play games all day",
+      "Travel abroad",
+      "Open a shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What helps a released person stay away from crime?",
+     "options": [
+      "A holiday",
+      "A new phone",
+      "A job",
+      "A big house"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Talk with a Prison Officer",
+   "script": "Pupil: What is your job like? Officer: I'm a prison officer. I make sure that the prison is safe and that people follow the rules. Pupil: Do the prisoners only get punishment? Officer: No. Punishment is part of it, but we also offer lessons, sports and training. Pupil: Do most prisoners go back to prison after release? Officer: Some do, but many find work and stay away from crime. That is what we hope for every person who leaves here.",
+   "questions": [
+    {
+     "question": "What is the officer's job?",
+     "options": [
+      "To teach music",
+      "To keep the prison safe",
+      "To drive buses",
+      "To cook meals"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the prison offer besides punishment?",
+     "options": [
+      "Lessons, sports and training",
+      "Shopping",
+      "Free travel",
+      "Cinema"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the officer hope for?",
+     "options": [
+      "That prisoners stay longer",
+      "That prisons close",
+      "That nobody works",
+      "That people leave and stay away from crime"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "The punishment was fair.",
+    "He was released from prison.",
+    "She works as a prison officer."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Punishment",
+    "question_text": "What is a fair punishment at school?",
+    "hint_words": [
+     "fair",
+     "talk",
+     "homework",
+     "sorry"
+    ]
+   },
+   {
+    "topic": "Punishment",
+    "question_text": "Why do some people break rules?",
+    "hint_words": [
+     "bored",
+     "angry",
+     "friends",
+     "unfair"
+    ]
+   },
+   {
+    "topic": "Punishment",
+    "question_text": "How can prison help people change?",
+    "hint_words": [
+     "study",
+     "job",
+     "learn",
+     "support"
+    ]
+   }
+  ]
+ }
+]

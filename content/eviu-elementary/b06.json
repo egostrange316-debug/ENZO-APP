@@ -1,0 +1,1562 @@
+[
+ {
+  "unit": 26,
+  "title": "Music and musical instruments",
+  "vocabulary": [
+   {
+    "word": "music",
+    "translation_uz": "musiqa",
+    "example_sentence": "I listen to music every day."
+   },
+   {
+    "word": "musician",
+    "translation_uz": "musiqachi",
+    "example_sentence": "My uncle is a good musician."
+   },
+   {
+    "word": "musical instrument",
+    "translation_uz": "musiqa asbobi",
+    "example_sentence": "Can you play a musical instrument?"
+   },
+   {
+    "word": "piano",
+    "translation_uz": "pianino",
+    "example_sentence": "She has piano lessons on Monday."
+   },
+   {
+    "word": "guitar",
+    "translation_uz": "gitara",
+    "example_sentence": "He is learning the guitar."
+   },
+   {
+    "word": "violin",
+    "translation_uz": "skripka",
+    "example_sentence": "The violin sounds beautiful."
+   },
+   {
+    "word": "drums",
+    "translation_uz": "baraban",
+    "example_sentence": "Her brother plays the drums."
+   },
+   {
+    "word": "flute",
+    "translation_uz": "nay, fleyta",
+    "example_sentence": "Mia plays the flute."
+   },
+   {
+    "word": "trumpet",
+    "translation_uz": "truba",
+    "example_sentence": "The trumpet is very loud."
+   },
+   {
+    "word": "clarinet",
+    "translation_uz": "klarnet",
+    "example_sentence": "Ava plays the clarinet."
+   },
+   {
+    "word": "orchestra",
+    "translation_uz": "orkestr",
+    "example_sentence": "She plays in an orchestra."
+   },
+   {
+    "word": "band",
+    "translation_uz": "musiqa guruhi",
+    "example_sentence": "The band played at the party."
+   },
+   {
+    "word": "concert",
+    "translation_uz": "konsert",
+    "example_sentence": "We are going to a concert tonight."
+   },
+   {
+    "word": "classical music",
+    "translation_uz": "klassik musiqa",
+    "example_sentence": "My mother loves classical music."
+   },
+   {
+    "word": "pop music",
+    "translation_uz": "pop musiqa",
+    "example_sentence": "Young people like pop music."
+   },
+   {
+    "word": "opera",
+    "translation_uz": "opera",
+    "example_sentence": "My aunt goes to the opera."
+   },
+   {
+    "word": "jazz",
+    "translation_uz": "jazz",
+    "example_sentence": "He likes jazz."
+   },
+   {
+    "word": "song",
+    "translation_uz": "qo'shiq",
+    "example_sentence": "I downloaded a new song."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She plays in an ___ with forty other musicians.",
+    "correct_word": "orchestra",
+    "options": [
+     "opera",
+     "orchestra",
+     "concert",
+     "band"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mozart and Beethoven wrote ___ music.",
+    "correct_word": "classical",
+    "options": [
+     "classical",
+     "classic",
+     "music",
+     "musical"
+    ]
+   },
+   {
+    "sentence_with_blank": "A person who plays an instrument is a ___.",
+    "correct_word": "musician",
+    "options": [
+     "musical",
+     "musician",
+     "musics",
+     "music"
+    ]
+   },
+   {
+    "sentence_with_blank": "We are going to a ___ tonight to hear our favourite singer.",
+    "correct_word": "concert",
+    "options": [
+     "flute",
+     "concert",
+     "drums",
+     "piano"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a shop that sells ___ instruments.",
+    "correct_word": "musical",
+    "options": [
+     "music",
+     "musics",
+     "musical",
+     "musician"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ is a big black instrument with white and black keys.",
+    "correct_word": "piano",
+    "options": [
+     "drums",
+     "trumpet",
+     "violin",
+     "piano"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Musical Family",
+   "text": "Everyone in Sara's family loves music. Her father is a musician and he plays the violin in an orchestra. Her mother is a good pianist. Sara's brother plays the drums in a band. They practise in the garage and the neighbours sometimes complain. Sara is learning the guitar. She has lessons every Wednesday. She likes pop music, but her father prefers classical music. Her mother loves jazz. Last Saturday the whole family went to a concert in the city. Sara said, \"One day, I will play on that stage!\"",
+   "key_words": [
+    {
+     "word": "musician",
+     "translation_uz": "musiqachi"
+    },
+    {
+     "word": "orchestra",
+     "translation_uz": "orkestr"
+    },
+    {
+     "word": "drums",
+     "translation_uz": "baraban"
+    },
+    {
+     "word": "concert",
+     "translation_uz": "konsert"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Sara's father play?",
+     "options": [
+      "The piano",
+      "The drums",
+      "The violin",
+      "The guitar"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where does Sara's brother play the drums?",
+     "options": [
+      "In a band",
+      "In an orchestra",
+      "At school",
+      "In a shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When does Sara have guitar lessons?",
+     "options": [
+      "On Monday",
+      "On Friday",
+      "On Sunday",
+      "On Wednesday"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Sara's mother love?",
+     "options": [
+      "Opera",
+      "Pop music",
+      "Jazz",
+      "Folk music"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Music Talk",
+   "script": "Can you play a musical instrument? Yes, I play the guitar. My friend Isabella has piano lessons. Charlotte loves classical music, but Harper cannot stand opera. She prefers pop music. I like jazz and rock. I often listen to music on the train. Yesterday I downloaded some new songs. Do you want to hear them?",
+   "questions": [
+    {
+     "question": "What instrument does the speaker play?",
+     "options": [
+      "The piano",
+      "The violin",
+      "The flute",
+      "The guitar"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Isabella have?",
+     "options": [
+      "Piano lessons",
+      "A band",
+      "A concert",
+      "A violin"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What music does Harper prefer?",
+     "options": [
+      "Opera",
+      "Classical music",
+      "Pop music",
+      "Folk music"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the speaker download yesterday?",
+     "options": [
+      "Films",
+      "New songs",
+      "A game",
+      "An app"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Can you play a musical instrument?",
+    "I love classical music.",
+    "She plays the piano.",
+    "We are going to a concert."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Music",
+    "question_text": "Can you play a musical instrument?",
+    "hint_words": [
+     "yes",
+     "no",
+     "guitar",
+     "piano"
+    ]
+   },
+   {
+    "topic": "Music",
+    "question_text": "What music do you like?",
+    "hint_words": [
+     "pop",
+     "classical",
+     "jazz",
+     "songs"
+    ]
+   },
+   {
+    "topic": "Music",
+    "question_text": "When do you listen to music?",
+    "hint_words": [
+     "phone",
+     "bus",
+     "home",
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 27,
+  "title": "Countries and nationalities",
+  "vocabulary": [
+   {
+    "word": "continent",
+    "translation_uz": "qit'a",
+    "example_sentence": "Asia is a big continent."
+   },
+   {
+    "word": "country",
+    "translation_uz": "mamlakat",
+    "example_sentence": "Which country are you from?"
+   },
+   {
+    "word": "nationality",
+    "translation_uz": "millat, fuqarolik",
+    "example_sentence": "What is your nationality?"
+   },
+   {
+    "word": "Europe",
+    "translation_uz": "Yevropa",
+    "example_sentence": "Italy is in Europe."
+   },
+   {
+    "word": "Asia",
+    "translation_uz": "Osiyo",
+    "example_sentence": "Japan is in Asia."
+   },
+   {
+    "word": "Africa",
+    "translation_uz": "Afrika",
+    "example_sentence": "Egypt is in Africa."
+   },
+   {
+    "word": "Australia",
+    "translation_uz": "Avstraliya",
+    "example_sentence": "Kangaroos live in Australia."
+   },
+   {
+    "word": "Germany",
+    "translation_uz": "Germaniya",
+    "example_sentence": "Berlin is in Germany."
+   },
+   {
+    "word": "German",
+    "translation_uz": "nemis",
+    "example_sentence": "My teacher is German."
+   },
+   {
+    "word": "Italy",
+    "translation_uz": "Italiya",
+    "example_sentence": "We ate pizza in Italy."
+   },
+   {
+    "word": "Italian",
+    "translation_uz": "italyan",
+    "example_sentence": "He likes Italian food."
+   },
+   {
+    "word": "Spain",
+    "translation_uz": "Ispaniya",
+    "example_sentence": "They went on holiday to Spain."
+   },
+   {
+    "word": "Spanish",
+    "translation_uz": "ispan",
+    "example_sentence": "She speaks Spanish."
+   },
+   {
+    "word": "Japan",
+    "translation_uz": "Yaponiya",
+    "example_sentence": "Tokyo is in Japan."
+   },
+   {
+    "word": "Japanese",
+    "translation_uz": "yapon",
+    "example_sentence": "Japanese cars are popular."
+   },
+   {
+    "word": "China",
+    "translation_uz": "Xitoy",
+    "example_sentence": "China is a very big country."
+   },
+   {
+    "word": "Chinese",
+    "translation_uz": "xitoylik",
+    "example_sentence": "My friend speaks Chinese."
+   },
+   {
+    "word": "India",
+    "translation_uz": "Hindiston",
+    "example_sentence": "India has a lot of people."
+   },
+   {
+    "word": "Indian",
+    "translation_uz": "hind",
+    "example_sentence": "I love Indian food."
+   },
+   {
+    "word": "French",
+    "translation_uz": "fransuz",
+    "example_sentence": "She is French and lives in Paris."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Asia and Africa are ___.",
+    "correct_word": "continents",
+    "options": [
+     "countries",
+     "cities",
+     "continents",
+     "languages"
+    ]
+   },
+   {
+    "sentence_with_blank": "My friend is from Japan. She is ___.",
+    "correct_word": "Japanese",
+    "options": [
+     "Japan",
+     "Japanese",
+     "Japaneses",
+     "French"
+    ]
+   },
+   {
+    "sentence_with_blank": "Paris is in France, so people from Paris are ___.",
+    "correct_word": "French",
+    "options": [
+     "Frenchs",
+     "France",
+     "Franch",
+     "French"
+    ]
+   },
+   {
+    "sentence_with_blank": "Rome is in ___.",
+    "correct_word": "Italy",
+    "options": [
+     "Spain",
+     "Germany",
+     "Italy",
+     "China"
+    ]
+   },
+   {
+    "sentence_with_blank": "Egypt is in the continent of ___.",
+    "correct_word": "Africa",
+    "options": [
+     "Europe",
+     "Africa",
+     "Asia",
+     "Australia"
+    ]
+   },
+   {
+    "sentence_with_blank": "A person from Germany is ___.",
+    "correct_word": "German",
+    "options": [
+     "German",
+     "Germany",
+     "Germen",
+     "Deutsch"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My International Class",
+   "text": "There are twenty students in my English class and they come from many countries. Hans is German. He lives in Berlin and speaks German and English. Maria is from Spain, so she is Spanish. Her best friend, Giulia, is Italian and loves pizza. Our teacher is Mr Wilson. He is from Australia. We also have a Japanese student, Yuki, and a Chinese student, Wei. Yuki and Wei teach us how to write their names. Every Friday we have an international day. We bring food from our countries and share it. It is the best day of the week.",
+   "key_words": [
+    {
+     "word": "country",
+     "translation_uz": "mamlakat"
+    },
+    {
+     "word": "German",
+     "translation_uz": "nemis"
+    },
+    {
+     "word": "Spanish",
+     "translation_uz": "ispan"
+    },
+    {
+     "word": "Italian",
+     "translation_uz": "italyan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many students are in the class?",
+     "options": [
+      "Ten",
+      "Twenty",
+      "Thirty",
+      "Twelve"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is Maria from?",
+     "options": [
+      "Italy",
+      "France",
+      "Spain",
+      "Germany"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where is the teacher from?",
+     "options": [
+      "England",
+      "India",
+      "Canada",
+      "Australia"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do the students do every Friday?",
+     "options": [
+      "They have an international day with food",
+      "They play football",
+      "They have a test",
+      "They go on a trip"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Where Are You From?",
+   "script": "Hello. My name is Pedro and I am from Spain. I am Spanish. My wife Anna is from Italy. She is Italian. We live in London now. Our neighbours are from India and Japan. Mr Singh is Indian and Mrs Sato is Japanese. We all speak English together.",
+   "questions": [
+    {
+     "question": "Where is Pedro from?",
+     "options": [
+      "Italy",
+      "Spain",
+      "India",
+      "Japan"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What nationality is Anna?",
+     "options": [
+      "Spanish",
+      "Indian",
+      "Japanese",
+      "Italian"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where do they live now?",
+     "options": [
+      "London",
+      "Madrid",
+      "Rome",
+      "Tokyo"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What nationality is Mrs Sato?",
+     "options": [
+      "Indian",
+      "Chinese",
+      "Japanese",
+      "Spanish"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Where are you from?",
+    "I am from Spain.",
+    "She is Italian.",
+    "Africa is a continent."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Countries",
+    "question_text": "Which country are you from?",
+    "hint_words": [
+     "I am from",
+     "Uzbekistan",
+     "city",
+     "country"
+    ]
+   },
+   {
+    "topic": "Countries",
+    "question_text": "What is your nationality?",
+    "hint_words": [
+     "I am",
+     "Uzbek",
+     "my",
+     "nationality"
+    ]
+   },
+   {
+    "topic": "Countries",
+    "question_text": "Which country do you want to visit?",
+    "hint_words": [
+     "Japan",
+     "Italy",
+     "want",
+     "visit"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 28,
+  "title": "Weather",
+  "vocabulary": [
+   {
+    "word": "weather",
+    "translation_uz": "ob-havo",
+    "example_sentence": "What's the weather like today?"
+   },
+   {
+    "word": "sun",
+    "translation_uz": "quyosh",
+    "example_sentence": "The sun is shining."
+   },
+   {
+    "word": "sunny",
+    "translation_uz": "quyoshli",
+    "example_sentence": "It's a sunny day."
+   },
+   {
+    "word": "rain",
+    "translation_uz": "yomg'ir",
+    "example_sentence": "I don't like rain."
+   },
+   {
+    "word": "rainy",
+    "translation_uz": "yomg'irli",
+    "example_sentence": "It's a rainy day."
+   },
+   {
+    "word": "cloud",
+    "translation_uz": "bulut",
+    "example_sentence": "There is a dark cloud in the sky."
+   },
+   {
+    "word": "cloudy",
+    "translation_uz": "bulutli",
+    "example_sentence": "It's cloudy today."
+   },
+   {
+    "word": "wind",
+    "translation_uz": "shamol",
+    "example_sentence": "The wind is strong."
+   },
+   {
+    "word": "windy",
+    "translation_uz": "shamolli",
+    "example_sentence": "It's very windy at the beach."
+   },
+   {
+    "word": "snow",
+    "translation_uz": "qor",
+    "example_sentence": "Children love snow."
+   },
+   {
+    "word": "snowy",
+    "translation_uz": "qorli",
+    "example_sentence": "It's a snowy morning."
+   },
+   {
+    "word": "fog",
+    "translation_uz": "tuman",
+    "example_sentence": "There is a lot of fog."
+   },
+   {
+    "word": "foggy",
+    "translation_uz": "tumanli",
+    "example_sentence": "It's foggy in the morning."
+   },
+   {
+    "word": "thunder",
+    "translation_uz": "momaqaldiroq",
+    "example_sentence": "I hate the sound of thunder."
+   },
+   {
+    "word": "lightning",
+    "translation_uz": "chaqmoq",
+    "example_sentence": "We saw lightning in the sky."
+   },
+   {
+    "word": "storm",
+    "translation_uz": "bo'ron",
+    "example_sentence": "There was a big storm last night."
+   },
+   {
+    "word": "hot",
+    "translation_uz": "issiq",
+    "example_sentence": "It's very hot in summer."
+   },
+   {
+    "word": "cold",
+    "translation_uz": "sovuq",
+    "example_sentence": "It's cold in winter."
+   },
+   {
+    "word": "wet",
+    "translation_uz": "nam, yomg'irli",
+    "example_sentence": "The ground is wet."
+   },
+   {
+    "word": "dry",
+    "translation_uz": "quruq",
+    "example_sentence": "The desert is very dry."
+   },
+   {
+    "word": "umbrella",
+    "translation_uz": "soyabon",
+    "example_sentence": "Take an umbrella with you."
+   },
+   {
+    "word": "weather forecast",
+    "translation_uz": "ob-havo ma'lumoti",
+    "example_sentence": "I watch the weather forecast every evening."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Take an ___ because it is raining.",
+    "correct_word": "umbrella",
+    "options": [
+     "umbrella",
+     "storm",
+     "forecast",
+     "cloud"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's a ___ day, so we can go to the beach.",
+    "correct_word": "sunny",
+    "options": [
+     "foggy",
+     "snowy",
+     "sunny",
+     "windy"
+    ]
+   },
+   {
+    "sentence_with_blank": "The Sahara is very ___. It doesn't often rain there.",
+    "correct_word": "dry",
+    "options": [
+     "wet",
+     "dry",
+     "cold",
+     "rainy"
+    ]
+   },
+   {
+    "sentence_with_blank": "We saw ___ and heard thunder during the storm.",
+    "correct_word": "lightning",
+    "options": [
+     "fog",
+     "snow",
+     "lightning",
+     "sun"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is very ___ and I cannot see the road.",
+    "correct_word": "foggy",
+    "options": [
+     "sunny",
+     "hot",
+     "foggy",
+     "dry"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's winter, so it's very ___ outside.",
+    "correct_word": "cold",
+    "options": [
+     "hot",
+     "cold",
+     "sunny",
+     "dry"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Weather in My Town",
+   "text": "The weather in my town changes a lot during the year. Summer is very hot and dry. It is often forty degrees, and it almost never rains. Autumn is cloudy and windy, with some rain. Winter is cold and sometimes snowy. Children are happy when it snows because they can play outside. In spring the weather is warm and sunny, and the trees have beautiful flowers. Last week there was a big storm with thunder and lightning. My little brother was afraid, so he stayed in my room. I like spring best because the weather is perfect.",
+   "key_words": [
+    {
+     "word": "weather",
+     "translation_uz": "ob-havo"
+    },
+    {
+     "word": "storm",
+     "translation_uz": "bo'ron"
+    },
+    {
+     "word": "thunder",
+     "translation_uz": "momaqaldiroq"
+    },
+    {
+     "word": "degrees",
+     "translation_uz": "daraja"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is summer like in the writer's town?",
+     "options": [
+      "Cold and wet",
+      "Hot and dry",
+      "Foggy and windy",
+      "Snowy and cold"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why are children happy in winter?",
+     "options": [
+      "School is closed",
+      "It is sunny",
+      "They can play in the snow",
+      "It is warm"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What happened last week?",
+     "options": [
+      "It snowed",
+      "There was a hot day",
+      "There was fog",
+      "There was a big storm"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Which season does the writer like best?",
+     "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Weather Forecast",
+   "script": "Good evening. Here is the weather forecast. It is a sunny day in Tokyo today, but it is cloudy in Hong Kong. It is foggy in Sydney and it is snowing in Moscow. It is raining in Barcelona, but the sun is shining in Granada. Tomorrow will be windy in London, so take a warm jacket.",
+   "questions": [
+    {
+     "question": "What is the weather in Tokyo?",
+     "options": [
+      "Cloudy",
+      "Rainy",
+      "Sunny",
+      "Foggy"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is the weather in Moscow?",
+     "options": [
+      "It is snowing",
+      "It is hot",
+      "It is foggy",
+      "It is windy"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where is it raining?",
+     "options": [
+      "Granada",
+      "Barcelona",
+      "Sydney",
+      "Tokyo"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will the weather be in London tomorrow?",
+     "options": [
+      "Sunny",
+      "Rainy",
+      "Foggy",
+      "Windy"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "What is the weather like today?",
+    "It is cold and windy.",
+    "The sun is shining.",
+    "Take an umbrella with you."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Weather",
+    "question_text": "What is the weather like today?",
+    "hint_words": [
+     "sunny",
+     "cold",
+     "hot",
+     "cloudy"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "What is your favourite season?",
+    "hint_words": [
+     "summer",
+     "spring",
+     "winter",
+     "because"
+    ]
+   },
+   {
+    "topic": "Weather",
+    "question_text": "What do you wear when it rains?",
+    "hint_words": [
+     "coat",
+     "umbrella",
+     "boots",
+     "jacket"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 29,
+  "title": "In the town",
+  "vocabulary": [
+   {
+    "word": "train station",
+    "translation_uz": "temir yo'l vokzali",
+    "example_sentence": "The train station is near the park."
+   },
+   {
+    "word": "bus station",
+    "translation_uz": "avtobus bekati",
+    "example_sentence": "Where is the bus station?"
+   },
+   {
+    "word": "shopping centre",
+    "translation_uz": "savdo markazi",
+    "example_sentence": "We went to the shopping centre."
+   },
+   {
+    "word": "museum",
+    "translation_uz": "muzey",
+    "example_sentence": "The museum has old things."
+   },
+   {
+    "word": "bank",
+    "translation_uz": "bank",
+    "example_sentence": "The bank closes at five."
+   },
+   {
+    "word": "cash machine",
+    "translation_uz": "bankomat",
+    "example_sentence": "I need a cash machine."
+   },
+   {
+    "word": "library",
+    "translation_uz": "kutubxona",
+    "example_sentence": "I read books in the library."
+   },
+   {
+    "word": "town hall",
+    "translation_uz": "shahar hokimiyati",
+    "example_sentence": "The town hall is a big old building."
+   },
+   {
+    "word": "car park",
+    "translation_uz": "avtoturargoh",
+    "example_sentence": "You can park in the car park."
+   },
+   {
+    "word": "pedestrian area",
+    "translation_uz": "piyodalar hududi",
+    "example_sentence": "Cars cannot go into the pedestrian area."
+   },
+   {
+    "word": "tourist information office",
+    "translation_uz": "turistik ma'lumot markazi",
+    "example_sentence": "Ask at the tourist information office."
+   },
+   {
+    "word": "turn left",
+    "translation_uz": "chapga burilmoq",
+    "example_sentence": "Turn left at the bank."
+   },
+   {
+    "word": "turn right",
+    "translation_uz": "o'ngga burilmoq",
+    "example_sentence": "Turn right here."
+   },
+   {
+    "word": "straight on",
+    "translation_uz": "to'g'riga",
+    "example_sentence": "Go straight on for two minutes."
+   },
+   {
+    "word": "road",
+    "translation_uz": "yo'l, ko'cha",
+    "example_sentence": "The shop is at the end of the road."
+   },
+   {
+    "word": "get off",
+    "translation_uz": "tushmoq (transportdan)",
+    "example_sentence": "Get off at the second stop."
+   },
+   {
+    "word": "near",
+    "translation_uz": "yaqin",
+    "example_sentence": "Is there a bank near here?"
+   },
+   {
+    "word": "the other side",
+    "translation_uz": "narigi tomon",
+    "example_sentence": "The bank is on the other side of the road."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "You can read books and newspapers in the ___.",
+    "correct_word": "library",
+    "options": [
+     "bank",
+     "museum",
+     "library",
+     "car park"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need money. Is there a cash ___ near here?",
+    "correct_word": "machine",
+    "options": [
+     "station",
+     "machine",
+     "office",
+     "hall"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can see interesting old things in the ___.",
+    "correct_word": "museum",
+    "options": [
+     "museum",
+     "bank",
+     "town hall",
+     "bus station"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can't drive here. It's a ___ area.",
+    "correct_word": "pedestrian",
+    "options": [
+     "tourist",
+     "pedestrian",
+     "shopping",
+     "parking"
+    ]
+   },
+   {
+    "sentence_with_blank": "Excuse me, how do I ___ to the station?",
+    "correct_word": "get",
+    "options": [
+     "get",
+     "do",
+     "make",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can park your car in the ___ park.",
+    "correct_word": "car",
+    "options": [
+     "bus",
+     "car",
+     "tourist",
+     "train"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Walk Through My Town",
+   "text": "My town is small but it has everything. In the centre there is a big town hall. Next to it you can find the library, where I read books every Saturday. Opposite the library there is a bank with a cash machine. Cars cannot enter the main street because it is a pedestrian area. There is a modern shopping centre at the end of the street. The museum is on Bridge Road. It is free on Sundays. If you want to take a train, the train station is only five minutes from the town hall. Visitors can ask for help at the tourist information office. It is a friendly town.",
+   "key_words": [
+    {
+     "word": "pedestrian area",
+     "translation_uz": "piyodalar hududi"
+    },
+    {
+     "word": "town hall",
+     "translation_uz": "shahar hokimiyati"
+    },
+    {
+     "word": "cash machine",
+     "translation_uz": "bankomat"
+    },
+    {
+     "word": "shopping centre",
+     "translation_uz": "savdo markazi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does the writer do in the library on Saturdays?",
+     "options": [
+      "Uses a computer",
+      "Meets friends",
+      "Reads books",
+      "Studies maths"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why can't cars enter the main street?",
+     "options": [
+      "It is closed",
+      "It is a pedestrian area",
+      "It is too small",
+      "There is a market"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is the museum?",
+     "options": [
+      "Next to the bank",
+      "In the shopping centre",
+      "Near the station",
+      "On Bridge Road"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When is the museum free?",
+     "options": [
+      "On Sundays",
+      "On Saturdays",
+      "Every day",
+      "On Fridays"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Asking for Directions",
+   "script": "Excuse me, I am looking for the museum. It is on Bridge Road. Take the number thirty one bus and get off at the second stop. Can you tell me the way to the nearest bank, please? I need a cash machine. No problem. Go left here and there is one on the other side of the road. Thank you very much.",
+   "questions": [
+    {
+     "question": "What is the first person looking for?",
+     "options": [
+      "A bank",
+      "The library",
+      "The museum",
+      "The station"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which bus goes to Bridge Road?",
+     "options": [
+      "Number thirteen",
+      "Number thirty one",
+      "Number twenty one",
+      "Number three"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where must the person get off the bus?",
+     "options": [
+      "At the first stop",
+      "At the third stop",
+      "At the bank",
+      "At the second stop"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where is the cash machine?",
+     "options": [
+      "On the other side of the road",
+      "In the museum",
+      "Next to the bus stop",
+      "In the library"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Where is the bus station?",
+    "Turn left at the bank.",
+    "Go straight on.",
+    "I am looking for the museum."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Town",
+    "question_text": "What is there in your town?",
+    "hint_words": [
+     "bank",
+     "library",
+     "park",
+     "shops"
+    ]
+   },
+   {
+    "topic": "Town",
+    "question_text": "Where is the nearest bank?",
+    "hint_words": [
+     "near",
+     "next to",
+     "turn left",
+     "street"
+    ]
+   },
+   {
+    "topic": "Town",
+    "question_text": "How do you get to school?",
+    "hint_words": [
+     "bus",
+     "walk",
+     "car",
+     "minutes"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 30,
+  "title": "In the countryside",
+  "vocabulary": [
+   {
+    "word": "countryside",
+    "translation_uz": "qishloq joylar, tabiat",
+    "example_sentence": "I like walking in the countryside."
+   },
+   {
+    "word": "mountain",
+    "translation_uz": "tog'",
+    "example_sentence": "The mountain is very high."
+   },
+   {
+    "word": "hill",
+    "translation_uz": "tepalik",
+    "example_sentence": "We walked up the hill."
+   },
+   {
+    "word": "forest",
+    "translation_uz": "o'rmon",
+    "example_sentence": "There are many trees in the forest."
+   },
+   {
+    "word": "wood",
+    "translation_uz": "kichik o'rmon",
+    "example_sentence": "We walked through the wood."
+   },
+   {
+    "word": "lake",
+    "translation_uz": "ko'l",
+    "example_sentence": "We swim in the lake."
+   },
+   {
+    "word": "river",
+    "translation_uz": "daryo",
+    "example_sentence": "The river is long."
+   },
+   {
+    "word": "field",
+    "translation_uz": "dala",
+    "example_sentence": "The farmer works in the field."
+   },
+   {
+    "word": "path",
+    "translation_uz": "yo'lak, so'qmoq",
+    "example_sentence": "Follow the path to the lake."
+   },
+   {
+    "word": "farm",
+    "translation_uz": "ferma",
+    "example_sentence": "They live on a farm."
+   },
+   {
+    "word": "farmer",
+    "translation_uz": "fermer, dehqon",
+    "example_sentence": "The farmer gets up early."
+   },
+   {
+    "word": "village",
+    "translation_uz": "qishloq",
+    "example_sentence": "My grandparents live in a village."
+   },
+   {
+    "word": "cottage",
+    "translation_uz": "kichik qishloq uyi",
+    "example_sentence": "They have a cottage in the hills."
+   },
+   {
+    "word": "nature",
+    "translation_uz": "tabiat",
+    "example_sentence": "I love nature."
+   },
+   {
+    "word": "wildlife",
+    "translation_uz": "yovvoyi hayvonot dunyosi",
+    "example_sentence": "You can see wildlife in the park."
+   },
+   {
+    "word": "national park",
+    "translation_uz": "milliy bog'",
+    "example_sentence": "We visited a national park."
+   },
+   {
+    "word": "picnic",
+    "translation_uz": "piknik",
+    "example_sentence": "Let's have a picnic by the river."
+   },
+   {
+    "word": "go walking",
+    "translation_uz": "sayr qilmoq",
+    "example_sentence": "We go walking in the mountains."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The ___ grows rice and wheat in his fields.",
+    "correct_word": "farmer",
+    "options": [
+     "farmer",
+     "wildlife",
+     "cottage",
+     "picnic"
+    ]
+   },
+   {
+    "sentence_with_blank": "We took sandwiches and had a ___ by the lake.",
+    "correct_word": "picnic",
+    "options": [
+     "village",
+     "path",
+     "picnic",
+     "forest"
+    ]
+   },
+   {
+    "sentence_with_blank": "A small town has six thousand people, but a ___ has about seven hundred.",
+    "correct_word": "village",
+    "options": [
+     "farm",
+     "village",
+     "city",
+     "lake"
+    ]
+   },
+   {
+    "sentence_with_blank": "I love ___. I like animals, birds and plants.",
+    "correct_word": "nature",
+    "options": [
+     "nature",
+     "the nature",
+     "natural",
+     "a nature"
+    ]
+   },
+   {
+    "sentence_with_blank": "Follow the ___ through the trees to the river.",
+    "correct_word": "path",
+    "options": [
+     "hill",
+     "lake",
+     "path",
+     "cottage"
+    ]
+   },
+   {
+    "sentence_with_blank": "I like walking in the ___ at the weekend.",
+    "correct_word": "countryside",
+    "options": [
+     "countryside",
+     "nature",
+     "town hall",
+     "bus station"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Weekend in the Countryside",
+   "text": "Every summer Tom's family spends a weekend in a small village in the mountains. They stay in a cottage near a lake. Behind the cottage there is a forest with a path to a river. In the morning Tom walks through the forest with his father. They sometimes see wildlife like birds and deer. In the afternoon the family has a picnic by the lake and the children swim. Near the village there is a national park. A farmer lives next door. He has a big farm with cows and sheep. Tom loves the countryside because it is quiet and the air is fresh.",
+   "key_words": [
+    {
+     "word": "cottage",
+     "translation_uz": "kichik qishloq uyi"
+    },
+    {
+     "word": "wildlife",
+     "translation_uz": "yovvoyi hayvonot dunyosi"
+    },
+    {
+     "word": "national park",
+     "translation_uz": "milliy bog'"
+    },
+    {
+     "word": "fresh",
+     "translation_uz": "toza, yangi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where does the family stay?",
+     "options": [
+      "In a hotel",
+      "In a cottage near a lake",
+      "In a tent",
+      "In a big city"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is behind the cottage?",
+     "options": [
+      "A farm",
+      "A lake",
+      "A forest",
+      "A road"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the family do by the lake?",
+     "options": [
+      "They fish",
+      "They have a picnic",
+      "They play football",
+      "They sleep"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why does Tom love the countryside?",
+     "options": [
+      "It has shops",
+      "It is quiet and the air is fresh",
+      "It is warm",
+      "It has a cinema"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Life in a Village",
+   "script": "I live in a village in the countryside. There are about seven hundred people here. My neighbour is a farmer and he works in the fields every day. My friend lives in a small cottage near the forest. Near the village there is a conservation area. In the south there is a national park with wonderful wildlife. At the weekend we take food and drink and have a picnic.",
+   "questions": [
+    {
+     "question": "How many people live in the village?",
+     "options": [
+      "About seventy",
+      "About seven thousand",
+      "About seven hundred",
+      "About seventeen"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the neighbour do?",
+     "options": [
+      "He is a teacher",
+      "He is a farmer",
+      "He is a driver",
+      "He is a doctor"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where does the friend live?",
+     "options": [
+      "In a flat",
+      "On a farm",
+      "In a hotel",
+      "In a cottage"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What do they do at the weekend?",
+     "options": [
+      "They have a picnic",
+      "They go shopping",
+      "They watch TV",
+      "They go to school"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I live in a small village.",
+    "The farmer works in the fields.",
+    "We have a picnic by the lake.",
+    "I love nature."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Countryside",
+    "question_text": "Do you like the countryside?",
+    "hint_words": [
+     "yes",
+     "quiet",
+     "fresh air",
+     "trees"
+    ]
+   },
+   {
+    "topic": "Countryside",
+    "question_text": "What can you see in the mountains?",
+    "hint_words": [
+     "trees",
+     "rivers",
+     "animals",
+     "snow"
+    ]
+   },
+   {
+    "topic": "Countryside",
+    "question_text": "Do you have a picnic in summer?",
+    "hint_words": [
+     "family",
+     "food",
+     "park",
+     "lake"
+    ]
+   }
+  ]
+ }
+]

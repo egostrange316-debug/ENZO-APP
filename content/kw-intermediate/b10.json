@@ -1,0 +1,1302 @@
+[
+ {
+  "unit": 78,
+  "title": "money and cash",
+  "vocabulary": [
+   {
+    "word": "earn money",
+    "translation_uz": "pul topmoq (ishlab)",
+    "example_sentence": "She earns money by teaching music after school."
+   },
+   {
+    "word": "save money",
+    "translation_uz": "pul yig'moq, tejamoq",
+    "example_sentence": "I am saving money to buy a new laptop."
+   },
+   {
+    "word": "spend money on something",
+    "translation_uz": "biror narsaga pul sarflamoq",
+    "example_sentence": "Teenagers often spend too much money on snacks."
+   },
+   {
+    "word": "waste money",
+    "translation_uz": "pulni bekorga sarflamoq",
+    "example_sentence": "It is a waste of money to buy things you never use."
+   },
+   {
+    "word": "borrow money from someone",
+    "translation_uz": "birovdan qarz pul olmoq",
+    "example_sentence": "He borrowed some money from his cousin."
+   },
+   {
+    "word": "lend money to someone",
+    "translation_uz": "birovga qarz pul bermoq",
+    "example_sentence": "Could you lend me some money until Friday?"
+   },
+   {
+    "word": "pay in cash",
+    "translation_uz": "naqd pul bilan to'lamoq",
+    "example_sentence": "The shop only accepts payment in cash."
+   },
+   {
+    "word": "pay by card",
+    "translation_uz": "karta bilan to'lamoq",
+    "example_sentence": "Most people here pay by card these days."
+   },
+   {
+    "word": "withdraw cash",
+    "translation_uz": "bankomatdan naqd pul yechmoq",
+    "example_sentence": "I need to withdraw some cash before we go to the market."
+   },
+   {
+    "word": "spare change",
+    "translation_uz": "mayda pul, qaytim",
+    "example_sentence": "Do you have any spare change for the bus?"
+   },
+   {
+    "word": "pocket money",
+    "translation_uz": "cho'ntak puli",
+    "example_sentence": "My parents give me pocket money every week."
+   },
+   {
+    "word": "be short of money",
+    "translation_uz": "pul yetishmoq",
+    "example_sentence": "We are a bit short of money this month."
+   },
+   {
+    "word": "a lot of / little money",
+    "translation_uz": "ko'p / oz pul",
+    "example_sentence": "They have very little money, but they are happy."
+   },
+   {
+    "word": "money problems",
+    "translation_uz": "moliyaviy qiyinchiliklar",
+    "example_sentence": "Many families have money problems after losing a job."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She ___ money by working in a café at weekends.",
+    "correct_word": "earns",
+    "options": [
+     "gets out",
+     "earns",
+     "makes up",
+     "wins"
+    ]
+   },
+   {
+    "sentence_with_blank": "I am trying to ___ money so I can buy a bicycle.",
+    "correct_word": "save",
+    "options": [
+     "lend",
+     "win",
+     "save",
+     "owe"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ me ten dollars until tomorrow; I will pay you back.",
+    "correct_word": "lend",
+    "options": [
+     "earn",
+     "borrow",
+     "lend",
+     "waste"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I pay ___ card, or do you only take cash?",
+    "correct_word": "by",
+    "options": [
+     "from",
+     "by",
+     "for",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "He spends a lot of money ___ computer games.",
+    "correct_word": "on",
+    "options": [
+     "in",
+     "at",
+     "for",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "I forgot my wallet, so I had to ___ some cash from the machine.",
+    "correct_word": "withdraw",
+    "options": [
+     "afford",
+     "withdraw",
+     "borrow",
+     "spend"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Pocket Money",
+   "text": "Every Saturday, Dilnoza gets pocket money from her parents. She used to spend all of it on sweets and stickers, but now she tries to save money. Last month she wanted a new football, but she was a bit short of money. So she borrowed a little from her brother and promised to pay him back in cash. To earn money, she also washes the family car on Sundays. She thinks it is a waste of money to buy things she does not really need.",
+   "key_words": [
+    {
+     "word": "pocket money",
+     "translation_uz": "cho'ntak puli"
+    },
+    {
+     "word": "short of money",
+     "translation_uz": "pul yetishmaydigan"
+    },
+    {
+     "word": "waste of money",
+     "translation_uz": "pulni bekorga sarflash"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Dilnoza want to buy?",
+     "options": [
+      "A new football",
+      "New sweets",
+      "A laptop",
+      "A bicycle"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did she borrow money from her brother?",
+     "options": [
+      "She lost her wallet",
+      "She was short of money",
+      "Her parents refused",
+      "She wanted stickers"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How will she pay him back?",
+     "options": [
+      "By card",
+      "With a gift",
+      "In cash",
+      "With stickers"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Shop",
+   "script": "Boy: Excuse me, can I pay by card? Shopkeeper: I am sorry, our machine is broken today. Cash only. Boy: Oh no. I only have a little spare change. Shopkeeper: There is a cash machine across the road. Boy: Good idea, I will withdraw some cash. How much is the notebook? Shopkeeper: Four dollars. Boy: Thanks. I will be back in five minutes.",
+   "questions": [
+    {
+     "question": "Why can't the boy pay by card?",
+     "options": [
+      "He has no card",
+      "The shop is closed",
+      "The card is old",
+      "The machine is broken"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where is the cash machine?",
+     "options": [
+      "Across the road",
+      "Inside the shop",
+      "Next to the school",
+      "Behind the shop"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How much is the notebook?",
+     "options": [
+      "Two dollars",
+      "Four dollars",
+      "Five dollars",
+      "Fourteen dollars"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I need to save money.",
+    "He borrowed money from me.",
+    "Can I pay by card?"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Money",
+    "question_text": "Do you get pocket money? How do you use it?",
+    "hint_words": [
+     "pocket money",
+     "spend",
+     "save",
+     "every week"
+    ]
+   },
+   {
+    "topic": "Money",
+    "question_text": "Is it better to save money or to spend it? Why?",
+    "hint_words": [
+     "save",
+     "spend",
+     "future",
+     "I think"
+    ]
+   },
+   {
+    "topic": "Money",
+    "question_text": "How can teenagers earn money?",
+    "hint_words": [
+     "earn",
+     "job",
+     "help",
+     "weekend"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 79,
+  "title": "savings, fortune and debt",
+  "vocabulary": [
+   {
+    "word": "savings account",
+    "translation_uz": "jamg'arma hisobi",
+    "example_sentence": "She opened a savings account at the bank."
+   },
+   {
+    "word": "life savings",
+    "translation_uz": "butun umr yig'ilgan pul",
+    "example_sentence": "He spent his life savings on a small farm."
+   },
+   {
+    "word": "put money into savings",
+    "translation_uz": "pulni jamg'armaga qo'ymoq",
+    "example_sentence": "Try to put some money into savings every month."
+   },
+   {
+    "word": "make a fortune",
+    "translation_uz": "katta boylik orttirmoq",
+    "example_sentence": "He made a fortune by selling computer games."
+   },
+   {
+    "word": "cost a fortune",
+    "translation_uz": "juda qimmat turmoq",
+    "example_sentence": "That jacket must have cost a fortune."
+   },
+   {
+    "word": "a small fortune",
+    "translation_uz": "ancha katta summa pul",
+    "example_sentence": "They spent a small fortune on the wedding."
+   },
+   {
+    "word": "inherit a fortune",
+    "translation_uz": "katta meros olmoq",
+    "example_sentence": "She inherited a fortune from her grandfather."
+   },
+   {
+    "word": "be in debt",
+    "translation_uz": "qarzdor bo'lmoq",
+    "example_sentence": "Many students are in debt after university."
+   },
+   {
+    "word": "get into debt",
+    "translation_uz": "qarzga botmoq",
+    "example_sentence": "Using a credit card too much can get you into debt."
+   },
+   {
+    "word": "pay off a debt",
+    "translation_uz": "qarzni to'liq to'lamoq",
+    "example_sentence": "It took him five years to pay off his debt."
+   },
+   {
+    "word": "owe someone money",
+    "translation_uz": "birovga qarzdor bo'lmoq",
+    "example_sentence": "I owe my sister twenty dollars."
+   },
+   {
+    "word": "a bank loan",
+    "translation_uz": "bank krediti",
+    "example_sentence": "They took out a bank loan to buy a flat."
+   },
+   {
+    "word": "in the red / in the black",
+    "translation_uz": "hisobda minus / plyus",
+    "example_sentence": "The company was in the red for two years."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She put some money into her ___ account every month.",
+    "correct_word": "savings",
+    "options": [
+     "fortune",
+     "debts",
+     "savings",
+     "loan"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ a fortune in the oil business and became very rich.",
+    "correct_word": "made",
+    "options": [
+     "took",
+     "kept",
+     "made",
+     "paid"
+    ]
+   },
+   {
+    "sentence_with_blank": "That sports car must have ___ a fortune!",
+    "correct_word": "cost",
+    "options": [
+     "owed",
+     "cost",
+     "saved",
+     "earned"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the holiday, I was ___ debt because I had spent too much.",
+    "correct_word": "in",
+    "options": [
+     "with",
+     "in",
+     "at",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "It took her years to ___ off the debt.",
+    "correct_word": "pay",
+    "options": [
+     "take",
+     "save",
+     "make",
+     "pay"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ my friend ten dollars for the tickets.",
+    "correct_word": "owe",
+    "options": [
+     "lend",
+     "earn",
+     "save",
+     "owe"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Saving for the Future",
+   "text": "Mr Karimov worked hard for forty years. He never made a fortune, but he always put some money into savings. When his friend got into debt, Mr Karimov did not lend him money at once. Instead, he explained how to plan a budget. His friend slowly paid off the debt in three years. Now Mr Karimov has a savings account with enough money for a small house. He says that the best way to avoid debt is to spend less than you earn.",
+   "key_words": [
+    {
+     "word": "savings",
+     "translation_uz": "jamg'arma"
+    },
+    {
+     "word": "budget",
+     "translation_uz": "byudjet"
+    },
+    {
+     "word": "avoid",
+     "translation_uz": "qochmoq, oldini olmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long did Mr Karimov work?",
+     "options": [
+      "Three years",
+      "Forty years",
+      "Ten years",
+      "Sixty years"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did he do when his friend was in debt?",
+     "options": [
+      "He gave him a fortune",
+      "He bought him a house",
+      "He explained how to plan a budget",
+      "He ignored him"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did the friend need to pay off the debt?",
+     "options": [
+      "One year",
+      "Forty years",
+      "Five years",
+      "Three years"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Big Decision",
+   "script": "Anna: I want to buy a car, but I only have a little in my savings account. Ben: How much does the car cost? Anna: It costs a small fortune, about twelve thousand dollars. Ben: Then don't take a bank loan. You will get into debt. Anna: You are right. I will save for another year first. Ben: Good plan. I still owe my brother money for my bike, so I know how it feels.",
+   "questions": [
+    {
+     "question": "What does Anna want to buy?",
+     "options": [
+      "A car",
+      "A bike",
+      "A house",
+      "A phone"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Ben advise her not to do?",
+     "options": [
+      "Save money",
+      "Take a bank loan",
+      "Work harder",
+      "Sell her bike"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who does Ben owe money to?",
+     "options": [
+      "His father",
+      "Anna",
+      "His brother",
+      "The bank"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "He is in debt.",
+    "She opened a savings account.",
+    "The car cost a fortune."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Saving",
+    "question_text": "Do you have any savings? What are you saving for?",
+    "hint_words": [
+     "savings",
+     "buy",
+     "future",
+     "a little"
+    ]
+   },
+   {
+    "topic": "Debt",
+    "question_text": "Why is it dangerous to get into debt?",
+    "hint_words": [
+     "debt",
+     "pay",
+     "problems",
+     "borrow"
+    ]
+   },
+   {
+    "topic": "Fortune",
+    "question_text": "If you made a fortune, what would you do with it?",
+    "hint_words": [
+     "fortune",
+     "help",
+     "travel",
+     "buy"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 80,
+  "title": "price",
+  "vocabulary": [
+   {
+    "word": "the price of something",
+    "translation_uz": "narx",
+    "example_sentence": "The price of petrol went up again."
+   },
+   {
+    "word": "a high / low price",
+    "translation_uz": "yuqori / past narx",
+    "example_sentence": "The shop sells good bikes at low prices."
+   },
+   {
+    "word": "a reasonable price",
+    "translation_uz": "o'rtacha, ma'qul narx",
+    "example_sentence": "We found a hotel at a reasonable price."
+   },
+   {
+    "word": "a fair price",
+    "translation_uz": "adolatli narx",
+    "example_sentence": "I think ten dollars is a fair price for this book."
+   },
+   {
+    "word": "prices rise / fall",
+    "translation_uz": "narxlar ko'tariladi / tushadi",
+    "example_sentence": "Prices usually fall after the holiday season."
+   },
+   {
+    "word": "raise / lower prices",
+    "translation_uz": "narxlarni oshirmoq / tushirmoq",
+    "example_sentence": "The café lowered its prices to get more customers."
+   },
+   {
+    "word": "price increase",
+    "translation_uz": "narx oshishi",
+    "example_sentence": "There was a price increase for bus tickets."
+   },
+   {
+    "word": "price tag",
+    "translation_uz": "narx yorlig'i",
+    "example_sentence": "She looked at the price tag and put the dress back."
+   },
+   {
+    "word": "price list",
+    "translation_uz": "narxlar ro'yxati",
+    "example_sentence": "Ask the waiter for the price list."
+   },
+   {
+    "word": "half price",
+    "translation_uz": "yarim narxda",
+    "example_sentence": "Students can enter the museum at half price."
+   },
+   {
+    "word": "at a price of",
+    "translation_uz": "... narxda",
+    "example_sentence": "The tablet is on sale at a price of two hundred dollars."
+   },
+   {
+    "word": "the asking price",
+    "translation_uz": "sotuvchi so'ragan narx",
+    "example_sentence": "The asking price of the flat is too high for us."
+   },
+   {
+    "word": "price war",
+    "translation_uz": "narx urushi",
+    "example_sentence": "Two shops started a price war on phones."
+   },
+   {
+    "word": "at any price",
+    "translation_uz": "har qanday narxda",
+    "example_sentence": "He wanted to win at any price."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The ___ of fruit goes up in winter.",
+    "correct_word": "price",
+    "options": [
+     "worth",
+     "price",
+     "prize",
+     "value"
+    ]
+   },
+   {
+    "sentence_with_blank": "The shop lowered its ___ to attract more customers.",
+    "correct_word": "prices",
+    "options": [
+     "taxes",
+     "wages",
+     "prices",
+     "fees"
+    ]
+   },
+   {
+    "sentence_with_blank": "Children can travel at half ___ on this train.",
+    "correct_word": "price",
+    "options": [
+     "tax",
+     "pay",
+     "price",
+     "bill"
+    ]
+   },
+   {
+    "sentence_with_blank": "I checked the ___ tag before buying the shirt.",
+    "correct_word": "price",
+    "options": [
+     "price",
+     "weight",
+     "size",
+     "name"
+    ]
+   },
+   {
+    "sentence_with_blank": "We paid a fair ___ for the old piano.",
+    "correct_word": "price",
+    "options": [
+     "pay",
+     "salary",
+     "price",
+     "bill"
+    ]
+   },
+   {
+    "sentence_with_blank": "Prices have ___ sharply since last year.",
+    "correct_word": "risen",
+    "options": [
+     "arisen",
+     "raised",
+     "rose",
+     "risen"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Good Bargain",
+   "text": "Last weekend Tom went shopping for a jacket. The first shop had a nice one, but the price was very high. He looked at the price tag twice and left. In the second shop, prices were lower, and there was a sale at half price on winter clothes. Tom found a warm jacket at a reasonable price, only thirty dollars. The shop assistant said that prices usually fall at the end of the season. Tom was happy because he did not want to buy it at any price.",
+   "key_words": [
+    {
+     "word": "price tag",
+     "translation_uz": "narx yorlig'i"
+    },
+    {
+     "word": "sale",
+     "translation_uz": "chegirma, aksiya"
+    },
+    {
+     "word": "shop assistant",
+     "translation_uz": "sotuvchi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Tom want to buy?",
+     "options": [
+      "Shoes",
+      "A hat",
+      "A jacket",
+      "A phone"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did he leave the first shop?",
+     "options": [
+      "It was closed",
+      "The jacket was dirty",
+      "The assistant was rude",
+      "The price was too high"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How much did he pay in the second shop?",
+     "options": [
+      "Thirty dollars",
+      "Fifteen dollars",
+      "Sixty dollars",
+      "Three dollars"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Phone Prices",
+   "script": "Customer: How much is this phone? Seller: The price is three hundred dollars. Customer: That is a high price. Do you have a cheaper one? Seller: Yes, this model is a hundred and fifty. Last month it was two hundred, but we lowered the price. Customer: That is a reasonable price. Can I pay by card? Seller: Of course. Is there anything else? Customer: No, thank you.",
+   "questions": [
+    {
+     "question": "How much is the first phone?",
+     "options": [
+      "Two hundred dollars",
+      "Three hundred dollars",
+      "A hundred and fifty dollars",
+      "Four hundred dollars"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was the price of the cheaper phone last month?",
+     "options": [
+      "A hundred and fifty dollars",
+      "Three hundred dollars",
+      "Two hundred dollars",
+      "Fifty dollars"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How will the customer pay?",
+     "options": [
+      "In cash",
+      "By phone",
+      "With a coupon",
+      "By card"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Prices went up again.",
+    "What is the price?",
+    "It was half price."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Prices",
+    "question_text": "Are prices high in your town? Give examples.",
+    "hint_words": [
+     "expensive",
+     "cheap",
+     "prices",
+     "food"
+    ]
+   },
+   {
+    "topic": "Shopping",
+    "question_text": "Do you look at the price tag before you buy something?",
+    "hint_words": [
+     "price tag",
+     "always",
+     "sometimes",
+     "compare"
+    ]
+   },
+   {
+    "topic": "Sales",
+    "question_text": "Do you like shopping when things are half price? Why?",
+    "hint_words": [
+     "sale",
+     "save",
+     "bargain",
+     "half price"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 81,
+  "title": "fee and charge",
+  "vocabulary": [
+   {
+    "word": "pay a fee",
+    "translation_uz": "to'lov to'lamoq",
+    "example_sentence": "You must pay a small fee to enter the park."
+   },
+   {
+    "word": "an entrance fee",
+    "translation_uz": "kirish haqi",
+    "example_sentence": "The entrance fee for children is two dollars."
+   },
+   {
+    "word": "school fees / tuition fees",
+    "translation_uz": "maktab / o'qish to'lovi",
+    "example_sentence": "Some families struggle to pay school fees."
+   },
+   {
+    "word": "membership fee",
+    "translation_uz": "a'zolik badali",
+    "example_sentence": "The membership fee for the gym is thirty dollars a month."
+   },
+   {
+    "word": "a registration fee",
+    "translation_uz": "ro'yxatdan o'tish to'lovi",
+    "example_sentence": "There is no registration fee for this course."
+   },
+   {
+    "word": "a booking fee",
+    "translation_uz": "band qilish to'lovi",
+    "example_sentence": "They add a booking fee when you buy tickets online."
+   },
+   {
+    "word": "charge a fee",
+    "translation_uz": "to'lov undirmoq",
+    "example_sentence": "The bank charges a fee for sending money abroad."
+   },
+   {
+    "word": "free of charge",
+    "translation_uz": "bepul",
+    "example_sentence": "Delivery is free of charge on orders over fifty dollars."
+   },
+   {
+    "word": "an extra charge",
+    "translation_uz": "qo'shimcha to'lov",
+    "example_sentence": "There is an extra charge for a sea view."
+   },
+   {
+    "word": "a delivery charge",
+    "translation_uz": "yetkazib berish haqi",
+    "example_sentence": "The delivery charge depends on the distance."
+   },
+   {
+    "word": "a service charge",
+    "translation_uz": "xizmat haqi",
+    "example_sentence": "A service charge is included in the bill."
+   },
+   {
+    "word": "bank charges",
+    "translation_uz": "bank komissiyalari",
+    "example_sentence": "Check the bank charges before you open an account."
+   },
+   {
+    "word": "be in charge of",
+    "translation_uz": "... uchun mas'ul bo'lmoq",
+    "example_sentence": "Who is in charge of the school library?"
+   },
+   {
+    "word": "charge a phone / battery",
+    "translation_uz": "telefonni zaryadlamoq",
+    "example_sentence": "I need to charge my phone before we leave."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Visitors have to pay an entrance ___ at the gate.",
+    "correct_word": "fee",
+    "options": [
+     "cost",
+     "bill",
+     "wage",
+     "fee"
+    ]
+   },
+   {
+    "sentence_with_blank": "The hotel doesn't ___ anything for children under five.",
+    "correct_word": "charge",
+    "options": [
+     "pay",
+     "owe",
+     "charge",
+     "cost"
+    ]
+   },
+   {
+    "sentence_with_blank": "Delivery is free of ___ if you spend more than fifty dollars.",
+    "correct_word": "charge",
+    "options": [
+     "pay",
+     "charge",
+     "money",
+     "price"
+    ]
+   },
+   {
+    "sentence_with_blank": "The gym ___ a monthly fee of thirty dollars.",
+    "correct_word": "charges",
+    "options": [
+     "charges",
+     "pays",
+     "owes",
+     "costs"
+    ]
+   },
+   {
+    "sentence_with_blank": "Who is ___ charge of the tickets today?",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "with",
+     "on",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "I need to ___ my phone because the battery is almost empty.",
+    "correct_word": "charge",
+    "options": [
+     "feed",
+     "charge",
+     "fill",
+     "load"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Swimming Club",
+   "text": "Aziz wants to join a swimming club in his town. First he phoned the club and asked about the fees. There is a registration fee of ten dollars and a monthly membership fee of twenty dollars. The club does not charge a fee for the first lesson, so it is free of charge. A woman called Ms Rahimova is in charge of the beginners' group. She told Aziz that there is an extra charge if he wants to hire a towel. Aziz decided to bring his own towel and join next week.",
+   "key_words": [
+    {
+     "word": "registration fee",
+     "translation_uz": "ro'yxatdan o'tish to'lovi"
+    },
+    {
+     "word": "beginners",
+     "translation_uz": "boshlovchilar"
+    },
+    {
+     "word": "hire",
+     "translation_uz": "ijaraga olmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Aziz want to join?",
+     "options": [
+      "A football team",
+      "A chess club",
+      "A music school",
+      "A swimming club"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How much is the monthly membership fee?",
+     "options": [
+      "Twenty dollars",
+      "Ten dollars",
+      "Thirty dollars",
+      "Two dollars"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Which lesson is free of charge?",
+     "options": [
+      "The last lesson",
+      "The first lesson",
+      "Every lesson",
+      "The towel lesson"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Booking Tickets",
+   "script": "Man: I would like two tickets for the concert, please. Woman: Certainly. The tickets are twenty dollars each, and there is a booking fee of two dollars per ticket. Man: Is there a delivery charge? Woman: No, we send the e-tickets free of charge. Man: Good. Then I will pay by card. Woman: Thank you. Your total is forty-four dollars.",
+   "questions": [
+    {
+     "question": "How much is each ticket?",
+     "options": [
+      "Two dollars",
+      "Twenty-two dollars",
+      "Twenty dollars",
+      "Forty dollars"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is the delivery charge?",
+     "options": [
+      "Two dollars",
+      "Four dollars",
+      "Five dollars",
+      "There is none"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the total price?",
+     "options": [
+      "Forty-four dollars",
+      "Forty dollars",
+      "Twenty-two dollars",
+      "Forty-two dollars"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Entry is free of charge.",
+    "They charge a small fee.",
+    "Who is in charge here?"
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Fees",
+    "question_text": "Do you pay any fees for clubs or lessons? Tell me about them.",
+    "hint_words": [
+     "fee",
+     "lessons",
+     "monthly",
+     "pay"
+    ]
+   },
+   {
+    "topic": "Services",
+    "question_text": "What things are free of charge in your town?",
+    "hint_words": [
+     "free",
+     "park",
+     "library",
+     "museum"
+    ]
+   },
+   {
+    "topic": "Responsibility",
+    "question_text": "What are you in charge of at home or at school?",
+    "hint_words": [
+     "in charge of",
+     "clean",
+     "help",
+     "class"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 82,
+  "title": "expense",
+  "vocabulary": [
+   {
+    "word": "living expenses",
+    "translation_uz": "yashash xarajatlari",
+    "example_sentence": "Living expenses in big cities are high."
+   },
+   {
+    "word": "travel expenses",
+    "translation_uz": "sayohat xarajatlari",
+    "example_sentence": "The company paid my travel expenses."
+   },
+   {
+    "word": "medical expenses",
+    "translation_uz": "tibbiy xarajatlar",
+    "example_sentence": "Insurance covers most medical expenses."
+   },
+   {
+    "word": "running expenses",
+    "translation_uz": "joriy xarajatlar (saqlash)",
+    "example_sentence": "The running expenses of a car include petrol and repairs."
+   },
+   {
+    "word": "cut down on expenses",
+    "translation_uz": "xarajatlarni qisqartirmoq",
+    "example_sentence": "We have to cut down on expenses this year."
+   },
+   {
+    "word": "keep expenses down",
+    "translation_uz": "xarajatlarni past ushlamoq",
+    "example_sentence": "She keeps her expenses down by cooking at home."
+   },
+   {
+    "word": "cover the expenses",
+    "translation_uz": "xarajatlarni qoplamoq",
+    "example_sentence": "The ticket money covers the expenses of the show."
+   },
+   {
+    "word": "share the expenses",
+    "translation_uz": "xarajatlarni baham ko'rmoq",
+    "example_sentence": "Four friends shared the expenses of the trip."
+   },
+   {
+    "word": "at the expense of",
+    "translation_uz": "... hisobiga (zarariga)",
+    "example_sentence": "He worked hard at the expense of his health."
+   },
+   {
+    "word": "at someone's expense",
+    "translation_uz": "birovning hisobidan",
+    "example_sentence": "The meal was at the company's expense."
+   },
+   {
+    "word": "at great expense",
+    "translation_uz": "katta xarajat evaziga",
+    "example_sentence": "The old castle was repaired at great expense."
+   },
+   {
+    "word": "go to great expense",
+    "translation_uz": "katta xarajatga tushmoq",
+    "example_sentence": "They went to great expense to organise the party."
+   },
+   {
+    "word": "an expensive hobby",
+    "translation_uz": "qimmat sevimli mashg'ulot",
+    "example_sentence": "Photography can be an expensive hobby."
+   },
+   {
+    "word": "spare no expense",
+    "translation_uz": "hech narsani ayamaslik",
+    "example_sentence": "For her birthday, they spared no expense."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We must cut ___ on expenses if we want to save money.",
+    "correct_word": "down",
+    "options": [
+     "out",
+     "down",
+     "off",
+     "away"
+    ]
+   },
+   {
+    "sentence_with_blank": "The school paid all the travel ___ for the team.",
+    "correct_word": "expenses",
+    "options": [
+     "expenses",
+     "bills",
+     "prices",
+     "fees"
+    ]
+   },
+   {
+    "sentence_with_blank": "Four friends ___ the expenses of the holiday.",
+    "correct_word": "shared",
+    "options": [
+     "counted",
+     "borrowed",
+     "lent",
+     "shared"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wrote the book ___ the expense of his free time.",
+    "correct_word": "at",
+    "options": [
+     "for",
+     "in",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The festival was organised ___ great expense.",
+    "correct_word": "at",
+    "options": [
+     "from",
+     "on",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "Rent and food are part of our living ___.",
+    "correct_word": "expenses",
+    "options": [
+     "expenses",
+     "fees",
+     "tickets",
+     "prices"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our Class Trip",
+   "text": "Our class is planning a trip to the mountains. The teacher asked us to think about the expenses. The travel expenses are quite high, so we decided to share them. The school will cover the expenses of the bus, but we must pay for our food. To keep expenses down, we will take sandwiches from home. Some students work at weekends to earn the money. One boy said that his hobby, photography, is expensive, so he wants to buy a cheaper camera for the trip.",
+   "key_words": [
+    {
+     "word": "expenses",
+     "translation_uz": "xarajatlar"
+    },
+    {
+     "word": "cover",
+     "translation_uz": "qoplamoq"
+    },
+    {
+     "word": "plan",
+     "translation_uz": "rejalashtirmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the class going?",
+     "options": [
+      "To the mountains",
+      "To the sea",
+      "To a museum",
+      "To the capital"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who will pay for the bus?",
+     "options": [
+      "The parents",
+      "The school",
+      "The teacher",
+      "The students"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How will students keep expenses down?",
+     "options": [
+      "By walking",
+      "By staying at home",
+      "By taking sandwiches",
+      "By selling photos"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a Party",
+   "script": "Lola: How much will the party cost? Murod: The room is cheap, but the food is an expense. Lola: Let's share the expenses with the whole class. Murod: Good idea. We can keep the expenses down if we make the cake ourselves. Lola: And the music? Murod: My uncle has speakers, so that is free. Lola: Great. Then it will not be at great expense.",
+   "questions": [
+    {
+     "question": "What is the main expense for the party?",
+     "options": [
+      "The room",
+      "The music",
+      "The cake tin",
+      "The food"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How can they keep expenses down?",
+     "options": [
+      "By making the cake",
+      "By buying a cake",
+      "By skipping the food",
+      "By using a hotel"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Whose speakers will they use?",
+     "options": [
+      "Lola's cousin's",
+      "Murod's uncle's",
+      "The school's",
+      "A shop's"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We share the expenses.",
+    "Living expenses are high.",
+    "Keep your expenses down."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Expenses",
+    "question_text": "What are the biggest expenses in your family?",
+    "hint_words": [
+     "food",
+     "rent",
+     "school",
+     "big"
+    ]
+   },
+   {
+    "topic": "Saving",
+    "question_text": "How can a family cut down on expenses?",
+    "hint_words": [
+     "cut down",
+     "save",
+     "electricity",
+     "shop"
+    ]
+   },
+   {
+    "topic": "Hobbies",
+    "question_text": "Do you have an expensive hobby, or do you know someone who does?",
+    "hint_words": [
+     "hobby",
+     "expensive",
+     "equipment",
+     "cost"
+    ]
+   }
+  ]
+ }
+]

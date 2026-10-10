@@ -1,0 +1,1549 @@
+[
+ {
+  "unit": 154,
+  "title": "school",
+  "vocabulary": [
+   {
+    "word": "go to school",
+    "translation_uz": "maktabga bormoq",
+    "example_sentence": "I go to school by bus."
+   },
+   {
+    "word": "start school",
+    "translation_uz": "maktabni boshlamoq",
+    "example_sentence": "Children start school at the age of six."
+   },
+   {
+    "word": "leave school",
+    "translation_uz": "maktabni tugatmoq",
+    "example_sentence": "He wants to be a pilot when he leaves school."
+   },
+   {
+    "word": "be at school",
+    "translation_uz": "maktabda bo'lmoq",
+    "example_sentence": "My sister is at school until three."
+   },
+   {
+    "word": "after school",
+    "translation_uz": "maktabdan keyin",
+    "example_sentence": "After school we play in the yard."
+   },
+   {
+    "word": "a primary school",
+    "translation_uz": "boshlang'ich maktab",
+    "example_sentence": "My little brother goes to a primary school."
+   },
+   {
+    "word": "a secondary school",
+    "translation_uz": "o'rta maktab",
+    "example_sentence": "She is in her first year at secondary school."
+   },
+   {
+    "word": "a boarding school",
+    "translation_uz": "internat maktab",
+    "example_sentence": "He lives at a boarding school."
+   },
+   {
+    "word": "school uniform",
+    "translation_uz": "maktab formasi",
+    "example_sentence": "We wear a blue school uniform."
+   },
+   {
+    "word": "school dinner",
+    "translation_uz": "maktab tushligi",
+    "example_sentence": "Today's school dinner is soup and bread."
+   },
+   {
+    "word": "a school bus",
+    "translation_uz": "maktab avtobusi",
+    "example_sentence": "The school bus comes at seven thirty."
+   },
+   {
+    "word": "miss school",
+    "translation_uz": "maktabni qoldirmoq",
+    "example_sentence": "He missed school because he was ill."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Children usually ___ school when they are six years old.",
+    "correct_word": "start",
+    "options": [
+     "start",
+     "drink",
+     "carry",
+     "paint",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "I walk to school, but my cousin goes ___ school by bus.",
+    "correct_word": "to",
+    "options": [
+     "to",
+     "for",
+     "from",
+     "at",
+     "wrap"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was ill, so she had to ___ school for two days.",
+    "correct_word": "miss",
+    "options": [
+     "miss",
+     "build",
+     "kick",
+     "wrap",
+     "wooden"
+    ]
+   },
+   {
+    "sentence_with_blank": "We wear a school ___ every day.",
+    "correct_word": "uniform",
+    "options": [
+     "uniform",
+     "pill",
+     "wedding",
+     "virus",
+     "drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother goes to a ___ school for children aged six to ten.",
+    "correct_word": "primary",
+    "options": [
+     "primary",
+     "hungry",
+     "wooden",
+     "yellow",
+     "miss"
+    ]
+   },
+   {
+    "sentence_with_blank": "What do you do ___ school?",
+    "correct_word": "after",
+    "options": [
+     "after",
+     "between",
+     "since",
+     "inside",
+     "virus"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My School Day",
+   "text": "I go to school by bus at half past seven. I am at school until three o'clock. We wear a green school uniform. At lunch we have school dinner in the big hall. After school, I play football with my friends. My big sister is at secondary school, and she will leave school in two years.",
+   "key_words": [
+    {
+     "word": "hall",
+     "translation_uz": "zal"
+    },
+    {
+     "word": "lunch",
+     "translation_uz": "tushlik"
+    },
+    {
+     "word": "big sister",
+     "translation_uz": "katta opa"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How does the writer go to school?",
+     "options": [
+      "By bus",
+      "On foot",
+      "By car",
+      "By bike"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What colour is the school uniform?",
+     "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Black"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When will the sister leave school?",
+     "options": [
+      "Next week",
+      "This summer",
+      "In two years",
+      "In ten years"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "First Day at School",
+   "script": "Today is Dina's first day at school. She is six years old, and she is going to a primary school near her house. Her mum is taking her there. Dina is wearing a new school uniform and a red bag. She is a bit afraid, but she is also excited. After school, her dad will pick her up.",
+   "questions": [
+    {
+     "question": "How old is Dina?",
+     "options": [
+      "Five",
+      "Seven",
+      "Eight",
+      "Six"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who is taking Dina to school?",
+     "options": [
+      "Her mum",
+      "Her dad",
+      "Her sister",
+      "A teacher"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who will pick her up after school?",
+     "options": [
+      "Her mum",
+      "Her dad",
+      "Her uncle",
+      "The bus driver"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I go to school.",
+    "We wear a uniform.",
+    "School starts at eight."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "School",
+    "question_text": "How do you go to school?",
+    "hint_words": [
+     "by bus",
+     "on foot",
+     "by car",
+     "with"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "What do you do after school?",
+    "hint_words": [
+     "homework",
+     "play",
+     "friends",
+     "eat"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Do you wear a school uniform?",
+    "hint_words": [
+     "yes",
+     "no",
+     "blue",
+     "white"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 155,
+  "title": "teacher",
+  "vocabulary": [
+   {
+    "word": "a maths teacher",
+    "translation_uz": "matematika o'qituvchisi",
+    "example_sentence": "Our maths teacher gives us puzzles."
+   },
+   {
+    "word": "an English teacher",
+    "translation_uz": "ingliz tili o'qituvchisi",
+    "example_sentence": "My English teacher is from London."
+   },
+   {
+    "word": "a class teacher",
+    "translation_uz": "sinf rahbari",
+    "example_sentence": "The class teacher checks who is absent."
+   },
+   {
+    "word": "a good teacher",
+    "translation_uz": "yaxshi o'qituvchi",
+    "example_sentence": "A good teacher makes lessons fun."
+   },
+   {
+    "word": "a strict teacher",
+    "translation_uz": "qattiqqo'l o'qituvchi",
+    "example_sentence": "Our strict teacher never lets us talk."
+   },
+   {
+    "word": "a primary school teacher",
+    "translation_uz": "boshlang'ich sinf o'qituvchisi",
+    "example_sentence": "My aunt is a primary school teacher."
+   },
+   {
+    "word": "become a teacher",
+    "translation_uz": "o'qituvchi bo'lmoq",
+    "example_sentence": "She wants to become a teacher."
+   },
+   {
+    "word": "ask the teacher",
+    "translation_uz": "o'qituvchidan so'ramoq",
+    "example_sentence": "If you don't understand, ask the teacher."
+   },
+   {
+    "word": "listen to the teacher",
+    "translation_uz": "o'qituvchini tinglamoq",
+    "example_sentence": "Please listen to the teacher."
+   },
+   {
+    "word": "the teacher says",
+    "translation_uz": "o'qituvchi aytadi",
+    "example_sentence": "The teacher says we have a test on Friday."
+   },
+   {
+    "word": "a teacher's desk",
+    "translation_uz": "o'qituvchi stoli",
+    "example_sentence": "The books are on the teacher's desk."
+   },
+   {
+    "word": "a teacher helps",
+    "translation_uz": "o'qituvchi yordam beradi",
+    "example_sentence": "Our teacher helps us after class."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "If you don't know the answer, you can ___ the teacher.",
+    "correct_word": "ask",
+    "options": [
+     "ask",
+     "wear",
+     "grow",
+     "throw",
+     "become"
+    ]
+   },
+   {
+    "sentence_with_blank": "My cousin studies hard because she wants to ___ a teacher.",
+    "correct_word": "become",
+    "options": [
+     "become",
+     "catch",
+     "carry",
+     "break",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ to the teacher when she is speaking.",
+    "correct_word": "listen",
+    "options": [
+     "listen",
+     "jump",
+     "smell",
+     "cook",
+     "empty"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our ___ teacher checks the register every morning.",
+    "correct_word": "class",
+    "options": [
+     "class",
+     "blood",
+     "baby",
+     "sleeping",
+     "wear"
+    ]
+   },
+   {
+    "sentence_with_blank": "A ___ teacher explains things clearly and patiently.",
+    "correct_word": "good",
+    "options": [
+     "good",
+     "wooden",
+     "empty",
+     "square",
+     "listen"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher is sitting at the teacher's ___.",
+    "correct_word": "desk",
+    "options": [
+     "desk",
+     "pitch",
+     "injection",
+     "cake",
+     "sleeping"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Mrs Karimova",
+   "text": "Mrs Karimova is our English teacher. She is a good teacher, and she is never angry. When we listen to the teacher, we learn many new words. If we do not understand, we can ask the teacher. She helps us after class, too. When I leave school, I want to become a teacher like her.",
+   "key_words": [
+    {
+     "word": "angry",
+     "translation_uz": "jahli chiqqan"
+    },
+    {
+     "word": "understand",
+     "translation_uz": "tushunmoq"
+    },
+    {
+     "word": "like her",
+     "translation_uz": "u kabi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What does Mrs Karimova teach?",
+     "options": [
+      "Maths",
+      "Art",
+      "Sport",
+      "English"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When does she help the pupils?",
+     "options": [
+      "After class",
+      "At night",
+      "On Sundays",
+      "Never"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer want to become?",
+     "options": [
+      "A doctor",
+      "A teacher",
+      "A player",
+      "A pilot"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Our New Teacher",
+   "script": "We have a new maths teacher this term. He is a bit strict, but he is a very good teacher. He says that everybody must listen to the teacher and do their homework. He sits at the teacher's desk and writes with a red pen. On Friday he says we have a test, so we must study hard.",
+   "questions": [
+    {
+     "question": "What does the new teacher teach?",
+     "options": [
+      "English",
+      "History",
+      "Maths",
+      "Music"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What colour pen does he write with?",
+     "options": [
+      "Blue",
+      "Black",
+      "Green",
+      "Red"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When is the test?",
+     "options": [
+      "On Friday",
+      "On Monday",
+      "On Thursday",
+      "On Saturday"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Ask the teacher.",
+    "She is a good teacher.",
+    "Listen to the teacher."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "School",
+    "question_text": "Who is your favourite teacher?",
+    "hint_words": [
+     "my favourite",
+     "maths",
+     "English",
+     "kind"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "What makes a good teacher?",
+    "hint_words": [
+     "kind",
+     "patient",
+     "clear",
+     "funny"
+    ]
+   },
+   {
+    "topic": "Jobs",
+    "question_text": "Would you like to become a teacher?",
+    "hint_words": [
+     "yes",
+     "no",
+     "maybe",
+     "children"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 156,
+  "title": "student",
+  "vocabulary": [
+   {
+    "word": "a university student",
+    "translation_uz": "universitet talabasi",
+    "example_sentence": "My brother is a university student."
+   },
+   {
+    "word": "a first-year student",
+    "translation_uz": "birinchi kurs talabasi",
+    "example_sentence": "She is a first-year student of law."
+   },
+   {
+    "word": "a good student",
+    "translation_uz": "a'lochi o'quvchi",
+    "example_sentence": "A good student does homework on time."
+   },
+   {
+    "word": "a hard-working student",
+    "translation_uz": "mehnatsevar talaba",
+    "example_sentence": "He is a hard-working student."
+   },
+   {
+    "word": "a student of English",
+    "translation_uz": "ingliz tili talabasi",
+    "example_sentence": "I am a student of English."
+   },
+   {
+    "word": "a student at a school",
+    "translation_uz": "maktab o'quvchisi",
+    "example_sentence": "He is a student at our school."
+   },
+   {
+    "word": "an exchange student",
+    "translation_uz": "almashinuv talabasi",
+    "example_sentence": "We have an exchange student from Spain."
+   },
+   {
+    "word": "a foreign student",
+    "translation_uz": "chet ellik talaba",
+    "example_sentence": "A foreign student joined our class."
+   },
+   {
+    "word": "a student card",
+    "translation_uz": "talaba guvohnomasi",
+    "example_sentence": "Show your student card at the library."
+   },
+   {
+    "word": "a student discount",
+    "translation_uz": "talabalar chegirmasi",
+    "example_sentence": "There is a student discount at the cinema."
+   },
+   {
+    "word": "student life",
+    "translation_uz": "talabalik hayoti",
+    "example_sentence": "Student life can be busy and fun."
+   },
+   {
+    "word": "a group of students",
+    "translation_uz": "bir guruh talabalar",
+    "example_sentence": "A group of students waited outside."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My sister is a first-year ___ at the university.",
+    "correct_word": "student",
+    "options": [
+     "student",
+     "pitch",
+     "pill",
+     "parent",
+     "discount"
+    ]
+   },
+   {
+    "sentence_with_blank": "If you show your student card, you get a student ___.",
+    "correct_word": "discount",
+    "options": [
+     "discount",
+     "cough",
+     "bandage",
+     "score",
+     "yellow"
+    ]
+   },
+   {
+    "sentence_with_blank": "He studies every evening. He is a ___ student.",
+    "correct_word": "hard-working",
+    "options": [
+     "hard-working",
+     "sleeping",
+     "wooden",
+     "yellow",
+     "sat"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is an exchange student ___ Japan in my class.",
+    "correct_word": "from",
+    "options": [
+     "from",
+     "by",
+     "of",
+     "into",
+     "parent"
+    ]
+   },
+   {
+    "sentence_with_blank": "Maria is a student ___ English at a language school.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "in",
+     "to",
+     "by",
+     "wooden"
+    ]
+   },
+   {
+    "sentence_with_blank": "A group of students ___ in the library, reading quietly.",
+    "correct_word": "sat",
+    "options": [
+     "sat",
+     "scored",
+     "kicked",
+     "caught",
+     "to"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "An Exchange Student",
+   "text": "This year we have an exchange student in our class. His name is Pablo, and he is from Spain. He is a hard-working student and a good friend. He is a student of English, too, but he wants to improve. A group of students often eat lunch with him. Pablo says student life in our country is great.",
+   "key_words": [
+    {
+     "word": "improve",
+     "translation_uz": "yaxshilamoq"
+    },
+    {
+     "word": "lunch",
+     "translation_uz": "tushlik"
+    },
+    {
+     "word": "country",
+     "translation_uz": "mamlakat"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is Pablo from?",
+     "options": [
+      "Italy",
+      "France",
+      "Mexico",
+      "Spain"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Pablo want to do?",
+     "options": [
+      "Improve his English",
+      "Learn maths",
+      "Play football",
+      "Find a job"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who eats lunch with him?",
+     "options": [
+      "The teacher",
+      "A group of students",
+      "His parents",
+      "A doctor"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Student Life",
+   "script": "I am a first-year student at the university. Student life is busy but fun. I have a student card, and I get a student discount on bus tickets. Every day a group of students meets in the library to study. At weekends we go to the cinema together.",
+   "questions": [
+    {
+     "question": "What does the speaker study at?",
+     "options": [
+      "A primary school",
+      "A hospital",
+      "University",
+      "A farm"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the student card give the speaker?",
+     "options": [
+      "Free food",
+      "A new book",
+      "A bike",
+      "A discount on bus tickets"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where do the students meet to study?",
+     "options": [
+      "In the library",
+      "In the park",
+      "At the cinema",
+      "In a cafe"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He is a good student.",
+    "Show your student card.",
+    "I am a university student."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Study",
+    "question_text": "Are you a student? What do you study?",
+    "hint_words": [
+     "I study",
+     "English",
+     "maths",
+     "school"
+    ]
+   },
+   {
+    "topic": "Study",
+    "question_text": "What makes a good student?",
+    "hint_words": [
+     "hard-working",
+     "listens",
+     "homework",
+     "kind"
+    ]
+   },
+   {
+    "topic": "Study",
+    "question_text": "Would you like to be an exchange student?",
+    "hint_words": [
+     "yes",
+     "another country",
+     "new friends",
+     "language"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 157,
+  "title": "class, lesson, test",
+  "vocabulary": [
+   {
+    "word": "be in class",
+    "translation_uz": "sinfda bo'lmoq",
+    "example_sentence": "The pupils are in class now."
+   },
+   {
+    "word": "a class of thirty pupils",
+    "translation_uz": "o'ttiz o'quvchilik sinf",
+    "example_sentence": "We have a class of thirty pupils."
+   },
+   {
+    "word": "after class",
+    "translation_uz": "dars tugagach",
+    "example_sentence": "I talked to the teacher after class."
+   },
+   {
+    "word": "skip class",
+    "translation_uz": "darsni qoldirmoq",
+    "example_sentence": "You should never skip class."
+   },
+   {
+    "word": "take a class",
+    "translation_uz": "kursga qatnashmoq",
+    "example_sentence": "I take a dance class on Fridays."
+   },
+   {
+    "word": "have a lesson",
+    "translation_uz": "darsi bo'lmoq",
+    "example_sentence": "We have a lesson at nine."
+   },
+   {
+    "word": "miss a lesson",
+    "translation_uz": "darsni o'tkazib yubormoq",
+    "example_sentence": "He missed the lesson because he was late."
+   },
+   {
+    "word": "an English lesson",
+    "translation_uz": "ingliz tili darsi",
+    "example_sentence": "I like the English lesson on Monday."
+   },
+   {
+    "word": "a private lesson",
+    "translation_uz": "xususiy dars",
+    "example_sentence": "She has a private lesson every Tuesday."
+   },
+   {
+    "word": "take a test",
+    "translation_uz": "test topshirmoq",
+    "example_sentence": "We take a test every month."
+   },
+   {
+    "word": "pass a test",
+    "translation_uz": "testdan o'tmoq",
+    "example_sentence": "I passed the test with a good mark."
+   },
+   {
+    "word": "fail a test",
+    "translation_uz": "testdan o'ta olmaslik",
+    "example_sentence": "He didn't study, so he failed the test."
+   },
+   {
+    "word": "study for a test",
+    "translation_uz": "testga tayyorlanmoq",
+    "example_sentence": "I study for the test every evening."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I'm going to study ___ the test tonight.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "with",
+     "of",
+     "off",
+     "passed"
+    ]
+   },
+   {
+    "sentence_with_blank": "He worked hard and ___ the test easily.",
+    "correct_word": "passed",
+    "options": [
+     "passed",
+     "painted",
+     "hid",
+     "wore",
+     "hurt"
+    ]
+   },
+   {
+    "sentence_with_blank": "We usually ___ a spelling test on Friday.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "build",
+     "catch",
+     "hurt",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "I was late, so I ___ the first lesson.",
+    "correct_word": "missed",
+    "options": [
+     "missed",
+     "scored",
+     "wrapped",
+     "swallowed",
+     "of"
+    ]
+   },
+   {
+    "sentence_with_blank": "There are twenty-five pupils ___ my class.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "by",
+     "for",
+     "catch"
+    ]
+   },
+   {
+    "sentence_with_blank": "The students talked to the teacher ___ class.",
+    "correct_word": "after",
+    "options": [
+     "after",
+     "about",
+     "over",
+     "into",
+     "in"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Busy Day",
+   "text": "I have an English lesson at nine o'clock. There are twenty-five pupils in my class. Today we take a test, so last night I studied for the test for two hours. I hope I will pass the test. After class, I have a private lesson with a music teacher. It is a busy but good day.",
+   "key_words": [
+    {
+     "word": "hope",
+     "translation_uz": "umid qilmoq"
+    },
+    {
+     "word": "busy",
+     "translation_uz": "band"
+    },
+    {
+     "word": "music",
+     "translation_uz": "musiqa"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When is the English lesson?",
+     "options": [
+      "At nine o'clock",
+      "At eight o'clock",
+      "At noon",
+      "At four o'clock"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long did the writer study for the test?",
+     "options": [
+      "One hour",
+      "Two hours",
+      "Five hours",
+      "Ten minutes"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the writer have after class?",
+     "options": [
+      "A football match",
+      "A party",
+      "A private lesson",
+      "A trip"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Failing a Test",
+   "script": "Ahmad did not study for the test. He played games instead and missed the maths lesson on Monday. On Tuesday he took the test, but he failed it. He felt sad, so he talked to the teacher after class. The teacher said, \"Study every day, and you will pass the next test.\"",
+   "questions": [
+    {
+     "question": "What lesson did Ahmad miss?",
+     "options": [
+      "English",
+      "Art",
+      "History",
+      "Maths"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Why did he feel sad?",
+     "options": [
+      "He failed the test",
+      "He lost his bag",
+      "He was late",
+      "He was ill"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When did he talk to the teacher?",
+     "options": [
+      "Before school",
+      "After class",
+      "At home",
+      "On Sunday"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Take the test.",
+    "He missed the lesson.",
+    "We are in class."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "School",
+    "question_text": "What is your favourite lesson?",
+    "hint_words": [
+     "my favourite",
+     "English",
+     "maths",
+     "PE"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "How do you study for a test?",
+    "hint_words": [
+     "read",
+     "practise",
+     "notes",
+     "friends"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "How many pupils are in your class?",
+    "hint_words": [
+     "there are",
+     "about",
+     "twenty",
+     "thirty"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 158,
+  "title": "book",
+  "vocabulary": [
+   {
+    "word": "read a book",
+    "translation_uz": "kitob o'qimoq",
+    "example_sentence": "I read a book before bed."
+   },
+   {
+    "word": "write a book",
+    "translation_uz": "kitob yozmoq",
+    "example_sentence": "He wants to write a book about animals."
+   },
+   {
+    "word": "borrow a book",
+    "translation_uz": "kitob qarzga olmoq",
+    "example_sentence": "Can I borrow this book from you?"
+   },
+   {
+    "word": "lend a book",
+    "translation_uz": "kitob qarzga bermoq",
+    "example_sentence": "I will lend you my favourite book."
+   },
+   {
+    "word": "open a book",
+    "translation_uz": "kitobni ochmoq",
+    "example_sentence": "Open your book at page ten."
+   },
+   {
+    "word": "close a book",
+    "translation_uz": "kitobni yopmoq",
+    "example_sentence": "Close your books, please."
+   },
+   {
+    "word": "buy a book",
+    "translation_uz": "kitob sotib olmoq",
+    "example_sentence": "We bought a book at the market."
+   },
+   {
+    "word": "a book about animals",
+    "translation_uz": "hayvonlar haqidagi kitob",
+    "example_sentence": "This is a book about animals."
+   },
+   {
+    "word": "a book by a famous writer",
+    "translation_uz": "mashhur yozuvchining kitobi",
+    "example_sentence": "It is a book by a famous writer."
+   },
+   {
+    "word": "a library book",
+    "translation_uz": "kutubxona kitobi",
+    "example_sentence": "Return the library book on time."
+   },
+   {
+    "word": "a story book",
+    "translation_uz": "hikoyalar kitobi",
+    "example_sentence": "The child loves her story book."
+   },
+   {
+    "word": "a book shop",
+    "translation_uz": "kitob do'koni",
+    "example_sentence": "There is a book shop near my school."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I like to ___ a book before I go to sleep.",
+    "correct_word": "read",
+    "options": [
+     "read",
+     "drive",
+     "kick",
+     "swim",
+     "borrow"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can I ___ your book until tomorrow?",
+    "correct_word": "borrow",
+    "options": [
+     "borrow",
+     "bounce",
+     "bandage",
+     "celebrate",
+     "sell"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ your books and listen to me.",
+    "correct_word": "close",
+    "options": [
+     "close",
+     "cook",
+     "score",
+     "sell",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "This is a book ___ dinosaurs, with lots of pictures.",
+    "correct_word": "about",
+    "options": [
+     "about",
+     "to",
+     "at",
+     "off",
+     "kick"
+    ]
+   },
+   {
+    "sentence_with_blank": "She wrote a book ___ a famous writer.",
+    "correct_word": "by",
+    "options": [
+     "by",
+     "at",
+     "in",
+     "on",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "I must return this library book to the ___ tomorrow.",
+    "correct_word": "library",
+    "options": [
+     "library",
+     "stadium",
+     "kitchen",
+     "hospital",
+     "by"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Favourite Book",
+   "text": "I love to read a book every evening. My favourite is a book about animals. My uncle bought it at a book shop for my birthday. It is a book by a famous writer. Last week I lent the book to my friend, and she liked it too. Now I want to write a book of my own one day.",
+   "key_words": [
+    {
+     "word": "favourite",
+     "translation_uz": "sevimli"
+    },
+    {
+     "word": "famous",
+     "translation_uz": "mashhur"
+    },
+    {
+     "word": "of my own",
+     "translation_uz": "o'zimning"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is the favourite book about?",
+     "options": [
+      "Space",
+      "Sport",
+      "Animals",
+      "Food"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who bought the book?",
+     "options": [
+      "The teacher",
+      "The mother",
+      "A friend",
+      "The writer's uncle"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the writer want to do one day?",
+     "options": [
+      "Write a book",
+      "Sell a shop",
+      "Become a doctor",
+      "Win a game"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Library",
+   "script": "Every Saturday I go to the library with my brother. I borrow two books each week. This week I chose a story book and a book about the sea. I will read them and return them next Saturday. The librarian is very kind, and she always helps me to find a good book.",
+   "questions": [
+    {
+     "question": "When does the speaker go to the library?",
+     "options": [
+      "Every Sunday",
+      "Every Saturday",
+      "Every day",
+      "Once a month"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the speaker borrow this week?",
+     "options": [
+      "Two maths books",
+      "A film",
+      "A story book and a book about the sea",
+      "A magazine and a map"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who helps find a good book?",
+     "options": [
+      "The doctor",
+      "The teacher",
+      "The brother",
+      "The librarian"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Open your book.",
+    "I read a book.",
+    "She borrowed a book."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Reading",
+    "question_text": "Do you like reading books?",
+    "hint_words": [
+     "yes",
+     "no",
+     "stories",
+     "every day"
+    ]
+   },
+   {
+    "topic": "Reading",
+    "question_text": "What is your favourite book about?",
+    "hint_words": [
+     "it is about",
+     "animals",
+     "adventure",
+     "friends"
+    ]
+   },
+   {
+    "topic": "Reading",
+    "question_text": "Do you borrow books from the library?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sometimes",
+     "school"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 159,
+  "title": "page",
+  "vocabulary": [
+   {
+    "word": "turn the page",
+    "translation_uz": "sahifani varaqlamoq",
+    "example_sentence": "Turn the page, please."
+   },
+   {
+    "word": "open a book at page ten",
+    "translation_uz": "kitobni o'ninchi sahifadan ochmoq",
+    "example_sentence": "Open your book at page ten."
+   },
+   {
+    "word": "on page five",
+    "translation_uz": "beshinchi sahifada",
+    "example_sentence": "The picture is on page five."
+   },
+   {
+    "word": "on the next page",
+    "translation_uz": "keyingi sahifada",
+    "example_sentence": "The answer is on the next page."
+   },
+   {
+    "word": "on the opposite page",
+    "translation_uz": "qarama-qarshi sahifada",
+    "example_sentence": "The map is on the opposite page."
+   },
+   {
+    "word": "the first page",
+    "translation_uz": "birinchi sahifa",
+    "example_sentence": "I read the first page twice."
+   },
+   {
+    "word": "the last page",
+    "translation_uz": "oxirgi sahifa",
+    "example_sentence": "The last page is torn."
+   },
+   {
+    "word": "the front page",
+    "translation_uz": "gazetaning birinchi sahifasi",
+    "example_sentence": "The story was on the front page."
+   },
+   {
+    "word": "tear a page",
+    "translation_uz": "sahifani yirtmoq",
+    "example_sentence": "Don't tear the page."
+   },
+   {
+    "word": "a blank page",
+    "translation_uz": "bo'sh sahifa",
+    "example_sentence": "Write your name on a blank page."
+   },
+   {
+    "word": "a page of writing",
+    "translation_uz": "bir sahifa yozuv",
+    "example_sentence": "She wrote a page of writing."
+   },
+   {
+    "word": "a web page",
+    "translation_uz": "veb sahifa",
+    "example_sentence": "I found it on a web page."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Open your books ___ page twelve.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "in",
+     "by",
+     "for",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "The picture of the castle is ___ page nine.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "at",
+     "to",
+     "of",
+     "tear"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ the page and read the next story.",
+    "correct_word": "turn",
+    "options": [
+     "turn",
+     "kick",
+     "cook",
+     "wear",
+     "loud"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't ___ a page from the library book!",
+    "correct_word": "tear",
+    "options": [
+     "tear",
+     "score",
+     "bake",
+     "invite",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The last page of the notebook is ___, so I can write on it.",
+    "correct_word": "blank",
+    "options": [
+     "blank",
+     "tasty",
+     "sleepy",
+     "loud",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "The news was on the front ___ of the newspaper.",
+    "correct_word": "page",
+    "options": [
+     "page",
+     "pitch",
+     "pill",
+     "party",
+     "tasty"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Reading Together",
+   "text": "At school, we read a story together. The teacher said, \"Open your books at page twenty.\" The first page had a big picture of a dragon. On the next page the dragon was flying. When we reached the last page, the dragon went home. After the story, we wrote a page of writing about our favourite animal.",
+   "key_words": [
+    {
+     "word": "dragon",
+     "translation_uz": "ajdaho"
+    },
+    {
+     "word": "reached",
+     "translation_uz": "yetib keldi"
+    },
+    {
+     "word": "favourite",
+     "translation_uz": "sevimli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Which page did the teacher say to open?",
+     "options": [
+      "Page ten",
+      "Page twenty",
+      "Page fifty",
+      "Page two"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What was on the first page?",
+     "options": [
+      "A map",
+      "A boat",
+      "A big picture of a dragon",
+      "A garden"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the pupils write about?",
+     "options": [
+      "Their house",
+      "The weather",
+      "A football match",
+      "Their favourite animal"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Notebook",
+   "script": "I have a new notebook. Today it has a blank page, and I will write my diary on the first page. On page two I will draw a picture of my cat. I try not to tear any page, because it looks untidy. Later I will find a recipe on a web page and copy it on the last page.",
+   "questions": [
+    {
+     "question": "What is on the first page?",
+     "options": [
+      "The diary",
+      "A recipe",
+      "A drawing",
+      "A map"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What will the speaker draw on page two?",
+     "options": [
+      "A dog",
+      "A cat",
+      "A house",
+      "A tree"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where will the recipe be copied?",
+     "options": [
+      "On page two",
+      "On the front page",
+      "On the last page",
+      "On the cover"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Turn the page.",
+    "Open at page ten.",
+    "The page is blank."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Reading",
+    "question_text": "What is on the first page of your English book?",
+    "hint_words": [
+     "on the first page",
+     "a picture",
+     "title",
+     "unit"
+    ]
+   },
+   {
+    "topic": "School",
+    "question_text": "Do you write a page of writing every day?",
+    "hint_words": [
+     "yes",
+     "no",
+     "sometimes",
+     "diary"
+    ]
+   },
+   {
+    "topic": "Reading",
+    "question_text": "Do you read web pages? Which ones?",
+    "hint_words": [
+     "yes",
+     "news",
+     "games",
+     "school"
+    ]
+   }
+  ]
+ }
+]

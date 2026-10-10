@@ -1,0 +1,1312 @@
+[
+ {
+  "unit": 46,
+  "title": "traffic",
+  "vocabulary": [
+   {
+    "word": "heavy traffic",
+    "translation_uz": "zich tirbandlik",
+    "example_sentence": "There is always heavy traffic in the morning."
+   },
+   {
+    "word": "light traffic",
+    "translation_uz": "kam transport oqimi",
+    "example_sentence": "Light traffic made the trip quick."
+   },
+   {
+    "word": "a traffic jam",
+    "translation_uz": "tirbandlik",
+    "example_sentence": "We were stuck in a traffic jam for an hour."
+   },
+   {
+    "word": "be stuck in traffic",
+    "translation_uz": "tirbandlikda qolib ketmoq",
+    "example_sentence": "I was stuck in traffic and arrived late."
+   },
+   {
+    "word": "traffic lights",
+    "translation_uz": "svetofor",
+    "example_sentence": "Stop when the traffic lights are red."
+   },
+   {
+    "word": "a traffic warden",
+    "translation_uz": "yo'l harakati nazoratchisi",
+    "example_sentence": "A traffic warden gave the driver a fine."
+   },
+   {
+    "word": "traffic rules",
+    "translation_uz": "yo'l harakati qoidalari",
+    "example_sentence": "Every driver must learn the traffic rules."
+   },
+   {
+    "word": "a traffic sign",
+    "translation_uz": "yo'l belgisi",
+    "example_sentence": "That traffic sign means no parking."
+   },
+   {
+    "word": "traffic noise",
+    "translation_uz": "transport shovqini",
+    "example_sentence": "Traffic noise keeps me awake at night."
+   },
+   {
+    "word": "traffic congestion",
+    "translation_uz": "transport tiqilib qolishi",
+    "example_sentence": "The city wants to reduce traffic congestion."
+   },
+   {
+    "word": "rush-hour traffic",
+    "translation_uz": "gavjum soatlardagi transport",
+    "example_sentence": "Rush-hour traffic is worst at five o'clock."
+   },
+   {
+    "word": "the traffic flows/moves",
+    "translation_uz": "transport oqimi harakatlanadi",
+    "example_sentence": "The traffic is moving again."
+   },
+   {
+    "word": "road traffic",
+    "translation_uz": "avtomobil transporti",
+    "example_sentence": "Road traffic has doubled in ten years."
+   },
+   {
+    "word": "traffic police",
+    "translation_uz": "yo'l harakati politsiyasi",
+    "example_sentence": "The traffic police closed the road for a parade."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We were stuck in a traffic ___ for almost an hour.",
+    "correct_word": "jam",
+    "options": [
+     "block",
+     "jam",
+     "knot",
+     "crowd"
+    ]
+   },
+   {
+    "sentence_with_blank": "You must stop when the traffic ___ are red.",
+    "correct_word": "lights",
+    "options": [
+     "signs",
+     "lamps",
+     "lights",
+     "colours"
+    ]
+   },
+   {
+    "sentence_with_blank": "I arrived late because I was ___ in traffic.",
+    "correct_word": "stuck",
+    "options": [
+     "locked",
+     "lost",
+     "tied",
+     "stuck"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ traffic at five o'clock makes the roads very busy.",
+    "correct_word": "rush-hour",
+    "options": [
+     "rush-hour",
+     "midnight",
+     "holiday",
+     "summer"
+    ]
+   },
+   {
+    "sentence_with_blank": "The city is building a tram line to ___ traffic congestion.",
+    "correct_word": "reduce",
+    "options": [
+     "reach",
+     "reduce",
+     "raise",
+     "repair"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is ___ traffic on Sunday mornings, so the roads are almost empty.",
+    "correct_word": "light",
+    "options": [
+     "thin",
+     "soft",
+     "light",
+     "weak"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Morning Traffic",
+   "text": "Every morning the main road in our town is full of cars and buses. The rush-hour traffic is so heavy that a short trip can take forty minutes. Last Monday my father was stuck in a traffic jam because the traffic lights were broken. A traffic warden stood at the corner and showed drivers when to go. The noise was terrible, but nobody was angry. The mayor says the city wants to reduce traffic congestion by building a new bus lane. I hope it works, because I would like to arrive at school on time.",
+   "key_words": [
+    {
+     "word": "mayor",
+     "translation_uz": "shahar hokimi"
+    },
+    {
+     "word": "bus lane",
+     "translation_uz": "avtobus yo'lagi"
+    },
+    {
+     "word": "angry",
+     "translation_uz": "jahldor"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why was there a traffic jam on Monday?",
+     "options": [
+      "The traffic lights were broken",
+      "There was an accident",
+      "It was raining",
+      "The road was closed"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who helped the drivers?",
+     "options": [
+      "A teacher",
+      "A traffic warden",
+      "A policeman on a horse",
+      "A bus driver"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How does the city want to reduce congestion?",
+     "options": [
+      "By closing the road",
+      "By making a bridge",
+      "By building a new bus lane",
+      "By selling cars"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Late for School",
+   "script": "Ali: Sorry I am late, Miss. There was a lot of traffic on the way. Teacher: Was there an accident? Ali: No, only heavy traffic. The traffic lights near the market were not working, and we were stuck for twenty minutes. Teacher: I see. Next time, please leave ten minutes earlier. Ali: Yes, I will. My mother says the rush-hour traffic is worse on Mondays. Teacher: Quite true. Now please sit down and open your book.",
+   "questions": [
+    {
+     "question": "Why was Ali late?",
+     "options": [
+      "He missed the bus",
+      "He was ill",
+      "He forgot his book",
+      "There was heavy traffic"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long was he stuck?",
+     "options": [
+      "Twenty minutes",
+      "Ten minutes",
+      "One hour",
+      "Two hours"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "When is the traffic worse, according to Ali's mother?",
+     "options": [
+      "On Fridays",
+      "On Mondays",
+      "On Sundays",
+      "In the evenings"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "There is heavy traffic today.",
+    "Stop at the traffic lights.",
+    "We were stuck in traffic."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Traffic",
+    "question_text": "Is there a lot of traffic in your town? When?",
+    "hint_words": [
+     "traffic",
+     "morning",
+     "cars",
+     "busy"
+    ]
+   },
+   {
+    "topic": "Traffic",
+    "question_text": "What can a city do to reduce traffic?",
+    "hint_words": [
+     "buses",
+     "bikes",
+     "metro",
+     "fewer cars"
+    ]
+   },
+   {
+    "topic": "Traffic",
+    "question_text": "How do you go to school: by bus, on foot or by car?",
+    "hint_words": [
+     "by",
+     "on foot",
+     "walk",
+     "usually"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 47,
+  "title": "street",
+  "vocabulary": [
+   {
+    "word": "walk down the street",
+    "translation_uz": "ko'cha bo'ylab yurmoq",
+    "example_sentence": "We walked down the street to the bakery."
+   },
+   {
+    "word": "cross the street",
+    "translation_uz": "ko'chadan o'tmoq",
+    "example_sentence": "Look both ways before you cross the street."
+   },
+   {
+    "word": "a busy street",
+    "translation_uz": "gavjum ko'cha",
+    "example_sentence": "Their shop is on a busy street."
+   },
+   {
+    "word": "a quiet street",
+    "translation_uz": "tinch ko'cha",
+    "example_sentence": "I live on a quiet street near the park."
+   },
+   {
+    "word": "a narrow street",
+    "translation_uz": "tor ko'cha",
+    "example_sentence": "The narrow street was too small for lorries."
+   },
+   {
+    "word": "a street market",
+    "translation_uz": "ko'cha bozori",
+    "example_sentence": "We bought fruit at the street market."
+   },
+   {
+    "word": "a street lamp",
+    "translation_uz": "ko'cha chirog'i",
+    "example_sentence": "The street lamps come on at six."
+   },
+   {
+    "word": "a street name",
+    "translation_uz": "ko'cha nomi",
+    "example_sentence": "What is the street name, please?"
+   },
+   {
+    "word": "street food",
+    "translation_uz": "ko'cha taomi",
+    "example_sentence": "Street food is cheap and tasty."
+   },
+   {
+    "word": "a street musician",
+    "translation_uz": "ko'cha musiqachisi",
+    "example_sentence": "A street musician played the guitar by the bridge."
+   },
+   {
+    "word": "the main street",
+    "translation_uz": "asosiy ko'cha",
+    "example_sentence": "The post office is on the main street."
+   },
+   {
+    "word": "in the street",
+    "translation_uz": "ko'chada",
+    "example_sentence": "Children were playing in the street."
+   },
+   {
+    "word": "a one-way street",
+    "translation_uz": "bir tomonlama ko'cha",
+    "example_sentence": "You cannot turn left in a one-way street."
+   },
+   {
+    "word": "at the end of the street",
+    "translation_uz": "ko'chaning oxirida",
+    "example_sentence": "The school is at the end of the street."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Look left and right before you ___ the street.",
+    "correct_word": "cross",
+    "options": [
+     "pass",
+     "jump",
+     "cross",
+     "leave"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our flat is on a very ___ street, so we can hear the traffic all day.",
+    "correct_word": "busy",
+    "options": [
+     "quick",
+     "hard",
+     "rich",
+     "busy"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ lamps came on when it got dark.",
+    "correct_word": "street",
+    "options": [
+     "street",
+     "road",
+     "city",
+     "path"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children were playing football ___ the street.",
+    "correct_word": "in",
+    "options": [
+     "at",
+     "in",
+     "to",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can only drive in one direction in a one-___ street.",
+    "correct_word": "way",
+    "options": [
+     "side",
+     "path",
+     "way",
+     "line"
+    ]
+   },
+   {
+    "sentence_with_blank": "Street ___ such as kebabs and samsa is popular with tourists.",
+    "correct_word": "food",
+    "options": [
+     "foods",
+     "meal",
+     "dish",
+     "food"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Street",
+   "text": "I live on a quiet street at the edge of the town. Our street is narrow, with old trees on both sides. At the end of the street there is a small market where people sell fruit and bread. On Saturdays a street musician plays the guitar near the corner, and the neighbours stop to listen. In the evening the street lamps come on, and children play in the street until their mothers call them. Last year the council wanted to turn it into a busy one-way street, but we signed a letter and kept it peaceful.",
+   "key_words": [
+    {
+     "word": "neighbour",
+     "translation_uz": "qo'shni"
+    },
+    {
+     "word": "council",
+     "translation_uz": "kengash"
+    },
+    {
+     "word": "peaceful",
+     "translation_uz": "tinch"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the market?",
+     "options": [
+      "Next to the school",
+      "At the end of the street",
+      "In the park",
+      "On the main street"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the street musician play?",
+     "options": [
+      "The piano",
+      "The drum",
+      "The guitar",
+      "The violin"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the neighbours do to keep the street quiet?",
+     "options": [
+      "They closed the market",
+      "They built a wall",
+      "They called the police",
+      "They signed a letter"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Where is the Café?",
+   "script": "Tourist: Excuse me, is there a café near here? Local: Yes. Walk down this street for two minutes. You will see a street market on your left. Cross the street at the traffic lights, and the café is on the corner of a quiet street called Garden Street. Tourist: Is it a busy street? Local: Not really. There is a street musician on Saturdays, but today it is calm. Tourist: Thank you very much.",
+   "questions": [
+    {
+     "question": "How long should the tourist walk down the street?",
+     "options": [
+      "Two minutes",
+      "Ten minutes",
+      "Half an hour",
+      "Five minutes"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where is the café?",
+     "options": [
+      "Next to the market",
+      "On the corner of Garden Street",
+      "Near the bridge",
+      "Opposite the school"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who plays on Saturdays?",
+     "options": [
+      "A school band",
+      "A teacher",
+      "A street musician",
+      "A baker"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Cross the street carefully.",
+    "I live on a quiet street.",
+    "The market is down the street."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Streets",
+    "question_text": "Describe the street where you live.",
+    "hint_words": [
+     "quiet",
+     "busy",
+     "shops",
+     "neighbours"
+    ]
+   },
+   {
+    "topic": "Streets",
+    "question_text": "Do you like street food? What is your favourite?",
+    "hint_words": [
+     "tasty",
+     "cheap",
+     "samsa",
+     "kebab"
+    ]
+   },
+   {
+    "topic": "Streets",
+    "question_text": "Why should children be careful in the street?",
+    "hint_words": [
+     "cars",
+     "cross",
+     "look",
+     "safe"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 48,
+  "title": "route and map",
+  "vocabulary": [
+   {
+    "word": "take a route",
+    "translation_uz": "yo'ldan bormoq",
+    "example_sentence": "We took the quickest route to the station."
+   },
+   {
+    "word": "the shortest route",
+    "translation_uz": "eng qisqa yo'l",
+    "example_sentence": "What is the shortest route to the lake?"
+   },
+   {
+    "word": "a bus route",
+    "translation_uz": "avtobus yo'nalishi",
+    "example_sentence": "This bus route goes past the university."
+   },
+   {
+    "word": "a scenic route",
+    "translation_uz": "manzarali yo'l",
+    "example_sentence": "They took a scenic route through the mountains."
+   },
+   {
+    "word": "plan a route",
+    "translation_uz": "yo'nalishni rejalashtirmoq",
+    "example_sentence": "Let's plan our route before we leave."
+   },
+   {
+    "word": "follow a route",
+    "translation_uz": "yo'nalish bo'ylab ketmoq",
+    "example_sentence": "Follow the route marked on the map."
+   },
+   {
+    "word": "on the way / en route",
+    "translation_uz": "yo'lda",
+    "example_sentence": "We saw a lovely village en route to the coast."
+   },
+   {
+    "word": "read a map",
+    "translation_uz": "xaritani o'qimoq",
+    "example_sentence": "Can you read a map?"
+   },
+   {
+    "word": "look at a map",
+    "translation_uz": "xaritaga qaramoq",
+    "example_sentence": "He looked at the map and found the hotel."
+   },
+   {
+    "word": "a street map",
+    "translation_uz": "shahar ko'chalari xaritasi",
+    "example_sentence": "I bought a street map of Samarkand."
+   },
+   {
+    "word": "a road map",
+    "translation_uz": "avtomobil yo'llari xaritasi",
+    "example_sentence": "The road map shows all the main roads."
+   },
+   {
+    "word": "a map of the city",
+    "translation_uz": "shahar xaritasi",
+    "example_sentence": "There is a map of the city at the station."
+   },
+   {
+    "word": "be on the map",
+    "translation_uz": "xaritada bo'lmoq",
+    "example_sentence": "The village is too small to be on the map."
+   },
+   {
+    "word": "a map reference",
+    "translation_uz": "xarita koordinatasi",
+    "example_sentence": "The guide gave us a map reference."
+   },
+   {
+    "word": "get lost",
+    "translation_uz": "yo'ldan adashmoq",
+    "example_sentence": "We got lost, so we checked the map."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Which is the ___ route to the airport from here?",
+    "correct_word": "shortest",
+    "options": [
+     "tallest",
+     "lowest",
+     "smallest",
+     "shortest"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's ___ our route before we set off.",
+    "correct_word": "plan",
+    "options": [
+     "plan",
+     "print",
+     "pull",
+     "pack"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ a map? I always get confused.",
+    "correct_word": "read",
+    "options": [
+     "see",
+     "read",
+     "tell",
+     "speak"
+    ]
+   },
+   {
+    "sentence_with_blank": "I bought a street ___ of the old town.",
+    "correct_word": "map",
+    "options": [
+     "paper",
+     "card",
+     "map",
+     "photo"
+    ]
+   },
+   {
+    "sentence_with_blank": "We saw a beautiful village ___ route to the coast.",
+    "correct_word": "en",
+    "options": [
+     "on",
+     "in",
+     "by",
+     "en"
+    ]
+   },
+   {
+    "sentence_with_blank": "Without a map we ___ lost in the forest.",
+    "correct_word": "got",
+    "options": [
+     "got",
+     "came",
+     "stayed",
+     "made"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Lost in the Old Town",
+   "text": "Last summer we visited the old town of Khiva. We had a street map, but the narrow lanes made it hard to follow our route. At one corner, we got lost and could not find the main gate. My sister looked at the map again and saw that we had taken the wrong turn. A friendly shopkeeper pointed to the shortest route back and told us about a scenic route along the old wall. We followed it and saw the sunset over the towers. In the end, getting lost was the best part of the day.",
+   "key_words": [
+    {
+     "word": "lane",
+     "translation_uz": "tor ko'cha"
+    },
+    {
+     "word": "wrong turn",
+     "translation_uz": "noto'g'ri burilish"
+    },
+    {
+     "word": "tower",
+     "translation_uz": "minora"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the family carry?",
+     "options": [
+      "A compass",
+      "A phone with a game",
+      "A street map",
+      "A guide book only"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who helped them find the way?",
+     "options": [
+      "A policeman",
+      "A teacher",
+      "A taxi driver",
+      "A shopkeeper"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did they see on the scenic route?",
+     "options": [
+      "The sunset over the towers",
+      "A river",
+      "A museum",
+      "A big market"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning the Route",
+   "script": "Dad: Let's plan our route for tomorrow. Girl: Can you show me the map? Dad: Sure. Here is the road map. The shortest route goes through the city, but there is heavy traffic. Girl: What about the scenic route along the river? Dad: That takes forty minutes longer, but it is more beautiful. Girl: I vote for the scenic route. We can stop for lunch en route. Dad: Good idea. I will read the map while you look out for signs.",
+   "questions": [
+    {
+     "question": "How much longer is the scenic route?",
+     "options": [
+      "Four hours",
+      "Forty minutes",
+      "Ten minutes",
+      "One hour"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why is the shortest route not good?",
+     "options": [
+      "It is closed",
+      "It is very long",
+      "Heavy traffic",
+      "It has no signs"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will they do en route?",
+     "options": [
+      "Visit friends",
+      "Change the car",
+      "Buy a map",
+      "Stop for lunch"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Let us plan our route.",
+    "He looked at the map.",
+    "We took the shortest route."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Maps",
+    "question_text": "Do you prefer a paper map or a phone map? Why?",
+    "hint_words": [
+     "paper",
+     "phone",
+     "easy",
+     "battery"
+    ]
+   },
+   {
+    "topic": "Maps",
+    "question_text": "What is the route from your home to school?",
+    "hint_words": [
+     "go",
+     "turn",
+     "walk",
+     "bus"
+    ]
+   },
+   {
+    "topic": "Maps",
+    "question_text": "Have you ever got lost? What did you do?",
+    "hint_words": [
+     "lost",
+     "ask",
+     "map",
+     "helped"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 49,
+  "title": "accident",
+  "vocabulary": [
+   {
+    "word": "have an accident",
+    "translation_uz": "hodisaga uchramoq",
+    "example_sentence": "He had an accident on his bike last week."
+   },
+   {
+    "word": "a car accident",
+    "translation_uz": "avtohalokat",
+    "example_sentence": "A car accident closed the main road."
+   },
+   {
+    "word": "a road accident",
+    "translation_uz": "yo'l-transport hodisasi",
+    "example_sentence": "Road accidents are less common on this street now."
+   },
+   {
+    "word": "a serious accident",
+    "translation_uz": "jiddiy hodisa",
+    "example_sentence": "It was a serious accident, but everyone was helped quickly."
+   },
+   {
+    "word": "a minor accident",
+    "translation_uz": "kichik hodisa",
+    "example_sentence": "There was a minor accident near the school."
+   },
+   {
+    "word": "an accident happens",
+    "translation_uz": "hodisa sodir bo'ladi",
+    "example_sentence": "Accidents happen when drivers go too fast."
+   },
+   {
+    "word": "by accident",
+    "translation_uz": "tasodifan",
+    "example_sentence": "I broke the cup by accident."
+   },
+   {
+    "word": "cause an accident",
+    "translation_uz": "hodisaga sabab bo'lmoq",
+    "example_sentence": "Wet roads can cause accidents."
+   },
+   {
+    "word": "avoid an accident",
+    "translation_uz": "hodisadan saqlanmoq",
+    "example_sentence": "The driver stopped in time to avoid an accident."
+   },
+   {
+    "word": "witness an accident",
+    "translation_uz": "hodisaning guvohi bo'lmoq",
+    "example_sentence": "She witnessed an accident outside the shop."
+   },
+   {
+    "word": "an accident victim",
+    "translation_uz": "hodisa jabrlanuvchisi",
+    "example_sentence": "The accident victim was taken to hospital."
+   },
+   {
+    "word": "report an accident",
+    "translation_uz": "hodisa haqida xabar bermoq",
+    "example_sentence": "If you see an accident, report it to the police."
+   },
+   {
+    "word": "an accident at work",
+    "translation_uz": "ish joyidagi hodisa",
+    "example_sentence": "Safety rules help prevent an accident at work."
+   },
+   {
+    "word": "accident prevention",
+    "translation_uz": "hodisalarning oldini olish",
+    "example_sentence": "Accident prevention starts with simple rules."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Slow down on wet roads, or you may ___ an accident.",
+    "correct_word": "cause",
+    "options": [
+     "cause",
+     "do",
+     "miss",
+     "stop"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'm sorry, I spilled the juice ___ accident.",
+    "correct_word": "by",
+    "options": [
+     "with",
+     "by",
+     "on",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "If you see an accident, you should ___ it to the police.",
+    "correct_word": "report",
+    "options": [
+     "say",
+     "speak",
+     "report",
+     "lend"
+    ]
+   },
+   {
+    "sentence_with_blank": "The driver braked quickly and managed to ___ an accident.",
+    "correct_word": "avoid",
+    "options": [
+     "invite",
+     "refuse",
+     "create",
+     "avoid"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was only a ___ accident, and nobody was badly hurt.",
+    "correct_word": "minor",
+    "options": [
+     "minor",
+     "slow",
+     "low",
+     "wide"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many road ___ happen when people drive too fast.",
+    "correct_word": "accidents",
+    "options": [
+     "accident",
+     "accidents",
+     "accidental",
+     "accidentally"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Lucky Escape",
+   "text": "Yesterday afternoon I witnessed an accident near our school. A small car turned the corner too fast, and a boy on a bike had to stop suddenly. Luckily the driver braked in time, so there was only a minor accident. The boy fell off his bike, but he stood up and said he was fine. A teacher called the police to report the accident, and a doctor checked the boy to be safe. Everyone agreed that accidents happen quickly, and that slower driving can avoid many of them. Today the school put up a new traffic sign near the gate.",
+   "key_words": [
+    {
+     "word": "brake",
+     "translation_uz": "tormoz bermoq"
+    },
+    {
+     "word": "suddenly",
+     "translation_uz": "to'satdan"
+    },
+    {
+     "word": "luckily",
+     "translation_uz": "baxtga qarshi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the accident happen?",
+     "options": [
+      "On a bridge",
+      "At the market",
+      "In a park",
+      "Near the school"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who reported the accident?",
+     "options": [
+      "A teacher",
+      "The boy",
+      "The driver",
+      "A doctor"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the school do today?",
+     "options": [
+      "Closed the road",
+      "Put up a new traffic sign",
+      "Changed the rules",
+      "Bought a car"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Safety Talk",
+   "script": "Officer: Good morning, children. Today I want to talk about road accidents. Most accidents happen because drivers or walkers are not careful. Always look both ways before you cross the street, and use the traffic lights. If you witness an accident, do not be afraid. Stay calm and tell an adult, who can report it to the police. Wear a helmet on your bike. Accident prevention is simple, and it starts with you. Now, does anyone have a question?",
+   "questions": [
+    {
+     "question": "What do most accidents come from?",
+     "options": [
+      "Bad weather",
+      "Broken cars",
+      "People who are not careful",
+      "Old roads"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What should you do if you see an accident?",
+     "options": [
+      "Run away",
+      "Take photos",
+      "Drive home",
+      "Tell an adult"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What should you wear on a bike?",
+     "options": [
+      "A helmet",
+      "A raincoat",
+      "Gloves",
+      "A scarf"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "He had a small accident.",
+    "Accidents happen very quickly.",
+    "Please report the accident."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Safety",
+    "question_text": "What traffic rules should children always follow?",
+    "hint_words": [
+     "look",
+     "cross",
+     "lights",
+     "helmet"
+    ]
+   },
+   {
+    "topic": "Safety",
+    "question_text": "Have you ever seen a minor accident? What happened?",
+    "hint_words": [
+     "saw",
+     "minor",
+     "help",
+     "fine"
+    ]
+   },
+   {
+    "topic": "Safety",
+    "question_text": "How can drivers avoid accidents?",
+    "hint_words": [
+     "slow",
+     "careful",
+     "rules",
+     "phone"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 50,
+  "title": "injury",
+  "vocabulary": [
+   {
+    "word": "suffer an injury",
+    "translation_uz": "jarohat olmoq",
+    "example_sentence": "The player suffered a knee injury."
+   },
+   {
+    "word": "a serious injury",
+    "translation_uz": "jiddiy jarohat",
+    "example_sentence": "He had a serious injury but is now recovering."
+   },
+   {
+    "word": "a minor injury",
+    "translation_uz": "yengil jarohat",
+    "example_sentence": "She had only a minor injury and went home."
+   },
+   {
+    "word": "a head injury",
+    "translation_uz": "bosh jarohati",
+    "example_sentence": "A helmet protects you from a head injury."
+   },
+   {
+    "word": "a knee/leg injury",
+    "translation_uz": "tizza/oyoq jarohati",
+    "example_sentence": "A knee injury kept him out of the match."
+   },
+   {
+    "word": "a sports injury",
+    "translation_uz": "sport jarohati",
+    "example_sentence": "Warming up helps to prevent a sports injury."
+   },
+   {
+    "word": "recover from an injury",
+    "translation_uz": "jarohatdan tuzalmoq",
+    "example_sentence": "It takes time to recover from an injury."
+   },
+   {
+    "word": "injure yourself",
+    "translation_uz": "o'zini jarohatlamoq",
+    "example_sentence": "Be careful not to injure yourself."
+   },
+   {
+    "word": "be injured",
+    "translation_uz": "jarohatlanmoq",
+    "example_sentence": "Two cyclists were slightly injured."
+   },
+   {
+    "word": "an injured player",
+    "translation_uz": "jarohatlangan o'yinchi",
+    "example_sentence": "The injured player left the field."
+   },
+   {
+    "word": "treat an injury",
+    "translation_uz": "jarohatni davolamoq",
+    "example_sentence": "The nurse treated the injury quickly."
+   },
+   {
+    "word": "injuries to the leg",
+    "translation_uz": "oyoqdagi jarohatlar",
+    "example_sentence": "The fall caused injuries to the leg."
+   },
+   {
+    "word": "prevent injury",
+    "translation_uz": "jarohatning oldini olmoq",
+    "example_sentence": "Good shoes help prevent injury."
+   },
+   {
+    "word": "escape without injury",
+    "translation_uz": "jarohatsiz qutulmoq",
+    "example_sentence": "He escaped without injury."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The football player ___ a knee injury during the match.",
+    "correct_word": "suffered",
+    "options": [
+     "drew",
+     "suffered",
+     "won",
+     "lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "He was lucky and escaped ___ injury after the fall.",
+    "correct_word": "without",
+    "options": [
+     "under",
+     "free",
+     "without",
+     "after"
+    ]
+   },
+   {
+    "sentence_with_blank": "It took her three months to ___ from the injury.",
+    "correct_word": "recover",
+    "options": [
+     "remove",
+     "return",
+     "repair",
+     "recover"
+    ]
+   },
+   {
+    "sentence_with_blank": "Be careful with that knife or you may ___ yourself.",
+    "correct_word": "injure",
+    "options": [
+     "injure",
+     "wreck",
+     "spoil",
+     "waste"
+    ]
+   },
+   {
+    "sentence_with_blank": "Wearing a helmet can help prevent a head ___.",
+    "correct_word": "injury",
+    "options": [
+     "injured",
+     "injury",
+     "injuring",
+     "injuries"
+    ]
+   },
+   {
+    "sentence_with_blank": "The nurse quickly ___ the injury and put a bandage on it.",
+    "correct_word": "treated",
+    "options": [
+     "painted",
+     "moved",
+     "treated",
+     "washed"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Back on the Pitch",
+   "text": "Every Saturday Tarik plays football for his school team. Last month he suffered a knee injury during an important match. It was not a very serious injury, but he could not play for six weeks. A doctor treated the injury and told him to rest. Tarik was sad, but he watched the team train and helped with the equipment. He did gentle exercises every day to recover from the injury. This Saturday he is allowed to play again. He says he will warm up carefully to prevent another sports injury.",
+   "key_words": [
+    {
+     "word": "equipment",
+     "translation_uz": "jihozlar"
+    },
+    {
+     "word": "gentle",
+     "translation_uz": "yengil"
+    },
+    {
+     "word": "warm up",
+     "translation_uz": "isinmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Tarik injure?",
+     "options": [
+      "His knee",
+      "His arm",
+      "His head",
+      "His ankle"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long was he out of the team?",
+     "options": [
+      "Two weeks",
+      "Six weeks",
+      "Six months",
+      "One day"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does Tarik plan to do now?",
+     "options": [
+      "Stop playing",
+      "Change sports",
+      "Warm up carefully",
+      "Coach the team"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the First-Aid Room",
+   "script": "Nurse: What happened, Leo? Leo: I fell off my skateboard and hurt my arm. Nurse: Let me see. It is only a minor injury. You have a small cut, and the skin is red. I will clean it and put on a bandage. Leo: Will I recover quickly? Nurse: Yes, in a few days. But do not use the skateboard until your arm feels better. And next time, wear a helmet and gloves to prevent injury. Leo: I will. Thank you.",
+   "questions": [
+    {
+     "question": "What part of Leo's body is hurt?",
+     "options": [
+      "His leg",
+      "His head",
+      "His back",
+      "His arm"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How serious is the injury?",
+     "options": [
+      "Minor",
+      "Very serious",
+      "Broken bone",
+      "Not hurt"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What advice does the nurse give?",
+     "options": [
+      "Stay in bed",
+      "Wear a helmet and gloves",
+      "Take a long rest",
+      "Use ice daily"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "He suffered a knee injury.",
+    "She recovered from her injury.",
+    "Wear a helmet to prevent injury."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Injuries",
+    "question_text": "Have you ever had a minor injury? What was it?",
+    "hint_words": [
+     "fell",
+     "hurt",
+     "bandage",
+     "better"
+    ]
+   },
+   {
+    "topic": "Injuries",
+    "question_text": "How can sportspeople prevent injury?",
+    "hint_words": [
+     "warm up",
+     "careful",
+     "rest",
+     "equipment"
+    ]
+   },
+   {
+    "topic": "Injuries",
+    "question_text": "What should you do if a friend is injured?",
+    "hint_words": [
+     "help",
+     "adult",
+     "doctor",
+     "calm"
+    ]
+   }
+  ]
+ }
+]

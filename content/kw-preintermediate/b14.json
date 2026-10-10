@@ -1,0 +1,1574 @@
+[
+ {
+  "unit": 114,
+  "title": "hair, beard, moustache",
+  "vocabulary": [
+   {
+    "word": "brush your hair",
+    "translation_uz": "sochni taramoq",
+    "example_sentence": "I brush my hair every morning."
+   },
+   {
+    "word": "wash your hair",
+    "translation_uz": "sochni yuvmoq",
+    "example_sentence": "She washes her hair twice a week."
+   },
+   {
+    "word": "cut your hair",
+    "translation_uz": "sochni kestirmoq",
+    "example_sentence": "I need to cut my hair before school."
+   },
+   {
+    "word": "dry your hair",
+    "translation_uz": "sochni quritmoq",
+    "example_sentence": "Dry your hair, it is cold outside."
+   },
+   {
+    "word": "dark hair",
+    "translation_uz": "qora soch",
+    "example_sentence": "My sister has dark hair."
+   },
+   {
+    "word": "fair hair",
+    "translation_uz": "och sariq soch",
+    "example_sentence": "The little boy has fair hair."
+   },
+   {
+    "word": "long curly hair",
+    "translation_uz": "uzun jingalak soch",
+    "example_sentence": "The girl with long curly hair is my cousin."
+   },
+   {
+    "word": "have a beard",
+    "translation_uz": "soqoli bo'lmoq",
+    "example_sentence": "My grandfather has a beard."
+   },
+   {
+    "word": "grow a beard",
+    "translation_uz": "soqol qo'ymoq",
+    "example_sentence": "Dad wants to grow a beard this winter."
+   },
+   {
+    "word": "shave off a beard",
+    "translation_uz": "soqolni qirib tashlamoq",
+    "example_sentence": "He shaved off his beard on Monday."
+   },
+   {
+    "word": "a long grey beard",
+    "translation_uz": "uzun oq soqol",
+    "example_sentence": "Santa has a long grey beard."
+   },
+   {
+    "word": "grow a moustache",
+    "translation_uz": "mo'ylov qo'ymoq",
+    "example_sentence": "My uncle is trying to grow a moustache."
+   },
+   {
+    "word": "a thick moustache",
+    "translation_uz": "qalin mo'ylov",
+    "example_sentence": "The waiter has a thick moustache."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ your hair before we go out.",
+    "correct_word": "brush",
+    "options": [
+     "brush",
+     "drink",
+     "open",
+     "read",
+     "grow"
+    ]
+   },
+   {
+    "sentence_with_blank": "My dad is going to ___ a beard for the winter.",
+    "correct_word": "grow",
+    "options": [
+     "grow",
+     "sing",
+     "climb",
+     "carry",
+     "loud"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has long, curly hair and ___ eyes.",
+    "correct_word": "dark",
+    "options": [
+     "dark",
+     "tall",
+     "heavy",
+     "loud",
+     "painted"
+    ]
+   },
+   {
+    "sentence_with_blank": "I washed my hair and then ___ it with a towel.",
+    "correct_word": "dried",
+    "options": [
+     "dried",
+     "ate",
+     "built",
+     "kicked",
+     "drink"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ off his beard because it was too hot.",
+    "correct_word": "shaved",
+    "options": [
+     "shaved",
+     "grew",
+     "painted",
+     "sold",
+     "dark"
+    ]
+   },
+   {
+    "sentence_with_blank": "The old man has a thick, white ___ above his lip.",
+    "correct_word": "moustache",
+    "options": [
+     "moustache",
+     "pocket",
+     "knee",
+     "finger",
+     "kicked"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Grandfather",
+   "text": "My grandfather has a long grey beard and a thick moustache. He grew the beard ten years ago. Every morning he brushes his hair and combs his beard in front of the mirror. When I was little, I tried to cut his moustache with scissors, and Mum was very angry! Last summer he shaved off his beard, and we did not know him. Now he is growing it again.",
+   "key_words": [
+    {
+     "word": "moustache",
+     "translation_uz": "mo'ylov"
+    },
+    {
+     "word": "scissors",
+     "translation_uz": "qaychi"
+    },
+    {
+     "word": "mirror",
+     "translation_uz": "ko'zgu"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How long ago did the grandfather grow his beard?",
+     "options": [
+      "Ten years ago",
+      "Last summer",
+      "Two years ago",
+      "Yesterday"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who tried to cut the moustache?",
+     "options": [
+      "The writer when he or she was little",
+      "Mum",
+      "The grandfather himself",
+      "A hairdresser"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the family not know him last summer?",
+     "options": [
+      "He cut his hair short",
+      "He wore a hat",
+      "He was ill",
+      "He shaved off his beard"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Hairdresser",
+   "script": "Today I went to the hairdresser. I have long hair, so I wanted to cut it short. The hairdresser washed my hair first and then dried it. My father waited for me. He has a big black moustache and a short beard. After the haircut, I looked in the mirror and smiled. Tomorrow I will brush my new hairstyle for school.",
+   "questions": [
+    {
+     "question": "What did the hairdresser do first?",
+     "options": [
+      "Cut the beard",
+      "Washed the writer's hair",
+      "Painted the hair",
+      "Dried the hair"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who has a black moustache?",
+     "options": [
+      "The hairdresser",
+      "The writer",
+      "The writer's father",
+      "The writer's teacher"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the writer want to do?",
+     "options": [
+      "Grow the hair longer",
+      "Dye the hair",
+      "Cut the long hair short",
+      "Shave the head"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I brush my hair.",
+    "He has a beard.",
+    "She has dark hair."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Looks",
+    "question_text": "What colour is your hair?",
+    "hint_words": [
+     "dark",
+     "fair",
+     "brown",
+     "my hair is"
+    ]
+   },
+   {
+    "topic": "Looks",
+    "question_text": "Do you brush your hair every day?",
+    "hint_words": [
+     "yes",
+     "morning",
+     "I brush",
+     "comb"
+    ]
+   },
+   {
+    "topic": "Looks",
+    "question_text": "Does anyone in your family have a beard or a moustache?",
+    "hint_words": [
+     "my father",
+     "grandfather",
+     "has a",
+     "beard"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 115,
+  "title": "face",
+  "vocabulary": [
+   {
+    "word": "wash your face",
+    "translation_uz": "yuzni yuvmoq",
+    "example_sentence": "Wash your face before breakfast."
+   },
+   {
+    "word": "a round face",
+    "translation_uz": "yumaloq yuz",
+    "example_sentence": "The baby has a round face."
+   },
+   {
+    "word": "a pale face",
+    "translation_uz": "rangi oqargan yuz",
+    "example_sentence": "He had a pale face because he was ill."
+   },
+   {
+    "word": "a friendly face",
+    "translation_uz": "xushmuomala yuz",
+    "example_sentence": "The new teacher has a friendly face."
+   },
+   {
+    "word": "a familiar face",
+    "translation_uz": "tanish yuz",
+    "example_sentence": "I saw a familiar face in the crowd."
+   },
+   {
+    "word": "a happy face",
+    "translation_uz": "xursand yuz",
+    "example_sentence": "Everyone came home with a happy face."
+   },
+   {
+    "word": "make a face",
+    "translation_uz": "basharasini burishtirmoq",
+    "example_sentence": "He made a face when he tasted the lemon."
+   },
+   {
+    "word": "face the wall",
+    "translation_uz": "devorga qarab turmoq",
+    "example_sentence": "Please stand and face the wall."
+   },
+   {
+    "word": "have a smile on your face",
+    "translation_uz": "yuzida tabassum bo'lmoq",
+    "example_sentence": "She had a big smile on her face."
+   },
+   {
+    "word": "face to face",
+    "translation_uz": "yuzma-yuz",
+    "example_sentence": "We met face to face for the first time."
+   },
+   {
+    "word": "face down",
+    "translation_uz": "yuzi pastga qarab",
+    "example_sentence": "The card is lying face down on the table."
+   },
+   {
+    "word": "a face mask",
+    "translation_uz": "yuz niqobi",
+    "example_sentence": "Doctors wear a face mask at work."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ your face with warm water.",
+    "correct_word": "wash",
+    "options": [
+     "wash",
+     "cook",
+     "write",
+     "build",
+     "face"
+    ]
+   },
+   {
+    "sentence_with_blank": "The baby made a funny ___ and everyone laughed.",
+    "correct_word": "face",
+    "options": [
+     "face",
+     "hat",
+     "key",
+     "road",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "My mother always has a smile ___ her face.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "by",
+     "early"
+    ]
+   },
+   {
+    "sentence_with_blank": "They talked ___ to face, not on the phone.",
+    "correct_word": "face",
+    "options": [
+     "face",
+     "hand",
+     "foot",
+     "hair",
+     "write"
+    ]
+   },
+   {
+    "sentence_with_blank": "You look ___ today. Are you ill?",
+    "correct_word": "pale",
+    "options": [
+     "pale",
+     "fast",
+     "wide",
+     "early",
+     "in"
+    ]
+   },
+   {
+    "sentence_with_blank": "I know that boy, he has a ___ face.",
+    "correct_word": "familiar",
+    "options": [
+     "familiar",
+     "salty",
+     "empty",
+     "narrow",
+     "fast"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Familiar Face",
+   "text": "Yesterday I was at the bus station when I saw a familiar face. It was my old teacher! She has a round, friendly face and always has a smile on it. We talked face to face for ten minutes. She asked me to wash my hands and not touch my face because many people had colds. I laughed and made a funny face. Then her bus came and she left.",
+   "key_words": [
+    {
+     "word": "face",
+     "translation_uz": "yuz"
+    },
+    {
+     "word": "bus station",
+     "translation_uz": "avtobus bekati"
+    },
+    {
+     "word": "colds",
+     "translation_uz": "shamollash"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the writer see the teacher?",
+     "options": [
+      "At school",
+      "At the park",
+      "In a shop",
+      "At the bus station"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is the teacher's face like?",
+     "options": [
+      "Round and friendly",
+      "Pale and tired",
+      "Thin and angry",
+      "Long and sad"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the teacher mention hands and face?",
+     "options": [
+      "She was a doctor",
+      "There was no water",
+      "Many people had colds",
+      "It was a joke"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Doctor",
+   "script": "I went to the doctor with my little brother. He had a pale face and a headache. The doctor has a kind face and a quiet voice. She said, \"Please lie face down on the bed.\" Then she looked at his back. At the end my brother was happy again and had a big smile on his face. We bought a face mask for him at the pharmacy.",
+   "questions": [
+    {
+     "question": "Why did they go to the doctor?",
+     "options": [
+      "The writer lost a tooth",
+      "The brother had a pale face and a headache",
+      "Mum was tired",
+      "The doctor called them"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How did the brother lie on the bed?",
+     "options": [
+      "Face down",
+      "On his side",
+      "Sitting up",
+      "Face up"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did they buy at the pharmacy?",
+     "options": [
+      "Medicine only",
+      "A hat",
+      "Some sweets",
+      "A face mask"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Wash your face.",
+    "She has a round face.",
+    "He made a face."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Faces",
+    "question_text": "Do you wash your face in the morning?",
+    "hint_words": [
+     "yes",
+     "every",
+     "warm water",
+     "wash"
+    ]
+   },
+   {
+    "topic": "Faces",
+    "question_text": "Describe the face of a friend.",
+    "hint_words": [
+     "round",
+     "friendly",
+     "smile",
+     "eyes"
+    ]
+   },
+   {
+    "topic": "Faces",
+    "question_text": "When do you make a funny face?",
+    "hint_words": [
+     "when",
+     "photo",
+     "laugh",
+     "funny"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 116,
+  "title": "mouth, tooth",
+  "vocabulary": [
+   {
+    "word": "open your mouth",
+    "translation_uz": "og'zingizni ochmoq",
+    "example_sentence": "Open your mouth and say aah."
+   },
+   {
+    "word": "close your mouth",
+    "translation_uz": "og'zingizni yummoq",
+    "example_sentence": "Close your mouth when you eat."
+   },
+   {
+    "word": "keep your mouth shut",
+    "translation_uz": "og'zini yopiq tutmoq",
+    "example_sentence": "Keep your mouth shut during the film."
+   },
+   {
+    "word": "with your mouth full",
+    "translation_uz": "og'zi to'la holda",
+    "example_sentence": "Don't talk with your mouth full."
+   },
+   {
+    "word": "a big mouth",
+    "translation_uz": "katta og'iz",
+    "example_sentence": "The frog has a very big mouth."
+   },
+   {
+    "word": "brush your teeth",
+    "translation_uz": "tishni yuvmoq",
+    "example_sentence": "Brush your teeth after dinner."
+   },
+   {
+    "word": "lose a tooth",
+    "translation_uz": "tishi tushmoq",
+    "example_sentence": "My brother lost a tooth yesterday."
+   },
+   {
+    "word": "pull out a tooth",
+    "translation_uz": "tishni sug'urmoq",
+    "example_sentence": "The dentist pulled out a bad tooth."
+   },
+   {
+    "word": "have a toothache",
+    "translation_uz": "tishi og'rimoq",
+    "example_sentence": "I have a toothache, I must see a dentist."
+   },
+   {
+    "word": "a sweet tooth",
+    "translation_uz": "shirinlikka ishtiyoq",
+    "example_sentence": "My sister has a sweet tooth."
+   },
+   {
+    "word": "a loose tooth",
+    "translation_uz": "qimirlayotgan tish",
+    "example_sentence": "The little girl has a loose tooth."
+   },
+   {
+    "word": "a front tooth",
+    "translation_uz": "old tish",
+    "example_sentence": "He broke a front tooth when he fell."
+   },
+   {
+    "word": "have a tooth filled",
+    "translation_uz": "tishini plombalatmoq",
+    "example_sentence": "Dad had a tooth filled last week."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ your mouth wide for the dentist.",
+    "correct_word": "open",
+    "options": [
+     "open",
+     "paint",
+     "wash",
+     "wear",
+     "full"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't talk with your mouth ___.",
+    "correct_word": "full",
+    "options": [
+     "full",
+     "tall",
+     "cold",
+     "dry",
+     "lost"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ my teeth twice a day.",
+    "correct_word": "brush",
+    "options": [
+     "brush",
+     "drive",
+     "open",
+     "push",
+     "hand"
+    ]
+   },
+   {
+    "sentence_with_blank": "Tom ___ a tooth when he bit a hard apple.",
+    "correct_word": "lost",
+    "options": [
+     "lost",
+     "won",
+     "wore",
+     "sang",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "She loves cakes and chocolate, she has a sweet ___.",
+    "correct_word": "tooth",
+    "options": [
+     "tooth",
+     "mouth",
+     "nose",
+     "hand",
+     "drive"
+    ]
+   },
+   {
+    "sentence_with_blank": "The dentist ___ out the bad tooth.",
+    "correct_word": "pulled",
+    "options": [
+     "pulled",
+     "poured",
+     "painted",
+     "pushed",
+     "mouth"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Visit to the Dentist",
+   "text": "Last week I had a toothache, so Mum took me to the dentist. I have a sweet tooth, and I eat too many sweets. The dentist asked me to open my mouth wide. She said I had a bad tooth and had to fill it. It did not hurt much. Now I brush my teeth after every meal, and I try to eat fewer sweets.",
+   "key_words": [
+    {
+     "word": "dentist",
+     "translation_uz": "tish shifokori"
+    },
+    {
+     "word": "toothache",
+     "translation_uz": "tish og'rig'i"
+    },
+    {
+     "word": "sweets",
+     "translation_uz": "shirinliklar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer go to the dentist?",
+     "options": [
+      "To lose a tooth",
+      "To buy a toothbrush",
+      "He or she had a toothache",
+      "To get a prize"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the dentist say?",
+     "options": [
+      "The tooth was bad and needed filling",
+      "The teeth were perfect",
+      "The mouth was too small",
+      "The sweets were good"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer do now?",
+     "options": [
+      "Stops going to school",
+      "Brushes teeth after every meal",
+      "Eats more sweets",
+      "Pulls out teeth"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Loose Tooth",
+   "script": "My little sister Dilya has a loose tooth. It is a front tooth, and she touches it all day. At dinner Dad said, \"Don't talk with your mouth full.\" She laughed and the tooth came out! It was in her bread. She smiled and showed us the new space in her mouth. Tonight she will put the tooth under her pillow.",
+   "questions": [
+    {
+     "question": "Which tooth is loose?",
+     "options": [
+      "A back tooth",
+      "Dad's tooth",
+      "The dentist's tooth",
+      "A front tooth"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Dad say at dinner?",
+     "options": [
+      "Don't talk with your mouth full",
+      "Brush your teeth",
+      "Open your mouth",
+      "Eat more bread"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where will Dilya put the tooth?",
+     "options": [
+      "In a box",
+      "In the garden",
+      "Under her pillow",
+      "On the table"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Open your mouth.",
+    "I brush my teeth.",
+    "He lost a tooth."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Teeth",
+    "question_text": "How often do you brush your teeth?",
+    "hint_words": [
+     "twice",
+     "morning",
+     "evening",
+     "brush"
+    ]
+   },
+   {
+    "topic": "Teeth",
+    "question_text": "Do you have a sweet tooth?",
+    "hint_words": [
+     "yes",
+     "no",
+     "chocolate",
+     "cakes"
+    ]
+   },
+   {
+    "topic": "Teeth",
+    "question_text": "Have you ever lost a tooth?",
+    "hint_words": [
+     "yes",
+     "when",
+     "small",
+     "lost"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 117,
+  "title": "tongue, lips, kiss, smile, throat",
+  "vocabulary": [
+   {
+    "word": "stick out your tongue",
+    "translation_uz": "tilingni chiqarmoq",
+    "example_sentence": "The doctor said, \"Stick out your tongue.\""
+   },
+   {
+    "word": "bite your tongue",
+    "translation_uz": "tilingni tishlamoq",
+    "example_sentence": "I bit my tongue when I ate quickly."
+   },
+   {
+    "word": "your mother tongue",
+    "translation_uz": "ona tili",
+    "example_sentence": "My mother tongue is Uzbek."
+   },
+   {
+    "word": "it's on the tip of my tongue",
+    "translation_uz": "tilimning uchida turibdi",
+    "example_sentence": "His name is on the tip of my tongue."
+   },
+   {
+    "word": "red lips",
+    "translation_uz": "qizil lablar",
+    "example_sentence": "The clown has big red lips."
+   },
+   {
+    "word": "lick your lips",
+    "translation_uz": "labingni yalamoq",
+    "example_sentence": "The cat licked its lips after the fish."
+   },
+   {
+    "word": "kiss someone goodnight",
+    "translation_uz": "kechki xayrlashuv o'pichini bermoq",
+    "example_sentence": "Mum kissed the baby goodnight."
+   },
+   {
+    "word": "kiss someone on the cheek",
+    "translation_uz": "birovni yonoqdan o'pmoq",
+    "example_sentence": "She kissed her grandmother on the cheek."
+   },
+   {
+    "word": "give a kiss",
+    "translation_uz": "o'pich bermoq",
+    "example_sentence": "The little boy gave his mother a kiss."
+   },
+   {
+    "word": "a big smile",
+    "translation_uz": "katta tabassum",
+    "example_sentence": "He had a big smile on his face."
+   },
+   {
+    "word": "smile at someone",
+    "translation_uz": "birovga qarab jilmaymoq",
+    "example_sentence": "The girl smiled at the new student."
+   },
+   {
+    "word": "have a sore throat",
+    "translation_uz": "tomog'i og'rimoq",
+    "example_sentence": "I have a sore throat and a cough."
+   },
+   {
+    "word": "clear your throat",
+    "translation_uz": "tomoq qirmoq",
+    "example_sentence": "The teacher cleared his throat and began."
+   },
+   {
+    "word": "a lump in your throat",
+    "translation_uz": "tomoqqa nimadir tiqilmoq",
+    "example_sentence": "I had a lump in my throat at the farewell."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The doctor asked me to ___ out my tongue.",
+    "correct_word": "stick",
+    "options": [
+     "stick",
+     "throw",
+     "build",
+     "buy",
+     "kisses"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our baby brother likes it when Mum ___ him goodnight.",
+    "correct_word": "kisses",
+    "options": [
+     "kisses",
+     "kicks",
+     "hits",
+     "buys",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "She kissed her grandfather ___ the cheek.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "by",
+     "kiss"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ at me and said hello.",
+    "correct_word": "smiled",
+    "options": [
+     "smiled",
+     "painted",
+     "cooked",
+     "sewed",
+     "kisses"
+    ]
+   },
+   {
+    "sentence_with_blank": "I can't sing today because I have a sore ___.",
+    "correct_word": "throat",
+    "options": [
+     "throat",
+     "tongue",
+     "kiss",
+     "smile",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "My mother ___ is Uzbek, but I also speak English.",
+    "correct_word": "tongue",
+    "options": [
+     "tongue",
+     "lips",
+     "throat",
+     "kiss",
+     "throw"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Sore Throat",
+   "text": "On Monday I had a sore throat and could not speak well. Mum looked at my throat and said, \"Stick out your tongue.\" It was red. She gave me warm tea with honey. Before bed she kissed me goodnight on the cheek and smiled at me. \"You will feel better soon,\" she said. The next day my throat was fine and I went to school with a big smile.",
+   "key_words": [
+    {
+     "word": "sore throat",
+     "translation_uz": "tomoq og'rig'i"
+    },
+    {
+     "word": "honey",
+     "translation_uz": "asal"
+    },
+    {
+     "word": "fine",
+     "translation_uz": "yaxshi, joyida"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did Mum ask the writer to do?",
+     "options": [
+      "Open the window",
+      "Stick out the tongue",
+      "Drink cold water",
+      "Clear the throat"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Mum give the writer?",
+     "options": [
+      "Warm tea with honey",
+      "Cold milk",
+      "A cake",
+      "Cough sweets"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How was the throat the next day?",
+     "options": [
+      "It was fine",
+      "Still sore",
+      "Worse",
+      "Red and swollen"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "The New Baby",
+   "script": "My baby cousin Amir is six months old. He has small pink lips and a big smile. When he sees me, he smiles at me and laughs. Every evening his mother kisses him goodnight. Once he bit his tongue and cried a little. His mother cleared her throat and sang a song to him. Soon he slept.",
+   "questions": [
+    {
+     "question": "How old is Amir?",
+     "options": [
+      "Six years",
+      "One year",
+      "Six months",
+      "Two months"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does his mother do every evening?",
+     "options": [
+      "Kisses him goodnight",
+      "Takes him out",
+      "Buys him toys",
+      "Reads him a book"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did Amir cry a little?",
+     "options": [
+      "He lost a toy",
+      "He was hungry",
+      "He saw a dog",
+      "He bit his tongue"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "Stick out your tongue.",
+    "She has a sore throat.",
+    "He smiled at me."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Feelings",
+    "question_text": "Do you smile a lot?",
+    "hint_words": [
+     "yes",
+     "often",
+     "happy",
+     "smile"
+    ]
+   },
+   {
+    "topic": "Feelings",
+    "question_text": "What is your mother tongue?",
+    "hint_words": [
+     "my mother tongue",
+     "Uzbek",
+     "is",
+     "speak"
+    ]
+   },
+   {
+    "topic": "Feelings",
+    "question_text": "Do you say goodnight to your family?",
+    "hint_words": [
+     "yes",
+     "goodnight",
+     "kiss",
+     "family"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 118,
+  "title": "ear, nose",
+  "vocabulary": [
+   {
+    "word": "blow your nose",
+    "translation_uz": "burunni qoqmoq",
+    "example_sentence": "Blow your nose, please."
+   },
+   {
+    "word": "scratch your nose",
+    "translation_uz": "burunni qashlamoq",
+    "example_sentence": "He scratched his nose and sneezed."
+   },
+   {
+    "word": "have a runny nose",
+    "translation_uz": "burni oqmoq",
+    "example_sentence": "I have a runny nose and a cold."
+   },
+   {
+    "word": "a broken nose",
+    "translation_uz": "sinib qolgan burun",
+    "example_sentence": "The boxer has a broken nose."
+   },
+   {
+    "word": "hold your nose",
+    "translation_uz": "burningni bekitmoq",
+    "example_sentence": "I held my nose because of the smell."
+   },
+   {
+    "word": "a long nose",
+    "translation_uz": "uzun burun",
+    "example_sentence": "Pinocchio has a long nose."
+   },
+   {
+    "word": "pierce your ears",
+    "translation_uz": "quloq teshtirmoq",
+    "example_sentence": "She wants to pierce her ears."
+   },
+   {
+    "word": "clean your ears",
+    "translation_uz": "quloqni tozalamoq",
+    "example_sentence": "Clean your ears carefully."
+   },
+   {
+    "word": "have good ears",
+    "translation_uz": "quloq o'tkir bo'lmoq",
+    "example_sentence": "Dogs have very good ears."
+   },
+   {
+    "word": "listen with both ears",
+    "translation_uz": "ikkala quloq bilan tinglamoq",
+    "example_sentence": "Listen with both ears, please."
+   },
+   {
+    "word": "an earache",
+    "translation_uz": "quloq og'rig'i",
+    "example_sentence": "He stayed home with an earache."
+   },
+   {
+    "word": "whisper in someone's ear",
+    "translation_uz": "birovning qulog'iga shivirlamoq",
+    "example_sentence": "She whispered in my ear."
+   },
+   {
+    "word": "an earring",
+    "translation_uz": "sirg'a",
+    "example_sentence": "She wears a gold earring."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Use a tissue to ___ your nose.",
+    "correct_word": "blow",
+    "options": [
+     "blow",
+     "paint",
+     "wash up",
+     "open",
+     "runny"
+    ]
+   },
+   {
+    "sentence_with_blank": "He cannot smell the flowers because he has a ___ nose.",
+    "correct_word": "runny",
+    "options": [
+     "runny",
+     "square",
+     "loud",
+     "angry",
+     "earache"
+    ]
+   },
+   {
+    "sentence_with_blank": "The little girl ___ in my ear and told me a secret.",
+    "correct_word": "whispered",
+    "options": [
+     "whispered",
+     "painted",
+     "jumped",
+     "cooked",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "My brother stayed in bed with an ___.",
+    "correct_word": "earache",
+    "options": [
+     "earache",
+     "toothbrush",
+     "backpack",
+     "moustache",
+     "runny"
+    ]
+   },
+   {
+    "sentence_with_blank": "She wants to ___ her ears and wear earrings.",
+    "correct_word": "pierce",
+    "options": [
+     "pierce",
+     "blow",
+     "brush",
+     "fry",
+     "earache"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please listen ___ both ears.",
+    "correct_word": "with",
+    "options": [
+     "with",
+     "by",
+     "on",
+     "at",
+     "fry"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Bad Cold",
+   "text": "Last week I had a bad cold. I had a runny nose, so I blew my nose all day. I also had a small earache. Mum put a warm scarf on my head to cover my ears. My little sister whispered in my ear, \"Get well soon.\" She gave me a drawing of a clown with a very long nose. I laughed, and I felt better.",
+   "key_words": [
+    {
+     "word": "cold",
+     "translation_uz": "shamollash"
+    },
+    {
+     "word": "scarf",
+     "translation_uz": "ro'mol, sharf"
+    },
+    {
+     "word": "drawing",
+     "translation_uz": "rasm"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer do with the nose all day?",
+     "options": [
+      "Washed it",
+      "Blew it",
+      "Covered it",
+      "Painted it"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Mum use to cover the ears?",
+     "options": [
+      "A warm scarf",
+      "A hat",
+      "Her hands",
+      "A towel"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was in the sister's drawing?",
+     "options": [
+      "A doctor",
+      "A dog with big ears",
+      "The writer's room",
+      "A clown with a long nose"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Zoo",
+   "script": "We went to the zoo on Saturday. The elephant has huge ears and a very long nose. Dad said it uses its nose like a hand. The rabbits have long ears and good hearing. My little brother whispered in my ear, \"I want to pat one.\" I held my nose near the monkeys because they smelled bad! At the end we bought ice cream.",
+   "questions": [
+    {
+     "question": "Which animal has a long nose?",
+     "options": [
+      "The rabbit",
+      "The monkey",
+      "The elephant",
+      "The bear"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What did the writer do near the monkeys?",
+     "options": [
+      "Held his or her nose",
+      "Fed them",
+      "Took a photo",
+      "Whispered"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the brother whisper?",
+     "options": [
+      "He was hungry",
+      "He wanted to pat a rabbit",
+      "He was cold",
+      "He wanted to go home"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Blow your nose.",
+    "I have a runny nose.",
+    "She whispered in my ear."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Ears and nose",
+    "question_text": "Do you have a cold now?",
+    "hint_words": [
+     "yes",
+     "no",
+     "runny nose",
+     "cough"
+    ]
+   },
+   {
+    "topic": "Ears and nose",
+    "question_text": "Which animal has big ears?",
+    "hint_words": [
+     "elephant",
+     "rabbit",
+     "has",
+     "big ears"
+    ]
+   },
+   {
+    "topic": "Ears and nose",
+    "question_text": "Do you have good ears?",
+    "hint_words": [
+     "yes",
+     "hear",
+     "music",
+     "well"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 119,
+  "title": "neck, shoulders",
+  "vocabulary": [
+   {
+    "word": "a long neck",
+    "translation_uz": "uzun bo'yin",
+    "example_sentence": "A giraffe has a very long neck."
+   },
+   {
+    "word": "break your neck",
+    "translation_uz": "bo'yin sindirmoq",
+    "example_sentence": "He nearly broke his neck on the ice."
+   },
+   {
+    "word": "a stiff neck",
+    "translation_uz": "bo'yin qotishi",
+    "example_sentence": "I woke up with a stiff neck."
+   },
+   {
+    "word": "wear a scarf round your neck",
+    "translation_uz": "bo'yniga sharf o'ramoq",
+    "example_sentence": "Wear a scarf round your neck in winter."
+   },
+   {
+    "word": "a pain in the neck",
+    "translation_uz": "jonga tegadigan odam yoki narsa",
+    "example_sentence": "My little brother can be a pain in the neck."
+   },
+   {
+    "word": "neck and neck",
+    "translation_uz": "baravar kelmoq, bir-biriga yetishmoq",
+    "example_sentence": "The two runners were neck and neck."
+   },
+   {
+    "word": "broad shoulders",
+    "translation_uz": "keng yelkalar",
+    "example_sentence": "The swimmer has broad shoulders."
+   },
+   {
+    "word": "shrug your shoulders",
+    "translation_uz": "yelkani qisib qo'ymoq",
+    "example_sentence": "He shrugged his shoulders and said nothing."
+   },
+   {
+    "word": "shoulder to shoulder",
+    "translation_uz": "yelkama-yelka",
+    "example_sentence": "The fans stood shoulder to shoulder."
+   },
+   {
+    "word": "carry a bag on your shoulder",
+    "translation_uz": "sumkani yelkada ko'tarmoq",
+    "example_sentence": "She carried a bag on her shoulder."
+   },
+   {
+    "word": "tap someone on the shoulder",
+    "translation_uz": "birovning yelkasiga chertmoq",
+    "example_sentence": "He tapped me on the shoulder."
+   },
+   {
+    "word": "have a pain in your shoulder",
+    "translation_uz": "yelkasi og'rimoq",
+    "example_sentence": "Grandpa has a pain in his shoulder."
+   },
+   {
+    "word": "put your arm round someone's shoulders",
+    "translation_uz": "birovning yelkasidan quchmoq",
+    "example_sentence": "Dad put his arm round my shoulders."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A giraffe has a very long ___.",
+    "correct_word": "neck",
+    "options": [
+     "neck",
+     "beard",
+     "tooth",
+     "pocket",
+     "coat"
+    ]
+   },
+   {
+    "sentence_with_blank": "I woke up with a stiff ___ after sleeping badly.",
+    "correct_word": "neck",
+    "options": [
+     "neck",
+     "coat",
+     "road",
+     "spoon",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "When I asked the question, he ___ his shoulders.",
+    "correct_word": "shrugged",
+    "options": [
+     "shrugged",
+     "painted",
+     "baked",
+     "drank",
+     "round"
+    ]
+   },
+   {
+    "sentence_with_blank": "Someone tapped me ___ the shoulder from behind.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "for",
+     "with",
+     "pocket"
+    ]
+   },
+   {
+    "sentence_with_blank": "The two horses were ___ and neck at the finish.",
+    "correct_word": "neck",
+    "options": [
+     "neck",
+     "hand",
+     "arm",
+     "knee",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "In winter I wear a warm scarf ___ my neck.",
+    "correct_word": "round",
+    "options": [
+     "round",
+     "between",
+     "across",
+     "under",
+     "knee"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Stiff Neck",
+   "text": "Yesterday I carried a heavy bag on my shoulder all day. In the evening I had a pain in my shoulder and a stiff neck. Dad put his arm round my shoulders and said, \"Let's see the doctor.\" The doctor said I must not carry heavy bags. He told me to wear a warm scarf round my neck. I shrugged my shoulders and smiled. Now I use a backpack with two straps.",
+   "key_words": [
+    {
+     "word": "stiff",
+     "translation_uz": "qotgan"
+    },
+    {
+     "word": "heavy",
+     "translation_uz": "og'ir"
+    },
+    {
+     "word": "backpack",
+     "translation_uz": "ryukzak"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why did the writer have a stiff neck?",
+     "options": [
+      "He or she played football",
+      "He or she slept in a chair",
+      "He or she fell down",
+      "He or she carried a heavy bag on one shoulder"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did the doctor say?",
+     "options": [
+      "Do not carry heavy bags",
+      "Stay in bed a week",
+      "Drink more water",
+      "Stop using the scarf"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer use now?",
+     "options": [
+      "A suitcase",
+      "A big box",
+      "A backpack with two straps",
+      "A shoulder bag"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Race",
+   "script": "The school race was exciting. Two boys, Ali and Timur, were neck and neck at the end. Ali is tall with broad shoulders. Timur has a thin neck but runs very fast. At the finish line Timur won by a little. Ali shrugged his shoulders and smiled. Then Timur tapped him on the shoulder and said, \"Good race!\"",
+   "questions": [
+    {
+     "question": "Who has broad shoulders?",
+     "options": [
+      "Timur",
+      "Ali",
+      "The teacher",
+      "The writer"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who won the race?",
+     "options": [
+      "Timur",
+      "Ali",
+      "They both won",
+      "Nobody"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Timur do after the race?",
+     "options": [
+      "Ran away",
+      "Shouted",
+      "Took a photo",
+      "Tapped Ali on the shoulder"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "A giraffe has a long neck.",
+    "He has broad shoulders.",
+    "She tapped my shoulder."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Body",
+    "question_text": "Which animal has a long neck?",
+    "hint_words": [
+     "giraffe",
+     "has",
+     "long neck",
+     "tall"
+    ]
+   },
+   {
+    "topic": "Body",
+    "question_text": "Do you carry a bag on your shoulder?",
+    "hint_words": [
+     "yes",
+     "backpack",
+     "heavy",
+     "school"
+    ]
+   },
+   {
+    "topic": "Body",
+    "question_text": "Do you wear a scarf round your neck in winter?",
+    "hint_words": [
+     "yes",
+     "warm",
+     "cold",
+     "scarf"
+    ]
+   }
+  ]
+ }
+]

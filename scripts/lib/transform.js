@@ -1,15 +1,15 @@
 /**
  * Supabase -> MongoDB o'tkazishning sof (I/O siz) qismi. Test qilish oson bo'lishi uchun alohida.
  */
-const { LEVELS, DAYS_PER_LEVEL, levelForDay, deriveLessonType } = require('../../config/curriculum');
+const { LEVELS, levelRange, regularDaysOfLevel, levelForDay, deriveLessonType } = require('../../config/curriculum');
 
 // FARAZ (o'zgartirishingiz mumkin): eski guruhlar qaysi darajaga to'g'ri keladi.
 // Fayl berish: node scripts/migrateFromSupabase.js --group-map groupmap.json
 const DEFAULT_GROUP_TO_LEVEL = {
   '1-guruh': 'elementary',
-  '2-guruh': 'intermediate',
-  '3-guruh': 'upper-intermediate',
-  '4-guruh': 'advanced',
+  '2-guruh': 'pre-intermediate',
+  '3-guruh': 'intermediate',
+  '4-guruh': 'upper-intermediate',
   'Qizlar guruhi': 'elementary',
 };
 
@@ -79,7 +79,7 @@ function buildContent(file, words, aiRows, rng = Math.random) {
  * Fayllarga kun raqami beradi.
  *  - Avval ko'chirilgan fayl o'z kunini saqlaydi (qayta ishga tushirish xavfsiz).
  *  - Yangilari daraja ichidagi bo'sh kunlarga created_at tartibida joylashadi.
- *  - Har darajaning 100-kuni (final_exam) band qilinmaydi — u yerga Speaking savollari kerak.
+ *  - Har darajaning oxirgi kuni (final_exam) band qilinmaydi — u yerga Speaking savollari kerak.
  *  - Band kunlar (boshqa reja) ustiga yozilmaydi.
  *
  * existingPlans: [{ day_number, legacy_file_id }]
@@ -117,11 +117,8 @@ function planMigration({ files, vocab, aiExercises, existingPlans, groupToLevel 
   for (const level of LEVELS) {
     const queue = perLevel[level];
     if (!queue.length) continue;
-    const start = LEVELS.indexOf(level) * DAYS_PER_LEVEL + 1;
-    const free = [];
-    for (let d = start; d < start + DAYS_PER_LEVEL - 1; d++) { // oxirgi kun (final_exam) chiqarib tashlanadi
-      if (!occupied.has(d)) free.push(d);
-    }
+    // Faqat oddiy (dars) kunlar; imtihon kunlari va band kunlar chiqarib tashlanadi
+    const free = regularDaysOfLevel(level).filter((d) => !occupied.has(d));
     if (queue.length > free.length) {
       errors.push(`${level}: ${queue.length} ta fayl bor, lekin bo'sh kun faqat ${free.length} ta — ortiqchasi ko'chirilmadi`);
     }
@@ -144,7 +141,7 @@ function planMigration({ files, vocab, aiExercises, existingPlans, groupToLevel 
   const finalPlaceholders = [];
   for (const level of LEVELS) {
     if (!plans.some((p) => p.level === level)) continue;
-    const finalDay = (LEVELS.indexOf(level) + 1) * DAYS_PER_LEVEL;
+    const finalDay = levelRange(level).to;
     if (occupied.has(finalDay)) continue;
     finalPlaceholders.push({
       day_number: finalDay,

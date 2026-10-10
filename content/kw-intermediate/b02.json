@@ -1,0 +1,1302 @@
+[
+ {
+  "unit": 16,
+  "title": "environment",
+  "vocabulary": [
+   {
+    "word": "protect the environment",
+    "translation_uz": "atrof-muhitni himoya qilmoq",
+    "example_sentence": "We must protect the environment for future generations."
+   },
+   {
+    "word": "damage the environment",
+    "translation_uz": "atrof-muhitga zarar yetkazmoq",
+    "example_sentence": "Dumping chemicals can damage the environment for many years."
+   },
+   {
+    "word": "harm the environment",
+    "translation_uz": "atrof-muhitga ziyon yetkazmoq",
+    "example_sentence": "Some cleaning products harm the environment."
+   },
+   {
+    "word": "care about the environment",
+    "translation_uz": "atrof-muhit haqida qayg'urmoq",
+    "example_sentence": "Teenagers who care about the environment often join school clubs."
+   },
+   {
+    "word": "improve the environment",
+    "translation_uz": "atrof-muhitni yaxshilamoq",
+    "example_sentence": "Planting trees helps to improve the environment of the city."
+   },
+   {
+    "word": "the natural environment",
+    "translation_uz": "tabiiy muhit",
+    "example_sentence": "Wild animals need a natural environment to live in."
+   },
+   {
+    "word": "environmentally friendly",
+    "translation_uz": "atrof-muhitga zarar keltirmaydigan",
+    "example_sentence": "This bag is environmentally friendly because it is made from paper."
+   },
+   {
+    "word": "environmental problems",
+    "translation_uz": "ekologik muammolar",
+    "example_sentence": "Big cities often have serious environmental problems."
+   },
+   {
+    "word": "environmental protection",
+    "translation_uz": "atrof-muhitni muhofaza qilish",
+    "example_sentence": "Environmental protection is taught in our school."
+   },
+   {
+    "word": "a safe environment",
+    "translation_uz": "xavfsiz muhit",
+    "example_sentence": "Parents want a safe environment for their children."
+   },
+   {
+    "word": "a healthy environment",
+    "translation_uz": "sog'lom muhit",
+    "example_sentence": "A park gives people a healthy environment to relax in."
+   },
+   {
+    "word": "a good working environment",
+    "translation_uz": "yaxshi ish muhiti",
+    "example_sentence": "A friendly team creates a good working environment."
+   },
+   {
+    "word": "be good / bad for the environment",
+    "translation_uz": "atrof-muhit uchun yaxshi / yomon bo'lmoq",
+    "example_sentence": "Riding a bike is good for the environment."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We should do more to ___ the environment from pollution.",
+    "correct_word": "protect",
+    "options": [
+     "collect",
+     "protect",
+     "prepare",
+     "borrow"
+    ]
+   },
+   {
+    "sentence_with_blank": "This soap is environmentally ___, so it does not hurt rivers.",
+    "correct_word": "friendly",
+    "options": [
+     "kind",
+     "nice",
+     "friendly",
+     "polite"
+    ]
+   },
+   {
+    "sentence_with_blank": "Children need a safe and healthy ___ to grow up in.",
+    "correct_word": "environment",
+    "options": [
+     "weather",
+     "ground",
+     "view",
+     "environment"
+    ]
+   },
+   {
+    "sentence_with_blank": "Cycling to work is good ___ the environment.",
+    "correct_word": "for",
+    "options": [
+     "for",
+     "to",
+     "of",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "Pollution is one of the biggest ___ problems in our cities.",
+    "correct_word": "environmental",
+    "options": [
+     "environment",
+     "environmental",
+     "environments",
+     "environmentally"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people ___ about the environment and recycle at home.",
+    "correct_word": "care",
+    "options": [
+     "ask",
+     "wait",
+     "care",
+     "depend"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Green Club",
+   "text": "Our school has a new Green Club. About twenty students care about the environment and meet every Thursday. Last month they cleaned a small river near the school, because rubbish was harming the natural environment there. Next week the club will plant trees in the school yard. The teacher says that small actions can improve the environment of our town. She also asked students to bring environmentally friendly lunch boxes instead of plastic bags.",
+   "key_words": [
+    {
+     "word": "plant",
+     "translation_uz": "ekmoq (o'simlik)"
+    },
+    {
+     "word": "yard",
+     "translation_uz": "hovli"
+    },
+    {
+     "word": "lunch box",
+     "translation_uz": "tushlik qutisi"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When does the Green Club meet?",
+     "options": [
+      "Every Monday",
+      "Every Thursday",
+      "Every Friday",
+      "Every weekend"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did the students clean the river?",
+     "options": [
+      "The river was dry",
+      "A fish had died",
+      "Rubbish was harming the natural environment",
+      "The teacher asked for water"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What will the club do next week?",
+     "options": [
+      "Visit a museum",
+      "Clean the classroom",
+      "Sell lunch boxes",
+      "Plant trees in the school yard"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Radio Interview",
+   "script": "Presenter: Today we are talking to Dina, a young volunteer. Dina, why do you care about the environment? Dina: Because I want a healthy environment for my future children. Presenter: What can ordinary people do? Dina: Small things. Walk to school, switch off lights and choose environmentally friendly products. Presenter: Is it expensive? Dina: Not at all. Often it is cheaper, and it is good for the environment too. Presenter: Thank you, Dina.",
+   "questions": [
+    {
+     "question": "Who is Dina?",
+     "options": [
+      "A teacher",
+      "A radio presenter",
+      "A young volunteer",
+      "A scientist"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why does Dina care about the environment?",
+     "options": [
+      "She works in a factory",
+      "She wants to win a prize",
+      "Her school asked her",
+      "She wants a healthy place for her future children"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does Dina say about being green?",
+     "options": [
+      "It is often cheaper",
+      "It is always difficult",
+      "It is very expensive",
+      "It takes all day"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "We must protect the environment.",
+    "Plastic can harm the environment.",
+    "He cares about the environment."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Environment",
+    "question_text": "What do you do to protect the environment?",
+    "hint_words": [
+     "I recycle",
+     "save water",
+     "walk",
+     "turn off"
+    ]
+   },
+   {
+    "topic": "Environment",
+    "question_text": "What is the biggest environmental problem in your town?",
+    "hint_words": [
+     "rubbish",
+     "traffic",
+     "dirty air",
+     "I think"
+    ]
+   },
+   {
+    "topic": "Environment",
+    "question_text": "Do you think young people care about the environment?",
+    "hint_words": [
+     "yes",
+     "many",
+     "clubs",
+     "future"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 17,
+  "title": "pollution, fumes, waste and rubbish",
+  "vocabulary": [
+   {
+    "word": "air pollution",
+    "translation_uz": "havo ifloslanishi",
+    "example_sentence": "Air pollution is a serious problem in many big cities."
+   },
+   {
+    "word": "water pollution",
+    "translation_uz": "suv ifloslanishi",
+    "example_sentence": "Water pollution kills fish in the river."
+   },
+   {
+    "word": "cause pollution",
+    "translation_uz": "ifloslanishni keltirib chiqarmoq",
+    "example_sentence": "Old cars and factories cause pollution."
+   },
+   {
+    "word": "reduce pollution",
+    "translation_uz": "ifloslanishni kamaytirmoq",
+    "example_sentence": "Electric buses can reduce pollution in the centre."
+   },
+   {
+    "word": "pollute a river",
+    "translation_uz": "daryoni ifloslantirmoq",
+    "example_sentence": "The factory was fined for polluting the river."
+   },
+   {
+    "word": "polluted air",
+    "translation_uz": "ifloslangan havo",
+    "example_sentence": "Children who breathe polluted air may cough more."
+   },
+   {
+    "word": "exhaust fumes",
+    "translation_uz": "chiqindi gazlari (mashinadan)",
+    "example_sentence": "Exhaust fumes from the traffic made the street smell bad."
+   },
+   {
+    "word": "breathe in fumes",
+    "translation_uz": "tutunni nafas olmoq",
+    "example_sentence": "Do not breathe in the fumes from paint."
+   },
+   {
+    "word": "household waste",
+    "translation_uz": "maishiy chiqindi",
+    "example_sentence": "Household waste includes paper, glass and food."
+   },
+   {
+    "word": "a waste of time / money",
+    "translation_uz": "vaqt / pul isrofi",
+    "example_sentence": "Playing games all day is a waste of time."
+   },
+   {
+    "word": "recycle waste",
+    "translation_uz": "chiqindini qayta ishlamoq",
+    "example_sentence": "Our town recycles waste in three different bins."
+   },
+   {
+    "word": "waste water",
+    "translation_uz": "oqova suv",
+    "example_sentence": "Waste water is cleaned before it goes into the river."
+   },
+   {
+    "word": "throw away rubbish",
+    "translation_uz": "axlatni tashlamoq",
+    "example_sentence": "Please do not throw away rubbish on the beach."
+   },
+   {
+    "word": "a rubbish bin",
+    "translation_uz": "axlat qutisi",
+    "example_sentence": "There is a rubbish bin next to every bench."
+   },
+   {
+    "word": "a pile of rubbish",
+    "translation_uz": "axlat uyumi",
+    "example_sentence": "We found a pile of rubbish behind the old shop."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Factories that ___ rivers can be fined.",
+    "correct_word": "pollute",
+    "options": [
+     "empty",
+     "wash",
+     "pollute",
+     "clean"
+    ]
+   },
+   {
+    "sentence_with_blank": "Exhaust ___ from buses make the air dirty.",
+    "correct_word": "fumes",
+    "options": [
+     "steams",
+     "fogs",
+     "dusts",
+     "fumes"
+    ]
+   },
+   {
+    "sentence_with_blank": "Watching so many videos is a waste ___ time.",
+    "correct_word": "of",
+    "options": [
+     "of",
+     "for",
+     "in",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "There was a big ___ of rubbish behind the shop.",
+    "correct_word": "pile",
+    "options": [
+     "group",
+     "pile",
+     "crowd",
+     "team"
+    ]
+   },
+   {
+    "sentence_with_blank": "Cars cause air ___ in big cities.",
+    "correct_word": "pollution",
+    "options": [
+     "pollute",
+     "polluted",
+     "pollution",
+     "polluting"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't ___ water; turn off the tap when you brush your teeth.",
+    "correct_word": "waste",
+    "options": [
+     "lose",
+     "miss",
+     "drop",
+     "waste"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Dirty Beach",
+   "text": "Last Saturday our class went to clean a beach. When we arrived, we saw a huge pile of rubbish near the rocks. There were bottles, plastic bags and old paper. Our teacher explained that water pollution is dangerous for fish and birds. We threw away the rubbish in big bags and put the glass and paper in different bins to recycle. It took three hours, but the beach looked beautiful again. Everyone agreed that it was not a waste of time.",
+   "key_words": [
+    {
+     "word": "rocks",
+     "translation_uz": "qoyalar"
+    },
+    {
+     "word": "bottle",
+     "translation_uz": "shisha idish"
+    },
+    {
+     "word": "dangerous",
+     "translation_uz": "xavfli"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the class see near the rocks?",
+     "options": [
+      "A dead fish",
+      "A lost dog",
+      "A huge pile of rubbish",
+      "A fire"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why is water pollution dangerous, according to the teacher?",
+     "options": [
+      "It makes the sand hot",
+      "It stops people swimming",
+      "It makes noise",
+      "It is dangerous for fish and birds"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long did the cleaning take?",
+     "options": [
+      "Three hours",
+      "One hour",
+      "Two hours",
+      "All day"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Traffic and Fumes",
+   "script": "Mother: Don't open the window, Kamola. The exhaust fumes from the traffic are terrible today. Kamola: Why is there so much pollution? Mother: Because everyone drives to work. The city wants to reduce pollution, so it will build a new metro line. Kamola: That is a good idea. At school we learnt that polluted air is bad for our health. Mother: Yes. Tomorrow we will take the bus instead of the car.",
+   "questions": [
+    {
+     "question": "Why can't Kamola open the window?",
+     "options": [
+      "It is raining",
+      "It is cold",
+      "The window is broken",
+      "There are exhaust fumes outside"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How does the city want to reduce pollution?",
+     "options": [
+      "By building a new metro line",
+      "By closing schools",
+      "By planting grass",
+      "By selling cars"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How will they travel tomorrow?",
+     "options": [
+      "By car",
+      "By bus",
+      "By metro",
+      "On foot"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Exhaust fumes cause air pollution.",
+    "Throw your rubbish in the bin.",
+    "It is a waste of time."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Pollution and Rubbish",
+    "question_text": "Is there air pollution in your city?",
+    "hint_words": [
+     "yes",
+     "no",
+     "traffic",
+     "sometimes"
+    ]
+   },
+   {
+    "topic": "Pollution and Rubbish",
+    "question_text": "What do you do with your rubbish at home?",
+    "hint_words": [
+     "bin",
+     "recycle",
+     "plastic",
+     "paper"
+    ]
+   },
+   {
+    "topic": "Pollution and Rubbish",
+    "question_text": "How can people reduce waste?",
+    "hint_words": [
+     "reuse",
+     "recycle",
+     "buy less",
+     "I think"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 18,
+  "title": "earthquake and flood",
+  "vocabulary": [
+   {
+    "word": "a strong earthquake",
+    "translation_uz": "kuchli zilzila",
+    "example_sentence": "A strong earthquake shook the city at dawn."
+   },
+   {
+    "word": "an earthquake hits / strikes",
+    "translation_uz": "zilzila sodir bo'ladi",
+    "example_sentence": "When an earthquake hits, people should stay calm."
+   },
+   {
+    "word": "feel an earthquake",
+    "translation_uz": "zilzilani sezmoq",
+    "example_sentence": "Did you feel the earthquake last night?"
+   },
+   {
+    "word": "survive an earthquake",
+    "translation_uz": "zilziladan omon qolmoq",
+    "example_sentence": "The new buildings are designed to survive an earthquake."
+   },
+   {
+    "word": "an earthquake zone",
+    "translation_uz": "zilzila hududi",
+    "example_sentence": "Many houses in an earthquake zone have strong walls."
+   },
+   {
+    "word": "earthquake damage",
+    "translation_uz": "zilzila keltirgan zarar",
+    "example_sentence": "Workers are still repairing the earthquake damage."
+   },
+   {
+    "word": "an aftershock",
+    "translation_uz": "takroriy silkinish",
+    "example_sentence": "A small aftershock followed the main earthquake."
+   },
+   {
+    "word": "a flash flood",
+    "translation_uz": "to'satdan kelgan toshqin",
+    "example_sentence": "A flash flood washed away the small bridge."
+   },
+   {
+    "word": "heavy rain causes floods",
+    "translation_uz": "kuchli yomg'ir toshqin keltirib chiqaradi",
+    "example_sentence": "Heavy rain causes floods in low parts of the city."
+   },
+   {
+    "word": "the river floods",
+    "translation_uz": "daryo toshadi",
+    "example_sentence": "Every spring the river floods the fields."
+   },
+   {
+    "word": "a flood warning",
+    "translation_uz": "toshqin haqida ogohlantirish",
+    "example_sentence": "There is a flood warning for the villages near the river."
+   },
+   {
+    "word": "flood water",
+    "translation_uz": "toshqin suvi",
+    "example_sentence": "Flood water covered the roads."
+   },
+   {
+    "word": "be caught in a flood",
+    "translation_uz": "toshqinda qolib ketmoq",
+    "example_sentence": "The family was caught in a flood but a boat rescued them."
+   },
+   {
+    "word": "rescue workers",
+    "translation_uz": "qutqaruvchilar",
+    "example_sentence": "Rescue workers helped people leave their homes."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "A strong earthquake ___ the city early in the morning.",
+    "correct_word": "struck",
+    "options": [
+     "opened",
+     "flew",
+     "stopped",
+     "struck"
+    ]
+   },
+   {
+    "sentence_with_blank": "The river ___ after three days of heavy rain.",
+    "correct_word": "flooded",
+    "options": [
+     "flooded",
+     "flew",
+     "froze",
+     "melted"
+    ]
+   },
+   {
+    "sentence_with_blank": "The government issued a flood ___ for the villages by the river.",
+    "correct_word": "warning",
+    "options": [
+     "lesson",
+     "warning",
+     "prize",
+     "ticket"
+    ]
+   },
+   {
+    "sentence_with_blank": "Rescue ___ searched the area after the earthquake.",
+    "correct_word": "workers",
+    "options": [
+     "players",
+     "drivers",
+     "workers",
+     "guests"
+    ]
+   },
+   {
+    "sentence_with_blank": "Small aftershocks continued for several days ___ the earthquake.",
+    "correct_word": "after",
+    "options": [
+     "before",
+     "during",
+     "until",
+     "after"
+    ]
+   },
+   {
+    "sentence_with_blank": "The villagers were caught ___ a flood while they were sleeping.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "on",
+     "with",
+     "at"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "After the Flood",
+   "text": "Last spring the river near Rano's village flooded after a week of heavy rain. The flood water covered the fields and many roads. The radio had given a flood warning, so families left their houses early and went to the school on the hill. Rescue workers brought food, blankets and clean water. After three days the water went down, and people began to repair the damage. Rano says she will never forget how kind everyone was during those days.",
+   "key_words": [
+    {
+     "word": "blanket",
+     "translation_uz": "ko'rpa"
+    },
+    {
+     "word": "hill",
+     "translation_uz": "tepalik"
+    },
+    {
+     "word": "kind",
+     "translation_uz": "mehribon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What caused the flood?",
+     "options": [
+      "A broken bridge",
+      "Snow in winter",
+      "An earthquake",
+      "A week of heavy rain"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Where did the families go?",
+     "options": [
+      "To the school on the hill",
+      "To the city",
+      "To the river",
+      "To a hotel"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the rescue workers bring?",
+     "options": [
+      "Boats and cars",
+      "Food, blankets and clean water",
+      "Books and toys",
+      "Money"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Earthquake Drill",
+   "script": "Teacher: Listen carefully. If an earthquake hits while we are in class, do not run outside. Go under your desk and hold on to it. Pupil: What if the shaking is very strong? Teacher: Stay there until it stops. Aftershocks can come later, so wait for me to say that it is safe. Then we leave the building and meet in the yard. Our town is in an earthquake zone, so it is important to practise this drill every term.",
+   "questions": [
+    {
+     "question": "What should pupils do first in an earthquake?",
+     "options": [
+      "Go under their desk",
+      "Run outside",
+      "Open the windows",
+      "Call their parents"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why should they wait after the shaking stops?",
+     "options": [
+      "The bell has not rung",
+      "Aftershocks can come",
+      "The door is locked",
+      "The teacher is late"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why does the school practise the drill?",
+     "options": [
+      "There is a new teacher",
+      "It is a school rule",
+      "The town is in an earthquake zone",
+      "There was a flood"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "A strong earthquake hit the city.",
+    "Heavy rain causes floods.",
+    "Rescue workers helped the family."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Natural Disasters",
+    "question_text": "Have you ever felt an earthquake?",
+    "hint_words": [
+     "yes",
+     "no",
+     "I felt",
+     "shaking"
+    ]
+   },
+   {
+    "topic": "Natural Disasters",
+    "question_text": "What should people do during a flood?",
+    "hint_words": [
+     "move",
+     "high place",
+     "stay calm",
+     "help"
+    ]
+   },
+   {
+    "topic": "Natural Disasters",
+    "question_text": "How can people prepare for a natural disaster?",
+    "hint_words": [
+     "bag",
+     "water",
+     "plan",
+     "listen"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 19,
+  "title": "storm",
+  "vocabulary": [
+   {
+    "word": "a violent storm",
+    "translation_uz": "kuchli bo'ron",
+    "example_sentence": "A violent storm broke many windows in the town."
+   },
+   {
+    "word": "a thunderstorm",
+    "translation_uz": "momaqaldiroqli bo'ron",
+    "example_sentence": "We stayed inside during the thunderstorm."
+   },
+   {
+    "word": "a snowstorm",
+    "translation_uz": "qor bo'roni",
+    "example_sentence": "The snowstorm closed the mountain road."
+   },
+   {
+    "word": "a sandstorm",
+    "translation_uz": "qum bo'roni",
+    "example_sentence": "In the desert a sandstorm can last for hours."
+   },
+   {
+    "word": "a storm hits / strikes",
+    "translation_uz": "bo'ron urib o'tadi",
+    "example_sentence": "A storm hit the coast on Saturday night."
+   },
+   {
+    "word": "a storm is coming",
+    "translation_uz": "bo'ron yaqinlashmoqda",
+    "example_sentence": "Look at those dark clouds: a storm is coming."
+   },
+   {
+    "word": "storm clouds",
+    "translation_uz": "bo'ron bulutlari",
+    "example_sentence": "Storm clouds gathered above the hills."
+   },
+   {
+    "word": "a storm warning",
+    "translation_uz": "bo'ron haqida ogohlantirish",
+    "example_sentence": "Because of the storm warning, the ferry did not sail."
+   },
+   {
+    "word": "storm damage",
+    "translation_uz": "bo'ron keltirgan zarar",
+    "example_sentence": "Storm damage to the roof will cost a lot to repair."
+   },
+   {
+    "word": "be caught in a storm",
+    "translation_uz": "bo'ronda qolib ketmoq",
+    "example_sentence": "We were caught in a storm on our way to the village."
+   },
+   {
+    "word": "take shelter from the storm",
+    "translation_uz": "bo'rondan panoh topmoq",
+    "example_sentence": "The hikers took shelter from the storm in a cave."
+   },
+   {
+    "word": "weather the storm",
+    "translation_uz": "bo'ronga bardosh bermoq",
+    "example_sentence": "The little boat weathered the storm and reached the harbour."
+   },
+   {
+    "word": "stormy weather",
+    "translation_uz": "bo'ronli ob-havo",
+    "example_sentence": "Stormy weather is expected all weekend."
+   },
+   {
+    "word": "the storm passes",
+    "translation_uz": "bo'ron o'tib ketadi",
+    "example_sentence": "We will go out when the storm passes."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We were ___ in a storm on the way home.",
+    "correct_word": "caught",
+    "options": [
+     "caught",
+     "held",
+     "kept",
+     "pulled"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dark storm ___ gathered above the mountains.",
+    "correct_word": "clouds",
+    "options": [
+     "hills",
+     "clouds",
+     "birds",
+     "roads"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ship managed to ___ the storm and reach land.",
+    "correct_word": "weather",
+    "options": [
+     "climate",
+     "season",
+     "weather",
+     "temperature"
+    ]
+   },
+   {
+    "sentence_with_blank": "Because of the storm ___, the ferry did not sail.",
+    "correct_word": "warning",
+    "options": [
+     "lesson",
+     "bill",
+     "ticket",
+     "warning"
+    ]
+   },
+   {
+    "sentence_with_blank": "A violent storm ___ the coast on Saturday.",
+    "correct_word": "hit",
+    "options": [
+     "hit",
+     "went",
+     "ran",
+     "made"
+    ]
+   },
+   {
+    "sentence_with_blank": "We took ___ from the storm under a bridge.",
+    "correct_word": "shelter",
+    "options": [
+     "place",
+     "shelter",
+     "rest",
+     "hold"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Caught in a Storm",
+   "text": "Last Sunday Ali and his father went hiking in the hills. In the morning the sky was clear, but by noon storm clouds covered the sun. Soon a violent storm began, with strong wind and heavy rain. They were caught far from the village, so they took shelter under a large rock. The thunder was very loud, and Ali felt nervous. After an hour the storm passed. They walked home slowly, wet but safe. Next time they will listen to the weather forecast before they go.",
+   "key_words": [
+    {
+     "word": "hiking",
+     "translation_uz": "piyoda sayohat"
+    },
+    {
+     "word": "nervous",
+     "translation_uz": "asabiylashgan"
+    },
+    {
+     "word": "thunder",
+     "translation_uz": "momaqaldiroq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the weather like in the morning?",
+     "options": [
+      "The sky was clear",
+      "It was snowing",
+      "It was windy",
+      "It was foggy"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did Ali and his father take shelter?",
+     "options": [
+      "In a cave",
+      "Under a large rock",
+      "In a village house",
+      "In their car"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will they do next time?",
+     "options": [
+      "Stay at home",
+      "Take a taxi",
+      "Listen to the weather forecast",
+      "Hike at night"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Phone Call",
+   "script": "Grandma: Are you all right? I heard there is a storm warning for your area. Nilufar: Yes, a thunderstorm is coming. The sky is very dark. Grandma: Stay inside and keep away from the windows. Nilufar: Don't worry. We have candles and enough food. Dad says last year's storm caused a lot of damage to our neighbours' roof, so he has already tied the garden chairs together. Grandma: Good. Call me when the storm passes.",
+   "questions": [
+    {
+     "question": "Why is Grandma worried?",
+     "options": [
+      "There is a flood",
+      "There is a storm warning",
+      "It is very hot",
+      "Nilufar is ill"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What has Dad done?",
+     "options": [
+      "He closed the school",
+      "He bought candles",
+      "He tied the garden chairs together",
+      "He painted the roof"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What should Nilufar do when the storm passes?",
+     "options": [
+      "Go to school",
+      "Visit the neighbours",
+      "Clean the garden",
+      "Call Grandma"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "A storm is coming.",
+    "They were caught in a storm.",
+    "Stay inside during the thunderstorm."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Storms",
+    "question_text": "Are you afraid of thunderstorms?",
+    "hint_words": [
+     "yes",
+     "no",
+     "a little",
+     "loud"
+    ]
+   },
+   {
+    "topic": "Storms",
+    "question_text": "What do you do when there is a storm?",
+    "hint_words": [
+     "stay inside",
+     "window",
+     "candles",
+     "wait"
+    ]
+   },
+   {
+    "topic": "Storms",
+    "question_text": "What is the worst weather you remember?",
+    "hint_words": [
+     "storm",
+     "snow",
+     "wind",
+     "I remember"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 20,
+  "title": "damage",
+  "vocabulary": [
+   {
+    "word": "cause damage",
+    "translation_uz": "zarar yetkazmoq",
+    "example_sentence": "The strong wind caused a lot of damage to the garden."
+   },
+   {
+    "word": "serious damage",
+    "translation_uz": "jiddiy zarar",
+    "example_sentence": "The accident did serious damage to the front of the car."
+   },
+   {
+    "word": "extensive damage",
+    "translation_uz": "katta ko'lamli zarar",
+    "example_sentence": "The fire left extensive damage in the building."
+   },
+   {
+    "word": "minor damage",
+    "translation_uz": "ozgina zarar",
+    "example_sentence": "The bus only had minor damage and could still drive."
+   },
+   {
+    "word": "damage to the roof",
+    "translation_uz": "tomga yetgan zarar",
+    "example_sentence": "There was some damage to the roof after the storm."
+   },
+   {
+    "word": "repair the damage",
+    "translation_uz": "zararni tuzatmoq",
+    "example_sentence": "It will take weeks to repair the damage."
+   },
+   {
+    "word": "water damage",
+    "translation_uz": "suvdan yetgan zarar",
+    "example_sentence": "Water damage ruined the books in the cellar."
+   },
+   {
+    "word": "storm damage",
+    "translation_uz": "bo'rondan yetgan zarar",
+    "example_sentence": "The insurance company paid for the storm damage."
+   },
+   {
+    "word": "damage your health",
+    "translation_uz": "sog'lig'ingizga zarar yetkazmoq",
+    "example_sentence": "Eating too much sugar can damage your health."
+   },
+   {
+    "word": "damage a car",
+    "translation_uz": "mashinani shikastlamoq",
+    "example_sentence": "He damaged his father's car when he hit a wall."
+   },
+   {
+    "word": "permanent damage",
+    "translation_uz": "doimiy zarar",
+    "example_sentence": "Loud music can cause permanent damage to your hearing."
+   },
+   {
+    "word": "a damaged building",
+    "translation_uz": "shikastlangan bino",
+    "example_sentence": "The damaged building was closed to the public."
+   },
+   {
+    "word": "insurance covers the damage",
+    "translation_uz": "sug'urta zararni qoplaydi",
+    "example_sentence": "Our insurance covers the damage if there is a flood."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "There was serious damage ___ the school roof.",
+    "correct_word": "to",
+    "options": [
+     "on",
+     "to",
+     "of",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Heavy rain can ___ a lot of damage to crops.",
+    "correct_word": "cause",
+    "options": [
+     "hold",
+     "draw",
+     "cause",
+     "take"
+    ]
+   },
+   {
+    "sentence_with_blank": "Too much noise can ___ your hearing.",
+    "correct_word": "damage",
+    "options": [
+     "break",
+     "cut",
+     "spill",
+     "damage"
+    ]
+   },
+   {
+    "sentence_with_blank": "The fire caused ___ damage, and the whole building had to close.",
+    "correct_word": "extensive",
+    "options": [
+     "extensive",
+     "wide",
+     "tall",
+     "long"
+    ]
+   },
+   {
+    "sentence_with_blank": "The workers will ___ the damage to the roof next week.",
+    "correct_word": "repair",
+    "options": [
+     "build",
+     "repair",
+     "paint",
+     "wash"
+    ]
+   },
+   {
+    "sentence_with_blank": "Water ___ ruined the floor in the kitchen.",
+    "correct_word": "damage",
+    "options": [
+     "danger",
+     "injury",
+     "damage",
+     "trouble"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "After the Wind",
+   "text": "Last night a strong wind blew across our street. This morning we saw the damage. A large tree had fallen on the garage, and there was some damage to the roof. Luckily nobody was inside. Our neighbour's car also had minor damage because a branch hit the window. Dad called the insurance company, and a man came to look at the roof. He said that the insurance covers the damage, but the repair will take two weeks. In the meantime, we are keeping the bikes in the kitchen.",
+   "key_words": [
+    {
+     "word": "branch",
+     "translation_uz": "shox"
+    },
+    {
+     "word": "luckily",
+     "translation_uz": "xayriyat"
+    },
+    {
+     "word": "garage",
+     "translation_uz": "garaj"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What fell on the garage?",
+     "options": [
+      "A branch",
+      "A large tree",
+      "A wall",
+      "A car"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What kind of damage did the neighbour's car have?",
+     "options": [
+      "Serious damage",
+      "No damage",
+      "Minor damage",
+      "Fire damage"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long will the repair take?",
+     "options": [
+      "Two days",
+      "One month",
+      "One day",
+      "Two weeks"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Call to the Insurance Company",
+   "script": "Clerk: Good afternoon. How can I help? Mr Rahim: Our basement flooded after the storm, and the water damage is serious. The floor and the furniture are ruined. Clerk: I am sorry to hear that. Does your insurance cover this kind of damage? Mr Rahim: Yes, I checked the contract. Clerk: Then please send us some photos of the damage, and an expert will visit on Wednesday. Mr Rahim: Thank you. How long will the repairs take? Clerk: It depends, but usually about a month.",
+   "questions": [
+    {
+     "question": "What damaged Mr Rahim's basement?",
+     "options": [
+      "Fire",
+      "Wind",
+      "Water",
+      "A tree"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What must Mr Rahim send to the company?",
+     "options": [
+      "A new contract",
+      "A letter from a doctor",
+      "The ruined furniture",
+      "Photos of the damage"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When will an expert visit?",
+     "options": [
+      "On Wednesday",
+      "On Monday",
+      "On Friday",
+      "Next month"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "The storm caused serious damage.",
+    "They will repair the damage.",
+    "Insurance covers the damage."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Damage",
+    "question_text": "Have you ever damaged something by accident?",
+    "hint_words": [
+     "yes",
+     "broke",
+     "accident",
+     "I was"
+    ]
+   },
+   {
+    "topic": "Damage",
+    "question_text": "What can cause damage to a house?",
+    "hint_words": [
+     "fire",
+     "storm",
+     "water",
+     "earthquake"
+    ]
+   },
+   {
+    "topic": "Damage",
+    "question_text": "Why is it important to have insurance?",
+    "hint_words": [
+     "pays",
+     "repair",
+     "accident",
+     "safe"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1508 @@
+[
+ {
+  "unit": 74,
+  "title": "breakfast, lunch",
+  "vocabulary": [
+   {
+    "word": "have breakfast",
+    "translation_uz": "nonushta qilmoq",
+    "example_sentence": "I have breakfast at seven o'clock."
+   },
+   {
+    "word": "make breakfast",
+    "translation_uz": "nonushta tayyorlamoq",
+    "example_sentence": "Dad makes breakfast on Sundays."
+   },
+   {
+    "word": "a big breakfast",
+    "translation_uz": "to'yimli nonushta",
+    "example_sentence": "We had a big breakfast before the trip."
+   },
+   {
+    "word": "skip breakfast",
+    "translation_uz": "nonushtani qoldirmoq",
+    "example_sentence": "Don't skip breakfast; it is important."
+   },
+   {
+    "word": "bread for breakfast",
+    "translation_uz": "nonushtaga non",
+    "example_sentence": "I had bread and cheese for breakfast."
+   },
+   {
+    "word": "breakfast time",
+    "translation_uz": "nonushta vaqti",
+    "example_sentence": "It is breakfast time, children!"
+   },
+   {
+    "word": "have lunch",
+    "translation_uz": "tushlik qilmoq",
+    "example_sentence": "We have lunch at school at one o'clock."
+   },
+   {
+    "word": "a packed lunch",
+    "translation_uz": "uydan olib borilgan tushlik",
+    "example_sentence": "Ali takes a packed lunch to school."
+   },
+   {
+    "word": "a light lunch",
+    "translation_uz": "yengil tushlik",
+    "example_sentence": "I only want a light lunch today."
+   },
+   {
+    "word": "school lunch",
+    "translation_uz": "maktab tushligi",
+    "example_sentence": "School lunch is soup and rice today."
+   },
+   {
+    "word": "a lunch break",
+    "translation_uz": "tushlik tanaffusi",
+    "example_sentence": "We have a one-hour lunch break."
+   },
+   {
+    "word": "go out for lunch",
+    "translation_uz": "tushlikka tashqariga chiqmoq",
+    "example_sentence": "On Saturday we go out for lunch."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I usually ___ breakfast at seven o'clock.",
+    "correct_word": "have",
+    "options": [
+     "wear",
+     "ride",
+     "have",
+     "climb"
+    ]
+   },
+   {
+    "sentence_with_blank": "Ali takes a packed ___ to school.",
+    "correct_word": "lunch",
+    "options": [
+     "seat",
+     "ticket",
+     "journey",
+     "lunch"
+    ]
+   },
+   {
+    "sentence_with_blank": "We have a one-hour lunch ___ at school.",
+    "correct_word": "break",
+    "options": [
+     "break",
+     "seat",
+     "road",
+     "bill"
+    ]
+   },
+   {
+    "sentence_with_blank": "I had bread and eggs ___ breakfast.",
+    "correct_word": "for",
+    "options": [
+     "under",
+     "for",
+     "into",
+     "across"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum made a ___ breakfast: eggs, bread, cheese and fruit.",
+    "correct_word": "big",
+    "options": [
+     "loud",
+     "tall",
+     "big",
+     "wide"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sometimes I skip ___ because I get up late.",
+    "correct_word": "breakfast",
+    "options": [
+     "tour",
+     "driver",
+     "journey",
+     "breakfast"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Morning at Our House",
+   "text": "In our house breakfast time is at seven o'clock. Mum makes breakfast, and we usually have tea, bread and eggs. My brother sometimes skips breakfast because he is late. At school I have lunch at twelve thirty. I take a packed lunch, and today it is a sandwich and an apple. After the lunch break we have two more lessons.",
+   "key_words": [
+    {
+     "word": "sandwich",
+     "translation_uz": "buterbrod"
+    },
+    {
+     "word": "lesson",
+     "translation_uz": "dars"
+    },
+    {
+     "word": "late",
+     "translation_uz": "kechikkan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who makes breakfast?",
+     "options": [
+      "Mum",
+      "Dad",
+      "The brother",
+      "Grandma"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who sometimes skips breakfast?",
+     "options": [
+      "The writer",
+      "The brother",
+      "Mum",
+      "The teacher"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is in the packed lunch today?",
+     "options": [
+      "Soup and rice",
+      "Eggs and bread",
+      "A sandwich and an apple",
+      "Pizza"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Weekend Meals",
+   "script": "On Saturday we have a big breakfast together. Dad makes pancakes, and I make the tea. For lunch we often go out. Today we will have a light lunch in a small café near the park. After lunch we will walk by the river.",
+   "questions": [
+    {
+     "question": "Who makes the pancakes?",
+     "options": [
+      "Mum",
+      "The speaker",
+      "A waiter",
+      "Dad"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What kind of lunch will they have?",
+     "options": [
+      "A light lunch",
+      "A packed lunch",
+      "A big lunch",
+      "A school lunch"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where will they walk after lunch?",
+     "options": [
+      "In the market",
+      "By the river",
+      "At school",
+      "In the café"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I have breakfast.",
+    "Take a packed lunch.",
+    "We go out for lunch."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Meals",
+    "question_text": "What do you have for breakfast?",
+    "hint_words": [
+     "bread",
+     "tea",
+     "eggs",
+     "usually"
+    ]
+   },
+   {
+    "topic": "Meals",
+    "question_text": "Where do you have lunch on school days?",
+    "hint_words": [
+     "school",
+     "home",
+     "canteen",
+     "with"
+    ]
+   },
+   {
+    "topic": "Meals",
+    "question_text": "Do you ever skip breakfast?",
+    "hint_words": [
+     "sometimes",
+     "never",
+     "late",
+     "hungry"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 75,
+  "title": "dinner",
+  "vocabulary": [
+   {
+    "word": "have dinner",
+    "translation_uz": "kechki ovqatlanmoq",
+    "example_sentence": "We have dinner at seven o'clock."
+   },
+   {
+    "word": "cook dinner",
+    "translation_uz": "kechki ovqat pishirmoq",
+    "example_sentence": "Mum is cooking dinner in the kitchen."
+   },
+   {
+    "word": "Dinner is ready",
+    "translation_uz": "Kechki ovqat tayyor",
+    "example_sentence": "Come to the table. Dinner is ready!"
+   },
+   {
+    "word": "a dinner party",
+    "translation_uz": "kechki ziyofat",
+    "example_sentence": "They are having a dinner party on Saturday."
+   },
+   {
+    "word": "invite someone to dinner",
+    "translation_uz": "birovni kechki ovqatga taklif qilmoq",
+    "example_sentence": "We invited our neighbours to dinner."
+   },
+   {
+    "word": "stay for dinner",
+    "translation_uz": "kechki ovqatga qolmoq",
+    "example_sentence": "Can you stay for dinner?"
+   },
+   {
+    "word": "friends for dinner",
+    "translation_uz": "do'stlar bilan kechki ovqat",
+    "example_sentence": "We had friends for dinner last night."
+   },
+   {
+    "word": "a family dinner",
+    "translation_uz": "oilaviy kechki ovqat",
+    "example_sentence": "A family dinner is a nice time to talk."
+   },
+   {
+    "word": "after dinner",
+    "translation_uz": "kechki ovqatdan keyin",
+    "example_sentence": "After dinner we watch a film."
+   },
+   {
+    "word": "dinner time",
+    "translation_uz": "kechki ovqat vaqti",
+    "example_sentence": "It is dinner time, so turn off the TV."
+   },
+   {
+    "word": "a late dinner",
+    "translation_uz": "kech kechki ovqat",
+    "example_sentence": "We had a late dinner because Dad worked."
+   },
+   {
+    "word": "eat dinner",
+    "translation_uz": "kechki ovqat yemoq",
+    "example_sentence": "We eat dinner together every day."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Dad is cooking ___ in the kitchen.",
+    "correct_word": "dinner",
+    "options": [
+     "tickets",
+     "dinner",
+     "seats",
+     "licences"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dinner is ___! Come and eat.",
+    "correct_word": "ready",
+    "options": [
+     "angry",
+     "tall",
+     "ready",
+     "asleep"
+    ]
+   },
+   {
+    "sentence_with_blank": "We invited our neighbours ___ dinner.",
+    "correct_word": "to",
+    "options": [
+     "at",
+     "on",
+     "by",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "They are having a dinner ___ on Saturday.",
+    "correct_word": "party",
+    "options": [
+     "party",
+     "licence",
+     "seat",
+     "road"
+    ]
+   },
+   {
+    "sentence_with_blank": "We watch a film ___ dinner.",
+    "correct_word": "after",
+    "options": [
+     "under",
+     "after",
+     "among",
+     "between"
+    ]
+   },
+   {
+    "sentence_with_blank": "Can you ___ for dinner? We have plenty of food.",
+    "correct_word": "stay",
+    "options": [
+     "stand",
+     "spend",
+     "stay",
+     "swim"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Dinner with Friends",
+   "text": "On Friday my parents had friends for dinner. Mum cooked plov, and Dad made a big salad. At seven o'clock she called, \"Dinner is ready!\" We all sat down at the table. After dinner the grown-ups drank tea, and I played games with their daughter. It was a very nice family evening.",
+   "key_words": [
+    {
+     "word": "plov",
+     "translation_uz": "palov"
+    },
+    {
+     "word": "salad",
+     "translation_uz": "salat"
+    },
+    {
+     "word": "grown-up",
+     "translation_uz": "katta odam"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who cooked the plov?",
+     "options": [
+      "Dad",
+      "The friends",
+      "The writer",
+      "Mum"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What did Dad make?",
+     "options": [
+      "A big salad",
+      "Soup",
+      "Bread",
+      "A cake"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the writer do after dinner?",
+     "options": [
+      "Washed cups",
+      "Played games",
+      "Went to bed",
+      "Cooked"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Dinner Invitation",
+   "script": "Hello, Nodira! This is Sarvar. We are having a dinner party on Sunday. Can you come to dinner at six o'clock? Mum is cooking chicken and rice. You can stay for dinner and then we can watch a film. Please bring your brother too.",
+   "questions": [
+    {
+     "question": "When is the dinner party?",
+     "options": [
+      "On Monday",
+      "On Friday",
+      "On Sunday",
+      "On Saturday"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What time is dinner?",
+     "options": [
+      "At seven o'clock",
+      "At noon",
+      "At nine o'clock",
+      "At six o'clock"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What is Mum cooking?",
+     "options": [
+      "Chicken and rice",
+      "Soup",
+      "Pizza",
+      "Fish"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Dinner is ready.",
+    "I cook dinner.",
+    "Stay for dinner."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Dinner",
+    "question_text": "What time do you have dinner?",
+    "hint_words": [
+     "seven",
+     "at",
+     "usually",
+     "evening"
+    ]
+   },
+   {
+    "topic": "Dinner",
+    "question_text": "Who cooks dinner in your family?",
+    "hint_words": [
+     "Mum",
+     "Dad",
+     "I",
+     "we"
+    ]
+   },
+   {
+    "topic": "Dinner",
+    "question_text": "Do you like having friends for dinner?",
+    "hint_words": [
+     "yes",
+     "fun",
+     "food",
+     "talk"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 76,
+  "title": "restaurant",
+  "vocabulary": [
+   {
+    "word": "eat at a restaurant",
+    "translation_uz": "restoranda ovqatlanmoq",
+    "example_sentence": "We eat at a restaurant on birthdays."
+   },
+   {
+    "word": "go to a restaurant",
+    "translation_uz": "restoranga bormoq",
+    "example_sentence": "Let's go to a restaurant tonight."
+   },
+   {
+    "word": "a popular restaurant",
+    "translation_uz": "mashhur restoran",
+    "example_sentence": "It is a popular restaurant, so it is always full."
+   },
+   {
+    "word": "a Chinese restaurant",
+    "translation_uz": "xitoy restorani",
+    "example_sentence": "There is a Chinese restaurant in our street."
+   },
+   {
+    "word": "an Italian restaurant",
+    "translation_uz": "italyan restorani",
+    "example_sentence": "The Italian restaurant makes good pizza."
+   },
+   {
+    "word": "a fast-food restaurant",
+    "translation_uz": "tez ovqatlanish restorani",
+    "example_sentence": "He works in a fast-food restaurant."
+   },
+   {
+    "word": "run a restaurant",
+    "translation_uz": "restoran boshqarmoq",
+    "example_sentence": "My aunt runs a restaurant in Bukhara."
+   },
+   {
+    "word": "work in a restaurant",
+    "translation_uz": "restoranda ishlamoq",
+    "example_sentence": "My cousin works in a restaurant."
+   },
+   {
+    "word": "reserve a table at a restaurant",
+    "translation_uz": "restoranda joy band qilmoq",
+    "example_sentence": "Dad reserved a table at a restaurant for six."
+   },
+   {
+    "word": "a restaurant manager",
+    "translation_uz": "restoran menejeri",
+    "example_sentence": "The restaurant manager said hello."
+   },
+   {
+    "word": "a family restaurant",
+    "translation_uz": "oilaviy restoran",
+    "example_sentence": "We like the family restaurant by the river."
+   },
+   {
+    "word": "a restaurant in the centre",
+    "translation_uz": "markazdagi restoran",
+    "example_sentence": "There is a nice restaurant in the centre."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We often eat ___ a small restaurant near school.",
+    "correct_word": "at",
+    "options": [
+     "to",
+     "on",
+     "under",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "My aunt ___ a restaurant in Bukhara.",
+    "correct_word": "runs",
+    "options": [
+     "runs",
+     "wears",
+     "rides",
+     "sleeps"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is a very ___ restaurant, so you must book.",
+    "correct_word": "popular",
+    "options": [
+     "sleepy",
+     "popular",
+     "yellow",
+     "thin"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's go ___ a restaurant tonight.",
+    "correct_word": "to",
+    "options": [
+     "up",
+     "off",
+     "to",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "He works in a fast-food ___.",
+    "correct_word": "restaurant",
+    "options": [
+     "ticket",
+     "licence",
+     "journey",
+     "restaurant"
+    ]
+   },
+   {
+    "sentence_with_blank": "We want to ___ a table at the restaurant for six people.",
+    "correct_word": "book",
+    "options": [
+     "book",
+     "lose",
+     "cut",
+     "wash"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Aunt Gulnora's Restaurant",
+   "text": "My aunt Gulnora runs a family restaurant in the centre of Khiva. It is a very popular restaurant, so tourists often eat there. My cousin works in the restaurant after school. On Sundays we go to the restaurant for dinner. Aunt Gulnora always reserves our favourite table by the window.",
+   "key_words": [
+    {
+     "word": "favourite",
+     "translation_uz": "sevimli"
+    },
+    {
+     "word": "centre",
+     "translation_uz": "markaz"
+    },
+    {
+     "word": "tourist",
+     "translation_uz": "sayyoh"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the restaurant?",
+     "options": [
+      "In Bukhara",
+      "In the centre of Khiva",
+      "Near the school",
+      "By the sea"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who works there after school?",
+     "options": [
+      "The writer's father",
+      "A teacher",
+      "The writer's cousin",
+      "A driver"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where is the favourite table?",
+     "options": [
+      "Near the door",
+      "In the kitchen",
+      "In the garden",
+      "By the window"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing a Restaurant",
+   "script": "Tonight we want to go to a restaurant. My brother wants a fast-food restaurant, but my parents like the Italian restaurant near the bridge. It is a popular place, so Dad will call and reserve a table. We will go there at seven o'clock. I think I will have pasta.",
+   "questions": [
+    {
+     "question": "What does the brother want?",
+     "options": [
+      "A fast-food restaurant",
+      "An Italian restaurant",
+      "A Chinese restaurant",
+      "A café"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who will call the restaurant?",
+     "options": [
+      "Mum",
+      "Dad",
+      "The brother",
+      "The speaker"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will the speaker have?",
+     "options": [
+      "Pizza",
+      "Soup",
+      "Pasta",
+      "Rice"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Let's go to a restaurant.",
+    "It is a popular restaurant.",
+    "She runs a restaurant."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Restaurants",
+    "question_text": "What is your favourite restaurant?",
+    "hint_words": [
+     "favourite",
+     "food",
+     "near",
+     "nice"
+    ]
+   },
+   {
+    "topic": "Restaurants",
+    "question_text": "How often do you eat at a restaurant?",
+    "hint_words": [
+     "once",
+     "a month",
+     "sometimes",
+     "never"
+    ]
+   },
+   {
+    "topic": "Restaurants",
+    "question_text": "Would you like to work in a restaurant?",
+    "hint_words": [
+     "yes",
+     "no",
+     "cook",
+     "waiter"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 77,
+  "title": "waiter, waitress, bill",
+  "vocabulary": [
+   {
+    "word": "a friendly waiter",
+    "translation_uz": "samimiy ofitsiant",
+    "example_sentence": "We had a friendly waiter."
+   },
+   {
+    "word": "call the waiter",
+    "translation_uz": "ofitsiantni chaqirmoq",
+    "example_sentence": "Dad called the waiter and ordered soup."
+   },
+   {
+    "word": "the waiter brings",
+    "translation_uz": "ofitsiant keltiradi",
+    "example_sentence": "The waiter brings the food on a tray."
+   },
+   {
+    "word": "a young waitress",
+    "translation_uz": "yosh ofitsiantka",
+    "example_sentence": "A young waitress took our order."
+   },
+   {
+    "word": "the waitress serves",
+    "translation_uz": "ofitsiantka xizmat ko'rsatadi",
+    "example_sentence": "The waitress serves tea to the guests."
+   },
+   {
+    "word": "ask for the bill",
+    "translation_uz": "hisob-kitobni so'ramoq",
+    "example_sentence": "We asked for the bill after dessert."
+   },
+   {
+    "word": "pay the bill",
+    "translation_uz": "hisobni to'lamoq",
+    "example_sentence": "Dad paid the bill and we left."
+   },
+   {
+    "word": "split the bill",
+    "translation_uz": "hisobni teng bo'lib to'lamoq",
+    "example_sentence": "Four friends decided to split the bill."
+   },
+   {
+    "word": "check the bill",
+    "translation_uz": "hisobni tekshirmoq",
+    "example_sentence": "Always check the bill before you pay."
+   },
+   {
+    "word": "the bill comes to",
+    "translation_uz": "hisob ... ni tashkil etadi",
+    "example_sentence": "The bill comes to twenty dollars."
+   },
+   {
+    "word": "a phone bill",
+    "translation_uz": "telefon hisobi",
+    "example_sentence": "Mum paid the phone bill online."
+   },
+   {
+    "word": "leave a tip",
+    "translation_uz": "choy puli qoldirmoq",
+    "example_sentence": "We left a tip for the waiter."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We asked the ___ for the menu.",
+    "correct_word": "waiter",
+    "options": [
+     "bill",
+     "waiter",
+     "road",
+     "seat"
+    ]
+   },
+   {
+    "sentence_with_blank": "Excuse me, can we have the ___, please?",
+    "correct_word": "bill",
+    "options": [
+     "tour",
+     "licence",
+     "bill",
+     "cup"
+    ]
+   },
+   {
+    "sentence_with_blank": "Dad ___ the bill and we left.",
+    "correct_word": "paid",
+    "options": [
+     "ate",
+     "sang",
+     "read",
+     "paid"
+    ]
+   },
+   {
+    "sentence_with_blank": "We decided to ___ the bill between four people.",
+    "correct_word": "split",
+    "options": [
+     "split",
+     "wear",
+     "jump",
+     "hide"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ brought us two cups of tea.",
+    "correct_word": "waitress",
+    "options": [
+     "driver",
+     "waitress",
+     "tourist",
+     "passenger"
+    ]
+   },
+   {
+    "sentence_with_blank": "The bill ___ to twenty dollars.",
+    "correct_word": "comes",
+    "options": [
+     "hides",
+     "sings",
+     "comes",
+     "cooks"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Birthday Meal",
+   "text": "For my birthday we went to a restaurant. The waiter was very friendly, and a young waitress brought a small cake. After the meal Dad asked for the bill. He checked the bill carefully and paid it. The bill came to forty dollars. Then he left a tip for the waiter, and we went home happy.",
+   "key_words": [
+    {
+     "word": "cake",
+     "translation_uz": "tort"
+    },
+    {
+     "word": "carefully",
+     "translation_uz": "ehtiyotkorlik bilan"
+    },
+    {
+     "word": "happy",
+     "translation_uz": "xursand"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who brought the small cake?",
+     "options": [
+      "The waiter",
+      "Mum",
+      "The manager",
+      "A young waitress"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who paid the bill?",
+     "options": [
+      "Dad",
+      "Mum",
+      "The writer",
+      "A friend"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How much was the bill?",
+     "options": [
+      "Twenty dollars",
+      "Forty dollars",
+      "Ten dollars",
+      "Fifty dollars"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Paying the Bill",
+   "script": "Four friends are in a café. They call the waiter and ask for the bill. The bill comes to sixty dollars. They decide to split the bill, so each friend pays fifteen dollars. Then Bobur leaves a small tip, and the waitress says thank you.",
+   "questions": [
+    {
+     "question": "How many friends are in the café?",
+     "options": [
+      "Three",
+      "Five",
+      "Four",
+      "Two"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How much does each friend pay?",
+     "options": [
+      "Sixty dollars",
+      "Ten dollars",
+      "Twenty dollars",
+      "Fifteen dollars"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who leaves the tip?",
+     "options": [
+      "Bobur",
+      "The waitress",
+      "Nodira",
+      "The manager"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Call the waiter.",
+    "Can I have the bill?",
+    "We split the bill."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Restaurant",
+    "question_text": "What do you say to ask for the bill?",
+    "hint_words": [
+     "please",
+     "bill",
+     "can I",
+     "have"
+    ]
+   },
+   {
+    "topic": "Restaurant",
+    "question_text": "Do you split the bill with friends?",
+    "hint_words": [
+     "yes",
+     "split",
+     "each",
+     "pay"
+    ]
+   },
+   {
+    "topic": "Restaurant",
+    "question_text": "What makes a good waiter?",
+    "hint_words": [
+     "friendly",
+     "fast",
+     "kind",
+     "polite"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 78,
+  "title": "bar, service",
+  "vocabulary": [
+   {
+    "word": "a snack bar",
+    "translation_uz": "gazak bari",
+    "example_sentence": "We had a sandwich at the snack bar."
+   },
+   {
+    "word": "a juice bar",
+    "translation_uz": "sharbat bari",
+    "example_sentence": "The juice bar sells fresh orange juice."
+   },
+   {
+    "word": "sit at the bar",
+    "translation_uz": "bar peshtaxtasida o'tirmoq",
+    "example_sentence": "He sat at the bar and ordered a juice."
+   },
+   {
+    "word": "a bar of chocolate",
+    "translation_uz": "bir plitka shokolad",
+    "example_sentence": "I bought a bar of chocolate."
+   },
+   {
+    "word": "good service",
+    "translation_uz": "yaxshi xizmat",
+    "example_sentence": "The café has good service."
+   },
+   {
+    "word": "slow service",
+    "translation_uz": "sekin xizmat",
+    "example_sentence": "The food was nice, but the service was slow."
+   },
+   {
+    "word": "poor service",
+    "translation_uz": "yomon xizmat",
+    "example_sentence": "We did not go back because of the poor service."
+   },
+   {
+    "word": "service charge",
+    "translation_uz": "xizmat haqi",
+    "example_sentence": "There is a service charge on the bill."
+   },
+   {
+    "word": "service is included",
+    "translation_uz": "xizmat haqi hisobga kiritilgan",
+    "example_sentence": "Service is included in the price."
+   },
+   {
+    "word": "room service",
+    "translation_uz": "xonaga xizmat ko'rsatish",
+    "example_sentence": "We ordered tea through room service."
+   },
+   {
+    "word": "a bus service",
+    "translation_uz": "avtobus qatnovi",
+    "example_sentence": "There is a good bus service to the city."
+   },
+   {
+    "word": "a self-service bar",
+    "translation_uz": "o'ziga-o'zi xizmat bari",
+    "example_sentence": "It is a self-service bar, so you take your own tray."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I bought a ___ of chocolate at the shop.",
+    "correct_word": "bar",
+    "options": [
+     "seat",
+     "road",
+     "bill",
+     "bar"
+    ]
+   },
+   {
+    "sentence_with_blank": "The waiter was kind, so the ___ was good.",
+    "correct_word": "service",
+    "options": [
+     "service",
+     "tour",
+     "licence",
+     "lunch"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is the service ___ in the bill?",
+    "correct_word": "included",
+    "options": [
+     "cooked",
+     "included",
+     "painted",
+     "built"
+    ]
+   },
+   {
+    "sentence_with_blank": "We waited forty minutes. The service was very ___.",
+    "correct_word": "slow",
+    "options": [
+     "tasty",
+     "wet",
+     "slow",
+     "round"
+    ]
+   },
+   {
+    "sentence_with_blank": "We ordered food through room ___ at the hotel.",
+    "correct_word": "service",
+    "options": [
+     "table",
+     "queue",
+     "ticket",
+     "service"
+    ]
+   },
+   {
+    "sentence_with_blank": "He sat ___ the bar and ordered a juice.",
+    "correct_word": "at",
+    "options": [
+     "at",
+     "under",
+     "into",
+     "across"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Hotel Bar",
+   "text": "Our hotel has a small snack bar next to the pool. Yesterday I sat at the bar and had a glass of juice and a bar of chocolate. The service there is very good, and the staff are friendly. In the evening we ordered dinner through room service. It arrived in ten minutes, so we were very pleased.",
+   "key_words": [
+    {
+     "word": "pool",
+     "translation_uz": "hovuz"
+    },
+    {
+     "word": "staff",
+     "translation_uz": "xodimlar"
+    },
+    {
+     "word": "pleased",
+     "translation_uz": "mamnun"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where is the snack bar?",
+     "options": [
+      "In the garden",
+      "Next to the pool",
+      "On the roof",
+      "Near the road"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the service like?",
+     "options": [
+      "Very slow",
+      "Poor",
+      "Very good",
+      "Expensive"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long did room service take?",
+     "options": [
+      "One hour",
+      "Two hours",
+      "Half a day",
+      "Ten minutes"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Slow Service",
+   "script": "We went to a new café yesterday. The place was nice, but the service was slow. We waited thirty minutes for our sandwiches. The waiter said sorry and gave us a free bar of chocolate. Service was included in the bill, so we did not leave a tip.",
+   "questions": [
+    {
+     "question": "How was the service?",
+     "options": [
+      "Slow",
+      "Excellent",
+      "Fast",
+      "Rude"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long did they wait?",
+     "options": [
+      "Ten minutes",
+      "Thirty minutes",
+      "One hour",
+      "Five minutes"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the waiter give them?",
+     "options": [
+      "A free cake",
+      "A free drink",
+      "A free bar of chocolate",
+      "A free ticket"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "The service is good.",
+    "Sit at the bar.",
+    "Service is included."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Service",
+    "question_text": "Is the service good in your favourite café?",
+    "hint_words": [
+     "good",
+     "slow",
+     "friendly",
+     "yes"
+    ]
+   },
+   {
+    "topic": "Snacks",
+    "question_text": "What do you buy at a snack bar?",
+    "hint_words": [
+     "sandwich",
+     "juice",
+     "chocolate",
+     "buy"
+    ]
+   },
+   {
+    "topic": "Hotels",
+    "question_text": "Have you ever used room service?",
+    "hint_words": [
+     "yes",
+     "no",
+     "hotel",
+     "food"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 79,
+  "title": "menu, table",
+  "vocabulary": [
+   {
+    "word": "read the menu",
+    "translation_uz": "menyuni o'qimoq",
+    "example_sentence": "We read the menu and chose soup."
+   },
+   {
+    "word": "ask for the menu",
+    "translation_uz": "menyuni so'ramoq",
+    "example_sentence": "Please ask for the menu."
+   },
+   {
+    "word": "on the menu",
+    "translation_uz": "menyuda",
+    "example_sentence": "Is there fish on the menu?"
+   },
+   {
+    "word": "the menu of the day",
+    "translation_uz": "kunning menyusi",
+    "example_sentence": "The menu of the day is soup and rice."
+   },
+   {
+    "word": "a children's menu",
+    "translation_uz": "bolalar menyusi",
+    "example_sentence": "The café has a children's menu."
+   },
+   {
+    "word": "a vegetarian menu",
+    "translation_uz": "vegetarian menyu",
+    "example_sentence": "They have a vegetarian menu."
+   },
+   {
+    "word": "book a table",
+    "translation_uz": "stol band qilmoq",
+    "example_sentence": "I'd like to book a table for two at eight."
+   },
+   {
+    "word": "a table for two",
+    "translation_uz": "ikki kishilik stol",
+    "example_sentence": "A table for two, please."
+   },
+   {
+    "word": "a table by the window",
+    "translation_uz": "deraza yonidagi stol",
+    "example_sentence": "We sat at a table by the window."
+   },
+   {
+    "word": "set the table",
+    "translation_uz": "dasturxon tuzamoq",
+    "example_sentence": "Please help me set the table."
+   },
+   {
+    "word": "clear the table",
+    "translation_uz": "stoldan idish-tovoqni yig'ishtirmoq",
+    "example_sentence": "After dinner I clear the table."
+   },
+   {
+    "word": "sit at the table",
+    "translation_uz": "stol atrofida o'tirmoq",
+    "example_sentence": "We all sit at the table to eat."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Can I see the ___, please?",
+    "correct_word": "menu",
+    "options": [
+     "road",
+     "menu",
+     "tour",
+     "bottle"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum is ___ the table for dinner.",
+    "correct_word": "setting",
+    "options": [
+     "eating",
+     "riding",
+     "setting",
+     "reading"
+    ]
+   },
+   {
+    "sentence_with_blank": "We need a ___ for four people, please.",
+    "correct_word": "table",
+    "options": [
+     "journey",
+     "licence",
+     "tour",
+     "table"
+    ]
+   },
+   {
+    "sentence_with_blank": "Is there a vegetarian dish ___ the menu?",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "under",
+     "with",
+     "between"
+    ]
+   },
+   {
+    "sentence_with_blank": "We sat ___ a table by the window.",
+    "correct_word": "at",
+    "options": [
+     "to",
+     "at",
+     "off",
+     "up"
+    ]
+   },
+   {
+    "sentence_with_blank": "I'd like to ___ a table for two at eight.",
+    "correct_word": "book",
+    "options": [
+     "lose",
+     "cut",
+     "book",
+     "wear"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Choosing from the Menu",
+   "text": "We went to a small café and found a table by the window. The waiter gave us the menu. There was a children's menu for my little sister. Dad read the menu of the day and chose soup. Mum asked for a vegetarian dish. After the meal I helped the waiter clear the table, and he smiled at me.",
+   "key_words": [
+    {
+     "word": "dish",
+     "translation_uz": "taom"
+    },
+    {
+     "word": "choose",
+     "translation_uz": "tanlamoq"
+    },
+    {
+     "word": "smile",
+     "translation_uz": "jilmaymoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where was the table?",
+     "options": [
+      "Near the door",
+      "In the garden",
+      "By the kitchen",
+      "By the window"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who had a children's menu?",
+     "options": [
+      "The little sister",
+      "Dad",
+      "Mum",
+      "The writer"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did Dad choose?",
+     "options": [
+      "Fish",
+      "Soup",
+      "Salad",
+      "Rice"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Booking a Table",
+   "script": "Good evening. I would like to book a table for four people on Friday at seven. A table by the window, please. My daughter wants to see the menu first. Do you have a children's menu? Thank you very much.",
+   "questions": [
+    {
+     "question": "How many people is the table for?",
+     "options": [
+      "Two",
+      "Six",
+      "Four",
+      "Three"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Which day is the booking?",
+     "options": [
+      "Monday",
+      "Sunday",
+      "Saturday",
+      "Friday"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the speaker ask about?",
+     "options": [
+      "A children's menu",
+      "A bill",
+      "A taxi",
+      "A ticket"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Can I see the menu?",
+    "Set the table.",
+    "A table for two."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Menu",
+    "question_text": "What do you usually choose from the menu?",
+    "hint_words": [
+     "soup",
+     "pizza",
+     "usually",
+     "choose"
+    ]
+   },
+   {
+    "topic": "Table",
+    "question_text": "Do you help to set the table at home?",
+    "hint_words": [
+     "yes",
+     "always",
+     "plates",
+     "help"
+    ]
+   },
+   {
+    "topic": "Table",
+    "question_text": "Where do you like to sit in a café?",
+    "hint_words": [
+     "window",
+     "corner",
+     "outside",
+     "table"
+    ]
+   }
+  ]
+ }
+]

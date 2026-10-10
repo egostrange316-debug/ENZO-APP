@@ -1,0 +1,1418 @@
+[
+ {
+  "unit": 10,
+  "title": "house, stairs",
+  "vocabulary": [
+   {
+    "word": "build a house",
+    "translation_uz": "uy qurmoq",
+    "example_sentence": "They want to build a house near the lake."
+   },
+   {
+    "word": "share a house",
+    "translation_uz": "uyni birga ijaraga olib yashamoq",
+    "example_sentence": "Three students share a house in the city."
+   },
+   {
+    "word": "sell a house",
+    "translation_uz": "uyni sotmoq",
+    "example_sentence": "My uncle is going to sell his house."
+   },
+   {
+    "word": "paint a house",
+    "translation_uz": "uyni bo'yamoq",
+    "example_sentence": "We painted the house white last summer."
+   },
+   {
+    "word": "live in a house",
+    "translation_uz": "uyda yashamoq",
+    "example_sentence": "We live in a small house."
+   },
+   {
+    "word": "stay at someone's house",
+    "translation_uz": "birovnikida qolmoq",
+    "example_sentence": "I stayed at my friend's house last weekend."
+   },
+   {
+    "word": "go up the stairs",
+    "translation_uz": "zinadan yuqoriga chiqmoq",
+    "example_sentence": "Go up the stairs and turn left."
+   },
+   {
+    "word": "come down the stairs",
+    "translation_uz": "zinadan pastga tushmoq",
+    "example_sentence": "The child came down the stairs slowly."
+   },
+   {
+    "word": "fall down the stairs",
+    "translation_uz": "zinadan yiqilib tushmoq",
+    "example_sentence": "Be careful, don't fall down the stairs."
+   },
+   {
+    "word": "a flight of stairs",
+    "translation_uz": "zinaning bir marshi",
+    "example_sentence": "Our flat is up one flight of stairs."
+   },
+   {
+    "word": "the top of the stairs",
+    "translation_uz": "zinaning tepasi",
+    "example_sentence": "The bathroom is at the top of the stairs."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "My brother wants to ___ a house in the village.",
+    "correct_word": "build",
+    "options": [
+     "build",
+     "eat",
+     "wash",
+     "open"
+    ]
+   },
+   {
+    "sentence_with_blank": "Two friends ___ a house because it is cheaper.",
+    "correct_word": "share",
+    "options": [
+     "share",
+     "fall",
+     "paint",
+     "climb"
+    ]
+   },
+   {
+    "sentence_with_blank": "She ___ down the stairs and hurt her leg.",
+    "correct_word": "fell",
+    "options": [
+     "fell",
+     "built",
+     "shared",
+     "sold"
+    ]
+   },
+   {
+    "sentence_with_blank": "We live ___ a big house near the park.",
+    "correct_word": "in",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "to"
+    ]
+   },
+   {
+    "sentence_with_blank": "The old man is slowly going ___ the stairs to his bedroom.",
+    "correct_word": "up",
+    "options": [
+     "up",
+     "in",
+     "at",
+     "for"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Our New House",
+   "text": "My family has a new house. My father built it with his friends. It has two floors. The kitchen is downstairs and the bedrooms are at the top of the stairs. There is a flight of stairs with twelve steps. My little sister likes to come down the stairs very fast, but Mum says, \"Be careful! Don't fall down the stairs.\" Last week my cousin stayed at our house. He said it was the nicest house he knows.",
+   "key_words": [
+    {
+     "word": "flight of stairs",
+     "translation_uz": "zinaning bir marshi"
+    },
+    {
+     "word": "cousin",
+     "translation_uz": "amakivachcha"
+    },
+    {
+     "word": "careful",
+     "translation_uz": "ehtiyotkor"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who built the house?",
+     "options": [
+      "Mum",
+      "The writer's father with his friends",
+      "The cousin",
+      "A company"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where are the bedrooms?",
+     "options": [
+      "Downstairs",
+      "In the garden",
+      "At the top of the stairs",
+      "Next to the kitchen"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How many steps are in the flight of stairs?",
+     "options": [
+      "Ten",
+      "Twelve",
+      "Fourteen",
+      "Twenty"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Sharing a House",
+   "script": "I share a house with two friends. We live near the university. The house has three bedrooms and one big kitchen. The bathroom is at the top of the stairs. Last night I fell down the stairs, but I am fine. Tomorrow my brother will stay at our house for two days.",
+   "questions": [
+    {
+     "question": "How many friends does the speaker share the house with?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is the bathroom?",
+     "options": [
+      "Next to the kitchen",
+      "In the garden",
+      "At the top of the stairs",
+      "Downstairs"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Who will stay at the house tomorrow?",
+     "options": [
+      "The speaker's brother",
+      "The speaker's mother",
+      "A teacher",
+      "A neighbour"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "We share a house.",
+    "Go up the stairs.",
+    "He built a house."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "Do you live in a house or a flat?",
+    "hint_words": [
+     "I live in",
+     "house",
+     "flat",
+     "big"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Are there stairs in your house?",
+    "hint_words": [
+     "yes",
+     "no",
+     "upstairs",
+     "many"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Describe your house.",
+    "hint_words": [
+     "big",
+     "small",
+     "rooms",
+     "garden"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 11,
+  "title": "room",
+  "vocabulary": [
+   {
+    "word": "share a room",
+    "translation_uz": "xonani birga bo'lishib yashamoq",
+    "example_sentence": "I share a room with my brother."
+   },
+   {
+    "word": "tidy your room",
+    "translation_uz": "xonani tartibga keltirmoq",
+    "example_sentence": "Please tidy your room before dinner."
+   },
+   {
+    "word": "book a room",
+    "translation_uz": "xona band qilmoq",
+    "example_sentence": "We booked a room for two nights."
+   },
+   {
+    "word": "let a room",
+    "translation_uz": "xonani ijaraga bermoq",
+    "example_sentence": "She lets a room to a student."
+   },
+   {
+    "word": "a spare room",
+    "translation_uz": "ortiqcha xona",
+    "example_sentence": "Our spare room is for guests."
+   },
+   {
+    "word": "a single room",
+    "translation_uz": "bir kishilik xona",
+    "example_sentence": "I'd like a single room, please."
+   },
+   {
+    "word": "a double room",
+    "translation_uz": "ikki kishilik xona",
+    "example_sentence": "They booked a double room."
+   },
+   {
+    "word": "the next room",
+    "translation_uz": "qo'shni xona",
+    "example_sentence": "The noise comes from the next room."
+   },
+   {
+    "word": "the room is crowded",
+    "translation_uz": "xona gavjum",
+    "example_sentence": "The room is crowded with people."
+   },
+   {
+    "word": "a waiting room",
+    "translation_uz": "kutish xonasi",
+    "example_sentence": "Wait in the waiting room, please."
+   },
+   {
+    "word": "a bright room",
+    "translation_uz": "yorug' xona",
+    "example_sentence": "It is a bright room with big windows."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I ___ a room with my sister, so it is always busy.",
+    "correct_word": "share",
+    "options": [
+     "share",
+     "fall",
+     "drive",
+     "cook"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum says, \"Please ___ your room. It is very untidy.\"",
+    "correct_word": "tidy",
+    "options": [
+     "tidy",
+     "let",
+     "sell",
+     "book"
+    ]
+   },
+   {
+    "sentence_with_blank": "We want to ___ a room at the hotel for Friday.",
+    "correct_word": "book",
+    "options": [
+     "book",
+     "share",
+     "paint",
+     "clean"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please wait in the ___ room. The doctor will see you soon.",
+    "correct_word": "waiting",
+    "options": [
+     "waiting",
+     "double",
+     "spare",
+     "bright"
+    ]
+   },
+   {
+    "sentence_with_blank": "My friend is staying in the ___ room, because we have guests.",
+    "correct_word": "spare",
+    "options": [
+     "spare",
+     "single",
+     "crowded",
+     "waiting"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Hotel Room",
+   "text": "Last month Ali and his wife booked a double room at a small hotel. The room was bright, with a big window. It was next to the kitchen, so there was a little noise in the morning. Their friends stayed in a single room on the first floor. On the last day they tidied the room, took their bags and went to reception. The receptionist asked, \"Did you like the room?\" Ali said, \"Yes, it was very good.\"",
+   "key_words": [
+    {
+     "word": "receptionist",
+     "translation_uz": "qabulxona xodimi"
+    },
+    {
+     "word": "noise",
+     "translation_uz": "shovqin"
+    },
+    {
+     "word": "bright",
+     "translation_uz": "yorug'"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What kind of room did Ali and his wife book?",
+     "options": [
+      "A single room",
+      "A double room",
+      "A spare room",
+      "A waiting room"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why was there a little noise in the morning?",
+     "options": [
+      "The room was next to the kitchen",
+      "The window was open",
+      "The street was busy",
+      "Children were playing"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Where did the friends stay?",
+     "options": [
+      "In a double room",
+      "In the kitchen",
+      "In a single room",
+      "In a spare room"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Hotel",
+   "script": "Good evening. I would like to book a room for two nights, please. A single room or a double room? A single room. Is it bright? Yes, the window is big. Is it a quiet room? Yes, it is the last room on the first floor, next to the stairs.",
+   "questions": [
+    {
+     "question": "How many nights does the guest want?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What kind of room does he want?",
+     "options": [
+      "Double",
+      "Family",
+      "Single",
+      "Spare"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where is the room?",
+     "options": [
+      "On the first floor",
+      "On the third floor",
+      "In the garden",
+      "Next to the kitchen"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I share a room.",
+    "Please tidy your room.",
+    "We booked a double room."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Room",
+    "question_text": "Do you share a room?",
+    "hint_words": [
+     "yes",
+     "no",
+     "my brother",
+     "my sister"
+    ]
+   },
+   {
+    "topic": "Room",
+    "question_text": "Is your room tidy?",
+    "hint_words": [
+     "tidy",
+     "untidy",
+     "clothes",
+     "books"
+    ]
+   },
+   {
+    "topic": "Room",
+    "question_text": "What is in your room?",
+    "hint_words": [
+     "bed",
+     "desk",
+     "books",
+     "lamp"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 12,
+  "title": "floor, carpet",
+  "vocabulary": [
+   {
+    "word": "sweep the floor",
+    "translation_uz": "polni supurmoq",
+    "example_sentence": "I sweep the floor every morning."
+   },
+   {
+    "word": "wash the floor",
+    "translation_uz": "polni yuvmoq",
+    "example_sentence": "She washes the floor on Saturdays."
+   },
+   {
+    "word": "scrub the floor",
+    "translation_uz": "polni ishqalab yuvmoq",
+    "example_sentence": "He had to scrub the floor after the party."
+   },
+   {
+    "word": "sit on the floor",
+    "translation_uz": "polda o'tirmoq",
+    "example_sentence": "The children sit on the floor and play."
+   },
+   {
+    "word": "sleep on the floor",
+    "translation_uz": "polda uxlamoq",
+    "example_sentence": "We slept on the floor in the tent."
+   },
+   {
+    "word": "spill coffee on the floor",
+    "translation_uz": "polga qahva to'kmoq",
+    "example_sentence": "Oh no, I spilled coffee on the floor!"
+   },
+   {
+    "word": "the ground floor",
+    "translation_uz": "birinchi qavat",
+    "example_sentence": "The shop is on the ground floor."
+   },
+   {
+    "word": "the first floor",
+    "translation_uz": "ikkinchi qavat (Britaniya)",
+    "example_sentence": "Our flat is on the first floor."
+   },
+   {
+    "word": "hoover the carpet",
+    "translation_uz": "gilamni changyutgichda tozalamoq",
+    "example_sentence": "Dad hoovers the carpet on Sundays."
+   },
+   {
+    "word": "lay a carpet",
+    "translation_uz": "gilam to'shamoq",
+    "example_sentence": "They will lay a new carpet in the living room."
+   },
+   {
+    "word": "a carpet wears",
+    "translation_uz": "gilam eskirib ketmoq",
+    "example_sentence": "The carpet is wearing out near the door."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ the floor. It is dirty.",
+    "correct_word": "sweep",
+    "options": [
+     "sweep",
+     "build",
+     "book",
+     "share"
+    ]
+   },
+   {
+    "sentence_with_blank": "The children like to sit ___ the floor and draw.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "My flat is on the ground ___.",
+    "correct_word": "floor",
+    "options": [
+     "floor",
+     "carpet",
+     "stairs",
+     "room"
+    ]
+   },
+   {
+    "sentence_with_blank": "Every Sunday Dad ___ the carpet.",
+    "correct_word": "hoovers",
+    "options": [
+     "hoovers",
+     "lays",
+     "sweeps",
+     "spills"
+    ]
+   },
+   {
+    "sentence_with_blank": "I ___ my tea on the floor, so I need a cloth.",
+    "correct_word": "spilled",
+    "options": [
+     "spilled",
+     "laid",
+     "sat",
+     "wore"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Cleaning Day",
+   "text": "Every Saturday my family has a cleaning day. Mum hoovers the carpet in the living room. Dad washes the kitchen floor. My brother and I sweep the floor in our bedroom. Last Saturday I spilled juice on the new carpet. I was afraid, but Mum only said, \"Never mind. Get a cloth.\" After the cleaning, we all sit on the floor and play cards. Dad says that a clean house makes a happy family.",
+   "key_words": [
+    {
+     "word": "cloth",
+     "translation_uz": "latta"
+    },
+    {
+     "word": "never mind",
+     "translation_uz": "hechqisi yo'q"
+    },
+    {
+     "word": "cleaning day",
+     "translation_uz": "tozalash kuni"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Who hoovers the carpet?",
+     "options": [
+      "Dad",
+      "Mum",
+      "The brother",
+      "The writer"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did the writer spill on the carpet?",
+     "options": [
+      "Tea",
+      "Coffee",
+      "Milk",
+      "Juice"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the family do after cleaning?",
+     "options": [
+      "They watch TV",
+      "They sit on the floor and play cards",
+      "They go shopping",
+      "They sleep"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Old Carpet",
+   "script": "Our carpet is very old. It is wearing out near the door. Next week we will lay a new carpet in the living room. First, we must sweep the floor. My father says it will take two days. When the work is finished, we will hoover the new carpet every Sunday.",
+   "questions": [
+    {
+     "question": "Where is the old carpet wearing out?",
+     "options": [
+      "Near the window",
+      "Near the door",
+      "Under the table",
+      "In the kitchen"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will they lay next week?",
+     "options": [
+      "A new floor",
+      "A new table",
+      "A new carpet",
+      "A new door"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How long will the work take?",
+     "options": [
+      "Two days",
+      "One day",
+      "One week",
+      "Three days"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Sweep the floor.",
+    "She hoovers the carpet.",
+    "The shop is on the ground floor."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Cleaning",
+    "question_text": "Who cleans the floor in your house?",
+    "hint_words": [
+     "my mother",
+     "I",
+     "every day",
+     "Saturday"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you have a carpet in your room?",
+    "hint_words": [
+     "yes",
+     "no",
+     "big",
+     "old"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "What do you sit on at home?",
+    "hint_words": [
+     "chair",
+     "sofa",
+     "floor",
+     "carpet"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 13,
+  "title": "wall, ceiling",
+  "vocabulary": [
+   {
+    "word": "paint a wall",
+    "translation_uz": "devorni bo'yamoq",
+    "example_sentence": "We painted the wall blue."
+   },
+   {
+    "word": "a thick wall",
+    "translation_uz": "qalin devor",
+    "example_sentence": "The castle has thick walls."
+   },
+   {
+    "word": "an outside wall",
+    "translation_uz": "tashqi devor",
+    "example_sentence": "The outside wall needs paint."
+   },
+   {
+    "word": "hang a picture on the wall",
+    "translation_uz": "devorga rasm osmoq",
+    "example_sentence": "I hung a picture on the wall."
+   },
+   {
+    "word": "cover the wall with pictures",
+    "translation_uz": "devorni rasmlar bilan qoplamoq",
+    "example_sentence": "She covered the wall with photos."
+   },
+   {
+    "word": "a high wall",
+    "translation_uz": "baland devor",
+    "example_sentence": "A high wall surrounds the garden."
+   },
+   {
+    "word": "touch the ceiling",
+    "translation_uz": "shiftga tegmoq",
+    "example_sentence": "He is so tall that he can touch the ceiling."
+   },
+   {
+    "word": "a high ceiling",
+    "translation_uz": "baland shift",
+    "example_sentence": "The old room has a high ceiling."
+   },
+   {
+    "word": "a low ceiling",
+    "translation_uz": "past shift",
+    "example_sentence": "The cellar has a low ceiling."
+   },
+   {
+    "word": "stare at the ceiling",
+    "translation_uz": "shiftga tikilib qolmoq",
+    "example_sentence": "I could not sleep and stared at the ceiling."
+   },
+   {
+    "word": "a light hangs from the ceiling",
+    "translation_uz": "chiroq shiftdan osilib turadi",
+    "example_sentence": "A big light hangs from the ceiling."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "We want to ___ the wall green.",
+    "correct_word": "paint",
+    "options": [
+     "paint",
+     "touch",
+     "sweep",
+     "stare"
+    ]
+   },
+   {
+    "sentence_with_blank": "Mum put a lovely picture ___ the wall.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "in",
+     "for",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "The castle has very ___ walls, so it is always cold inside.",
+    "correct_word": "thick",
+    "options": [
+     "thick",
+     "tidy",
+     "bright",
+     "double"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is tall, so he can ___ the ceiling.",
+    "correct_word": "touch",
+    "options": [
+     "touch",
+     "paint",
+     "hang",
+     "stare"
+    ]
+   },
+   {
+    "sentence_with_blank": "I could not sleep, so I lay and ___ at the ceiling.",
+    "correct_word": "stared",
+    "options": [
+     "stared",
+     "hung",
+     "built",
+     "spilled"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My Bedroom",
+   "text": "I painted my bedroom last week. The walls are light blue and the ceiling is white. I hung a big map on the wall near my bed. There are also many photos of my family on the wall. A small light hangs from the ceiling. My room has a low ceiling, but it is bright and warm. In the evening I lie on my bed and stare at the ceiling and think about my day. I love my room.",
+   "key_words": [
+    {
+     "word": "map",
+     "translation_uz": "xarita"
+    },
+    {
+     "word": "warm",
+     "translation_uz": "iliq"
+    },
+    {
+     "word": "photos",
+     "translation_uz": "suratlar"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What colour are the walls?",
+     "options": [
+      "White",
+      "Green",
+      "Light blue",
+      "Yellow"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What hangs on the wall near the bed?",
+     "options": [
+      "A big map",
+      "A clock",
+      "A mirror",
+      "A bag"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does the writer do in the evening?",
+     "options": [
+      "Reads a book",
+      "Stares at the ceiling and thinks",
+      "Paints the wall",
+      "Watches TV"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Old Castle",
+   "script": "This castle is very old. It has thick walls and a high ceiling in the main hall. The outside wall is very high. On the wall there are many old pictures. A big light hangs from the ceiling. In winter, the castle is cold, because the walls are thick and the rooms are big.",
+   "questions": [
+    {
+     "question": "What kind of walls does the castle have?",
+     "options": [
+      "Thin walls",
+      "Thick walls",
+      "Wooden walls",
+      "Blue walls"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is on the walls?",
+     "options": [
+      "Windows",
+      "Old pictures",
+      "Flowers",
+      "Maps"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What hangs from the ceiling?",
+     "options": [
+      "A big light",
+      "A flag",
+      "A clock",
+      "A picture"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "Paint the wall.",
+    "The ceiling is high.",
+    "A light hangs from the ceiling."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Room",
+    "question_text": "What colour are the walls in your room?",
+    "hint_words": [
+     "white",
+     "blue",
+     "green",
+     "my room"
+    ]
+   },
+   {
+    "topic": "Room",
+    "question_text": "Do you have pictures on your walls?",
+    "hint_words": [
+     "yes",
+     "no",
+     "photos",
+     "posters"
+    ]
+   },
+   {
+    "topic": "Room",
+    "question_text": "Is the ceiling in your room high or low?",
+    "hint_words": [
+     "high",
+     "low",
+     "white",
+     "light"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 14,
+  "title": "door, light",
+  "vocabulary": [
+   {
+    "word": "open the door",
+    "translation_uz": "eshikni ochmoq",
+    "example_sentence": "Please open the door."
+   },
+   {
+    "word": "close the door",
+    "translation_uz": "eshikni yopmoq",
+    "example_sentence": "Close the door, it is cold."
+   },
+   {
+    "word": "lock the door",
+    "translation_uz": "eshikni qulflamoq",
+    "example_sentence": "Always lock the door at night."
+   },
+   {
+    "word": "slam the door",
+    "translation_uz": "eshikni qars etib yopmoq",
+    "example_sentence": "He was angry and slammed the door."
+   },
+   {
+    "word": "knock on the door",
+    "translation_uz": "eshikni taqillatmoq",
+    "example_sentence": "Someone is knocking on the door."
+   },
+   {
+    "word": "answer the door",
+    "translation_uz": "eshikni ochgani chiqmoq",
+    "example_sentence": "Can you answer the door, please?"
+   },
+   {
+    "word": "the front door",
+    "translation_uz": "old eshik",
+    "example_sentence": "The front door is open."
+   },
+   {
+    "word": "turn on the light",
+    "translation_uz": "chiroqni yoqmoq",
+    "example_sentence": "Turn on the light, it is dark."
+   },
+   {
+    "word": "turn off the light",
+    "translation_uz": "chiroqni o'chirmoq",
+    "example_sentence": "Turn off the light when you leave."
+   },
+   {
+    "word": "a light switch",
+    "translation_uz": "chiroq tugmasi",
+    "example_sentence": "The light switch is next to the door."
+   },
+   {
+    "word": "a light bulb",
+    "translation_uz": "lampochka",
+    "example_sentence": "We need a new light bulb."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is cold. Please ___ the door.",
+    "correct_word": "close",
+    "options": [
+     "close",
+     "paint",
+     "hoover",
+     "build"
+    ]
+   },
+   {
+    "sentence_with_blank": "Someone is ___ on the door. Can you go and see?",
+    "correct_word": "knocking",
+    "options": [
+     "knocking",
+     "sweeping",
+     "sharing",
+     "lighting"
+    ]
+   },
+   {
+    "sentence_with_blank": "Always ___ the door when you leave the house.",
+    "correct_word": "lock",
+    "options": [
+     "lock",
+     "spill",
+     "stare",
+     "sell"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is dark in here. Turn ___ the light, please.",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "up",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "sentence_with_blank": "The light ___ is next to the front door.",
+    "correct_word": "switch",
+    "options": [
+     "switch",
+     "bulb",
+     "wall",
+     "floor"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Dark Evening",
+   "text": "Last night I came home late. The street was dark. I opened the front door and went in. It was very dark, so I looked for the light switch. I could not find it. Then I knocked into a chair. My brother heard the noise and came to answer the door. He turned on the light. \"Why didn't you ring the bell?\" he asked. I laughed. The light bulb in the hall was broken, so I changed it. Now I always lock the door and leave the light on.",
+   "key_words": [
+    {
+     "word": "bell",
+     "translation_uz": "qo'ng'iroq"
+    },
+    {
+     "word": "hall",
+     "translation_uz": "dahliz"
+    },
+    {
+     "word": "broken",
+     "translation_uz": "singan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When did the writer come home?",
+     "options": [
+      "Early",
+      "Late",
+      "At noon",
+      "At dawn"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why couldn't the writer see?",
+     "options": [
+      "The street was dark",
+      "The door was locked",
+      "It was foggy",
+      "He was ill"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was wrong with the light in the hall?",
+     "options": [
+      "The bulb was broken",
+      "The switch was missing",
+      "The wall was dirty",
+      "The door was open"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "At Home",
+   "script": "Is that someone at the door? Yes, someone is knocking. Can you answer the door, please? I am busy. OK. Hello! Oh, it is Grandma. Come in! Please close the door, it is cold. And turn on the light in the hall, it is dark.",
+   "questions": [
+    {
+     "question": "Who is at the door?",
+     "options": [
+      "A neighbour",
+      "Grandma",
+      "The postman",
+      "A friend"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why does the speaker ask to close the door?",
+     "options": [
+      "It is noisy",
+      "It is windy",
+      "It is cold",
+      "It is late"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What should the speaker turn on in the hall?",
+     "options": [
+      "The TV",
+      "The light",
+      "The heating",
+      "The radio"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Open the door.",
+    "Turn off the light.",
+    "Lock the door at night."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "Do you lock the door at night?",
+    "hint_words": [
+     "yes",
+     "always",
+     "my father",
+     "key"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Do you turn off the light when you leave a room?",
+    "hint_words": [
+     "yes",
+     "sometimes",
+     "forget",
+     "always"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "Who opens the door when someone knocks?",
+    "hint_words": [
+     "I",
+     "my mother",
+     "brother",
+     "father"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 15,
+  "title": "window, heating",
+  "vocabulary": [
+   {
+    "word": "open the window",
+    "translation_uz": "derazani ochmoq",
+    "example_sentence": "Open the window, it's hot."
+   },
+   {
+    "word": "close the window",
+    "translation_uz": "derazani yopmoq",
+    "example_sentence": "Close the window, it's raining."
+   },
+   {
+    "word": "break a window",
+    "translation_uz": "deraza sindirmoq",
+    "example_sentence": "The ball broke the window."
+   },
+   {
+    "word": "clean the windows",
+    "translation_uz": "derazalarni artmoq",
+    "example_sentence": "I clean the windows every month."
+   },
+   {
+    "word": "look out of the window",
+    "translation_uz": "derazadan qaramoq",
+    "example_sentence": "She looked out of the window."
+   },
+   {
+    "word": "a window seat",
+    "translation_uz": "deraza yonidagi o'rin",
+    "example_sentence": "I'd like a window seat on the plane."
+   },
+   {
+    "word": "a shop window",
+    "translation_uz": "vitrina",
+    "example_sentence": "There is a nice dress in the shop window."
+   },
+   {
+    "word": "turn on the heating",
+    "translation_uz": "isitishni yoqmoq",
+    "example_sentence": "Turn on the heating, it's cold."
+   },
+   {
+    "word": "turn off the heating",
+    "translation_uz": "isitishni o'chirmoq",
+    "example_sentence": "Turn off the heating in spring."
+   },
+   {
+    "word": "central heating",
+    "translation_uz": "markaziy isitish",
+    "example_sentence": "Our flat has central heating."
+   },
+   {
+    "word": "the heating is on",
+    "translation_uz": "isitish yoqilgan",
+    "example_sentence": "The heating is on, so the house is warm."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It is very hot in here. Please ___ the window.",
+    "correct_word": "open",
+    "options": [
+     "open",
+     "break",
+     "sell",
+     "paint"
+    ]
+   },
+   {
+    "sentence_with_blank": "The boys were playing football and ___ a window.",
+    "correct_word": "broke",
+    "options": [
+     "broke",
+     "opened",
+     "cleaned",
+     "lit"
+    ]
+   },
+   {
+    "sentence_with_blank": "She sat by the window and ___ out of it for a long time.",
+    "correct_word": "looked",
+    "options": [
+     "looked",
+     "turned",
+     "hoovered",
+     "locked"
+    ]
+   },
+   {
+    "sentence_with_blank": "It is freezing. Turn ___ the heating!",
+    "correct_word": "on",
+    "options": [
+     "on",
+     "off",
+     "out",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our flat has ___ heating, so every room is warm.",
+    "correct_word": "central",
+    "options": [
+     "central",
+     "double",
+     "front",
+     "spare"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Cold Winter",
+   "text": "This winter is very cold. It snows every day. At home we turn on the heating in the morning and we turn it off at night. Our flat has central heating, so every room is warm. I like to sit by the window and look out at the snow. Yesterday my brother opened the window to catch some snow and Mum was angry. \"Close the window!\" she said. In the evening, we have hot tea and tell stories. Winter is cold outside, but warm inside.",
+   "key_words": [
+    {
+     "word": "snow",
+     "translation_uz": "qor"
+    },
+    {
+     "word": "freezing",
+     "translation_uz": "juda sovuq"
+    },
+    {
+     "word": "central heating",
+     "translation_uz": "markaziy isitish"
+    }
+   ],
+   "questions": [
+    {
+     "question": "When do they turn on the heating?",
+     "options": [
+      "At night",
+      "In the morning",
+      "At noon",
+      "Never"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the writer like to do by the window?",
+     "options": [
+      "Read a book",
+      "Look out at the snow",
+      "Play games",
+      "Sleep"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why was Mum angry?",
+     "options": [
+      "The brother opened the window",
+      "The brother broke a cup",
+      "The heating was off",
+      "The writer was late"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Cold in the Flat",
+   "script": "It is very cold in here. Is the heating on? Yes, but the window is open. Please close the window. Thank you. Now turn up the heating a little. Our flat has central heating, so it will be warm in five minutes. Do you want a cup of tea? Yes, please.",
+   "questions": [
+    {
+     "question": "Why is it cold in the flat?",
+     "options": [
+      "The heating is off",
+      "The window is open",
+      "The door is broken",
+      "It is night"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What kind of heating does the flat have?",
+     "options": [
+      "A fire",
+      "Central heating",
+      "No heating",
+      "An oven"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What does the speaker offer?",
+     "options": [
+      "A blanket",
+      "A coat",
+      "A cup of tea",
+      "A seat"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Open the window.",
+    "Turn on the heating.",
+    "The ball broke the window."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Home",
+    "question_text": "Do you open the window in the morning?",
+    "hint_words": [
+     "yes",
+     "fresh air",
+     "always",
+     "sometimes"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "How do you keep your house warm in winter?",
+    "hint_words": [
+     "heating",
+     "blanket",
+     "fire",
+     "warm clothes"
+    ]
+   },
+   {
+    "topic": "Home",
+    "question_text": "What can you see from your window?",
+    "hint_words": [
+     "street",
+     "trees",
+     "houses",
+     "sky"
+    ]
+   }
+  ]
+ }
+]

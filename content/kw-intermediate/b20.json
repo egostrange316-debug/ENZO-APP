@@ -1,0 +1,1277 @@
+[
+ {
+  "unit": 160,
+  "title": "language",
+  "vocabulary": [
+   {
+    "word": "speak a foreign language",
+    "translation_uz": "chet tilida gapirmoq",
+    "example_sentence": "My cousin can speak three foreign languages fluently."
+   },
+   {
+    "word": "learn a language",
+    "translation_uz": "til o'rganmoq",
+    "example_sentence": "It takes time and patience to learn a language well."
+   },
+   {
+    "word": "mother tongue",
+    "translation_uz": "ona tili",
+    "example_sentence": "Uzbek is my mother tongue, but I also study English."
+   },
+   {
+    "word": "first language",
+    "translation_uz": "birinchi til",
+    "example_sentence": "English is not her first language, but she writes very well."
+   },
+   {
+    "word": "official language",
+    "translation_uz": "rasmiy til",
+    "example_sentence": "Spanish is the official language of many countries."
+   },
+   {
+    "word": "a language course",
+    "translation_uz": "til kursi",
+    "example_sentence": "He signed up for a language course in London."
+   },
+   {
+    "word": "language skills",
+    "translation_uz": "til ko'nikmalari",
+    "example_sentence": "Good language skills can help you get a better job."
+   },
+   {
+    "word": "body language",
+    "translation_uz": "tana tili (imo-ishora)",
+    "example_sentence": "Her body language showed that she was nervous."
+   },
+   {
+    "word": "bad language",
+    "translation_uz": "qo'pol so'zlar",
+    "example_sentence": "Please don't use bad language in front of young children."
+   },
+   {
+    "word": "improve your language",
+    "translation_uz": "tilingizni yaxshilamoq",
+    "example_sentence": "Reading books is a great way to improve your language."
+   },
+   {
+    "word": "translate into another language",
+    "translation_uz": "boshqa tilga tarjima qilmoq",
+    "example_sentence": "The author's novel was translated into twenty languages."
+   },
+   {
+    "word": "a language barrier",
+    "translation_uz": "til to'sig'i",
+    "example_sentence": "The language barrier made it hard for them to talk."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She grew up in Tashkent, so Uzbek is her ___ tongue.",
+    "correct_word": "mother",
+    "options": [
+     "family",
+     "father",
+     "parent",
+     "mother"
+    ]
+   },
+   {
+    "sentence_with_blank": "Many people ___ a foreign language to travel or to find work.",
+    "correct_word": "learn",
+    "options": [
+     "say",
+     "teach",
+     "learn",
+     "tell"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can tell he is angry from his body ___.",
+    "correct_word": "language",
+    "options": [
+     "speech",
+     "language",
+     "talk",
+     "voice"
+    ]
+   },
+   {
+    "sentence_with_blank": "This book was ___ from Russian into English last year.",
+    "correct_word": "translated",
+    "options": [
+     "moved",
+     "translated",
+     "changed",
+     "written"
+    ]
+   },
+   {
+    "sentence_with_blank": "English is one of the official ___ of the United Nations.",
+    "correct_word": "languages",
+    "options": [
+     "tongues",
+     "speeches",
+     "languages",
+     "words"
+    ]
+   },
+   {
+    "sentence_with_blank": "After the course, her language ___ were much better.",
+    "correct_word": "skills",
+    "options": [
+     "tasks",
+     "works",
+     "rules",
+     "skills"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Learning a New Language",
+   "text": "Dilnoza is fifteen, and she wants to speak English fluently. Uzbek is her mother tongue, and she also speaks Russian quite well. Last summer she joined a language course at a small school in her city. At first the language barrier was a problem, because her teacher, Mr Brown, spoke only English. However, his body language and his pictures helped her to understand. Now she reads English books every evening to improve her language. She hopes to study abroad one day.",
+   "key_words": [
+    {
+     "word": "fluently",
+     "translation_uz": "ravon, erkin"
+    },
+    {
+     "word": "language barrier",
+     "translation_uz": "til to'sig'i"
+    },
+    {
+     "word": "abroad",
+     "translation_uz": "chet elda"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What is Dilnoza's mother tongue?",
+     "options": [
+      "Russian",
+      "Uzbek",
+      "English",
+      "German"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why was the beginning of the course difficult?",
+     "options": [
+      "The school was far away",
+      "The books were expensive",
+      "The teacher spoke only English",
+      "The lessons were too short"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What helped her to understand the teacher?",
+     "options": [
+      "A dictionary",
+      "Her friends",
+      "Videos on the internet",
+      "His body language and pictures"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the Language School",
+   "script": "Anna: Hi, Tom! Are you taking a language course this term? Tom: Yes, I'm learning Italian. My grandmother's first language is Italian, but my parents never taught me. Anna: That's a shame! How is the course? Tom: It's great. We have lessons twice a week, and I'm improving my language skills quickly. Anna: Is it difficult? Tom: Pronunciation is the hardest part for me. I'm going to Rome in July, so I want to be ready.",
+   "questions": [
+    {
+     "question": "What language is Tom learning?",
+     "options": [
+      "Italian",
+      "French",
+      "Spanish",
+      "German"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How often does Tom have lessons?",
+     "options": [
+      "Every day",
+      "Twice a week",
+      "Once a week",
+      "Three times a week"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What is the hardest part for Tom?",
+     "options": [
+      "Grammar",
+      "Writing",
+      "Pronunciation",
+      "Spelling"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "She speaks three foreign languages.",
+    "English is my second language.",
+    "Please don't use bad language."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Languages",
+    "question_text": "Which foreign languages would you like to learn, and why?",
+    "hint_words": [
+     "I would like",
+     "useful",
+     "travel",
+     "job"
+    ]
+   },
+   {
+    "topic": "Languages",
+    "question_text": "What is the best way to improve your language skills?",
+    "hint_words": [
+     "reading",
+     "speaking",
+     "practice",
+     "films"
+    ]
+   },
+   {
+    "topic": "Languages",
+    "question_text": "Is it easy or difficult to learn a language? Why?",
+    "hint_words": [
+     "easy",
+     "difficult",
+     "grammar",
+     "words"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 161,
+  "title": "conversation",
+  "vocabulary": [
+   {
+    "word": "have a conversation",
+    "translation_uz": "suhbatlashmoq",
+    "example_sentence": "I had a long conversation with my aunt on the phone."
+   },
+   {
+    "word": "start a conversation",
+    "translation_uz": "suhbat boshlamoq",
+    "example_sentence": "It is easy to start a conversation with a friendly person."
+   },
+   {
+    "word": "join in a conversation",
+    "translation_uz": "suhbatga qo'shilmoq",
+    "example_sentence": "Come and join in the conversation, Sara!"
+   },
+   {
+    "word": "make conversation",
+    "translation_uz": "suhbat qurmoq (gap topishib gaplashmoq)",
+    "example_sentence": "I tried to make conversation with the boy next to me."
+   },
+   {
+    "word": "change the conversation",
+    "translation_uz": "suhbat mavzusini o'zgartirmoq",
+    "example_sentence": "When the topic became boring, he changed the conversation."
+   },
+   {
+    "word": "overhear a conversation",
+    "translation_uz": "birovlarning suhbatini beixtiyor eshitmoq",
+    "example_sentence": "I overheard a conversation about the school trip."
+   },
+   {
+    "word": "a long conversation",
+    "translation_uz": "uzoq suhbat",
+    "example_sentence": "We had a long conversation about our plans."
+   },
+   {
+    "word": "a private conversation",
+    "translation_uz": "shaxsiy suhbat",
+    "example_sentence": "Please leave us alone; this is a private conversation."
+   },
+   {
+    "word": "a telephone conversation",
+    "translation_uz": "telefon suhbati",
+    "example_sentence": "Our telephone conversation lasted almost an hour."
+   },
+   {
+    "word": "a friendly conversation",
+    "translation_uz": "do'stona suhbat",
+    "example_sentence": "They had a friendly conversation over a cup of tea."
+   },
+   {
+    "word": "in conversation with",
+    "translation_uz": "... bilan suhbatlashib",
+    "example_sentence": "The teacher was in conversation with a parent."
+   },
+   {
+    "word": "a topic of conversation",
+    "translation_uz": "suhbat mavzusi",
+    "example_sentence": "The weather is a popular topic of conversation."
+   },
+   {
+    "word": "a conversation about",
+    "translation_uz": "... haqida suhbat",
+    "example_sentence": "We had a conversation about music."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "It was hard to ___ a conversation with such a shy person.",
+    "correct_word": "start",
+    "options": [
+     "tell",
+     "start",
+     "say",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "I accidentally ___ a conversation between two teachers.",
+    "correct_word": "overheard",
+    "options": [
+     "overheard",
+     "watched",
+     "heard to",
+     "listened"
+    ]
+   },
+   {
+    "sentence_with_blank": "The headmaster is in conversation ___ the new student's parents.",
+    "correct_word": "with",
+    "options": [
+     "by",
+     "to",
+     "at",
+     "with"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please don't listen. This is a private ___.",
+    "correct_word": "conversation",
+    "options": [
+     "speech",
+     "conversation",
+     "talk's",
+     "speaking"
+    ]
+   },
+   {
+    "sentence_with_blank": "They had a long conversation ___ their holiday plans.",
+    "correct_word": "about",
+    "options": [
+     "for",
+     "about",
+     "of",
+     "at"
+    ]
+   },
+   {
+    "sentence_with_blank": "Sorry, I'd like to ___ the conversation. Let's talk about something else.",
+    "correct_word": "change",
+    "options": [
+     "turn",
+     "change",
+     "move",
+     "exchange"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Long Train Journey",
+   "text": "Last week I took a train to Samarkand. I sat next to an old man, and at first we did not speak. Then I tried to make conversation and asked him about the weather. He smiled, and soon we were having a friendly conversation about his life. He told me stories about the old days in the city. A woman behind us overheard our conversation and joined in. Time passed quickly, and the long journey did not feel boring. When we arrived, I said goodbye to my new friends.",
+   "key_words": [
+    {
+     "word": "journey",
+     "translation_uz": "safar"
+    },
+    {
+     "word": "boring",
+     "translation_uz": "zerikarli"
+    },
+    {
+     "word": "overhear",
+     "translation_uz": "beixtiyor eshitmoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where did the writer travel?",
+     "options": [
+      "To Samarkand",
+      "To Tashkent",
+      "To Bukhara",
+      "To Khiva"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How did the writer start the conversation?",
+     "options": [
+      "By asking for his name",
+      "By asking about the weather",
+      "By offering food",
+      "By showing a photo"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who joined the conversation?",
+     "options": [
+      "The old man's son",
+      "The train driver",
+      "A woman behind them",
+      "A little girl"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "A Phone Call",
+   "script": "Mum: Who were you talking to on the phone, Ali? Ali: It was my friend Rustam. We had a long conversation about the football match. Mum: Did you talk for an hour again? Ali: Almost! Then he changed the conversation and asked about my homework. Mum: And did you help him? Ali: Yes, a little. Now I'm going to do my own homework. Mum: Good idea. Dinner is at seven o'clock.",
+   "questions": [
+    {
+     "question": "Who was Ali talking to?",
+     "options": [
+      "His teacher",
+      "His cousin",
+      "His uncle",
+      "His friend Rustam"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What was the first topic of the conversation?",
+     "options": [
+      "A football match",
+      "Homework",
+      "Dinner",
+      "A film"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What time is dinner?",
+     "options": [
+      "Six o'clock",
+      "Seven o'clock",
+      "Eight o'clock",
+      "Nine o'clock"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "We had a friendly conversation.",
+    "This is a private conversation.",
+    "He tried to make conversation."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Conversation",
+    "question_text": "What do you usually talk about with your friends?",
+    "hint_words": [
+     "we talk",
+     "school",
+     "music",
+     "sport"
+    ]
+   },
+   {
+    "topic": "Conversation",
+    "question_text": "Do you prefer a telephone conversation or a message? Why?",
+    "hint_words": [
+     "prefer",
+     "phone",
+     "message",
+     "quick"
+    ]
+   },
+   {
+    "topic": "Conversation",
+    "question_text": "How do you start a conversation with a new person?",
+    "hint_words": [
+     "say hello",
+     "ask",
+     "name",
+     "smile"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 162,
+  "title": "discussion",
+  "vocabulary": [
+   {
+    "word": "have a discussion",
+    "translation_uz": "muhokama qilmoq",
+    "example_sentence": "We had a discussion about homework in class."
+   },
+   {
+    "word": "a heated discussion",
+    "translation_uz": "qizg'in bahs",
+    "example_sentence": "There was a heated discussion about the new school rules."
+   },
+   {
+    "word": "a lively discussion",
+    "translation_uz": "jonli muhokama",
+    "example_sentence": "The film led to a lively discussion."
+   },
+   {
+    "word": "open a discussion",
+    "translation_uz": "muhokamani boshlamoq",
+    "example_sentence": "The teacher opened the discussion with a question."
+   },
+   {
+    "word": "join in the discussion",
+    "translation_uz": "muhokamaga qo'shilmoq",
+    "example_sentence": "Everyone was asked to join in the discussion."
+   },
+   {
+    "word": "lead a discussion",
+    "translation_uz": "muhokamani boshqarmoq",
+    "example_sentence": "Maria will lead the discussion today."
+   },
+   {
+    "word": "a discussion group",
+    "translation_uz": "muhokama guruhi",
+    "example_sentence": "I belong to a discussion group at the library."
+   },
+   {
+    "word": "under discussion",
+    "translation_uz": "muhokama qilinayotgan",
+    "example_sentence": "The plan for the new park is still under discussion."
+   },
+   {
+    "word": "a discussion about / on",
+    "translation_uz": "... haqida / ... mavzusida muhokama",
+    "example_sentence": "They held a discussion on how to save water."
+   },
+   {
+    "word": "after much discussion",
+    "translation_uz": "uzoq muhokamadan keyin",
+    "example_sentence": "After much discussion, we chose a name for our team."
+   },
+   {
+    "word": "a panel discussion",
+    "translation_uz": "ekspertlar muhokamasi (panel)",
+    "example_sentence": "We watched a panel discussion about technology."
+   },
+   {
+    "word": "discuss a problem",
+    "translation_uz": "muammoni muhokama qilmoq",
+    "example_sentence": "Let's discuss the problem calmly."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The two brothers had a ___ discussion about who should wash the dishes.",
+    "correct_word": "heated",
+    "options": [
+     "burning",
+     "boiling",
+     "hot",
+     "heated"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teacher will ___ the discussion with a short video.",
+    "correct_word": "open",
+    "options": [
+     "open",
+     "do",
+     "take",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "Let's ___ the problem together before we decide.",
+    "correct_word": "discuss",
+    "options": [
+     "discuss",
+     "argue",
+     "speak",
+     "tell"
+    ]
+   },
+   {
+    "sentence_with_blank": "The new bus route is still under ___.",
+    "correct_word": "discussion",
+    "options": [
+     "speaking",
+     "talk",
+     "debating",
+     "discussion"
+    ]
+   },
+   {
+    "sentence_with_blank": "After much ___, the class chose a green colour for the poster.",
+    "correct_word": "discussion",
+    "options": [
+     "discussing",
+     "discussion",
+     "discuss",
+     "discussed"
+    ]
+   },
+   {
+    "sentence_with_blank": "Did you ___ in the discussion yesterday?",
+    "correct_word": "join",
+    "options": [
+     "enter",
+     "join",
+     "come",
+     "take"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The Class Discussion",
+   "text": "On Monday our teacher, Ms Karimova, opened a discussion about mobile phones at school. She asked, \"Should students use phones in lessons?\" It soon became a heated discussion. Some students said phones are useful for finding information. Others said they only make us lose focus. Ms Karimova asked a quiet boy to join in the discussion, and he gave a very good idea. In the end, after much discussion, we agreed that phones can be used only for learning. The matter is still under discussion with the headmaster.",
+   "key_words": [
+    {
+     "word": "focus",
+     "translation_uz": "e'tibor, diqqat"
+    },
+    {
+     "word": "agree",
+     "translation_uz": "kelishmoq, rozi bo'lmoq"
+    },
+    {
+     "word": "headmaster",
+     "translation_uz": "maktab direktori"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the topic of the discussion?",
+     "options": [
+      "School uniforms",
+      "Homework",
+      "Lunch",
+      "Phones at school"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "Who opened the discussion?",
+     "options": [
+      "Ms Karimova",
+      "The headmaster",
+      "A quiet boy",
+      "A parent"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What did the students agree on in the end?",
+     "options": [
+      "Phones are banned",
+      "Phones can be used only for learning",
+      "Phones are allowed always",
+      "Nothing at all"
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning the Trip",
+   "script": "Leila: We need to discuss our class trip. Where shall we go? Omar: I'd like to visit the science museum. Leila: Some students prefer the zoo. We had a lively discussion about it yesterday. Omar: Did you finish it? Leila: No, it is still under discussion. Our teacher will lead a second discussion on Friday, and then we'll vote.",
+   "questions": [
+    {
+     "question": "What are Leila and Omar planning?",
+     "options": [
+      "A party",
+      "A concert",
+      "A class trip",
+      "A football game"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Where would Omar like to go?",
+     "options": [
+      "The zoo",
+      "The park",
+      "The cinema",
+      "The science museum"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "When will the next discussion be?",
+     "options": [
+      "On Friday",
+      "On Monday",
+      "On Wednesday",
+      "On Sunday"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "We had a lively discussion.",
+    "The plan is under discussion.",
+    "Let's discuss the problem."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Discussion",
+    "question_text": "What topics do you like to discuss with friends?",
+    "hint_words": [
+     "I like",
+     "sport",
+     "games",
+     "music"
+    ]
+   },
+   {
+    "topic": "Discussion",
+    "question_text": "Have you ever had a heated discussion? What was it about?",
+    "hint_words": [
+     "once",
+     "argue",
+     "about",
+     "angry"
+    ]
+   },
+   {
+    "topic": "Discussion",
+    "question_text": "Do you join in discussions in class? Why or why not?",
+    "hint_words": [
+     "often",
+     "shy",
+     "idea",
+     "opinion"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 163,
+  "title": "speech",
+  "vocabulary": [
+   {
+    "word": "make a speech",
+    "translation_uz": "nutq so'zlamoq",
+    "example_sentence": "The director will make a speech at the ceremony."
+   },
+   {
+    "word": "give a speech",
+    "translation_uz": "nutq so'zlamoq (taqdim etmoq)",
+    "example_sentence": "She gave a speech to the whole school."
+   },
+   {
+    "word": "deliver a speech",
+    "translation_uz": "nutq irod etmoq",
+    "example_sentence": "The president delivered a speech on television."
+   },
+   {
+    "word": "write a speech",
+    "translation_uz": "nutq yozmoq",
+    "example_sentence": "He spent two evenings writing his speech."
+   },
+   {
+    "word": "a short speech",
+    "translation_uz": "qisqa nutq",
+    "example_sentence": "Please keep your speech short, just three minutes."
+   },
+   {
+    "word": "a wedding speech",
+    "translation_uz": "to'y nutqi",
+    "example_sentence": "My uncle's wedding speech made everyone laugh."
+   },
+   {
+    "word": "an opening speech",
+    "translation_uz": "ochilish nutqi",
+    "example_sentence": "The mayor made the opening speech at the festival."
+   },
+   {
+    "word": "a speech contest",
+    "translation_uz": "notiqlik tanlovi",
+    "example_sentence": "She won first prize in the English speech contest."
+   },
+   {
+    "word": "freedom of speech",
+    "translation_uz": "so'z erkinligi",
+    "example_sentence": "Freedom of speech is an important right."
+   },
+   {
+    "word": "part of speech",
+    "translation_uz": "nutq qismi (so'z turkumi)",
+    "example_sentence": "\"Quickly\" is an adverb, a different part of speech."
+   },
+   {
+    "word": "reported speech",
+    "translation_uz": "o'zlashtirma gap (ko'chirma gapning bilvosita shakli)",
+    "example_sentence": "We learned reported speech in grammar class."
+   },
+   {
+    "word": "lose the power of speech",
+    "translation_uz": "nutqdan mahrum bo'lmoq",
+    "example_sentence": "He was so surprised that he almost lost the power of speech."
+   },
+   {
+    "word": "speechless",
+    "translation_uz": "dovdirab qolgan (gapirolmay)",
+    "example_sentence": "When I heard the news, I was speechless."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "The headteacher will ___ a speech at the end of term.",
+    "correct_word": "make",
+    "options": [
+     "do",
+     "make",
+     "say",
+     "speak"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was nervous before she ___ her speech in front of the class.",
+    "correct_word": "gave",
+    "options": [
+     "said",
+     "gave",
+     "told",
+     "spoke"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our school is holding a speech ___ next month.",
+    "correct_word": "contest",
+    "options": [
+     "fight",
+     "match",
+     "contest",
+     "race"
+    ]
+   },
+   {
+    "sentence_with_blank": "In some countries, there is no freedom of ___.",
+    "correct_word": "speech",
+    "options": [
+     "voice",
+     "saying",
+     "speech",
+     "talking"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"He said that he was tired\" is an example of reported ___.",
+    "correct_word": "speech",
+    "options": [
+     "speaking",
+     "spoken",
+     "speak",
+     "speech"
+    ]
+   },
+   {
+    "sentence_with_blank": "The surprise party left her ___.",
+    "correct_word": "speechless",
+    "options": [
+     "hopeless",
+     "fearless",
+     "speechless",
+     "careless"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My First Speech",
+   "text": "Last month our English teacher organised a speech contest. I was very nervous, but I decided to take part. I wrote my speech about my grandfather's village, and I practised it every evening. On the day of the contest, I walked on to the stage and gave my speech in front of a hundred people. My hands were shaking, but nobody noticed. When I finished, everyone clapped. I did not win first prize, but my teacher said it was a brave speech. Now I want to make another one.",
+   "key_words": [
+    {
+     "word": "nervous",
+     "translation_uz": "asabiy, hayajonli"
+    },
+    {
+     "word": "practise",
+     "translation_uz": "mashq qilmoq"
+    },
+    {
+     "word": "brave",
+     "translation_uz": "jasur"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What did the writer's teacher organise?",
+     "options": [
+      "A trip",
+      "A concert",
+      "A speech contest",
+      "A sports day"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What was the speech about?",
+     "options": [
+      "A famous singer",
+      "Sports",
+      "The school library",
+      "The writer's grandfather's village"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How often did the writer practise?",
+     "options": [
+      "Every evening",
+      "Once a week",
+      "Only on Sunday",
+      "Never"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "Wedding Plans",
+   "script": "Sara: Dad is going to make a speech at my sister's wedding. Jack: Is he writing it himself? Sara: Yes, he wrote a short speech last night and read it to us. It was funny and kind. Jack: Is he nervous? Sara: A little. He says speaking in front of many people is harder than his job. Jack: Don't worry. I'm sure he will deliver a great speech.",
+   "questions": [
+    {
+     "question": "Where will Sara's father make a speech?",
+     "options": [
+      "At a school",
+      "At a wedding",
+      "At a concert",
+      "At a shop"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "When did he write the speech?",
+     "options": [
+      "This morning",
+      "Last week",
+      "Last night",
+      "Yesterday afternoon"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "How does he feel?",
+     "options": [
+      "Very happy",
+      "Angry",
+      "Bored",
+      "A little nervous"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "She gave a short speech.",
+    "He wrote a wedding speech.",
+    "I was almost speechless."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Speeches",
+    "question_text": "Have you ever made a speech? How did you feel?",
+    "hint_words": [
+     "once",
+     "nervous",
+     "proud",
+     "class"
+    ]
+   },
+   {
+    "topic": "Speeches",
+    "question_text": "Who gives a good speech in your opinion?",
+    "hint_words": [
+     "I think",
+     "teacher",
+     "president",
+     "clear"
+    ]
+   },
+   {
+    "topic": "Speeches",
+    "question_text": "What makes a speech interesting?",
+    "hint_words": [
+     "short",
+     "funny",
+     "clear",
+     "voice"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 164,
+  "title": "secret, rumour and lie",
+  "vocabulary": [
+   {
+    "word": "keep a secret",
+    "translation_uz": "sirni saqlamoq",
+    "example_sentence": "Can you keep a secret? I have a surprise for Mum."
+   },
+   {
+    "word": "tell a secret",
+    "translation_uz": "sirni aytmoq",
+    "example_sentence": "He promised not to tell the secret to anyone."
+   },
+   {
+    "word": "share a secret",
+    "translation_uz": "sir bilan o'rtoqlashmoq",
+    "example_sentence": "Best friends often share a secret."
+   },
+   {
+    "word": "in secret",
+    "translation_uz": "yashirincha",
+    "example_sentence": "They met in secret near the old bridge."
+   },
+   {
+    "word": "top secret",
+    "translation_uz": "o'ta maxfiy",
+    "example_sentence": "The plans for the new phone are top secret."
+   },
+   {
+    "word": "an open secret",
+    "translation_uz": "hamma biladigan sir",
+    "example_sentence": "It's an open secret that Ali likes Dina."
+   },
+   {
+    "word": "a family secret",
+    "translation_uz": "oilaviy sir",
+    "example_sentence": "The story of the old box is a family secret."
+   },
+   {
+    "word": "spread a rumour",
+    "translation_uz": "mish-mish tarqatmoq",
+    "example_sentence": "Someone spread a rumour that the school would close."
+   },
+   {
+    "word": "start a rumour",
+    "translation_uz": "mish-mish boshlamoq",
+    "example_sentence": "Who started the rumour about the new teacher?"
+   },
+   {
+    "word": "rumour has it that",
+    "translation_uz": "mish-mishlarga ko'ra",
+    "example_sentence": "Rumour has it that the film star is visiting our town."
+   },
+   {
+    "word": "a false rumour",
+    "translation_uz": "yolg'on mish-mish",
+    "example_sentence": "It was only a false rumour, and nothing was true."
+   },
+   {
+    "word": "tell a lie",
+    "translation_uz": "yolg'on gapirmoq",
+    "example_sentence": "It is wrong to tell a lie to your parents."
+   },
+   {
+    "word": "a white lie",
+    "translation_uz": "zararsiz yolg'on",
+    "example_sentence": "She told a white lie to avoid hurting his feelings."
+   },
+   {
+    "word": "lie about something",
+    "translation_uz": "biror narsa haqida yolg'on aytmoq",
+    "example_sentence": "Don't lie about your homework; just tell the truth."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Please ___ it a secret. I don't want anyone to know.",
+    "correct_word": "keep",
+    "options": [
+     "stay",
+     "hold",
+     "save",
+     "keep"
+    ]
+   },
+   {
+    "sentence_with_blank": "Somebody ___ a rumour that the exam was cancelled.",
+    "correct_word": "spread",
+    "options": [
+     "spread",
+     "carried",
+     "built",
+     "gave"
+    ]
+   },
+   {
+    "sentence_with_blank": "They talked about the surprise party ___ secret.",
+    "correct_word": "in",
+    "options": [
+     "by",
+     "with",
+     "in",
+     "on"
+    ]
+   },
+   {
+    "sentence_with_blank": "It's wrong to ___ a lie, even a small one.",
+    "correct_word": "tell",
+    "options": [
+     "speak",
+     "tell",
+     "say",
+     "make"
+    ]
+   },
+   {
+    "sentence_with_blank": "It was only a false ___, so don't worry.",
+    "correct_word": "rumour",
+    "options": [
+     "truth",
+     "message",
+     "rumour",
+     "secret"
+    ]
+   },
+   {
+    "sentence_with_blank": "\"Rumour ___ it that the shop will open on Sunday,\" said Mum.",
+    "correct_word": "has",
+    "options": [
+     "says",
+     "has",
+     "gives",
+     "tells"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "The School Rumour",
+   "text": "Last week a rumour spread around our school. People said that our favourite teacher, Mr Aliyev, was leaving. Nobody knew who started the rumour. Some students said it was true, and they spoke about it in secret during breaks. I decided to ask Mr Aliyev himself. He laughed and said it was a false rumour. He told me a secret instead: he is planning a surprise trip for our class. I promised to keep the secret. It is difficult, but If someone asks me, I will not tell a lie; I will just say I don't know.",
+   "key_words": [
+    {
+     "word": "favourite",
+     "translation_uz": "sevimli"
+    },
+    {
+     "word": "surprise",
+     "translation_uz": "kutilmagan sovg'a, syurpriz"
+    },
+    {
+     "word": "promise",
+     "translation_uz": "va'da bermoq"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was the rumour about?",
+     "options": [
+      "The school was closing",
+      "Mr Aliyev was leaving",
+      "An exam was cancelled",
+      "A new student was coming"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Who started the rumour?",
+     "options": [
+      "The writer",
+      "Mr Aliyev",
+      "Nobody knew",
+      "The headmaster"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What is Mr Aliyev's secret?",
+     "options": [
+      "A new job",
+      "A birthday party",
+      "A test",
+      "A surprise trip for the class"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Can You Keep a Secret?",
+   "script": "Nilufar: Can you keep a secret, Zara? Zara: Of course! What is it? Nilufar: My brother is going to organise a birthday surprise for Mum. We are planning it in secret. Zara: That's lovely! Who knows about it? Nilufar: Only me, my brother and my dad. Please don't tell anyone, not even Maria. She can't keep a secret, and she might tell Mum by accident.",
+   "questions": [
+    {
+     "question": "What is Nilufar planning?",
+     "options": [
+      "A birthday surprise",
+      "A holiday",
+      "A new house",
+      "A school party"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Who knows about the plan?",
+     "options": [
+      "The whole family",
+      "Nilufar, her brother and her dad",
+      "Only Zara",
+      "All the neighbours"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why should Zara not tell Maria?",
+     "options": [
+      "Maria is away",
+      "Maria is angry",
+      "Maria can't keep a secret",
+      "Maria is young"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "Can you keep a secret?",
+    "It was only a false rumour.",
+    "Never tell a lie."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Secrets and truth",
+    "question_text": "Do you find it easy to keep a secret? Why or why not?",
+    "hint_words": [
+     "easy",
+     "hard",
+     "friend",
+     "promise"
+    ]
+   },
+   {
+    "topic": "Secrets and truth",
+    "question_text": "Is it ever okay to tell a white lie?",
+    "hint_words": [
+     "sometimes",
+     "kind",
+     "feelings",
+     "truth"
+    ]
+   },
+   {
+    "topic": "Secrets and truth",
+    "question_text": "What do you do when you hear a rumour?",
+    "hint_words": [
+     "ask",
+     "believe",
+     "check",
+     "ignore"
+    ]
+   }
+  ]
+ }
+]

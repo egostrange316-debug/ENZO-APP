@@ -1,0 +1,1282 @@
+[
+ {
+  "unit": 52,
+  "title": "education",
+  "vocabulary": [
+   {
+    "word": "get a good education",
+    "translation_uz": "yaxshi ta'lim olmoq",
+    "example_sentence": "Her parents worked hard so that she could get a good education."
+   },
+   {
+    "word": "receive an education",
+    "translation_uz": "ta'lim olmoq (rasmiy)",
+    "example_sentence": "He received his education in a small village school."
+   },
+   {
+    "word": "primary education",
+    "translation_uz": "boshlang'ich ta'lim",
+    "example_sentence": "Primary education starts when children are about six years old."
+   },
+   {
+    "word": "secondary education",
+    "translation_uz": "o'rta ta'lim",
+    "example_sentence": "Secondary education usually lasts until the age of seventeen."
+   },
+   {
+    "word": "higher education",
+    "translation_uz": "oliy ta'lim",
+    "example_sentence": "Many young people go into higher education after school."
+   },
+   {
+    "word": "a university education",
+    "translation_uz": "universitetda olingan ta'lim",
+    "example_sentence": "A university education can open many doors in your career."
+   },
+   {
+    "word": "the education system",
+    "translation_uz": "ta'lim tizimi",
+    "example_sentence": "The education system in this country has changed a lot."
+   },
+   {
+    "word": "free education",
+    "translation_uz": "bepul ta'lim",
+    "example_sentence": "Free education for all children is very important."
+   },
+   {
+    "word": "adult education",
+    "translation_uz": "kattalar ta'limi",
+    "example_sentence": "She is taking an evening class in adult education."
+   },
+   {
+    "word": "state education",
+    "translation_uz": "davlat ta'limi",
+    "example_sentence": "Most children in my town have a state education."
+   },
+   {
+    "word": "private education",
+    "translation_uz": "xususiy ta'lim",
+    "example_sentence": "Private education can be expensive for many families."
+   },
+   {
+    "word": "educate / educated / educational",
+    "translation_uz": "o'qitmoq / ma'lumotli / ta'limga oid",
+    "example_sentence": "An educated person keeps learning all through life."
+   },
+   {
+    "word": "educational toys",
+    "translation_uz": "o'quv o'yinchoqlari",
+    "example_sentence": "Educational toys help small children learn numbers and letters."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "She wants to ___ a good education so she can become a doctor.",
+    "correct_word": "get",
+    "options": [
+     "get",
+     "make",
+     "take",
+     "do"
+    ]
+   },
+   {
+    "sentence_with_blank": "Children start ___ education at the age of six or seven.",
+    "correct_word": "primary",
+    "options": [
+     "secondary",
+     "primary",
+     "higher",
+     "adult"
+    ]
+   },
+   {
+    "sentence_with_blank": "After school, many students continue into ___ education.",
+    "correct_word": "higher",
+    "options": [
+     "primary",
+     "nursery",
+     "higher",
+     "infant"
+    ]
+   },
+   {
+    "sentence_with_blank": "The government wants to improve the ___ system.",
+    "correct_word": "education",
+    "options": [
+     "educate",
+     "educated",
+     "educating",
+     "education"
+    ]
+   },
+   {
+    "sentence_with_blank": "In many countries, ___ education is paid for by the government.",
+    "correct_word": "state",
+    "options": [
+     "state",
+     "private",
+     "paid",
+     "costly"
+    ]
+   },
+   {
+    "sentence_with_blank": "He is a very ___ man who has read hundreds of books.",
+    "correct_word": "educated",
+    "options": [
+     "educate",
+     "educated",
+     "education",
+     "educating"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A School for Everyone",
+   "text": "In my country, primary education is free for all children. Most families choose a state school because private education is expensive. After secondary education, about half of the students go on to higher education. My older sister is taking a university course in engineering. She says a good education is the best gift parents can give. My grandmother never had the chance to get an education, so she is now studying in an adult education class. She is proud of herself, and so is our whole family.",
+   "key_words": [
+    {
+     "word": "adult education",
+     "translation_uz": "kattalar ta'limi"
+    },
+    {
+     "word": "engineering",
+     "translation_uz": "muhandislik"
+    },
+    {
+     "word": "proud",
+     "translation_uz": "faxrlangan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Why do most families choose a state school?",
+     "options": [
+      "Private education is expensive.",
+      "Private schools are too far.",
+      "State schools are newer.",
+      "Teachers are better there."
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What is the narrator's sister studying?",
+     "options": [
+      "Medicine",
+      "Engineering",
+      "Languages",
+      "Music"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Where is the grandmother studying now?",
+     "options": [
+      "At a university",
+      "In a private school",
+      "In an adult education class",
+      "At home with a tutor"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Choosing a School",
+   "script": "Aziz: Did you decide where your little brother will study? Dilya: Yes. We chose a state school near our house. Primary education there is free, and the teachers are very kind. Aziz: What about the future? Dilya: Well, I hope he gets a good education and goes to university. Higher education is expensive, so my parents are saving money already. Aziz: That is clever. A university education really helps young people find good jobs.",
+   "questions": [
+    {
+     "question": "Why did Dilya choose a state school?",
+     "options": [
+      "It is private and modern.",
+      "It is far but famous.",
+      "Her friends go there.",
+      "It is free and near home."
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What are Dilya's parents doing for the future?",
+     "options": [
+      "Saving money",
+      "Moving house",
+      "Buying books",
+      "Learning English"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What does Aziz think about a university education?",
+     "options": [
+      "It is too expensive.",
+      "It helps people find good jobs.",
+      "It is not needed.",
+      "It takes too long."
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "Primary education is free here.",
+    "She wants to get a good education.",
+    "Adult education classes start in the evening."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "My education",
+    "question_text": "Where did you receive your education?",
+    "hint_words": [
+     "primary school",
+     "secondary",
+     "teachers",
+     "subjects"
+    ]
+   },
+   {
+    "topic": "The education system",
+    "question_text": "What would you change in the education system of your country?",
+    "hint_words": [
+     "longer holidays",
+     "homework",
+     "exams",
+     "free education"
+    ]
+   },
+   {
+    "topic": "Higher education",
+    "question_text": "Do you want to go into higher education? Why?",
+    "hint_words": [
+     "university",
+     "career",
+     "degree",
+     "future"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 53,
+  "title": "course",
+  "vocabulary": [
+   {
+    "word": "take a course",
+    "translation_uz": "kursda o'qimoq",
+    "example_sentence": "I am taking a course in web design this autumn."
+   },
+   {
+    "word": "do a course",
+    "translation_uz": "kurs o'tamoq",
+    "example_sentence": "She did a course in first aid last year."
+   },
+   {
+    "word": "enrol on a course",
+    "translation_uz": "kursga yozilmoq",
+    "example_sentence": "You can enrol on the course online."
+   },
+   {
+    "word": "complete a course",
+    "translation_uz": "kursni tugatmoq",
+    "example_sentence": "He completed the course with excellent results."
+   },
+   {
+    "word": "drop out of a course",
+    "translation_uz": "kursni tashlab ketmoq",
+    "example_sentence": "Two students dropped out of the course after a month."
+   },
+   {
+    "word": "a language course",
+    "translation_uz": "til kursi",
+    "example_sentence": "A language course helped me improve my speaking."
+   },
+   {
+    "word": "a training course",
+    "translation_uz": "malaka oshirish kursi",
+    "example_sentence": "The company offers a training course for new staff."
+   },
+   {
+    "word": "a degree course",
+    "translation_uz": "bakalavr dasturi",
+    "example_sentence": "It is a three-year degree course in economics."
+   },
+   {
+    "word": "a short / intensive course",
+    "translation_uz": "qisqa / jadal kurs",
+    "example_sentence": "I need an intensive course before the exam."
+   },
+   {
+    "word": "a course in / on something",
+    "translation_uz": "biror fan bo'yicha kurs",
+    "example_sentence": "There is a course in photography at the college."
+   },
+   {
+    "word": "a course of study",
+    "translation_uz": "o'quv dasturi",
+    "example_sentence": "The course of study includes ten different subjects."
+   },
+   {
+    "word": "course fees",
+    "translation_uz": "kurs to'lovi",
+    "example_sentence": "The course fees are cheaper for students."
+   },
+   {
+    "word": "in the course of",
+    "translation_uz": "davomida",
+    "example_sentence": "In the course of the year, we learned a great deal."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Last summer I ___ a course in cooking.",
+    "correct_word": "took",
+    "options": [
+     "gave",
+     "took",
+     "held",
+     "made"
+    ]
+   },
+   {
+    "sentence_with_blank": "He decided to ___ on a course at the evening school.",
+    "correct_word": "enrol",
+    "options": [
+     "join",
+     "sign",
+     "enrol",
+     "apply"
+    ]
+   },
+   {
+    "sentence_with_blank": "She was sad when two classmates ___ out of the course.",
+    "correct_word": "dropped",
+    "options": [
+     "fell",
+     "ran",
+     "went off",
+     "dropped"
+    ]
+   },
+   {
+    "sentence_with_blank": "There is a new course ___ photography at the college.",
+    "correct_word": "in",
+    "options": [
+     "in",
+     "of",
+     "at",
+     "for"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ course is very hard, but I want to complete it.",
+    "correct_word": "intensive",
+    "options": [
+     "tight",
+     "intensive",
+     "strict",
+     "wide"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our teacher told us the course ___ are lower for young people.",
+    "correct_word": "fees",
+    "options": [
+     "fares",
+     "fines",
+     "fees",
+     "taxes"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "My English Course",
+   "text": "Last month I enrolled on an English course at the language centre. It is an intensive course, so we study every day for three hours. The course fees were not cheap, but my parents agreed that it was a good idea. Two students dropped out after the first week because it was too hard. I want to complete the course and take an exam in the spring. In the course of one month I have learnt many new words, and I can already speak with more confidence.",
+   "key_words": [
+    {
+     "word": "intensive",
+     "translation_uz": "jadal"
+    },
+    {
+     "word": "confidence",
+     "translation_uz": "ishonch"
+    },
+    {
+     "word": "exam",
+     "translation_uz": "imtihon"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How often do the students study?",
+     "options": [
+      "Once a week",
+      "Every day for three hours",
+      "Twice a day",
+      "Only at weekends"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "Why did two students drop out?",
+     "options": [
+      "The fees were high.",
+      "They moved away.",
+      "The course was too hard.",
+      "They found a job."
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "What does the narrator plan to do in spring?",
+     "options": [
+      "Start a new job",
+      "Travel abroad",
+      "Drop out",
+      "Take an exam"
+     ],
+     "correct_answer_index": 3
+    }
+   ]
+  },
+  "listening": {
+   "title": "Looking for a Course",
+   "script": "Mona: I want to do a course in graphic design. Do you know a good one? Karim: My cousin took a training course at the city college. It lasts six months. Mona: How much are the course fees? Karim: About two hundred dollars, but there is a discount for students. You can enrol on the course online. Mona: That sounds great. I hope I can complete it, because some people drop out when the work gets difficult. Karim: Don't worry, you are very hard-working.",
+   "questions": [
+    {
+     "question": "What kind of course does Mona want?",
+     "options": [
+      "A graphic design course",
+      "A language course",
+      "A cooking course",
+      "A first-aid course"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "How long does the college course last?",
+     "options": [
+      "Two weeks",
+      "Six months",
+      "One year",
+      "Three years"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "How can Mona enrol on the course?",
+     "options": [
+      "By phone only",
+      "At the bank",
+      "Online",
+      "By writing a letter"
+     ],
+     "correct_answer_index": 2
+    }
+   ],
+   "dictation_sentences": [
+    "I want to take a language course.",
+    "He dropped out of the course.",
+    "Course fees are lower for students."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Courses I have taken",
+    "question_text": "What courses have you taken in your life?",
+    "hint_words": [
+     "language",
+     "cooking",
+     "music",
+     "computer"
+    ]
+   },
+   {
+    "topic": "Learning new skills",
+    "question_text": "Which course would you like to do in the future?",
+    "hint_words": [
+     "design",
+     "coding",
+     "cooking",
+     "driving"
+    ]
+   },
+   {
+    "topic": "Dropping out",
+    "question_text": "Why do some people drop out of a course?",
+    "hint_words": [
+     "too difficult",
+     "no time",
+     "expensive",
+     "boring"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 54,
+  "title": "lesson",
+  "vocabulary": [
+   {
+    "word": "give a lesson",
+    "translation_uz": "dars bermoq",
+    "example_sentence": "Our teacher gives a lesson on history every Monday."
+   },
+   {
+    "word": "teach a lesson",
+    "translation_uz": "dars o'tmoq",
+    "example_sentence": "He teaches a lesson to the youngest class."
+   },
+   {
+    "word": "have a lesson",
+    "translation_uz": "darsi bo'lmoq",
+    "example_sentence": "We have a lesson at nine o'clock."
+   },
+   {
+    "word": "attend a lesson",
+    "translation_uz": "darsga qatnashmoq",
+    "example_sentence": "Students must attend every lesson."
+   },
+   {
+    "word": "miss a lesson",
+    "translation_uz": "darsni qoldirmoq",
+    "example_sentence": "I missed a lesson because I was ill."
+   },
+   {
+    "word": "take private lessons",
+    "translation_uz": "xususiy dars olmoq",
+    "example_sentence": "She takes private lessons in piano."
+   },
+   {
+    "word": "a driving / swimming lesson",
+    "translation_uz": "haydash / suzish darsi",
+    "example_sentence": "He has a driving lesson on Saturday."
+   },
+   {
+    "word": "a lesson plan",
+    "translation_uz": "dars rejasi",
+    "example_sentence": "The teacher wrote a lesson plan for the week."
+   },
+   {
+    "word": "the next / last lesson",
+    "translation_uz": "keyingi / oxirgi dars",
+    "example_sentence": "The last lesson was about verbs."
+   },
+   {
+    "word": "learn a lesson",
+    "translation_uz": "saboq olmoq",
+    "example_sentence": "I learnt a lesson from that mistake."
+   },
+   {
+    "word": "a lesson in / on something",
+    "translation_uz": "biror mavzu bo'yicha dars",
+    "example_sentence": "We had a lesson on healthy food."
+   },
+   {
+    "word": "lessons begin / finish",
+    "translation_uz": "darslar boshlanadi / tugaydi",
+    "example_sentence": "Lessons finish at two o'clock."
+   },
+   {
+    "word": "a useful / boring lesson",
+    "translation_uz": "foydali / zerikarli dars",
+    "example_sentence": "It was a boring lesson, so many students felt sleepy."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Mrs Karimova will ___ a lesson about the planets today.",
+    "correct_word": "give",
+    "options": [
+     "do",
+     "tell",
+     "give",
+     "show"
+    ]
+   },
+   {
+    "sentence_with_blank": "I couldn't ___ the lesson because my bus was late.",
+    "correct_word": "attend",
+    "options": [
+     "visit",
+     "enter",
+     "watch",
+     "attend"
+    ]
+   },
+   {
+    "sentence_with_blank": "He wants to take private ___ in English before the test.",
+    "correct_word": "lessons",
+    "options": [
+     "lessons",
+     "lectures",
+     "courses",
+     "studies"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our teacher gave us a lesson ___ pollution.",
+    "correct_word": "on",
+    "options": [
+     "at",
+     "on",
+     "for",
+     "from"
+    ]
+   },
+   {
+    "sentence_with_blank": "After that terrible mistake, he ___ a lesson and checked everything twice.",
+    "correct_word": "learnt",
+    "options": [
+     "made",
+     "gave",
+     "learnt",
+     "held"
+    ]
+   },
+   {
+    "sentence_with_blank": "Don't worry, we can ___ the lesson up next week if you miss it.",
+    "correct_word": "make",
+    "options": [
+     "take",
+     "hold",
+     "find",
+     "make"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "A Lesson to Remember",
+   "text": "Yesterday we had a science lesson that I will never forget. Our teacher gave a lesson on volcanoes, and she showed us a small model that actually erupted. Everybody paid attention, even the students who usually find lessons boring. I missed the last lesson because I was ill, so my friend explained it to me. In the afternoon I have a swimming lesson, which I enjoy even more. My mother says that every lesson, good or bad, teaches us something.",
+   "key_words": [
+    {
+     "word": "volcano",
+     "translation_uz": "vulqon"
+    },
+    {
+     "word": "erupt",
+     "translation_uz": "otilib chiqmoq"
+    },
+    {
+     "word": "attention",
+     "translation_uz": "e'tibor"
+    }
+   ],
+   "questions": [
+    {
+     "question": "What was yesterday's science lesson about?",
+     "options": [
+      "Planets",
+      "Animals",
+      "Volcanoes",
+      "Weather"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "Why did the narrator miss the last lesson?",
+     "options": [
+      "Because of a trip",
+      "Because of the bus",
+      "Because of a test",
+      "Because of illness"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What lesson does the narrator have in the afternoon?",
+     "options": [
+      "A swimming lesson",
+      "A piano lesson",
+      "A driving lesson",
+      "A science lesson"
+     ],
+     "correct_answer_index": 0
+    }
+   ]
+  },
+  "listening": {
+   "title": "After School",
+   "script": "Father: How was school today? Sara: Very good. We had a lesson on healthy food, and the teacher gave us a quiz. Father: Did you attend all your lessons? Sara: Yes, but I nearly missed the maths lesson because I was late. I learnt a lesson, so tomorrow I will leave home earlier. Father: Good idea. Do you still want to take private lessons in drawing? Sara: Yes please. The first lesson is on Thursday.",
+   "questions": [
+    {
+     "question": "What was the lesson on?",
+     "options": [
+      "Drawing",
+      "Healthy food",
+      "Maths",
+      "History"
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What did Sara nearly miss?",
+     "options": [
+      "The drawing lesson",
+      "The quiz",
+      "The maths lesson",
+      "The bus"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When is the first private lesson?",
+     "options": [
+      "On Monday",
+      "Tomorrow morning",
+      "On Saturday",
+      "On Thursday"
+     ],
+     "correct_answer_index": 3
+    }
+   ],
+   "dictation_sentences": [
+    "The lesson begins at nine o'clock.",
+    "She takes private lessons in English.",
+    "I learnt a lesson from my mistake."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Favourite lesson",
+    "question_text": "Which lesson at school do you like best and why?",
+    "hint_words": [
+     "teacher",
+     "interesting",
+     "useful",
+     "fun"
+    ]
+   },
+   {
+    "topic": "A boring lesson",
+    "question_text": "What makes a lesson boring or interesting?",
+    "hint_words": [
+     "activities",
+     "teacher",
+     "topic",
+     "games"
+    ]
+   },
+   {
+    "topic": "Private lessons",
+    "question_text": "Have you ever taken private lessons? What for?",
+    "hint_words": [
+     "music",
+     "English",
+     "sport",
+     "maths"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 55,
+  "title": "practise and homework",
+  "vocabulary": [
+   {
+    "word": "practise English",
+    "translation_uz": "ingliz tilini mashq qilmoq",
+    "example_sentence": "I practise English with my cousin every evening."
+   },
+   {
+    "word": "practise the piano",
+    "translation_uz": "pianino chalishni mashq qilmoq",
+    "example_sentence": "She practises the piano for an hour a day."
+   },
+   {
+    "word": "practise speaking",
+    "translation_uz": "gapirishni mashq qilmoq",
+    "example_sentence": "We practise speaking in pairs."
+   },
+   {
+    "word": "regular practice",
+    "translation_uz": "muntazam mashq",
+    "example_sentence": "Regular practice makes you a better player."
+   },
+   {
+    "word": "do homework",
+    "translation_uz": "uy vazifasini bajarmoq",
+    "example_sentence": "I always do my homework after dinner."
+   },
+   {
+    "word": "finish your homework",
+    "translation_uz": "uy vazifasini tugatmoq",
+    "example_sentence": "Finish your homework before you play outside."
+   },
+   {
+    "word": "set homework",
+    "translation_uz": "uy vazifasi bermoq",
+    "example_sentence": "The teacher set a lot of homework this week."
+   },
+   {
+    "word": "hand in homework",
+    "translation_uz": "uy vazifasini topshirmoq",
+    "example_sentence": "Please hand in your homework on Friday."
+   },
+   {
+    "word": "forget your homework",
+    "translation_uz": "uy vazifasini unutmoq",
+    "example_sentence": "He forgot his homework at home."
+   },
+   {
+    "word": "a lot of homework",
+    "translation_uz": "ko'p uy vazifasi",
+    "example_sentence": "We have a lot of homework tonight."
+   },
+   {
+    "word": "homework assignment",
+    "translation_uz": "uy vazifasi topshirig'i",
+    "example_sentence": "The homework assignment is to write a short story."
+   },
+   {
+    "word": "practise for an exam / a test",
+    "translation_uz": "imtihonga tayyorlanmoq",
+    "example_sentence": "They practise for the test with old papers."
+   },
+   {
+    "word": "Practice makes perfect.",
+    "translation_uz": "Mashq mukammallik keltiradi.",
+    "example_sentence": "Keep trying: practice makes perfect."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "I try to ___ my English by watching films.",
+    "correct_word": "practise",
+    "options": [
+     "repeat",
+     "exercise",
+     "train",
+     "practise"
+    ]
+   },
+   {
+    "sentence_with_blank": "Our teacher will ___ homework on Monday and collect it on Friday.",
+    "correct_word": "set",
+    "options": [
+     "set",
+     "put",
+     "make",
+     "hold"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ in your homework before the lesson starts.",
+    "correct_word": "hand",
+    "options": [
+     "fall",
+     "hand",
+     "go",
+     "stand"
+    ]
+   },
+   {
+    "sentence_with_blank": "He ___ about his homework until the next morning.",
+    "correct_word": "forgot",
+    "options": [
+     "lost",
+     "left",
+     "forgot",
+     "missed"
+    ]
+   },
+   {
+    "sentence_with_blank": "You can improve with regular ___ every day.",
+    "correct_word": "practice",
+    "options": [
+     "practise",
+     "practised",
+     "practising",
+     "practice"
+    ]
+   },
+   {
+    "sentence_with_blank": "She has a lot of homework, so she cannot ___ outside today.",
+    "correct_word": "play",
+    "options": [
+     "play",
+     "do",
+     "make",
+     "practise"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Homework Evenings",
+   "text": "On school days I come home at four o'clock and have a snack. Then I do my homework at the kitchen table. Our teacher sets a lot of homework, especially in maths, but I try to finish it before dinner. After that I practise the violin for thirty minutes. My teacher says regular practice is more important than long practice once a week. Last Tuesday I forgot to hand in my English homework, so I had to bring it the next day. Now I check my bag every morning.",
+   "key_words": [
+    {
+     "word": "violin",
+     "translation_uz": "skripka"
+    },
+    {
+     "word": "snack",
+     "translation_uz": "yengil ovqat"
+    },
+    {
+     "word": "regular",
+     "translation_uz": "muntazam"
+    }
+   ],
+   "questions": [
+    {
+     "question": "Where does the narrator do homework?",
+     "options": [
+      "In the bedroom",
+      "At the library",
+      "In the garden",
+      "At the kitchen table"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "How long does the narrator practise the violin?",
+     "options": [
+      "Thirty minutes",
+      "One hour",
+      "Ten minutes",
+      "Two hours"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What happened last Tuesday?",
+     "options": [
+      "The narrator lost the violin.",
+      "The narrator forgot to hand in homework.",
+      "The narrator missed the bus.",
+      "The narrator failed a test."
+     ],
+     "correct_answer_index": 1
+    }
+   ]
+  },
+  "listening": {
+   "title": "Study Plan",
+   "script": "Teacher: Class, I am setting some homework today. Please practise the new words and write ten sentences. Student: When do we hand it in? Teacher: On Thursday morning. Student: Can we practise speaking in class too? Teacher: Of course. Regular practice is the secret of good English. Remember, practice makes perfect, so do not leave your homework until the last minute.",
+   "questions": [
+    {
+     "question": "What must students write?",
+     "options": [
+      "A letter",
+      "A short story",
+      "Ten sentences",
+      "Five questions"
+     ],
+     "correct_answer_index": 2
+    },
+    {
+     "question": "When do they hand in the homework?",
+     "options": [
+      "On Friday",
+      "Tomorrow evening",
+      "On Monday",
+      "On Thursday morning"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "What does the teacher say is the secret of good English?",
+     "options": [
+      "Regular practice",
+      "Long holidays",
+      "Reading comics",
+      "Expensive books"
+     ],
+     "correct_answer_index": 0
+    }
+   ],
+   "dictation_sentences": [
+    "I do my homework every evening.",
+    "Please hand in your homework tomorrow.",
+    "Regular practice makes you better."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Homework habits",
+    "question_text": "When and where do you do your homework?",
+    "hint_words": [
+     "table",
+     "evening",
+     "quiet",
+     "finish"
+    ]
+   },
+   {
+    "topic": "Practising a skill",
+    "question_text": "What skill do you practise regularly?",
+    "hint_words": [
+     "sport",
+     "music",
+     "language",
+     "drawing"
+    ]
+   },
+   {
+    "topic": "Too much homework",
+    "question_text": "Do students get too much homework? Why or why not?",
+    "hint_words": [
+     "tired",
+     "time",
+     "useful",
+     "free time"
+    ]
+   }
+  ]
+ },
+ {
+  "unit": 56,
+  "title": "exam and mark",
+  "vocabulary": [
+   {
+    "word": "take an exam",
+    "translation_uz": "imtihon topshirmoq",
+    "example_sentence": "He will take an exam in chemistry next week."
+   },
+   {
+    "word": "sit an exam",
+    "translation_uz": "imtihonda qatnashmoq",
+    "example_sentence": "Over two hundred students sat the exam."
+   },
+   {
+    "word": "pass an exam",
+    "translation_uz": "imtihondan o'tmoq",
+    "example_sentence": "I studied hard and passed the exam."
+   },
+   {
+    "word": "fail an exam",
+    "translation_uz": "imtihondan yiqilmoq",
+    "example_sentence": "She was afraid she would fail the exam."
+   },
+   {
+    "word": "revise for an exam",
+    "translation_uz": "imtihonga takrorlamoq",
+    "example_sentence": "We revise for the exam in the library."
+   },
+   {
+    "word": "an entrance / final exam",
+    "translation_uz": "kirish / yakuniy imtihon",
+    "example_sentence": "The final exam is in June."
+   },
+   {
+    "word": "exam results",
+    "translation_uz": "imtihon natijalari",
+    "example_sentence": "The exam results come out on Friday."
+   },
+   {
+    "word": "get a good / bad mark",
+    "translation_uz": "yaxshi / yomon baho olmoq",
+    "example_sentence": "She got a good mark in biology."
+   },
+   {
+    "word": "give someone a mark",
+    "translation_uz": "baho qo'ymoq",
+    "example_sentence": "The teacher gave me a high mark for my essay."
+   },
+   {
+    "word": "the highest / lowest mark",
+    "translation_uz": "eng yuqori / eng past baho",
+    "example_sentence": "He got the highest mark in the class."
+   },
+   {
+    "word": "mark homework / a test",
+    "translation_uz": "uy vazifasini / testni tekshirmoq",
+    "example_sentence": "Teachers spend hours marking tests."
+   },
+   {
+    "word": "a pass mark",
+    "translation_uz": "o'tish bali",
+    "example_sentence": "The pass mark is fifty per cent."
+   },
+   {
+    "word": "exam stress",
+    "translation_uz": "imtihon stressi",
+    "example_sentence": "Sleep and exercise help with exam stress."
+   }
+  ],
+  "gapfill": [
+   {
+    "sentence_with_blank": "Tomorrow I have to ___ an exam in geography.",
+    "correct_word": "take",
+    "options": [
+     "take",
+     "make",
+     "give",
+     "read"
+    ]
+   },
+   {
+    "sentence_with_blank": "She worked hard all year and ___ the exam easily.",
+    "correct_word": "passed",
+    "options": [
+     "won",
+     "passed",
+     "got",
+     "held"
+    ]
+   },
+   {
+    "sentence_with_blank": "Please ___ for the exam by reading your notes again.",
+    "correct_word": "revise",
+    "options": [
+     "remember",
+     "repeat",
+     "revise",
+     "learn"
+    ]
+   },
+   {
+    "sentence_with_blank": "He got the highest ___ in the whole school.",
+    "correct_word": "mark",
+    "options": [
+     "number",
+     "note",
+     "point",
+     "mark"
+    ]
+   },
+   {
+    "sentence_with_blank": "The ___ mark for this test is sixty per cent.",
+    "correct_word": "pass",
+    "options": [
+     "pass",
+     "win",
+     "enter",
+     "move"
+    ]
+   },
+   {
+    "sentence_with_blank": "The teachers are busy ___ the tests tonight.",
+    "correct_word": "marking",
+    "options": [
+     "signing",
+     "marking",
+     "copying",
+     "printing"
+    ]
+   }
+  ],
+  "reading": {
+   "title": "Exam Week",
+   "text": "Exam week is always a stressful time for students. I have to sit three exams: maths, English and history. For the last two weeks I have been revising every evening, and my mother helps me with my notes. Last year I failed a history exam because I did not read the questions carefully, so this time I will be more careful. The teachers mark the papers quickly, and we get our results on Friday. The pass mark is fifty per cent, but I hope to get a much higher mark. After the exams, our family will go on a picnic.",
+   "key_words": [
+    {
+     "word": "stressful",
+     "translation_uz": "stressli"
+    },
+    {
+     "word": "notes",
+     "translation_uz": "yozuvlar"
+    },
+    {
+     "word": "carefully",
+     "translation_uz": "ehtiyotkorlik bilan"
+    }
+   ],
+   "questions": [
+    {
+     "question": "How many exams does the narrator have?",
+     "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "Why did the narrator fail the history exam last year?",
+     "options": [
+      "He or she was ill.",
+      "He or she did not read the questions carefully.",
+      "He or she arrived late.",
+      "He or she forgot a pen."
+     ],
+     "correct_answer_index": 1
+    },
+    {
+     "question": "What will the family do after the exams?",
+     "options": [
+      "Travel abroad",
+      "Buy a computer",
+      "Go on a picnic",
+      "Visit the teacher"
+     ],
+     "correct_answer_index": 2
+    }
+   ]
+  },
+  "listening": {
+   "title": "Exam Results",
+   "script": "Ali: Have you got your exam results yet? Nilufar: Yes, I got them this morning. I passed all three exams! My mark in English was the highest in the class. Ali: Congratulations! I was so nervous before my exam. I revised until midnight. Nilufar: Exam stress is terrible, isn't it? Ali: Yes, but I got a good mark in maths, so I am happy. The pass mark was only fifty, and I got seventy-eight.",
+   "questions": [
+    {
+     "question": "How many exams did Nilufar pass?",
+     "options": [
+      "Two",
+      "Only one",
+      "None",
+      "All three"
+     ],
+     "correct_answer_index": 3
+    },
+    {
+     "question": "In which subject did Nilufar get the highest mark?",
+     "options": [
+      "English",
+      "Maths",
+      "History",
+      "Science"
+     ],
+     "correct_answer_index": 0
+    },
+    {
+     "question": "What was Ali's mark in maths?",
+     "options": [
+      "Fifty",
+      "Seventy-eight",
+      "Eighty-seven",
+      "Sixty"
+     ],
+     "correct_answer_index": 1
+    }
+   ],
+   "dictation_sentences": [
+    "I am going to take an exam.",
+    "She passed the exam with a good mark.",
+    "The exam results come out soon."
+   ]
+  },
+  "speaking": [
+   {
+    "topic": "Before an exam",
+    "question_text": "How do you prepare for an important exam?",
+    "hint_words": [
+     "revise",
+     "notes",
+     "sleep",
+     "practise"
+    ]
+   },
+   {
+    "topic": "Exam stress",
+    "question_text": "What can students do to feel less stressed during exams?",
+    "hint_words": [
+     "exercise",
+     "rest",
+     "friends",
+     "plan"
+    ]
+   },
+   {
+    "topic": "A good mark",
+    "question_text": "How do you feel when you get a good mark?",
+    "hint_words": [
+     "proud",
+     "happy",
+     "relieved",
+     "motivated"
+    ]
+   }
+  ]
+ }
+]
