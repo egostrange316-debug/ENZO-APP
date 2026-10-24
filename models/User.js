@@ -72,6 +72,13 @@ const userSchema = new mongoose.Schema(
     owned_items: { type: [String], default: ['av_lion', 'av_cat'] },
     equipped: { _id: false, type: { avatar: String, frame: String, theme: String }, default: () => ({ avatar: 'av_lion' }) },
 
+    // 450 kunlik kurs xulosasi (telefondan sinxronlanadi; to'liq holat CourseState'da)
+    course_day: { type: Number, default: 0 },
+    course_days_done: { type: Number, default: 0 },
+    course_points: { type: Number, default: 0 },
+    course_accuracy: { type: Number, default: null },
+    course_last_date: { type: String, default: '' },
+
     legacy_id: { type: String }, // DIQQAT: default YO'Q — unique sparse indeksda null'lar to'qnashadi
     last_active_at: { type: Date, default: Date.now },
   },

@@ -97,6 +97,34 @@ const bookMaterialSchema = new mongoose.Schema(
       questions: [mcq],
       dictation_sentences: [String],
     },
+    // Qo'shimcha o'qish matnlari (CEFR/IELTS uslubida, original); seed: lib/readingSeed.js
+    readings: [
+      {
+        _id: false,
+        title: String,
+        cefr: String,
+        text: String,
+        key_words: [{ _id: false, word: String, translation_uz: String }],
+        questions: [
+          { _id: false, question: String, options: [String], correct_answer_index: Number, explanation: String },
+        ],
+        fill: [{ _id: false, sentence_with_blank: String, correct_word: String, accept: [String], explanation: String }],
+      },
+    ],
+    // Tashqi ochiq manba (VOA Learning English) — tayyor audio + savollar; seed: lib/voaSeed.js
+    voa: {
+      title: String,
+      audio_url: String, // ilova ichidagi fayl (masalan /audio/voa/l1.mp3)
+      transcript: String,
+      credit: String,
+      source_url: String,
+      questions: [mcq],
+      dictation: [String], // eshitib yozish (qurilma ovozi o'qiydi)
+      gaps: [{ _id: false, sentence_with_blank: String, correct_word: String }], // audioni eshitib bo'sh joyni yozish
+      fill: [fillBlank], // dialogdan gap to'ldirish
+      speaking: { _id: false, question_text: String, hint_words: [String] },
+      writing: { _id: false, question: String, must_words: [String], min_words: Number },
+    },
     speaking: {
       questions: [
         { _id: false, topic: String, question_text: String, hint_words: [String] },

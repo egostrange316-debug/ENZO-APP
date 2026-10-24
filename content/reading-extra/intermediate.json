@@ -1,0 +1,3603 @@
+[
+ {
+  "target": "kw-intermediate:u16",
+  "title": "Protecting the Environment",
+  "cefr": "B1+",
+  "text": "Many people say that they care about the environment, but caring is not always enough. Factories damage the environment when they put waste into rivers, and cars harm it by producing fumes. Scientists warn that environmental problems such as air pollution and climate change affect people in every country, not only in big industrial cities. For example, a single large factory can pollute the air over a whole town for many years. Even a small town can suffer if its rubbish is not collected.\n\nGovernments can improve the environment by making strict laws. In many countries, a factory has to pay a large fine if it pollutes a river. National parks protect the natural environment, because nobody is allowed to build houses or roads there. Some cities have also introduced zones in the centre where the oldest and dirtiest cars cannot enter.\n\nHowever, laws are not the only answer. Individuals can make a difference, too. People can use public transport, recycle paper and plastic, and buy environmentally friendly products. The author believes that environmental protection begins at home, and that small daily choices are as important as government decisions.",
+  "key_words": [
+   {
+    "word": "protect the environment",
+    "translation_uz": "atrof-muhitni himoya qilmoq"
+   },
+   {
+    "word": "damage the environment",
+    "translation_uz": "atrof-muhitga zarar yetkazmoq"
+   },
+   {
+    "word": "environmental problems",
+    "translation_uz": "ekologik muammolar"
+   },
+   {
+    "word": "environmentally friendly",
+    "translation_uz": "atrof-muhitga zararsiz"
+   },
+   {
+    "word": "fumes",
+    "translation_uz": "tutun / zaharli gaz"
+   },
+   {
+    "word": "fine",
+    "translation_uz": "jarima"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Which heading best matches paragraph 2?",
+    "options": [
+     "The role of governments",
+     "Problems in big cities",
+     "The causes of climate change",
+     "Advice for families"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Governments can improve the environment by making strict laws.”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Strict laws for factories",
+     "The history of national parks",
+     "What individuals can do",
+     "New types of cars"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Individuals can make a difference, too.”"
+   },
+   {
+    "question": "Why are national parks good for the environment?",
+    "options": [
+     "Only scientists can enter them",
+     "Nobody is allowed to build houses or roads there",
+     "They are cheap to visit",
+     "They are very big"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “nobody is allowed to build houses or roads there”"
+   },
+   {
+    "question": "[True / False / Not Given] Environmental problems affect only big industrial cities.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “affect people in every country, not only in big industrial cities” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] A factory may have to pay a fine if it pollutes a river.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a factory has to pay a large fine if it pollutes a river” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Electric cars are cheaper than petrol cars.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author thinks that small daily choices are important.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “small daily choices are as important as government decisions” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "People can use public transport and recycle paper and ___.",
+    "correct_word": "plastic",
+    "accept": [
+     "plastics"
+    ],
+    "explanation": "Matnda: “recycle paper and plastic”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u30",
+  "title": "Looking for a Job",
+  "cefr": "B1+",
+  "text": "Finding a job is rarely easy. Most people have to apply for several jobs before somebody offers them one. The first step is a good CV: it should be short, clear and honest. Employers often receive hundreds of CVs for a single job vacancy, so they spend only a minute or two on each one. A short, tidy CV with no spelling mistakes usually makes a better impression than a long one.\n\nIf you are invited for an interview, preparation is important. You should find out about the company, think about the questions that the interviewer may ask and arrive early. Interviewers do not only want to see your skills; they also want to know if you will fit into their team.\n\nNot everybody wants a full-time job. Some people prefer a part-time job, because it gives them time to study or to look after children. Others choose a well-paid job in a big company, but then find out that they have no job satisfaction. The writer believes that a good job is not only about money. It is also about doing a job that you enjoy and that makes you feel useful.",
+  "key_words": [
+   {
+    "word": "apply for a job",
+    "translation_uz": "ishga ariza bermoq"
+   },
+   {
+    "word": "offer someone a job",
+    "translation_uz": "ishga taklif qilmoq"
+   },
+   {
+    "word": "job vacancy",
+    "translation_uz": "bo'sh ish o'rni"
+   },
+   {
+    "word": "full-time job",
+    "translation_uz": "to'liq kunlik ish"
+   },
+   {
+    "word": "part-time job",
+    "translation_uz": "qisman bandlik (yarim kunlik ish)"
+   },
+   {
+    "word": "job satisfaction",
+    "translation_uz": "ishdan qoniqish"
+   },
+   {
+    "word": "well-paid",
+    "translation_uz": "yaxshi haq to'lanadigan"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What should a good CV be like?",
+    "options": [
+     "Written by a friend",
+     "Long and detailed",
+     "Colourful and funny",
+     "Short, clear and honest"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “it should be short, clear and honest”"
+   },
+   {
+    "question": "Why do employers spend only a minute or two on each CV?",
+    "options": [
+     "They are lazy",
+     "They receive hundreds of CVs",
+     "Most CVs are too long",
+     "They already know the best candidate"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Employers often receive hundreds of CVs for a single job vacancy”"
+   },
+   {
+    "question": "Which heading best matches paragraph 2?",
+    "options": [
+     "Preparing for an interview",
+     "Problems at work",
+     "Types of jobs",
+     "Choosing a CV"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “If you are invited for an interview, preparation is important.”"
+   },
+   {
+    "question": "[True / False / Not Given] Interviewers only care about your skills.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “they also want to know if you will fit into their team” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Some people choose a part-time job because they want time to study.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “gives them time to study or to look after children” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] A part-time job pays more than a full-time job.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that money is the only important thing about a job.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “a good job is not only about money” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "People who work in a well-paid job may have no job ___.",
+    "correct_word": "satisfaction",
+    "accept": [
+     "satisfactions"
+    ],
+    "explanation": "Matnda: “they have no job satisfaction”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u39",
+  "title": "The Package Holiday",
+  "cefr": "B1+",
+  "text": "Forty years ago, most people went on holiday to a place near their home. Today, millions of people take a holiday abroad every year, and the package holiday is one of the reasons. When you book a package holiday, the price usually includes the flight, the hotel and the transfer from the airport. This makes it cheap and easy, because you do not have to organise everything yourself.\n\nFor families with small children, package holidays can be a good choice. Holiday resorts often have swimming pools, children's clubs and restaurants in the same place. Parents can relax, and nobody has to worry about getting lost in a foreign city.\n\nOn the other hand, some travellers say that package holidays are boring. They complain that all resorts look the same and that tourists never meet local people. Many young people now prefer to plan their own trip: they book a cheap flight, sleep in small guesthouses and travel from town to town. The article suggests that the best choice depends on your age, your budget and the kind of experience that you want.",
+  "key_words": [
+   {
+    "word": "go on holiday",
+    "translation_uz": "ta'tilga chiqmoq"
+   },
+   {
+    "word": "package holiday",
+    "translation_uz": "paket tur (hammasi kiritilgan ta'til)"
+   },
+   {
+    "word": "book a holiday",
+    "translation_uz": "ta'tilga bron qilmoq"
+   },
+   {
+    "word": "holiday resort",
+    "translation_uz": "dam olish maskani"
+   },
+   {
+    "word": "budget",
+    "translation_uz": "byudjet"
+   },
+   {
+    "word": "guesthouse",
+    "translation_uz": "mehmon uyi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is usually included in the price of a package holiday?",
+    "options": [
+     "A guide for every day",
+     "Only the hotel",
+     "The flight, the hotel and the transfer",
+     "Food for the whole year"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the price usually includes the flight, the hotel and the transfer from the airport”"
+   },
+   {
+    "question": "Why can package holidays suit families with small children?",
+    "options": [
+     "They are free for children",
+     "Children can travel alone",
+     "The hotels are always empty",
+     "Resorts have pools, clubs and restaurants in one place"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Holiday resorts often have swimming pools, children's clubs and restaurants in the same place.”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "The history of travel",
+     "Why some people do not like package holidays",
+     "How to book a cheap flight",
+     "Hotels in big cities"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “some travellers say that package holidays are boring”"
+   },
+   {
+    "question": "[True / False / Not Given] Forty years ago, most people went on holiday abroad.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “most people went on holiday to a place near their home” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Some tourists say that all resorts look the same.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “all resorts look the same” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Package holidays are more popular in summer than in winter.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The article says that the best holiday is the same for everybody.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the best choice depends on your age, your budget and the kind of experience that you want” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Many young people book a cheap flight and sleep in small ___.",
+    "correct_word": "guesthouses",
+    "accept": [
+     "guesthouse"
+    ],
+    "explanation": "Matnda: “sleep in small guesthouses”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u52",
+  "title": "Free Education for Everyone?",
+  "cefr": "B1+",
+  "text": "In many countries, children receive a free state education from the age of five or six. Primary education usually lasts for about six years, and secondary education for another five or six. In most places, the government pays for the teachers, the buildings and often the textbooks. In many places, children must go to school until the age of sixteen.\n\nHigher education is different. A university education is expensive in some countries, and students often take a loan to pay for it. After they graduate, they may spend ten or twenty years paying the money back. Supporters of free university education argue that society needs doctors, engineers and teachers, and that talented people should not be stopped by money. Opponents say that the taxpayers should not pay for the studies of people who will earn high salaries later.\n\nAdult education is also growing. More and more people return to evening classes to learn a new skill or change their career. The author believes that education does not end with a diploma: a modern education system should help people to learn at every age.",
+  "key_words": [
+   {
+    "word": "state education",
+    "translation_uz": "davlat ta'limi"
+   },
+   {
+    "word": "primary education",
+    "translation_uz": "boshlang'ich ta'lim"
+   },
+   {
+    "word": "secondary education",
+    "translation_uz": "o'rta ta'lim"
+   },
+   {
+    "word": "higher education",
+    "translation_uz": "oliy ta'lim"
+   },
+   {
+    "word": "take a loan",
+    "translation_uz": "kredit olmoq"
+   },
+   {
+    "word": "graduate",
+    "translation_uz": "bitirmoq"
+   },
+   {
+    "word": "adult education",
+    "translation_uz": "kattalar ta'limi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Who usually pays for state education?",
+    "options": [
+     "The students",
+     "Private companies",
+     "The government",
+     "The parents"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the government pays for the teachers, the buildings and often the textbooks”"
+   },
+   {
+    "question": "Why do students often take a loan?",
+    "options": [
+     "University education is expensive in some countries",
+     "Teachers earn too much",
+     "Schools are free",
+     "They want to buy a car"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A university education is expensive in some countries, and students often take a loan to pay for it.”"
+   },
+   {
+    "question": "What do opponents of free university education say?",
+    "options": [
+     "Doctors are not needed",
+     "University is too easy",
+     "Students are lazy",
+     "Taxpayers should not pay for people who will earn high salaries"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “the taxpayers should not pay for the studies of people who will earn high salaries later”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Problems with teachers",
+     "Learning at every age",
+     "Free schools for children",
+     "The cost of university"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Adult education is also growing.”"
+   },
+   {
+    "question": "[True / False / Not Given] Primary education usually lasts for about six years.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Primary education usually lasts for about six years” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Students never pay back their loans.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “they may spend ten or twenty years paying the money back” — demak False."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author thinks that education ends when you get a diploma.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “education does not end with a diploma” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "More and more people return to evening classes to learn a new ___.",
+    "correct_word": "skill",
+    "accept": [
+     "skills"
+    ],
+    "explanation": "Matnda: “to learn a new skill or change their career”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u58",
+  "title": "Sport for Life",
+  "cefr": "B1+",
+  "text": "Doctors say that everybody should do sport, but many adults stop playing when they leave school. One reason is time. Another reason is that they think they are not good enough. In fact, you do not need to be good at sport to enjoy it. Many people take up a new sport at the age of forty or fifty, and they become keen on running, swimming or cycling. Doctors add that it is never too late to start.\n\nTeam sports have an extra advantage: they teach people to cooperate. A child who plays football or volleyball learns to listen to other players and to accept a defeat. These lessons are useful not only in sport, but also in school and at work. Individual sports, such as tennis or swimming, develop discipline, because the athlete has to train alone.\n\nWatching sport on TV is also popular, but experts warn that it is not the same as playing. A person who spends five hours in front of a match burns almost no energy. The author suggests a simple rule: for every hour of watching sport, spend one hour doing it. In this way, you can be a fan and stay healthy at the same time.",
+  "key_words": [
+   {
+    "word": "take up a sport",
+    "translation_uz": "sport bilan shug'ullana boshlamoq"
+   },
+   {
+    "word": "be keen on",
+    "translation_uz": "... ga qiziqmoq"
+   },
+   {
+    "word": "team sport",
+    "translation_uz": "jamoaviy sport"
+   },
+   {
+    "word": "individual sport",
+    "translation_uz": "yakka sport"
+   },
+   {
+    "word": "defeat",
+    "translation_uz": "mag'lubiyat"
+   },
+   {
+    "word": "discipline",
+    "translation_uz": "intizom"
+   },
+   {
+    "word": "fan",
+    "translation_uz": "muxlis"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why do many adults stop playing sport?",
+    "options": [
+     "Sport is dangerous",
+     "Doctors forbid it",
+     "They have no teachers",
+     "They have no time or think they are not good enough"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “One reason is time. Another reason is that they think they are not good enough.”"
+   },
+   {
+    "question": "What do team sports teach people?",
+    "options": [
+     "To cooperate",
+     "To be alone",
+     "To avoid defeat",
+     "To win at any cost"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Team sports have an extra advantage: they teach people to cooperate.”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Sports for children",
+     "Dangerous sports",
+     "Playing and watching sport",
+     "The history of football"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Watching sport on TV is also popular, but experts warn that it is not the same as playing.”"
+   },
+   {
+    "question": "[True / False / Not Given] You must be good at sport to enjoy it.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “you do not need to be good at sport to enjoy it” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Individual sports develop discipline.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Individual sports, such as tennis or swimming, develop discipline” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Football is the most popular team sport in the world.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author suggests spending as much time doing sport as watching it.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “for every hour of watching sport, spend one hour doing it” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Many people take up a new sport at the age of forty or ___.",
+    "correct_word": "fifty",
+    "accept": [
+     "fiftys"
+    ],
+    "explanation": "Matnda: “at the age of forty or fifty”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u68",
+  "title": "Looking After Your Health",
+  "cefr": "B1+",
+  "text": "Good health is more than the absence of illness. Doctors say that it has three parts: physical health, mental health and a healthy lifestyle. Physical health depends on a healthy diet and regular exercise. Mental health means that you can deal with stress, keep friends and enjoy your life. Doctors add that these three parts are connected, so a problem in one of them often affects the others.\n\nHealth problems often start slowly. A person who sleeps only five hours a night and eats fast food every day may feel well for years, but after some time the body begins to complain. Experts recommend regular check-ups at a health centre, even when you feel fine, because many illnesses are easier to treat if they are found early.\n\nGovernments also play a role. Health care is free in some countries and expensive in others, and this difference can change how long people live. In addition, health and safety rules at work protect employees from accidents. The writer believes that looking after your health is a daily habit, not a short-term project: you should not wait for illness before you take care of yourself.",
+  "key_words": [
+   {
+    "word": "physical / mental health",
+    "translation_uz": "jismoniy / ruhiy salomatlik"
+   },
+   {
+    "word": "look after your health",
+    "translation_uz": "sog'lig'iga qarab turmoq"
+   },
+   {
+    "word": "health problems",
+    "translation_uz": "sog'liq muammolari"
+   },
+   {
+    "word": "check-up",
+    "translation_uz": "tibbiy ko'rik"
+   },
+   {
+    "word": "health care",
+    "translation_uz": "sog'liqni saqlash"
+   },
+   {
+    "word": "health and safety",
+    "translation_uz": "mehnat xavfsizligi va salomatlik"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What are the three parts of good health, according to doctors?",
+    "options": [
+     "Doctors, hospitals and medicine",
+     "Physical health, mental health and a healthy lifestyle",
+     "Food, sleep and money",
+     "Sport, work and holidays"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “it has three parts: physical health, mental health and a healthy lifestyle”"
+   },
+   {
+    "question": "Why do experts recommend regular check-ups?",
+    "options": [
+     "Doctors need more patients",
+     "Everybody is ill",
+     "Many illnesses are easier to treat if they are found early",
+     "They are free"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “many illnesses are easier to treat if they are found early”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Dangerous jobs",
+     "Healthy food",
+     "How to find a doctor",
+     "The role of governments and employers"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Governments also play a role.”"
+   },
+   {
+    "question": "[True / False / Not Given] Health problems always start suddenly.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Health problems often start slowly.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Health care is free in some countries.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Health care is free in some countries” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] People in cities live longer than people in villages.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that you should wait for illness before taking care of yourself.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “you should not wait for illness before you take care of yourself” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Mental health means that you can deal with ___.",
+    "correct_word": "stress",
+    "accept": [
+     "stres"
+    ],
+    "explanation": "Matnda: “you can deal with stress”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u78",
+  "title": "Saving and Spending",
+  "cefr": "B1+",
+  "text": "Most people earn money, but not everybody knows how to manage it. Financial advisers say that the first rule is simple: spend less than you earn. If you are always short of money at the end of the month, it is useful to write down every expense for a few weeks. Many people are surprised to find how much they waste on small things, such as snacks or things they never use.\n\nThe second rule is to save a little regularly. Even a small amount, put aside every month, becomes a useful sum after a few years. It is wise to keep some savings for emergencies, because a broken car or a sudden illness can cost a lot of money. A good habit is to move some money to a separate account on the day when you receive your salary.\n\nPaying by card is now more common than paying in cash. It is convenient, but psychologists warn that people spend more when they do not see the money leave their hand. Children can learn about money early: pocket money teaches them to choose between spending it and saving it. According to the author, the best financial habit is patience.",
+  "key_words": [
+   {
+    "word": "earn money",
+    "translation_uz": "pul topmoq"
+   },
+   {
+    "word": "save money",
+    "translation_uz": "pul yig'moq"
+   },
+   {
+    "word": "waste money",
+    "translation_uz": "pulni isrof qilmoq"
+   },
+   {
+    "word": "be short of money",
+    "translation_uz": "pulga muhtoj bo'lmoq"
+   },
+   {
+    "word": "pay by card",
+    "translation_uz": "karta bilan to'lamoq"
+   },
+   {
+    "word": "pay in cash",
+    "translation_uz": "naqd pul bilan to'lamoq"
+   },
+   {
+    "word": "pocket money",
+    "translation_uz": "cho'ntak puli"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is the first rule of financial advisers?",
+    "options": [
+     "Spend less than you earn",
+     "Pay only in cash",
+     "Borrow money from friends",
+     "Save everything"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the first rule is simple: spend less than you earn”"
+   },
+   {
+    "question": "Why does the writer suggest writing down every expense?",
+    "options": [
+     "To get a loan",
+     "To impress a bank",
+     "To find out how much you waste on small things",
+     "To pay fewer taxes"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “how much they waste on small things”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Financial advisers",
+     "Cards, cash and children's habits",
+     "Saving for a car",
+     "Emergencies"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Paying by card is now more common than paying in cash.”"
+   },
+   {
+    "question": "[True / False / Not Given] Paying in cash is more common than paying by card now.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Paying by card is now more common than paying in cash.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Pocket money can teach children to choose between spending and saving.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “pocket money teaches them to choose between spending it and saving it” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Most people earn more than their parents.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author thinks that patience is the best financial habit.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the best financial habit is patience” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "It is wise to keep some savings for ___.",
+    "correct_word": "emergencies",
+    "accept": [
+     "emergencie"
+    ],
+    "explanation": "Matnda: “keep some savings for emergencies”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u84",
+  "title": "Fresh or Frozen?",
+  "cefr": "B1+",
+  "text": "Shoppers often believe that fresh food is always healthier than frozen food, but this is not completely true. Fruit and vegetables that are frozen soon after picking can keep most of their vitamins. In contrast, fresh produce that travels for many days to the supermarket may lose some of them. For this reason, a bag of frozen peas can sometimes be a better choice than a tired fresh vegetable.\n\nFast food and junk food are a bigger problem for our health. Burgers, chips and sweet drinks contain a lot of fat, sugar and salt, and many people eat them several times a week. Doctors say that this habit leads to health problems such as obesity and heart disease. They recommend a healthy diet with plenty of vegetables, whole grains and fish.\n\nThere is another trend: organic food, which is produced without most chemicals. It is usually more expensive, and scientists are still discussing whether it is better for our health. Home-cooked food, however, is almost always a good choice, because you decide what goes into the pot. The article concludes that it is not only what we eat that matters, but also how often and how much.",
+  "key_words": [
+   {
+    "word": "fresh food",
+    "translation_uz": "yangi (toza) oziq-ovqat"
+   },
+   {
+    "word": "frozen food",
+    "translation_uz": "muzlatilgan oziq-ovqat"
+   },
+   {
+    "word": "junk food",
+    "translation_uz": "zararli (fast food) ovqat"
+   },
+   {
+    "word": "organic food",
+    "translation_uz": "organik oziq-ovqat"
+   },
+   {
+    "word": "home-cooked food",
+    "translation_uz": "uyda tayyorlangan ovqat"
+   },
+   {
+    "word": "vitamin",
+    "translation_uz": "vitamin"
+   },
+   {
+    "word": "obesity",
+    "translation_uz": "semizlik"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What can happen to frozen vegetables?",
+    "options": [
+     "They become more expensive",
+     "They lose all their vitamins",
+     "They get dangerous",
+     "They can keep most of their vitamins"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “can keep most of their vitamins”"
+   },
+   {
+    "question": "What do burgers, chips and sweet drinks contain a lot of?",
+    "options": [
+     "Fat, sugar and salt",
+     "Protein only",
+     "Fibre",
+     "Vitamins"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “contain a lot of fat, sugar and salt”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "How to grow vegetables",
+     "Other food choices",
+     "The history of burgers",
+     "Why frozen food is dangerous"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “There is another trend: organic food”"
+   },
+   {
+    "question": "[True / False / Not Given] Fresh food is always healthier than frozen food.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “this is not completely true” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Organic food is usually more expensive.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “It is usually more expensive” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Fish is the best food for the brain.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The article suggests that home-cooked food is usually a good choice.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Home-cooked food, however, is almost always a good choice” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Fruit that is frozen soon after picking can keep most of its ___.",
+    "correct_word": "vitamins",
+    "accept": [
+     "vitamin"
+    ],
+    "explanation": "Matnda: “keep most of their vitamins”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u176",
+  "title": "Growing Up Online",
+  "cefr": "B1+",
+  "text": "Today's teenagers are the first generation that has never known a world without the internet. Most of them go online every day: they surf the internet for homework, download music, send messages to friends and play computer games. For many young people, a laptop is as normal as a pen. Some of them even say that the internet is the place where they spend most of their free time.\n\nThe internet offers great opportunities. A student in a small village can search for information in a minute and learn a language with a free website. However, there are also dangers. Experts warn that teenagers who spend too many hours on a screen may sleep badly and find it difficult to concentrate. Another problem is online safety: not everybody on the internet is who they say they are.\n\nParents often ask how much time children should spend online. There is no perfect answer, but many specialists suggest clear rules, for example no phones at dinner and no screens in the bedroom after ten o'clock. The writer thinks that talking is more useful than forbidding: children who can discuss their online life with their parents are usually safer.",
+  "key_words": [
+   {
+    "word": "surf the internet",
+    "translation_uz": "internetda kezmoq"
+   },
+   {
+    "word": "go online",
+    "translation_uz": "internetga ulanmoq"
+   },
+   {
+    "word": "download",
+    "translation_uz": "yuklab olmoq"
+   },
+   {
+    "word": "computer skills",
+    "translation_uz": "kompyuter ko'nikmalari"
+   },
+   {
+    "word": "website",
+    "translation_uz": "veb-sayt"
+   },
+   {
+    "word": "online safety",
+    "translation_uz": "internetdagi xavfsizlik"
+   },
+   {
+    "word": "generation",
+    "translation_uz": "avlod"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the first paragraph say about today's teenagers?",
+    "options": [
+     "They never use a computer",
+     "They prefer pens to laptops",
+     "They dislike music",
+     "They have never known a world without the internet"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “the first generation that has never known a world without the internet”"
+   },
+   {
+    "question": "What problem can too much screen time cause?",
+    "options": [
+     "Sleeping badly and difficulty concentrating",
+     "Better marks",
+     "Poor eyesight only",
+     "Lower prices"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “may sleep badly and find it difficult to concentrate”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Programs for schools",
+     "The history of computers",
+     "Rules and talking at home",
+     "Dangerous websites"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Parents often ask how much time children should spend online.”"
+   },
+   {
+    "question": "[True / False / Not Given] A student in a village can learn a language with a free website.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “learn a language with a free website” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Everybody on the internet is who they say they are.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “not everybody on the internet is who they say they are” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most teenagers have two computers.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that talking is more useful than forbidding.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “talking is more useful than forbidding” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Many specialists suggest no screens in the bedroom after ten ___.",
+    "correct_word": "o'clock",
+    "accept": [],
+    "explanation": "Matnda: “no screens in the bedroom after ten o'clock”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u22",
+  "title": "Planning Around the Weather",
+  "cefr": "B1+",
+  "text": "Everybody talks about the weather, and for good reason. In many countries, people check the weather before they decide what to wear, where to travel or even what to eat. A reliable weather forecast can save a farmer's crop, help a pilot to choose a safe route and stop a family from holding a picnic on the wrong day.\n\nDifferent kinds of weather affect our lives in different ways. Terrible weather, such as a heavy storm, can close roads and schools. Wet weather makes outdoor work difficult, and builders often have to stop until the rain ends. Hot weather brings its own problems: it is dangerous for old people, and shops sell out of cold drinks and fans within hours. On the other hand, mild weather is ideal for sport and travel, which is why tourists often visit a country in spring or autumn rather than in the middle of summer.\n\nForecasters now use satellites and powerful computers, but they still make mistakes. The longer the period, the harder the forecast becomes. A prediction for tomorrow is usually correct, whereas a prediction for next month is little more than a guess. Many people therefore take a coat with them even when the forecast promises sunshine.",
+  "key_words": [
+   {
+    "word": "the weather forecast",
+    "translation_uz": "ob-havo prognozi"
+   },
+   {
+    "word": "check the weather",
+    "translation_uz": "ob-havoni tekshirmoq"
+   },
+   {
+    "word": "terrible weather",
+    "translation_uz": "dahshatli ob-havo"
+   },
+   {
+    "word": "wet weather",
+    "translation_uz": "yomg'irli ob-havo"
+   },
+   {
+    "word": "hot weather",
+    "translation_uz": "issiq ob-havo"
+   },
+   {
+    "word": "mild weather",
+    "translation_uz": "mo'tadil ob-havo"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Which heading best matches paragraph 2?",
+    "options": [
+     "The history of weather satellites",
+     "Holiday advice for tourists",
+     "Why farmers dislike rain",
+     "How different weather affects daily life"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Different kinds of weather affect our lives in different ways.”"
+   },
+   {
+    "question": "Why do tourists often visit a country in spring or autumn?",
+    "options": [
+     "The weather is mild",
+     "The days are shorter",
+     "Shops sell fans",
+     "Hotels are free"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “mild weather is ideal for sport and travel”"
+   },
+   {
+    "question": "What happens when the weather is wet, according to the text?",
+    "options": [
+     "Schools open earlier",
+     "Builders often have to stop work",
+     "Pilots fly higher",
+     "Farmers sell more crops"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “builders often have to stop until the rain ends”"
+   },
+   {
+    "question": "[True / False / Not Given] A weather forecast for next month is usually correct.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “a prediction for next month is little more than a guess” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Hot weather can be dangerous for old people.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “it is dangerous for old people” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Satellites were invented in the twentieth century.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that forecasters never make mistakes.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “they still make mistakes” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Many people take a ___ with them even when the forecast promises sunshine.",
+    "correct_word": "coat",
+    "accept": [
+     "coats"
+    ],
+    "explanation": "Matnda: “take a coat with them even when the forecast promises sunshine”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u28",
+  "title": "Living with Noise",
+  "cefr": "B1+",
+  "text": "Silence is becoming rare in modern cities. Wherever we go, we hear a noise of some kind: traffic, building work, music from a shop or the sound of aeroplanes overhead. Scientists call this background noise, and they believe it is more harmful than most people think.\n\nResearchers in several countries have measured the noise level in different districts. In the busiest streets, it is often as loud as a vacuum cleaner. Residents there sleep badly, and children in nearby schools find it harder to concentrate. A strange noise at night, such as a car alarm, can wake a whole street.\n\nNeighbours are another common problem. Noisy neighbours who play loud music late in the evening cause more arguments than almost anything else in apartment blocks. In some places, the police can fine people if they do not reduce the noise after eleven o'clock.\n\nFortunately, there are simple solutions. Thick windows keep out most of the traffic sound, and trees along a road can absorb some of it. Some cities have introduced quiet zones near hospitals and parks. The author concludes that silence is not a luxury but a basic need, and that planners should protect it as carefully as clean air.",
+  "key_words": [
+   {
+    "word": "make a noise",
+    "translation_uz": "shovqin qilmoq"
+   },
+   {
+    "word": "a loud noise",
+    "translation_uz": "baland shovqin"
+   },
+   {
+    "word": "a strange noise",
+    "translation_uz": "g'alati shovqin"
+   },
+   {
+    "word": "background noise",
+    "translation_uz": "fon shovqini"
+   },
+   {
+    "word": "the noise level",
+    "translation_uz": "shovqin darajasi"
+   },
+   {
+    "word": "noisy neighbours",
+    "translation_uz": "shovqinchi qo'shnilar"
+   },
+   {
+    "word": "reduce the noise",
+    "translation_uz": "shovqinni kamaytirmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Music in shops",
+     "Rules for aeroplanes",
+     "The problem of noisy neighbours",
+     "How to build thick windows"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Neighbours are another common problem.”"
+   },
+   {
+    "question": "What happens to children near very noisy streets?",
+    "options": [
+     "They stop going to school",
+     "They find it harder to concentrate",
+     "They learn music faster",
+     "They sleep more"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “children in nearby schools find it harder to concentrate”"
+   },
+   {
+    "question": "What can trees along a road do?",
+    "options": [
+     "Absorb some of the sound",
+     "Reduce the police fines",
+     "Hide the traffic",
+     "Make the air hotter"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “trees along a road can absorb some of it”"
+   },
+   {
+    "question": "[True / False / Not Given] The busiest streets can be as loud as a vacuum cleaner.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “as loud as a vacuum cleaner” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The police never fine people for making a noise.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the police can fine people” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most people prefer living in quiet villages.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author believes that silence is a basic need.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “silence is not a luxury but a basic need” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Some cities have introduced quiet ___ near hospitals and parks.",
+    "correct_word": "zones",
+    "accept": [
+     "zone"
+    ],
+    "explanation": "Matnda: “quiet zones near hospitals and parks”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u33",
+  "title": "Getting Qualified",
+  "cefr": "B1+",
+  "text": "Nowadays, it is almost impossible to find a good job without qualifications. Employers want to know that a candidate has the skills for the work, and a certificate is the easiest proof. Students therefore spend years trying to gain a qualification, and many continue studying after they start work.\n\nDifferent jobs require different qualifications. To qualify as a doctor, a student must study for at least six years and then pass a series of difficult exams. A teaching qualification takes much less time, usually one or two years after university. In some trades, such as plumbing, young people learn on the job and receive a certificate at the end.\n\nHowever, qualifications alone are not enough. Even if you are qualified for a position, you still have to attend a job interview. Interviewers often ask about your experience, and they pay attention to how you speak and behave. A candidate with the right qualifications but poor communication skills may lose the job to somebody with less training.\n\nFor this reason, many colleges now teach interview skills as well as academic subjects. Students practise answering questions, learn to dress smartly and prepare short stories about their strengths. Career advisers say that this practice often makes the difference between success and failure.",
+  "key_words": [
+   {
+    "word": "gain a qualification",
+    "translation_uz": "malaka / diplom olmoq"
+   },
+   {
+    "word": "have the right qualifications",
+    "translation_uz": "kerakli malakaga ega bo'lmoq"
+   },
+   {
+    "word": "a teaching qualification",
+    "translation_uz": "o'qituvchilik malakasi"
+   },
+   {
+    "word": "be qualified for",
+    "translation_uz": "... uchun malakali bo'lmoq"
+   },
+   {
+    "word": "qualify as a doctor",
+    "translation_uz": "shifokor bo'lib malaka olmoq"
+   },
+   {
+    "word": "a job interview",
+    "translation_uz": "ishga suhbat"
+   },
+   {
+    "word": "attend an interview",
+    "translation_uz": "suhbatga bormoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Which heading best matches paragraph 2?",
+    "options": [
+     "Why plumbers earn more",
+     "Advice for older students",
+     "Qualifications for different jobs",
+     "The history of exams"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Different jobs require different qualifications.”"
+   },
+   {
+    "question": "How long must a student study to become a doctor?",
+    "options": [
+     "One or two years",
+     "Three months",
+     "Four weeks",
+     "At least six years"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “at least six years”"
+   },
+   {
+    "question": "What may happen to a candidate with poor communication skills?",
+    "options": [
+     "They may lose the job to somebody with less training",
+     "They will not be invited to interview",
+     "They will get a teaching qualification",
+     "They will get a higher salary"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “may lose the job to somebody with less training”"
+   },
+   {
+    "question": "[True / False / Not Given] Plumbers can learn on the job.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “young people learn on the job” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] A teaching qualification takes longer than a medical qualification.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A teaching qualification takes much less time” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most doctors work more than fifty hours a week.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] Career advisers think that interview practice can be very important.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “often makes the difference between success and failure” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Interviewers pay attention to how you speak and ___.",
+    "correct_word": "behave",
+    "accept": [
+     "behaves"
+    ],
+    "explanation": "Matnda: “how you speak and behave”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u36",
+  "title": "Pay and Fairness",
+  "cefr": "B1+",
+  "text": "How much should a worker earn? This question causes more debate than almost any other in politics. In most countries, there is a legal minimum wage, which is the lowest hourly payment an employer is allowed to offer. Supporters say that it protects workers from unfair treatment. Critics argue that it makes small businesses employ fewer people.\n\nThere are different ways to be paid. Some people earn a weekly wage, usually calculated by the hour. Others receive a monthly salary, which stays the same even if they work a few extra hours. In most offices, employees expect a salary increase every year, or at least a pay rise when they take on more responsibility.\n\nThe differences between jobs can be enormous. A high salary does not always mean an easy life: surgeons, for example, earn a lot, but they work long hours and carry heavy responsibility. A low salary may belong to a job that is useful to everybody, such as a cleaner or a care worker. Many economists admit that the market does not always reward the most valuable work.\n\nFor young people choosing a career, the advice is simple. Look at the pay, but also ask whether the work is interesting, and whether you will have the chance to learn.",
+  "key_words": [
+   {
+    "word": "earn a good wage",
+    "translation_uz": "yaxshi ish haqi olmoq"
+   },
+   {
+    "word": "a weekly wage",
+    "translation_uz": "haftalik ish haqi"
+   },
+   {
+    "word": "the minimum wage",
+    "translation_uz": "eng kam ish haqi"
+   },
+   {
+    "word": "a monthly salary",
+    "translation_uz": "oylik maosh"
+   },
+   {
+    "word": "a high / low salary",
+    "translation_uz": "yuqori / past maosh"
+   },
+   {
+    "word": "a salary increase",
+    "translation_uz": "maoshning oshishi"
+   },
+   {
+    "word": "get a pay rise",
+    "translation_uz": "maoshi oshmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is the minimum wage?",
+    "options": [
+     "The highest weekly salary",
+     "A tax for small businesses",
+     "The lowest hourly payment an employer may offer",
+     "A pay rise for surgeons"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the lowest hourly payment an employer is allowed to offer”"
+   },
+   {
+    "question": "What do critics say about the minimum wage?",
+    "options": [
+     "It helps care workers",
+     "It makes small businesses employ fewer people",
+     "It raises prices in shops",
+     "It protects workers"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “it makes small businesses employ fewer people”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "How to ask for a rise",
+     "Why surgeons are unhappy",
+     "Jobs of the future",
+     "Large differences between jobs"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “The differences between jobs can be enormous.”"
+   },
+   {
+    "question": "[True / False / Not Given] A monthly salary stays the same even when a person works extra hours.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “stays the same even if they work a few extra hours” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Surgeons have easy jobs and work short hours.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “they work long hours and carry heavy responsibility” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Teachers earn less than cleaners in most countries.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer advises young people to think only about pay.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “also ask whether the work is interesting” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In most countries, there is a legal minimum ___.",
+    "correct_word": "wage",
+    "accept": [
+     "wages"
+    ],
+    "explanation": "Matnda: “there is a legal minimum wage”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u41",
+  "title": "Flight Delays",
+  "cefr": "B1+",
+  "text": "Few things annoy travellers more than a long delay. A flight may be delayed because of bad weather, a technical fault or a shortage of staff. Sometimes the airline does not apologise for the delay; sometimes it announces a new departure time every half hour, and each announcement makes the passengers angrier.\n\nThe passengers' experience depends on their destination and on the length of the delay. A delay of two hours is annoying but bearable, especially if the airport has comfortable seats, cafés and free internet. A delay of ten hours is much worse. Passengers with small children sleep on the floor, and business travellers miss important meetings.\n\nIn the European Union, passengers have legal rights. If a flight is cancelled, the airline must offer a new ticket or a refund. In case of very long delays, it must provide food and, if necessary, a hotel room. However, many travellers do not know these rules, and airlines rarely remind them.\n\nExperts recommend that passengers keep calm, take photographs of the departure board and write down the details of every announcement. If a complaint is necessary, evidence like this makes it much easier to win. Most important of all, they say, you should leave home without being in a hurry. Extra time at the airport is better than an extra problem.",
+  "key_words": [
+   {
+    "word": "a long delay",
+    "translation_uz": "uzoq kechikish"
+   },
+   {
+    "word": "a delay of two hours",
+    "translation_uz": "ikki soatlik kechikish"
+   },
+   {
+    "word": "be delayed",
+    "translation_uz": "kechikmoq"
+   },
+   {
+    "word": "without delay",
+    "translation_uz": "kechiktirmasdan"
+   },
+   {
+    "word": "cause a delay",
+    "translation_uz": "kechikishga sabab bo'lmoq"
+   },
+   {
+    "word": "apologise for the delay",
+    "translation_uz": "kechikish uchun uzr so'ramoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why might a flight be delayed?",
+    "options": [
+     "Because passengers arrive late",
+     "Because of bad weather, a technical fault or a shortage of staff",
+     "Because airports are too big",
+     "Because of the price of tickets"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “bad weather, a technical fault or a shortage of staff”"
+   },
+   {
+    "question": "What must an airline offer if a flight is cancelled in the European Union?",
+    "options": [
+     "A job at the airport",
+     "A free holiday",
+     "A new ticket or a refund",
+     "A taxi home"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the airline must offer a new ticket or a refund”"
+   },
+   {
+    "question": "Which heading best matches paragraph 4?",
+    "options": [
+     "Advice from experts",
+     "A new law for airlines",
+     "The history of airports",
+     "Stories from children"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Experts recommend that passengers keep calm”"
+   },
+   {
+    "question": "[True / False / Not Given] A delay of two hours is bearable, according to the text.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A delay of two hours is annoying but bearable” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Airlines often remind passengers of their legal rights.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “airlines rarely remind them” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Cheap airlines have more delays than expensive airlines.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that arriving early at the airport is a good idea.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Extra time at the airport is better than an extra problem” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Experts say that passengers should take ___ of the departure board.",
+    "correct_word": "photographs",
+    "accept": [
+     "photograph"
+    ],
+    "explanation": "Matnda: “take photographs of the departure board”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u44",
+  "title": "Packing Light",
+  "cefr": "B1+",
+  "text": "Every traveller has a luggage story. Some of them are funny, and some are expensive. A man in Spain once arrived at the airport with four huge suitcases and discovered that he had to pay a large fee for excess luggage. A woman travelling to Canada lost her bag and spent three days wearing the same clothes.\n\nExperienced travellers say that the best advice is to pack light. A small bag is easier to carry, and many airlines allow you to take carry-on luggage into the cabin without paying anything. You also avoid the long wait at the baggage belt. Before you leave, make a list of what you need and check in only the items that are really necessary. Heavy or fragile things should go in a hard case, but soft clothes can be rolled and packed in a corner.\n\nOf course, you cannot control everything. Airports sometimes lose your luggage, however carefully you plan. For this reason, travel writers suggest keeping a change of clothes, important medicine and your documents in the cabin bag. It is also sensible to put your name and phone number inside every suitcase, in addition to the label outside.\n\nFinally, remember that you will probably buy something during the trip. Leave some space in your bag, and you will not need a luggage trolley as big as a car.",
+  "key_words": [
+   {
+    "word": "pack your luggage",
+    "translation_uz": "yukni yig'moq"
+   },
+   {
+    "word": "check in your luggage",
+    "translation_uz": "yukni topshirmoq"
+   },
+   {
+    "word": "lose your luggage",
+    "translation_uz": "yukini yo'qotmoq"
+   },
+   {
+    "word": "carry-on luggage",
+    "translation_uz": "qo'l yuki"
+   },
+   {
+    "word": "heavy / light luggage",
+    "translation_uz": "og'ir / yengil yuk"
+   },
+   {
+    "word": "excess luggage",
+    "translation_uz": "ortiqcha yuk"
+   },
+   {
+    "word": "a luggage trolley",
+    "translation_uz": "yuk aravachasi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did the man in Spain pay a large fee?",
+    "options": [
+     "He lost his bag",
+     "He missed the flight",
+     "He had no passport",
+     "He had excess luggage"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “he had to pay a large fee for excess luggage”"
+   },
+   {
+    "question": "What is an advantage of carry-on luggage?",
+    "options": [
+     "You avoid the long wait at the baggage belt",
+     "It is lighter than other luggage",
+     "The airline washes your clothes",
+     "You get a free seat"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “You also avoid the long wait at the baggage belt.”"
+   },
+   {
+    "question": "What should travellers keep in the cabin bag?",
+    "options": [
+     "Gifts for friends",
+     "A hard case",
+     "A change of clothes, medicine and documents",
+     "Heavy books"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “a change of clothes, important medicine and your documents”"
+   },
+   {
+    "question": "[True / False / Not Given] The woman travelling to Canada lost her bag.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “lost her bag” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Airports never lose luggage if you plan carefully.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Airports sometimes lose your luggage, however carefully you plan.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most passengers pay for excess luggage every year.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer advises travellers to leave some space in their bags.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Leave some space in your bag” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "It is sensible to put your name and phone number ___ every suitcase.",
+    "correct_word": "inside",
+    "accept": [
+     "insides"
+    ],
+    "explanation": "Matnda: “put your name and phone number inside every suitcase”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u48",
+  "title": "Finding the Way",
+  "cefr": "B1+",
+  "text": "Before satellite maps, travellers used paper maps and asked local people for directions. Today, most of us follow a route on a phone, and a calm voice tells us where to turn. This is convenient, but it also has disadvantages.\n\nPlanning a route is not the same as following one. When you plan a route on a map, you see the whole area and understand how the roads connect. When you follow a voice, you only see the next turn. Researchers have found that drivers who always use electronic navigation remember much less about the places they visit.\n\nThe shortest route is not always the best one. A scenic route along the coast may take an hour longer than the main road, but it offers views that many people remember for years. Bus routes in a city are another example. The fastest line may pass through crowded districts, whereas a slower line may be quieter and more comfortable.\n\nOf course, there are times when the phone is the right choice. If you are driving in a strange city at night, it is sensible to follow the instructions carefully. In emergencies, it can save time and even lives.\n\nThe author's conclusion is balanced: use technology, but occasionally look at a paper map too. Knowing where you are, not only where to go next, is a skill worth keeping.",
+  "key_words": [
+   {
+    "word": "take a route",
+    "translation_uz": "yo'ldan bormoq"
+   },
+   {
+    "word": "the shortest route",
+    "translation_uz": "eng qisqa yo'l"
+   },
+   {
+    "word": "a bus route",
+    "translation_uz": "avtobus yo'nalishi"
+   },
+   {
+    "word": "a scenic route",
+    "translation_uz": "manzarali yo'l"
+   },
+   {
+    "word": "plan a route",
+    "translation_uz": "yo'nalishni rejalashtirmoq"
+   },
+   {
+    "word": "follow a route",
+    "translation_uz": "yo'nalish bo'ylab bormoq"
+   },
+   {
+    "word": "on the way / en route",
+    "translation_uz": "yo'lda"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did researchers find about drivers who always use electronic navigation?",
+    "options": [
+     "They drive faster",
+     "They remember much less about the places they visit",
+     "They prefer paper maps",
+     "They have more accidents"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “remember much less about the places they visit”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Why coasts are dangerous",
+     "The history of buses",
+     "How to read a map",
+     "The shortest route is not always the best"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “The shortest route is not always the best one.”"
+   },
+   {
+    "question": "When is a phone the right choice, according to the text?",
+    "options": [
+     "When the road is empty",
+     "When walking in a park",
+     "When driving in a strange city at night",
+     "When visiting family"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “driving in a strange city at night”"
+   },
+   {
+    "question": "[True / False / Not Given] A scenic route may take longer than the main road.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “may take an hour longer than the main road” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Paper maps show only the next turn.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “When you follow a voice, you only see the next turn.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most drivers in Europe use a paper map every week.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author thinks that people should never use technology.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “use technology, but occasionally look at a paper map too” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Knowing where you are is a ___ worth keeping.",
+    "correct_word": "skill",
+    "accept": [
+     "skills"
+    ],
+    "explanation": "Matnda: “is a skill worth keeping”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u56",
+  "title": "Exam Season",
+  "cefr": "B1+",
+  "text": "For many students, the most stressful time of the year is exam season. In May and June, libraries are full, and even the cafés fill with people holding notebooks. Students have to take an exam in every subject, and each result can affect their future.\n\nTeachers advise students to start early. To revise for an exam in a calm way, you should make a timetable and study for short periods, with regular breaks. Reading the whole book the night before is a mistake. Memory works better when information is repeated several times over several weeks.\n\nIn many countries, there are two kinds of exam. An entrance exam decides whether you can join a university. A final exam, at the end of a course, shows how much you have learned. Some schools allow you to sit an exam twice if you fail, but others do not.\n\nOf course, marks are not everything. A student who has to pass an exam to enter a medical school will feel the pressure more than somebody who studies for pleasure. Nevertheless, even a student who gets a low mark can learn from it. Teachers say that the exam results should not be seen as a judgement of a person, but as feedback on how well a student prepared.\n\nAbove all, they say, do not forget to sleep. A tired student with good notes often does worse than a rested student with fewer.",
+  "key_words": [
+   {
+    "word": "take an exam",
+    "translation_uz": "imtihon topshirmoq"
+   },
+   {
+    "word": "sit an exam",
+    "translation_uz": "imtihon topshirmoq"
+   },
+   {
+    "word": "pass an exam",
+    "translation_uz": "imtihondan o'tmoq"
+   },
+   {
+    "word": "fail an exam",
+    "translation_uz": "imtihondan yiqilmoq"
+   },
+   {
+    "word": "revise for an exam",
+    "translation_uz": "imtihonga tayyorlanmoq"
+   },
+   {
+    "word": "an entrance / final exam",
+    "translation_uz": "kirish / yakuniy imtihon"
+   },
+   {
+    "word": "exam results",
+    "translation_uz": "imtihon natijalari"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What do teachers advise students to do?",
+    "options": [
+     "Read the whole book the night before",
+     "Study only with friends",
+     "Avoid breaks",
+     "Start early and make a timetable"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Teachers advise students to start early.”"
+   },
+   {
+    "question": "What is an entrance exam used for?",
+    "options": [
+     "To practise for a final exam",
+     "To decide whether you can join a university",
+     "To show how much you have learned in a course",
+     "To choose a teacher"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “An entrance exam decides whether you can join a university.”"
+   },
+   {
+    "question": "Which heading best matches paragraph 4?",
+    "options": [
+     "Marks are not everything",
+     "How to join a medical school",
+     "Exams in different countries",
+     "Why students fail"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Of course, marks are not everything.”"
+   },
+   {
+    "question": "[True / False / Not Given] Memory works better when information is repeated over several weeks.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “repeated several times over several weeks” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] All schools allow students to sit an exam twice.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “others do not” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Students who study at night get the best marks.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer believes that exam results are a judgement of a person.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “should not be seen as a judgement of a person” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A tired student with good notes often does ___ than a rested student.",
+    "correct_word": "worse",
+    "accept": [
+     "worses"
+    ],
+    "explanation": "Matnda: “often does worse than a rested student”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u61",
+  "title": "Taking Part",
+  "cefr": "B1+",
+  "text": "People love competition. Every year, thousands of runners enter a race, even though only a few can win. In a city marathon, the first runner crosses the line in about two hours, while the last may take six hours, but both are proud of what they did.\n\nRaces come in many forms. A horse race, a car race and a relay race are completely different, but they have one thing in common: the competitors want to be first. Some races are also a race against time, for example when rescue workers try to save people after an accident.\n\nCompetitions are not only about sport. Schools often organise a competition for the best story or the best science project. To win a competition requires hard work, but even those who lose gain experience. Psychologists say that children who take part in competitions learn to deal with disappointment, which is an important life skill.\n\nNot everybody agrees. Some teachers think that too much competition makes weaker students feel useless. They prefer activities in which all students work together and nobody loses. Others reply that life itself is full of competition, so schools should prepare young people for it.\n\nThe truth may lie in the middle. A good competition is fair, has clear rules and gives everybody a chance to feel proud. In such a competition, taking part is already a success.",
+  "key_words": [
+   {
+    "word": "run a race",
+    "translation_uz": "yugurish musobaqasida qatnashmoq"
+   },
+   {
+    "word": "win / lose a race",
+    "translation_uz": "poygada yutmoq / yutqazmoq"
+   },
+   {
+    "word": "a horse / car / relay race",
+    "translation_uz": "ot / mashina / estafeta poygasi"
+   },
+   {
+    "word": "a race against time",
+    "translation_uz": "vaqtga qarshi poyga"
+   },
+   {
+    "word": "enter a competition",
+    "translation_uz": "musobaqada qatnashmoq"
+   },
+   {
+    "word": "win / take part in a competition",
+    "translation_uz": "musobaqada g'alaba qozonmoq / ishtirok etmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Which sentence is true about a city marathon?",
+    "options": [
+     "Nobody finishes",
+     "Runners finish at very different times",
+     "Horses take part",
+     "Only two hours are allowed"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the first runner crosses the line in about two hours, while the last may take six hours”"
+   },
+   {
+    "question": "What do psychologists say about children who take part in competitions?",
+    "options": [
+     "They learn to deal with disappointment",
+     "They always win",
+     "They become less proud",
+     "They stop working together"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “learn to deal with disappointment”"
+   },
+   {
+    "question": "What do some teachers prefer?",
+    "options": [
+     "More exams",
+     "Longer races",
+     "Prizes for the best students",
+     "Activities in which all students work together"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “activities in which all students work together and nobody loses”"
+   },
+   {
+    "question": "[True / False / Not Given] Rescue workers sometimes take part in a race against time.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a race against time, for example when rescue workers try to save people” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Every competition has a cash prize.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “None” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Marathon runners train for at least one year.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that a good competition should be fair.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A good competition is fair” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A good competition has clear ___ and gives everybody a chance to feel proud.",
+    "correct_word": "rules",
+    "accept": [
+     "rule"
+    ],
+    "explanation": "Matnda: “has clear rules”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u69",
+  "title": "Recovering from Illness",
+  "cefr": "B1+",
+  "text": "Nobody enjoys being ill, but most illnesses are short and minor. A cold, for example, usually lasts a week, and the patient can recover at home with rest and warm drinks. A serious illness, however, changes life more deeply. People who suffer from an illness such as diabetes or heart disease must follow a strict routine for many years.\n\nDoctors say that how quickly we recover depends on several factors. Age is important: young people usually get better faster. Lifestyle matters too. A person who sleeps well and eats healthy food has a stronger body than someone who is tired and stressed. A positive attitude also helps. In several studies, patients who felt hopeful left hospital earlier than those who felt hopeless.\n\nMental illness deserves special attention. It is common, but it is often hidden because people are afraid of what others will think. A person can catch an illness like flu from a friend, but nobody can catch depression in this way; it has other causes. A mental illness can last a long time, though most people recover with the right help.\n\nHealth services therefore encourage everyone to talk openly about how they feel. A short illness is easy to explain. A long illness is harder, and the patient needs friends, patience and understanding.",
+  "key_words": [
+   {
+    "word": "suffer from an illness",
+    "translation_uz": "kasallikdan aziyat chekmoq"
+   },
+   {
+    "word": "recover from an illness",
+    "translation_uz": "kasallikdan tuzalmoq"
+   },
+   {
+    "word": "a serious / minor illness",
+    "translation_uz": "og'ir / yengil kasallik"
+   },
+   {
+    "word": "a mental illness",
+    "translation_uz": "ruhiy kasallik"
+   },
+   {
+    "word": "a long / short illness",
+    "translation_uz": "uzoq / qisqa kasallik"
+   },
+   {
+    "word": "catch an illness",
+    "translation_uz": "kasallikka chalinmoq"
+   },
+   {
+    "word": "fall / be ill",
+    "translation_uz": "kasal bo'lib qolmoq / kasal bo'lmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How long does a cold usually last?",
+    "options": [
+     "About a month",
+     "About a year",
+     "About a week",
+     "One day"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “A cold, for example, usually lasts a week”"
+   },
+   {
+    "question": "Who usually gets better faster?",
+    "options": [
+     "Old people",
+     "People who sleep little",
+     "People who are stressed",
+     "Young people"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “young people usually get better faster”"
+   },
+   {
+    "question": "Why is mental illness often hidden?",
+    "options": [
+     "Doctors cannot see it",
+     "It is very rare",
+     "People are afraid of what others will think",
+     "It is always minor"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “people are afraid of what others will think”"
+   },
+   {
+    "question": "[True / False / Not Given] A positive attitude can help a patient to recover.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A positive attitude also helps.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] You can catch depression from a friend in the same way as flu.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “nobody can catch depression in this way” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Heart disease is the most common illness in the world.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that people should talk openly about their feelings.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “talk openly about how they feel” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A person who sleeps well and eats healthy food has a stronger ___.",
+    "correct_word": "body",
+    "accept": [
+     "bodys"
+    ],
+    "explanation": "Matnda: “has a stronger body”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u72",
+  "title": "Giving Up Smoking",
+  "cefr": "B1+",
+  "text": "Most smokers know that smoking is bad for you. Every packet of cigarettes carries a warning, and doctors have repeated the message for decades. Even so, millions of adults continue to smoke cigarettes every day. Why is it so difficult to quit smoking?\n\nThe main reason is nicotine, a substance that makes the body want more. After a few weeks, a person feels uncomfortable without it. Many heavy smokers need a cigarette first thing in the morning, and some wake up in the night for one. Habit is another reason. Smokers connect cigarettes with coffee, with breaks at work and with talking to friends.\n\nMeanwhile, the risks become clearer every year. Passive smoking, which means breathing smoke from other people's cigarettes, can harm non-smokers, especially children. For this reason, many countries have created smoke-free areas in restaurants, offices and public transport. In some cities, smoking is banned even in parks.\n\nThe good news is that people who give up smoking begin to feel better quickly. Within a few days, breathing is easier, and after a year, the risk of heart disease falls sharply. Experts advise smokers to set a date, ask family for support and avoid situations that bring back the habit.\n\nGiving up is hard, but thousands of people succeed every year. A non-smoker's life is not only longer, but also cheaper.",
+  "key_words": [
+   {
+    "word": "smoke cigarettes",
+    "translation_uz": "sigaret chekmoq"
+   },
+   {
+    "word": "give up smoking",
+    "translation_uz": "chekishni tashlamoq"
+   },
+   {
+    "word": "quit smoking",
+    "translation_uz": "chekishni tashlamoq"
+   },
+   {
+    "word": "passive smoking",
+    "translation_uz": "passiv chekish"
+   },
+   {
+    "word": "a non-smoker / heavy smoker",
+    "translation_uz": "chekmaydigan / qattiq chekuvchi"
+   },
+   {
+    "word": "a smoke-free area",
+    "translation_uz": "chekish taqiqlangan hudud"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is nicotine?",
+    "options": [
+     "A substance that makes the body want more",
+     "A law for restaurants",
+     "A kind of medicine",
+     "A type of coffee"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a substance that makes the body want more”"
+   },
+   {
+    "question": "What is passive smoking?",
+    "options": [
+     "Smoking very slowly",
+     "Breathing smoke from other people's cigarettes",
+     "Smoking only in the evening",
+     "Smoking in parks"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “breathing smoke from other people's cigarettes”"
+   },
+   {
+    "question": "What happens after a year without smoking?",
+    "options": [
+     "Breathing becomes difficult",
+     "Nicotine returns",
+     "The risk of heart disease falls sharply",
+     "The person gains weight"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “after a year, the risk of heart disease falls sharply”"
+   },
+   {
+    "question": "[True / False / Not Given] Smoking is banned in some city parks.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “smoking is banned even in parks” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Smokers never wake up in the night for a cigarette.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “some wake up in the night for one” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Cigarettes are more expensive in Asia than in Europe.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that nobody can quit smoking.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “thousands of people succeed every year” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Experts advise smokers to set a ___ and ask family for support.",
+    "correct_word": "date",
+    "accept": [
+     "dates"
+    ],
+    "explanation": "Matnda: “set a date”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u75",
+  "title": "Receiving Treatment",
+  "cefr": "B1+",
+  "text": "When people become seriously ill, they need treatment, and the type depends on the problem. A broken arm may need only a plaster, whereas a damaged heart may require an operation and several months of care. Doctors usually provide treatment in a hospital, but many patients receive medical treatment at home, especially if the illness is long.\n\nIn an emergency, speed is the most important factor. Emergency treatment begins in the ambulance, where trained staff check the patient's breathing and heart. If the patient arrives within an hour, the chances of a full recovery are much higher. For this reason, doctors teach ordinary people basic first aid, so that they can help before the ambulance arrives.\n\nSome diseases still have no complete cure. Doctors can treat the symptoms, but the patient must undergo treatment for years. A course of treatment may last six weeks, six months or longer. Many patients stop too early because they feel better, and this can make the illness return.\n\nMedical research moves quickly, however. Diseases that were once deadly can now be cured with a few tablets. Scientists hope that in the next fifty years, they will find a cure for many more illnesses. Until then, the best advice is simple: see a doctor early, follow the treatment carefully and never stop without asking.",
+  "key_words": [
+   {
+    "word": "receive treatment",
+    "translation_uz": "davolanmoq"
+   },
+   {
+    "word": "need / require treatment",
+    "translation_uz": "davolanishga muhtoj bo'lmoq"
+   },
+   {
+    "word": "undergo treatment",
+    "translation_uz": "davolanish kursidan o'tmoq"
+   },
+   {
+    "word": "give / provide treatment",
+    "translation_uz": "davolash"
+   },
+   {
+    "word": "medical treatment",
+    "translation_uz": "tibbiy davolash"
+   },
+   {
+    "word": "emergency treatment",
+    "translation_uz": "shoshilinch davolash"
+   },
+   {
+    "word": "a course of treatment",
+    "translation_uz": "davolanish kursi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where does emergency treatment begin?",
+    "options": [
+     "In the doctor's home",
+     "At a pharmacy",
+     "At school",
+     "In the ambulance"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Emergency treatment begins in the ambulance”"
+   },
+   {
+    "question": "Why do some patients make an illness return?",
+    "options": [
+     "They stop treatment too early",
+     "They go to hospital",
+     "They take too many tablets",
+     "They work at night"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Many patients stop too early because they feel better”"
+   },
+   {
+    "question": "Which heading best matches paragraph 2?",
+    "options": [
+     "The cost of hospitals",
+     "The importance of speed in emergencies",
+     "New tablets for old diseases",
+     "Learning to cook"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “In an emergency, speed is the most important factor.”"
+   },
+   {
+    "question": "[True / False / Not Given] A broken arm may need only a plaster.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A broken arm may need only a plaster” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] All diseases now have a complete cure.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Some diseases still have no complete cure.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Doctors in Japan are paid more than doctors in Germany.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer advises patients to stop treatment when they feel better.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “never stop without asking” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Doctors teach ordinary people basic first ___.",
+    "correct_word": "aid",
+    "accept": [
+     "aids"
+    ],
+    "explanation": "Matnda: “basic first aid”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u88",
+  "title": "Throwing a Party",
+  "cefr": "B1+",
+  "text": "A good party needs careful planning. If you decide to throw a party, start by choosing the date and making a list of guests. Then think about the place. A small flat can be crowded, so many people prefer to hire a hall or a café for a big event.\n\nFood and music come next. Guests usually expect something to eat and a few drinks, but the host does not have to spend a fortune. A table with sandwiches, fruit and juice is often more popular than an expensive meal. Remember to invite everyone in good time, at least two weeks before, so that they can reserve the date.\n\nSome parties are special. A birthday party is the most common, especially for children, who often play games and receive small gifts. A surprise party needs even more planning, because the guest of honour must not find out. Friends hide in the dark, and when the person enters, everyone shouts \"Surprise!\" A farewell party, on the other hand, is usually quieter. Colleagues say goodbye to a person who is leaving a job or a town.\n\nFinally, the host should not forget the end of the evening. Ask a friend to help with the cleaning, and thank everyone for coming. A party that ends well is the one that guests remember with pleasure.",
+  "key_words": [
+   {
+    "word": "have / throw a party",
+    "translation_uz": "ziyofat uyushtirmoq"
+   },
+   {
+    "word": "organise a party",
+    "translation_uz": "ziyofatni tashkil qilmoq"
+   },
+   {
+    "word": "go to a party",
+    "translation_uz": "ziyofatga bormoq"
+   },
+   {
+    "word": "invite someone to a party",
+    "translation_uz": "ziyofatga taklif qilmoq"
+   },
+   {
+    "word": "a birthday party",
+    "translation_uz": "tug'ilgan kun ziyofati"
+   },
+   {
+    "word": "a surprise party",
+    "translation_uz": "syurpriz ziyofat"
+   },
+   {
+    "word": "a farewell party",
+    "translation_uz": "xayrlashuv ziyofati"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why do many people hire a hall or a café?",
+    "options": [
+     "They dislike cooking",
+     "A small flat can be crowded",
+     "Guests live far away",
+     "Halls are always free"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A small flat can be crowded”"
+   },
+   {
+    "question": "When should you invite guests?",
+    "options": [
+     "On the day of the party",
+     "One hour before",
+     "At least two weeks before",
+     "After the event"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “at least two weeks before”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "Dangers of loud music",
+     "Presents for children",
+     "Choosing a hotel",
+     "Different kinds of party"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Some parties are special.”"
+   },
+   {
+    "question": "[True / False / Not Given] A farewell party is usually quieter than a surprise party.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A farewell party, on the other hand, is usually quieter.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The guest of honour should know about a surprise party in advance.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the guest of honour must not find out” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most birthday parties take place on Saturdays.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that an expensive meal is necessary for a good party.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the host does not have to spend a fortune” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Ask a friend to help with the ___ at the end of the evening.",
+    "correct_word": "cleaning",
+    "accept": [
+     "cleanings"
+    ],
+    "explanation": "Matnda: “Ask a friend to help with the cleaning”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u95",
+  "title": "Making a Film",
+  "cefr": "B1+",
+  "text": "Many people enjoy watching a film, but few know how much work it takes to make one. Every film begins with an idea. A writer produces a script, often with many changes, and a producer looks for money. Without money, even the best story cannot reach the screen.\n\nWhen the budget is ready, a director chooses the actors and the places. Some stories are set in a real city; others are shot in a studio, where an artificial street can be built in a few days. Many famous films are based on a book, and fans often complain if the film changes the plot. It is unusual for the film to be better than the book, but it does happen.\n\nThe shooting itself may take months. Actors wake up before sunrise and wait for hours in a caravan. When the cameras are finally ready, a single scene may need twenty attempts. To star in a film is exciting, but it is also tiring work.\n\nAfter shooting, the editor selects the best scenes and joins them together. Then composers add the music, which can change the feeling of a scene. Finally, the film is shown in cinemas, and the producers wait nervously for the first reviews.\n\nFor the audience, it is easy to say that a film is bad. For the people who made it, it is more difficult: they know that the result represents years of work.",
+  "key_words": [
+   {
+    "word": "watch / see a film",
+    "translation_uz": "film ko'rmoq"
+   },
+   {
+    "word": "go to the cinema",
+    "translation_uz": "kinoga bormoq"
+   },
+   {
+    "word": "make / direct a film",
+    "translation_uz": "film suratga olmoq / rejissyorlik qilmoq"
+   },
+   {
+    "word": "shoot a film",
+    "translation_uz": "film olmoq (suratga olmoq)"
+   },
+   {
+    "word": "a film is based on",
+    "translation_uz": "film ... asosida"
+   },
+   {
+    "word": "a film is set in",
+    "translation_uz": "film ... da sodir bo'ladi"
+   },
+   {
+    "word": "star in a film",
+    "translation_uz": "filmda bosh rolni o'ynamoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does a writer produce first?",
+    "options": [
+     "A script",
+     "A studio",
+     "A review",
+     "A caravan"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A writer produces a script”"
+   },
+   {
+    "question": "Why do fans sometimes complain?",
+    "options": [
+     "The actors are famous",
+     "The music is quiet",
+     "The film is too long",
+     "The film changes the plot of the book"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “fans often complain if the film changes the plot”"
+   },
+   {
+    "question": "Which heading best matches paragraph 4?",
+    "options": [
+     "Choosing actors",
+     "Writing a script",
+     "The final stages of making a film",
+     "How to build a studio"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “After shooting, the editor selects the best scenes”"
+   },
+   {
+    "question": "[True / False / Not Given] Some films are shot in a studio.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “others are shot in a studio” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The shooting of a film usually takes one week.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The shooting itself may take months.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The most expensive film ever made was a comedy.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that making a film is easy.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “it is also tiring work” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A single scene may need twenty ___.",
+    "correct_word": "attempts",
+    "accept": [
+     "attempt"
+    ],
+    "explanation": "Matnda: “a single scene may need twenty attempts”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u102",
+  "title": "Dress Codes",
+  "cefr": "B1+",
+  "text": "What we wear tells other people something about us. In many companies, employees have to wear a uniform: a bank clerk wears a suit, a nurse wears a white coat and a waiter wears a black apron. A uniform shows who you are and what your job is.\n\nIn other workplaces, the rules are less clear. Some offices ask staff to dress smartly, but they allow casual clothes on Fridays. Newcomers are often unsure what to choose. A good tip is to watch what colleagues do on the first day and then copy them.\n\nShopping for clothes can be a challenge, too. Before you buy a jacket, you should try it on, because sizes differ from shop to shop. A coat that fits perfectly in one shop may be too tight in another. You should also check whether the colour suits you. A friend's opinion can be valuable.\n\nFashion changes quickly. Something that is in fashion this year may look strange next year. Some people follow every trend; others prefer simple, classic clothes that never go out of fashion. At a formal event, such as a wedding, guests are often dressed in dark colours, but in some cultures bright clothes are traditional.\n\nIn the end, the best advice is to feel comfortable. When you put on a coat or a shirt that you like, you walk differently and speak with more confidence.",
+  "key_words": [
+   {
+    "word": "wear a uniform",
+    "translation_uz": "forma kiymoq"
+   },
+   {
+    "word": "put on / take off a coat",
+    "translation_uz": "palto kiymoq / yechmoq"
+   },
+   {
+    "word": "try on a jacket",
+    "translation_uz": "kurtkani kiyib ko'rmoq"
+   },
+   {
+    "word": "fit / suit someone",
+    "translation_uz": "kelmoq / yarashmoq"
+   },
+   {
+    "word": "dress smartly / casually",
+    "translation_uz": "chiroyli / oddiy kiyinmoq"
+   },
+   {
+    "word": "be dressed in black",
+    "translation_uz": "qora kiyingan bo'lmoq"
+   },
+   {
+    "word": "in fashion / out of fashion",
+    "translation_uz": "modada / modadan chiqqan"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does a uniform show?",
+    "options": [
+     "How rich you are",
+     "Who you are and what your job is",
+     "Where you live",
+     "How old you are"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A uniform shows who you are and what your job is.”"
+   },
+   {
+    "question": "What is a good tip for newcomers at work?",
+    "options": [
+     "Watch what colleagues do and copy them",
+     "Ask for a uniform",
+     "Buy expensive suits",
+     "Wear black every day"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “watch what colleagues do on the first day and then copy them”"
+   },
+   {
+    "question": "Why should you try on a jacket before you buy it?",
+    "options": [
+     "Shops close early",
+     "Colours fade",
+     "Prices change daily",
+     "Sizes differ from shop to shop"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “sizes differ from shop to shop”"
+   },
+   {
+    "question": "[True / False / Not Given] Some offices allow casual clothes on Fridays.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “they allow casual clothes on Fridays” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Fashion stays the same from year to year.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Fashion changes quickly.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most people buy clothes online.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that feeling comfortable in your clothes is important.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the best advice is to feel comfortable” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Something that is in fashion this year may look ___ next year.",
+    "correct_word": "strange",
+    "accept": [
+     "stranges"
+    ],
+    "explanation": "Matnda: “may look strange next year”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u109",
+  "title": "When Families Separate",
+  "cefr": "B1+",
+  "text": "Divorce is common in many countries today. In some places, about one marriage in three ends this way. Couples decide to divorce for many reasons, such as arguments about money, different expectations or simply the feeling that they have grown apart.\n\nThe legal process varies from country to country. In some places, one partner can file for divorce and wait several months for the court to decide. In others, both partners must agree. After a divorce, the couple usually divides their property and, if there are children, decides where they will live.\n\nChildren are the most sensitive part of the story. Psychologists say that a divorced couple can still be good parents if they cooperate. A child needs to hear that the separation is not his or her fault, and needs regular contact with both parents. Problems usually begin when the former partners fight about the children or use them to hurt each other.\n\nSociety's attitude has changed. Fifty years ago, a person who got divorced often felt ashamed, and friends avoided the subject. Today, it is accepted as a normal, if painful, event. Support groups, counsellors and even websites help people to start again.\n\nThe author concludes that a divorce is neither a disaster nor a solution to every problem. It is a serious decision, and those who make it deserve respect, not judgement.",
+  "key_words": [
+   {
+    "word": "get a divorce",
+    "translation_uz": "ajrashmoq"
+   },
+   {
+    "word": "get divorced",
+    "translation_uz": "ajrashib ketmoq"
+   },
+   {
+    "word": "be divorced",
+    "translation_uz": "ajrashgan bo'lmoq"
+   },
+   {
+    "word": "divorce someone",
+    "translation_uz": "kimdandir ajrashmoq"
+   },
+   {
+    "word": "file for divorce",
+    "translation_uz": "ajrashish uchun ariza bermoq"
+   },
+   {
+    "word": "a divorced couple",
+    "translation_uz": "ajrashgan er-xotin"
+   },
+   {
+    "word": "separate / separation",
+    "translation_uz": "ajralmoq / ajralish"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Which reason for divorce is NOT mentioned in the text?",
+    "options": [
+     "Illness of a parent",
+     "Feeling that they have grown apart",
+     "Arguments about money",
+     "Different expectations"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “arguments about money, different expectations or simply the feeling that they have grown apart”"
+   },
+   {
+    "question": "According to psychologists, what does a child need?",
+    "options": [
+     "A new home every year",
+     "A big family",
+     "Regular contact with both parents",
+     "Silence about the divorce"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “regular contact with both parents”"
+   },
+   {
+    "question": "Which heading best matches paragraph 4?",
+    "options": [
+     "Rules for property",
+     "Changing attitudes in society",
+     "The cost of lawyers",
+     "Problems at school"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Society's attitude has changed.”"
+   },
+   {
+    "question": "[True / False / Not Given] In some places, both partners must agree to a divorce.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “In others, both partners must agree.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Fifty years ago, divorce was seen as completely normal.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “a person who got divorced often felt ashamed” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Divorce is more common in cities than in villages.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author thinks that people who divorce deserve judgement.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “deserve respect, not judgement” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A child needs to hear that the separation is not his or her ___.",
+    "correct_word": "fault",
+    "accept": [
+     "faults"
+    ],
+    "explanation": "Matnda: “the separation is not his or her fault”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u129",
+  "title": "Learning to Control Anger",
+  "cefr": "B1+",
+  "text": "Everyone feels angry sometimes. You may be angry with a friend who forgot your birthday, or angry about a decision that you think is unfair. Anger itself is a normal emotion. The problem begins when a person cannot control it.\n\nPeople get angry for different reasons. Some become furious when they are tired or hungry; others react badly to criticism. A noisy room, a long queue or a late bus can make almost anyone angry. In such moments, the body changes: the heart beats faster, the face goes red and the voice becomes louder.\n\nWhat should you do? Psychologists suggest several steps. First, stop and breathe slowly. Count to ten before you speak. Second, ask yourself whether the problem will matter in a week. If the answer is no, it is not worth losing your temper. Finally, find a calm way to express your feelings. Saying \"I feel upset when you are late\" is much more useful than shouting.\n\nSome people keep their temper in public but explode at home. This is dangerous for relationships, because family members begin to feel afraid. Exercise can help: a long walk or a game of football often takes away the tension.\n\nIf anger affects work or family life, specialists recommend talking to a counsellor. Learning to manage anger is a skill, and like any other skill, it improves with practice.",
+  "key_words": [
+   {
+    "word": "be angry with someone",
+    "translation_uz": "kimdandir g'azablanmoq"
+   },
+   {
+    "word": "be angry about something",
+    "translation_uz": "biror narsadan g'azablanmoq"
+   },
+   {
+    "word": "get angry",
+    "translation_uz": "jahli chiqmoq"
+   },
+   {
+    "word": "make someone angry",
+    "translation_uz": "jahlini chiqarmoq"
+   },
+   {
+    "word": "lose your temper",
+    "translation_uz": "jahli chiqib ketmoq"
+   },
+   {
+    "word": "keep your temper",
+    "translation_uz": "o'zini tutmoq"
+   },
+   {
+    "word": "in anger",
+    "translation_uz": "jahl bilan"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What happens to the body when a person is angry?",
+    "options": [
+     "The voice becomes quieter",
+     "The heart beats faster",
+     "The person feels sleepy",
+     "The face goes pale"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the heart beats faster, the face goes red and the voice becomes louder”"
+   },
+   {
+    "question": "What should you do first, according to psychologists?",
+    "options": [
+     "Leave the room forever",
+     "Go to sleep",
+     "Shout",
+     "Stop and breathe slowly"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “First, stop and breathe slowly.”"
+   },
+   {
+    "question": "Which heading best matches paragraph 4?",
+    "options": [
+     "Anger at home and in public",
+     "Anger in animals",
+     "How to be a counsellor",
+     "The history of football"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Some people keep their temper in public but explode at home.”"
+   },
+   {
+    "question": "[True / False / Not Given] Anger is a normal emotion.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Anger itself is a normal emotion.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Exercise never helps with anger.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Exercise can help” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Men get angry more often than women.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author believes that managing anger can be learned.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Learning to manage anger is a skill” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A late bus can make almost anyone ___.",
+    "correct_word": "angry",
+    "accept": [
+     "angrys"
+    ],
+    "explanation": "Matnda: “can make almost anyone angry”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u136",
+  "title": "How a Government Works",
+  "cefr": "B1+",
+  "text": "In a democracy, citizens choose their government by voting in an election. Usually, the election takes place every four or five years. Each party presents its plans, called a programme, and tells voters what it will do if it wins.\n\nAfter the election, the party with the most votes tries to form a government. If no party has a majority, two or more parties may agree to work together. The leader of the winning party often becomes the prime minister, who then chooses a government minister for each area, such as education, health or transport.\n\nThe government has several duties. It prepares the budget, decides how to spend taxes and makes policy on important questions. At the same time, there is local government, which handles daily matters in towns and villages: schools, rubbish collection and street lighting.\n\nNot everyone is satisfied. Critics say that governments make promises before the election and forget them afterwards. In some countries, fewer than half of the citizens vote, because they believe that nothing will change. Experts reply that a low turnout is itself a problem, as the government then represents only part of the people.\n\nThe author believes that voting is both a right and a responsibility. Even a single vote can matter, especially in a close election, and people who do not vote lose the chance to be heard.",
+  "key_words": [
+   {
+    "word": "form a government",
+    "translation_uz": "hukumat tuzmoq"
+   },
+   {
+    "word": "lead the government",
+    "translation_uz": "hukumatga rahbarlik qilmoq"
+   },
+   {
+    "word": "local government",
+    "translation_uz": "mahalliy hokimiyat"
+   },
+   {
+    "word": "government policy",
+    "translation_uz": "hukumat siyosati"
+   },
+   {
+    "word": "a government minister",
+    "translation_uz": "hukumat vaziri"
+   },
+   {
+    "word": "the government announced",
+    "translation_uz": "hukumat e'lon qildi"
+   },
+   {
+    "word": "hold an election",
+    "translation_uz": "saylov o'tkazmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How often does an election usually take place?",
+    "options": [
+     "Every month",
+     "Every year",
+     "Every four or five years",
+     "Every twenty years"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “every four or five years”"
+   },
+   {
+    "question": "What does local government deal with?",
+    "options": [
+     "Foreign policy",
+     "Schools, rubbish collection and street lighting",
+     "The budget of the country",
+     "The army"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “schools, rubbish collection and street lighting”"
+   },
+   {
+    "question": "Which heading best matches paragraph 4?",
+    "options": [
+     "The history of taxes",
+     "The role of the prime minister",
+     "How to vote",
+     "Criticism of governments"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Not everyone is satisfied.”"
+   },
+   {
+    "question": "[True / False / Not Given] The leader of the winning party often becomes prime minister.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The leader of the winning party often becomes the prime minister” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] In all countries more than half of the citizens vote.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “In some countries, fewer than half of the citizens vote” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The prime minister is chosen by the king.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author thinks that voting is both a right and a responsibility.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “voting is both a right and a responsibility” — demak Yes."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The government prepares the ___ and decides how to spend taxes.",
+    "correct_word": "budget",
+    "accept": [
+     "budgets"
+    ],
+    "explanation": "Matnda: “It prepares the budget”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u143",
+  "title": "Crime and Punishment",
+  "cefr": "B1+",
+  "text": "To commit an offence means to break the law. Offences range from minor ones, such as dropping rubbish in the street, to very serious ones, such as robbery. A traffic offence is probably the most common: millions of drivers receive a fine every year for speeding or parking in the wrong place.\n\nHow a society reacts depends on the seriousness of the act. For a first offence, a judge may give a warning or order the offender to do community work. For repeated offences, the punishment is stronger, and in the worst cases, the offender goes to prison.\n\nThe victim is often forgotten in public discussions. A person whose house has been robbed may feel afraid for months, even if the stolen objects were not valuable. Because of this, some countries have introduced programmes in which the offender meets the victim and apologises. Research shows that victims who take part feel less angry, and that offenders are less likely to repeat the crime.\n\nNot everyone agrees about what punishment is for. Some people say it should protect society by keeping dangerous people away. Others believe it should help offenders to change. A third view is that the penalty should simply match the crime.\n\nThe author argues that the most effective approach combines all three ideas. A good system protects the public, treats victims with respect and gives offenders a chance to return to normal life.",
+  "key_words": [
+   {
+    "word": "commit an offence",
+    "translation_uz": "jinoyat sodir etmoq"
+   },
+   {
+    "word": "a minor offence",
+    "translation_uz": "yengil huquqbuzarlik"
+   },
+   {
+    "word": "a serious offence",
+    "translation_uz": "og'ir huquqbuzarlik"
+   },
+   {
+    "word": "a criminal offence",
+    "translation_uz": "jinoiy huquqbuzarlik"
+   },
+   {
+    "word": "a traffic offence",
+    "translation_uz": "yo'l harakati qoidabuzarligi"
+   },
+   {
+    "word": "a first offence",
+    "translation_uz": "birinchi marta qoidabuzarlik"
+   },
+   {
+    "word": "take offence at something",
+    "translation_uz": "xafa bo'lmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is a traffic offence?",
+    "options": [
+     "Speeding or parking in the wrong place",
+     "Breaking a window",
+     "Dropping rubbish",
+     "Robbery"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “speeding or parking in the wrong place”"
+   },
+   {
+    "question": "What may happen after a first offence?",
+    "options": [
+     "A life in prison",
+     "No reaction at all",
+     "A warning or community work",
+     "A new house"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “a judge may give a warning or order the offender to do community work”"
+   },
+   {
+    "question": "Which heading best matches paragraph 3?",
+    "options": [
+     "The situation of the victim",
+     "Types of fine",
+     "Modern police cars",
+     "The cost of prisons"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The victim is often forgotten in public discussions.”"
+   },
+   {
+    "question": "[True / False / Not Given] Victims who meet the offender often feel less angry.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “victims who take part feel less angry” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] A person who has been robbed always forgets about it quickly.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “may feel afraid for months” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most offenders are under thirty years old.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The author supports one single idea about punishment.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “combines all three ideas” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Others believe punishment should help offenders to ___.",
+    "correct_word": "change",
+    "accept": [
+     "changes"
+    ],
+    "explanation": "Matnda: “help offenders to change”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u160",
+  "title": "Languages of the World",
+  "cefr": "B1+",
+  "text": "There are about seven thousand languages in the world, but half of the population speaks only a few of them. Chinese, English, Hindi and Spanish are used by billions of people. At the same time, many languages have fewer than a thousand speakers, and some are disappearing.\n\nWhy do people learn a foreign language? Some do it for work, because employers like candidates who can speak a foreign language. Others do it for travel or for love. Everyone has a mother tongue, which is the first language they learn at home. For many people, it remains the language of emotion: they count, dream and swear in it.\n\nCountries often have one or more official languages. In Switzerland, there are four, and Canadian documents appear in both English and French. A single language can also have many forms. English in Scotland sounds different from English in Australia, although the speakers understand each other.\n\nLearning a language takes time. A language course can give a good start, but real progress needs practice. Experts recommend that learners speak every day, even for ten minutes, and read simple books. Language skills improve more quickly when students are not afraid of mistakes.\n\nPerhaps the most important reason to learn another language is understanding. A person who speaks only one language sees the world in one way; a person who speaks two sees it in at least two. Every new language opens a new door.",
+  "key_words": [
+   {
+    "word": "speak a foreign language",
+    "translation_uz": "chet tilida gapirmoq"
+   },
+   {
+    "word": "learn a language",
+    "translation_uz": "til o'rganmoq"
+   },
+   {
+    "word": "mother tongue",
+    "translation_uz": "ona tili"
+   },
+   {
+    "word": "first language",
+    "translation_uz": "birinchi til"
+   },
+   {
+    "word": "official language",
+    "translation_uz": "rasmiy til"
+   },
+   {
+    "word": "a language course",
+    "translation_uz": "til kursi"
+   },
+   {
+    "word": "language skills",
+    "translation_uz": "til ko'nikmalari"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How many languages are there in the world?",
+    "options": [
+     "About seventy thousand",
+     "About seven hundred",
+     "About seven thousand",
+     "About seventy"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “about seven thousand languages”"
+   },
+   {
+    "question": "What is a mother tongue?",
+    "options": [
+     "A language used at work",
+     "The first language a person learns at home",
+     "A dead language",
+     "A language for travel"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the first language they learn at home”"
+   },
+   {
+    "question": "Which heading best matches paragraph 4?",
+    "options": [
+     "Languages in danger",
+     "Chinese and English",
+     "Official languages",
+     "How to learn a language"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Learning a language takes time.”"
+   },
+   {
+    "question": "[True / False / Not Given] Some languages have fewer than a thousand speakers.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “many languages have fewer than a thousand speakers” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Switzerland has two official languages.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “In Switzerland, there are four” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Spanish is easier to learn than Chinese.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer believes that learners should be afraid of mistakes.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “when students are not afraid of mistakes” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Experts recommend that learners speak every ___, even for ten minutes.",
+    "correct_word": "day",
+    "accept": [
+     "days"
+    ],
+    "explanation": "Matnda: “speak every day”"
+   }
+  ]
+ },
+ {
+  "target": "kw-intermediate:u163",
+  "title": "Giving a Speech",
+  "cefr": "B1+",
+  "text": "Many people are more afraid of public speaking than of flying. Yet sooner or later almost everyone has to make a speech: at a wedding, at school or at work. The good news is that a speech can be prepared, and preparation makes a big difference.\n\nStart by thinking about your listeners. What do they already know? What do they want to hear? A speech for experts is different from a speech for children. Then write the text. Many speakers write the first sentence and the last sentence word for word, because these are the most important. The middle can be notes.\n\nA short speech is usually better than a long one. An opening speech at a conference lasts five minutes, and a wedding speech should never exceed three. When listeners start to look at their watches, the speaker has already lost them.\n\nWhen it is time to deliver the speech, speak slowly and look at the audience. Pause after the important points. If you make a mistake, do not apologise too much; just continue. Many speakers use humour, but a joke should be short and not offend anybody.\n\nPractice is the secret. Read the speech aloud at home, or ask a friend to listen. After a few attempts, your voice becomes steady, and your fear becomes much smaller.\n\nAs the great speakers know, the goal is not to impress with big words. It is to be understood.",
+  "key_words": [
+   {
+    "word": "make a speech",
+    "translation_uz": "nutq so'zlamoq"
+   },
+   {
+    "word": "give a speech",
+    "translation_uz": "nutq so'zlamoq"
+   },
+   {
+    "word": "deliver a speech",
+    "translation_uz": "nutq bilan chiqish"
+   },
+   {
+    "word": "write a speech",
+    "translation_uz": "nutq yozmoq"
+   },
+   {
+    "word": "a short speech",
+    "translation_uz": "qisqa nutq"
+   },
+   {
+    "word": "a wedding speech",
+    "translation_uz": "to'y nutqi"
+   },
+   {
+    "word": "an opening speech",
+    "translation_uz": "ochilish nutqi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What do many speakers write word for word?",
+    "options": [
+     "The jokes",
+     "The first and the last sentence",
+     "The whole speech",
+     "The middle part"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the first sentence and the last sentence word for word”"
+   },
+   {
+    "question": "How long should a wedding speech be?",
+    "options": [
+     "No longer than three minutes",
+     "One hour",
+     "Twenty minutes",
+     "Ten minutes"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a wedding speech should never exceed three”"
+   },
+   {
+    "question": "Which heading best matches paragraph 5?",
+    "options": [
+     "Writing the text",
+     "Rules for jokes",
+     "The value of practice",
+     "Speaking to experts"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Practice is the secret.”"
+   },
+   {
+    "question": "[True / False / Not Given] Speakers should pause after the important points.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Pause after the important points.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] A long speech is usually better than a short one.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A short speech is usually better than a long one.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Most politicians write their own speeches.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   },
+   {
+    "question": "[Yes / No / Not Given] The writer thinks that the goal of a speech is to impress with big words.  (muallif bu haqida fikr bildirmagan bo'lsa: Not Given)",
+    "options": [
+     "Yes",
+     "No",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the goal is not to impress with big words” — demak No."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Read the speech aloud at home, or ask a friend to ___.",
+    "correct_word": "listen",
+    "accept": [
+     "listens"
+    ],
+    "explanation": "Matnda: “ask a friend to listen”"
+   }
+  ]
+ }
+]

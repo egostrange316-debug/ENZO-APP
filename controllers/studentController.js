@@ -83,6 +83,8 @@ const bookSections = (books) =>
     },
     reading: b.reading ? { title: b.reading.title, text: b.reading.text, key_words: b.reading.key_words } : null,
     listening: b.listening ? { title: b.listening.title, script: b.listening.script } : null, // ilova TTS bilan o'qib beradi
+    readings: (b.readings || []).map((r) => ({ title: r.title, cefr: r.cefr, text: r.text, key_words: r.key_words || [] })),
+    voa: b.voa?.audio_url ? { title: b.voa.title, audio_url: b.voa.audio_url, credit: b.voa.credit, source_url: b.voa.source_url } : null,
     speaking: { questions: b.speaking?.questions || [] },
   }));
 
@@ -423,6 +425,7 @@ const answerExercise = async (req, res) => {
         correct,
         review: true,
         ...(correct ? {} : { reveal: ex.feedbackFor(item, ex.REVEAL_AFTER).reveal }),
+        ...(item.explanation ? { explanation: item.explanation } : {}),
       });
     }
 
@@ -490,6 +493,8 @@ const answerExercise = async (req, res) => {
       correct,
       wrong_count: wrongCount,
       ...feedback,
+      // Tushuntirish: to'g'ri javobdan keyin yoki javob ochilganda (oldin ko'rsatilsa javobni oshkor qiladi)
+      ...(item.explanation && (correct || feedback.reveal) ? { explanation: item.explanation } : {}),
       progress: ex.summarize(items, await loadStates(user._id, day)),
     });
   } catch (error) {

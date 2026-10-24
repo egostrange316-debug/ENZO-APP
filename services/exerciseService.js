@@ -113,6 +113,49 @@ function itemsFromBook(book) {
       ...(book.listening?.script ? { speak_text: book.listening.script } : {}),
     })
   );
+  // Qo'shimcha CEFR/IELTS uslubidagi o'qish matnlari (matn savollar bilan birga ko'rinadi)
+  (book.readings || []).forEach((r, j) => {
+    const meta = { passage: r.text, passage_title: `${r.title}${r.cefr ? ` (${r.cefr})` : ''}` };
+    (r.questions || []).forEach((q, i) =>
+      items.push({ key: `b${id}:rx${j}:${i}`, kind: 'mcq', section: 'reading', source: 'book',
+        question: q.question, options: [...q.options], correct_index: q.correct_answer_index, ...(q.explanation ? { explanation: q.explanation } : {}), ...meta })
+    );
+    (r.fill || []).forEach((f, i) =>
+      items.push({ key: `b${id}:rxf${j}:${i}`, kind: 'fill', section: 'reading', source: 'book', loose: true,
+        question: f.sentence_with_blank, options: [], correct_word: f.correct_word, ...(f.accept?.length ? { accept: [...f.accept] } : {}),
+        ...(f.explanation ? { explanation: f.explanation } : {}), ...meta })
+    );
+  });
+  // Tashqi ochiq manba (VOA): haqiqiy audio fayl; savollar audio bilan birga ko'rsatiladi
+  (book.voa?.questions || []).forEach((q, i) =>
+    items.push({
+      key: `b${id}:voa:${i}`, kind: 'mcq', section: 'listening', source: 'book',
+      question: q.question, options: [...q.options], correct_index: q.correct_answer_index,
+      audio_url: book.voa.audio_url, ...(book.voa.credit ? { credit: book.voa.credit } : {}),
+      ...(book.voa.transcript ? { speak_text: book.voa.transcript } : {}),
+    })
+  );
+  const voa = book.voa;
+  if (voa?.audio_url) {
+    (voa.fill || []).forEach((e, i) =>
+      items.push({ key: `b${id}:voaf:${i}`, kind: 'fill', section: 'grammar', source: 'book', group: voa.title,
+        question: e.sentence_with_blank, options: [...(e.options || [])], correct_word: e.correct_word })
+    );
+    (voa.gaps || []).forEach((g, i) =>
+      items.push({ key: `b${id}:voag:${i}`, kind: 'fill', section: 'dictation', source: 'book', loose: true,
+        question: g.sentence_with_blank, options: [], correct_word: g.correct_word, audio_url: voa.audio_url, ...(voa.credit ? { credit: voa.credit } : {}) })
+    );
+    (voa.dictation || []).forEach((t, i) =>
+      items.push({ key: `b${id}:voad:${i}`, kind: 'fill', section: 'dictation', source: 'book', loose: true,
+        question: "Eshiting va yozing", speak_text: t, options: [], correct_word: t })
+    );
+    if (voa.writing?.question)
+      items.push({ key: `b${id}:voaw:0`, kind: 'write', section: 'writing', source: 'book', loose: true,
+        question: voa.writing.question, must_words: [...(voa.writing.must_words || [])], min_words: voa.writing.min_words || 4, options: [] });
+    if (voa.speaking?.question_text)
+      items.push({ key: `b${id}:voas:0`, kind: 'speak', section: 'speaking', source: 'book', loose: true,
+        question: voa.speaking.question_text, hint_words: [...(voa.speaking.hint_words || [])], options: [] });
+  }
   (book.listening?.dictation_sentences || []).forEach((sentence, i) =>
     items.push({
       key: `b${id}:d:${i}`, kind: 'fill', section: 'dictation', source: 'book', loose: true,
@@ -189,6 +232,7 @@ function publicItem(item, state) {
     kind: item.kind,
     section: item.section,
     ...(item.group ? { group: item.group } : {}),
+    ...(item.audio_url ? { audio_url: item.audio_url, credit: item.credit || '' } : {}),
     ...(item.speak_text ? { speak_text: item.speak_text } : {}), // diktant/listening: ilova TTS bilan o'qib beradi
     ...(item.must_words ? { must_words: item.must_words, min_words: item.min_words } : {}),
     ...(item.hint_words ? { hint_words: item.hint_words } : {}),
@@ -209,7 +253,7 @@ function isCorrect(item, answer) {
   if (item.loose) {
     // Diktant: tinish belgilari va harf kattaligiga e'tibor berilmaydi (bola uchun adolatli)
     const strip = (x) => norm(x).replace(/[^\p{L}\p{N}\s']/gu, '').replace(/\s+/g, ' ').trim();
-    return strip(answer) === strip(item.correct_word);
+    return [item.correct_word, ...(item.accept || [])].some((w) => strip(answer) === strip(w));
   }
   return norm(answer) === norm(item.correct_word);
 }

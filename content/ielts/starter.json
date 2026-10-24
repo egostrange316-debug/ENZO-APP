@@ -1,0 +1,4120 @@
+[
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Name Is Sam",
+  "minutes": 5,
+  "paras": {
+   "A": "Hello! My name is Sam. I am eight years old. I am from London. I live in a small house with my mother, my father and my dog. My dog is brown. His name is Max."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the boy's name?",
+      [
+       "Max",
+       "Sam",
+       "Tom"
+      ],
+      1,
+      "My name is Sam"
+     ],
+     [
+      "How old is Sam?",
+      [
+       "Seven",
+       "Ten",
+       "Eight"
+      ],
+      2,
+      "eight years old"
+     ],
+     [
+      "What colour is the dog?",
+      [
+       "Brown",
+       "Black",
+       "White"
+      ],
+      0,
+      "My dog is brown"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Sam is from London.",
+      "T",
+      "I am from London"
+     ],
+     [
+      "Max is a cat.",
+      "F",
+      "His name is Max"
+     ],
+     [
+      "Sam lives with his grandmother.",
+      "F",
+      "my mother, my father and my dog"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The dog's name is ___.",
+      [
+       "max"
+      ],
+      "His name is Max"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "dog",
+    "it"
+   ],
+   [
+    "house",
+    "uy"
+   ],
+   [
+    "brown",
+    "jigarrang"
+   ]
+  ],
+  "id": "starter1"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Room",
+  "minutes": 5,
+  "paras": {
+   "A": "This is my room. It is small. I have a bed, a desk and a chair. There is a lamp on the desk. My books are on the shelf. I like my room."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is on the desk?",
+      [
+       "A bag",
+       "A lamp",
+       "A cat"
+      ],
+      1,
+      "a lamp on the desk"
+     ],
+     [
+      "Where are the books?",
+      [
+       "On the bed",
+       "On the chair",
+       "On the shelf"
+      ],
+      2,
+      "My books are on the shelf"
+     ],
+     [
+      "How is the room?",
+      [
+       "Small",
+       "Big",
+       "Dirty"
+      ],
+      0,
+      "It is small"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "There is a bed in the room.",
+      "T",
+      "I have a bed"
+     ],
+     [
+      "The books are under the bed.",
+      "F",
+      "My books are on the shelf"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I have a bed, a desk and a ___.",
+      [
+       "chair"
+      ],
+      "a desk and a chair"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter2"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "At the Fruit Shop",
+  "minutes": 5,
+  "paras": {
+   "A": "Anna goes to the fruit shop. She buys three apples, two bananas and one melon. The apples are red. The bananas are yellow. The melon is big and green. Anna pays one pound."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How many apples does Anna buy?",
+      [
+       "Two",
+       "Three",
+       "One"
+      ],
+      1,
+      "three apples"
+     ],
+     [
+      "What colour are the bananas?",
+      [
+       "Red",
+       "Green",
+       "Yellow"
+      ],
+      2,
+      "The bananas are yellow"
+     ],
+     [
+      "What is big and green?",
+      [
+       "The melon",
+       "The apple",
+       "The banana"
+      ],
+      0,
+      "The melon is big and green"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Anna buys two melons.",
+      "F",
+      "one melon"
+     ],
+     [
+      "The apples are red.",
+      "T",
+      "The apples are red"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Anna pays one ___.",
+      [
+       "pound"
+      ],
+      "pays one pound"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter3"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Family",
+  "minutes": 5,
+  "paras": {
+   "A": "I have a big family. My father is a doctor. My mother is a teacher. I have one brother and one sister. My brother is ten. My sister is five. We are happy."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the father's job?",
+      [
+       "Teacher",
+       "Doctor",
+       "Driver"
+      ],
+      1,
+      "My father is a doctor"
+     ],
+     [
+      "How many brothers does the writer have?",
+      [
+       "Two",
+       "Three",
+       "One"
+      ],
+      2,
+      "one brother and one sister"
+     ],
+     [
+      "How old is the sister?",
+      [
+       "Five",
+       "Ten",
+       "Eight"
+      ],
+      0,
+      "My sister is five"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The mother is a teacher.",
+      "T",
+      "My mother is a teacher"
+     ],
+     [
+      "The brother is five.",
+      "F",
+      "My brother is ten"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "We are ___.",
+      [
+       "happy"
+      ],
+      "We are happy"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter4"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Weather Today",
+  "minutes": 5,
+  "paras": {
+   "A": "Today is Monday. It is sunny and warm. The sun is in the sky. Children play in the park. They wear T-shirts and shorts. Tomorrow it will rain."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What day is it today?",
+      [
+       "Sunday",
+       "Monday",
+       "Friday"
+      ],
+      1,
+      "Today is Monday"
+     ],
+     [
+      "What is the weather today?",
+      [
+       "Rainy",
+       "Snowy",
+       "Sunny"
+      ],
+      2,
+      "It is sunny and warm"
+     ],
+     [
+      "Where do the children play?",
+      [
+       "In the park",
+       "At school",
+       "At home"
+      ],
+      0,
+      "Children play in the park"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The children wear coats.",
+      "F",
+      "They wear T-shirts and shorts"
+     ],
+     [
+      "It will rain tomorrow.",
+      "T",
+      "Tomorrow it will rain"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The ___ is in the sky.",
+      [
+       "sun"
+      ],
+      "The sun is in the sky"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter5"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Cat",
+  "minutes": 5,
+  "paras": {
+   "A": "I have a cat. Her name is Lily. She is white and she has green eyes. Lily likes milk and fish. She sleeps on my bed. I love my cat very much."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the cat's name?",
+      [
+       "Molly",
+       "Lily",
+       "Kitty"
+      ],
+      1,
+      "Her name is Lily"
+     ],
+     [
+      "What colour are Lily's eyes?",
+      [
+       "Blue",
+       "Brown",
+       "Green"
+      ],
+      2,
+      "green eyes"
+     ],
+     [
+      "Where does Lily sleep?",
+      [
+       "On the bed",
+       "On the sofa",
+       "In the garden"
+      ],
+      0,
+      "She sleeps on my bed"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Lily is a black cat.",
+      "F",
+      "She is white"
+     ],
+     [
+      "Lily likes fish.",
+      "T",
+      "milk and fish"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Lily likes milk and ___.",
+      [
+       "fish"
+      ],
+      "milk and fish"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter6"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Numbers and Days",
+  "minutes": 5,
+  "paras": {
+   "A": "There are seven days in a week. They are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday. We go to school from Monday to Friday. On Saturday and Sunday we stay at home."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How many days are there in a week?",
+      [
+       "Five",
+       "Seven",
+       "Six"
+      ],
+      1,
+      "seven days in a week"
+     ],
+     [
+      "When do we go to school?",
+      [
+       "On Sunday",
+       "On Saturday",
+       "From Monday to Friday"
+      ],
+      2,
+      "from Monday to Friday"
+     ],
+     [
+      "Where do we stay on Saturday and Sunday?",
+      [
+       "At home",
+       "At school",
+       "In the park"
+      ],
+      0,
+      "stay at home"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "There are five days in a week.",
+      "F",
+      "seven days in a week"
+     ],
+     [
+      "We go to school on Friday.",
+      "T",
+      "Monday to Friday"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "On Saturday and Sunday we stay at ___.",
+      [
+       "home"
+      ],
+      "stay at home"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter7"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "A Day at School",
+  "minutes": 5,
+  "paras": {
+   "A": "Ali goes to school at eight o'clock. He has four lessons. He likes English and Maths. At twelve o'clock, he has lunch with his friends. He eats rice and salad. School finishes at two o'clock."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When does Ali go to school?",
+      [
+       "At nine o'clock",
+       "At eight o'clock",
+       "At seven o'clock"
+      ],
+      1,
+      "at eight o'clock"
+     ],
+     [
+      "How many lessons does Ali have?",
+      [
+       "Two",
+       "Six",
+       "Four"
+      ],
+      2,
+      "four lessons"
+     ],
+     [
+      "What does Ali eat at lunch?",
+      [
+       "Rice and salad",
+       "Pizza",
+       "Soup"
+      ],
+      0,
+      "rice and salad"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Ali likes Maths.",
+      "T",
+      "English and Maths"
+     ],
+     [
+      "School finishes at three o'clock.",
+      "F",
+      "two o'clock"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Ali has lunch with his ___.",
+      [
+       "friends"
+      ],
+      "with his friends"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter8"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Colours",
+  "minutes": 5,
+  "paras": {
+   "A": "I like colours. My bag is blue. My shoes are black. My pencil is red and my pen is green. My favourite colour is yellow. The sun is yellow, and bananas are yellow, too."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What colour is the bag?",
+      [
+       "Red",
+       "Blue",
+       "Green"
+      ],
+      1,
+      "My bag is blue"
+     ],
+     [
+      "What colour are the shoes?",
+      [
+       "Yellow",
+       "Blue",
+       "Black"
+      ],
+      2,
+      "My shoes are black"
+     ],
+     [
+      "What is the favourite colour?",
+      [
+       "Yellow",
+       "Green",
+       "Red"
+      ],
+      0,
+      "My favourite colour is yellow"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The pencil is red.",
+      "T",
+      "my pencil is red"
+     ],
+     [
+      "The pen is blue.",
+      "F",
+      "my pen is green"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The sun is ___.",
+      [
+       "yellow"
+      ],
+      "The sun is yellow"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter9"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "In the Kitchen",
+  "minutes": 5,
+  "paras": {
+   "A": "My mother is in the kitchen. She cooks soup. There is a table and four chairs. On the table there are plates, spoons and cups. My father drinks tea. I help my mother."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What does the mother cook?",
+      [
+       "Rice",
+       "Soup",
+       "Bread"
+      ],
+      1,
+      "She cooks soup"
+     ],
+     [
+      "How many chairs are there?",
+      [
+       "Two",
+       "Six",
+       "Four"
+      ],
+      2,
+      "four chairs"
+     ],
+     [
+      "What does the father drink?",
+      [
+       "Tea",
+       "Milk",
+       "Water"
+      ],
+      0,
+      "My father drinks tea"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The mother is in the garden.",
+      "F",
+      "in the kitchen"
+     ],
+     [
+      "There are spoons on the table.",
+      "T",
+      "plates, spoons and cups"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I help my ___.",
+      [
+       "mother"
+      ],
+      "I help my mother"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter10"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Animals at the Zoo",
+  "minutes": 5,
+  "paras": {
+   "A": "We go to the zoo on Sunday. We see elephants, monkeys and lions. The elephants are very big. The monkeys are funny. They eat bananas. The lions sleep in the sun. I love the zoo."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When do they go to the zoo?",
+      [
+       "On Monday",
+       "On Sunday",
+       "On Friday"
+      ],
+      1,
+      "zoo on Sunday"
+     ],
+     [
+      "What do the monkeys eat?",
+      [
+       "Meat",
+       "Grass",
+       "Bananas"
+      ],
+      2,
+      "They eat bananas"
+     ],
+     [
+      "What do the lions do?",
+      [
+       "They sleep",
+       "They run",
+       "They eat"
+      ],
+      0,
+      "The lions sleep in the sun"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The elephants are small.",
+      "F",
+      "very big"
+     ],
+     [
+      "The monkeys are funny.",
+      "T",
+      "The monkeys are funny"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "We see elephants, monkeys and ___.",
+      [
+       "lions"
+      ],
+      "monkeys and lions"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter11"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Best Friend",
+  "minutes": 5,
+  "paras": {
+   "A": "My best friend is Dina. She is nine. She has long black hair and brown eyes. We are in the same class. We play games after school. On Sunday, she comes to my house."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How old is Dina?",
+      [
+       "Eight",
+       "Nine",
+       "Ten"
+      ],
+      1,
+      "She is nine"
+     ],
+     [
+      "What colour is Dina's hair?",
+      [
+       "Brown",
+       "Yellow",
+       "Black"
+      ],
+      2,
+      "long black hair"
+     ],
+     [
+      "When does Dina come to the house?",
+      [
+       "On Sunday",
+       "On Monday",
+       "After lunch"
+      ],
+      0,
+      "On Sunday, she comes to my house"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Dina has short hair.",
+      "F",
+      "long black hair"
+     ],
+     [
+      "They are in the same class.",
+      "T",
+      "same class"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "We play ___ after school.",
+      [
+       "games"
+      ],
+      "play games after school"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter12"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "At the Park",
+  "minutes": 5,
+  "paras": {
+   "A": "The park is near my house. There are many trees and flowers. Children play football on the grass. A man sits on a bench and reads a newspaper. A girl rides a bike. There is also a small lake with ducks."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where is the park?",
+      [
+       "Near the school",
+       "Near the house",
+       "Far from the house"
+      ],
+      1,
+      "near my house"
+     ],
+     [
+      "What does the man do?",
+      [
+       "He plays football",
+       "He rides a bike",
+       "He reads a newspaper"
+      ],
+      2,
+      "reads a newspaper"
+     ],
+     [
+      "What is on the lake?",
+      [
+       "Ducks",
+       "Boats",
+       "Fish"
+      ],
+      0,
+      "lake with ducks"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Children play football in the park.",
+      "T",
+      "play football on the grass"
+     ],
+     [
+      "The girl walks to school.",
+      "F",
+      "rides a bike"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There are many ___ and flowers.",
+      [
+       "trees"
+      ],
+      "many trees and flowers"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter13"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Birthday",
+  "minutes": 5,
+  "paras": {
+   "A": "Today is my birthday. I am ten years old. My mother makes a big cake. My friends come to my house. They give me presents. I get a book, a ball and a watch. We eat cake and play games."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How old is the child today?",
+      [
+       "Nine",
+       "Ten",
+       "Eleven"
+      ],
+      1,
+      "I am ten years old"
+     ],
+     [
+      "Who makes the cake?",
+      [
+       "The father",
+       "A friend",
+       "The mother"
+      ],
+      2,
+      "My mother makes a big cake"
+     ],
+     [
+      "What does the child get?",
+      [
+       "A book, a ball and a watch",
+       "A bike and a bag",
+       "A dog and a cat"
+      ],
+      0,
+      "a book, a ball and a watch"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The friends come to the park.",
+      "F",
+      "come to my house"
+     ],
+     [
+      "They play games.",
+      "T",
+      "play games"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "They give me ___.",
+      [
+       "presents"
+      ],
+      "They give me presents"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter14"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Going to the Shop",
+  "minutes": 5,
+  "paras": {
+   "A": "Tom goes to the shop with his mother. They buy bread, milk and eggs. The bread is one pound. The milk is two pounds. Tom carries the bag. At home, they have breakfast."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who goes to the shop with Tom?",
+      [
+       "His father",
+       "His mother",
+       "His sister"
+      ],
+      1,
+      "with his mother"
+     ],
+     [
+      "How much is the milk?",
+      [
+       "One pound",
+       "Three pounds",
+       "Two pounds"
+      ],
+      2,
+      "The milk is two pounds"
+     ],
+     [
+      "Who carries the bag?",
+      [
+       "Tom",
+       "His mother",
+       "The shopkeeper"
+      ],
+      0,
+      "Tom carries the bag"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "They buy bread.",
+      "T",
+      "bread, milk and eggs"
+     ],
+     [
+      "The bread is two pounds.",
+      "F",
+      "The bread is one pound"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "At home, they have ___.",
+      [
+       "breakfast"
+      ],
+      "have breakfast"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter15"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Toys",
+  "minutes": 5,
+  "paras": {
+   "A": "I have many toys. I have a car, a robot and a teddy bear. The car is red. The robot is big. It can walk and talk. The teddy bear is soft. It sleeps with me at night."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What colour is the car?",
+      [
+       "Blue",
+       "Red",
+       "Green"
+      ],
+      1,
+      "The car is red"
+     ],
+     [
+      "What can the robot do?",
+      [
+       "Fly and swim",
+       "Sing and cook",
+       "Walk and talk"
+      ],
+      2,
+      "walk and talk"
+     ],
+     [
+      "Where does the teddy bear sleep?",
+      [
+       "With the child",
+       "In the box",
+       "On the shelf"
+      ],
+      0,
+      "sleeps with me at night"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The teddy bear is hard.",
+      "F",
+      "soft"
+     ],
+     [
+      "The robot is big.",
+      "T",
+      "The robot is big"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I have a car, a robot and a teddy ___.",
+      [
+       "bear"
+      ],
+      "teddy bear"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter16"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "A Cold Winter Day",
+  "minutes": 5,
+  "paras": {
+   "A": "It is winter. It is very cold today. There is snow on the road and on the trees. Mother says, 'Wear your hat and coat.' The children make a snowman. It has a carrot nose and two black eyes."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What season is it?",
+      [
+       "Summer",
+       "Winter",
+       "Spring"
+      ],
+      1,
+      "It is winter"
+     ],
+     [
+      "What do the children make?",
+      [
+       "A cake",
+       "A house",
+       "A snowman"
+      ],
+      2,
+      "make a snowman"
+     ],
+     [
+      "What is the snowman's nose?",
+      [
+       "A carrot",
+       "A stone",
+       "A button"
+      ],
+      0,
+      "carrot nose"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "It is hot today.",
+      "F",
+      "very cold"
+     ],
+     [
+      "Mother tells the children to wear a hat.",
+      "T",
+      "Wear your hat and coat"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There is ___ on the road.",
+      [
+       "snow"
+      ],
+      "There is snow on the road"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter17"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My School Bag",
+  "minutes": 5,
+  "paras": {
+   "A": "I have a new school bag. It is blue. In my bag there are three books, two notebooks and a pencil case. In the pencil case, there are a pen, a ruler and an eraser. I carry my bag to school every day."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What colour is the bag?",
+      [
+       "Black",
+       "Blue",
+       "Red"
+      ],
+      1,
+      "It is blue"
+     ],
+     [
+      "How many books are in the bag?",
+      [
+       "Two",
+       "Four",
+       "Three"
+      ],
+      2,
+      "three books"
+     ],
+     [
+      "What is in the pencil case?",
+      [
+       "A pen, a ruler and an eraser",
+       "Two notebooks",
+       "Three books"
+      ],
+      0,
+      "a pen, a ruler and an eraser"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The bag is old.",
+      "F",
+      "new school bag"
+     ],
+     [
+      "The child carries the bag every day.",
+      "T",
+      "every day"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There are two ___ in the bag.",
+      [
+       "notebooks"
+      ],
+      "two notebooks"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter18"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Bus to School",
+  "minutes": 5,
+  "paras": {
+   "A": "Every morning, Kate takes the bus to school. The bus stop is near her house. The bus comes at half past seven. It is yellow. There are many children on the bus. Kate sits next to her friend, Lucy."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How does Kate go to school?",
+      [
+       "On foot",
+       "By bus",
+       "By car"
+      ],
+      1,
+      "takes the bus"
+     ],
+     [
+      "What time does the bus come?",
+      [
+       "At eight",
+       "At seven",
+       "At half past seven"
+      ],
+      2,
+      "half past seven"
+     ],
+     [
+      "Who does Kate sit next to?",
+      [
+       "Lucy",
+       "Anna",
+       "Mary"
+      ],
+      0,
+      "next to her friend, Lucy"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The bus is red.",
+      "F",
+      "It is yellow"
+     ],
+     [
+      "The bus stop is near Kate's house.",
+      "T",
+      "near her house"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There are many ___ on the bus.",
+      [
+       "children"
+      ],
+      "many children on the bus"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter19"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Pizza Time",
+  "minutes": 5,
+  "paras": {
+   "A": "On Friday, we have pizza for dinner. My father makes the pizza. He puts cheese, tomatoes and mushrooms on it. It is hot and very good. My little sister does not like mushrooms. She eats the cheese and the tomatoes."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When do they have pizza?",
+      [
+       "On Sunday",
+       "On Friday",
+       "On Monday"
+      ],
+      1,
+      "On Friday"
+     ],
+     [
+      "Who makes the pizza?",
+      [
+       "The mother",
+       "The sister",
+       "The father"
+      ],
+      2,
+      "My father makes the pizza"
+     ],
+     [
+      "What does the sister not like?",
+      [
+       "Mushrooms",
+       "Cheese",
+       "Tomatoes"
+      ],
+      0,
+      "does not like mushrooms"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The pizza has cheese.",
+      "T",
+      "cheese, tomatoes and mushrooms"
+     ],
+     [
+      "They have pizza for lunch.",
+      "F",
+      "for dinner"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The pizza is hot and very ___.",
+      [
+       "good"
+      ],
+      "hot and very good"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter20"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Grandfather",
+  "minutes": 5,
+  "paras": {
+   "A": "My grandfather is seventy years old. He lives in a village. He has a small garden with apple trees. In the morning, he walks with his dog. In the evening, he reads books. I visit him every summer."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How old is the grandfather?",
+      [
+       "Sixty",
+       "Seventy",
+       "Eighty"
+      ],
+      1,
+      "seventy years old"
+     ],
+     [
+      "Where does he live?",
+      [
+       "In a city",
+       "In a flat",
+       "In a village"
+      ],
+      2,
+      "lives in a village"
+     ],
+     [
+      "When does he walk with his dog?",
+      [
+       "In the morning",
+       "In the evening",
+       "At night"
+      ],
+      0,
+      "In the morning, he walks with his dog"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "He has apple trees in his garden.",
+      "T",
+      "apple trees"
+     ],
+     [
+      "The child visits him every winter.",
+      "F",
+      "every summer"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "In the evening, he ___ books.",
+      [
+       "reads"
+      ],
+      "he reads books"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter21"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "A Rainy Day",
+  "minutes": 5,
+  "paras": {
+   "A": "It is a rainy day. The sky is grey. Tom and Anna stay at home. They cannot go to the park. Tom draws a picture and Anna reads a book. Their mother makes hot tea. Soon the rain stops, and the sun comes out."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the weather like?",
+      [
+       "Sunny",
+       "Rainy",
+       "Windy"
+      ],
+      1,
+      "rainy day"
+     ],
+     [
+      "What does Tom do?",
+      [
+       "He reads a book",
+       "He plays outside",
+       "He draws a picture"
+      ],
+      2,
+      "Tom draws a picture"
+     ],
+     [
+      "What happens at the end?",
+      [
+       "The sun comes out",
+       "The rain gets worse",
+       "The children go to bed"
+      ],
+      0,
+      "the sun comes out"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The children go to the park.",
+      "F",
+      "cannot go to the park"
+     ],
+     [
+      "Anna reads a book.",
+      "T",
+      "Anna reads a book"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The mother makes hot ___.",
+      [
+       "tea"
+      ],
+      "makes hot tea"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter22"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "At the Doctor",
+  "minutes": 5,
+  "paras": {
+   "A": "Sara is ill. She has a headache and a sore throat. Her mother takes her to the doctor. The doctor looks at her throat. He says, 'You have a cold. Stay in bed and drink warm water.' Sara goes home and sleeps."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is wrong with Sara?",
+      [
+       "She has a sore leg",
+       "She has a headache and a sore throat",
+       "She has a broken arm"
+      ],
+      1,
+      "headache and a sore throat"
+     ],
+     [
+      "Who takes Sara to the doctor?",
+      [
+       "Her father",
+       "Her friend",
+       "Her mother"
+      ],
+      2,
+      "Her mother takes her"
+     ],
+     [
+      "What does the doctor tell her to do?",
+      [
+       "Stay in bed",
+       "Go to school",
+       "Play outside"
+      ],
+      0,
+      "Stay in bed"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Sara has a cold.",
+      "T",
+      "You have a cold"
+     ],
+     [
+      "Sara goes to school after the doctor.",
+      "F",
+      "goes home and sleeps"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The doctor looks at her ___.",
+      [
+       "throat"
+      ],
+      "looks at her throat"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter23"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Bike",
+  "minutes": 5,
+  "paras": {
+   "A": "I have a new bike. It is green and silver. I ride it in the park on Saturday. My father rides with me. He has a big black bike. We wear helmets because it is safe. After the ride, we drink cold juice."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What colour is the bike?",
+      [
+       "Red and black",
+       "Green and silver",
+       "Blue and white"
+      ],
+      1,
+      "green and silver"
+     ],
+     [
+      "When does the child ride?",
+      [
+       "On Monday",
+       "On Wednesday",
+       "On Saturday"
+      ],
+      2,
+      "on Saturday"
+     ],
+     [
+      "Why do they wear helmets?",
+      [
+       "It is safe",
+       "It is cold",
+       "It is fashion"
+      ],
+      0,
+      "it is safe"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The father has a big black bike.",
+      "T",
+      "big black bike"
+     ],
+     [
+      "They drink tea after the ride.",
+      "F",
+      "cold juice"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I ride it in the ___.",
+      [
+       "park"
+      ],
+      "in the park"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter24"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "At the Market",
+  "minutes": 5,
+  "paras": {
+   "A": "On Sunday, Mum and I go to the market. It is big and noisy. People sell fruit, vegetables, cheese and bread. Mum buys potatoes and onions. I like the sweet melons. A man gives me a small piece. It is delicious."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When do they go to the market?",
+      [
+       "On Friday",
+       "On Sunday",
+       "On Tuesday"
+      ],
+      1,
+      "On Sunday"
+     ],
+     [
+      "What does Mum buy?",
+      [
+       "Melons",
+       "Cheese",
+       "Potatoes and onions"
+      ],
+      2,
+      "potatoes and onions"
+     ],
+     [
+      "What does the child like?",
+      [
+       "Sweet melons",
+       "Bread",
+       "Cheese"
+      ],
+      0,
+      "I like the sweet melons"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The market is quiet.",
+      "F",
+      "big and noisy"
+     ],
+     [
+      "A man gives the child a piece of melon.",
+      "T",
+      "A man gives me a small piece"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "People sell fruit, vegetables, cheese and ___.",
+      [
+       "bread"
+      ],
+      "cheese and bread"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter25"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Morning",
+  "minutes": 5,
+  "paras": {
+   "A": "I get up at seven o'clock. I wash my face and brush my teeth. I have breakfast with my family. I eat eggs and bread, and I drink milk. At half past seven, I put on my uniform and go to school."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When does the child get up?",
+      [
+       "At six o'clock",
+       "At seven o'clock",
+       "At eight o'clock"
+      ],
+      1,
+      "get up at seven"
+     ],
+     [
+      "What does the child drink?",
+      [
+       "Tea",
+       "Juice",
+       "Milk"
+      ],
+      2,
+      "drink milk"
+     ],
+     [
+      "What does the child put on?",
+      [
+       "A uniform",
+       "A hat",
+       "A coat"
+      ],
+      0,
+      "put on my uniform"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The child has breakfast alone.",
+      "F",
+      "with my family"
+     ],
+     [
+      "The child brushes his teeth.",
+      "T",
+      "brush my teeth"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I eat eggs and ___.",
+      [
+       "bread"
+      ],
+      "eggs and bread"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter26"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Moon and the Stars",
+  "minutes": 5,
+  "paras": {
+   "A": "At night, the sky is dark. We can see the moon and many stars. The moon is round and white. The stars are small and bright. Some people look at the stars with a telescope. My brother wants to be an astronaut."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When can we see the moon?",
+      [
+       "In the morning",
+       "At night",
+       "At noon"
+      ],
+      1,
+      "At night"
+     ],
+     [
+      "What colour is the moon?",
+      [
+       "Yellow",
+       "Blue",
+       "White"
+      ],
+      2,
+      "round and white"
+     ],
+     [
+      "What does the brother want to be?",
+      [
+       "An astronaut",
+       "A doctor",
+       "A teacher"
+      ],
+      0,
+      "wants to be an astronaut"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The stars are big.",
+      "F",
+      "small and bright"
+     ],
+     [
+      "People use a telescope to see the stars.",
+      "T",
+      "with a telescope"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "At night, the sky is ___.",
+      [
+       "dark"
+      ],
+      "the sky is dark"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter27"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Town",
+  "minutes": 5,
+  "paras": {
+   "A": "I live in a small town. There is a school, a hospital, a bank and a post office. There is also a big park and a market. My town is quiet and clean. There are not many cars. People are friendly."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What kind of town is it?",
+      [
+       "Big",
+       "Small",
+       "Noisy"
+      ],
+      1,
+      "small town"
+     ],
+     [
+      "What is in the town?",
+      [
+       "An airport",
+       "A zoo",
+       "A school and a hospital"
+      ],
+      2,
+      "a school, a hospital, a bank"
+     ],
+     [
+      "What are the people like?",
+      [
+       "Friendly",
+       "Rude",
+       "Sad"
+      ],
+      0,
+      "People are friendly"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The town is noisy.",
+      "F",
+      "quiet and clean"
+     ],
+     [
+      "There is a market in the town.",
+      "T",
+      "a big park and a market"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There are not many ___.",
+      [
+       "cars"
+      ],
+      "not many cars"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter28"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Football Match",
+  "minutes": 5,
+  "paras": {
+   "A": "Today there is a football match at school. Our team wears red shirts. The other team wears white shirts. Ali scores two goals. Our team wins, three to one. Everyone is happy. After the match, the teacher gives us water."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What colour are our team's shirts?",
+      [
+       "White",
+       "Red",
+       "Blue"
+      ],
+      1,
+      "red shirts"
+     ],
+     [
+      "How many goals does Ali score?",
+      [
+       "One",
+       "Three",
+       "Two"
+      ],
+      2,
+      "two goals"
+     ],
+     [
+      "Who gives the children water?",
+      [
+       "The teacher",
+       "The doctor",
+       "The mother"
+      ],
+      0,
+      "the teacher gives us water"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Our team loses the match.",
+      "F",
+      "Our team wins"
+     ],
+     [
+      "The other team wears white shirts.",
+      "T",
+      "white shirts"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "After the match, the teacher gives us ___.",
+      [
+       "water"
+      ],
+      "gives us water"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter29"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Library",
+  "minutes": 5,
+  "paras": {
+   "A": "There is a library near my school. It has many books for children. I go there on Wednesday. I read stories about animals. The librarian is a kind woman. She helps me find books. I can take two books home for one week."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where is the library?",
+      [
+       "In the park",
+       "Near the school",
+       "Near the hospital"
+      ],
+      1,
+      "near my school"
+     ],
+     [
+      "When does the child go?",
+      [
+       "On Friday",
+       "On Sunday",
+       "On Wednesday"
+      ],
+      2,
+      "on Wednesday"
+     ],
+     [
+      "How many books can the child take?",
+      [
+       "Two",
+       "Five",
+       "One"
+      ],
+      0,
+      "two books home"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The librarian is unkind.",
+      "F",
+      "kind woman"
+     ],
+     [
+      "The child reads stories about animals.",
+      "T",
+      "stories about animals"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I can take the books home for one ___.",
+      [
+       "week"
+      ],
+      "for one week"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter30"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "A Summer Holiday",
+  "minutes": 5,
+  "paras": {
+   "A": "In summer, we go to the sea. We stay in a small hotel near the beach. Every day we swim and play in the sand. My father catches fish. In the evening, we eat ice cream. I love the summer holiday."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where do they go?",
+      [
+       "To the mountains",
+       "To the sea",
+       "To a city"
+      ],
+      1,
+      "go to the sea"
+     ],
+     [
+      "What does the father do?",
+      [
+       "He drives a boat",
+       "He plays football",
+       "He catches fish"
+      ],
+      2,
+      "My father catches fish"
+     ],
+     [
+      "What do they eat in the evening?",
+      [
+       "Ice cream",
+       "Fish",
+       "Cake"
+      ],
+      0,
+      "we eat ice cream"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "They stay in a big hotel.",
+      "F",
+      "small hotel"
+     ],
+     [
+      "They swim every day.",
+      "T",
+      "swim and play in the sand"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "They play in the ___.",
+      [
+       "sand"
+      ],
+      "play in the sand"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter31"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Postman",
+  "minutes": 5,
+  "paras": {
+   "A": "Mr Brown is a postman. He works every day except Sunday. He gets up early and goes to the post office. He takes the letters and puts them in a big bag. Then he rides his bike from house to house. People say hello to him."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is Mr Brown's job?",
+      [
+       "Doctor",
+       "Postman",
+       "Driver"
+      ],
+      1,
+      "is a postman"
+     ],
+     [
+      "Which day does he not work?",
+      [
+       "Monday",
+       "Friday",
+       "Sunday"
+      ],
+      2,
+      "except Sunday"
+     ],
+     [
+      "How does he travel?",
+      [
+       "By bike",
+       "By bus",
+       "On foot"
+      ],
+      0,
+      "rides his bike"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "He puts the letters in a big bag.",
+      "T",
+      "big bag"
+     ],
+     [
+      "He starts work late.",
+      "F",
+      "gets up early"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "People say ___ to him.",
+      [
+       "hello"
+      ],
+      "say hello"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter32"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Garden",
+  "minutes": 5,
+  "paras": {
+   "A": "We have a garden behind our house. There are red and yellow flowers. My grandmother waters them every morning. There is a small tree with green apples. A bird sits in the tree and sings. I like to sit in the garden and read."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where is the garden?",
+      [
+       "In front of the house",
+       "Behind the house",
+       "Near the school"
+      ],
+      1,
+      "behind our house"
+     ],
+     [
+      "Who waters the flowers?",
+      [
+       "The father",
+       "The sister",
+       "The grandmother"
+      ],
+      2,
+      "My grandmother waters them"
+     ],
+     [
+      "What is in the tree?",
+      [
+       "A bird",
+       "A cat",
+       "A boy"
+      ],
+      0,
+      "A bird sits in the tree"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The apples are red.",
+      "F",
+      "green apples"
+     ],
+     [
+      "The child reads in the garden.",
+      "T",
+      "sit in the garden and read"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There are red and yellow ___.",
+      [
+       "flowers"
+      ],
+      "red and yellow flowers"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter33"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "New Clothes",
+  "minutes": 5,
+  "paras": {
+   "A": "Today I go shopping with my mother. We go to a clothes shop. I need a new jacket and a pair of jeans. The jacket is grey. The jeans are blue. They cost twenty pounds. I try them on. They are a good size. I am happy."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who goes shopping?",
+      [
+       "The child and the father",
+       "The child and the mother",
+       "The mother and the sister"
+      ],
+      1,
+      "with my mother"
+     ],
+     [
+      "What colour is the jacket?",
+      [
+       "Black",
+       "Blue",
+       "Grey"
+      ],
+      2,
+      "The jacket is grey"
+     ],
+     [
+      "How much do the jeans cost?",
+      [
+       "Twenty pounds",
+       "Ten pounds",
+       "Thirty pounds"
+      ],
+      0,
+      "twenty pounds"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The child needs shoes.",
+      "F",
+      "a new jacket and a pair of jeans"
+     ],
+     [
+      "The jeans are a good size.",
+      "T",
+      "a good size"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I try them ___.",
+      [
+       "on"
+      ],
+      "try them on"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter34"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "What Time Is It?",
+  "minutes": 5,
+  "paras": {
+   "A": "It is seven o'clock in the morning. I get up. At eight o'clock, I go to school. At twelve o'clock, it is lunch time. I come home at three o'clock. At six o'clock, we have dinner. At nine o'clock, I go to bed."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What time does the child go to school?",
+      [
+       "At seven o'clock",
+       "At eight o'clock",
+       "At nine o'clock"
+      ],
+      1,
+      "At eight o'clock, I go to school"
+     ],
+     [
+      "When is lunch time?",
+      [
+       "At one o'clock",
+       "At three o'clock",
+       "At twelve o'clock"
+      ],
+      2,
+      "twelve o'clock, it is lunch time"
+     ],
+     [
+      "When does the child go to bed?",
+      [
+       "At nine o'clock",
+       "At six o'clock",
+       "At ten o'clock"
+      ],
+      0,
+      "At nine o'clock, I go to bed"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The child comes home at three o'clock.",
+      "T",
+      "I come home at three o'clock"
+     ],
+     [
+      "They have dinner at eight o'clock.",
+      "F",
+      "At six o'clock, we have dinner"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "It is ___ o'clock in the morning.",
+      [
+       "seven"
+      ],
+      "It is seven o'clock"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter35"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "My Pet Fish",
+  "minutes": 5,
+  "paras": {
+   "A": "I have two pet fish. They live in a glass tank. One fish is orange and the other is silver. I give them food every morning and every evening. My sister likes to watch them. She says they are beautiful."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How many fish does the child have?",
+      [
+       "One",
+       "Two",
+       "Three"
+      ],
+      1,
+      "two pet fish"
+     ],
+     [
+      "Where do the fish live?",
+      [
+       "In a river",
+       "In a bowl of milk",
+       "In a glass tank"
+      ],
+      2,
+      "glass tank"
+     ],
+     [
+      "When does the child feed them?",
+      [
+       "Morning and evening",
+       "Only at night",
+       "Once a week"
+      ],
+      0,
+      "every morning and every evening"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "One fish is silver.",
+      "T",
+      "the other is silver"
+     ],
+     [
+      "The sister does not like the fish.",
+      "F",
+      "likes to watch them"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "One fish is ___.",
+      [
+       "orange"
+      ],
+      "One fish is orange"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter36"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Ice Cream",
+  "minutes": 5,
+  "paras": {
+   "A": "It is a hot day. Tim and his sister go to the ice cream shop. Tim chooses chocolate and his sister chooses strawberry. The ice cream is cold and sweet. They sit on a bench and eat it. A little dog looks at them. Tim gives the dog a small piece."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the weather like?",
+      [
+       "Cold",
+       "Hot",
+       "Rainy"
+      ],
+      1,
+      "hot day"
+     ],
+     [
+      "What does Tim choose?",
+      [
+       "Strawberry",
+       "Vanilla",
+       "Chocolate"
+      ],
+      2,
+      "Tim chooses chocolate"
+     ],
+     [
+      "Who looks at them?",
+      [
+       "A little dog",
+       "A bird",
+       "A cat"
+      ],
+      0,
+      "A little dog looks at them"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The ice cream is hot.",
+      "F",
+      "cold and sweet"
+     ],
+     [
+      "The sister chooses strawberry.",
+      "T",
+      "his sister chooses strawberry"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "They sit on a ___.",
+      [
+       "bench"
+      ],
+      "sit on a bench"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter37"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Learning English",
+  "minutes": 5,
+  "paras": {
+   "A": "I study English at school. We have English lessons three times a week. Our teacher is Miss Jones. She is from Canada. We sing songs and play word games. I know many words now. My favourite word is 'elephant'."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How often are the English lessons?",
+      [
+       "Every day",
+       "Three times a week",
+       "Once a week"
+      ],
+      1,
+      "three times a week"
+     ],
+     [
+      "Where is the teacher from?",
+      [
+       "America",
+       "England",
+       "Canada"
+      ],
+      2,
+      "from Canada"
+     ],
+     [
+      "What is the favourite word?",
+      [
+       "Elephant",
+       "Monkey",
+       "Tiger"
+      ],
+      0,
+      "favourite word is 'elephant'"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The children sing songs in English lessons.",
+      "T",
+      "sing songs"
+     ],
+     [
+      "The teacher's name is Mrs Smith.",
+      "F",
+      "Miss Jones"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I know many ___ now.",
+      [
+       "words"
+      ],
+      "know many words"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter38"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "A Telephone Call",
+  "minutes": 5,
+  "paras": {
+   "A": "The telephone rings. It is my grandmother. She says, 'Hello! How are you?' I say, 'I am fine, thank you.' She asks about school. I tell her about my new friend. She is happy. She says, 'Come to my house on Saturday.'"
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who calls?",
+      [
+       "The teacher",
+       "The grandmother",
+       "A friend"
+      ],
+      1,
+      "It is my grandmother"
+     ],
+     [
+      "What does she ask about?",
+      [
+       "The weather",
+       "Food",
+       "School"
+      ],
+      2,
+      "asks about school"
+     ],
+     [
+      "When should the child visit?",
+      [
+       "On Saturday",
+       "On Sunday",
+       "On Friday"
+      ],
+      0,
+      "on Saturday"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The child is fine.",
+      "T",
+      "I am fine"
+     ],
+     [
+      "The grandmother is sad.",
+      "F",
+      "She is happy"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The telephone ___.",
+      [
+       "rings"
+      ],
+      "The telephone rings"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter39"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Camping",
+  "minutes": 5,
+  "paras": {
+   "A": "We go camping in the mountains. We put up a tent near a river. My father makes a fire. We cook sausages and eat them with bread. At night, the sky is full of stars. We sleep in the tent. In the morning, we hear the birds."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where do they go camping?",
+      [
+       "At the sea",
+       "In the mountains",
+       "In a city"
+      ],
+      1,
+      "in the mountains"
+     ],
+     [
+      "What does the father make?",
+      [
+       "A bed",
+       "A boat",
+       "A fire"
+      ],
+      2,
+      "makes a fire"
+     ],
+     [
+      "What do they hear in the morning?",
+      [
+       "Birds",
+       "Cars",
+       "Rain"
+      ],
+      0,
+      "hear the birds"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "They sleep in a hotel.",
+      "F",
+      "sleep in the tent"
+     ],
+     [
+      "The tent is near a river.",
+      "T",
+      "near a river"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "We cook ___.",
+      [
+       "sausages"
+      ],
+      "cook sausages"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter40"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Bedtime",
+  "minutes": 5,
+  "paras": {
+   "A": "At nine o'clock, I go to bed. First, I brush my teeth. Then I put on my pyjamas. My mother reads me a story. Tonight it is a story about a little rabbit. I close my eyes. Soon I am asleep."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When does the child go to bed?",
+      [
+       "At eight o'clock",
+       "At nine o'clock",
+       "At ten o'clock"
+      ],
+      1,
+      "At nine o'clock"
+     ],
+     [
+      "What does the mother do?",
+      [
+       "She sings a song",
+       "She plays a game",
+       "She reads a story"
+      ],
+      2,
+      "reads me a story"
+     ],
+     [
+      "What is the story about?",
+      [
+       "A little rabbit",
+       "A big bear",
+       "A bird"
+      ],
+      0,
+      "little rabbit"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The child brushes his teeth first.",
+      "T",
+      "First, I brush my teeth"
+     ],
+     [
+      "The child watches television.",
+      "F",
+      "My mother reads me a story"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Then I put on my ___.",
+      [
+       "pyjamas"
+      ],
+      "put on my pyjamas"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter41"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "On the Farm",
+  "minutes": 5,
+  "paras": {
+   "A": "My uncle has a farm. There are cows, sheep and chickens on it. The cows give milk. The chickens give eggs. Every morning, my uncle feeds the animals. There is also a big black horse called Star. I ride Star in the summer."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who has a farm?",
+      [
+       "The father",
+       "The uncle",
+       "The teacher"
+      ],
+      1,
+      "My uncle has a farm"
+     ],
+     [
+      "What do the chickens give?",
+      [
+       "Milk",
+       "Wool",
+       "Eggs"
+      ],
+      2,
+      "The chickens give eggs"
+     ],
+     [
+      "What is the horse's name?",
+      [
+       "Star",
+       "Black",
+       "Max"
+      ],
+      0,
+      "called Star"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The cows give milk.",
+      "T",
+      "The cows give milk"
+     ],
+     [
+      "The horse is white.",
+      "F",
+      "big black horse"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Every morning, my uncle ___ the animals.",
+      [
+       "feeds"
+      ],
+      "feeds the animals"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter42"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Helping at Home",
+  "minutes": 5,
+  "paras": {
+   "A": "I help my mother at home. On Monday, I wash the plates. On Tuesday, I clean my room. On Wednesday, I water the flowers. On Saturday, I go to the shop with my father. My parents say, 'Thank you. You are a good boy.'"
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What does the child do on Monday?",
+      [
+       "Cleans the room",
+       "Washes the plates",
+       "Waters the flowers"
+      ],
+      1,
+      "On Monday, I wash the plates"
+     ],
+     [
+      "When does he clean his room?",
+      [
+       "On Friday",
+       "On Sunday",
+       "On Tuesday"
+      ],
+      2,
+      "On Tuesday, I clean my room"
+     ],
+     [
+      "Who goes to the shop?",
+      [
+       "The boy and his father",
+       "The boy and his mother",
+       "The mother and father"
+      ],
+      0,
+      "to the shop with my father"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The boy waters the flowers on Wednesday.",
+      "T",
+      "On Wednesday, I water the flowers"
+     ],
+     [
+      "The parents are angry.",
+      "F",
+      "Thank you"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I help my ___ at home.",
+      [
+       "mother"
+      ],
+      "I help my mother"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter43"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Train",
+  "minutes": 5,
+  "paras": {
+   "A": "Sam and his father take a train to the city. The train is long and fast. Sam sits next to the window. He sees fields, rivers and small villages. The journey takes two hours. At the station, his aunt waits for them."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where do they go?",
+      [
+       "To the sea",
+       "To the city",
+       "To a village"
+      ],
+      1,
+      "train to the city"
+     ],
+     [
+      "Where does Sam sit?",
+      [
+       "Next to the door",
+       "Next to his aunt",
+       "Next to the window"
+      ],
+      2,
+      "next to the window"
+     ],
+     [
+      "How long is the journey?",
+      [
+       "Two hours",
+       "Four hours",
+       "One hour"
+      ],
+      0,
+      "two hours"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The train is slow.",
+      "F",
+      "long and fast"
+     ],
+     [
+      "Sam sees rivers.",
+      "T",
+      "fields, rivers and small villages"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "At the station, his ___ waits for them.",
+      [
+       "aunt"
+      ],
+      "his aunt waits"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter44"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Sunday Lunch",
+  "minutes": 5,
+  "paras": {
+   "A": "On Sunday, the whole family eats lunch together. My grandmother cooks chicken and potatoes. My aunt brings a salad. My uncle brings fruit. We sit at a long table. After lunch, the adults drink tea and the children play in the garden."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When does the family eat together?",
+      [
+       "On Friday",
+       "On Sunday",
+       "On Monday"
+      ],
+      1,
+      "On Sunday"
+     ],
+     [
+      "What does the grandmother cook?",
+      [
+       "Fish and rice",
+       "Soup",
+       "Chicken and potatoes"
+      ],
+      2,
+      "chicken and potatoes"
+     ],
+     [
+      "What does the uncle bring?",
+      [
+       "Fruit",
+       "Salad",
+       "Bread"
+      ],
+      0,
+      "My uncle brings fruit"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The children play in the garden.",
+      "T",
+      "children play in the garden"
+     ],
+     [
+      "The aunt brings fruit.",
+      "F",
+      "My aunt brings a salad"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "We sit at a long ___.",
+      [
+       "table"
+      ],
+      "a long table"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter45"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "A New Girl in Class",
+  "minutes": 5,
+  "paras": {
+   "A": "There is a new girl in our class. Her name is Mina. She is from Turkey. She speaks Turkish and a little English. The teacher asks me to help her. I show her the classroom and the library. At lunch, she sits with us. Now she is my friend."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the new girl's name?",
+      [
+       "Dina",
+       "Mina",
+       "Lina"
+      ],
+      1,
+      "Her name is Mina"
+     ],
+     [
+      "Where is she from?",
+      [
+       "Spain",
+       "Canada",
+       "Turkey"
+      ],
+      2,
+      "from Turkey"
+     ],
+     [
+      "Who helps her?",
+      [
+       "The writer",
+       "The teacher",
+       "A boy"
+      ],
+      0,
+      "The teacher asks me to help her"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Mina speaks a little English.",
+      "T",
+      "a little English"
+     ],
+     [
+      "Mina sits alone at lunch.",
+      "F",
+      "she sits with us"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I show her the classroom and the ___.",
+      [
+       "library"
+      ],
+      "the classroom and the library"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter46"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Shapes",
+  "minutes": 5,
+  "paras": {
+   "A": "There are many shapes around us. A ball is round. A box is square. A door is a rectangle. A pizza is round, but a slice of pizza is a triangle. Look at the window. What shape is it? It is a square, too."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What shape is a ball?",
+      [
+       "Square",
+       "Round",
+       "Long"
+      ],
+      1,
+      "A ball is round"
+     ],
+     [
+      "What shape is a slice of pizza?",
+      [
+       "A circle",
+       "A square",
+       "A triangle"
+      ],
+      2,
+      "slice of pizza is a triangle"
+     ],
+     [
+      "What shape is a door?",
+      [
+       "A rectangle",
+       "A circle",
+       "A triangle"
+      ],
+      0,
+      "A door is a rectangle"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "A box is square.",
+      "T",
+      "A box is square"
+     ],
+     [
+      "A ball is a triangle.",
+      "F",
+      "A ball is round"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "What ___ is the window?",
+      [
+       "shape"
+      ],
+      "What shape is it"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter47"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "The Zoo Keeper",
+  "minutes": 5,
+  "paras": {
+   "A": "Mr Green works at the zoo. He looks after the animals. Every day, he gives the monkeys fruit and the lions meat. He cleans their houses. He likes his job, but it is hard work. At the end of the day, he is very tired."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where does Mr Green work?",
+      [
+       "At a farm",
+       "At the zoo",
+       "At a school"
+      ],
+      1,
+      "works at the zoo"
+     ],
+     [
+      "What does he give the lions?",
+      [
+       "Fruit",
+       "Fish",
+       "Meat"
+      ],
+      2,
+      "the lions meat"
+     ],
+     [
+      "How does he feel at the end of the day?",
+      [
+       "Tired",
+       "Angry",
+       "Sad"
+      ],
+      0,
+      "very tired"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "He cleans the animals' houses.",
+      "T",
+      "cleans their houses"
+     ],
+     [
+      "His job is easy.",
+      "F",
+      "hard work"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "He looks ___ the animals.",
+      [
+       "after"
+      ],
+      "looks after the animals"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter48"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "A Birthday Invitation",
+  "minutes": 5,
+  "paras": {
+   "A": "Dear Ben, I am nine on Saturday. Please come to my party. It is at my house at four o'clock. There will be a cake, games and music. Please bring a swimming costume because we will swim in our pool. See you on Saturday! Your friend, Leo."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When is the party?",
+      [
+       "On Sunday",
+       "On Saturday",
+       "On Friday"
+      ],
+      1,
+      "on Saturday"
+     ],
+     [
+      "What time does it start?",
+      [
+       "At two o'clock",
+       "At six o'clock",
+       "At four o'clock"
+      ],
+      2,
+      "at four o'clock"
+     ],
+     [
+      "What should Ben bring?",
+      [
+       "A swimming costume",
+       "A cake",
+       "A game"
+      ],
+      0,
+      "bring a swimming costume"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Leo is nine.",
+      "T",
+      "I am nine"
+     ],
+     [
+      "The party is at a restaurant.",
+      "F",
+      "at my house"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There will be a cake, games and ___.",
+      [
+       "music"
+      ],
+      "games and music"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter49"
+ },
+ {
+  "level": "Starter",
+  "lv": "starter",
+  "cefr": "A0–A1",
+  "title": "Tashkent",
+  "minutes": 5,
+  "paras": {
+   "A": "Tashkent is the capital of Uzbekistan. It is a big and green city. There are many parks, fountains and wide streets. People travel by metro, bus and car. The metro stations are beautiful. In spring, the city is full of flowers."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is Tashkent?",
+      [
+       "A small village",
+       "The capital of Uzbekistan",
+       "A river"
+      ],
+      1,
+      "the capital of Uzbekistan"
+     ],
+     [
+      "How do people travel?",
+      [
+       "By boat",
+       "By plane",
+       "By metro, bus and car"
+      ],
+      2,
+      "metro, bus and car"
+     ],
+     [
+      "When is the city full of flowers?",
+      [
+       "In spring",
+       "In winter",
+       "In autumn"
+      ],
+      0,
+      "In spring"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Tashkent is a small city.",
+      "F",
+      "big and green"
+     ],
+     [
+      "The metro stations are beautiful.",
+      "T",
+      "The metro stations are beautiful"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "There are many parks, ___ and wide streets.",
+      [
+       "fountains"
+      ],
+      "parks, fountains and wide streets"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "starter50"
+ }
+]

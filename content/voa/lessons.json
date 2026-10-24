@@ -1,0 +1,153 @@
+[
+  {
+    "seed_key": "eviu-elementary:u1a",
+    "title": "Pete and Anna — Welcome!",
+    "audio_url": "/audio/voa/voa-l1-conversation.mp3",
+    "credit": "Source: VOA Learning English — Let's Learn English, Level 1, Lesson 1 (public domain)",
+    "source_url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-one/3111026.html",
+    "transcript": "Hi! Are you Anna? Yes! Hi there! Are you Pete? I am Pete. Nice to meet you. Let's try that again. I'm Anna. Nice to meet you. I'm Pete. Anna. Is that A-N-A? No. A-N-N-A. Well, Anna with two n's. Welcome to fourteen hundred Irving Street! My new apartment! Yes!",
+    "questions": [
+      {
+        "question": "What is the woman's name?",
+        "options": [
+          "Anna",
+          "Pete",
+          "Irving",
+          "Nina"
+        ],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "What is the man's name?",
+        "options": [
+          "Anna",
+          "Pete",
+          "Peter",
+          "Steve"
+        ],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "How do you spell Anna's name?",
+        "options": [
+          "A-N-A",
+          "A-N-N-A",
+          "A-N-N",
+          "H-A-N-A"
+        ],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "What do they say when they meet?",
+        "options": [
+          "Good night.",
+          "Nice to meet you.",
+          "See you later.",
+          "I am sorry."
+        ],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Where are they?",
+        "options": [
+          "At a school",
+          "At a restaurant",
+          "At Anna's new apartment",
+          "At a hospital"
+        ],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "True or false: Anna's name has two n's.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "What does Pete say at the end?",
+        "options": [
+          "Welcome to 1400 Irving Street!",
+          "Goodbye, Anna!",
+          "I am hungry.",
+          "Where is the bus?"
+        ],
+        "correct_answer_index": 0
+      }
+    ],
+    "fill": [
+      {
+        "sentence_with_blank": "Nice to ___ you.",
+        "options": [
+          "meet",
+          "eat",
+          "go"
+        ],
+        "correct_word": "meet"
+      },
+      {
+        "sentence_with_blank": "I ___ Pete.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correct_word": "am"
+      },
+      {
+        "sentence_with_blank": "___ you Anna?",
+        "options": [
+          "Are",
+          "Is",
+          "Am"
+        ],
+        "correct_word": "Are"
+      },
+      {
+        "sentence_with_blank": "Welcome ___ my new apartment!",
+        "options": [
+          "to",
+          "at",
+          "in"
+        ],
+        "correct_word": "to"
+      }
+    ],
+    "dictation": [],
+    "writing": {
+      "question": "O'zingizni tanishtiring (inglizcha): \"Hi! I'm ... Nice to meet you.\"",
+      "must_words": [
+        "nice",
+        "meet"
+      ],
+      "min_words": 4
+    },
+    "speaking": {
+      "question_text": "Say it aloud: \"Hi! I'm Anna. Nice to meet you.\" (Use your own name.)",
+      "hint_words": [
+        "Hi",
+        "I'm",
+        "Nice to meet you"
+      ]
+    },
+    "gaps": [
+      {
+        "sentence_with_blank": "Hi! Are you ___?",
+        "correct_word": "Anna"
+      },
+      {
+        "sentence_with_blank": "I am ___.",
+        "correct_word": "Pete"
+      },
+      {
+        "sentence_with_blank": "Nice to ___ you.",
+        "correct_word": "meet"
+      },
+      {
+        "sentence_with_blank": "My new ___! Yes!",
+        "correct_word": "apartment"
+      }
+    ]
+  }
+]

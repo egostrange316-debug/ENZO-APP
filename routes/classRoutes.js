@@ -18,6 +18,7 @@ router.get('/table', c.resultsTable);
 router.post('/avatar', imageUpload('avatar'), c.setAvatar);
 router.get('/attendance', c.getAttendance);
 router.put('/attendance', (req, res, next) => (req.user.role === 'admin' ? next() : res.status(403).json({ message: 'Faqat Admin' })), c.markAttendance);
+router.post('/attendance/bulk', adminOnly, c.markAttendanceBulk);
 router.get('/homework', c.listHomework);
 router.post('/homework', adminOnly, c.createHomework);
 router.delete('/homework/:id', adminOnly, c.deleteHomework);

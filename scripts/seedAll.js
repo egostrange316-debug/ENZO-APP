@@ -13,6 +13,8 @@ const mongoose = require('mongoose');
 const User = require('../models/User');
 const { seedPack } = require('../lib/bookSeed');
 const { buildExams } = require('../lib/examBuilder');
+const { seedVoa } = require('../lib/voaSeed');
+const { seedReadings } = require('../lib/readingSeed');
 
 const LAYOUT = [
   { pack: 'eviu-elementary', level: 'beginner', split: true, from: 1, to: 30 },
@@ -29,6 +31,8 @@ async function seedAll(uploader, log = console.log) {
     log(`${l.level}: ${r.sets} to'plam, ${r.placed.length} kunga joylandi, sig'magani ${r.overflow}`);
     out.push({ level: l.level, ...r });
   }
+  await seedVoa(log);
+  await seedReadings(log);
   const ex = await buildExams(log);
   return { levels: out, exams: ex };
 }

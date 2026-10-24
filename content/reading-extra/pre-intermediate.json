@@ -1,0 +1,3326 @@
+[
+ {
+  "target": "kw-preintermediate:u10",
+  "title": "Building a House",
+  "cefr": "B1",
+  "text": "When Mark was twenty-five, he decided to sell his flat and build a house with his brother Paul. It took almost two years, because the brothers worked on it only at weekends. At first, they planned to share the house, but when Paul got married, he moved out. \"I will stay at your house at weekends,\" he promised. Mark painted the house himself. The walls inside were pale yellow and the front door was green. The only problem was the stairs. There was a long flight of stairs between the kitchen and the bedrooms, and on the first night Mark's cat fell down the stairs! Luckily, it was not hurt. Now Mark loves living in his new house, and he is thinking about painting the top of the stairs a bright colour to make them easier to see.",
+  "key_words": [
+   {
+    "word": "build a house",
+    "translation_uz": "uy qurmoq"
+   },
+   {
+    "word": "share a house",
+    "translation_uz": "uyni birga bo'lishmoq (birga yashamoq)"
+   },
+   {
+    "word": "flight of stairs",
+    "translation_uz": "zina (bir marshli)"
+   },
+   {
+    "word": "top of the stairs",
+    "translation_uz": "zinaning yuqori qismi"
+   },
+   {
+    "word": "fell down the stairs",
+    "translation_uz": "zinadan yiqilib tushdi"
+   },
+   {
+    "word": "luckily",
+    "translation_uz": "omadiga"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How long did it take to build the house?",
+    "options": [
+     "About ten years",
+     "One year exactly",
+     "Almost two years",
+     "Six months"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “It took almost two years”"
+   },
+   {
+    "question": "Why did Paul move out?",
+    "options": [
+     "He got married",
+     "He found a new job",
+     "He did not like the stairs",
+     "He sold his flat"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “when Paul got married, he moved out”"
+   },
+   {
+    "question": "What was the only problem with the house?",
+    "options": [
+     "The front door",
+     "The stairs",
+     "The kitchen",
+     "The roof"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The only problem was the stairs.”"
+   },
+   {
+    "question": "[True / False / Not Given] Mark painted the house himself.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Mark painted the house himself.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The front door was yellow.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the front door was green” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Mark has a dog as well as a cat.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "On the first night, Mark's cat fell down the ___.",
+    "correct_word": "stairs",
+    "accept": [
+     "stair"
+    ],
+    "explanation": "Matnda: “fell down the stairs”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u36",
+  "title": "A Rainy Holiday",
+  "cefr": "B1",
+  "text": "The Walker family planned a week at the seaside, but the weather forecast was bad. On Monday it was pouring with rain, so they stayed in the hotel and played cards. On Tuesday there was heavy rain again, and the children were bored. \"Let's go out,\" said their father. \"We cannot wait for the rain to stop for ever.\" They took an umbrella each and walked to the town. Of course, they were caught in the rain and everybody got wet. But they found a small café, drank hot chocolate and laughed a lot. By the afternoon it had stopped raining, and for the rest of the week it was sunny. Mrs Walker says that the best day of the holiday was the wet one. \"Rain or shine, we will go again next year,\" she says.",
+  "key_words": [
+   {
+    "word": "pouring with rain",
+    "translation_uz": "shamday yomg'ir yog'moqda"
+   },
+   {
+    "word": "heavy rain",
+    "translation_uz": "kuchli yomg'ir"
+   },
+   {
+    "word": "be caught in the rain",
+    "translation_uz": "yomg'irga qolmoq"
+   },
+   {
+    "word": "got wet",
+    "translation_uz": "ho'l bo'ldi (get wet)"
+   },
+   {
+    "word": "stop raining",
+    "translation_uz": "yomg'ir to'xtamoq"
+   },
+   {
+    "word": "rain or shine",
+    "translation_uz": "yomg'ir bo'lsin, quyosh bo'lsin"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did the family do on Monday?",
+    "options": [
+     "They went swimming",
+     "They walked to the town",
+     "They visited a museum",
+     "They stayed in the hotel and played cards"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “so they stayed in the hotel and played cards”"
+   },
+   {
+    "question": "What did the father suggest on Tuesday?",
+    "options": [
+     "To go home",
+     "To play cards again",
+     "To stay in the hotel",
+     "To go out in the rain"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “\"Let's go out,\" said their father.”"
+   },
+   {
+    "question": "What happened in the town?",
+    "options": [
+     "They lost an umbrella",
+     "They were caught in the rain",
+     "They missed the bus",
+     "They met some friends"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “they were caught in the rain”"
+   },
+   {
+    "question": "[True / False / Not Given] It was sunny for the rest of the week.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “for the rest of the week it was sunny” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The family had a bad time in the café.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “drank hot chocolate and laughed a lot” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The family stayed in an expensive hotel.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Mrs Walker says: \"Rain or ___, we will go again next year.\"",
+    "correct_word": "shine",
+    "accept": [
+     "shines"
+    ],
+    "explanation": "Matnda: “Rain or shine, we will go again next year”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u46",
+  "title": "Lost in the Forest",
+  "cefr": "B1",
+  "text": "Last summer, Jenny and her friends went to a mountain village to climb a mountain. At the foot of the mountain there was a thick forest, and a path led through it. The guide told them, \"Stay together. It is easy to get lost in the forest.\" But Jenny walked slowly and took photos, and after half an hour she could not see the others. She called, but nobody answered. She remembered her father's advice: stay calm and do not leave the path. After an hour she heard voices, and the group found her. At the top of the mountain, everybody was tired but happy. The guide told them that there was a forest fire in the area last year, and many trees are still black. Jenny decided never to walk alone again.",
+  "key_words": [
+   {
+    "word": "mountain village",
+    "translation_uz": "tog'li qishloq"
+   },
+   {
+    "word": "climb a mountain",
+    "translation_uz": "tog'ga chiqmoq"
+   },
+   {
+    "word": "at the foot of",
+    "translation_uz": "... etagida"
+   },
+   {
+    "word": "thick forest",
+    "translation_uz": "quuyuq o'rmon"
+   },
+   {
+    "word": "get lost",
+    "translation_uz": "adashib qolmoq"
+   },
+   {
+    "word": "forest fire",
+    "translation_uz": "o'rmon yong'ini"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where was the thick forest?",
+    "options": [
+     "At the top of the mountain",
+     "In the village",
+     "At the foot of the mountain",
+     "Near the hotel"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “At the foot of the mountain there was a thick forest”"
+   },
+   {
+    "question": "Why did Jenny lose the group?",
+    "options": [
+     "She walked slowly and took photos",
+     "She sat down to sleep",
+     "She ran too fast",
+     "She took a different path"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Jenny walked slowly and took photos”"
+   },
+   {
+    "question": "What was her father's advice?",
+    "options": [
+     "Walk back to the village",
+     "Climb a tree",
+     "Stay calm and do not leave the path",
+     "Call the police"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “stay calm and do not leave the path”"
+   },
+   {
+    "question": "What did the guide say about the area?",
+    "options": [
+     "There was a forest fire there last year",
+     "The mountain is closed",
+     "It never rains there",
+     "There are no animals there"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “there was a forest fire in the area last year”"
+   },
+   {
+    "question": "[True / False / Not Given] The group found Jenny after about an hour.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “After an hour she heard voices, and the group found her.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Jenny's friends were angry with her.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Jenny decided never to walk ___ again.",
+    "correct_word": "alone",
+    "accept": [
+     "alones"
+    ],
+    "explanation": "Matnda: “Jenny decided never to walk alone again.”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u61",
+  "title": "The Last Train",
+  "cefr": "B1",
+  "text": "Dan had an important job interview in another city, so he decided to catch the early train at a quarter to seven. He set his alarm, but it did not ring. When he woke up, it was already half past six. He ran to the station, but he missed the train by two minutes. The next train was an hour later, and he knew he would be late. At the ticket office, a kind woman told him, \"There is a fast train from platform two. You can change trains in the next city and arrive on time.\" Dan followed her advice. The fast train was ten minutes late, but he got off at the right station, took a taxi and arrived at the interview just in time. \"I learned a lesson,\" he said afterwards. \"Next time I will buy a second alarm clock.\"",
+  "key_words": [
+   {
+    "word": "catch a train",
+    "translation_uz": "poyezdga ulgurmoq"
+   },
+   {
+    "word": "miss the train",
+    "translation_uz": "poyezdga kechikmoq"
+   },
+   {
+    "word": "change trains",
+    "translation_uz": "poyezdni almashtirmoq"
+   },
+   {
+    "word": "got off",
+    "translation_uz": "tushdi (get off – (transportdan) tushmoq)"
+   },
+   {
+    "word": "a train is late",
+    "translation_uz": "poyezd kechikmoqda"
+   },
+   {
+    "word": "platform",
+    "translation_uz": "platforma"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did Dan wake up late?",
+    "options": [
+     "He went to bed very late",
+     "His alarm did not ring",
+     "He lost his ticket",
+     "He was ill"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “He set his alarm, but it did not ring.”"
+   },
+   {
+    "question": "By how much did Dan miss the first train?",
+    "options": [
+     "By an hour",
+     "By half an hour",
+     "By ten minutes",
+     "By two minutes"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “he missed the train by two minutes”"
+   },
+   {
+    "question": "What advice did the woman give Dan?",
+    "options": [
+     "Take the fast train and change trains",
+     "Take a taxi to the interview",
+     "Go home",
+     "Wait for the next train"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “There is a fast train from platform two. You can change trains in the next city”"
+   },
+   {
+    "question": "How did Dan get from the station to the interview?",
+    "options": [
+     "On foot",
+     "By bus",
+     "By taxi",
+     "By bicycle"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “took a taxi and arrived at the interview just in time”"
+   },
+   {
+    "question": "[True / False / Not Given] Dan arrived at the interview just in time.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “arrived at the interview just in time” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Dan got the job.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Dan says he will buy a second alarm ___.",
+    "correct_word": "clock",
+    "accept": [
+     "clocks"
+    ],
+    "explanation": "Matnda: “I will buy a second alarm clock”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u76",
+  "title": "Running a Restaurant",
+  "cefr": "B1",
+  "text": "Rosa runs a small Italian restaurant in the town centre. It is very popular, and at weekends it is difficult to reserve a table. Rosa works there with her husband, who is the chef, and two waiters. Her two children help at the weekend. She says that running a restaurant is hard work. She gets up at six o'clock to buy fresh vegetables at the market, and she often goes home after midnight. \"Many people think it is easy to work in a restaurant,\" she says, \"but a good restaurant manager has to think about everything: the food, the prices and the customers.\" Last year, a big fast-food restaurant opened next door. Rosa was worried, but nothing happened. Her customers like her pasta and the friendly service, and they come back again and again.",
+  "key_words": [
+   {
+    "word": "run a restaurant",
+    "translation_uz": "restoran yuritmoq"
+   },
+   {
+    "word": "reserve a table",
+    "translation_uz": "stol band qilmoq"
+   },
+   {
+    "word": "popular",
+    "translation_uz": "mashhur"
+   },
+   {
+    "word": "manager",
+    "translation_uz": "boshqaruvchi"
+   },
+   {
+    "word": "fast-food restaurant",
+    "translation_uz": "tez ovqatlanish restorani"
+   },
+   {
+    "word": "customer",
+    "translation_uz": "mijoz"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What kind of restaurant does Rosa run?",
+    "options": [
+     "A hotel restaurant",
+     "A small Italian restaurant",
+     "A fast-food restaurant",
+     "A big Chinese restaurant"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Rosa runs a small Italian restaurant”"
+   },
+   {
+    "question": "Why does Rosa get up at six o'clock?",
+    "options": [
+     "To cook breakfast",
+     "To clean the restaurant",
+     "To meet the waiters",
+     "To buy fresh vegetables at the market"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “She gets up at six o'clock to buy fresh vegetables at the market”"
+   },
+   {
+    "question": "What did Rosa feel when the fast-food restaurant opened?",
+    "options": [
+     "She was happy",
+     "She wanted to close",
+     "She was angry with her husband",
+     "She was worried"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Rosa was worried”"
+   },
+   {
+    "question": "Why do customers come back?",
+    "options": [
+     "The prices are very low",
+     "They like the pasta and the friendly service",
+     "It is next to the market",
+     "The restaurant is open all night"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Her customers like her pasta and the friendly service”"
+   },
+   {
+    "question": "[True / False / Not Given] It is easy to reserve a table at weekends.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “at weekends it is difficult to reserve a table” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Rosa's husband is the chef.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “her husband, who is the chef” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Rosa works with her husband and two ___.",
+    "correct_word": "waiters",
+    "accept": [
+     "waiter"
+    ],
+    "explanation": "Matnda: “her husband, who is the chef, and two waiters”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u91",
+  "title": "Customers Come First",
+  "cefr": "B1",
+  "text": "Ali has worked in a supermarket for two years. At the beginning, he filled the shelves and pushed the supermarket trolleys back to the entrance. Now he works at the checkout, and he enjoys it. \"You meet all kinds of people,\" he says. \"Some customers are in a hurry, others want to talk.\" He knows many regular customers by name. One old man comes every Tuesday and always buys the same things: bread, milk and a newspaper. Ali's manager says that good customer service is the most important thing. \"Prices attract customers, but a smile makes them come back,\" she tells her staff. Ali agrees. Last month, a customer lost her wallet, and he helped her to find it. She wrote a thank-you letter to the manager, and Ali felt very proud.",
+  "key_words": [
+   {
+    "word": "supermarket checkout",
+    "translation_uz": "supermarket kassasi"
+   },
+   {
+    "word": "trolley",
+    "translation_uz": "savat (aravacha)"
+   },
+   {
+    "word": "regular customer",
+    "translation_uz": "doimiy mijoz"
+   },
+   {
+    "word": "customer service",
+    "translation_uz": "mijozlarga xizmat"
+   },
+   {
+    "word": "attract customers",
+    "translation_uz": "mijozlarni jalb qilmoq"
+   },
+   {
+    "word": "shelves",
+    "translation_uz": "javonlar"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did Ali do at the beginning?",
+    "options": [
+     "He filled the shelves",
+     "He was the manager",
+     "He cleaned the car park",
+     "He worked at the checkout"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “he filled the shelves”"
+   },
+   {
+    "question": "What does the old man buy every Tuesday?",
+    "options": [
+     "Fruit and vegetables",
+     "Only a newspaper",
+     "Bread, milk and a newspaper",
+     "Meat and rice"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “always buys the same things: bread, milk and a newspaper”"
+   },
+   {
+    "question": "What does the manager think is most important?",
+    "options": [
+     "New trolleys",
+     "Good customer service",
+     "A big car park",
+     "Low prices"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “good customer service is the most important thing”"
+   },
+   {
+    "question": "What did Ali do last month?",
+    "options": [
+     "He helped a customer to find her wallet",
+     "He met the manager's family",
+     "He closed the supermarket",
+     "He found a new job"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a customer lost her wallet, and he helped her to find it”"
+   },
+   {
+    "question": "[True / False / Not Given] Ali now works at the checkout.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Now he works at the checkout” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Ali earns more money than his manager.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "\"Prices attract customers, but a ___ makes them come back.\"",
+    "correct_word": "smile",
+    "accept": [
+     "smiles"
+    ],
+    "explanation": "Matnda: “a smile makes them come back”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u146",
+  "title": "A Night in Hospital",
+  "cefr": "B1",
+  "text": "Last winter, Sofia had a bad pain in her stomach. At first, she did not want to see a doctor, but in the evening the pain was worse. Her husband called a doctor, and the doctor told them to go to the hospital at once. In the hospital, a nurse took her to a hospital bed and a young doctor examined her. \"It is appendicitis,\" he said. \"We must operate tonight.\" The operation went well. Sofia stayed in hospital for three days. Her family visited her every afternoon and brought her flowers and books. When she was ready to leave hospital, the doctor told her to rest at home for two weeks. \"And next time,\" he said with a smile, \"please make an appointment with your family doctor before the pain is so bad.\"",
+  "key_words": [
+   {
+    "word": "see a doctor",
+    "translation_uz": "shifokorga ko'rinmoq"
+   },
+   {
+    "word": "call a doctor",
+    "translation_uz": "shifokorni chaqirmoq"
+   },
+   {
+    "word": "hospital bed",
+    "translation_uz": "kasalxona karavoti"
+   },
+   {
+    "word": "be in hospital",
+    "translation_uz": "kasalxonada yotmoq"
+   },
+   {
+    "word": "leave hospital",
+    "translation_uz": "kasalxonadan chiqmoq"
+   },
+   {
+    "word": "make an appointment",
+    "translation_uz": "qabulga yozilmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did Sofia go to the hospital?",
+    "options": [
+     "She had a headache",
+     "She had a cold",
+     "She had a bad pain in her stomach",
+     "She had a broken leg"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Sofia had a bad pain in her stomach”"
+   },
+   {
+    "question": "Who called the doctor?",
+    "options": [
+     "A nurse",
+     "Her neighbour",
+     "Her mother",
+     "Her husband"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Her husband called a doctor”"
+   },
+   {
+    "question": "How long did Sofia stay in hospital?",
+    "options": [
+     "Three days",
+     "Two weeks",
+     "One night",
+     "A week"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Sofia stayed in hospital for three days”"
+   },
+   {
+    "question": "What did the doctor tell Sofia to do after she left hospital?",
+    "options": [
+     "Take a holiday abroad",
+     "Exercise every day",
+     "Go back to work",
+     "Rest at home for two weeks"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “the doctor told her to rest at home for two weeks”"
+   },
+   {
+    "question": "[True / False / Not Given] Sofia wanted to see a doctor at first.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “At first, she did not want to see a doctor” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The operation went well.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The operation went well.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Sofia's husband stayed in the hospital with her.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Her family brought her flowers and ___.",
+    "correct_word": "books",
+    "accept": [
+     "book"
+    ],
+    "explanation": "Matnda: “brought her flowers and books”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u178",
+  "title": "A Week Without a Phone",
+  "cefr": "B1",
+  "text": "When Tina's phone fell into a river on holiday, she decided not to buy a new one for a week. At first, it felt strange. She often looked at her pocket when she heard somebody's phone ring. She could not take photos, check messages or look at the map. Her friends could not call her, so they sent her letters by post. In the evenings, she did not have to charge her phone or answer the phone in the middle of a meal. She read a book, talked to her mother face to face and went for long walks. After a week, Tina bought a new phone, but she made a new rule: she switches off her phone every evening at nine o'clock. \"I do not hang up on my friends,\" she says, \"but I like the quiet.\"",
+  "key_words": [
+   {
+    "word": "answer the phone",
+    "translation_uz": "telefonga javob bermoq"
+   },
+   {
+    "word": "the phone rings",
+    "translation_uz": "telefon jiringlaydi"
+   },
+   {
+    "word": "charge a phone",
+    "translation_uz": "telefonni zaryadlamoq"
+   },
+   {
+    "word": "switch off",
+    "translation_uz": "o'chirmoq"
+   },
+   {
+    "word": "hang up",
+    "translation_uz": "go'shakni qo'ymoq"
+   },
+   {
+    "word": "face to face",
+    "translation_uz": "yuzma-yuz"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did Tina not have a phone?",
+    "options": [
+     "It was stolen",
+     "She sold it",
+     "It fell into a river",
+     "She lost it at school"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Tina's phone fell into a river on holiday”"
+   },
+   {
+    "question": "How did her friends contact her?",
+    "options": [
+     "By phone",
+     "By letters",
+     "By text message",
+     "By email"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “they sent her letters by post”"
+   },
+   {
+    "question": "What did Tina do in the evenings?",
+    "options": [
+     "Played computer games",
+     "Read a book and went for walks",
+     "Watched TV",
+     "Worked late"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “She read a book, talked to her mother face to face and went for long walks.”"
+   },
+   {
+    "question": "What is Tina's new rule?",
+    "options": [
+     "She switches off her phone at nine o'clock",
+     "She uses her phone only for photos",
+     "She never uses a phone",
+     "She buys a new phone every year"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “she switches off her phone every evening at nine o'clock”"
+   },
+   {
+    "question": "[True / False / Not Given] Tina bought a new phone after a week.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “After a week, Tina bought a new phone” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Tina stopped speaking to her friends.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I do not hang up on my friends” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Tina's holiday was in Spain.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Tina switches off her phone every evening at ___ o'clock.",
+    "correct_word": "nine",
+    "accept": [
+     "nines"
+    ],
+    "explanation": "Matnda: “at nine o'clock”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u21",
+  "title": "Sleeping Well",
+  "cefr": "B1",
+  "text": "Many people sleep badly, and the problem often starts in the bedroom. First, the bed must be comfortable. A hard mattress is good for some people, but others prefer a soft pillow and an electric blanket in winter. Experts also advise changing the sheets every week, because a clean sheet makes it easier to relax. The room should be dark, so it is a good idea to draw the curtains at night. Some people hang clothes in the wardrobe before they go to bed, because a tidy room helps them to feel calm. Finally, you should set the alarm for the same time every morning. When the alarm goes off, get up at once and open the curtains. Your body will soon learn the new routine, and good sleep will become a normal part of your life.",
+  "key_words": [
+   {
+    "word": "a hard mattress",
+    "translation_uz": "qattiq matras"
+   },
+   {
+    "word": "a soft pillow",
+    "translation_uz": "yumshoq yostiq"
+   },
+   {
+    "word": "change the sheets",
+    "translation_uz": "choyshabni almashtirmoq"
+   },
+   {
+    "word": "draw the curtains",
+    "translation_uz": "pardalarni yopmoq"
+   },
+   {
+    "word": "set the alarm",
+    "translation_uz": "budilnikni sozlamoq"
+   },
+   {
+    "word": "the alarm goes off",
+    "translation_uz": "budilnik jiringlaydi"
+   },
+   {
+    "word": "wardrobe",
+    "translation_uz": "kiyim shkafi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What do experts advise about the sheets?",
+    "options": [
+     "To buy a new set every month",
+     "To wash them by hand",
+     "To use only white ones",
+     "To change them every week"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “changing the sheets every week”"
+   },
+   {
+    "question": "Why is it a good idea to draw the curtains at night?",
+    "options": [
+     "It keeps the room warm",
+     "The street is noisy",
+     "The room should be dark",
+     "It is cheaper"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “The room should be dark, so it is a good idea to draw the curtains at night.”"
+   },
+   {
+    "question": "What should you do when the alarm goes off?",
+    "options": [
+     "Turn off the light",
+     "Draw the curtains",
+     "Get up at once and open the curtains",
+     "Sleep for ten more minutes"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “When the alarm goes off, get up at once and open the curtains.”"
+   },
+   {
+    "question": "[True / False / Not Given] Everybody prefers a hard mattress.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A hard mattress is good for some people, but others prefer a soft pillow” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] A tidy room can help people to feel calm.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a tidy room helps them to feel calm” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Sleeping on the left side is healthier than sleeping on the right side.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "You should set the alarm for the same ___ every morning.",
+    "correct_word": "time",
+    "accept": [
+     "times"
+    ],
+    "explanation": "Matnda: “set the alarm for the same time every morning”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u26",
+  "title": "Kitchen Machines",
+  "cefr": "B1",
+  "text": "A modern kitchen is full of machines, and most of them save time. In the morning, many people boil the kettle first, because a cup of tea or coffee is the beginning of the day. A toaster makes breakfast in two minutes, and a fridge keeps milk and butter fresh. For dinner, you can bake meat in the oven or cook fish under the grill. If you have a freezer, you can buy food in large amounts and keep it for months. After the meal, you load the dishwasher, and later you put your clothes in the washing machine. The machines are useful, but they also use a lot of energy. That is why some families try to switch off the oven early and to use the washing machine only when it is full. Small habits can reduce the electricity bill.",
+  "key_words": [
+   {
+    "word": "boil the kettle",
+    "translation_uz": "choynakni qaynatmoq"
+   },
+   {
+    "word": "bake in the oven",
+    "translation_uz": "duxovkada pishirmoq"
+   },
+   {
+    "word": "cook under the grill",
+    "translation_uz": "grilda pishirmoq"
+   },
+   {
+    "word": "put food in the freezer",
+    "translation_uz": "ovqatni muzlatgichga solmoq"
+   },
+   {
+    "word": "load the dishwasher",
+    "translation_uz": "idish yuvish mashinasini to'ldirmoq"
+   },
+   {
+    "word": "washing machine",
+    "translation_uz": "kir yuvish mashinasi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does a toaster do, according to the text?",
+    "options": [
+     "It makes breakfast in two minutes",
+     "It washes dishes",
+     "It cooks fish",
+     "It keeps milk fresh"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A toaster makes breakfast in two minutes”"
+   },
+   {
+    "question": "Why is a freezer useful?",
+    "options": [
+     "It cooks meat",
+     "You can keep food for months",
+     "It saves electricity",
+     "It makes tea"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “you can buy food in large amounts and keep it for months”"
+   },
+   {
+    "question": "What do some families do to reduce the electricity bill?",
+    "options": [
+     "Stop using the kettle",
+     "Cook only in the oven",
+     "Buy a new fridge",
+     "Use the washing machine only when it is full"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “to use the washing machine only when it is full”"
+   },
+   {
+    "question": "[True / False / Not Given] Most kitchen machines save time.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “most of them save time” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Kitchen machines use no energy.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “they also use a lot of energy” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] A gas cooker is cheaper than an electric cooker.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "You can bake meat in the oven or cook fish under the ___.",
+    "correct_word": "grill",
+    "accept": [
+     "grills"
+    ],
+    "explanation": "Matnda: “cook fish under the grill”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u34",
+  "title": "Watching the Sky",
+  "cefr": "B1",
+  "text": "People have always looked up at the sky. On a clear night, you can see thousands of stars, but on a cloudy sky there is nothing to see. In the morning, the sun rises in the east and the sky turns pink and orange. During the day, the sun shines high above us, and a blue sky usually means good weather. In summer, many people sit in the sun for hours, but doctors warn that you can get sunburnt very quickly, especially on the beach. In the evening, the sun sets in the west, and the sunset is one of the most beautiful moments of the day. Photographers often wake up before sunrise to wait for the first ray of sun. Their pictures show that the same sky can look completely different every day.",
+  "key_words": [
+   {
+    "word": "a clear sky",
+    "translation_uz": "ochiq osmon"
+   },
+   {
+    "word": "a cloudy sky",
+    "translation_uz": "bulutli osmon"
+   },
+   {
+    "word": "the sun rises",
+    "translation_uz": "quyosh chiqadi"
+   },
+   {
+    "word": "the sun sets",
+    "translation_uz": "quyosh botadi"
+   },
+   {
+    "word": "sit in the sun",
+    "translation_uz": "quyoshda o'tirmoq"
+   },
+   {
+    "word": "get sunburnt",
+    "translation_uz": "quyoshda kuymoq"
+   },
+   {
+    "word": "a ray of sun",
+    "translation_uz": "quyosh nuri"
+   }
+  ],
+  "questions": [
+   {
+    "question": "In which direction does the sun rise?",
+    "options": [
+     "In the north",
+     "In the west",
+     "In the south",
+     "In the east"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “the sun rises in the east”"
+   },
+   {
+    "question": "What do doctors warn about?",
+    "options": [
+     "The sky is too bright at night",
+     "You can get sunburnt very quickly",
+     "Stars are dangerous",
+     "Clouds bring illness"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “doctors warn that you can get sunburnt very quickly”"
+   },
+   {
+    "question": "Why do photographers wake up before sunrise?",
+    "options": [
+     "To wait for the first ray of sun",
+     "To take pictures of birds",
+     "To avoid the heat",
+     "To see the stars"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “wake up before sunrise to wait for the first ray of sun”"
+   },
+   {
+    "question": "[True / False / Not Given] A blue sky usually means good weather.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a blue sky usually means good weather” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The sun sets in the east.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the sun sets in the west” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Winter sunsets are more beautiful than summer sunsets.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "On a clear night, you can see thousands of ___.",
+    "correct_word": "stars",
+    "accept": [
+     "star"
+    ],
+    "explanation": "Matnda: “you can see thousands of stars”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u42",
+  "title": "A Holiday by the Sea",
+  "cefr": "B1",
+  "text": "Every summer, Emma's family goes to a small town by the sea. They have a sea view from their hotel window, and every morning she looks at the water before breakfast. Some days the sea is calm and everybody swims in the sea for an hour. On other days the sea is rough, and the waves are high. The children love to ride a wave on a small board, but their parents prefer to watch from the beach. One afternoon, a big wave crashed on the rocks and made everybody laugh. In the evenings, the family sails across the bay in a small boat with the owner of the hotel. When the holiday is over, Emma stands on the beach and waves goodbye to the sea. \"See you next year,\" she says.",
+  "key_words": [
+   {
+    "word": "swim in the sea",
+    "translation_uz": "dengizda suzmoq"
+   },
+   {
+    "word": "a sea view",
+    "translation_uz": "dengiz manzarasi"
+   },
+   {
+    "word": "the sea is calm",
+    "translation_uz": "dengiz tinch"
+   },
+   {
+    "word": "the sea is rough",
+    "translation_uz": "dengiz notinch"
+   },
+   {
+    "word": "a big wave",
+    "translation_uz": "katta to'lqin"
+   },
+   {
+    "word": "wave goodbye",
+    "translation_uz": "xayrlashib qo'l silkitmoq"
+   },
+   {
+    "word": "sail across",
+    "translation_uz": "... bo'ylab suzib o'tmoq (yelkanli kemada)"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What can Emma see from the hotel window?",
+    "options": [
+     "A village",
+     "A forest",
+     "The sea",
+     "The mountains"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “They have a sea view from their hotel window”"
+   },
+   {
+    "question": "What do the children love to do?",
+    "options": [
+     "Fish from the rocks",
+     "Ride a wave on a small board",
+     "Swim at night",
+     "Sail alone"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The children love to ride a wave on a small board”"
+   },
+   {
+    "question": "What does Emma do when the holiday is over?",
+    "options": [
+     "She buys a postcard",
+     "She takes a boat",
+     "She waves goodbye to the sea",
+     "She cries"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “waves goodbye to the sea”"
+   },
+   {
+    "question": "[True / False / Not Given] The sea is always calm.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Some days the sea is calm” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The family sails across the bay with the owner of the hotel.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the family sails across the bay in a small boat with the owner of the hotel” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Emma's family goes to the same town every summer for ten years.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A big wave crashed on the ___.",
+    "correct_word": "rocks",
+    "accept": [
+     "rock"
+    ],
+    "explanation": "Matnda: “a big wave crashed on the rocks”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u50",
+  "title": "Animals of the Farm",
+  "cefr": "B1",
+  "text": "Farm animals have different jobs. Cows give milk, sheep give wool, and chickens give eggs. Farmers get up early every day to feed the animals and to look after them when they are ill. In spring, the farm is very busy because many young animals are born. Wild animals are different: they live in nature and find their own food. Some of them, such as tigers and certain kinds of whales, are endangered, and people try to protect them. Birds are interesting because many of them fly south in autumn to find warmer weather. In spring, you can hear birds sing in the morning, and you can find a bird's nest in a tree. Not far from the farm, there is a river where children go fishing. Fish and chips, they say, always tastes better when you catch the fish yourself.",
+  "key_words": [
+   {
+    "word": "a farm animal",
+    "translation_uz": "ferma hayvoni"
+   },
+   {
+    "word": "a wild animal",
+    "translation_uz": "yovvoyi hayvon"
+   },
+   {
+    "word": "feed the animals",
+    "translation_uz": "hayvonlarni boqmoq"
+   },
+   {
+    "word": "an endangered animal",
+    "translation_uz": "yo'qolib ketish xavfi ostidagi hayvon"
+   },
+   {
+    "word": "birds fly south",
+    "translation_uz": "qushlar janubga uchadi"
+   },
+   {
+    "word": "a bird's nest",
+    "translation_uz": "qush uyasi"
+   },
+   {
+    "word": "go fishing",
+    "translation_uz": "baliq ovlashga bormoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What do sheep give?",
+    "options": [
+     "Milk",
+     "Meat only",
+     "Eggs",
+     "Wool"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “sheep give wool”"
+   },
+   {
+    "question": "Why is the farm very busy in spring?",
+    "options": [
+     "Many young animals are born",
+     "It is very cold",
+     "The children go fishing",
+     "The farmers go on holiday"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “many young animals are born”"
+   },
+   {
+    "question": "What do many birds do in autumn?",
+    "options": [
+     "Sing in the morning",
+     "Catch fish",
+     "Fly south to find warmer weather",
+     "Build nests"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “many of them fly south in autumn to find warmer weather”"
+   },
+   {
+    "question": "[True / False / Not Given] Wild animals find their own food.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “find their own food” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Farmers start work late in the morning.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Farmers get up early every day” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Cows eat more than sheep.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In spring, you can find a bird's nest in a ___.",
+    "correct_word": "tree",
+    "accept": [
+     "trees"
+    ],
+    "explanation": "Matnda: “you can find a bird's nest in a tree”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u51",
+  "title": "My Dog Max",
+  "cefr": "B1",
+  "text": "Two years ago, my parents decided that our family should have a pet. We went to a pet shop, but then my sister found a small dog outside the shop. He was dirty and hungry, so we took him home and called him Max. Looking after a pet is hard work. Every morning, I walk the dog before school, and every evening my father takes him for a longer walk. Max barks loudly when somebody comes to the door, so we always know about visitors. Last month, we took the dog to the vet because he did not want to eat. The vet said that it was nothing serious, and now Max is fine. Some people say that a dog can be trained to do anything. Max can sit and give his paw, but he still cannot learn to stay away from the sofa.",
+  "key_words": [
+   {
+    "word": "keep a pet",
+    "translation_uz": "uy hayvonini boqmoq"
+   },
+   {
+    "word": "look after a pet",
+    "translation_uz": "uy hayvoniga qarab turmoq"
+   },
+   {
+    "word": "a stray cat",
+    "translation_uz": "uysiz mushuk"
+   },
+   {
+    "word": "walk the dog",
+    "translation_uz": "itni sayr qildirmoq"
+   },
+   {
+    "word": "a dog barks",
+    "translation_uz": "it akillaydi"
+   },
+   {
+    "word": "take the dog to the vet",
+    "translation_uz": "itni veterinarga olib bormoq"
+   },
+   {
+    "word": "train a dog",
+    "translation_uz": "itni o'rgatmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where did the family find Max?",
+    "options": [
+     "At school",
+     "At the vet",
+     "In a park",
+     "Outside a pet shop"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “found a small dog outside the shop”"
+   },
+   {
+    "question": "Why did they take Max to the vet?",
+    "options": [
+     "He was very dirty",
+     "He did not want to eat",
+     "He was lost",
+     "He barked too much"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “because he did not want to eat”"
+   },
+   {
+    "question": "What can Max do?",
+    "options": [
+     "Sit and give his paw",
+     "Stay away from the sofa",
+     "Carry the shopping",
+     "Open the door"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Max can sit and give his paw”"
+   },
+   {
+    "question": "[True / False / Not Given] The writer walks the dog every morning.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Every morning, I walk the dog before school” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The vet said that Max was seriously ill.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “it was nothing serious” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Max was born in a pet shop.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Max ___ loudly when somebody comes to the door.",
+    "correct_word": "barks",
+    "accept": [
+     "bark"
+    ],
+    "explanation": "Matnda: “Max barks loudly when somebody comes to the door”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u54",
+  "title": "Our Garden",
+  "cefr": "B1",
+  "text": "When my grandparents bought their house, the back garden was just a field of grass. Together with my grandfather, I decided to plant a tree. We chose a fruit tree, because my grandmother loves apples. It was small then, but now it is a tall tree and gives fruit every autumn. In the summer, we often sit under the tree and drink tea. My grandfather works in the garden every day: he waters the flowers, cuts the grass and grows vegetables in a small vegetable garden. In autumn, the leaves fall from the trees, and I help to collect them. Last year, one old tree was ill, so the family had to cut down a tree for the first time. My grandmother was sad, but she says that a garden is always changing.",
+  "key_words": [
+   {
+    "word": "plant a tree",
+    "translation_uz": "daraxt ekmoq"
+   },
+   {
+    "word": "a fruit tree",
+    "translation_uz": "meva daraxti"
+   },
+   {
+    "word": "under a tree",
+    "translation_uz": "daraxt ostida"
+   },
+   {
+    "word": "work in the garden",
+    "translation_uz": "bog'da ishlamoq"
+   },
+   {
+    "word": "a vegetable garden",
+    "translation_uz": "sabzavot bog'i"
+   },
+   {
+    "word": "cut down a tree",
+    "translation_uz": "daraxtni kesmoq"
+   },
+   {
+    "word": "a back garden",
+    "translation_uz": "uy orqasidagi bog'"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did they choose a fruit tree?",
+    "options": [
+     "The grandmother loves apples",
+     "It grows quickly",
+     "It gives good shade",
+     "It is cheap"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “because my grandmother loves apples”"
+   },
+   {
+    "question": "What does the grandfather do every day?",
+    "options": [
+     "Cuts down trees",
+     "Sits under the tree",
+     "Works in the garden",
+     "Collects leaves"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “My grandfather works in the garden every day”"
+   },
+   {
+    "question": "What happened last year?",
+    "options": [
+     "The apple tree died",
+     "They planted a vegetable garden",
+     "They sold the house",
+     "They cut down an ill tree"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “the family had to cut down a tree for the first time”"
+   },
+   {
+    "question": "[True / False / Not Given] The tree gives fruit every autumn.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “gives fruit every autumn” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The back garden was full of trees when the grandparents bought the house.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the back garden was just a field of grass” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The grandmother makes apple jam every year.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The family sits under the tree and drinks ___.",
+    "correct_word": "tea",
+    "accept": [
+     "teas"
+    ],
+    "explanation": "Matnda: “we often sit under the tree and drink tea”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u58",
+  "title": "Buying a Second-hand Car",
+  "cefr": "B1",
+  "text": "Last year, Tom decided to buy a car. A new car was too expensive, so he looked for a second-hand car in the newspaper. The first car looked beautiful, but when he tried to drive it, the engine made a strange noise. \"A car breaks down very often if it is not looked after,\" said the seller honestly. The second car was better. Tom drove it for twenty minutes, parked it in a car park near the shop and checked everything again. The price was fair, and he paid on the same day. Now Tom washes his car every Sunday and goes to work by car. There was one small accident last month, but luckily nobody was hurt. He says that a car is not only a way to travel: it is also a big responsibility.",
+  "key_words": [
+   {
+    "word": "drive a car",
+    "translation_uz": "mashina haydamoq"
+   },
+   {
+    "word": "park a car",
+    "translation_uz": "mashinani to'xtatmoq (qo'ymoq)"
+   },
+   {
+    "word": "wash the car",
+    "translation_uz": "mashinani yuvmoq"
+   },
+   {
+    "word": "a car park",
+    "translation_uz": "avtoturargoh"
+   },
+   {
+    "word": "a car breaks down",
+    "translation_uz": "mashina buziladi"
+   },
+   {
+    "word": "a second-hand car",
+    "translation_uz": "ishlatilgan mashina"
+   },
+   {
+    "word": "by car",
+    "translation_uz": "mashinada"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did Tom buy a second-hand car?",
+    "options": [
+     "He did not like new cars",
+     "A new car was too expensive",
+     "He wanted a small car",
+     "His friend sold it"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A new car was too expensive”"
+   },
+   {
+    "question": "What was wrong with the first car?",
+    "options": [
+     "It was too small",
+     "The engine made a strange noise",
+     "It had no seats",
+     "The price was too low"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the engine made a strange noise”"
+   },
+   {
+    "question": "What does Tom do every Sunday?",
+    "options": [
+     "He washes his car",
+     "He sells the car",
+     "He buys petrol",
+     "He drives to the sea"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Tom washes his car every Sunday”"
+   },
+   {
+    "question": "[True / False / Not Given] Tom paid for the car on the same day.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “he paid on the same day” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Tom was hurt in the accident.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “luckily nobody was hurt” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Tom's car is red.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Tom parked the car in a car ___ near the shop.",
+    "correct_word": "park",
+    "accept": [
+     "parks"
+    ],
+    "explanation": "Matnda: “parked it in a car park near the shop”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u66",
+  "title": "Crossing the Road",
+  "cefr": "B1",
+  "text": "Every day, thousands of people cross the road in front of our school. It is a busy road with a lot of traffic, so there are many road signs near it. In the past, the road was quiet, but now it is the main road to the city centre. Last year, there was a serious accident, and the street was blocked for two hours. After that, the town decided to build a new crossing and to start road works near the school. Now the traffic lights stop the cars when the children want to cross. The police also teach us the rules: look left, look right and listen before you cross the road. Drivers must drive along the road slowly in this area. A quiet road at the end of the street is a safer way to walk to school, and many pupils now choose it.",
+  "key_words": [
+   {
+    "word": "cross the road",
+    "translation_uz": "yo'lni kesib o'tmoq"
+   },
+   {
+    "word": "a busy road",
+    "translation_uz": "gavjum yo'l"
+   },
+   {
+    "word": "a main road",
+    "translation_uz": "asosiy yo'l"
+   },
+   {
+    "word": "a road sign",
+    "translation_uz": "yo'l belgisi"
+   },
+   {
+    "word": "road works",
+    "translation_uz": "yo'l ta'mirlash ishlari"
+   },
+   {
+    "word": "block the road",
+    "translation_uz": "yo'lni to'smoq"
+   },
+   {
+    "word": "drive along the road",
+    "translation_uz": "yo'l bo'ylab haydamoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why are there many road signs near the school?",
+    "options": [
+     "The school is big",
+     "The road is new",
+     "The road is very short",
+     "It is a busy road with a lot of traffic"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “It is a busy road with a lot of traffic, so there are many road signs near it.”"
+   },
+   {
+    "question": "What happened after the serious accident?",
+    "options": [
+     "Drivers stopped working",
+     "The school closed",
+     "The town decided to build a new crossing",
+     "The road became free of cars"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the town decided to build a new crossing”"
+   },
+   {
+    "question": "What does the police teach children?",
+    "options": [
+     "Run across the road",
+     "Use a bicycle",
+     "Look left, look right and listen before crossing",
+     "Cross quickly"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “look left, look right and listen before you cross the road”"
+   },
+   {
+    "question": "[True / False / Not Given] The road was always busy.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “In the past, the road was quiet” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The street was blocked for two hours.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the street was blocked for two hours” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The accident was caused by a lorry.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A quiet road at the end of the street is a ___ way to walk to school.",
+    "correct_word": "safer",
+    "accept": [
+     "safers"
+    ],
+    "explanation": "Matnda: “A quiet road at the end of the street is a safer way to walk to school”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u69",
+  "title": "A Guided Tour",
+  "cefr": "B1",
+  "text": "Last summer, I visited Samarkand as a tourist. At the tourist information office, I asked about a guided tour of the city, and a friendly woman gave me a leaflet. The next morning, a group of tourists met a tour guide near a famous tourist attraction. The guide told us interesting stories about the old buildings, and we took many photos. After two hours, he said, \"Now we are going on a walking tour of the old market.\" We bought souvenirs and tried local food. In the afternoon, there was also a bus tour of the new part of the city. It was the tourist season, so the streets were full of visitors from different countries. At the end of the day, I was tired but happy, and I decided to take a tour of another city next year.",
+  "key_words": [
+   {
+    "word": "a tourist attraction",
+    "translation_uz": "turistik joy"
+   },
+   {
+    "word": "a group of tourists",
+    "translation_uz": "sayyohlar guruhi"
+   },
+   {
+    "word": "tourist information office",
+    "translation_uz": "sayyohlik ma'lumot markazi"
+   },
+   {
+    "word": "a guided tour",
+    "translation_uz": "gid bilan ekskursiya"
+   },
+   {
+    "word": "a tour guide",
+    "translation_uz": "gid"
+   },
+   {
+    "word": "a walking tour",
+    "translation_uz": "piyoda sayohat"
+   },
+   {
+    "word": "the tourist season",
+    "translation_uz": "sayyohlik mavsumi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where did the writer ask about a guided tour?",
+    "options": [
+     "At the hotel",
+     "At the tourist information office",
+     "At the station",
+     "At school"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “At the tourist information office, I asked about a guided tour”"
+   },
+   {
+    "question": "What did the guide tell the group?",
+    "options": [
+     "Interesting stories about the old buildings",
+     "Rules of the market",
+     "The price of food",
+     "The time of the train"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “told us interesting stories about the old buildings”"
+   },
+   {
+    "question": "What did the writer do in the afternoon?",
+    "options": [
+     "Went home",
+     "Bought a car",
+     "Slept in the hotel",
+     "Joined a bus tour of the new city"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “there was also a bus tour of the new part of the city”"
+   },
+   {
+    "question": "[True / False / Not Given] The streets were full of visitors.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the streets were full of visitors” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The tour guide was rude to the tourists.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “told us interesting stories” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The writer travelled to Samarkand by train.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "At the end of the day, the writer was tired but ___.",
+    "correct_word": "happy",
+    "accept": [
+     "happys"
+    ],
+    "explanation": "Matnda: “I was tired but happy”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u74",
+  "title": "Breakfast Matters",
+  "cefr": "B1",
+  "text": "Many people say that breakfast is the most important meal of the day. When you have breakfast, your body gets the energy that it needs after a long night. Children who skip breakfast often feel tired at school and find it difficult to concentrate. A big breakfast is not necessary: a simple meal of bread, an egg and some fruit is enough. In some countries, people have a very light lunch, and in others lunch is the main meal and takes an hour. At school, children can take a packed lunch from home, or they can eat a school lunch in the canteen. At work, a lunch break is important, because it gives people a rest. Doctors recommend not to eat in front of the computer, but to go out for lunch and walk for a few minutes. In this way, you can both eat and relax.",
+  "key_words": [
+   {
+    "word": "have breakfast",
+    "translation_uz": "nonushta qilmoq"
+   },
+   {
+    "word": "skip breakfast",
+    "translation_uz": "nonushtani o'tkazib yubormoq"
+   },
+   {
+    "word": "a big breakfast",
+    "translation_uz": "serhasham nonushta"
+   },
+   {
+    "word": "a packed lunch",
+    "translation_uz": "uydan olib kelingan tushlik"
+   },
+   {
+    "word": "a school lunch",
+    "translation_uz": "maktab tushligi"
+   },
+   {
+    "word": "a lunch break",
+    "translation_uz": "tushlik tanaffusi"
+   },
+   {
+    "word": "go out for lunch",
+    "translation_uz": "tushlikka chiqmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why does the body need breakfast?",
+    "options": [
+     "It has too much energy",
+     "It does not need food",
+     "It needs more water only",
+     "It needs energy after a long night"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “your body gets the energy that it needs after a long night”"
+   },
+   {
+    "question": "What happens to children who skip breakfast?",
+    "options": [
+     "They feel hungry at night",
+     "They often feel tired at school",
+     "They get higher marks",
+     "They grow faster"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Children who skip breakfast often feel tired at school”"
+   },
+   {
+    "question": "What do doctors recommend for lunch at work?",
+    "options": [
+     "To eat in front of the computer",
+     "To skip lunch",
+     "To go out and walk for a few minutes",
+     "To eat a big meal"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “to go out for lunch and walk for a few minutes”"
+   },
+   {
+    "question": "[True / False / Not Given] A big breakfast is necessary for a healthy day.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A big breakfast is not necessary” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Children can take a packed lunch to school.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “children can take a packed lunch from home” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Lunch is the main meal in all countries.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “in others lunch is the main meal” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A simple breakfast of bread, an egg and some ___ is enough.",
+    "correct_word": "fruit",
+    "accept": [
+     "fruits"
+    ],
+    "explanation": "Matnda: “bread, an egg and some fruit is enough”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u82",
+  "title": "A Coffee Break",
+  "cefr": "B1",
+  "text": "In many offices, the day begins with coffee. Some people like strong coffee, while others prefer a cup of white coffee with milk. If you do not have time, you can make instant coffee in a minute, but real coffee beans taste much better. In the middle of the morning, workers take a coffee break and talk about the news. Managers know that this small break is useful: it helps people to relax, and they often have their best ideas when they talk to colleagues. Last year, a coffee shop opened near our office, and now many of us go there at eleven. Black coffee is popular with the men at the next table, but my friend always asks for coffee with sugar and a piece of chocolate. Of course, doctors say that more than four cups a day is too much.",
+  "key_words": [
+   {
+    "word": "make coffee",
+    "translation_uz": "qahva tayyorlamoq"
+   },
+   {
+    "word": "strong coffee",
+    "translation_uz": "kuchli qahva"
+   },
+   {
+    "word": "white coffee",
+    "translation_uz": "sutli qahva"
+   },
+   {
+    "word": "instant coffee",
+    "translation_uz": "tez eriydigan qahva"
+   },
+   {
+    "word": "coffee beans",
+    "translation_uz": "qahva donalari"
+   },
+   {
+    "word": "a coffee shop",
+    "translation_uz": "qahvaxona"
+   },
+   {
+    "word": "a coffee break",
+    "translation_uz": "qahva tanaffusi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is the difference between white coffee and black coffee?",
+    "options": [
+     "White coffee has milk",
+     "There is no difference",
+     "Black coffee has sugar",
+     "White coffee is stronger"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a cup of white coffee with milk”"
+   },
+   {
+    "question": "Why is a coffee break useful?",
+    "options": [
+     "It makes work shorter",
+     "It is cheaper than lunch",
+     "It stops people from talking",
+     "It helps people relax and share ideas"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “it helps people to relax, and they often have their best ideas when they talk to colleagues”"
+   },
+   {
+    "question": "What do doctors say about coffee?",
+    "options": [
+     "More than four cups a day is too much",
+     "Coffee is better than tea",
+     "Coffee is dangerous",
+     "Everyone should drink six cups"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “more than four cups a day is too much”"
+   },
+   {
+    "question": "[True / False / Not Given] Real coffee beans taste better than instant coffee.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “real coffee beans taste much better” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] A coffee shop opened near the office ten years ago.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Last year, a coffee shop opened near our office” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The writer's friend works as a manager.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "My friend always asks for coffee with ___ and a piece of chocolate.",
+    "correct_word": "sugar",
+    "accept": [
+     "sugars"
+    ],
+    "explanation": "Matnda: “coffee with sugar and a piece of chocolate”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u99",
+  "title": "Baking a Birthday Cake",
+  "cefr": "B1",
+  "text": "Every year, my grandmother bakes a birthday cake for the family. This year, I decided to help her. First, we bought flour, eggs, butter and a bar of chocolate at the supermarket. At home, she showed me how to mix the ingredients and how to bake a cake in the oven for forty minutes. While it was in the oven, we made tea and ate a packet of biscuits. My grandmother likes to dip a biscuit in tea, but I think that it is a strange habit. When the cake was ready, we cut it into pieces and put a candle on the top. Everybody said that it was the best chocolate cake they had ever eaten. Now my cousin wants me to open a cake shop, but I think I will keep baking for the family.",
+  "key_words": [
+   {
+    "word": "bake a cake",
+    "translation_uz": "tort pishirmoq"
+   },
+   {
+    "word": "a birthday cake",
+    "translation_uz": "tug'ilgan kun torti"
+   },
+   {
+    "word": "a piece of cake",
+    "translation_uz": "tort bo'lagi"
+   },
+   {
+    "word": "a chocolate cake",
+    "translation_uz": "shokoladli tort"
+   },
+   {
+    "word": "a packet of biscuits",
+    "translation_uz": "bir paket pechenye"
+   },
+   {
+    "word": "dip a biscuit in tea",
+    "translation_uz": "pechenyeni choyga botirmoq"
+   },
+   {
+    "word": "a cake shop",
+    "translation_uz": "qandolat do'koni"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did they buy at the supermarket?",
+    "options": [
+     "A ready cake",
+     "Bread and tea",
+     "Flour, eggs, butter and chocolate",
+     "Only biscuits"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “flour, eggs, butter and a bar of chocolate”"
+   },
+   {
+    "question": "How long did the cake bake?",
+    "options": [
+     "Two hours",
+     "Forty minutes",
+     "One hour",
+     "Ten minutes"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “bake a cake in the oven for forty minutes”"
+   },
+   {
+    "question": "What does the writer think about dipping a biscuit in tea?",
+    "options": [
+     "It is healthy",
+     "It is a good idea",
+     "It is delicious",
+     "It is a strange habit"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I think that it is a strange habit”"
+   },
+   {
+    "question": "[True / False / Not Given] The grandmother bakes a cake every year.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Every year, my grandmother bakes a birthday cake” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The writer is going to open a cake shop.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I think I will keep baking for the family” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The cake was for the grandmother's birthday.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "They put a ___ on the top of the cake.",
+    "correct_word": "candle",
+    "accept": [
+     "candles"
+    ],
+    "explanation": "Matnda: “put a candle on the top”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u106",
+  "title": "Looking After Your Body",
+  "cefr": "B1",
+  "text": "The human body is a wonderful machine, but it needs care. Doctors say that you can keep your body healthy with three simple things: good food, enough sleep and regular exercise. Exercise builds muscle and makes your heart stronger. However, people who do too much too fast can pull a muscle, and a muscle hurts for days afterwards. That is why it is important to stretch a muscle before you run or play sport. The whole body also needs water: you should drink about two litres every day. Body language is interesting, too. When you stand straight and smile, you feel more confident, and other people see that. Body temperature is usually about thirty-seven degrees; if it is much higher, you may be ill. Looking after your body is not difficult. It just needs a little time every day.",
+  "key_words": [
+   {
+    "word": "the human body",
+    "translation_uz": "inson tanasi"
+   },
+   {
+    "word": "keep your body healthy",
+    "translation_uz": "tanangizni sog'lom saqlamoq"
+   },
+   {
+    "word": "body language",
+    "translation_uz": "tana tili"
+   },
+   {
+    "word": "strong muscles",
+    "translation_uz": "kuchli mushaklar"
+   },
+   {
+    "word": "build muscle",
+    "translation_uz": "mushak o'stirmoq"
+   },
+   {
+    "word": "pull a muscle",
+    "translation_uz": "mushakni cho'zib olmoq"
+   },
+   {
+    "word": "stretch a muscle",
+    "translation_uz": "mushakni cho'zmoq (yozmoq)"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What are the three simple things for a healthy body?",
+    "options": [
+     "Water, medicine and sport",
+     "Food, TV and games",
+     "Good food, enough sleep and regular exercise",
+     "Money, time and friends"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “good food, enough sleep and regular exercise”"
+   },
+   {
+    "question": "Why should you stretch a muscle before sport?",
+    "options": [
+     "To grow taller",
+     "To avoid pulling it",
+     "To lose weight",
+     "To look strong"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “it is important to stretch a muscle before you run or play sport”"
+   },
+   {
+    "question": "How much water should you drink every day, according to the text?",
+    "options": [
+     "About two litres",
+     "Ten litres",
+     "Half a litre",
+     "One cup"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “you should drink about two litres every day”"
+   },
+   {
+    "question": "[True / False / Not Given] Exercise makes your heart stronger.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “makes your heart stronger” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] A high body temperature is always normal.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “if it is much higher, you may be ill” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Everybody should do exercise at the same time every day.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "When you stand straight and smile, you feel more ___.",
+    "correct_word": "confident",
+    "accept": [
+     "confidents"
+    ],
+    "explanation": "Matnda: “you feel more confident”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u122",
+  "title": "Choosing Clothes",
+  "cefr": "B1",
+  "text": "Getting dressed in the morning is not always easy. Last Monday, Daniel had an important meeting, so he wanted to look smart. First, he put on his best trousers, but they were too tight, so he took them off and chose a different pair. Then he wore a clean white shirt and buttoned it up. His sister laughed because he forgot to tuck in the shirt. \"A striped shirt would be better,\" she said. \"No,\" said Daniel, \"I prefer a plain one.\" After ten minutes, he was ready. On Friday, the office has a casual day, and most people wear a T-shirt and baggy trousers. Daniel says that he feels more comfortable on Fridays, but he thinks that a smart shirt makes him work harder. Clothes, he says, can change how you feel.",
+  "key_words": [
+   {
+    "word": "put on your trousers",
+    "translation_uz": "shim kiymoq"
+   },
+   {
+    "word": "take off your trousers",
+    "translation_uz": "shimni yechmoq"
+   },
+   {
+    "word": "tight trousers",
+    "translation_uz": "tor shim"
+   },
+   {
+    "word": "baggy trousers",
+    "translation_uz": "keng shim"
+   },
+   {
+    "word": "wear a shirt",
+    "translation_uz": "ko'ylak kiymoq"
+   },
+   {
+    "word": "button up your shirt",
+    "translation_uz": "ko'ylakni tugmalamoq"
+   },
+   {
+    "word": "tuck in your shirt",
+    "translation_uz": "ko'ylakni shimga tiqmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did Daniel take off his first trousers?",
+    "options": [
+     "They had a hole",
+     "They were dirty",
+     "They were too tight",
+     "They were too long"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “they were too tight, so he took them off”"
+   },
+   {
+    "question": "What did his sister laugh at?",
+    "options": [
+     "His dirty shoes",
+     "His new tie",
+     "His striped shirt",
+     "He forgot to tuck in the shirt"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “he forgot to tuck in the shirt”"
+   },
+   {
+    "question": "What do people wear on Friday at the office?",
+    "options": [
+     "Sports clothes only",
+     "A T-shirt and baggy trousers",
+     "A smart suit",
+     "A uniform"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “most people wear a T-shirt and baggy trousers”"
+   },
+   {
+    "question": "[True / False / Not Given] Daniel wore a striped shirt on Monday.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I prefer a plain one” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Daniel thinks that smart clothes can change how he feels.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Clothes, he says, can change how you feel.” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Daniel's meeting was with a new customer.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Daniel wore a clean white ___ and buttoned it up.",
+    "correct_word": "shirt",
+    "accept": [
+     "shirts"
+    ],
+    "explanation": "Matnda: “he wore a clean white shirt and buttoned it up”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u138",
+  "title": "Strict Parents",
+  "cefr": "B1",
+  "text": "Being a good parent is difficult, and every family is different. Some parents are very strict: they ask children to do their homework before they play, and they decide when their children go to bed. Others are more relaxed. Many teenagers say that they need to ask their parents for permission even for small things, such as visiting a friend. However, psychologists explain that rules show children that their parents care. A single parent has to work and look after the children alone, so the days can be very long. Many grandparents help, and some children live with their parents in a house with three generations. At parents' evening, teachers tell mothers and fathers how well their children are doing. Proud parents leave the school with a big smile. The best advice is to talk, listen and not to forget that love is more important than rules.",
+  "key_words": [
+   {
+    "word": "a single parent",
+    "translation_uz": "yolg'iz ota-ona"
+   },
+   {
+    "word": "a strict parent",
+    "translation_uz": "qattiqqo'l ota-ona"
+   },
+   {
+    "word": "a good parent",
+    "translation_uz": "yaxshi ota-ona"
+   },
+   {
+    "word": "ask your parents for permission",
+    "translation_uz": "ota-onangizdan ruxsat so'ramoq"
+   },
+   {
+    "word": "live with your parents",
+    "translation_uz": "ota-ona bilan yashamoq"
+   },
+   {
+    "word": "parents' evening",
+    "translation_uz": "ota-onalar yig'ilishi"
+   },
+   {
+    "word": "proud parents",
+    "translation_uz": "faxrlangan ota-onalar"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What do strict parents often do?",
+    "options": [
+     "Ask children to do homework before they play",
+     "Ask children to choose all the rules",
+     "Never speak to teachers",
+     "Let children stay up late"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “they ask children to do their homework before they play”"
+   },
+   {
+    "question": "Why are rules important, according to psychologists?",
+    "options": [
+     "They keep the house tidy",
+     "They show children that their parents care",
+     "They make children afraid",
+     "They save time"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “rules show children that their parents care”"
+   },
+   {
+    "question": "What do teachers do at parents' evening?",
+    "options": [
+     "They organise a party",
+     "They give homework to parents",
+     "They tell parents how well their children are doing",
+     "They sell books"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “teachers tell mothers and fathers how well their children are doing”"
+   },
+   {
+    "question": "[True / False / Not Given] All parents are strict.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Others are more relaxed.” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] A single parent has to work and look after the children alone.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A single parent has to work and look after the children alone” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Strict parents have more successful children.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The best advice is to talk, listen and not forget that ___ is more important than rules.",
+    "correct_word": "love",
+    "accept": [
+     "loves"
+    ],
+    "explanation": "Matnda: “love is more important than rules”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u140",
+  "title": "A Wedding Day",
+  "cefr": "B1",
+  "text": "Last Saturday, I went to a wedding for the first time in my life. My cousin Laylo and her husband had planned the wedding for a year, and they invited more than a hundred guests. The bride wore a beautiful white wedding dress, and the groom wore a dark suit. At the ceremony, they exchanged a wedding ring, and everybody applauded. After the ceremony, the photographer took a wedding photo of the family in front of a big tree. The wedding party started in the evening, with music and dancing. Every guest brought a wedding present, and the wedding cake had four layers. My grandmother cried because she was so happy. When the party finished at midnight, I was tired, but I knew that it was a wedding day that I would remember for a long time.",
+  "key_words": [
+   {
+    "word": "go to a wedding",
+    "translation_uz": "to'yga bormoq"
+   },
+   {
+    "word": "plan a wedding",
+    "translation_uz": "to'y rejalashtirmoq"
+   },
+   {
+    "word": "invite someone to a wedding",
+    "translation_uz": "to'yga taklif qilmoq"
+   },
+   {
+    "word": "a wedding dress",
+    "translation_uz": "to'y libosi"
+   },
+   {
+    "word": "a wedding ring",
+    "translation_uz": "nikoh uzugi"
+   },
+   {
+    "word": "a wedding cake",
+    "translation_uz": "to'y torti"
+   },
+   {
+    "word": "a wedding present",
+    "translation_uz": "to'y sovg'asi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How long did the couple plan the wedding?",
+    "options": [
+     "A year",
+     "A month",
+     "Ten years",
+     "A week"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “had planned the wedding for a year”"
+   },
+   {
+    "question": "What did the photographer do after the ceremony?",
+    "options": [
+     "Brought the rings",
+     "Played music",
+     "Cut the cake",
+     "Took a wedding photo of the family"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “took a wedding photo of the family in front of a big tree”"
+   },
+   {
+    "question": "Why did the grandmother cry?",
+    "options": [
+     "She was so happy",
+     "She was ill",
+     "She lost her ring",
+     "She was tired"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My grandmother cried because she was so happy.”"
+   },
+   {
+    "question": "[True / False / Not Given] More than a hundred guests were invited.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “they invited more than a hundred guests” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The wedding party ended at ten o'clock.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the party finished at midnight” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The groom was a doctor.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The wedding ___ had four layers.",
+    "correct_word": "cake",
+    "accept": [
+     "cakes"
+    ],
+    "explanation": "Matnda: “the wedding cake had four layers”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u150",
+  "title": "The Football Match",
+  "cefr": "B1",
+  "text": "On Saturday afternoon, our school team played an important football match against the team from the next town. Before the game, the coach talked to the players: \"Pass the ball quickly, and do not kick the ball too hard.\" The match started on a football pitch that was a little wet after the rain. In the first half, our goalkeeper caught a difficult ball and saved the team. In the second half, our captain hit a ball with his left foot, and it flew into the net. Many fans stood up and shouted. The other team tried hard to score, but they could not catch our defenders. When the referee blew the whistle, the result was 1-0. After the match, the coach said, \"I am proud of you.\" Of course, I love to play football, but I enjoy watching a match with friends even more. We support our school team every week.",
+  "key_words": [
+   {
+    "word": "kick a ball",
+    "translation_uz": "to'pni tepmoq"
+   },
+   {
+    "word": "pass the ball",
+    "translation_uz": "to'pni uzatmoq"
+   },
+   {
+    "word": "catch a ball",
+    "translation_uz": "to'pni ushlamoq"
+   },
+   {
+    "word": "hit a ball",
+    "translation_uz": "to'pga urmoq"
+   },
+   {
+    "word": "a football match",
+    "translation_uz": "futbol o'yini"
+   },
+   {
+    "word": "a football pitch",
+    "translation_uz": "futbol maydoni"
+   },
+   {
+    "word": "support a team",
+    "translation_uz": "jamoani qo'llab-quvvatlamoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did the coach tell the players before the game?",
+    "options": [
+     "Do not run",
+     "Pass the ball quickly",
+     "Kick the ball very hard",
+     "Stay near the goal"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Pass the ball quickly, and do not kick the ball too hard.”"
+   },
+   {
+    "question": "Who scored the goal?",
+    "options": [
+     "The coach",
+     "The goalkeeper",
+     "A defender",
+     "The captain"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “our captain hit a ball with his left foot, and it flew into the net”"
+   },
+   {
+    "question": "What was the final result?",
+    "options": [
+     "0-0",
+     "2-1",
+     "1-0",
+     "3-0"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the result was 1-0”"
+   },
+   {
+    "question": "[True / False / Not Given] The pitch was dry.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “a little wet after the rain” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The writer enjoys watching matches with friends.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I enjoy watching a match with friends even more” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The other team had a better coach.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In the first half, our goalkeeper caught a ___ ball.",
+    "correct_word": "difficult",
+    "accept": [
+     "difficults"
+    ],
+    "explanation": "Matnda: “caught a difficult ball”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u154",
+  "title": "Starting School",
+  "cefr": "B1",
+  "text": "In most countries, children start school at the age of six or seven. The first day at a primary school can be exciting and frightening at the same time. Many children go to school by school bus, and they wear a school uniform, which makes them feel part of a group. At lunchtime, they eat a school dinner or a packed meal from home. After school, some children go to clubs, while others go straight home. When the children are older, they move to a secondary school, where lessons are longer and the subjects are more difficult. Some students go to a boarding school, which means they live there and see their families only in the holidays. There are also many reasons to miss school: illness, bad weather or problems at home. Teachers say that it is important to ask for help early, because a student who leaves school too soon often regrets it later.",
+  "key_words": [
+   {
+    "word": "go to school",
+    "translation_uz": "maktabga bormoq"
+   },
+   {
+    "word": "start school",
+    "translation_uz": "maktabni boshlamoq"
+   },
+   {
+    "word": "leave school",
+    "translation_uz": "maktabni tugatmoq (tark etmoq)"
+   },
+   {
+    "word": "after school",
+    "translation_uz": "darsdan keyin"
+   },
+   {
+    "word": "school uniform",
+    "translation_uz": "maktab formasi"
+   },
+   {
+    "word": "school dinner",
+    "translation_uz": "maktab tushligi"
+   },
+   {
+    "word": "a boarding school",
+    "translation_uz": "internat maktab"
+   },
+   {
+    "word": "miss school",
+    "translation_uz": "darsga bormay qolmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "At what age do children start school in most countries?",
+    "options": [
+     "Three or four",
+     "Ten",
+     "Six or seven",
+     "Twelve"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “children start school at the age of six or seven”"
+   },
+   {
+    "question": "What does a school uniform do?",
+    "options": [
+     "It is cheaper than other clothes",
+     "It makes children feel part of a group",
+     "It makes children study harder",
+     "It keeps children warm"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “which makes them feel part of a group”"
+   },
+   {
+    "question": "What is a boarding school?",
+    "options": [
+     "A school for older people",
+     "A school in the mountains",
+     "A very small school",
+     "A school where students live"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “which means they live there”"
+   },
+   {
+    "question": "[True / False / Not Given] Secondary school lessons are shorter than primary school lessons.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “lessons are longer” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Illness is one reason to miss school.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “illness, bad weather or problems at home” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Most children in the world walk to school.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A student who leaves school too soon often ___ it later.",
+    "correct_word": "regrets",
+    "accept": [
+     "regret"
+    ],
+    "explanation": "Matnda: “often regrets it later”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u162",
+  "title": "The Local Newspaper",
+  "cefr": "B1",
+  "text": "Every morning, my father buys a newspaper on the way to work. He prefers a local newspaper, because it has stories about our town and about people that he knows. On the front page, there is usually the most important news of the day, with a big headline above it. Inside, you can find a newspaper article about politics, sport, the weather and the cinema. A newspaper reporter often works late to finish a story before midnight. When I was younger, I used to deliver newspapers: every day, I got up at six, put the papers in my bag and cycled from house to house. It was hard work, but I earned some money. Today, many people read the news on their phones, and the number of daily newspapers is smaller. Yet my father says that he likes the smell of paper, and he says that he reads an article more carefully in a newspaper than on a screen.",
+  "key_words": [
+   {
+    "word": "read a newspaper",
+    "translation_uz": "gazeta o'qimoq"
+   },
+   {
+    "word": "buy a newspaper",
+    "translation_uz": "gazeta sotib olmoq"
+   },
+   {
+    "word": "a local newspaper",
+    "translation_uz": "mahalliy gazeta"
+   },
+   {
+    "word": "the front page",
+    "translation_uz": "birinchi sahifa"
+   },
+   {
+    "word": "a newspaper headline",
+    "translation_uz": "gazeta sarlavhasi"
+   },
+   {
+    "word": "a newspaper article",
+    "translation_uz": "gazeta maqolasi"
+   },
+   {
+    "word": "deliver newspapers",
+    "translation_uz": "gazeta tarqatmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why does the writer's father prefer a local newspaper?",
+    "options": [
+     "It has stories about the town and people he knows",
+     "It is cheaper",
+     "It has more pages",
+     "It has no advertisements"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “it has stories about our town and about people that he knows”"
+   },
+   {
+    "question": "What is usually on the front page?",
+    "options": [
+     "The weather forecast only",
+     "Letters from readers",
+     "The most important news of the day",
+     "The cinema programme"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “On the front page, there is usually the most important news of the day”"
+   },
+   {
+    "question": "What did the writer do when he or she was younger?",
+    "options": [
+     "Delivered newspapers",
+     "Sold newspapers in a shop",
+     "Worked as a reporter",
+     "Wrote articles"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I used to deliver newspapers”"
+   },
+   {
+    "question": "[True / False / Not Given] A newspaper reporter often works late.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A newspaper reporter often works late” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] More people buy daily newspapers now than before.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the number of daily newspapers is smaller” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The writer's father works for a newspaper.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The writer used to get up at ___ to deliver newspapers.",
+    "correct_word": "six",
+    "accept": [
+     "sixs"
+    ],
+    "explanation": "Matnda: “I got up at six”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u170",
+  "title": "Working in an Office",
+  "cefr": "B1",
+  "text": "Sara has an office job in a large office building in the city centre. She goes to the office by bus every morning, and her office hours are from nine to five. She works for a bank manager, who has a lot of meetings, so she answers the phone and writes his emails. In the same company, there is a shop manager who looks after a chain of small shops. Sara's friend works as a personal secretary for the manager of a hotel. At first, Sara thought that an office worker had an easy life, but after a few weeks she changed her mind. There are always new tasks, and some days she works late. She also learned that the most important thing is good communication. \"A secretary,\" she says, \"must know everything and say very little.\" Now she is learning Chinese, because her bank wants to work with new customers abroad.",
+  "key_words": [
+   {
+    "word": "work in an office",
+    "translation_uz": "ofisda ishlamoq"
+   },
+   {
+    "word": "an office worker",
+    "translation_uz": "ofis xodimi"
+   },
+   {
+    "word": "an office building",
+    "translation_uz": "ofis binosi"
+   },
+   {
+    "word": "go to the office",
+    "translation_uz": "ofisga bormoq"
+   },
+   {
+    "word": "office hours",
+    "translation_uz": "ish soatlari"
+   },
+   {
+    "word": "a bank manager",
+    "translation_uz": "bank boshqaruvchisi"
+   },
+   {
+    "word": "a personal secretary",
+    "translation_uz": "shaxsiy kotib"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How does Sara go to the office?",
+    "options": [
+     "On foot",
+     "By train",
+     "By car",
+     "By bus"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “She goes to the office by bus every morning”"
+   },
+   {
+    "question": "What does Sara do for the bank manager?",
+    "options": [
+     "Looks after shops",
+     "Answers the phone and writes emails",
+     "Teaches Chinese",
+     "Meets customers abroad"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “she answers the phone and writes his emails”"
+   },
+   {
+    "question": "Why is Sara learning Chinese?",
+    "options": [
+     "Her friend speaks Chinese",
+     "She wants to travel",
+     "She wants a new job",
+     "The bank wants to work with new customers abroad"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “her bank wants to work with new customers abroad”"
+   },
+   {
+    "question": "[True / False / Not Given] Sara's office hours are from nine to five.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “her office hours are from nine to five” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] Sara thinks that office work is always easy.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “after a few weeks she changed her mind” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] Sara's friend works for a hotel manager in another city.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A secretary must know everything and say very ___.",
+    "correct_word": "little",
+    "accept": [
+     "littles"
+    ],
+    "explanation": "Matnda: “say very little”"
+   }
+  ]
+ },
+ {
+  "target": "kw-preintermediate:u174",
+  "title": "A Visit to the Museum",
+  "cefr": "B1",
+  "text": "Last weekend, our class visited a history museum in the capital. A museum guide met us at the entrance and told us about an exhibition in the museum that is called \"Life in the Past\". We saw old clothes, tools and coins from hundreds of years ago. After the museum, we went to an art gallery next door. A famous painting in the art gallery was so big that it took up the whole wall. In the evening, some of us decided to go to the cinema, while others preferred to go to the theatre. The cinema ticket was cheap, but it was difficult to book theatre tickets for the same night because the theatre was full. At last, the group agreed to go to the cinema together. It was a long day, but we learned a lot, and our teacher said that she was proud of us.",
+  "key_words": [
+   {
+    "word": "visit a museum",
+    "translation_uz": "muzeyga tashrif buyurmoq"
+   },
+   {
+    "word": "a museum guide",
+    "translation_uz": "muzey gidi"
+   },
+   {
+    "word": "an exhibition in a museum",
+    "translation_uz": "muzeydagi ko'rgazma"
+   },
+   {
+    "word": "an art gallery",
+    "translation_uz": "san'at galereyasi"
+   },
+   {
+    "word": "go to the cinema",
+    "translation_uz": "kinoga bormoq"
+   },
+   {
+    "word": "a cinema ticket",
+    "translation_uz": "kino chiptasi"
+   },
+   {
+    "word": "book theatre tickets",
+    "translation_uz": "teatr chiptalarini bron qilmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Who met the class at the museum entrance?",
+    "options": [
+     "A museum guide",
+     "A student",
+     "A painter",
+     "The teacher"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “A museum guide met us at the entrance”"
+   },
+   {
+    "question": "What did the students see in the exhibition?",
+    "options": [
+     "Modern paintings",
+     "Old clothes, tools and coins",
+     "Musical instruments",
+     "Films"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “We saw old clothes, tools and coins from hundreds of years ago.”"
+   },
+   {
+    "question": "Why did the group go to the cinema?",
+    "options": [
+     "The cinema was free",
+     "The theatre was closed for a holiday",
+     "The theatre was full",
+     "The teacher wanted it"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “it was difficult to book theatre tickets for the same night because the theatre was full”"
+   },
+   {
+    "question": "[True / False / Not Given] The art gallery was next to the museum.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “an art gallery next door” — demak True."
+   },
+   {
+    "question": "[True / False / Not Given] The cinema tickets were expensive.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The cinema ticket was cheap” — demak False."
+   },
+   {
+    "question": "[True / False / Not Given] The exhibition was free for students.  (matnda bu haqida ma'lumot yo'q bo'lsa: Not Given)",
+    "options": [
+     "True",
+     "False",
+     "Not Given"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda bu haqida hech narsa aytilmagan (Not Given)."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "A famous painting was so big that it took up the whole ___.",
+    "correct_word": "wall",
+    "accept": [
+     "walls"
+    ],
+    "explanation": "Matnda: “it took up the whole wall”"
+   }
+  ]
+ }
+]

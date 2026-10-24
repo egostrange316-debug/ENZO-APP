@@ -5,7 +5,7 @@ const schema = new mongoose.Schema(
   {
     user: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
     date: { type: String, required: true, match: /^\d{4}-\d{2}-\d{2}$/ },
-    status: { type: String, enum: ['present', 'absent'], required: true },
+    status: { type: String, enum: ['present', 'absent', 'late', 'excused'], required: true },
     by: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
   },
   { timestamps: true }

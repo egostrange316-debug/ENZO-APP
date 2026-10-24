@@ -1,0 +1,5270 @@
+[
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Weekend at the Farm",
+  "minutes": 10,
+  "paras": {
+   "A": "Last Saturday, Emma and her cousin visited a farm in the countryside. There were cows, sheep, pigs and chickens. A friendly farmer showed them how to feed the animals. Emma gave some food to a goat, and it ate it very quickly. Her cousin was afraid of the big horse, but he touched it in the end. In the afternoon, they fed the chickens and collected eggs. Emma's favourite animal was a small rabbit. She wanted to take it home, but the farmer said, \"It is not a pet. It lives here.\" On the way home, both children were tired but very happy."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who visited the farm?",
+      [
+       "Emma and a farmer",
+       "Emma and her cousin",
+       "Emma and her teacher",
+       "Emma and her mother"
+      ],
+      1,
+      "Emma and her cousin visited a farm"
+     ],
+     [
+      "Which animal ate its food very quickly?",
+      [
+       "The horse",
+       "The rabbit",
+       "The pig",
+       "The goat"
+      ],
+      3,
+      "Emma gave some food to a goat, and it ate it very quickly."
+     ],
+     [
+      "What was Emma's favourite animal?",
+      [
+       "A big horse",
+       "A goat",
+       "A small rabbit",
+       "A chicken"
+      ],
+      2,
+      "Emma's favourite animal was a small rabbit."
+     ],
+     [
+      "How did the children feel on the way home?",
+      [
+       "Tired but very happy",
+       "Sad and angry",
+       "Afraid",
+       "Bored"
+      ],
+      0,
+      "both children were tired but very happy"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Emma's cousin never touched the horse.",
+      "F",
+      "he touched it in the end"
+     ],
+     [
+      "The farmer let Emma take the rabbit home.",
+      "F",
+      "It is not a pet. It lives here."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "In the afternoon, they fed the ___ and collected eggs.",
+      [
+       "chickens",
+       "chicken"
+      ],
+      "they fed the chickens and collected eggs"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "farm",
+    "ferma"
+   ],
+   [
+    "feed",
+    "oziq bermoq / boqmoq"
+   ],
+   [
+    "goat",
+    "echki"
+   ],
+   [
+    "horse",
+    "ot"
+   ],
+   [
+    "rabbit",
+    "quyon"
+   ],
+   [
+    "afraid",
+    "qo'rqqan"
+   ],
+   [
+    "pet",
+    "uy hayvoni"
+   ]
+  ],
+  "id": "ele1"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Trip to Samarkand",
+  "minutes": 10,
+  "paras": {
+   "A": "Karim wants to visit Samarkand, so on Friday he goes to the train station. First he looks at the timetable. The train leaves at half past seven from platform four. He buys a return ticket because he wants to come back on Sunday. The journey takes about two hours on the fast train. In Samarkand, he takes a taxi to the hotel and checks in. The receptionist gives him a key and a map of the city. Karim is very excited, because tomorrow he wants to see the famous old buildings."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What does Karim look at first at the station?",
+      [
+       "The hotel",
+       "The platform",
+       "The timetable",
+       "The map"
+      ],
+      2,
+      "First he looks at the timetable."
+     ],
+     [
+      "Which platform does the train leave from?",
+      [
+       "Platform seven",
+       "Platform four",
+       "Platform ten",
+       "Platform two"
+      ],
+      1,
+      "from platform four"
+     ],
+     [
+      "How does Karim go from the station to the hotel?",
+      [
+       "By bicycle",
+       "On foot",
+       "By bus",
+       "By taxi"
+      ],
+      3,
+      "he takes a taxi to the hotel"
+     ],
+     [
+      "What does the receptionist give Karim?",
+      [
+       "A key and a map",
+       "A map and a taxi",
+       "A key and a bill",
+       "A ticket and a timetable"
+      ],
+      0,
+      "The receptionist gives him a key and a map of the city."
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Karim buys a return ticket because he wants to come back on Sunday.",
+      "T",
+      "He buys a return ticket because he wants to come back on Sunday."
+     ],
+     [
+      "The journey takes about five hours.",
+      "F",
+      "The journey takes about two hours on the fast train."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "In Samarkand, Karim takes a taxi to the hotel and ___ in.",
+      [
+       "checks",
+       "check"
+      ],
+      "takes a taxi to the hotel and checks in"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "timetable",
+    "jadval"
+   ],
+   [
+    "platform",
+    "platforma"
+   ],
+   [
+    "return ticket",
+    "borib-qaytish bileti"
+   ],
+   [
+    "journey",
+    "sayohat / yo'l"
+   ],
+   [
+    "check in",
+    "ro'yxatdan o'tmoq"
+   ],
+   [
+    "map",
+    "xarita"
+   ]
+  ],
+  "id": "ele2"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Christmas in Britain",
+  "minutes": 10,
+  "paras": {
+   "A": "In Britain, Christmas is on the twenty-fifth of December. Families put up a Christmas tree in the living room and decorate it with lights. On Christmas morning, children open their presents. Many families have a big dinner together, and some people go to church. The day after Christmas is a bank holiday, so banks and many shops are closed. Another special night is New Year's Eve. People watch fireworks and sing together at midnight. For many British people, these holidays are the best time of the year."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When is Christmas in Britain?",
+      [
+       "On the twenty-fourth of November",
+       "On the twenty-fifth of December",
+       "On the first of January",
+       "On the sixth of December"
+      ],
+      1,
+      "Christmas is on the twenty-fifth of December"
+     ],
+     [
+      "What do families put in the living room?",
+      [
+       "A Christmas tree",
+       "Fireworks",
+       "A new sofa",
+       "A table for the garden"
+      ],
+      0,
+      "Families put up a Christmas tree in the living room"
+     ],
+     [
+      "What do children do on Christmas morning?",
+      [
+       "They go shopping",
+       "They go to school",
+       "They watch fireworks",
+       "They open their presents"
+      ],
+      3,
+      "children open their presents"
+     ],
+     [
+      "What do people do on New Year's Eve?",
+      [
+       "Go to school",
+       "Go to church only",
+       "Watch fireworks and sing",
+       "Open presents"
+      ],
+      2,
+      "People watch fireworks and sing together at midnight."
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Banks are open on the day after Christmas.",
+      "F",
+      "so banks and many shops are closed"
+     ],
+     [
+      "Some people go to church at Christmas.",
+      "T",
+      "some people go to church"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The day after Christmas is a bank ___.",
+      [
+       "holiday",
+       "holidays"
+      ],
+      "The day after Christmas is a bank holiday"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "Christmas tree",
+    "Rojdestvo archasi"
+   ],
+   [
+    "present",
+    "sovg'a"
+   ],
+   [
+    "bank holiday",
+    "dam olish (rasmiy bayram) kuni"
+   ],
+   [
+    "New Year's Eve",
+    "Yangi yil kechasi"
+   ],
+   [
+    "fireworks",
+    "fayerverk / mushaklar"
+   ]
+  ],
+  "id": "ele3"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Thief in the Shop",
+  "minutes": 10,
+  "paras": {
+   "A": "Last Monday, a thief stole a bag from a shop in the town centre. A shop assistant saw him and shouted. The man ran away, but a police officer arrested him near the station. At the police station, the thief said, \"I am innocent!\" But a camera in the shop showed everything. The next week, the court said he was guilty. He did not go to prison, but he had to pay a fine. The judge also said, \"Stealing is a crime, and it is never a good idea.\""
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What did the thief steal?",
+      [
+       "A bag",
+       "A phone",
+       "A bicycle",
+       "A coat"
+      ],
+      0,
+      "a thief stole a bag from a shop"
+     ],
+     [
+      "Who arrested the thief?",
+      [
+       "A judge",
+       "A police officer",
+       "A shop assistant",
+       "A farmer"
+      ],
+      1,
+      "a police officer arrested him near the station"
+     ],
+     [
+      "What showed everything?",
+      [
+       "A witness",
+       "A police dog",
+       "A camera in the shop",
+       "A newspaper"
+      ],
+      2,
+      "a camera in the shop showed everything"
+     ],
+     [
+      "What was the punishment?",
+      [
+       "He had to leave the town",
+       "He went to prison",
+       "He lost his job",
+       "He had to pay a fine"
+      ],
+      3,
+      "he had to pay a fine"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The thief said he was innocent.",
+      "T",
+      "I am innocent!"
+     ],
+     [
+      "The thief went to prison.",
+      "F",
+      "He did not go to prison"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The next week, the court said he was ___.",
+      [
+       "guilty",
+       "guiltys"
+      ],
+      "the court said he was guilty"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "thief",
+    "o'g'ri"
+   ],
+   [
+    "steal",
+    "o'g'irlamoq"
+   ],
+   [
+    "arrest",
+    "hibsga olmoq"
+   ],
+   [
+    "innocent",
+    "begunoh"
+   ],
+   [
+    "guilty",
+    "aybdor"
+   ],
+   [
+    "fine",
+    "jarima"
+   ],
+   [
+    "court",
+    "sud"
+   ]
+  ],
+  "id": "ele4"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "My Family and the Media",
+  "minutes": 10,
+  "paras": {
+   "A": "We watch a lot of TV in my house. My father watches the news every evening because he likes to know about the world. My mother loves nature programmes, and she reads a magazine on Sundays. My sister likes soap operas, but I prefer documentaries about space. My brother plays games online, and he also watches interviews with football players on his phone. My grandfather does not use the internet. He reads the newspaper every morning and says, \"Journalists write better articles than websites.\" I think we need both: newspapers and online news."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When does the father watch the news?",
+      [
+       "On Sundays",
+       "At the weekend",
+       "Every morning",
+       "Every evening"
+      ],
+      3,
+      "My father watches the news every evening"
+     ],
+     [
+      "What does the writer prefer to watch?",
+      [
+       "Soap operas",
+       "Sports programmes",
+       "Documentaries about space",
+       "Nature programmes"
+      ],
+      2,
+      "I prefer documentaries about space"
+     ],
+     [
+      "What does the grandfather read every morning?",
+      [
+       "A magazine",
+       "The newspaper",
+       "A book",
+       "Online news"
+      ],
+      1,
+      "He reads the newspaper every morning"
+     ],
+     [
+      "What does the writer think at the end?",
+      [
+       "We need both newspapers and online news",
+       "TV is the best",
+       "Websites are better",
+       "Newspapers are better"
+      ],
+      0,
+      "I think we need both: newspapers and online news."
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The mother reads a magazine every day.",
+      "F",
+      "she reads a magazine on Sundays"
+     ],
+     [
+      "The sister likes soap operas.",
+      "T",
+      "My sister likes soap operas"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The grandfather does not use the ___.",
+      [
+       "internet",
+       "internets"
+      ],
+      "My grandfather does not use the internet."
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "news",
+    "yangiliklar"
+   ],
+   [
+    "documentaries",
+    "hujjatli filmlar"
+   ],
+   [
+    "soap opera",
+    "teleserial"
+   ],
+   [
+    "newspaper",
+    "gazeta"
+   ],
+   [
+    "magazine",
+    "jurnal"
+   ],
+   [
+    "journalist",
+    "jurnalist"
+   ],
+   [
+    "article",
+    "maqola"
+   ]
+  ],
+  "id": "ele5"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Bad Morning",
+  "minutes": 10,
+  "paras": {
+   "A": "Today was a very bad morning for Mr Green. First, he lost his keys and looked for them for ten minutes. Then the washing machine was broken, and water went onto the kitchen floor. His wife was angry and they had a row. At work, he was late and the photocopier was out of order. A colleague said, \"Don't worry. I can repair it.\" In the end, Mr Green apologised to his wife on the phone and bought some flowers on the way home."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What did Mr Green lose?",
+      [
+       "His wallet",
+       "His coat",
+       "His phone",
+       "His keys"
+      ],
+      3,
+      "he lost his keys"
+     ],
+     [
+      "What was broken in the kitchen?",
+      [
+       "The door",
+       "The window",
+       "The washing machine",
+       "The fridge"
+      ],
+      2,
+      "the washing machine was broken"
+     ],
+     [
+      "Who offered to repair the photocopier?",
+      [
+       "His wife",
+       "A colleague",
+       "His boss",
+       "A police officer"
+      ],
+      1,
+      "A colleague said, \"Don't worry. I can repair it.\""
+     ],
+     [
+      "What did Mr Green buy on the way home?",
+      [
+       "Some flowers",
+       "A new key",
+       "A newspaper",
+       "A washing machine"
+      ],
+      0,
+      "bought some flowers on the way home"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Mr Green was on time for work.",
+      "F",
+      "he was late"
+     ],
+     [
+      "Mr Green and his wife had a row.",
+      "T",
+      "they had a row"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The photocopier was out of ___.",
+      [
+       "order",
+       "orders"
+      ],
+      "the photocopier was out of order"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "lost",
+    "yo'qotdi (lose – yo'qotmoq)"
+   ],
+   [
+    "look for",
+    "qidirmoq"
+   ],
+   [
+    "broken",
+    "buzilgan"
+   ],
+   [
+    "row",
+    "janjal"
+   ],
+   [
+    "apologise",
+    "kechirim so'ramoq"
+   ],
+   [
+    "colleague",
+    "hamkasb"
+   ],
+   [
+    "out of order",
+    "ishlamayapti / buzuq"
+   ],
+   [
+    "repair",
+    "ta'mirlamoq"
+   ]
+  ],
+  "id": "ele6"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Problems in Big Cities",
+  "minutes": 10,
+  "paras": {
+   "A": "Big cities have many problems. Millions of people live in crowded streets, and in the rush hour there are always traffic jams. Cars and factories make the air polluted, so many people have breathing problems. Some cities also have homeless people and unemployed young men and women. But people are looking for solutions. Some cities build cycle lanes and ask people to use buses and trains. Others plant trees and make new parks. Small changes can help to make a big city a better place to live."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What happens in the rush hour?",
+      [
+       "The streets are empty",
+       "The air is clean",
+       "There is no traffic",
+       "There are traffic jams"
+      ],
+      3,
+      "in the rush hour there are always traffic jams"
+     ],
+     [
+      "What makes the air polluted?",
+      [
+       "Cars and factories",
+       "Parks and trees",
+       "Buses and trains",
+       "Bicycles"
+      ],
+      0,
+      "Cars and factories make the air polluted"
+     ],
+     [
+      "What do some cities build?",
+      [
+       "Airports",
+       "New factories",
+       "Cycle lanes",
+       "Bigger roads only"
+      ],
+      2,
+      "Some cities build cycle lanes"
+     ],
+     [
+      "What is the best title for the text?",
+      [
+       "Life in the countryside",
+       "Problems and solutions in big cities",
+       "The history of a city",
+       "How to build a factory"
+      ],
+      1,
+      "Big cities have many problems."
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Polluted air can cause breathing problems.",
+      "T",
+      "many people have breathing problems"
+     ],
+     [
+      "Nobody is looking for solutions.",
+      "F",
+      "But people are looking for solutions."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Some cities ask people to use buses and ___.",
+      [
+       "trains",
+       "train"
+      ],
+      "ask people to use buses and trains"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "crowded",
+    "gavjum"
+   ],
+   [
+    "rush hour",
+    "gavjum soat"
+   ],
+   [
+    "traffic jam",
+    "tirbandlik"
+   ],
+   [
+    "polluted",
+    "ifloslangan"
+   ],
+   [
+    "homeless",
+    "uysiz"
+   ],
+   [
+    "unemployed",
+    "ishsiz"
+   ],
+   [
+    "solution",
+    "yechim"
+   ]
+  ],
+  "id": "ele7"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Day in My Life",
+  "minutes": 10,
+  "paras": {
+   "A": "I get up at half past six and have a shower. Then I have breakfast with my family and listen to the radio. I go to work by bus. I work in an office and write emails all day. I come home at six o'clock and make dinner. In the evening I phone a friend or watch TV. At the weekend, I clean the house and go for a walk in the park. I go to bed at eleven. I go shopping only once a week, but I go for a walk three times a week."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How does the writer go to work?",
+      [
+       "By car",
+       "On foot",
+       "By bicycle",
+       "By bus"
+      ],
+      3,
+      "I go to work by bus."
+     ],
+     [
+      "What does the writer do all day at work?",
+      [
+       "Cooks dinner",
+       "Writes emails",
+       "Drives a bus",
+       "Cleans the house"
+      ],
+      1,
+      "write emails all day"
+     ],
+     [
+      "What time does the writer go to bed?",
+      [
+       "At eleven",
+       "At ten",
+       "At nine",
+       "At midnight"
+      ],
+      0,
+      "I go to bed at eleven."
+     ],
+     [
+      "How often does the writer go shopping?",
+      [
+       "Every day",
+       "Three times a week",
+       "Once a week",
+       "Once a month"
+      ],
+      2,
+      "I go shopping only once a week"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer comes home at six o'clock.",
+      "T",
+      "I come home at six o'clock"
+     ],
+     [
+      "The writer watches TV in the morning.",
+      "F",
+      "In the evening I phone a friend or watch TV."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "At the weekend, the writer cleans the ___.",
+      [
+       "house",
+       "houses"
+      ],
+      "I clean the house and go for a walk in the park"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "get up",
+    "o'rnidan turmoq"
+   ],
+   [
+    "have a shower",
+    "dush qabul qilmoq"
+   ],
+   [
+    "go to work",
+    "ishga bormoq"
+   ],
+   [
+    "make dinner",
+    "kechki ovqat tayyorlamoq"
+   ],
+   [
+    "go to bed",
+    "uxlashga yotmoq"
+   ],
+   [
+    "how often",
+    "qanchalik tez-tez"
+   ]
+  ],
+  "id": "ele8"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Busy Weekend",
+  "minutes": 10,
+  "paras": {
+   "A": "Last weekend was very busy for me. On Saturday morning, I had breakfast at eight and then I had a lesson at the language school. At twelve, I had lunch with my friend Zarina. In the afternoon, we had a swim in the pool, and later we had a cup of tea in a small café. In the evening, I had a party at my house. We had a very good time, and my neighbour even had a look at our pictures. On Sunday, I did nothing. I had a long rest and I felt great."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What did the writer have at the language school?",
+      [
+       "A lesson",
+       "An exam",
+       "A party",
+       "A swim"
+      ],
+      0,
+      "I had a lesson at the language school"
+     ],
+     [
+      "Who did the writer have lunch with?",
+      [
+       "A neighbour",
+       "Zarina",
+       "Her mother",
+       "A teacher"
+      ],
+      1,
+      "I had lunch with my friend Zarina"
+     ],
+     [
+      "Where did they have a cup of tea?",
+      [
+       "In the pool",
+       "At home",
+       "At school",
+       "In a small café"
+      ],
+      3,
+      "we had a cup of tea in a small café"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer had a party on Saturday evening.",
+      "T",
+      "In the evening, I had a party at my house."
+     ],
+     [
+      "The writer was very busy on Sunday.",
+      "F",
+      "On Sunday, I did nothing."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "In the afternoon, they had a ___ in the pool.",
+      [
+       "swim",
+       "swims"
+      ],
+      "we had a swim in the pool"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "have breakfast",
+    "nonushta qilmoq"
+   ],
+   [
+    "have a lesson",
+    "darsga qatnashmoq"
+   ],
+   [
+    "have a swim",
+    "suzmoq"
+   ],
+   [
+    "have a party",
+    "ziyofat qilmoq"
+   ],
+   [
+    "have a good time",
+    "vaqtni yaxshi o'tkazmoq"
+   ],
+   [
+    "had",
+    "(have ning o'tgan zamoni)"
+   ]
+  ],
+  "id": "ele9"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Where Did You Go?",
+  "minutes": 10,
+  "paras": {
+   "A": "Last month, my family went to the mountains. We went by car, and we went up the hill to a small village. In the morning, my brother and I went swimming in a cold lake. In the afternoon, we went fishing with my uncle, but we did not catch anything. In the evening, we went sightseeing in the old town and went shopping for gifts. After three days, we went home. My mother says that next year we are going to visit the sea."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How did the family travel to the mountains?",
+      [
+       "By train",
+       "By bus",
+       "By car",
+       "By plane"
+      ],
+      2,
+      "We went by car"
+     ],
+     [
+      "What did the brother and the writer do in the morning?",
+      [
+       "They went shopping",
+       "They went home",
+       "They went swimming in a lake",
+       "They went fishing"
+      ],
+      2,
+      "my brother and I went swimming in a cold lake"
+     ],
+     [
+      "Who went fishing with them?",
+      [
+       "Their father",
+       "Their uncle",
+       "A friend",
+       "The farmer"
+      ],
+      1,
+      "we went fishing with my uncle"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "They caught a lot of fish.",
+      "F",
+      "we did not catch anything"
+     ],
+     [
+      "The family stayed for three days.",
+      "T",
+      "After three days, we went home."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Next year, they are going to visit the ___.",
+      [
+       "sea",
+       "seas"
+      ],
+      "next year we are going to visit the sea"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "go by car",
+    "mashinada bormoq"
+   ],
+   [
+    "go swimming",
+    "suzishga bormoq"
+   ],
+   [
+    "go fishing",
+    "baliq ovlashga bormoq"
+   ],
+   [
+    "go sightseeing",
+    "diqqatga sazovor joylarni ko'rishga bormoq"
+   ],
+   [
+    "go shopping",
+    "xarid qilishga bormoq"
+   ],
+   [
+    "be going to",
+    "... qilmoqchi bo'lmoq"
+   ]
+  ],
+  "id": "ele10"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Doing the Housework",
+  "minutes": 10,
+  "paras": {
+   "A": "Every Saturday, our family does the housework together. My father does the gardening and my mother does the washing. My brother does the washing-up after breakfast, and I do my homework first. Then I help my mother with the cleaning, and we all work hard because the house is quite big. Last Saturday, we did everything in two hours, and my mother said, \"You did your best!\" Now the house is tidy. In the afternoon, we do nothing and watch a film together."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who does the gardening?",
+      [
+       "The father",
+       "The writer",
+       "The brother",
+       "The mother"
+      ],
+      0,
+      "My father does the gardening"
+     ],
+     [
+      "What does the brother do after breakfast?",
+      [
+       "His homework",
+       "The washing",
+       "The gardening",
+       "The washing-up"
+      ],
+      3,
+      "My brother does the washing-up after breakfast"
+     ],
+     [
+      "How long did the family take to finish the housework last Saturday?",
+      [
+       "Ten minutes",
+       "Half a day",
+       "Two hours",
+       "One hour"
+      ],
+      2,
+      "we did everything in two hours"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer does homework first.",
+      "T",
+      "I do my homework first"
+     ],
+     [
+      "The family does housework on Sunday.",
+      "F",
+      "Every Saturday, our family does the housework together."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "My mother said, \"You did your ___!\"",
+      [
+       "best",
+       "bests"
+      ],
+      "You did your best!"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "do the housework",
+    "uy ishlarini qilmoq"
+   ],
+   [
+    "do the gardening",
+    "bog'dorchilik qilmoq"
+   ],
+   [
+    "do the washing",
+    "kir yuvmoq"
+   ],
+   [
+    "do the washing-up",
+    "idish yuvmoq"
+   ],
+   [
+    "do homework",
+    "uy vazifasini qilmoq"
+   ],
+   [
+    "do your best",
+    "qo'lidan kelganini qilmoq"
+   ]
+  ],
+  "id": "ele11"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Making Dinner",
+  "minutes": 10,
+  "paras": {
+   "A": "Today I made dinner for my family for the first time. First, I made a cup of coffee for my mother because she was tired. Then I made the dinner: rice with vegetables and chicken. I made a big mistake and added too much salt, so my brother made a funny face. My father made a joke, and everybody laughed. After dinner, I made a mess in the kitchen, but my sister helped me. She also made the bed in my room, because I did not have time. Tomorrow I am going to make an appointment with my friend to cook together."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who did the writer make coffee for?",
+      [
+       "For the brother",
+       "For the mother",
+       "For the father",
+       "For a friend"
+      ],
+      1,
+      "I made a cup of coffee for my mother"
+     ],
+     [
+      "What was the writer's mistake?",
+      [
+       "Too little rice",
+       "No chicken",
+       "Burnt vegetables",
+       "Too much salt"
+      ],
+      3,
+      "I made a big mistake and added too much salt"
+     ],
+     [
+      "Who helped in the kitchen?",
+      [
+       "The sister",
+       "The father",
+       "The mother",
+       "The brother"
+      ],
+      0,
+      "my sister helped me"
+     ],
+     [
+      "What is the writer going to do tomorrow?",
+      [
+       "Make coffee again",
+       "Make an appointment to cook with a friend",
+       "Go to school",
+       "Buy a new kitchen"
+      ],
+      1,
+      "Tomorrow I am going to make an appointment with my friend to cook together."
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer made dinner for the first time.",
+      "T",
+      "for the first time"
+     ],
+     [
+      "The father was angry about the mistake.",
+      "F",
+      "My father made a joke, and everybody laughed."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The sister made the ___ in the writer's room.",
+      [
+       "bed",
+       "beds"
+      ],
+      "She also made the bed in my room"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "make coffee",
+    "qahva tayyorlamoq"
+   ],
+   [
+    "make dinner",
+    "kechki ovqat tayyorlamoq"
+   ],
+   [
+    "make a mistake",
+    "xato qilmoq"
+   ],
+   [
+    "make a mess",
+    "tartibsizlik qilmoq"
+   ],
+   [
+    "make the bed",
+    "to'shakni yig'ishtirmoq"
+   ],
+   [
+    "make an appointment",
+    "uchrashuv belgilamoq"
+   ]
+  ],
+  "id": "ele12"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Visitors",
+  "minutes": 10,
+  "paras": {
+   "A": "Last night, a friend came to our house. He knocked on the door and said, \"Can I come in?\" He came from the airport because his plane arrived late. My mother said, \"Come in and sit down.\" He came along with a small suitcase. We said, \"Come and see our new garden!\" He came out of the house and looked at the flowers. After tea, he said, \"I must go now, but I will come back tomorrow.\" He came back the next day with a gift. My little sister was very happy and said, \"Come on, let's play!\""
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where did the friend come from?",
+      [
+       "From the airport",
+       "From a restaurant",
+       "From school",
+       "From the garden"
+      ],
+      0,
+      "He came from the airport"
+     ],
+     [
+      "Why did he come late?",
+      [
+       "He lost his key",
+       "He did not know the address",
+       "His plane arrived late",
+       "He was ill"
+      ],
+      2,
+      "his plane arrived late"
+     ],
+     [
+      "What did the family show him?",
+      [
+       "Their photos",
+       "A film",
+       "A new car",
+       "The new garden"
+      ],
+      3,
+      "Come and see our new garden!"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The friend came back the next day.",
+      "T",
+      "He came back the next day with a gift."
+     ],
+     [
+      "The friend stayed for a week.",
+      "F",
+      "I must go now, but I will come back tomorrow"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The friend knocked on the ___.",
+      [
+       "door",
+       "doors"
+      ],
+      "He knocked on the door"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "come in",
+    "kirmoq"
+   ],
+   [
+    "come from",
+    "... dan kelmoq"
+   ],
+   [
+    "come out of",
+    "... dan chiqmoq"
+   ],
+   [
+    "come back",
+    "qaytib kelmoq"
+   ],
+   [
+    "come and see",
+    "kelib ko'ring"
+   ],
+   [
+    "come on",
+    "qani, bo'ldi / yur"
+   ]
+  ],
+  "id": "ele13"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Day at the Beach",
+  "minutes": 10,
+  "paras": {
+   "A": "Last Sunday, we took the bus to the beach. It took us about an hour. We took an umbrella and some water, because it was hot. My father took many photos of the sea and the sand. My brother took a swimming lesson in the morning. At lunch, my mother took the sandwiches out of the bag. In the afternoon, we took a short walk to the museum near the beach. How long did it take to go home? Only forty minutes, because there was no traffic. I took a deep breath and said, \"What a great day!\""
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How did the family go to the beach?",
+      [
+       "By car",
+       "By taxi",
+       "By train",
+       "By bus"
+      ],
+      3,
+      "we took the bus to the beach"
+     ],
+     [
+      "How long did it take to go to the beach?",
+      [
+       "Half an hour",
+       "About an hour",
+       "Three hours",
+       "Ten minutes"
+      ],
+      1,
+      "It took us about an hour."
+     ],
+     [
+      "Who took many photos?",
+      [
+       "The mother",
+       "The brother",
+       "The father",
+       "The writer"
+      ],
+      2,
+      "My father took many photos"
+     ],
+     [
+      "Why did the trip home take only forty minutes?",
+      [
+       "There was no traffic",
+       "They took a taxi",
+       "They left early",
+       "The bus was fast"
+      ],
+      0,
+      "because there was no traffic"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The brother took a swimming lesson.",
+      "T",
+      "My brother took a swimming lesson in the morning."
+     ],
+     [
+      "The family took a taxi home.",
+      "F",
+      "Only forty minutes, because there was no traffic."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "They took an umbrella and some ___.",
+      [
+       "water",
+       "waters"
+      ],
+      "We took an umbrella and some water"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "take the bus",
+    "avtobusga o'tirmoq"
+   ],
+   [
+    "how long",
+    "qancha vaqt"
+   ],
+   [
+    "take a photo",
+    "rasm olmoq"
+   ],
+   [
+    "take lessons",
+    "dars olmoq"
+   ],
+   [
+    "take an umbrella",
+    "soyabon olmoq"
+   ],
+   [
+    "took",
+    "(take ning o'tgan zamoni)"
+   ]
+  ],
+  "id": "ele14"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Party",
+  "minutes": 10,
+  "paras": {
+   "A": "Tomorrow is Nina's birthday party, and everybody is going to bring something. Her aunt brought apples yesterday, and her uncle will bring flowers for the table. \"Please bring a glass and a plate,\" says Nina's mother. \"And bring your book back to the library, too,\" she tells Nina's brother. The secretary from Nina's father's office will bring a big cake tomorrow. Nina says, \"Please do not bring a present. Just bring your smile!\" Her friends are coming at five o'clock, and the house is already full of balloons. Nina is very excited and cannot wait to see everybody."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Who brought apples?",
+      [
+       "Nina's mother",
+       "Nina's uncle",
+       "The secretary",
+       "Nina's aunt"
+      ],
+      3,
+      "Her aunt brought apples yesterday"
+     ],
+     [
+      "What will the uncle bring?",
+      [
+       "Apples",
+       "Flowers",
+       "A glass",
+       "A cake"
+      ],
+      1,
+      "her uncle will bring flowers for the table"
+     ],
+     [
+      "What must Nina's brother bring back to the library?",
+      [
+       "A cake",
+       "A plate",
+       "His book",
+       "A glass"
+      ],
+      2,
+      "bring your book back to the library"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Nina's mother asks for a glass and a plate.",
+      "T",
+      "Please bring a glass and a plate"
+     ],
+     [
+      "Nina wants everybody to bring a big present.",
+      "F",
+      "Please do not bring a present."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Nina says, \"Just bring your ___!\"",
+      [
+       "smile",
+       "smiles"
+      ],
+      "Just bring your smile!"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "bring",
+    "olib kelmoq"
+   ],
+   [
+    "brought",
+    "(bring ning o'tgan zamoni)"
+   ],
+   [
+    "bring back",
+    "qaytarib olib kelmoq"
+   ],
+   [
+    "apples",
+    "olmalar"
+   ],
+   [
+    "flowers",
+    "gullar"
+   ],
+   [
+    "glass",
+    "stakan"
+   ],
+   [
+    "plate",
+    "likopcha"
+   ]
+  ],
+  "id": "ele15"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Getting Better",
+  "minutes": 10,
+  "paras": {
+   "A": "Yesterday my little brother was ill. In the morning, he got tired very quickly, and in the afternoon he got a high temperature, so my father got a doctor. The doctor said, \"He will get better in two days.\" In the evening it got dark and cold, and my mother got a blanket for him. She also got a newspaper for my father and a taxi for the doctor. Today my brother is much better. He got up at nine and got dressed. \"I want to get home from school early tomorrow,\" he says. \"I want to play with you!\""
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Why did the father get a doctor?",
+      [
+       "The brother had a high temperature",
+       "The mother was tired",
+       "The brother broke his leg",
+       "It got dark"
+      ],
+      0,
+      "he got a high temperature, so my father got a doctor"
+     ],
+     [
+      "What did the doctor say?",
+      [
+       "He is not ill",
+       "He will get better in two days",
+       "He must go to school",
+       "He must stay in hospital"
+      ],
+      1,
+      "He will get better in two days."
+     ],
+     [
+      "What did the mother get for the brother?",
+      [
+       "A doctor",
+       "A taxi",
+       "A newspaper",
+       "A blanket"
+      ],
+      3,
+      "my mother got a blanket for him"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The brother is much better today.",
+      "T",
+      "Today my brother is much better."
+     ],
+     [
+      "The brother wants to stay in bed tomorrow.",
+      "F",
+      "I want to play with you!"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The doctor said, \"He will get ___ in two days.\"",
+      [
+       "better",
+       "betters"
+      ],
+      "He will get better in two days."
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "get tired",
+    "charchamoq"
+   ],
+   [
+    "get a doctor",
+    "shifokorni chaqirmoq"
+   ],
+   [
+    "get better",
+    "tuzalmoq"
+   ],
+   [
+    "get dark",
+    "qorong'i bo'lmoq"
+   ],
+   [
+    "get a taxi",
+    "taksi chaqirmoq"
+   ],
+   [
+    "get home",
+    "uyga yetib kelmoq"
+   ]
+  ],
+  "id": "ele16"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Turn It Down!",
+  "minutes": 10,
+  "paras": {
+   "A": "My brother gets up at seven, but he never turns off his alarm clock quickly. He turns on the radio and puts on his school clothes. \"Turn it down!\" shouts my mother, because the music is loud. \"Please turn it off and come on!\" At the door, he takes off his hat and goes in. \"Go on,\" says the teacher, \"you must be on time.\" After school he turns on the computer, but he turns it off at six. When there is a party, he turns up with a big smile, and he puts on his best jacket."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What does the brother turn on in the morning?",
+      [
+       "The radio",
+       "The TV",
+       "The computer",
+       "The light"
+      ],
+      0,
+      "He turns on the radio"
+     ],
+     [
+      "Why does the mother shout \"Turn it down!\"?",
+      [
+       "The brother is ill",
+       "It is late",
+       "The music is loud",
+       "The radio is broken"
+      ],
+      2,
+      "because the music is loud"
+     ],
+     [
+      "What does the brother do at six?",
+      [
+       "Goes to school",
+       "Turns on the radio",
+       "Turns off the computer",
+       "Goes to bed"
+      ],
+      2,
+      "he turns it off at six"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The brother gets up at seven.",
+      "T",
+      "My brother gets up at seven"
+     ],
+     [
+      "The brother wears his best jacket to school every day.",
+      "F",
+      "When there is a party, he turns up with a big smile, and he puts on his best jacket."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "At the door, he takes ___ his hat.",
+      [
+       "off",
+       "offs"
+      ],
+      "he takes off his hat"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "get up",
+    "o'rnidan turmoq"
+   ],
+   [
+    "turn on",
+    "yoqmoq"
+   ],
+   [
+    "turn off",
+    "o'chirmoq"
+   ],
+   [
+    "turn down",
+    "pasaytirmoq (ovozni)"
+   ],
+   [
+    "put on",
+    "kiymoq"
+   ],
+   [
+    "take off",
+    "yechmoq"
+   ],
+   [
+    "come on",
+    "qani, tezroq"
+   ]
+  ],
+  "id": "ele17"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Tell Me a Story",
+  "minutes": 10,
+  "paras": {
+   "A": "My grandfather loves to tell stories. Every evening, my cousins and I ask him, \"Please tell us a story!\" He speaks slowly and clearly, and he never says the same story twice. Last night he told us a funny story about a talking horse. We all laughed, and my little cousin asked, \"Is it true?\" My grandfather answered, \"Maybe!\" Then he told a joke and said, \"Now you tell me a story.\" I replied, \"I do not speak as well as you, but I will try.\" Everybody clapped."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What does the grandfather love to do?",
+      [
+       "Tell stories",
+       "Read the news",
+       "Cook dinner",
+       "Play football"
+      ],
+      0,
+      "My grandfather loves to tell stories."
+     ],
+     [
+      "What was last night's story about?",
+      [
+       "A big fish",
+       "A king",
+       "A lost boy",
+       "A talking horse"
+      ],
+      3,
+      "a funny story about a talking horse"
+     ],
+     [
+      "What did the little cousin ask?",
+      [
+       "Who is the king?",
+       "Is it true?",
+       "Where is the horse?",
+       "Can I go to bed?"
+      ],
+      1,
+      "my little cousin asked, \"Is it true?\""
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The grandfather tells the same story every evening.",
+      "F",
+      "he never says the same story twice"
+     ],
+     [
+      "The grandfather told a joke.",
+      "T",
+      "Then he told a joke"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "My grandfather ___ slowly and clearly.",
+      [
+       "speaks",
+       "speak"
+      ],
+      "He speaks slowly and clearly"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "tell a story",
+    "hikoya aytmoq"
+   ],
+   [
+    "speak",
+    "gapirmoq"
+   ],
+   [
+    "ask",
+    "so'ramoq"
+   ],
+   [
+    "answer",
+    "javob bermoq"
+   ],
+   [
+    "reply",
+    "javob qaytarmoq"
+   ],
+   [
+    "joke",
+    "hazil / latifa"
+   ],
+   [
+    "story",
+    "hikoya"
+   ]
+  ],
+  "id": "ele18"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Morning Run",
+  "minutes": 10,
+  "paras": {
+   "A": "Every morning, I walk to the park, and then I run for thirty minutes. Yesterday, I jumped over a small river and almost fell in the water. A man in the park was carrying a big bag, and he asked, \"Can you help me?\" I said yes and carried the bag to the bus stop. Then I ran to catch my own bus, but I missed it and arrived late for school. My teacher smiled and said, \"A good run, but next time you must arrive on time!\" Now I always leave home ten minutes earlier."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How long does the writer run every morning?",
+      [
+       "Ten minutes",
+       "Two hours",
+       "One hour",
+       "Thirty minutes"
+      ],
+      3,
+      "I run for thirty minutes"
+     ],
+     [
+      "What did the writer do for the man with the bag?",
+      [
+       "Bought it",
+       "Carried it to the bus stop",
+       "Opened it",
+       "Lost it"
+      ],
+      1,
+      "carried the bag to the bus stop"
+     ],
+     [
+      "Why was the writer late for school?",
+      [
+       "He or she missed the bus",
+       "The bag was heavy",
+       "The teacher was angry",
+       "The river was too wide"
+      ],
+      0,
+      "I missed it and arrived late for school"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer almost fell into the water.",
+      "T",
+      "almost fell in the water"
+     ],
+     [
+      "The teacher was very angry.",
+      "F",
+      "My teacher smiled"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Now I always leave home ten minutes ___.",
+      [
+       "earlier",
+       "earliers"
+      ],
+      "Now I always leave home ten minutes earlier."
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "walk",
+    "yurmoq"
+   ],
+   [
+    "run",
+    "yugurmoq"
+   ],
+   [
+    "jump",
+    "sakramoq"
+   ],
+   [
+    "fall",
+    "yiqilmoq"
+   ],
+   [
+    "carry",
+    "ko'tarib yurmoq"
+   ],
+   [
+    "catch",
+    "ulgurmoq / tutmoq"
+   ],
+   [
+    "arrive on time",
+    "o'z vaqtida yetib kelmoq"
+   ]
+  ],
+  "id": "ele19"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Because and So",
+  "minutes": 10,
+  "paras": {
+   "A": "I like summer, but I do not like the heat. I want to swim or play tennis, but it is too hot at midday. Because it is hot, I get up early, and I go out before breakfast. After lunch I stay at home, so I read a book. If it is not too hot, I visit my friends in the evening. I also have a part-time job, as a babysitter, because I need some money. When the children go to bed, I do my homework. I am tired, but I am happy."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Why does the writer get up early?",
+      [
+       "Because the job starts early",
+       "Because breakfast is early",
+       "Because it is hot",
+       "Because there is school"
+      ],
+      2,
+      "Because it is hot, I get up early"
+     ],
+     [
+      "What does the writer do after lunch?",
+      [
+       "Reads a book",
+       "Goes swimming",
+       "Visits friends",
+       "Plays tennis"
+      ],
+      0,
+      "After lunch I stay at home, so I read a book."
+     ],
+     [
+      "Why does the writer have a part-time job?",
+      [
+       "He or she loves children",
+       "Friends ask for it",
+       "He or she needs some money",
+       "School is closed"
+      ],
+      2,
+      "because I need some money"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer does homework when the children go to bed.",
+      "T",
+      "When the children go to bed, I do my homework."
+     ],
+     [
+      "The writer likes the heat.",
+      "F",
+      "I do not like the heat."
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "If it is not too hot, I visit my friends in the ___.",
+      [
+       "evening",
+       "evenings"
+      ],
+      "I visit my friends in the evening"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "and",
+    "va"
+   ],
+   [
+    "but",
+    "lekin"
+   ],
+   [
+    "or",
+    "yoki"
+   ],
+   [
+    "because",
+    "chunki"
+   ],
+   [
+    "so",
+    "shuning uchun"
+   ],
+   [
+    "when",
+    "qachonki"
+   ],
+   [
+    "before",
+    "oldin"
+   ],
+   [
+    "after",
+    "keyin"
+   ],
+   [
+    "if",
+    "agar"
+   ]
+  ],
+  "id": "ele20"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Four Seasons",
+  "minutes": 10,
+  "paras": {
+   "A": "There are four seasons in a year: spring, summer, autumn and winter. A year has twelve months, from January to December, and every month has about four weeks. Spring starts in March. The days are warm and the flowers come out. In summer, from June to August, it is hot and people go on holiday. In autumn, the leaves turn yellow and the weather gets cold. Winter is in December, January and February. Every four years there is a leap year, and February has an extra day. My favourite day of the week is Friday, because it is the start of the weekend."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How many months are there in a year?",
+      [
+       "Ten",
+       "Twelve",
+       "Thirteen",
+       "Eleven"
+      ],
+      1,
+      "A year has twelve months"
+     ],
+     [
+      "Which months are summer months in the text?",
+      [
+       "December to February",
+       "March to May",
+       "September to November",
+       "June to August"
+      ],
+      3,
+      "In summer, from June to August"
+     ],
+     [
+      "What happens in a leap year?",
+      [
+       "Summer is shorter",
+       "There are thirteen months",
+       "February has an extra day",
+       "Winter is longer"
+      ],
+      2,
+      "February has an extra day"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Spring starts in March.",
+      "T",
+      "Spring starts in March."
+     ],
+     [
+      "In autumn, the leaves turn red.",
+      "F",
+      "the leaves turn yellow"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The writer's favourite day of the week is ___.",
+      [
+       "friday",
+       "fridays"
+      ],
+      "My favourite day of the week is Friday"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "year",
+    "yil"
+   ],
+   [
+    "month",
+    "oy"
+   ],
+   [
+    "week",
+    "hafta"
+   ],
+   [
+    "weekend",
+    "dam olish kunlari"
+   ],
+   [
+    "spring",
+    "bahor"
+   ],
+   [
+    "summer",
+    "yoz"
+   ],
+   [
+    "autumn",
+    "kuz"
+   ],
+   [
+    "winter",
+    "qish"
+   ],
+   [
+    "leap year",
+    "kabisa yili"
+   ]
+  ],
+  "id": "ele21"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "How Often?",
+  "minutes": 10,
+  "paras": {
+   "A": "I always get up at six o'clock, and I usually have a quick breakfast. I often walk to school with my friends, but sometimes my father takes me by car. I rarely arrive late, and I never forget my homework. I play football twice a week, and I go to the library once a week. Three times a year, my family visits my grandparents in the village. Last year we stayed there for a month. Next week we are going again, and in a moment I will start to pack my bag. Soon it will be the holidays!"
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How often does the writer play football?",
+      [
+       "Twice a week",
+       "Every day",
+       "Once a week",
+       "Three times a year"
+      ],
+      0,
+      "I play football twice a week"
+     ],
+     [
+      "How often does the family visit the grandparents?",
+      [
+       "Twice a week",
+       "Once a week",
+       "Every month",
+       "Three times a year"
+      ],
+      3,
+      "Three times a year, my family visits my grandparents"
+     ],
+     [
+      "When does the writer's father sometimes take him or her to school?",
+      [
+       "Always, by bus",
+       "Sometimes, by car",
+       "Every Sunday",
+       "Never"
+      ],
+      1,
+      "sometimes my father takes me by car"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer never forgets the homework.",
+      "T",
+      "I never forget my homework"
+     ],
+     [
+      "The writer often arrives late.",
+      "F",
+      "I rarely arrive late"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I go to the library ___ a week.",
+      [
+       "once",
+       "onces"
+      ],
+      "I go to the library once a week"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "always",
+    "doim"
+   ],
+   [
+    "usually",
+    "odatda"
+   ],
+   [
+    "often",
+    "tez-tez"
+   ],
+   [
+    "sometimes",
+    "ba'zan"
+   ],
+   [
+    "rarely",
+    "kamdan-kam"
+   ],
+   [
+    "never",
+    "hech qachon"
+   ],
+   [
+    "once a week",
+    "haftasiga bir marta"
+   ],
+   [
+    "twice a week",
+    "haftasiga ikki marta"
+   ],
+   [
+    "three times a year",
+    "yiliga uch marta"
+   ]
+  ],
+  "id": "ele22"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Where Is It?",
+  "minutes": 10,
+  "paras": {
+   "A": "Our school is on the left side of the street, and the park is on the right. At the front of the school there is a garden, and at the back there is a football pitch. My classroom is at the top of the building, and the library is at the bottom. In the middle of the library, there are many tables. On the first day of school, I was at home because I was ill. My brother is abroad now, and he studies at a university in another country. Here and there, you can find pictures of him in our house."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where is the park?",
+      [
+       "On the left side",
+       "At the back of the school",
+       "On the right side of the street",
+       "At the top of the school"
+      ],
+      2,
+      "the park is on the right"
+     ],
+     [
+      "What is at the back of the school?",
+      [
+       "A garden",
+       "A library",
+       "A park",
+       "A football pitch"
+      ],
+      3,
+      "at the back there is a football pitch"
+     ],
+     [
+      "Where is the writer's classroom?",
+      [
+       "At the top of the building",
+       "Next to the park",
+       "At the bottom",
+       "In the garden"
+      ],
+      0,
+      "My classroom is at the top of the building"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The library is at the bottom of the building.",
+      "T",
+      "the library is at the bottom"
+     ],
+     [
+      "The writer's brother lives in the same town.",
+      "F",
+      "My brother is abroad now"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "In the middle of the library, there are many ___.",
+      [
+       "tables",
+       "table"
+      ],
+      "In the middle of the library, there are many tables."
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "left",
+    "chap"
+   ],
+   [
+    "right",
+    "o'ng"
+   ],
+   [
+    "top",
+    "tepa"
+   ],
+   [
+    "bottom",
+    "past"
+   ],
+   [
+    "middle",
+    "o'rta"
+   ],
+   [
+    "front",
+    "old"
+   ],
+   [
+    "back",
+    "orqa"
+   ],
+   [
+    "abroad",
+    "xorijda"
+   ]
+  ],
+  "id": "ele23"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Slowly or Quickly?",
+  "minutes": 10,
+  "paras": {
+   "A": "My brother and I are very different. He drives fast, but I drive slowly and carefully. He talks loudly, and I speak quietly. At school, he sings well, but he plays the guitar badly. I do not sing well, but I play the piano quite well. Our neighbour is a friendly man, but his dog is not friendly at all. Yesterday, the dog ran fast after a cat, and my brother ran after the dog. \"Stop!\" he shouted loudly. \"That is the wrong way!\" The dog did not listen. In the end, I walked quietly to the cat and took it home safely."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How does the writer drive?",
+      [
+       "Loudly",
+       "Slowly and carefully",
+       "Badly",
+       "Fast"
+      ],
+      1,
+      "I drive slowly and carefully"
+     ],
+     [
+      "How does the brother sing?",
+      [
+       "Badly",
+       "Slowly",
+       "Well",
+       "Quietly"
+      ],
+      2,
+      "he sings well"
+     ],
+     [
+      "What did the writer do at the end?",
+      [
+       "Played the piano",
+       "Ran after the dog",
+       "Shouted loudly",
+       "Took the cat home"
+      ],
+      3,
+      "I walked quietly to the cat and took it home"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer talks loudly.",
+      "F",
+      "I speak quietly"
+     ],
+     [
+      "The neighbour's dog is not friendly.",
+      "T",
+      "his dog is not friendly at all"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "My brother drives ___, but I drive slowly.",
+      [
+       "fast",
+       "fasts"
+      ],
+      "He drives fast"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "fast",
+    "tez"
+   ],
+   [
+    "slowly",
+    "sekin"
+   ],
+   [
+    "loudly",
+    "baland ovozda"
+   ],
+   [
+    "quietly",
+    "jimgina"
+   ],
+   [
+    "well",
+    "yaxshi"
+   ],
+   [
+    "badly",
+    "yomon"
+   ],
+   [
+    "carefully",
+    "ehtiyotkorlik bilan"
+   ],
+   [
+    "friendly",
+    "do'stona"
+   ]
+  ],
+  "id": "ele24"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Shopping List",
+  "minutes": 10,
+  "paras": {
+   "A": "My mother writes a shopping list every Saturday. This week she needs a kilo of rice, a litre of milk, a loaf of bread and some butter. We also need sugar for the cake. Money is not a problem, but time is: the shop is far, and there is a lot of traffic. My father gives us some advice. \"Before you go, listen to the news and check the weather,\" he says. \"If it is sunny, walk to the shop and enjoy the fresh air.\" So we take a bag and go on foot."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How much rice does the mother need?",
+      [
+       "Two kilos",
+       "A kilo",
+       "A loaf",
+       "A litre"
+      ],
+      1,
+      "a kilo of rice"
+     ],
+     [
+      "What do they need for the cake?",
+      [
+       "Sugar",
+       "Milk",
+       "Rice",
+       "Butter"
+      ],
+      0,
+      "We also need sugar for the cake."
+     ],
+     [
+      "What does the father advise them to do before they go?",
+      [
+       "Listen to the news and check the weather",
+       "Cook rice",
+       "Go to the bank",
+       "Call the teacher"
+      ],
+      0,
+      "listen to the news and check the weather"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Time is a problem for the family.",
+      "T",
+      "Money is not a problem, but time is"
+     ],
+     [
+      "The shop is near the house.",
+      "F",
+      "the shop is far"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The father says: \"If it is sunny, walk to the ___.\"",
+      [
+       "shop",
+       "shops"
+      ],
+      "walk to the shop"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "rice",
+    "guruch"
+   ],
+   [
+    "milk",
+    "sut"
+   ],
+   [
+    "bread",
+    "non"
+   ],
+   [
+    "butter",
+    "sariyog'"
+   ],
+   [
+    "sugar",
+    "shakar"
+   ],
+   [
+    "money",
+    "pul"
+   ],
+   [
+    "advice",
+    "maslahat"
+   ],
+   [
+    "news",
+    "yangiliklar"
+   ],
+   [
+    "weather",
+    "ob-havo"
+   ]
+  ],
+  "id": "ele25"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Terrible Day, a Wonderful Evening",
+  "minutes": 10,
+  "paras": {
+   "A": "Today started badly. The weather was terrible, the traffic was dreadful and my jacket was wet. At school, the maths test was awful, and my lunch was not bad, but not very good either. Then the evening came, and everything changed. My mother made a lovely dinner, and the smell was wonderful. My father had a great idea: \"Let's watch a film together!\" The film was excellent, and the view of the mountains in it was perfect. At the end, I said that it was a terrible day, but a nice evening."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How was the weather today?",
+      [
+       "Lovely",
+       "Nice",
+       "Perfect",
+       "Terrible"
+      ],
+      3,
+      "The weather was terrible"
+     ],
+     [
+      "How was the maths test?",
+      [
+       "Nice",
+       "Excellent",
+       "Awful",
+       "Wonderful"
+      ],
+      2,
+      "the maths test was awful"
+     ],
+     [
+      "What was the father's idea?",
+      [
+       "To cook dinner",
+       "To watch a film together",
+       "To play a game",
+       "To go for a walk"
+      ],
+      1,
+      "Let's watch a film together!"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer liked the film.",
+      "T",
+      "The film was excellent"
+     ],
+     [
+      "The mother's dinner was bad.",
+      "F",
+      "My mother made a lovely dinner"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The smell of the dinner was ___.",
+      [
+       "wonderful",
+       "wonderfuls"
+      ],
+      "the smell was wonderful"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "terrible",
+    "dahshatli"
+   ],
+   [
+    "awful",
+    "yomon"
+   ],
+   [
+    "dreadful",
+    "juda yomon"
+   ],
+   [
+    "lovely",
+    "ajoyib"
+   ],
+   [
+    "wonderful",
+    "ajoyib (zo'r)"
+   ],
+   [
+    "excellent",
+    "a'lo"
+   ],
+   [
+    "perfect",
+    "mukammal"
+   ],
+   [
+    "nice",
+    "yoqimli"
+   ]
+  ],
+  "id": "ele26"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Words and Prepositions",
+  "minutes": 10,
+  "paras": {
+   "A": "Every morning, I listen to the radio and wait for the bus at the corner. I look at my watch, because I am afraid of being late. At school, I look for my pen under my desk when I lose it. I am good at maths, but I am bad at drawing. My sister is interested in music, and she is proud of her new violin. My mother looks after my little cousin when his parents are at work. I look forward to the weekend, because I always think about football. Last Sunday, I apologised for breaking a window, and I paid for it with my pocket money."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What does the writer wait for at the corner?",
+      [
+       "The teacher",
+       "A friend",
+       "The radio",
+       "The bus"
+      ],
+      3,
+      "wait for the bus at the corner"
+     ],
+     [
+      "What is the sister proud of?",
+      [
+       "Her radio",
+       "Her marks",
+       "Her new violin",
+       "Her drawing"
+      ],
+      2,
+      "she is proud of her new violin"
+     ],
+     [
+      "Who looks after the little cousin?",
+      [
+       "The writer's mother",
+       "The writer",
+       "The teacher",
+       "The sister"
+      ],
+      0,
+      "My mother looks after my little cousin"
+     ],
+     [
+      "How did the writer pay for the window?",
+      [
+       "With the mother's money",
+       "With pocket money",
+       "With a gift",
+       "With a card"
+      ],
+      1,
+      "paid for it with my pocket money"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–4"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer is good at maths.",
+      "T",
+      "I am good at maths"
+     ],
+     [
+      "The writer is bad at maths.",
+      "F",
+      "I am good at maths"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 5–6"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I look forward ___ the weekend.",
+      [
+       "to",
+       "tos"
+      ],
+      "I look forward to the weekend"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 7"
+   }
+  ],
+  "kw": [
+   [
+    "listen to",
+    "... ga quloq solmoq"
+   ],
+   [
+    "wait for",
+    "... ni kutmoq"
+   ],
+   [
+    "look for",
+    "... ni qidirmoq"
+   ],
+   [
+    "look after",
+    "... ga qarab turmoq"
+   ],
+   [
+    "look forward to",
+    "... ni intiqlik bilan kutmoq"
+   ],
+   [
+    "good at",
+    "... da yaxshi"
+   ],
+   [
+    "interested in",
+    "... ga qiziqmoq"
+   ],
+   [
+    "proud of",
+    "... bilan faxrlanmoq"
+   ],
+   [
+    "pay for",
+    "... uchun to'lamoq"
+   ]
+  ],
+  "id": "ele27"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Unhappy and Unkind",
+  "minutes": 10,
+  "paras": {
+   "A": "Last week was bad for Aziz. He was unhappy because his exam was very difficult, and the questions were not easy to understand. On Tuesday, he found a new rule in the book: \"The pre-school is non-smoking.\" He thought, \"It is impossible to remember everything!\" He decided to redo his notes and to rewrite the difficult pages. His friend Rustam was very unkind and laughed at him, but their teacher said, \"That is unfair and unsafe for your friendship.\" On Friday, there was an informal party at school with half-price pizza. Aziz was happy again, and he forgot the whole week."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Why was Aziz unhappy?",
+      [
+       "He was ill",
+       "He had no friends",
+       "He lost his book",
+       "His exam was very difficult"
+      ],
+      3,
+      "He was unhappy because his exam was very difficult"
+     ],
+     [
+      "What did Aziz decide to do?",
+      [
+       "Buy a new book",
+       "Leave school",
+       "Redo his notes and rewrite the difficult pages",
+       "Call his mother"
+      ],
+      2,
+      "redo his notes and to rewrite the difficult pages"
+     ],
+     [
+      "What was on offer at the party?",
+      [
+       "Free books",
+       "Half-price pizza",
+       "A film",
+       "Free tickets"
+      ],
+      1,
+      "half-price pizza"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Rustam was kind to Aziz.",
+      "F",
+      "His friend Rustam was very unkind"
+     ],
+     [
+      "Aziz was happy again on Friday.",
+      "T",
+      "Aziz was happy again"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Aziz decided to ___ his notes.",
+      [
+       "redo",
+       "redos"
+      ],
+      "redo his notes"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "unhappy",
+    "baxtsiz"
+   ],
+   [
+    "unkind",
+    "mehribon emas"
+   ],
+   [
+    "unsafe",
+    "xavfli"
+   ],
+   [
+    "impossible",
+    "imkonsiz"
+   ],
+   [
+    "redo",
+    "qayta qilmoq"
+   ],
+   [
+    "rewrite",
+    "qayta yozmoq"
+   ],
+   [
+    "informal",
+    "norasmiy"
+   ],
+   [
+    "half-price",
+    "yarim narxda"
+   ],
+   [
+    "non-smoking",
+    "chekish mumkin emas"
+   ]
+  ],
+  "id": "ele28"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Useful Worker",
+  "minutes": 10,
+  "paras": {
+   "A": "My uncle is a swimmer and an instructor at the sports centre. He is a very useful worker, because he helps beginners in the pool. He swims quickly, but he teaches slowly and carefully. His students are always happy, and they feel real happiness when they swim for the first time. Last summer, the weather was sunny, and he took a group to a sandy beach. Some children were afraid of the waves, but he said, \"It is useless to be afraid. The water is beautiful.\" Next month there is a competition, and my uncle is very popular. Everybody says that his lessons are never boring."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the writer's uncle?",
+      [
+       "A swimmer and an instructor",
+       "A teacher of maths",
+       "A farmer",
+       "A doctor"
+      ],
+      0,
+      "My uncle is a swimmer and an instructor"
+     ],
+     [
+      "What does the uncle teach?",
+      [
+       "Dancing",
+       "Maths",
+       "Swimming to beginners",
+       "Football"
+      ],
+      2,
+      "he helps beginners in the pool"
+     ],
+     [
+      "Where did he take a group last summer?",
+      [
+       "To a museum",
+       "To a sandy beach",
+       "To the mountains",
+       "To a big city"
+      ],
+      1,
+      "he took a group to a sandy beach"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The uncle teaches slowly and carefully.",
+      "T",
+      "he teaches slowly and carefully"
+     ],
+     [
+      "There is a competition next week.",
+      "F",
+      "Next month there is a competition"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "It is ___ to be afraid, the uncle says.",
+      [
+       "useless",
+       "useles"
+      ],
+      "It is useless to be afraid"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "worker",
+    "ishchi"
+   ],
+   [
+    "swimmer",
+    "suzuvchi"
+   ],
+   [
+    "instructor",
+    "o'qituvchi (instruktor)"
+   ],
+   [
+    "useful",
+    "foydali"
+   ],
+   [
+    "useless",
+    "befoyda"
+   ],
+   [
+    "beautiful",
+    "chiroyli"
+   ],
+   [
+    "quickly",
+    "tez"
+   ],
+   [
+    "happiness",
+    "baxt"
+   ],
+   [
+    "sunny",
+    "quyoshli"
+   ],
+   [
+    "popular",
+    "mashhur"
+   ],
+   [
+    "competition",
+    "musobaqa"
+   ]
+  ],
+  "id": "ele29"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Quiet or Quite?",
+  "minutes": 10,
+  "paras": {
+   "A": "Words that look or sound similar can be difficult. My room is quite small, but it is very quiet. Yesterday, I felt ill, so I fell asleep early. I lost my key, and my brother said, \"Your bag is loose, so be careful!\" I wanted to borrow a book from my friend, and he said, \"I can lend you my book, but please bring it back.\" In the evening, my mother asked me to cook dinner. \"Check the rice,\" she said, \"and control the fire.\" I passed my English test last Friday, but my brother failed his maths test. Now I expect that he will study more in the afternoon and in the evening."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How is the writer's room?",
+      [
+       "Quite small, but very quiet",
+       "Small and loud",
+       "Big and loud",
+       "Quiet and big"
+      ],
+      0,
+      "My room is quite small, but it is very quiet."
+     ],
+     [
+      "What can the friend do?",
+      [
+       "Pass a test",
+       "Lose a key",
+       "Borrow a book",
+       "Lend his book"
+      ],
+      3,
+      "I can lend you my book"
+     ],
+     [
+      "What happened to the brother's maths test?",
+      [
+       "He lost it",
+       "He failed it",
+       "He forgot it",
+       "He passed it"
+      ],
+      1,
+      "my brother failed his maths test"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer passed the English test.",
+      "T",
+      "I passed my English test"
+     ],
+     [
+      "The writer's bag is tight.",
+      "F",
+      "Your bag is loose"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "I can ___ you my book, but please bring it back.",
+      [
+       "lend",
+       "lends"
+      ],
+      "I can lend you my book"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE or TWO words.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "quite",
+    "ancha / ancha-muncha"
+   ],
+   [
+    "quiet",
+    "tinch"
+   ],
+   [
+    "lose",
+    "yo'qotmoq"
+   ],
+   [
+    "loose",
+    "keng / bo'sh"
+   ],
+   [
+    "fell",
+    "yiqildi"
+   ],
+   [
+    "felt",
+    "his qildi"
+   ],
+   [
+    "lend",
+    "qarz bermoq"
+   ],
+   [
+    "borrow",
+    "qarz olmoq"
+   ],
+   [
+    "pass",
+    "(imtihondan) o'tmoq"
+   ],
+   [
+    "fail",
+    "(imtihondan) o'ta olmaslik"
+   ]
+  ],
+  "id": "ele30"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Day on the River",
+  "minutes": 10,
+  "paras": {
+   "A": "Last summer, my cousin Farhod invited me to spend a week in his village near a river. Every morning we got up early and went fishing. Farhod's grandfather showed us how to choose a good place and how to wait without making a noise. On the first day, I caught nothing, but on the third day, I caught a fish that was almost forty centimetres long. We cooked it on a fire and ate it with fresh bread. It was the best meal of my summer."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where did the writer spend a week?",
+      [
+       "At the seaside",
+       "In his cousin's village",
+       "In a big city"
+      ],
+      1,
+      "in his village near a river"
+     ],
+     [
+      "Who showed them how to fish?",
+      [
+       "Farhod's father",
+       "A teacher",
+       "Farhod's grandfather"
+      ],
+      2,
+      "Farhod's grandfather showed us"
+     ],
+     [
+      "How long was the fish?",
+      [
+       "Almost forty centimetres",
+       "Ten centimetres",
+       "Two metres"
+      ],
+      0,
+      "almost forty centimetres long"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The writer caught a fish on the first day.",
+      "F",
+      "On the first day, I caught nothing"
+     ],
+     [
+      "They cooked the fish on a fire.",
+      "T",
+      "cooked it on a fire"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "They ate the fish with fresh ___.",
+      [
+       "bread"
+      ],
+      "with fresh bread"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": [
+   [
+    "fishing",
+    "baliq ovlash"
+   ],
+   [
+    "fire",
+    "olov"
+   ]
+  ],
+  "id": "ele31"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Old Bridge",
+  "minutes": 10,
+  "paras": {
+   "A": "There is an old stone bridge in our town. It was built more than two hundred years ago, and it crosses a small river. Many people think it is the most beautiful place in the town. In the past, merchants walked over it with horses and carts, and today, tourists take photographs from it. Last year, the town council repaired the bridge and made it safer, but they did not change its shape. In the evening, the bridge is lit by small yellow lamps, and young couples like to walk there."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How old is the bridge?",
+      [
+       "Ten years",
+       "More than two hundred years",
+       "About fifty years"
+      ],
+      1,
+      "more than two hundred years ago"
+     ],
+     [
+      "Who used the bridge in the past?",
+      [
+       "Trains",
+       "Cars",
+       "Merchants with horses and carts"
+      ],
+      2,
+      "merchants walked over it with horses and carts"
+     ],
+     [
+      "What did the council do last year?",
+      [
+       "Repaired the bridge",
+       "Built a new bridge",
+       "Closed the bridge"
+      ],
+      0,
+      "repaired the bridge"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The council changed the shape of the bridge.",
+      "F",
+      "did not change its shape"
+     ],
+     [
+      "Tourists take photographs from the bridge.",
+      "T",
+      "tourists take photographs from it"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "In the evening, the bridge is lit by small yellow ___.",
+      [
+       "lamps"
+      ],
+      "small yellow lamps"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele32"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Job Interview",
+  "minutes": 10,
+  "paras": {
+   "A": "Aziza wants to work in a bookshop on Saturdays. Yesterday, she had an interview. She wore a clean white blouse and arrived ten minutes early. The manager asked her about school, her hobbies and why she wanted the job. Aziza said that she loved reading and enjoyed helping people. The manager smiled and showed her around the shop. At the end, he said, 'You can start next Saturday.' Aziza was so happy that she called her mother from the street."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What job does Aziza want?",
+      [
+       "In a café every day",
+       "In a bookshop on Saturdays",
+       "In a school"
+      ],
+      1,
+      "work in a bookshop on Saturdays"
+     ],
+     [
+      "When did she arrive?",
+      [
+       "Ten minutes late",
+       "On time exactly",
+       "Ten minutes early"
+      ],
+      2,
+      "arrived ten minutes early"
+     ],
+     [
+      "What did the manager say at the end?",
+      [
+       "She can start next Saturday",
+       "She must wait a month",
+       "She cannot have the job"
+      ],
+      0,
+      "You can start next Saturday"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Aziza wore a white blouse.",
+      "T",
+      "clean white blouse"
+     ],
+     [
+      "The manager was unfriendly.",
+      "F",
+      "The manager smiled"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Aziza loved reading and enjoyed helping ___.",
+      [
+       "people"
+      ],
+      "helping people"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele33"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Healthy Habits",
+  "minutes": 10,
+  "paras": {
+   "A": "Doctors say that three habits help us stay healthy: eating well, sleeping enough and doing exercise. Children should eat fruit and vegetables every day and should not have too many sweets. They need about ten hours of sleep. Exercise does not have to be difficult. A walk to school, a game of football or a bike ride in the park is enough. Drinking water is also important, especially in hot weather. If you follow these simple rules, you will feel stronger and happier."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How much sleep do children need?",
+      [
+       "Four hours",
+       "About ten hours",
+       "Fifteen hours"
+      ],
+      1,
+      "about ten hours of sleep"
+     ],
+     [
+      "What is good exercise for children?",
+      [
+       "Only expensive sports",
+       "Running a marathon",
+       "A walk to school or a bike ride"
+      ],
+      2,
+      "A walk to school, a game of football or a bike ride"
+     ],
+     [
+      "When is drinking water especially important?",
+      [
+       "In hot weather",
+       "In winter",
+       "At night"
+      ],
+      0,
+      "especially in hot weather"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Children should eat many sweets.",
+      "F",
+      "should not have too many sweets"
+     ],
+     [
+      "Exercise has to be difficult.",
+      "F",
+      "does not have to be difficult"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "If you follow these rules, you will feel stronger and ___.",
+      [
+       "happier"
+      ],
+      "stronger and happier"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele34"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Street Musician",
+  "minutes": 10,
+  "paras": {
+   "A": "Every afternoon, an old man plays the violin at the corner of Main Street. People stop and listen to him. Some give him a few coins, and others just smile and say thank you. Last week, a young girl asked him to teach her. He was surprised, but he agreed. Now she comes to the same corner every Tuesday and Friday for a lesson. 'Music is better when you share it,' the old man says."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where does the old man play?",
+      [
+       "In a concert hall",
+       "At the corner of Main Street",
+       "In a school"
+      ],
+      1,
+      "corner of Main Street"
+     ],
+     [
+      "What did the girl ask?",
+      [
+       "For money",
+       "For a violin",
+       "To be taught"
+      ],
+      2,
+      "asked him to teach her"
+     ],
+     [
+      "When does she have a lesson?",
+      [
+       "On Tuesday and Friday",
+       "Every day",
+       "On Sunday"
+      ],
+      0,
+      "every Tuesday and Friday"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Some people give him coins.",
+      "T",
+      "give him a few coins"
+     ],
+     [
+      "The old man refused to teach the girl.",
+      "F",
+      "he agreed"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "He plays the ___.",
+      [
+       "violin"
+      ],
+      "plays the violin"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele35"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Quiet Village",
+  "minutes": 10,
+  "paras": {
+   "A": "Rustam lives in a small village in the mountains. There are only about eighty houses there, and everybody knows everybody. There is a small school, one shop and a clinic. In summer, the village is green and full of flowers, and visitors come to walk in the hills. In winter, the roads are sometimes closed by snow, and the villagers stay at home and make carpets. Rustam loves his village, but he wants to study at university in the city. He hopes to come back as a doctor."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How many houses are there?",
+      [
+       "About eight hundred",
+       "About eighty",
+       "About eight"
+      ],
+      1,
+      "about eighty houses"
+     ],
+     [
+      "What do villagers do in winter?",
+      [
+       "Go to the sea",
+       "Work in the fields",
+       "Stay home and make carpets"
+      ],
+      2,
+      "stay at home and make carpets"
+     ],
+     [
+      "What does Rustam hope to be?",
+      [
+       "A doctor",
+       "A teacher",
+       "A farmer"
+      ],
+      0,
+      "come back as a doctor"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "There is a hospital in the village.",
+      "F",
+      "clinic"
+     ],
+     [
+      "Visitors come in summer.",
+      "T",
+      "visitors come to walk in the hills"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Rustam wants to study at ___ in the city.",
+      [
+       "university"
+      ],
+      "university in the city"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele36"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Buying a Bicycle",
+  "minutes": 10,
+  "paras": {
+   "A": "Last month, Karim decided to buy a bicycle. He looked in three shops and compared the prices. The first bicycle was cheap but too heavy. The second was light but too expensive. The third was just right: it was red, not very heavy and cost two hundred dollars. Karim had saved a hundred and fifty dollars, so his father gave him the rest. 'Now you must take care of it,' his father said. Karim promised to clean it every week."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How many shops did Karim visit?",
+      [
+       "One",
+       "Three",
+       "Five"
+      ],
+      1,
+      "three shops"
+     ],
+     [
+      "What was wrong with the second bicycle?",
+      [
+       "It was too heavy",
+       "It was too old",
+       "It was too expensive"
+      ],
+      2,
+      "light but too expensive"
+     ],
+     [
+      "Who gave Karim the rest of the money?",
+      [
+       "His father",
+       "His mother",
+       "His brother"
+      ],
+      0,
+      "his father gave him the rest"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Karim bought the cheapest bicycle.",
+      "F",
+      "The first bicycle was cheap but too heavy"
+     ],
+     [
+      "The third bicycle was red.",
+      "T",
+      "it was red"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Karim promised to clean it every ___.",
+      [
+       "week"
+      ],
+      "every week"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele37"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Winter in the City",
+  "minutes": 10,
+  "paras": {
+   "A": "Winter in the city is quiet and cold. Early in the morning, the streets are empty, and a light fog hangs over the park. People walk fast and wear thick coats and scarves. In the shops, the windows are bright with lights and warm clothes. At the corner, an old woman sells hot corn and roasted nuts. When the first snow falls, the children run out of school and throw snowballs. Even the grey buildings look beautiful under the white snow."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What is the city like in winter?",
+      [
+       "Hot and noisy",
+       "Quiet and cold",
+       "Warm and busy"
+      ],
+      1,
+      "quiet and cold"
+     ],
+     [
+      "What does the old woman sell?",
+      [
+       "Ice cream",
+       "Scarves",
+       "Hot corn and roasted nuts"
+      ],
+      2,
+      "hot corn and roasted nuts"
+     ],
+     [
+      "What do children do in the first snow?",
+      [
+       "Throw snowballs",
+       "Stay at home",
+       "Go swimming"
+      ],
+      0,
+      "throw snowballs"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "People walk slowly in the cold.",
+      "F",
+      "People walk fast"
+     ],
+     [
+      "The buildings look beautiful under the snow.",
+      "T",
+      "look beautiful under the white snow"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "A light ___ hangs over the park.",
+      [
+       "fog"
+      ],
+      "a light fog"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele38"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Science Fair",
+  "minutes": 10,
+  "paras": {
+   "A": "Every spring, our school organises a science fair. Students make projects and show them to parents and teachers. Last year, my friend Zoya made a small machine that cleans water with sand and stones. A group of boys built a model of a volcano. It erupted with red liquid and everybody clapped. I made a poster about the planets. The judges liked Zoya's project the most, and she won first prize: a book about inventors. We all learned something, and we had a lot of fun."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When is the science fair?",
+      [
+       "Every winter",
+       "Every spring",
+       "Every Friday"
+      ],
+      1,
+      "Every spring"
+     ],
+     [
+      "What did Zoya make?",
+      [
+       "A volcano",
+       "A poster",
+       "A machine that cleans water"
+      ],
+      2,
+      "cleans water with sand and stones"
+     ],
+     [
+      "What was Zoya's prize?",
+      [
+       "A book about inventors",
+       "A computer",
+       "A medal"
+      ],
+      0,
+      "a book about inventors"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The volcano model erupted with red liquid.",
+      "T",
+      "erupted with red liquid"
+     ],
+     [
+      "The writer made a model of a volcano.",
+      "F",
+      "I made a poster about the planets"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The judges liked Zoya's project the ___.",
+      [
+       "most"
+      ],
+      "liked Zoya's project the most"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele39"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "My First Flight",
+  "minutes": 10,
+  "paras": {
+   "A": "Last year, I flew in an aeroplane for the first time. I was nervous when we arrived at the airport. We checked in our bags, passed through security and waited at the gate. On the plane, I sat next to the window. When the plane took off, my heart beat fast, but soon I felt calm. Under us, the clouds looked like white cotton. The flight to Istanbul took three hours. When we landed, I was already thinking about the next trip."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How did the writer feel at the airport?",
+      [
+       "Bored",
+       "Nervous",
+       "Angry"
+      ],
+      1,
+      "I was nervous"
+     ],
+     [
+      "Where did the writer sit?",
+      [
+       "Next to the door",
+       "At the back",
+       "Next to the window"
+      ],
+      2,
+      "next to the window"
+     ],
+     [
+      "How long was the flight?",
+      [
+       "Three hours",
+       "One hour",
+       "Ten hours"
+      ],
+      0,
+      "took three hours"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "It was the writer's first flight.",
+      "T",
+      "for the first time"
+     ],
+     [
+      "The writer was afraid for the whole flight.",
+      "F",
+      "soon I felt calm"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The plane flew to ___.",
+      [
+       "istanbul"
+      ],
+      "flight to Istanbul"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele40"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Strange Noise",
+  "minutes": 10,
+  "paras": {
+   "A": "Last Tuesday night, Dilya woke up at two o'clock. She heard a strange noise from the kitchen. It sounded like somebody walking and dropping things. She was afraid, but she took a torch and went to look. Slowly she opened the door. A small grey cat was sitting on the table and eating the bread. The window was open, and the cat had come in from the garden. Dilya laughed, gave the cat some milk and closed the window."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "What time did Dilya wake up?",
+      [
+       "At six o'clock",
+       "At two o'clock",
+       "At midnight"
+      ],
+      1,
+      "at two o'clock"
+     ],
+     [
+      "What did she take with her?",
+      [
+       "A stick",
+       "A phone",
+       "A torch"
+      ],
+      2,
+      "took a torch"
+     ],
+     [
+      "What was making the noise?",
+      [
+       "A cat",
+       "A thief",
+       "The wind"
+      ],
+      0,
+      "A small grey cat"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The cat came in through the window.",
+      "T",
+      "The window was open"
+     ],
+     [
+      "Dilya was angry with the cat.",
+      "F",
+      "Dilya laughed"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The cat was eating the ___.",
+      [
+       "bread"
+      ],
+      "eating the bread"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele41"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Life Without Electricity",
+  "minutes": 10,
+  "paras": {
+   "A": "Last winter, a storm cut the electricity in our street for two days. At first, we were bored and a little worried. We had no television, no computer and no light. Our father found candles, and we sat together in the living room. My grandmother told us stories about her childhood, when there were no machines. We cooked soup on a small gas stove and played cards. On the third morning, the lights came on. Strangely, we were almost sorry. We had enjoyed being together."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How long was there no electricity?",
+      [
+       "Two hours",
+       "Two days",
+       "A week"
+      ],
+      1,
+      "for two days"
+     ],
+     [
+      "What did the grandmother do?",
+      [
+       "She cooked dinner",
+       "She fixed the lights",
+       "She told stories"
+      ],
+      2,
+      "told us stories about her childhood"
+     ],
+     [
+      "How did the family feel at the end?",
+      [
+       "Almost sorry",
+       "Very angry",
+       "Frightened"
+      ],
+      0,
+      "we were almost sorry"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The family had candles.",
+      "T",
+      "found candles"
+     ],
+     [
+      "They watched television in the dark.",
+      "F",
+      "no television"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "They cooked soup on a small gas ___.",
+      [
+       "stove"
+      ],
+      "small gas stove"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele42"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Football Fan",
+  "minutes": 10,
+  "paras": {
+   "A": "Jasur is a great football fan. His favourite team is Pakhtakor, and he knows the names of all the players. Every second Saturday, he goes to the stadium with his uncle. They always sit in the same seats and wear the team's colours. Jasur says that the atmosphere is wonderful: thousands of people sing and shout together. At school, he plays in the youth team as a defender. His coach says that Jasur works hard, but he must learn to be calmer when he loses."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Which team does Jasur support?",
+      [
+       "Barcelona",
+       "Pakhtakor",
+       "Real Madrid"
+      ],
+      1,
+      "His favourite team is Pakhtakor"
+     ],
+     [
+      "Who goes to the stadium with Jasur?",
+      [
+       "His father",
+       "His teacher",
+       "His uncle"
+      ],
+      2,
+      "with his uncle"
+     ],
+     [
+      "What position does he play?",
+      [
+       "Defender",
+       "Goalkeeper",
+       "Striker"
+      ],
+      0,
+      "as a defender"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Jasur goes to the stadium every Saturday.",
+      "F",
+      "Every second Saturday"
+     ],
+     [
+      "The coach says Jasur works hard.",
+      "T",
+      "Jasur works hard"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Jasur must learn to be ___ when he loses.",
+      [
+       "calmer"
+      ],
+      "calmer when he loses"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele43"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Recycling at School",
+  "minutes": 10,
+  "paras": {
+   "A": "Our school started a recycling project last September. In each classroom, there are now three boxes: one for paper, one for plastic and one for glass. Every Friday, students from the Green Club empty the boxes and take the waste to a recycling centre. At first, some students forgot to use the boxes, but now the habit is normal. In six months, the school has recycled more than two tonnes of paper. The director says that the money from the project will pay for new trees in the school yard."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When did the project start?",
+      [
+       "Last June",
+       "Last September",
+       "Next year"
+      ],
+      1,
+      "last September"
+     ],
+     [
+      "What goes in the three boxes?",
+      [
+       "Food, paper and metal",
+       "Only paper",
+       "Paper, plastic and glass"
+      ],
+      2,
+      "paper, one for plastic and one for glass"
+     ],
+     [
+      "What will the money pay for?",
+      [
+       "New trees",
+       "New computers",
+       "A school trip"
+      ],
+      0,
+      "new trees in the school yard"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The Green Club empties the boxes on Friday.",
+      "T",
+      "Every Friday"
+     ],
+     [
+      "The school has recycled very little paper.",
+      "F",
+      "more than two tonnes of paper"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The waste goes to a recycling ___.",
+      [
+       "centre"
+      ],
+      "recycling centre"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele44"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "A Weekend in the Mountains",
+  "minutes": 10,
+  "paras": {
+   "A": "Last weekend, my class went hiking in the Chimgan mountains. We left school at six o'clock in the morning and travelled by bus for two hours. The path was steep, and the air was cold and fresh. After three hours, we reached a small lake. The water was so clear that we could see the stones at the bottom. We had a picnic by the lake and took many photographs. On the way down, it began to rain, and we ran to the bus. We were wet, but we were happy."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How did the class travel to the mountains?",
+      [
+       "By train",
+       "By bus",
+       "On foot"
+      ],
+      1,
+      "by bus for two hours"
+     ],
+     [
+      "What did they find after three hours?",
+      [
+       "A village",
+       "A river",
+       "A small lake"
+      ],
+      2,
+      "a small lake"
+     ],
+     [
+      "What happened on the way down?",
+      [
+       "It began to rain",
+       "The bus broke",
+       "They got lost"
+      ],
+      0,
+      "it began to rain"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The path was easy.",
+      "F",
+      "The path was steep"
+     ],
+     [
+      "They had a picnic by the lake.",
+      "T",
+      "picnic by the lake"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The water was so ___ that they could see the stones.",
+      [
+       "clear"
+      ],
+      "so clear that we could see the stones"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele45"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The First Day at a New School",
+  "minutes": 10,
+  "paras": {
+   "A": "Malika is twelve, and yesterday was her first day at a new school. She was very nervous in the morning and could not eat breakfast. When she arrived, a girl called Sevara smiled at her and showed her the classroom. The lessons were different from her old school, but the teachers were kind. At break time, Sevara introduced her to some friends. They invited Malika to sit with them at lunch. In the evening, Malika told her mother, 'It was not as bad as I thought.'"
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "How did Malika feel in the morning?",
+      [
+       "Excited",
+       "Nervous",
+       "Bored"
+      ],
+      1,
+      "very nervous"
+     ],
+     [
+      "Who helped Malika?",
+      [
+       "A teacher",
+       "Her mother",
+       "Sevara"
+      ],
+      2,
+      "Sevara smiled at her and showed her the classroom"
+     ],
+     [
+      "What did Malika tell her mother?",
+      [
+       "It was not as bad as she thought",
+       "It was terrible",
+       "It was boring"
+      ],
+      0,
+      "It was not as bad as I thought"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Malika ate a big breakfast.",
+      "F",
+      "could not eat breakfast"
+     ],
+     [
+      "Malika sat with new friends at lunch.",
+      "T",
+      "invited Malika to sit with them at lunch"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The teachers were ___.",
+      [
+       "kind"
+      ],
+      "the teachers were kind"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele46"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Grandmother's Recipes",
+  "minutes": 10,
+  "paras": {
+   "A": "My grandmother is the best cook in our family. She does not use books for her recipes; she keeps them in her head. When I asked her to teach me, she laughed and said, 'Come to the kitchen on Sunday.' We made samsa together. She showed me how to roll the dough very thin and how to fill it with meat and onions. 'The secret,' she said, 'is not the meat. It is patience.' My first samsa were not perfect, but my family ate them all, and Grandmother said I was a good student."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where does the grandmother keep her recipes?",
+      [
+       "In a book",
+       "In her head",
+       "In a computer"
+      ],
+      1,
+      "keeps them in her head"
+     ],
+     [
+      "What did they make?",
+      [
+       "Plov",
+       "Soup",
+       "Samsa"
+      ],
+      2,
+      "made samsa together"
+     ],
+     [
+      "What is the secret, according to the grandmother?",
+      [
+       "Patience",
+       "Good meat",
+       "A hot oven"
+      ],
+      0,
+      "It is patience"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The grandmother uses recipe books.",
+      "F",
+      "does not use books"
+     ],
+     [
+      "The writer's first samsa were perfect.",
+      "F",
+      "were not perfect"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "She showed me how to roll the dough very ___.",
+      [
+       "thin"
+      ],
+      "very thin"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele47"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "Helping a Neighbour",
+  "minutes": 10,
+  "paras": {
+   "A": "Mrs Karimova is an old lady who lives alone on the second floor. She cannot carry heavy bags because her back hurts. Every Saturday, my brother and I go shopping for her. We buy bread, milk, fruit and sometimes medicine. She always gives us a few sweets and says, 'Thank you, my dear children.' Last week, she was ill, and we stayed to cook soup for her. Our mother says that helping others is the best kind of homework."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where does Mrs Karimova live?",
+      [
+       "On the first floor",
+       "On the second floor",
+       "In a village"
+      ],
+      1,
+      "second floor"
+     ],
+     [
+      "When do the boys go shopping?",
+      [
+       "Every day",
+       "Once a year",
+       "Every Saturday"
+      ],
+      2,
+      "Every Saturday"
+     ],
+     [
+      "What did they do when she was ill?",
+      [
+       "Cooked soup for her",
+       "Called a doctor",
+       "Went home"
+      ],
+      0,
+      "stayed to cook soup"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Mrs Karimova has a bad back.",
+      "T",
+      "her back hurts"
+     ],
+     [
+      "She lives with her children.",
+      "F",
+      "lives alone"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Helping others is the best kind of ___.",
+      [
+       "homework"
+      ],
+      "best kind of homework"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele48"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The Lost Wallet",
+  "minutes": 10,
+  "paras": {
+   "A": "On the way to school, Bobur found a brown wallet on the pavement. Inside, there was some money, a bank card and a photograph of a family. There was also an address. Bobur did not take the money. After school, he went to the address, which was only ten minutes away. A man opened the door and looked worried. When Bobur gave him the wallet, the man smiled and said, 'You are an honest boy.' He offered Bobur some money, but Bobur said no and went home."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "Where did Bobur find the wallet?",
+      [
+       "At school",
+       "On the pavement",
+       "In a shop"
+      ],
+      1,
+      "on the pavement"
+     ],
+     [
+      "What was inside the wallet?",
+      [
+       "Only a key",
+       "Nothing",
+       "Money, a card and a photograph"
+      ],
+      2,
+      "some money, a bank card and a photograph"
+     ],
+     [
+      "What did Bobur do after school?",
+      [
+       "Went to the address",
+       "Went to the police",
+       "Kept the wallet"
+      ],
+      0,
+      "went to the address"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "Bobur took the money.",
+      "F",
+      "did not take the money"
+     ],
+     [
+      "The man offered Bobur a reward.",
+      "T",
+      "offered Bobur some money"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "The man said, 'You are an ___ boy.'",
+      [
+       "honest"
+      ],
+      "an honest boy"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele49"
+ },
+ {
+  "level": "Elementary",
+  "lv": "ele",
+  "cefr": "A2",
+  "title": "The English Club",
+  "minutes": 10,
+  "paras": {
+   "A": "Our school has an English club that meets every Wednesday after lessons. Anyone can join, and it is free. Mr Wilson, a teacher from Australia, leads the club. We play word games, watch short films and talk about our hobbies. Once a month, we have a special day when we speak only English for two hours. It is difficult, but it is also fun. Last month, we even performed a short play in front of parents. Now many students want to join, and the room is almost full."
+  },
+  "qs": [
+   {
+    "t": "mcq",
+    "items": [
+     [
+      "When does the club meet?",
+      [
+       "Every Monday",
+       "Every Wednesday",
+       "Every day"
+      ],
+      1,
+      "every Wednesday"
+     ],
+     [
+      "Who leads the club?",
+      [
+       "Mr Brown",
+       "The director",
+       "Mr Wilson"
+      ],
+      2,
+      "Mr Wilson"
+     ],
+     [
+      "What happens once a month?",
+      [
+       "A day when only English is spoken",
+       "A trip",
+       "An exam"
+      ],
+      0,
+      "speak only English for two hours"
+     ]
+    ],
+    "instr": "Choose the correct letter, A, B, C or D.",
+    "title": "Questions 1–3"
+   },
+   {
+    "t": "tf",
+    "items": [
+     [
+      "The club is free.",
+      "T",
+      "it is free"
+     ],
+     [
+      "Mr Wilson is from Canada.",
+      "F",
+      "from Australia"
+     ]
+    ],
+    "instr": "Are the statements true or false? Choose TRUE or FALSE.",
+    "title": "Questions 4–5"
+   },
+   {
+    "t": "sc",
+    "items": [
+     [
+      "Last month, they performed a short ___.",
+      [
+       "play"
+      ],
+      "a short play"
+     ]
+    ],
+    "instr": "Complete the sentences. Write ONE word from the text.",
+    "title": "Question 6"
+   }
+  ],
+  "kw": null,
+  "id": "ele50"
+ }
+]

@@ -46,6 +46,10 @@ router.get('/game/shop', protect, checkSubscription, gc.getShop);
 router.post('/game/buy', protect, checkSubscription, gc.postBuy);
 router.post('/game/equip', protect, checkSubscription, gc.postEquip);
 
+const cc = require('../controllers/courseController');
+router.get('/course', protect, checkSubscription, cc.getCourse);
+router.put('/course', protect, checkSubscription, cc.putCourse);
+
 const pr = require('../controllers/practiceController');
 router.get('/practice', protect, checkSubscription, pr.summary);
 router.get('/practice/words', protect, checkSubscription, pr.words);

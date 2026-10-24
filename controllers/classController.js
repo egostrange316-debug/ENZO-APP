@@ -29,13 +29,13 @@ async function subtractBall(userId, n) {
 const roster = async (req, res) => {
   try {
     const rows = await User.find({ role: 'student' })
-      .select('full_name group_name avatar ball xp current_day level status createdAt placement_pending')
+      .select('full_name group_name avatar ball xp current_day level status createdAt placement_pending course_points course_days_done')
       .lean();
     const admin = isAdmin(req);
     // Ko'rsatiladigan "ball" = o'yin tizimidagi XP + uy vazifasi bali (reyting va podium shunga qaraydi)
     const list = rows.map((u) => ({
       id: String(u._id), full_name: u.full_name, group_name: u.group_name, avatar: u.avatar,
-      ball: (u.xp || 0) + (u.ball || 0), xp: u.xp || 0, homework_ball: u.ball || 0,
+      ball: (u.course_points || 0) + (u.xp || 0) + (u.ball || 0), xp: u.xp || 0, course_points: u.course_points || 0, course_days_done: u.course_days_done || 0, homework_ball: u.ball || 0,
       current_day: u.current_day, level: u.level, created_at: u.createdAt,
       ...(admin ? { blocked: u.status === 'blocked', placement_pending: !!u.placement_pending } : {}),
     }));
@@ -54,7 +54,7 @@ const resultsTable = async (req, res) => {
   try {
     const admin = isAdmin(req);
     const users = await User.find({ role: 'student' })
-      .select('full_name group_name avatar xp ball current_day level status subscription_end_date createdAt').lean();
+      .select('full_name group_name avatar xp ball current_day level status subscription_end_date createdAt course_day course_days_done course_points course_accuracy').lean();
     const ids = users.map((u) => u._id);
     const since = dateKey(new Date(Date.now() - 30 * 86400000));
     const [mast, att] = await Promise.all([
@@ -69,16 +69,18 @@ const resultsTable = async (req, res) => {
     const attMap = new Map();
     for (const r of att) {
       const k = String(r.user); const a = attMap.get(k) || { p: 0, t: 0 };
-      a.t += 1; if (r.status === 'present') a.p += 1; attMap.set(k, a);
+      if (r.status === 'excused') continue; // sababli: hisobga olinmaydi
+      a.t += 1; if (r.status === 'present' || r.status === 'late') a.p += 1; attMap.set(k, a);
     }
     const rows = users.map((u) => {
       const k = String(u._id); const a = acc.get(k); const t = attMap.get(k);
       const row = {
         id: k, full_name: u.full_name, group_name: u.group_name || '', avatar: u.avatar, level: u.level, current_day: u.current_day,
-        course_percent: courseProgressPercent(u.current_day, 0),
-        accuracy: a && a.length ? Math.round(a.reduce((x, y) => x + y, 0) / a.length) : null,
+        course_day: u.course_day || 0, course_days_done: u.course_days_done || 0,
+        course_percent: u.course_day ? Math.round(((u.course_days_done || 0) / 450) * 100) : courseProgressPercent(u.current_day, 0),
+        accuracy: u.course_day ? (u.course_accuracy ?? null) : (a && a.length ? Math.round(a.reduce((x, y) => x + y, 0) / a.length) : null),
         attendance: t && t.t ? Math.round((t.p / t.t) * 100) : null,
-        ball: (u.xp || 0) + (u.ball || 0),
+        ball: (u.course_points || 0) + (u.xp || 0) + (u.ball || 0),
       };
       if (admin) { const sub = subscriptionInfo(u); row.payment = { state: sub.state, days_left: sub.days_left, grace_days_left: sub.grace_days_left, end_date: sub.end_date }; }
       return row;
@@ -115,13 +117,33 @@ const markAttendance = async (req, res) => {
   try {
     const { student_id, date, status } = req.body || {};
     if (!isId(student_id) || !/^\d{4}-\d{2}-\d{2}$/.test(String(date))) return res.status(400).json({ message: "Ma'lumot noto'g'ri" });
-    if (!['present', 'absent', 'clear'].includes(status)) return res.status(400).json({ message: "Holat noto'g'ri" });
+    if (!['present', 'absent', 'late', 'excused', 'clear'].includes(status)) return res.status(400).json({ message: "Holat noto'g'ri" });
     const stu = await User.findOne({ _id: student_id, role: 'student' }).select('_id').lean();
     if (!stu) return res.status(404).json({ message: "O'quvchi topilmadi" });
     if (status === 'clear') await Attendance.deleteOne({ user: student_id, date });
     else await Attendance.updateOne({ user: student_id, date }, { $set: { status, by: req.user._id } }, { upsert: true });
     res.status(200).json({ ok: true });
   } catch (e) { fail(res, e, 'markAttendance'); }
+};
+
+
+/** POST (admin) { marks:[{student_id,date,status}] } — oflayn belgilangan davomatni bir yo'la yuborish. Takror yuborish xavfsiz (upsert). */
+const markAttendanceBulk = async (req, res) => {
+  try {
+    const marks = Array.isArray(req.body && req.body.marks) ? req.body.marks : null;
+    if (!marks || marks.length > 500) return res.status(400).json({ message: "Ma'lumot noto'g'ri" });
+    const ok = [];
+    const ops = [];
+    for (const m of marks) {
+      if (!m || !isId(m.student_id) || !/^\d{4}-\d{2}-\d{2}$/.test(String(m.date)) || !['present', 'absent', 'late', 'excused', 'clear'].includes(m.status)) continue;
+      ok.push(m);
+      ops.push(m.status === 'clear'
+        ? { deleteOne: { filter: { user: m.student_id, date: m.date } } }
+        : { updateOne: { filter: { user: m.student_id, date: m.date }, update: { $set: { status: m.status, by: req.user._id } }, upsert: true } });
+    }
+    if (ops.length) await Attendance.bulkWrite(ops, { ordered: false });
+    res.status(200).json({ ok: true, saved: ops.length, skipped: marks.length - ops.length });
+  } catch (e) { fail(res, e, 'markAttendanceBulk'); }
 };
 
 /* ---------------- uy vazifasi ---------------- */
@@ -237,4 +259,4 @@ const sendMessage = async (req, res) => {
 };
 
 module.exports = {
-  resultsTable, roster, setAvatar, getAttendance, markAttendance, listHomework, createHomework, deleteHomework, submitHomework, listMessages, sendMessage, settleOverdue };
+  resultsTable, roster, setAvatar, getAttendance, markAttendance, markAttendanceBulk, listHomework, createHomework, deleteHomework, submitHomework, listMessages, sendMessage, settleOverdue };

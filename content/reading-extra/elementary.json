@@ -1,0 +1,3141 @@
+[
+ {
+  "target": "eviu-elementary:u31b",
+  "title": "A Weekend at the Farm",
+  "cefr": "A2",
+  "text": "Last Saturday, Emma and her cousin visited a farm in the countryside. There were cows, sheep, pigs and chickens. A friendly farmer showed them how to feed the animals. Emma gave some food to a goat, and it ate it very quickly. Her cousin was afraid of the big horse, but he touched it in the end. In the afternoon, they fed the chickens and collected eggs. Emma's favourite animal was a small rabbit. She wanted to take it home, but the farmer said, \"It is not a pet. It lives here.\" On the way home, both children were tired but very happy.",
+  "key_words": [
+   {
+    "word": "farm",
+    "translation_uz": "ferma"
+   },
+   {
+    "word": "feed",
+    "translation_uz": "oziq bermoq / boqmoq"
+   },
+   {
+    "word": "goat",
+    "translation_uz": "echki"
+   },
+   {
+    "word": "horse",
+    "translation_uz": "ot"
+   },
+   {
+    "word": "rabbit",
+    "translation_uz": "quyon"
+   },
+   {
+    "word": "afraid",
+    "translation_uz": "qo'rqqan"
+   },
+   {
+    "word": "pet",
+    "translation_uz": "uy hayvoni"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Who visited the farm?",
+    "options": [
+     "Emma and a farmer",
+     "Emma and her cousin",
+     "Emma and her teacher",
+     "Emma and her mother"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Emma and her cousin visited a farm”"
+   },
+   {
+    "question": "Which animal ate its food very quickly?",
+    "options": [
+     "The horse",
+     "The rabbit",
+     "The pig",
+     "The goat"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Emma gave some food to a goat, and it ate it very quickly.”"
+   },
+   {
+    "question": "What was Emma's favourite animal?",
+    "options": [
+     "A big horse",
+     "A goat",
+     "A small rabbit",
+     "A chicken"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Emma's favourite animal was a small rabbit.”"
+   },
+   {
+    "question": "How did the children feel on the way home?",
+    "options": [
+     "Tired but very happy",
+     "Sad and angry",
+     "Afraid",
+     "Bored"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “both children were tired but very happy”"
+   },
+   {
+    "question": "[True / False] Emma's cousin never touched the horse.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “he touched it in the end” — demak False."
+   },
+   {
+    "question": "[True / False] The farmer let Emma take the rabbit home.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “It is not a pet. It lives here.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In the afternoon, they fed the ___ and collected eggs.",
+    "correct_word": "chickens",
+    "accept": [
+     "chicken"
+    ],
+    "explanation": "Matnda: “they fed the chickens and collected eggs”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u32b",
+  "title": "A Trip to Samarkand",
+  "cefr": "A2",
+  "text": "Karim wants to visit Samarkand, so on Friday he goes to the train station. First he looks at the timetable. The train leaves at half past seven from platform four. He buys a return ticket because he wants to come back on Sunday. The journey takes about two hours on the fast train. In Samarkand, he takes a taxi to the hotel and checks in. The receptionist gives him a key and a map of the city. Karim is very excited, because tomorrow he wants to see the famous old buildings.",
+  "key_words": [
+   {
+    "word": "timetable",
+    "translation_uz": "jadval"
+   },
+   {
+    "word": "platform",
+    "translation_uz": "platforma"
+   },
+   {
+    "word": "return ticket",
+    "translation_uz": "borib-qaytish bileti"
+   },
+   {
+    "word": "journey",
+    "translation_uz": "sayohat / yo'l"
+   },
+   {
+    "word": "check in",
+    "translation_uz": "ro'yxatdan o'tmoq"
+   },
+   {
+    "word": "map",
+    "translation_uz": "xarita"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Karim look at first at the station?",
+    "options": [
+     "The hotel",
+     "The platform",
+     "The timetable",
+     "The map"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “First he looks at the timetable.”"
+   },
+   {
+    "question": "Which platform does the train leave from?",
+    "options": [
+     "Platform seven",
+     "Platform four",
+     "Platform ten",
+     "Platform two"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “from platform four”"
+   },
+   {
+    "question": "How does Karim go from the station to the hotel?",
+    "options": [
+     "By bicycle",
+     "On foot",
+     "By bus",
+     "By taxi"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “he takes a taxi to the hotel”"
+   },
+   {
+    "question": "What does the receptionist give Karim?",
+    "options": [
+     "A key and a map",
+     "A map and a taxi",
+     "A key and a bill",
+     "A ticket and a timetable"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The receptionist gives him a key and a map of the city.”"
+   },
+   {
+    "question": "[True / False] Karim buys a return ticket because he wants to come back on Sunday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “He buys a return ticket because he wants to come back on Sunday.” — demak True."
+   },
+   {
+    "question": "[True / False] The journey takes about five hours.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The journey takes about two hours on the fast train.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In Samarkand, Karim takes a taxi to the hotel and ___ in.",
+    "correct_word": "checks",
+    "accept": [
+     "check"
+    ],
+    "explanation": "Matnda: “takes a taxi to the hotel and checks in”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u33b",
+  "title": "Christmas in Britain",
+  "cefr": "A2",
+  "text": "In Britain, Christmas is on the twenty-fifth of December. Families put up a Christmas tree in the living room and decorate it with lights. On Christmas morning, children open their presents. Many families have a big dinner together, and some people go to church. The day after Christmas is a bank holiday, so banks and many shops are closed. Another special night is New Year's Eve. People watch fireworks and sing together at midnight. For many British people, these holidays are the best time of the year.",
+  "key_words": [
+   {
+    "word": "Christmas tree",
+    "translation_uz": "Rojdestvo archasi"
+   },
+   {
+    "word": "present",
+    "translation_uz": "sovg'a"
+   },
+   {
+    "word": "bank holiday",
+    "translation_uz": "dam olish (rasmiy bayram) kuni"
+   },
+   {
+    "word": "New Year's Eve",
+    "translation_uz": "Yangi yil kechasi"
+   },
+   {
+    "word": "fireworks",
+    "translation_uz": "fayerverk / mushaklar"
+   }
+  ],
+  "questions": [
+   {
+    "question": "When is Christmas in Britain?",
+    "options": [
+     "On the twenty-fourth of November",
+     "On the twenty-fifth of December",
+     "On the first of January",
+     "On the sixth of December"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Christmas is on the twenty-fifth of December”"
+   },
+   {
+    "question": "What do families put in the living room?",
+    "options": [
+     "A Christmas tree",
+     "Fireworks",
+     "A new sofa",
+     "A table for the garden"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Families put up a Christmas tree in the living room”"
+   },
+   {
+    "question": "What do children do on Christmas morning?",
+    "options": [
+     "They go shopping",
+     "They go to school",
+     "They watch fireworks",
+     "They open their presents"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “children open their presents”"
+   },
+   {
+    "question": "What do people do on New Year's Eve?",
+    "options": [
+     "Go to school",
+     "Go to church only",
+     "Watch fireworks and sing",
+     "Open presents"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “People watch fireworks and sing together at midnight.”"
+   },
+   {
+    "question": "[True / False] Banks are open on the day after Christmas.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “so banks and many shops are closed” — demak False."
+   },
+   {
+    "question": "[True / False] Some people go to church at Christmas.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “some people go to church” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The day after Christmas is a bank ___.",
+    "correct_word": "holiday",
+    "accept": [
+     "holidays"
+    ],
+    "explanation": "Matnda: “The day after Christmas is a bank holiday”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u34b",
+  "title": "The Thief in the Shop",
+  "cefr": "A2",
+  "text": "Last Monday, a thief stole a bag from a shop in the town centre. A shop assistant saw him and shouted. The man ran away, but a police officer arrested him near the station. At the police station, the thief said, \"I am innocent!\" But a camera in the shop showed everything. The next week, the court said he was guilty. He did not go to prison, but he had to pay a fine. The judge also said, \"Stealing is a crime, and it is never a good idea.\"",
+  "key_words": [
+   {
+    "word": "thief",
+    "translation_uz": "o'g'ri"
+   },
+   {
+    "word": "steal",
+    "translation_uz": "o'g'irlamoq"
+   },
+   {
+    "word": "arrest",
+    "translation_uz": "hibsga olmoq"
+   },
+   {
+    "word": "innocent",
+    "translation_uz": "begunoh"
+   },
+   {
+    "word": "guilty",
+    "translation_uz": "aybdor"
+   },
+   {
+    "word": "fine",
+    "translation_uz": "jarima"
+   },
+   {
+    "word": "court",
+    "translation_uz": "sud"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did the thief steal?",
+    "options": [
+     "A bag",
+     "A phone",
+     "A bicycle",
+     "A coat"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “a thief stole a bag from a shop”"
+   },
+   {
+    "question": "Who arrested the thief?",
+    "options": [
+     "A judge",
+     "A police officer",
+     "A shop assistant",
+     "A farmer"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “a police officer arrested him near the station”"
+   },
+   {
+    "question": "What showed everything?",
+    "options": [
+     "A witness",
+     "A police dog",
+     "A camera in the shop",
+     "A newspaper"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “a camera in the shop showed everything”"
+   },
+   {
+    "question": "What was the punishment?",
+    "options": [
+     "He had to leave the town",
+     "He went to prison",
+     "He lost his job",
+     "He had to pay a fine"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “he had to pay a fine”"
+   },
+   {
+    "question": "[True / False] The thief said he was innocent.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I am innocent!” — demak True."
+   },
+   {
+    "question": "[True / False] The thief went to prison.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “He did not go to prison” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The next week, the court said he was ___.",
+    "correct_word": "guilty",
+    "accept": [
+     "guiltys"
+    ],
+    "explanation": "Matnda: “the court said he was guilty”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u35b",
+  "title": "My Family and the Media",
+  "cefr": "A2",
+  "text": "We watch a lot of TV in my house. My father watches the news every evening because he likes to know about the world. My mother loves nature programmes, and she reads a magazine on Sundays. My sister likes soap operas, but I prefer documentaries about space. My brother plays games online, and he also watches interviews with football players on his phone. My grandfather does not use the internet. He reads the newspaper every morning and says, \"Journalists write better articles than websites.\" I think we need both: newspapers and online news.",
+  "key_words": [
+   {
+    "word": "news",
+    "translation_uz": "yangiliklar"
+   },
+   {
+    "word": "documentaries",
+    "translation_uz": "hujjatli filmlar"
+   },
+   {
+    "word": "soap opera",
+    "translation_uz": "teleserial"
+   },
+   {
+    "word": "newspaper",
+    "translation_uz": "gazeta"
+   },
+   {
+    "word": "magazine",
+    "translation_uz": "jurnal"
+   },
+   {
+    "word": "journalist",
+    "translation_uz": "jurnalist"
+   },
+   {
+    "word": "article",
+    "translation_uz": "maqola"
+   }
+  ],
+  "questions": [
+   {
+    "question": "When does the father watch the news?",
+    "options": [
+     "On Sundays",
+     "At the weekend",
+     "Every morning",
+     "Every evening"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “My father watches the news every evening”"
+   },
+   {
+    "question": "What does the writer prefer to watch?",
+    "options": [
+     "Soap operas",
+     "Sports programmes",
+     "Documentaries about space",
+     "Nature programmes"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “I prefer documentaries about space”"
+   },
+   {
+    "question": "What does the grandfather read every morning?",
+    "options": [
+     "A magazine",
+     "The newspaper",
+     "A book",
+     "Online news"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “He reads the newspaper every morning”"
+   },
+   {
+    "question": "What does the writer think at the end?",
+    "options": [
+     "We need both newspapers and online news",
+     "TV is the best",
+     "Websites are better",
+     "Newspapers are better"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I think we need both: newspapers and online news.”"
+   },
+   {
+    "question": "[True / False] The mother reads a magazine every day.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “she reads a magazine on Sundays” — demak False."
+   },
+   {
+    "question": "[True / False] The sister likes soap operas.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My sister likes soap operas” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The grandfather does not use the ___.",
+    "correct_word": "internet",
+    "accept": [
+     "internets"
+    ],
+    "explanation": "Matnda: “My grandfather does not use the internet.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u36b",
+  "title": "A Bad Morning",
+  "cefr": "A2",
+  "text": "Today was a very bad morning for Mr Green. First, he lost his keys and looked for them for ten minutes. Then the washing machine was broken, and water went onto the kitchen floor. His wife was angry and they had a row. At work, he was late and the photocopier was out of order. A colleague said, \"Don't worry. I can repair it.\" In the end, Mr Green apologised to his wife on the phone and bought some flowers on the way home.",
+  "key_words": [
+   {
+    "word": "lost",
+    "translation_uz": "yo'qotdi (lose – yo'qotmoq)"
+   },
+   {
+    "word": "look for",
+    "translation_uz": "qidirmoq"
+   },
+   {
+    "word": "broken",
+    "translation_uz": "buzilgan"
+   },
+   {
+    "word": "row",
+    "translation_uz": "janjal"
+   },
+   {
+    "word": "apologise",
+    "translation_uz": "kechirim so'ramoq"
+   },
+   {
+    "word": "colleague",
+    "translation_uz": "hamkasb"
+   },
+   {
+    "word": "out of order",
+    "translation_uz": "ishlamayapti / buzuq"
+   },
+   {
+    "word": "repair",
+    "translation_uz": "ta'mirlamoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did Mr Green lose?",
+    "options": [
+     "His wallet",
+     "His coat",
+     "His phone",
+     "His keys"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “he lost his keys”"
+   },
+   {
+    "question": "What was broken in the kitchen?",
+    "options": [
+     "The door",
+     "The window",
+     "The washing machine",
+     "The fridge"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the washing machine was broken”"
+   },
+   {
+    "question": "Who offered to repair the photocopier?",
+    "options": [
+     "His wife",
+     "A colleague",
+     "His boss",
+     "A police officer"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A colleague said, \"Don't worry. I can repair it.\"”"
+   },
+   {
+    "question": "What did Mr Green buy on the way home?",
+    "options": [
+     "Some flowers",
+     "A new key",
+     "A newspaper",
+     "A washing machine"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “bought some flowers on the way home”"
+   },
+   {
+    "question": "[True / False] Mr Green was on time for work.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “he was late” — demak False."
+   },
+   {
+    "question": "[True / False] Mr Green and his wife had a row.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “they had a row” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The photocopier was out of ___.",
+    "correct_word": "order",
+    "accept": [
+     "orders"
+    ],
+    "explanation": "Matnda: “the photocopier was out of order”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u37b",
+  "title": "Problems in Big Cities",
+  "cefr": "A2",
+  "text": "Big cities have many problems. Millions of people live in crowded streets, and in the rush hour there are always traffic jams. Cars and factories make the air polluted, so many people have breathing problems. Some cities also have homeless people and unemployed young men and women. But people are looking for solutions. Some cities build cycle lanes and ask people to use buses and trains. Others plant trees and make new parks. Small changes can help to make a big city a better place to live.",
+  "key_words": [
+   {
+    "word": "crowded",
+    "translation_uz": "gavjum"
+   },
+   {
+    "word": "rush hour",
+    "translation_uz": "gavjum soat"
+   },
+   {
+    "word": "traffic jam",
+    "translation_uz": "tirbandlik"
+   },
+   {
+    "word": "polluted",
+    "translation_uz": "ifloslangan"
+   },
+   {
+    "word": "homeless",
+    "translation_uz": "uysiz"
+   },
+   {
+    "word": "unemployed",
+    "translation_uz": "ishsiz"
+   },
+   {
+    "word": "solution",
+    "translation_uz": "yechim"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What happens in the rush hour?",
+    "options": [
+     "The streets are empty",
+     "The air is clean",
+     "There is no traffic",
+     "There are traffic jams"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “in the rush hour there are always traffic jams”"
+   },
+   {
+    "question": "What makes the air polluted?",
+    "options": [
+     "Cars and factories",
+     "Parks and trees",
+     "Buses and trains",
+     "Bicycles"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Cars and factories make the air polluted”"
+   },
+   {
+    "question": "What do some cities build?",
+    "options": [
+     "Airports",
+     "New factories",
+     "Cycle lanes",
+     "Bigger roads only"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Some cities build cycle lanes”"
+   },
+   {
+    "question": "What is the best title for the text?",
+    "options": [
+     "Life in the countryside",
+     "Problems and solutions in big cities",
+     "The history of a city",
+     "How to build a factory"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Big cities have many problems.”"
+   },
+   {
+    "question": "[True / False] Polluted air can cause breathing problems.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “many people have breathing problems” — demak True."
+   },
+   {
+    "question": "[True / False] Nobody is looking for solutions.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “But people are looking for solutions.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Some cities ask people to use buses and ___.",
+    "correct_word": "trains",
+    "accept": [
+     "train"
+    ],
+    "explanation": "Matnda: “ask people to use buses and trains”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u47b",
+  "title": "A Day in My Life",
+  "cefr": "A2",
+  "text": "I get up at half past six and have a shower. Then I have breakfast with my family and listen to the radio. I go to work by bus. I work in an office and write emails all day. I come home at six o'clock and make dinner. In the evening I phone a friend or watch TV. At the weekend, I clean the house and go for a walk in the park. I go to bed at eleven. I go shopping only once a week, but I go for a walk three times a week.",
+  "key_words": [
+   {
+    "word": "get up",
+    "translation_uz": "o'rnidan turmoq"
+   },
+   {
+    "word": "have a shower",
+    "translation_uz": "dush qabul qilmoq"
+   },
+   {
+    "word": "go to work",
+    "translation_uz": "ishga bormoq"
+   },
+   {
+    "word": "make dinner",
+    "translation_uz": "kechki ovqat tayyorlamoq"
+   },
+   {
+    "word": "go to bed",
+    "translation_uz": "uxlashga yotmoq"
+   },
+   {
+    "word": "how often",
+    "translation_uz": "qanchalik tez-tez"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How does the writer go to work?",
+    "options": [
+     "By car",
+     "On foot",
+     "By bicycle",
+     "By bus"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I go to work by bus.”"
+   },
+   {
+    "question": "What does the writer do all day at work?",
+    "options": [
+     "Cooks dinner",
+     "Writes emails",
+     "Drives a bus",
+     "Cleans the house"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “write emails all day”"
+   },
+   {
+    "question": "What time does the writer go to bed?",
+    "options": [
+     "At eleven",
+     "At ten",
+     "At nine",
+     "At midnight"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I go to bed at eleven.”"
+   },
+   {
+    "question": "How often does the writer go shopping?",
+    "options": [
+     "Every day",
+     "Three times a week",
+     "Once a week",
+     "Once a month"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “I go shopping only once a week”"
+   },
+   {
+    "question": "[True / False] The writer comes home at six o'clock.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I come home at six o'clock” — demak True."
+   },
+   {
+    "question": "[True / False] The writer watches TV in the morning.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “In the evening I phone a friend or watch TV.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "At the weekend, the writer cleans the ___.",
+    "correct_word": "house",
+    "accept": [
+     "houses"
+    ],
+    "explanation": "Matnda: “I clean the house and go for a walk in the park”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u38b",
+  "title": "A Busy Weekend",
+  "cefr": "A2",
+  "text": "Last weekend was very busy for me. On Saturday morning, I had breakfast at eight and then I had a lesson at the language school. At twelve, I had lunch with my friend Zarina. In the afternoon, we had a swim in the pool, and later we had a cup of tea in a small café. In the evening, I had a party at my house. We had a very good time, and my neighbour even had a look at our pictures. On Sunday, I did nothing. I had a long rest and I felt great.",
+  "key_words": [
+   {
+    "word": "have breakfast",
+    "translation_uz": "nonushta qilmoq"
+   },
+   {
+    "word": "have a lesson",
+    "translation_uz": "darsga qatnashmoq"
+   },
+   {
+    "word": "have a swim",
+    "translation_uz": "suzmoq"
+   },
+   {
+    "word": "have a party",
+    "translation_uz": "ziyofat qilmoq"
+   },
+   {
+    "word": "have a good time",
+    "translation_uz": "vaqtni yaxshi o'tkazmoq"
+   },
+   {
+    "word": "had",
+    "translation_uz": "(have ning o'tgan zamoni)"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What did the writer have at the language school?",
+    "options": [
+     "A lesson",
+     "An exam",
+     "A party",
+     "A swim"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I had a lesson at the language school”"
+   },
+   {
+    "question": "Who did the writer have lunch with?",
+    "options": [
+     "A neighbour",
+     "Zarina",
+     "Her mother",
+     "A teacher"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I had lunch with my friend Zarina”"
+   },
+   {
+    "question": "Where did they have a cup of tea?",
+    "options": [
+     "In the pool",
+     "At home",
+     "At school",
+     "In a small café"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “we had a cup of tea in a small café”"
+   },
+   {
+    "question": "[True / False] The writer had a party on Saturday evening.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “In the evening, I had a party at my house.” — demak True."
+   },
+   {
+    "question": "[True / False] The writer was very busy on Sunday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “On Sunday, I did nothing.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In the afternoon, they had a ___ in the pool.",
+    "correct_word": "swim",
+    "accept": [
+     "swims"
+    ],
+    "explanation": "Matnda: “we had a swim in the pool”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u39b",
+  "title": "Where Did You Go?",
+  "cefr": "A2",
+  "text": "Last month, my family went to the mountains. We went by car, and we went up the hill to a small village. In the morning, my brother and I went swimming in a cold lake. In the afternoon, we went fishing with my uncle, but we did not catch anything. In the evening, we went sightseeing in the old town and went shopping for gifts. After three days, we went home. My mother says that next year we are going to visit the sea.",
+  "key_words": [
+   {
+    "word": "go by car",
+    "translation_uz": "mashinada bormoq"
+   },
+   {
+    "word": "go swimming",
+    "translation_uz": "suzishga bormoq"
+   },
+   {
+    "word": "go fishing",
+    "translation_uz": "baliq ovlashga bormoq"
+   },
+   {
+    "word": "go sightseeing",
+    "translation_uz": "diqqatga sazovor joylarni ko'rishga bormoq"
+   },
+   {
+    "word": "go shopping",
+    "translation_uz": "xarid qilishga bormoq"
+   },
+   {
+    "word": "be going to",
+    "translation_uz": "... qilmoqchi bo'lmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How did the family travel to the mountains?",
+    "options": [
+     "By train",
+     "By bus",
+     "By car",
+     "By plane"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “We went by car”"
+   },
+   {
+    "question": "What did the brother and the writer do in the morning?",
+    "options": [
+     "They went shopping",
+     "They went home",
+     "They went swimming in a lake",
+     "They went fishing"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “my brother and I went swimming in a cold lake”"
+   },
+   {
+    "question": "Who went fishing with them?",
+    "options": [
+     "Their father",
+     "Their uncle",
+     "A friend",
+     "The farmer"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “we went fishing with my uncle”"
+   },
+   {
+    "question": "[True / False] They caught a lot of fish.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “we did not catch anything” — demak False."
+   },
+   {
+    "question": "[True / False] The family stayed for three days.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “After three days, we went home.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Next year, they are going to visit the ___.",
+    "correct_word": "sea",
+    "accept": [
+     "seas"
+    ],
+    "explanation": "Matnda: “next year we are going to visit the sea”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u40b",
+  "title": "Doing the Housework",
+  "cefr": "A2",
+  "text": "Every Saturday, our family does the housework together. My father does the gardening and my mother does the washing. My brother does the washing-up after breakfast, and I do my homework first. Then I help my mother with the cleaning, and we all work hard because the house is quite big. Last Saturday, we did everything in two hours, and my mother said, \"You did your best!\" Now the house is tidy. In the afternoon, we do nothing and watch a film together.",
+  "key_words": [
+   {
+    "word": "do the housework",
+    "translation_uz": "uy ishlarini qilmoq"
+   },
+   {
+    "word": "do the gardening",
+    "translation_uz": "bog'dorchilik qilmoq"
+   },
+   {
+    "word": "do the washing",
+    "translation_uz": "kir yuvmoq"
+   },
+   {
+    "word": "do the washing-up",
+    "translation_uz": "idish yuvmoq"
+   },
+   {
+    "word": "do homework",
+    "translation_uz": "uy vazifasini qilmoq"
+   },
+   {
+    "word": "do your best",
+    "translation_uz": "qo'lidan kelganini qilmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Who does the gardening?",
+    "options": [
+     "The father",
+     "The writer",
+     "The brother",
+     "The mother"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My father does the gardening”"
+   },
+   {
+    "question": "What does the brother do after breakfast?",
+    "options": [
+     "His homework",
+     "The washing",
+     "The gardening",
+     "The washing-up"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “My brother does the washing-up after breakfast”"
+   },
+   {
+    "question": "How long did the family take to finish the housework last Saturday?",
+    "options": [
+     "Ten minutes",
+     "Half a day",
+     "Two hours",
+     "One hour"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “we did everything in two hours”"
+   },
+   {
+    "question": "[True / False] The writer does homework first.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I do my homework first” — demak True."
+   },
+   {
+    "question": "[True / False] The family does housework on Sunday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Every Saturday, our family does the housework together.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "My mother said, \"You did your ___!\"",
+    "correct_word": "best",
+    "accept": [
+     "bests"
+    ],
+    "explanation": "Matnda: “You did your best!”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u41b",
+  "title": "Making Dinner",
+  "cefr": "A2",
+  "text": "Today I made dinner for my family for the first time. First, I made a cup of coffee for my mother because she was tired. Then I made the dinner: rice with vegetables and chicken. I made a big mistake and added too much salt, so my brother made a funny face. My father made a joke, and everybody laughed. After dinner, I made a mess in the kitchen, but my sister helped me. She also made the bed in my room, because I did not have time. Tomorrow I am going to make an appointment with my friend to cook together.",
+  "key_words": [
+   {
+    "word": "make coffee",
+    "translation_uz": "qahva tayyorlamoq"
+   },
+   {
+    "word": "make dinner",
+    "translation_uz": "kechki ovqat tayyorlamoq"
+   },
+   {
+    "word": "make a mistake",
+    "translation_uz": "xato qilmoq"
+   },
+   {
+    "word": "make a mess",
+    "translation_uz": "tartibsizlik qilmoq"
+   },
+   {
+    "word": "make the bed",
+    "translation_uz": "to'shakni yig'ishtirmoq"
+   },
+   {
+    "word": "make an appointment",
+    "translation_uz": "uchrashuv belgilamoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Who did the writer make coffee for?",
+    "options": [
+     "For the brother",
+     "For the mother",
+     "For the father",
+     "For a friend"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I made a cup of coffee for my mother”"
+   },
+   {
+    "question": "What was the writer's mistake?",
+    "options": [
+     "Too little rice",
+     "No chicken",
+     "Burnt vegetables",
+     "Too much salt"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I made a big mistake and added too much salt”"
+   },
+   {
+    "question": "Who helped in the kitchen?",
+    "options": [
+     "The sister",
+     "The father",
+     "The mother",
+     "The brother"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “my sister helped me”"
+   },
+   {
+    "question": "What is the writer going to do tomorrow?",
+    "options": [
+     "Make coffee again",
+     "Make an appointment to cook with a friend",
+     "Go to school",
+     "Buy a new kitchen"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Tomorrow I am going to make an appointment with my friend to cook together.”"
+   },
+   {
+    "question": "[True / False] The writer made dinner for the first time.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “for the first time” — demak True."
+   },
+   {
+    "question": "[True / False] The father was angry about the mistake.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My father made a joke, and everybody laughed.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The sister made the ___ in the writer's room.",
+    "correct_word": "bed",
+    "accept": [
+     "beds"
+    ],
+    "explanation": "Matnda: “She also made the bed in my room”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u42b",
+  "title": "Visitors",
+  "cefr": "A2",
+  "text": "Last night, a friend came to our house. He knocked on the door and said, \"Can I come in?\" He came from the airport because his plane arrived late. My mother said, \"Come in and sit down.\" He came along with a small suitcase. We said, \"Come and see our new garden!\" He came out of the house and looked at the flowers. After tea, he said, \"I must go now, but I will come back tomorrow.\" He came back the next day with a gift. My little sister was very happy and said, \"Come on, let's play!\"",
+  "key_words": [
+   {
+    "word": "come in",
+    "translation_uz": "kirmoq"
+   },
+   {
+    "word": "come from",
+    "translation_uz": "... dan kelmoq"
+   },
+   {
+    "word": "come out of",
+    "translation_uz": "... dan chiqmoq"
+   },
+   {
+    "word": "come back",
+    "translation_uz": "qaytib kelmoq"
+   },
+   {
+    "word": "come and see",
+    "translation_uz": "kelib ko'ring"
+   },
+   {
+    "word": "come on",
+    "translation_uz": "qani, bo'ldi / yur"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where did the friend come from?",
+    "options": [
+     "From the airport",
+     "From a restaurant",
+     "From school",
+     "From the garden"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “He came from the airport”"
+   },
+   {
+    "question": "Why did he come late?",
+    "options": [
+     "He lost his key",
+     "He did not know the address",
+     "His plane arrived late",
+     "He was ill"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “his plane arrived late”"
+   },
+   {
+    "question": "What did the family show him?",
+    "options": [
+     "Their photos",
+     "A film",
+     "A new car",
+     "The new garden"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Come and see our new garden!”"
+   },
+   {
+    "question": "[True / False] The friend came back the next day.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “He came back the next day with a gift.” — demak True."
+   },
+   {
+    "question": "[True / False] The friend stayed for a week.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I must go now, but I will come back tomorrow” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The friend knocked on the ___.",
+    "correct_word": "door",
+    "accept": [
+     "doors"
+    ],
+    "explanation": "Matnda: “He knocked on the door”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u43b",
+  "title": "A Day at the Beach",
+  "cefr": "A2",
+  "text": "Last Sunday, we took the bus to the beach. It took us about an hour. We took an umbrella and some water, because it was hot. My father took many photos of the sea and the sand. My brother took a swimming lesson in the morning. At lunch, my mother took the sandwiches out of the bag. In the afternoon, we took a short walk to the museum near the beach. How long did it take to go home? Only forty minutes, because there was no traffic. I took a deep breath and said, \"What a great day!\"",
+  "key_words": [
+   {
+    "word": "take the bus",
+    "translation_uz": "avtobusga o'tirmoq"
+   },
+   {
+    "word": "how long",
+    "translation_uz": "qancha vaqt"
+   },
+   {
+    "word": "take a photo",
+    "translation_uz": "rasm olmoq"
+   },
+   {
+    "word": "take lessons",
+    "translation_uz": "dars olmoq"
+   },
+   {
+    "word": "take an umbrella",
+    "translation_uz": "soyabon olmoq"
+   },
+   {
+    "word": "took",
+    "translation_uz": "(take ning o'tgan zamoni)"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How did the family go to the beach?",
+    "options": [
+     "By car",
+     "By taxi",
+     "By train",
+     "By bus"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “we took the bus to the beach”"
+   },
+   {
+    "question": "How long did it take to go to the beach?",
+    "options": [
+     "Half an hour",
+     "About an hour",
+     "Three hours",
+     "Ten minutes"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “It took us about an hour.”"
+   },
+   {
+    "question": "Who took many photos?",
+    "options": [
+     "The mother",
+     "The brother",
+     "The father",
+     "The writer"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “My father took many photos”"
+   },
+   {
+    "question": "Why did the trip home take only forty minutes?",
+    "options": [
+     "There was no traffic",
+     "They took a taxi",
+     "They left early",
+     "The bus was fast"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “because there was no traffic”"
+   },
+   {
+    "question": "[True / False] The brother took a swimming lesson.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My brother took a swimming lesson in the morning.” — demak True."
+   },
+   {
+    "question": "[True / False] The family took a taxi home.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Only forty minutes, because there was no traffic.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "They took an umbrella and some ___.",
+    "correct_word": "water",
+    "accept": [
+     "waters"
+    ],
+    "explanation": "Matnda: “We took an umbrella and some water”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u44b",
+  "title": "The Party",
+  "cefr": "A2",
+  "text": "Tomorrow is Nina's birthday party, and everybody is going to bring something. Her aunt brought apples yesterday, and her uncle will bring flowers for the table. \"Please bring a glass and a plate,\" says Nina's mother. \"And bring your book back to the library, too,\" she tells Nina's brother. The secretary from Nina's father's office will bring a big cake tomorrow. Nina says, \"Please do not bring a present. Just bring your smile!\" Her friends are coming at five o'clock, and the house is already full of balloons. Nina is very excited and cannot wait to see everybody.",
+  "key_words": [
+   {
+    "word": "bring",
+    "translation_uz": "olib kelmoq"
+   },
+   {
+    "word": "brought",
+    "translation_uz": "(bring ning o'tgan zamoni)"
+   },
+   {
+    "word": "bring back",
+    "translation_uz": "qaytarib olib kelmoq"
+   },
+   {
+    "word": "apples",
+    "translation_uz": "olmalar"
+   },
+   {
+    "word": "flowers",
+    "translation_uz": "gullar"
+   },
+   {
+    "word": "glass",
+    "translation_uz": "stakan"
+   },
+   {
+    "word": "plate",
+    "translation_uz": "likopcha"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Who brought apples?",
+    "options": [
+     "Nina's mother",
+     "Nina's uncle",
+     "The secretary",
+     "Nina's aunt"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Her aunt brought apples yesterday”"
+   },
+   {
+    "question": "What will the uncle bring?",
+    "options": [
+     "Apples",
+     "Flowers",
+     "A glass",
+     "A cake"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “her uncle will bring flowers for the table”"
+   },
+   {
+    "question": "What must Nina's brother bring back to the library?",
+    "options": [
+     "A cake",
+     "A plate",
+     "His book",
+     "A glass"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “bring your book back to the library”"
+   },
+   {
+    "question": "[True / False] Nina's mother asks for a glass and a plate.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Please bring a glass and a plate” — demak True."
+   },
+   {
+    "question": "[True / False] Nina wants everybody to bring a big present.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Please do not bring a present.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Nina says, \"Just bring your ___!\"",
+    "correct_word": "smile",
+    "accept": [
+     "smiles"
+    ],
+    "explanation": "Matnda: “Just bring your smile!”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u45b",
+  "title": "Getting Better",
+  "cefr": "A2",
+  "text": "Yesterday my little brother was ill. In the morning, he got tired very quickly, and in the afternoon he got a high temperature, so my father got a doctor. The doctor said, \"He will get better in two days.\" In the evening it got dark and cold, and my mother got a blanket for him. She also got a newspaper for my father and a taxi for the doctor. Today my brother is much better. He got up at nine and got dressed. \"I want to get home from school early tomorrow,\" he says. \"I want to play with you!\"",
+  "key_words": [
+   {
+    "word": "get tired",
+    "translation_uz": "charchamoq"
+   },
+   {
+    "word": "get a doctor",
+    "translation_uz": "shifokorni chaqirmoq"
+   },
+   {
+    "word": "get better",
+    "translation_uz": "tuzalmoq"
+   },
+   {
+    "word": "get dark",
+    "translation_uz": "qorong'i bo'lmoq"
+   },
+   {
+    "word": "get a taxi",
+    "translation_uz": "taksi chaqirmoq"
+   },
+   {
+    "word": "get home",
+    "translation_uz": "uyga yetib kelmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why did the father get a doctor?",
+    "options": [
+     "The brother had a high temperature",
+     "The mother was tired",
+     "The brother broke his leg",
+     "It got dark"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “he got a high temperature, so my father got a doctor”"
+   },
+   {
+    "question": "What did the doctor say?",
+    "options": [
+     "He is not ill",
+     "He will get better in two days",
+     "He must go to school",
+     "He must stay in hospital"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “He will get better in two days.”"
+   },
+   {
+    "question": "What did the mother get for the brother?",
+    "options": [
+     "A doctor",
+     "A taxi",
+     "A newspaper",
+     "A blanket"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “my mother got a blanket for him”"
+   },
+   {
+    "question": "[True / False] The brother is much better today.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Today my brother is much better.” — demak True."
+   },
+   {
+    "question": "[True / False] The brother wants to stay in bed tomorrow.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I want to play with you!” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The doctor said, \"He will get ___ in two days.\"",
+    "correct_word": "better",
+    "accept": [
+     "betters"
+    ],
+    "explanation": "Matnda: “He will get better in two days.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u46b",
+  "title": "Turn It Down!",
+  "cefr": "A2",
+  "text": "My brother gets up at seven, but he never turns off his alarm clock quickly. He turns on the radio and puts on his school clothes. \"Turn it down!\" shouts my mother, because the music is loud. \"Please turn it off and come on!\" At the door, he takes off his hat and goes in. \"Go on,\" says the teacher, \"you must be on time.\" After school he turns on the computer, but he turns it off at six. When there is a party, he turns up with a big smile, and he puts on his best jacket.",
+  "key_words": [
+   {
+    "word": "get up",
+    "translation_uz": "o'rnidan turmoq"
+   },
+   {
+    "word": "turn on",
+    "translation_uz": "yoqmoq"
+   },
+   {
+    "word": "turn off",
+    "translation_uz": "o'chirmoq"
+   },
+   {
+    "word": "turn down",
+    "translation_uz": "pasaytirmoq (ovozni)"
+   },
+   {
+    "word": "put on",
+    "translation_uz": "kiymoq"
+   },
+   {
+    "word": "take off",
+    "translation_uz": "yechmoq"
+   },
+   {
+    "word": "come on",
+    "translation_uz": "qani, tezroq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the brother turn on in the morning?",
+    "options": [
+     "The radio",
+     "The TV",
+     "The computer",
+     "The light"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “He turns on the radio”"
+   },
+   {
+    "question": "Why does the mother shout \"Turn it down!\"?",
+    "options": [
+     "The brother is ill",
+     "It is late",
+     "The music is loud",
+     "The radio is broken"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “because the music is loud”"
+   },
+   {
+    "question": "What does the brother do at six?",
+    "options": [
+     "Goes to school",
+     "Turns on the radio",
+     "Turns off the computer",
+     "Goes to bed"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “he turns it off at six”"
+   },
+   {
+    "question": "[True / False] The brother gets up at seven.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My brother gets up at seven” — demak True."
+   },
+   {
+    "question": "[True / False] The brother wears his best jacket to school every day.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “When there is a party, he turns up with a big smile, and he puts on his best jacket.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "At the door, he takes ___ his hat.",
+    "correct_word": "off",
+    "accept": [
+     "offs"
+    ],
+    "explanation": "Matnda: “he takes off his hat”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u48b",
+  "title": "Tell Me a Story",
+  "cefr": "A2",
+  "text": "My grandfather loves to tell stories. Every evening, my cousins and I ask him, \"Please tell us a story!\" He speaks slowly and clearly, and he never says the same story twice. Last night he told us a funny story about a talking horse. We all laughed, and my little cousin asked, \"Is it true?\" My grandfather answered, \"Maybe!\" Then he told a joke and said, \"Now you tell me a story.\" I replied, \"I do not speak as well as you, but I will try.\" Everybody clapped.",
+  "key_words": [
+   {
+    "word": "tell a story",
+    "translation_uz": "hikoya aytmoq"
+   },
+   {
+    "word": "speak",
+    "translation_uz": "gapirmoq"
+   },
+   {
+    "word": "ask",
+    "translation_uz": "so'ramoq"
+   },
+   {
+    "word": "answer",
+    "translation_uz": "javob bermoq"
+   },
+   {
+    "word": "reply",
+    "translation_uz": "javob qaytarmoq"
+   },
+   {
+    "word": "joke",
+    "translation_uz": "hazil / latifa"
+   },
+   {
+    "word": "story",
+    "translation_uz": "hikoya"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the grandfather love to do?",
+    "options": [
+     "Tell stories",
+     "Read the news",
+     "Cook dinner",
+     "Play football"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My grandfather loves to tell stories.”"
+   },
+   {
+    "question": "What was last night's story about?",
+    "options": [
+     "A big fish",
+     "A king",
+     "A lost boy",
+     "A talking horse"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “a funny story about a talking horse”"
+   },
+   {
+    "question": "What did the little cousin ask?",
+    "options": [
+     "Who is the king?",
+     "Is it true?",
+     "Where is the horse?",
+     "Can I go to bed?"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “my little cousin asked, \"Is it true?\"”"
+   },
+   {
+    "question": "[True / False] The grandfather tells the same story every evening.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “he never says the same story twice” — demak False."
+   },
+   {
+    "question": "[True / False] The grandfather told a joke.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Then he told a joke” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "My grandfather ___ slowly and clearly.",
+    "correct_word": "speaks",
+    "accept": [
+     "speak"
+    ],
+    "explanation": "Matnda: “He speaks slowly and clearly”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u49b",
+  "title": "A Morning Run",
+  "cefr": "A2",
+  "text": "Every morning, I walk to the park, and then I run for thirty minutes. Yesterday, I jumped over a small river and almost fell in the water. A man in the park was carrying a big bag, and he asked, \"Can you help me?\" I said yes and carried the bag to the bus stop. Then I ran to catch my own bus, but I missed it and arrived late for school. My teacher smiled and said, \"A good run, but next time you must arrive on time!\" Now I always leave home ten minutes earlier.",
+  "key_words": [
+   {
+    "word": "walk",
+    "translation_uz": "yurmoq"
+   },
+   {
+    "word": "run",
+    "translation_uz": "yugurmoq"
+   },
+   {
+    "word": "jump",
+    "translation_uz": "sakramoq"
+   },
+   {
+    "word": "fall",
+    "translation_uz": "yiqilmoq"
+   },
+   {
+    "word": "carry",
+    "translation_uz": "ko'tarib yurmoq"
+   },
+   {
+    "word": "catch",
+    "translation_uz": "ulgurmoq / tutmoq"
+   },
+   {
+    "word": "arrive on time",
+    "translation_uz": "o'z vaqtida yetib kelmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How long does the writer run every morning?",
+    "options": [
+     "Ten minutes",
+     "Two hours",
+     "One hour",
+     "Thirty minutes"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I run for thirty minutes”"
+   },
+   {
+    "question": "What did the writer do for the man with the bag?",
+    "options": [
+     "Bought it",
+     "Carried it to the bus stop",
+     "Opened it",
+     "Lost it"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “carried the bag to the bus stop”"
+   },
+   {
+    "question": "Why was the writer late for school?",
+    "options": [
+     "He or she missed the bus",
+     "The bag was heavy",
+     "The teacher was angry",
+     "The river was too wide"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I missed it and arrived late for school”"
+   },
+   {
+    "question": "[True / False] The writer almost fell into the water.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “almost fell in the water” — demak True."
+   },
+   {
+    "question": "[True / False] The teacher was very angry.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My teacher smiled” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Now I always leave home ten minutes ___.",
+    "correct_word": "earlier",
+    "accept": [
+     "earliers"
+    ],
+    "explanation": "Matnda: “Now I always leave home ten minutes earlier.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u50b",
+  "title": "Because and So",
+  "cefr": "A2",
+  "text": "I like summer, but I do not like the heat. I want to swim or play tennis, but it is too hot at midday. Because it is hot, I get up early, and I go out before breakfast. After lunch I stay at home, so I read a book. If it is not too hot, I visit my friends in the evening. I also have a part-time job, as a babysitter, because I need some money. When the children go to bed, I do my homework. I am tired, but I am happy.",
+  "key_words": [
+   {
+    "word": "and",
+    "translation_uz": "va"
+   },
+   {
+    "word": "but",
+    "translation_uz": "lekin"
+   },
+   {
+    "word": "or",
+    "translation_uz": "yoki"
+   },
+   {
+    "word": "because",
+    "translation_uz": "chunki"
+   },
+   {
+    "word": "so",
+    "translation_uz": "shuning uchun"
+   },
+   {
+    "word": "when",
+    "translation_uz": "qachonki"
+   },
+   {
+    "word": "before",
+    "translation_uz": "oldin"
+   },
+   {
+    "word": "after",
+    "translation_uz": "keyin"
+   },
+   {
+    "word": "if",
+    "translation_uz": "agar"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why does the writer get up early?",
+    "options": [
+     "Because the job starts early",
+     "Because breakfast is early",
+     "Because it is hot",
+     "Because there is school"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Because it is hot, I get up early”"
+   },
+   {
+    "question": "What does the writer do after lunch?",
+    "options": [
+     "Reads a book",
+     "Goes swimming",
+     "Visits friends",
+     "Plays tennis"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “After lunch I stay at home, so I read a book.”"
+   },
+   {
+    "question": "Why does the writer have a part-time job?",
+    "options": [
+     "He or she loves children",
+     "Friends ask for it",
+     "He or she needs some money",
+     "School is closed"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “because I need some money”"
+   },
+   {
+    "question": "[True / False] The writer does homework when the children go to bed.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “When the children go to bed, I do my homework.” — demak True."
+   },
+   {
+    "question": "[True / False] The writer likes the heat.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I do not like the heat.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "If it is not too hot, I visit my friends in the ___.",
+    "correct_word": "evening",
+    "accept": [
+     "evenings"
+    ],
+    "explanation": "Matnda: “I visit my friends in the evening”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u51b",
+  "title": "The Four Seasons",
+  "cefr": "A2",
+  "text": "There are four seasons in a year: spring, summer, autumn and winter. A year has twelve months, from January to December, and every month has about four weeks. Spring starts in March. The days are warm and the flowers come out. In summer, from June to August, it is hot and people go on holiday. In autumn, the leaves turn yellow and the weather gets cold. Winter is in December, January and February. Every four years there is a leap year, and February has an extra day. My favourite day of the week is Friday, because it is the start of the weekend.",
+  "key_words": [
+   {
+    "word": "year",
+    "translation_uz": "yil"
+   },
+   {
+    "word": "month",
+    "translation_uz": "oy"
+   },
+   {
+    "word": "week",
+    "translation_uz": "hafta"
+   },
+   {
+    "word": "weekend",
+    "translation_uz": "dam olish kunlari"
+   },
+   {
+    "word": "spring",
+    "translation_uz": "bahor"
+   },
+   {
+    "word": "summer",
+    "translation_uz": "yoz"
+   },
+   {
+    "word": "autumn",
+    "translation_uz": "kuz"
+   },
+   {
+    "word": "winter",
+    "translation_uz": "qish"
+   },
+   {
+    "word": "leap year",
+    "translation_uz": "kabisa yili"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How many months are there in a year?",
+    "options": [
+     "Ten",
+     "Twelve",
+     "Thirteen",
+     "Eleven"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “A year has twelve months”"
+   },
+   {
+    "question": "Which months are summer months in the text?",
+    "options": [
+     "December to February",
+     "March to May",
+     "September to November",
+     "June to August"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “In summer, from June to August”"
+   },
+   {
+    "question": "What happens in a leap year?",
+    "options": [
+     "Summer is shorter",
+     "There are thirteen months",
+     "February has an extra day",
+     "Winter is longer"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “February has an extra day”"
+   },
+   {
+    "question": "[True / False] Spring starts in March.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Spring starts in March.” — demak True."
+   },
+   {
+    "question": "[True / False] In autumn, the leaves turn red.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the leaves turn yellow” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The writer's favourite day of the week is ___.",
+    "correct_word": "Friday",
+    "accept": [
+     "Fridays"
+    ],
+    "explanation": "Matnda: “My favourite day of the week is Friday”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u52b",
+  "title": "How Often?",
+  "cefr": "A2",
+  "text": "I always get up at six o'clock, and I usually have a quick breakfast. I often walk to school with my friends, but sometimes my father takes me by car. I rarely arrive late, and I never forget my homework. I play football twice a week, and I go to the library once a week. Three times a year, my family visits my grandparents in the village. Last year we stayed there for a month. Next week we are going again, and in a moment I will start to pack my bag. Soon it will be the holidays!",
+  "key_words": [
+   {
+    "word": "always",
+    "translation_uz": "doim"
+   },
+   {
+    "word": "usually",
+    "translation_uz": "odatda"
+   },
+   {
+    "word": "often",
+    "translation_uz": "tez-tez"
+   },
+   {
+    "word": "sometimes",
+    "translation_uz": "ba'zan"
+   },
+   {
+    "word": "rarely",
+    "translation_uz": "kamdan-kam"
+   },
+   {
+    "word": "never",
+    "translation_uz": "hech qachon"
+   },
+   {
+    "word": "once a week",
+    "translation_uz": "haftasiga bir marta"
+   },
+   {
+    "word": "twice a week",
+    "translation_uz": "haftasiga ikki marta"
+   },
+   {
+    "word": "three times a year",
+    "translation_uz": "yiliga uch marta"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How often does the writer play football?",
+    "options": [
+     "Twice a week",
+     "Every day",
+     "Once a week",
+     "Three times a year"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I play football twice a week”"
+   },
+   {
+    "question": "How often does the family visit the grandparents?",
+    "options": [
+     "Twice a week",
+     "Once a week",
+     "Every month",
+     "Three times a year"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Three times a year, my family visits my grandparents”"
+   },
+   {
+    "question": "When does the writer's father sometimes take him or her to school?",
+    "options": [
+     "Always, by bus",
+     "Sometimes, by car",
+     "Every Sunday",
+     "Never"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “sometimes my father takes me by car”"
+   },
+   {
+    "question": "[True / False] The writer never forgets the homework.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I never forget my homework” — demak True."
+   },
+   {
+    "question": "[True / False] The writer often arrives late.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I rarely arrive late” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "I go to the library ___ a week.",
+    "correct_word": "once",
+    "accept": [
+     "onces"
+    ],
+    "explanation": "Matnda: “I go to the library once a week”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u53b",
+  "title": "Where Is It?",
+  "cefr": "A2",
+  "text": "Our school is on the left side of the street, and the park is on the right. At the front of the school there is a garden, and at the back there is a football pitch. My classroom is at the top of the building, and the library is at the bottom. In the middle of the library, there are many tables. On the first day of school, I was at home because I was ill. My brother is abroad now, and he studies at a university in another country. Here and there, you can find pictures of him in our house.",
+  "key_words": [
+   {
+    "word": "left",
+    "translation_uz": "chap"
+   },
+   {
+    "word": "right",
+    "translation_uz": "o'ng"
+   },
+   {
+    "word": "top",
+    "translation_uz": "tepa"
+   },
+   {
+    "word": "bottom",
+    "translation_uz": "past"
+   },
+   {
+    "word": "middle",
+    "translation_uz": "o'rta"
+   },
+   {
+    "word": "front",
+    "translation_uz": "old"
+   },
+   {
+    "word": "back",
+    "translation_uz": "orqa"
+   },
+   {
+    "word": "abroad",
+    "translation_uz": "xorijda"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where is the park?",
+    "options": [
+     "On the left side",
+     "At the back of the school",
+     "On the right side of the street",
+     "At the top of the school"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the park is on the right”"
+   },
+   {
+    "question": "What is at the back of the school?",
+    "options": [
+     "A garden",
+     "A library",
+     "A park",
+     "A football pitch"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “at the back there is a football pitch”"
+   },
+   {
+    "question": "Where is the writer's classroom?",
+    "options": [
+     "At the top of the building",
+     "Next to the park",
+     "At the bottom",
+     "In the garden"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My classroom is at the top of the building”"
+   },
+   {
+    "question": "[True / False] The library is at the bottom of the building.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the library is at the bottom” — demak True."
+   },
+   {
+    "question": "[True / False] The writer's brother lives in the same town.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My brother is abroad now” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In the middle of the library, there are many ___.",
+    "correct_word": "tables",
+    "accept": [
+     "table"
+    ],
+    "explanation": "Matnda: “In the middle of the library, there are many tables.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u54b",
+  "title": "Slowly or Quickly?",
+  "cefr": "A2",
+  "text": "My brother and I are very different. He drives fast, but I drive slowly and carefully. He talks loudly, and I speak quietly. At school, he sings well, but he plays the guitar badly. I do not sing well, but I play the piano quite well. Our neighbour is a friendly man, but his dog is not friendly at all. Yesterday, the dog ran fast after a cat, and my brother ran after the dog. \"Stop!\" he shouted loudly. \"That is the wrong way!\" The dog did not listen. In the end, I walked quietly to the cat and took it home safely.",
+  "key_words": [
+   {
+    "word": "fast",
+    "translation_uz": "tez"
+   },
+   {
+    "word": "slowly",
+    "translation_uz": "sekin"
+   },
+   {
+    "word": "loudly",
+    "translation_uz": "baland ovozda"
+   },
+   {
+    "word": "quietly",
+    "translation_uz": "jimgina"
+   },
+   {
+    "word": "well",
+    "translation_uz": "yaxshi"
+   },
+   {
+    "word": "badly",
+    "translation_uz": "yomon"
+   },
+   {
+    "word": "carefully",
+    "translation_uz": "ehtiyotkorlik bilan"
+   },
+   {
+    "word": "friendly",
+    "translation_uz": "do'stona"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How does the writer drive?",
+    "options": [
+     "Loudly",
+     "Slowly and carefully",
+     "Badly",
+     "Fast"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I drive slowly and carefully”"
+   },
+   {
+    "question": "How does the brother sing?",
+    "options": [
+     "Badly",
+     "Slowly",
+     "Well",
+     "Quietly"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “he sings well”"
+   },
+   {
+    "question": "What did the writer do at the end?",
+    "options": [
+     "Played the piano",
+     "Ran after the dog",
+     "Shouted loudly",
+     "Took the cat home"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I walked quietly to the cat and took it home”"
+   },
+   {
+    "question": "[True / False] The writer talks loudly.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I speak quietly” — demak False."
+   },
+   {
+    "question": "[True / False] The neighbour's dog is not friendly.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “his dog is not friendly at all” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "My brother drives ___, but I drive slowly.",
+    "correct_word": "fast",
+    "accept": [
+     "fasts"
+    ],
+    "explanation": "Matnda: “He drives fast”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u55b",
+  "title": "The Shopping List",
+  "cefr": "A2",
+  "text": "My mother writes a shopping list every Saturday. This week she needs a kilo of rice, a litre of milk, a loaf of bread and some butter. We also need sugar for the cake. Money is not a problem, but time is: the shop is far, and there is a lot of traffic. My father gives us some advice. \"Before you go, listen to the news and check the weather,\" he says. \"If it is sunny, walk to the shop and enjoy the fresh air.\" So we take a bag and go on foot.",
+  "key_words": [
+   {
+    "word": "rice",
+    "translation_uz": "guruch"
+   },
+   {
+    "word": "milk",
+    "translation_uz": "sut"
+   },
+   {
+    "word": "bread",
+    "translation_uz": "non"
+   },
+   {
+    "word": "butter",
+    "translation_uz": "sariyog'"
+   },
+   {
+    "word": "sugar",
+    "translation_uz": "shakar"
+   },
+   {
+    "word": "money",
+    "translation_uz": "pul"
+   },
+   {
+    "word": "advice",
+    "translation_uz": "maslahat"
+   },
+   {
+    "word": "news",
+    "translation_uz": "yangiliklar"
+   },
+   {
+    "word": "weather",
+    "translation_uz": "ob-havo"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How much rice does the mother need?",
+    "options": [
+     "Two kilos",
+     "A kilo",
+     "A loaf",
+     "A litre"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “a kilo of rice”"
+   },
+   {
+    "question": "What do they need for the cake?",
+    "options": [
+     "Sugar",
+     "Milk",
+     "Rice",
+     "Butter"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “We also need sugar for the cake.”"
+   },
+   {
+    "question": "What does the father advise them to do before they go?",
+    "options": [
+     "Listen to the news and check the weather",
+     "Cook rice",
+     "Go to the bank",
+     "Call the teacher"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “listen to the news and check the weather”"
+   },
+   {
+    "question": "[True / False] Time is a problem for the family.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Money is not a problem, but time is” — demak True."
+   },
+   {
+    "question": "[True / False] The shop is near the house.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the shop is far” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The father says: \"If it is sunny, walk to the ___.\"",
+    "correct_word": "shop",
+    "accept": [
+     "shops"
+    ],
+    "explanation": "Matnda: “walk to the shop”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u56b",
+  "title": "A Terrible Day, a Wonderful Evening",
+  "cefr": "A2",
+  "text": "Today started badly. The weather was terrible, the traffic was dreadful and my jacket was wet. At school, the maths test was awful, and my lunch was not bad, but not very good either. Then the evening came, and everything changed. My mother made a lovely dinner, and the smell was wonderful. My father had a great idea: \"Let's watch a film together!\" The film was excellent, and the view of the mountains in it was perfect. At the end, I said that it was a terrible day, but a nice evening.",
+  "key_words": [
+   {
+    "word": "terrible",
+    "translation_uz": "dahshatli"
+   },
+   {
+    "word": "awful",
+    "translation_uz": "yomon"
+   },
+   {
+    "word": "dreadful",
+    "translation_uz": "juda yomon"
+   },
+   {
+    "word": "lovely",
+    "translation_uz": "ajoyib"
+   },
+   {
+    "word": "wonderful",
+    "translation_uz": "ajoyib (zo'r)"
+   },
+   {
+    "word": "excellent",
+    "translation_uz": "a'lo"
+   },
+   {
+    "word": "perfect",
+    "translation_uz": "mukammal"
+   },
+   {
+    "word": "nice",
+    "translation_uz": "yoqimli"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How was the weather today?",
+    "options": [
+     "Lovely",
+     "Nice",
+     "Perfect",
+     "Terrible"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “The weather was terrible”"
+   },
+   {
+    "question": "How was the maths test?",
+    "options": [
+     "Nice",
+     "Excellent",
+     "Awful",
+     "Wonderful"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the maths test was awful”"
+   },
+   {
+    "question": "What was the father's idea?",
+    "options": [
+     "To cook dinner",
+     "To watch a film together",
+     "To play a game",
+     "To go for a walk"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Let's watch a film together!”"
+   },
+   {
+    "question": "[True / False] The writer liked the film.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The film was excellent” — demak True."
+   },
+   {
+    "question": "[True / False] The mother's dinner was bad.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My mother made a lovely dinner” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The smell of the dinner was ___.",
+    "correct_word": "wonderful",
+    "accept": [
+     "wonderfuls"
+    ],
+    "explanation": "Matnda: “the smell was wonderful”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u57b",
+  "title": "Words and Prepositions",
+  "cefr": "A2",
+  "text": "Every morning, I listen to the radio and wait for the bus at the corner. I look at my watch, because I am afraid of being late. At school, I look for my pen under my desk when I lose it. I am good at maths, but I am bad at drawing. My sister is interested in music, and she is proud of her new violin. My mother looks after my little cousin when his parents are at work. I look forward to the weekend, because I always think about football. Last Sunday, I apologised for breaking a window, and I paid for it with my pocket money.",
+  "key_words": [
+   {
+    "word": "listen to",
+    "translation_uz": "... ga quloq solmoq"
+   },
+   {
+    "word": "wait for",
+    "translation_uz": "... ni kutmoq"
+   },
+   {
+    "word": "look for",
+    "translation_uz": "... ni qidirmoq"
+   },
+   {
+    "word": "look after",
+    "translation_uz": "... ga qarab turmoq"
+   },
+   {
+    "word": "look forward to",
+    "translation_uz": "... ni intiqlik bilan kutmoq"
+   },
+   {
+    "word": "good at",
+    "translation_uz": "... da yaxshi"
+   },
+   {
+    "word": "interested in",
+    "translation_uz": "... ga qiziqmoq"
+   },
+   {
+    "word": "proud of",
+    "translation_uz": "... bilan faxrlanmoq"
+   },
+   {
+    "word": "pay for",
+    "translation_uz": "... uchun to'lamoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the writer wait for at the corner?",
+    "options": [
+     "The teacher",
+     "A friend",
+     "The radio",
+     "The bus"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “wait for the bus at the corner”"
+   },
+   {
+    "question": "What is the sister proud of?",
+    "options": [
+     "Her radio",
+     "Her marks",
+     "Her new violin",
+     "Her drawing"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “she is proud of her new violin”"
+   },
+   {
+    "question": "Who looks after the little cousin?",
+    "options": [
+     "The writer's mother",
+     "The writer",
+     "The teacher",
+     "The sister"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My mother looks after my little cousin”"
+   },
+   {
+    "question": "How did the writer pay for the window?",
+    "options": [
+     "With the mother's money",
+     "With pocket money",
+     "With a gift",
+     "With a card"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “paid for it with my pocket money”"
+   },
+   {
+    "question": "[True / False] The writer is good at maths.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I am good at maths” — demak True."
+   },
+   {
+    "question": "[True / False] The writer is bad at maths.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “I am good at maths” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "I look forward ___ the weekend.",
+    "correct_word": "to",
+    "accept": [
+     "tos"
+    ],
+    "explanation": "Matnda: “I look forward to the weekend”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u58b",
+  "title": "Unhappy and Unkind",
+  "cefr": "A2",
+  "text": "Last week was bad for Aziz. He was unhappy because his exam was very difficult, and the questions were not easy to understand. On Tuesday, he found a new rule in the book: \"The pre-school is non-smoking.\" He thought, \"It is impossible to remember everything!\" He decided to redo his notes and to rewrite the difficult pages. His friend Rustam was very unkind and laughed at him, but their teacher said, \"That is unfair and unsafe for your friendship.\" On Friday, there was an informal party at school with half-price pizza. Aziz was happy again, and he forgot the whole week.",
+  "key_words": [
+   {
+    "word": "unhappy",
+    "translation_uz": "baxtsiz"
+   },
+   {
+    "word": "unkind",
+    "translation_uz": "mehribon emas"
+   },
+   {
+    "word": "unsafe",
+    "translation_uz": "xavfli"
+   },
+   {
+    "word": "impossible",
+    "translation_uz": "imkonsiz"
+   },
+   {
+    "word": "redo",
+    "translation_uz": "qayta qilmoq"
+   },
+   {
+    "word": "rewrite",
+    "translation_uz": "qayta yozmoq"
+   },
+   {
+    "word": "informal",
+    "translation_uz": "norasmiy"
+   },
+   {
+    "word": "half-price",
+    "translation_uz": "yarim narxda"
+   },
+   {
+    "word": "non-smoking",
+    "translation_uz": "chekish mumkin emas"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why was Aziz unhappy?",
+    "options": [
+     "He was ill",
+     "He had no friends",
+     "He lost his book",
+     "His exam was very difficult"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “He was unhappy because his exam was very difficult”"
+   },
+   {
+    "question": "What did Aziz decide to do?",
+    "options": [
+     "Buy a new book",
+     "Leave school",
+     "Redo his notes and rewrite the difficult pages",
+     "Call his mother"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “redo his notes and to rewrite the difficult pages”"
+   },
+   {
+    "question": "What was on offer at the party?",
+    "options": [
+     "Free books",
+     "Half-price pizza",
+     "A film",
+     "Free tickets"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “half-price pizza”"
+   },
+   {
+    "question": "[True / False] Rustam was kind to Aziz.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “His friend Rustam was very unkind” — demak False."
+   },
+   {
+    "question": "[True / False] Aziz was happy again on Friday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Aziz was happy again” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Aziz decided to ___ his notes.",
+    "correct_word": "redo",
+    "accept": [
+     "redos"
+    ],
+    "explanation": "Matnda: “redo his notes”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u59b",
+  "title": "A Useful Worker",
+  "cefr": "A2",
+  "text": "My uncle is a swimmer and an instructor at the sports centre. He is a very useful worker, because he helps beginners in the pool. He swims quickly, but he teaches slowly and carefully. His students are always happy, and they feel real happiness when they swim for the first time. Last summer, the weather was sunny, and he took a group to a sandy beach. Some children were afraid of the waves, but he said, \"It is useless to be afraid. The water is beautiful.\" Next month there is a competition, and my uncle is very popular. Everybody says that his lessons are never boring.",
+  "key_words": [
+   {
+    "word": "worker",
+    "translation_uz": "ishchi"
+   },
+   {
+    "word": "swimmer",
+    "translation_uz": "suzuvchi"
+   },
+   {
+    "word": "instructor",
+    "translation_uz": "o'qituvchi (instruktor)"
+   },
+   {
+    "word": "useful",
+    "translation_uz": "foydali"
+   },
+   {
+    "word": "useless",
+    "translation_uz": "befoyda"
+   },
+   {
+    "word": "beautiful",
+    "translation_uz": "chiroyli"
+   },
+   {
+    "word": "quickly",
+    "translation_uz": "tez"
+   },
+   {
+    "word": "happiness",
+    "translation_uz": "baxt"
+   },
+   {
+    "word": "sunny",
+    "translation_uz": "quyoshli"
+   },
+   {
+    "word": "popular",
+    "translation_uz": "mashhur"
+   },
+   {
+    "word": "competition",
+    "translation_uz": "musobaqa"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is the writer's uncle?",
+    "options": [
+     "A swimmer and an instructor",
+     "A teacher of maths",
+     "A farmer",
+     "A doctor"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My uncle is a swimmer and an instructor”"
+   },
+   {
+    "question": "What does the uncle teach?",
+    "options": [
+     "Dancing",
+     "Maths",
+     "Swimming to beginners",
+     "Football"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “he helps beginners in the pool”"
+   },
+   {
+    "question": "Where did he take a group last summer?",
+    "options": [
+     "To a museum",
+     "To a sandy beach",
+     "To the mountains",
+     "To a big city"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “he took a group to a sandy beach”"
+   },
+   {
+    "question": "[True / False] The uncle teaches slowly and carefully.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “he teaches slowly and carefully” — demak True."
+   },
+   {
+    "question": "[True / False] There is a competition next week.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Next month there is a competition” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "It is ___ to be afraid, the uncle says.",
+    "correct_word": "useless",
+    "accept": [
+     "useles"
+    ],
+    "explanation": "Matnda: “It is useless to be afraid”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u60b",
+  "title": "Quiet or Quite?",
+  "cefr": "A2",
+  "text": "Words that look or sound similar can be difficult. My room is quite small, but it is very quiet. Yesterday, I felt ill, so I fell asleep early. I lost my key, and my brother said, \"Your bag is loose, so be careful!\" I wanted to borrow a book from my friend, and he said, \"I can lend you my book, but please bring it back.\" In the evening, my mother asked me to cook dinner. \"Check the rice,\" she said, \"and control the fire.\" I passed my English test last Friday, but my brother failed his maths test. Now I expect that he will study more in the afternoon and in the evening.",
+  "key_words": [
+   {
+    "word": "quite",
+    "translation_uz": "ancha / ancha-muncha"
+   },
+   {
+    "word": "quiet",
+    "translation_uz": "tinch"
+   },
+   {
+    "word": "lose",
+    "translation_uz": "yo'qotmoq"
+   },
+   {
+    "word": "loose",
+    "translation_uz": "keng / bo'sh"
+   },
+   {
+    "word": "fell",
+    "translation_uz": "yiqildi"
+   },
+   {
+    "word": "felt",
+    "translation_uz": "his qildi"
+   },
+   {
+    "word": "lend",
+    "translation_uz": "qarz bermoq"
+   },
+   {
+    "word": "borrow",
+    "translation_uz": "qarz olmoq"
+   },
+   {
+    "word": "pass",
+    "translation_uz": "(imtihondan) o'tmoq"
+   },
+   {
+    "word": "fail",
+    "translation_uz": "(imtihondan) o'ta olmaslik"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How is the writer's room?",
+    "options": [
+     "Quite small, but very quiet",
+     "Small and loud",
+     "Big and loud",
+     "Quiet and big"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My room is quite small, but it is very quiet.”"
+   },
+   {
+    "question": "What can the friend do?",
+    "options": [
+     "Pass a test",
+     "Lose a key",
+     "Borrow a book",
+     "Lend his book"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I can lend you my book”"
+   },
+   {
+    "question": "What happened to the brother's maths test?",
+    "options": [
+     "He lost it",
+     "He failed it",
+     "He forgot it",
+     "He passed it"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “my brother failed his maths test”"
+   },
+   {
+    "question": "[True / False] The writer passed the English test.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I passed my English test” — demak True."
+   },
+   {
+    "question": "[True / False] The writer's bag is tight.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Your bag is loose” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "I can ___ you my book, but please bring it back.",
+    "correct_word": "lend",
+    "accept": [
+     "lends"
+    ],
+    "explanation": "Matnda: “I can lend you my book”"
+   }
+  ]
+ }
+]

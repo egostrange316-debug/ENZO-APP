@@ -6,17 +6,26 @@ const { planMigration, mapStudent } = require('../scripts/lib/transform');
 
 test('curriculum: imtihon kunlari va darajalar', () => {
   assert.equal(deriveLessonType(1), 'regular');
-  assert.equal(deriveLessonType(3), 'mini_check');
-  assert.equal(deriveLessonType(25), 'mid_check');
-  assert.equal(deriveLessonType(75), 'mid_check');   // 75 = 3*25 -> mid_check ustun
-  assert.equal(deriveLessonType(100), 'final_exam');
-  assert.equal(deriveLessonType(300), 'final_exam');
-  assert.equal(deriveLessonType(400), 'final_exam');
-  assert.equal(levelForDay(1), 'elementary');
-  assert.equal(levelForDay(100), 'elementary');
-  assert.equal(levelForDay(101), 'intermediate');
-  assert.equal(levelForDay(301), 'advanced');
-  assert.equal(levelForDay(400), 'advanced');
+  assert.equal(deriveLessonType(6), 'regular');
+  assert.equal(deriveLessonType(7), 'mini_check');
+  assert.equal(deriveLessonType(21), 'mini_check');
+  assert.equal(deriveLessonType(28), 'mid_check');
+  assert.equal(deriveLessonType(56), 'mid_check');
+  assert.equal(deriveLessonType(70), 'final_exam');
+  assert.equal(deriveLessonType(140), 'final_exam');
+  assert.equal(deriveLessonType(294), 'final_exam');
+  assert.equal(deriveLessonType(464), 'final_exam');
+  assert.equal(deriveLessonType(646), 'final_exam');
+  assert.equal(levelForDay(1), 'beginner');
+  assert.equal(levelForDay(70), 'beginner');
+  assert.equal(levelForDay(71), 'elementary');
+  assert.equal(levelForDay(140), 'elementary');
+  assert.equal(levelForDay(141), 'pre-intermediate');
+  assert.equal(levelForDay(294), 'pre-intermediate');
+  assert.equal(levelForDay(295), 'intermediate');
+  assert.equal(levelForDay(464), 'intermediate');
+  assert.equal(levelForDay(465), 'upper-intermediate');
+  assert.equal(levelForDay(646), 'upper-intermediate');
 });
 
 const goodAi = () => ({
@@ -54,13 +63,13 @@ const words = (fid, n) => Array.from({ length: n }, (_, i) => ({ id: `${fid}w${i
 const vocab = [...words('f1', 5), ...words('f2', 2), ...words('f3', 4), ...words('f5', 2)];
 const ai = [{ file_id: 'f1', word_id: 'f1w0', sentence: 'I eat an ___ daily.', options: ['en0', 'a', 'b', 'c'], answer: 'en0' }];
 
-test('migratsiya rejasi: kunlar ketma-ket, 100-kun band qilinmaydi, noma\'lum guruh va bo\'sh fayl o\'tkaziladi', () => {
+test('migratsiya rejasi: kunlar ketma-ket, final kunlar band qilinmaydi, noma\'lum guruh va bo\'sh fayl o\'tkaziladi', () => {
   const r = planMigration({ files, vocab, aiExercises: ai, existingPlans: [], rng });
-  assert.deepEqual(r.plans.map((p) => [p.legacy_file_id, p.day_number]), [['f1', 1], ['f2', 2], ['f3', 101]]);
+  assert.deepEqual(r.plans.map((p) => [p.legacy_file_id, p.day_number]), [['f1', 71], ['f2', 72], ['f3', 141]]);
   assert.equal(r.plans[0].lesson_type, 'regular');
-  assert.equal(r.plans.find((p) => p.day_number === 101).level, 'intermediate');
+  assert.equal(r.plans.find((p) => p.day_number === 141).level, 'pre-intermediate');
   assert.equal(r.skipped.length, 2);
-  assert.deepEqual(r.finalPlaceholders.map((p) => p.day_number), [100, 200]);
+  assert.deepEqual(r.finalPlaceholders.map((p) => p.day_number), [140, 294]);
   assert.ok(r.finalPlaceholders.every((p) => p.needs_content && p.lesson_type === 'final_exam'));
   // mazmun: AI mashqidan misol gap va bo'sh joy mashqi
   assert.equal(r.plans[0].vocabulary[0].example_sentence, 'I eat an en0 daily.');
@@ -79,9 +88,9 @@ test('migratsiya qayta ishga tushirilsa dublikat yaratmaydi va band kunlarni bos
   assert.equal(again.plans.length, 0);
   assert.equal(again.finalPlaceholders.length, 0);
 
-  // 1-kunni AI parser bilan qo'lda kiritilgan reja band qilgan bo'lsa, birinchi fayl 2-kunga tushadi
-  const manual = planMigration({ files, vocab, aiExercises: ai, existingPlans: [{ day_number: 1 }], rng });
-  assert.deepEqual(manual.plans.slice(0, 2).map((p) => p.day_number), [2, 3]);
+  // 71-kunni AI parser bilan qo'lda kiritilgan reja band qilgan bo'lsa, birinchi fayl 72-kunga tushadi
+  const manual = planMigration({ files, vocab, aiExercises: ai, existingPlans: [{ day_number: 71 }], rng });
+  assert.deepEqual(manual.plans.slice(0, 2).map((p) => p.day_number), [72, 73]);
 });
 
 test('o\'quvchi xaritasi: bloklangan holat va muddat', () => {
@@ -92,4 +101,30 @@ test('o\'quvchi xaritasi: bloklangan holat va muddat', () => {
   assert.equal(u.legacy_id, 'uuid-1');
   assert.equal(u.subscription_end_date.toISOString(), '2026-11-07T00:00:00.000Z');
   assert.equal(u.current_day, 1);
+});
+
+test('obuna sanalari: oy oxiri (Toshkent), kabisa fevral, dekabr o\'tishi, grace holatlari', () => {
+  const sub = require('../lib/subscription');
+  // 8-oktyabr -> 31-oktyabr 23:59:59.999 Toshkent = 18:59:59.999Z
+  assert.equal(sub.endOfMonth(new Date('2026-10-08T10:00:00Z')).toISOString(), '2026-10-31T18:59:59.999Z');
+  assert.equal(sub.endOfMonth(new Date('2026-10-08T10:00:00Z'), 1).toISOString(), '2026-11-30T18:59:59.999Z');
+  assert.equal(sub.endOfMonth(new Date('2028-02-10T10:00:00Z')).toISOString(), '2028-02-29T18:59:59.999Z'); // kabisa yil
+  assert.equal(sub.endOfMonth(new Date('2026-12-15T10:00:00Z'), 1).toISOString(), '2027-01-31T18:59:59.999Z');
+  // UTC bo'yicha 30-oktyabr 20:00 = Toshkentda 31-oktyabr 01:00 -> hali oktyabr
+  assert.equal(sub.endOfMonth(new Date('2026-10-30T20:00:00Z')).toISOString(), '2026-10-31T18:59:59.999Z');
+  // UTC bo'yicha 31-oktyabr 19:30 = Toshkentda 1-noyabr 00:30 -> noyabr
+  assert.equal(sub.endOfMonth(new Date('2026-10-31T19:30:00Z')).toISOString(), '2026-11-30T18:59:59.999Z');
+
+  assert.equal(sub.endOfLocalDay('2026-02-31'), null);
+  assert.equal(sub.endOfLocalDay('abc'), null);
+  assert.equal(sub.endOfLocalDay('2026-03-10').toISOString(), '2026-03-10T18:59:59.999Z');
+
+  const end = new Date('2026-10-31T18:59:59.999Z');
+  const at = (iso, extra = {}) => sub.subscriptionInfo({ subscription_end_date: end, status: 'active', ...extra }, new Date(iso));
+  assert.equal(at('2026-10-20T00:00:00Z').state, 'paid');
+  assert.equal(at('2026-10-20T00:00:00Z').days_left, 12);
+  assert.equal(at('2026-11-01T00:00:00Z').state, 'grace');
+  assert.equal(at('2026-11-05T18:00:00Z').state, 'grace');   // 5-noyabr kuni hali grace
+  assert.equal(at('2026-11-05T19:30:00Z').state, 'blocked');  // 5 kun tugadi
+  assert.equal(at('2026-10-20T00:00:00Z', { status: 'blocked' }).state, 'blocked');
 });

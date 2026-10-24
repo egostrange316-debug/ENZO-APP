@@ -27,6 +27,7 @@ function publicUser(u) {
     subscription_end_date: u.subscription_end_date,
     // paid | grace (5 kun to'lov muddati) | blocked; ilova ogohlantirish uchun ishlatadi
     subscription: subscriptionInfo(u),
+    server_time: new Date().toISOString(), // ilova telefon soatini orqaga surishni aniqlashi uchun
   };
 }
 

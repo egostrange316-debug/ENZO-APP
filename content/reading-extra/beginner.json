@@ -1,0 +1,2905 @@
+[
+ {
+  "target": "eviu-elementary:u1b",
+  "title": "My Big Family",
+  "cefr": "A1",
+  "text": "This is my family. My mother is a nurse and my father is a driver. I have one brother and two sisters. My brother is fifteen. My grandmother and grandfather live with us. My uncle and my aunt live in Samarkand. They have a daughter. She is my cousin. We are a big family and we love each other.",
+  "key_words": [
+   {
+    "word": "mother",
+    "translation_uz": "ona"
+   },
+   {
+    "word": "father",
+    "translation_uz": "ota"
+   },
+   {
+    "word": "grandmother",
+    "translation_uz": "buvi"
+   },
+   {
+    "word": "uncle",
+    "translation_uz": "amaki / tog'a"
+   },
+   {
+    "word": "aunt",
+    "translation_uz": "xola / amma"
+   },
+   {
+    "word": "cousin",
+    "translation_uz": "amakivachcha / xolavachcha"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is the writer's mother's job?",
+    "options": [
+     "A driver",
+     "A teacher",
+     "A nurse",
+     "A doctor"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “My mother is a nurse”"
+   },
+   {
+    "question": "How many sisters does the writer have?",
+    "options": [
+     "Three",
+     "Two",
+     "One",
+     "Four"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “two sisters”"
+   },
+   {
+    "question": "Who lives in Samarkand?",
+    "options": [
+     "The father",
+     "The brother",
+     "The grandmother",
+     "The uncle and the aunt"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “My uncle and my aunt live in Samarkand.”"
+   },
+   {
+    "question": "[True / False] The grandmother and grandfather live in Samarkand.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My grandmother and grandfather live with us.” — demak False."
+   },
+   {
+    "question": "[True / False] The cousin is the daughter of the writer's uncle and aunt.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “They have a daughter. She is my cousin.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The writer's brother is ___ years old.",
+    "correct_word": "fifteen",
+    "accept": [
+     "15",
+     "fifteens"
+    ],
+    "explanation": "Matnda: “My brother is fifteen.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u4b",
+  "title": "A Cold Morning",
+  "cefr": "A1",
+  "text": "It is a cold morning. Sara gets dressed. She puts on jeans, a warm sweater and a coat. She wears a red hat, a scarf and gloves. Her brother Tom wears a jacket and boots. Tom does not like his hat, so he takes it off. Their mother says, \"Put it on, Tom! It is very cold.\" Tom puts it on again. Now they are ready for school.",
+  "key_words": [
+   {
+    "word": "get dressed",
+    "translation_uz": "kiyinmoq"
+   },
+   {
+    "word": "put on",
+    "translation_uz": "kiymoq"
+   },
+   {
+    "word": "take off",
+    "translation_uz": "yechmoq"
+   },
+   {
+    "word": "wear",
+    "translation_uz": "kiyib yurmoq"
+   },
+   {
+    "word": "gloves",
+    "translation_uz": "qo'lqop"
+   },
+   {
+    "word": "boots",
+    "translation_uz": "etik"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Sara wear on her head?",
+    "options": [
+     "A red hat",
+     "Gloves",
+     "A black cap",
+     "A blue scarf"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “She wears a red hat”"
+   },
+   {
+    "question": "Why does Tom take off his hat?",
+    "options": [
+     "He does not like it",
+     "He is hot",
+     "He is at school",
+     "He wants to play"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Tom does not like his hat, so he takes it off.”"
+   },
+   {
+    "question": "Where are the children going?",
+    "options": [
+     "To a party",
+     "To the shop",
+     "To school",
+     "To the park"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Now they are ready for school.”"
+   },
+   {
+    "question": "[True / False] It is a hot morning.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “It is a cold morning.” — demak False."
+   },
+   {
+    "question": "[True / False] Tom wears a jacket and boots.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Her brother Tom wears a jacket and boots.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Their mother says, \"Put it ___, Tom!\"",
+    "correct_word": "on",
+    "accept": [
+     "ons"
+    ],
+    "explanation": "Matnda: “Put it on, Tom!”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u10b",
+  "title": "Lunch at Home",
+  "cefr": "A1",
+  "text": "It is one o'clock. Aziza makes lunch for her family. She cooks rice with meat and carrots. She cuts tomatoes and onions for the salad. Her father likes bread with his soup. Her little brother does not eat meat. He eats pasta and drinks apple juice. Everybody is hungry and the food is very good.",
+  "key_words": [
+   {
+    "word": "rice",
+    "translation_uz": "guruch"
+   },
+   {
+    "word": "meat",
+    "translation_uz": "go'sht"
+   },
+   {
+    "word": "carrot",
+    "translation_uz": "sabzi"
+   },
+   {
+    "word": "onion",
+    "translation_uz": "piyoz"
+   },
+   {
+    "word": "tomato",
+    "translation_uz": "pomidor"
+   },
+   {
+    "word": "juice",
+    "translation_uz": "sharbat"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Aziza cook?",
+    "options": [
+     "Soup with bread",
+     "Pasta with fish",
+     "Pizza and juice",
+     "Rice with meat and carrots"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “She cooks rice with meat and carrots.”"
+   },
+   {
+    "question": "What does the little brother drink?",
+    "options": [
+     "Tea",
+     "Apple juice",
+     "Milk",
+     "Orange juice"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “drinks apple juice”"
+   },
+   {
+    "question": "What time is lunch?",
+    "options": [
+     "At twelve o'clock",
+     "At three o'clock",
+     "At two o'clock",
+     "At one o'clock"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “It is one o'clock.”"
+   },
+   {
+    "question": "[True / False] Aziza's little brother eats meat.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Her little brother does not eat meat.” — demak False."
+   },
+   {
+    "question": "[True / False] Aziza's father likes bread with his soup.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Her father likes bread with his soup.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "She cuts tomatoes and ___ for the salad.",
+    "correct_word": "onions",
+    "accept": [
+     "onion"
+    ],
+    "explanation": "Matnda: “She cuts tomatoes and onions for the salad.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u14b",
+  "title": "Four Jobs",
+  "cefr": "A1",
+  "text": "My father is a doctor. He works in a big hospital. My mother is a teacher. She teaches maths at a school. My uncle is a taxi driver. He drives all day and sometimes at night. My aunt is a hairdresser. I want to be an engineer, because I like machines.",
+  "key_words": [
+   {
+    "word": "doctor",
+    "translation_uz": "shifokor"
+   },
+   {
+    "word": "teacher",
+    "translation_uz": "o'qituvchi"
+   },
+   {
+    "word": "taxi driver",
+    "translation_uz": "taksi haydovchisi"
+   },
+   {
+    "word": "hairdresser",
+    "translation_uz": "sartarosh (soch ustasi)"
+   },
+   {
+    "word": "engineer",
+    "translation_uz": "muhandis"
+   },
+   {
+    "word": "hospital",
+    "translation_uz": "kasalxona"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where does the writer's father work?",
+    "options": [
+     "In a hospital",
+     "In a shop",
+     "In a factory",
+     "In a school"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “He works in a big hospital.”"
+   },
+   {
+    "question": "What is the writer's aunt's job?",
+    "options": [
+     "A farmer",
+     "A hairdresser",
+     "A waiter",
+     "A nurse"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My aunt is a hairdresser.”"
+   },
+   {
+    "question": "Why does the writer want to be an engineer?",
+    "options": [
+     "The mother is an engineer",
+     "It is an easy job",
+     "The writer likes machines",
+     "The family has a factory"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “because I like machines”"
+   },
+   {
+    "question": "[True / False] The writer's mother teaches maths.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “She teaches maths at a school.” — demak True."
+   },
+   {
+    "question": "[True / False] The uncle drives only in the morning.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “He drives all day and sometimes at night.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "I want to be an ___.",
+    "correct_word": "engineer",
+    "accept": [
+     "engineers"
+    ],
+    "explanation": "Matnda: “I want to be an engineer”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u15b",
+  "title": "A Day at School",
+  "cefr": "A1",
+  "text": "Ali goes to school at eight o'clock. His first lesson is maths. He likes maths, but he does not like history. In geography the teacher shows a map on the board. After school Ali does his homework at his desk. Tomorrow he has a biology exam. He wants to pass it, so he reads his textbook.",
+  "key_words": [
+   {
+    "word": "lesson",
+    "translation_uz": "dars"
+   },
+   {
+    "word": "board",
+    "translation_uz": "doska"
+   },
+   {
+    "word": "homework",
+    "translation_uz": "uy vazifasi"
+   },
+   {
+    "word": "desk",
+    "translation_uz": "parta"
+   },
+   {
+    "word": "exam",
+    "translation_uz": "imtihon"
+   },
+   {
+    "word": "pass",
+    "translation_uz": "(imtihondan) o'tmoq"
+   },
+   {
+    "word": "textbook",
+    "translation_uz": "darslik"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is Ali's first lesson?",
+    "options": [
+     "Maths",
+     "History",
+     "Geography",
+     "Biology"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “His first lesson is maths.”"
+   },
+   {
+    "question": "What does the teacher show in geography?",
+    "options": [
+     "A film",
+     "A pencil",
+     "A map",
+     "A test"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “the teacher shows a map on the board”"
+   },
+   {
+    "question": "Why does Ali read his textbook?",
+    "options": [
+     "He is bored",
+     "He wants to pass the exam",
+     "He likes history",
+     "He has no homework"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “He wants to pass it, so he reads his textbook.”"
+   },
+   {
+    "question": "[True / False] Ali likes history.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “he does not like history” — demak False."
+   },
+   {
+    "question": "[True / False] Ali has a biology exam tomorrow.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Tomorrow he has a biology exam.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Ali does his homework at his ___.",
+    "correct_word": "desk",
+    "accept": [
+     "desks"
+    ],
+    "explanation": "Matnda: “Ali does his homework at his desk”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u23b",
+  "title": "My Favourite Sport",
+  "cefr": "A1",
+  "text": "I love sport. My favourite sport is football. I play it on Saturday at the school pitch with my friends. My sister likes swimming. She goes to the swimming pool three times a week. My father plays tennis at the sports centre. My mother does not play sport, but she likes to watch it on TV.",
+  "key_words": [
+   {
+    "word": "favourite",
+    "translation_uz": "sevimli"
+   },
+   {
+    "word": "pitch",
+    "translation_uz": "(futbol) maydoni"
+   },
+   {
+    "word": "swimming pool",
+    "translation_uz": "suzish havzasi"
+   },
+   {
+    "word": "sports centre",
+    "translation_uz": "sport markazi"
+   },
+   {
+    "word": "three times a week",
+    "translation_uz": "haftasiga uch marta"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where does the writer play football?",
+    "options": [
+     "At the sports centre",
+     "In the park",
+     "At the swimming pool",
+     "At the school pitch"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I play it on Saturday at the school pitch with my friends.”"
+   },
+   {
+    "question": "How often does the sister go to the swimming pool?",
+    "options": [
+     "Once a week",
+     "Three times a week",
+     "Only on Saturday",
+     "Every day"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “She goes to the swimming pool three times a week.”"
+   },
+   {
+    "question": "Who plays tennis?",
+    "options": [
+     "The father",
+     "The writer",
+     "The sister",
+     "The mother"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “My father plays tennis at the sports centre.”"
+   },
+   {
+    "question": "[True / False] The writer's father plays football.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My father plays tennis at the sports centre.” — demak False."
+   },
+   {
+    "question": "[True / False] The writer's mother watches sport on TV.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “she likes to watch it on TV” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The writer plays football on ___.",
+    "correct_word": "Saturday",
+    "accept": [
+     "Saturdays"
+    ],
+    "explanation": "Matnda: “I play it on Saturday”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u28b",
+  "title": "Weather in Tashkent",
+  "cefr": "A1",
+  "text": "In Tashkent, summer is hot and dry. It is often sunny and it does not rain. In autumn it is cloudy and rainy. In winter it is cold and sometimes snowy. In spring it is windy. Today is a rainy day, so Dilya takes her umbrella. Her brother looks at the weather forecast. It is windy and wet today.",
+  "key_words": [
+   {
+    "word": "weather",
+    "translation_uz": "ob-havo"
+   },
+   {
+    "word": "sunny",
+    "translation_uz": "quyoshli"
+   },
+   {
+    "word": "cloudy",
+    "translation_uz": "bulutli"
+   },
+   {
+    "word": "rainy",
+    "translation_uz": "yomg'irli"
+   },
+   {
+    "word": "windy",
+    "translation_uz": "shamolli"
+   },
+   {
+    "word": "umbrella",
+    "translation_uz": "soyabon"
+   },
+   {
+    "word": "weather forecast",
+    "translation_uz": "ob-havo ma'lumoti"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is summer like in Tashkent?",
+    "options": [
+     "Windy and cloudy",
+     "Snowy and cold",
+     "Hot and dry",
+     "Cold and wet"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “summer is hot and dry”"
+   },
+   {
+    "question": "Why does Dilya take her umbrella?",
+    "options": [
+     "It is sunny",
+     "It is snowy",
+     "It is hot",
+     "It is a rainy day"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Today is a rainy day, so Dilya takes her umbrella.”"
+   },
+   {
+    "question": "What is the weather like today?",
+    "options": [
+     "Hot and dry",
+     "Sunny and warm",
+     "Windy and wet",
+     "Cold and snowy"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “It is windy and wet today.”"
+   },
+   {
+    "question": "[True / False] In autumn it is cloudy and rainy.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “In autumn it is cloudy and rainy.” — demak True."
+   },
+   {
+    "question": "[True / False] Winter in Tashkent is hot.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “In winter it is cold and sometimes snowy.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In spring it is ___.",
+    "correct_word": "windy",
+    "accept": [
+     "windys"
+    ],
+    "explanation": "Matnda: “In spring it is windy.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u29b",
+  "title": "Where Is the Library?",
+  "cefr": "A1",
+  "text": "A tourist asks Mila, \"Excuse me, where is the library?\" Mila says, \"Go straight on. Turn left at the bank. The library is near the museum.\" The tourist says, \"Thank you.\" Then he asks, \"Where is the bus station?\" Mila says, \"It is on the other side of the road. Turn right at the cash machine.\" The tourist says, \"Great! Goodbye!\"",
+  "key_words": [
+   {
+    "word": "library",
+    "translation_uz": "kutubxona"
+   },
+   {
+    "word": "bank",
+    "translation_uz": "bank"
+   },
+   {
+    "word": "museum",
+    "translation_uz": "muzey"
+   },
+   {
+    "word": "bus station",
+    "translation_uz": "avtovokzal"
+   },
+   {
+    "word": "turn left",
+    "translation_uz": "chapga burilmoq"
+   },
+   {
+    "word": "turn right",
+    "translation_uz": "o'ngga burilmoq"
+   },
+   {
+    "word": "cash machine",
+    "translation_uz": "bankomat"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the tourist ask first?",
+    "options": [
+     "Where the library is",
+     "Where the bus station is",
+     "Where the bank is",
+     "Where the museum is"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “where is the library?”"
+   },
+   {
+    "question": "Where must the tourist turn left?",
+    "options": [
+     "At the museum",
+     "At the bus station",
+     "At the cash machine",
+     "At the bank"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Turn left at the bank.”"
+   },
+   {
+    "question": "Where must the tourist turn right to get to the bus station?",
+    "options": [
+     "At the museum",
+     "At the cash machine",
+     "At the bank",
+     "At the library"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Turn right at the cash machine.”"
+   },
+   {
+    "question": "[True / False] The library is near the museum.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The library is near the museum.” — demak True."
+   },
+   {
+    "question": "[True / False] The bus station is on the same side of the road.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “It is on the other side of the road.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Turn right at the cash ___.",
+    "correct_word": "machine",
+    "accept": [
+     "machines"
+    ],
+    "explanation": "Matnda: “Turn right at the cash machine.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u3b",
+  "title": "At the Doctor",
+  "cefr": "A1",
+  "text": "Nadia is not well today. Her head hurts and her stomach hurts too. Her mother takes her to the doctor. The doctor looks at her eyes, her ears and her mouth. \"Open your mouth,\" he says. Her nose is red and her hands are cold. \"You have a cold,\" says the doctor. \"Stay in bed and drink water.\"",
+  "key_words": [
+   {
+    "word": "head",
+    "translation_uz": "bosh"
+   },
+   {
+    "word": "stomach",
+    "translation_uz": "oshqozon / qorin"
+   },
+   {
+    "word": "hurt",
+    "translation_uz": "og'rimoq"
+   },
+   {
+    "word": "ear",
+    "translation_uz": "quloq"
+   },
+   {
+    "word": "mouth",
+    "translation_uz": "og'iz"
+   },
+   {
+    "word": "nose",
+    "translation_uz": "burun"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What hurts?",
+    "options": [
+     "Her back and her legs",
+     "Her hands and her nose",
+     "Her eyes and her ears",
+     "Her head and her stomach"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Her head hurts and her stomach hurts too.”"
+   },
+   {
+    "question": "Who takes Nadia to the doctor?",
+    "options": [
+     "Her mother",
+     "Her teacher",
+     "Her sister",
+     "Her father"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Her mother takes her to the doctor.”"
+   },
+   {
+    "question": "What does the doctor say Nadia has?",
+    "options": [
+     "A headache only",
+     "A bad tooth",
+     "A cold",
+     "A broken arm"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “\"You have a cold,\" says the doctor.”"
+   },
+   {
+    "question": "[True / False] The doctor looks at Nadia's eyes and ears.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The doctor looks at her eyes, her ears and her mouth.” — demak True."
+   },
+   {
+    "question": "[True / False] Nadia's nose is blue.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Her nose is red” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "\"Open your ___,\" says the doctor.",
+    "correct_word": "mouth",
+    "accept": [
+     "mouths"
+    ],
+    "explanation": "Matnda: “\"Open your mouth,\"”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u2b",
+  "title": "A Wedding",
+  "cefr": "A1",
+  "text": "Today is my sister's wedding. She is twenty-five and she is getting married to Rustam. The bride wears a long white dress. The groom wears a dark suit. After the wedding, there is a big party with music. They go on their honeymoon next week. My grandmother says, \"I am so happy. This is a beautiful day.\"",
+  "key_words": [
+   {
+    "word": "wedding",
+    "translation_uz": "to'y (nikoh to'yi)"
+   },
+   {
+    "word": "bride",
+    "translation_uz": "kelin"
+   },
+   {
+    "word": "groom",
+    "translation_uz": "kuyov"
+   },
+   {
+    "word": "get married",
+    "translation_uz": "turmushga chiqmoq / uylanmoq"
+   },
+   {
+    "word": "honeymoon",
+    "translation_uz": "asal oyi"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How old is the writer's sister?",
+    "options": [
+     "Twenty",
+     "Twenty-five",
+     "Fifteen",
+     "Thirty"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “She is twenty-five”"
+   },
+   {
+    "question": "What does the groom wear?",
+    "options": [
+     "A dark suit",
+     "A blue shirt only",
+     "A white dress",
+     "A red coat"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The groom wears a dark suit.”"
+   },
+   {
+    "question": "When do they go on their honeymoon?",
+    "options": [
+     "Next year",
+     "Next week",
+     "Tomorrow",
+     "Today"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “They go on their honeymoon next week.”"
+   },
+   {
+    "question": "[True / False] The bride wears a blue dress.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The bride wears a long white dress.” — demak False."
+   },
+   {
+    "question": "[True / False] There is a party after the wedding.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “After the wedding, there is a big party with music.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "The bride wears a long white ___.",
+    "correct_word": "dress",
+    "accept": [
+     "dres"
+    ],
+    "explanation": "Matnda: “The bride wears a long white dress.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u5b",
+  "title": "My Best Friend",
+  "cefr": "A1",
+  "text": "My best friend is Kamila. She is tall and slim. She has long dark hair and brown eyes. She is very pretty. Her father is middle-aged and he has a beard. Her grandmother is elderly, but she is very active. Kamila looks like her mother.",
+  "key_words": [
+   {
+    "word": "tall",
+    "translation_uz": "novcha / baland bo'yli"
+   },
+   {
+    "word": "slim",
+    "translation_uz": "ozg'in"
+   },
+   {
+    "word": "pretty",
+    "translation_uz": "chiroyli"
+   },
+   {
+    "word": "middle-aged",
+    "translation_uz": "o'rta yoshli"
+   },
+   {
+    "word": "elderly",
+    "translation_uz": "keksa"
+   },
+   {
+    "word": "beard",
+    "translation_uz": "soqol"
+   },
+   {
+    "word": "look like",
+    "translation_uz": "... ga o'xshamoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What colour is Kamila's hair?",
+    "options": [
+     "Grey",
+     "Blonde",
+     "Red",
+     "Dark"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “She has long dark hair”"
+   },
+   {
+    "question": "What does Kamila's father have?",
+    "options": [
+     "Glasses",
+     "Long hair",
+     "A beard",
+     "A moustache"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “he has a beard”"
+   },
+   {
+    "question": "Who does Kamila look like?",
+    "options": [
+     "Her mother",
+     "Her grandmother",
+     "Her father",
+     "Her sister"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Kamila looks like her mother.”"
+   },
+   {
+    "question": "[True / False] Kamila is short.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “She is tall and slim.” — demak False."
+   },
+   {
+    "question": "[True / False] Kamila's grandmother is elderly.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Her grandmother is elderly” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Kamila is tall and ___.",
+    "correct_word": "slim",
+    "accept": [
+     "slims"
+    ],
+    "explanation": "Matnda: “She is tall and slim.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u6b",
+  "title": "I Feel Ill",
+  "cefr": "A1",
+  "text": "Today Bek is ill. He has a headache and a cold. He is not well, so he stays at home. His mother makes him a cup of hot tea. In the afternoon, he has a toothache too, and he must see the dentist tomorrow. Bek says, \"I want to relax and get well soon.\"",
+  "key_words": [
+   {
+    "word": "ill",
+    "translation_uz": "kasal"
+   },
+   {
+    "word": "headache",
+    "translation_uz": "bosh og'rig'i"
+   },
+   {
+    "word": "a cold",
+    "translation_uz": "shamollash"
+   },
+   {
+    "word": "toothache",
+    "translation_uz": "tish og'rig'i"
+   },
+   {
+    "word": "dentist",
+    "translation_uz": "tish shifokori"
+   },
+   {
+    "word": "relax",
+    "translation_uz": "dam olmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Bek have in the morning?",
+    "options": [
+     "A broken arm",
+     "A headache and a cold",
+     "A cough only",
+     "A toothache"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “He has a headache and a cold.”"
+   },
+   {
+    "question": "Where does Bek stay today?",
+    "options": [
+     "At school",
+     "At the dentist",
+     "At home",
+     "At the hospital"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “so he stays at home”"
+   },
+   {
+    "question": "Who must Bek see tomorrow?",
+    "options": [
+     "His uncle",
+     "The nurse",
+     "His teacher",
+     "The dentist"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “he must see the dentist tomorrow”"
+   },
+   {
+    "question": "[True / False] Bek goes to school today.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “he stays at home” — demak False."
+   },
+   {
+    "question": "[True / False] Bek's mother makes him a cup of tea.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “His mother makes him a cup of hot tea.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Bek wants to relax and get ___ soon.",
+    "correct_word": "well",
+    "accept": [
+     "wells"
+    ],
+    "explanation": "Matnda: “I want to relax and get well soon.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u7b",
+  "title": "Different Feelings",
+  "cefr": "A1",
+  "text": "Today is a good day for Lola. She is happy because she has a new bike. Her brother is sad because his friend is ill. Her father is tired after work, and her mother is hungry. \"I am thirsty,\" says Lola. \"Me too,\" says her brother, and they drink some water. Then the doorbell rings. It is Grandma! Everybody is surprised and very happy.",
+  "key_words": [
+   {
+    "word": "happy",
+    "translation_uz": "xursand"
+   },
+   {
+    "word": "sad",
+    "translation_uz": "xafa"
+   },
+   {
+    "word": "tired",
+    "translation_uz": "charchagan"
+   },
+   {
+    "word": "hungry",
+    "translation_uz": "och"
+   },
+   {
+    "word": "thirsty",
+    "translation_uz": "chanqagan"
+   },
+   {
+    "word": "surprised",
+    "translation_uz": "hayron"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Why is Lola happy?",
+    "options": [
+     "It is her birthday",
+     "She has a new bike",
+     "She has a new dress",
+     "She is on holiday"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “She is happy because she has a new bike.”"
+   },
+   {
+    "question": "Why is her brother sad?",
+    "options": [
+     "His friend is ill",
+     "He is hungry",
+     "He has no bike",
+     "He is tired"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “his friend is ill”"
+   },
+   {
+    "question": "Who comes to the house?",
+    "options": [
+     "Grandpa",
+     "The teacher",
+     "A friend",
+     "Grandma"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “It is Grandma!”"
+   },
+   {
+    "question": "[True / False] Lola's mother is hungry.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “her mother is hungry” — demak True."
+   },
+   {
+    "question": "[True / False] Lola's father is happy because he is on holiday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Her father is tired after work” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "\"I am ___,\" says Lola, and they drink some water.",
+    "correct_word": "thirsty",
+    "accept": [
+     "thirstys"
+    ],
+    "explanation": "Matnda: “I am thirsty”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u8b",
+  "title": "Good Morning!",
+  "cefr": "A1",
+  "text": "Anvar meets his teacher in the morning. \"Good morning, Mr Green!\" he says. \"Good morning, Anvar. How are you?\" \"I am fine, thank you. And you?\" \"I am very well, thanks.\" It is Anvar's birthday today, so Mr Green says, \"Happy Birthday!\" In the afternoon, Anvar says, \"Goodbye! See you soon!\"",
+  "key_words": [
+   {
+    "word": "Good morning",
+    "translation_uz": "Xayrli tong"
+   },
+   {
+    "word": "How are you?",
+    "translation_uz": "Ahvolingiz qanday?"
+   },
+   {
+    "word": "Thank you",
+    "translation_uz": "Rahmat"
+   },
+   {
+    "word": "Happy Birthday",
+    "translation_uz": "Tug'ilgan kuning bilan"
+   },
+   {
+    "word": "See you soon",
+    "translation_uz": "Tez orada ko'rishamiz"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Who does Anvar meet in the morning?",
+    "options": [
+     "His doctor",
+     "His friend",
+     "His teacher",
+     "His father"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Anvar meets his teacher in the morning.”"
+   },
+   {
+    "question": "What does Anvar say to the teacher?",
+    "options": [
+     "I am ill",
+     "I am angry",
+     "I am hungry",
+     "I am fine, thank you"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I am fine, thank you.”"
+   },
+   {
+    "question": "Why does Mr Green say \"Happy Birthday\"?",
+    "options": [
+     "It is Sunday",
+     "It is Mr Green's birthday",
+     "It is Anvar's birthday",
+     "It is New Year"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “It is Anvar's birthday today”"
+   },
+   {
+    "question": "[True / False] Anvar meets his teacher in the evening.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “in the morning” — demak False."
+   },
+   {
+    "question": "[True / False] Anvar says \"Goodbye\" in the afternoon.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “In the afternoon, Anvar says, \"Goodbye! See you soon!\"” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "\"Good ___, Mr Green!\" says Anvar.",
+    "correct_word": "morning",
+    "accept": [
+     "mornings"
+    ],
+    "explanation": "Matnda: “Good morning, Mr Green!”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u9b",
+  "title": "Let's Go to the Park",
+  "cefr": "A1",
+  "text": "\"What shall we do today?\" asks Dan. \"Why don't we go to the park?\" says Mia. \"OK, I don't mind,\" says Dan. \"How about a picnic?\" \"Great idea! Absolutely!\" They get ready. \"Hurry up!\" says Mia. Dan runs out of the house. Suddenly a bike comes. \"Look out!\" says Mia. \"Oh dear!\" says Dan. \"That was close!\"",
+  "key_words": [
+   {
+    "word": "Why don't we ...?",
+    "translation_uz": "Nega ... qilmaymiz?"
+   },
+   {
+    "word": "How about ...?",
+    "translation_uz": "... qanday bo'ladi?"
+   },
+   {
+    "word": "I don't mind",
+    "translation_uz": "Qarshi emasman"
+   },
+   {
+    "word": "Hurry up!",
+    "translation_uz": "Tezroq bo'l!"
+   },
+   {
+    "word": "Look out!",
+    "translation_uz": "Ehtiyot bo'l!"
+   },
+   {
+    "word": "Absolutely!",
+    "translation_uz": "Albatta!"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where do they want to go?",
+    "options": [
+     "To the park",
+     "To the shop",
+     "To school",
+     "To the cinema"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Why don't we go to the park?”"
+   },
+   {
+    "question": "What does Mia say when she wants Dan to be fast?",
+    "options": [
+     "Look out!",
+     "Hurry up!",
+     "Absolutely!",
+     "Oh dear!"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “\"Hurry up!\" says Mia.”"
+   },
+   {
+    "question": "What comes suddenly?",
+    "options": [
+     "A bike",
+     "A dog",
+     "A bus",
+     "A car"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Suddenly a bike comes.”"
+   },
+   {
+    "question": "[True / False] Dan does not want to go to the park.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “OK, I don't mind” — demak False."
+   },
+   {
+    "question": "[True / False] Mia says \"Look out!\"",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “\"Look out!\" says Mia.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "\"How about a ___?\" asks Mia.",
+    "correct_word": "picnic",
+    "accept": [
+     "picnics"
+    ],
+    "explanation": "Matnda: “How about a picnic?”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u11b",
+  "title": "In Our Kitchen",
+  "cefr": "A1",
+  "text": "Our kitchen is small, but it is very nice. There is a fridge next to the cooker. The cups and plates are in the cupboard. There is a sink under the window, with a tap for hot and cold water. My mother has a big frying pan and a small saucepan. She makes tea in a teapot. After dinner, I wash the knives, forks and spoons at the sink.",
+  "key_words": [
+   {
+    "word": "fridge",
+    "translation_uz": "muzlatgich"
+   },
+   {
+    "word": "cooker",
+    "translation_uz": "plita"
+   },
+   {
+    "word": "cupboard",
+    "translation_uz": "shkaf (idish uchun)"
+   },
+   {
+    "word": "sink",
+    "translation_uz": "rakovina"
+   },
+   {
+    "word": "tap",
+    "translation_uz": "jo'mrak"
+   },
+   {
+    "word": "frying pan",
+    "translation_uz": "tova"
+   },
+   {
+    "word": "teapot",
+    "translation_uz": "choynak"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What is next to the cooker?",
+    "options": [
+     "The cupboard",
+     "The fridge",
+     "The sink",
+     "The window"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “There is a fridge next to the cooker.”"
+   },
+   {
+    "question": "Where are the cups and plates?",
+    "options": [
+     "In the fridge",
+     "On the cooker",
+     "In the sink",
+     "In the cupboard"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “The cups and plates are in the cupboard.”"
+   },
+   {
+    "question": "Where does the writer wash the knives, forks and spoons?",
+    "options": [
+     "In the bath",
+     "In the fridge",
+     "At the sink",
+     "At the cooker"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “I wash the knives, forks and spoons at the sink.”"
+   },
+   {
+    "question": "[True / False] The kitchen is big.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Our kitchen is small” — demak False."
+   },
+   {
+    "question": "[True / False] The mother makes tea in a teapot.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “She makes tea in a teapot.” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "There is a sink under the ___.",
+    "correct_word": "window",
+    "accept": [
+     "windows"
+    ],
+    "explanation": "Matnda: “There is a sink under the window”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u12b",
+  "title": "My Morning",
+  "cefr": "A1",
+  "text": "My alarm clock rings at seven. I wake up and get up. In the bathroom I brush my teeth with toothpaste and wash my face with soap. Then I have a shower and dry myself with a towel. I comb my hair in front of the mirror. Then I go to my bedroom and choose my clothes from the wardrobe. At night, I go to bed at nine and fall asleep quickly.",
+  "key_words": [
+   {
+    "word": "alarm clock",
+    "translation_uz": "budilnik"
+   },
+   {
+    "word": "toothpaste",
+    "translation_uz": "tish pastasi"
+   },
+   {
+    "word": "soap",
+    "translation_uz": "sovun"
+   },
+   {
+    "word": "towel",
+    "translation_uz": "sochiq"
+   },
+   {
+    "word": "mirror",
+    "translation_uz": "oyna"
+   },
+   {
+    "word": "wardrobe",
+    "translation_uz": "kiyim shkafi"
+   },
+   {
+    "word": "fall asleep",
+    "translation_uz": "uxlab qolmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What time does the alarm clock ring?",
+    "options": [
+     "At nine",
+     "At six",
+     "At eight",
+     "At seven"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “My alarm clock rings at seven.”"
+   },
+   {
+    "question": "What does the writer brush the teeth with?",
+    "options": [
+     "Toothpaste",
+     "A towel",
+     "Soap",
+     "A comb"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I brush my teeth with toothpaste”"
+   },
+   {
+    "question": "Where does the writer choose clothes from?",
+    "options": [
+     "The mirror",
+     "The wardrobe",
+     "The bathroom",
+     "The kitchen"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “choose my clothes from the wardrobe”"
+   },
+   {
+    "question": "[True / False] The writer goes to bed at nine.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I go to bed at nine” — demak True."
+   },
+   {
+    "question": "[True / False] The writer has a bath in the morning.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Then I have a shower” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "I comb my hair in front of the ___.",
+    "correct_word": "mirror",
+    "accept": [
+     "mirrors"
+    ],
+    "explanation": "Matnda: “I comb my hair in front of the mirror.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u13b",
+  "title": "Our Living Room",
+  "cefr": "A1",
+  "text": "This is our living room. There is a sofa and two armchairs. A small coffee table is in the middle. There is a lamp next to the bookshelf and a carpet on the floor. The TV is on the wall, and the remote control is on the table. In the evening, we turn on the TV and relax together. My father likes to read on the sofa.",
+  "key_words": [
+   {
+    "word": "sofa",
+    "translation_uz": "divan"
+   },
+   {
+    "word": "armchair",
+    "translation_uz": "kreslo"
+   },
+   {
+    "word": "coffee table",
+    "translation_uz": "past stol"
+   },
+   {
+    "word": "bookshelf",
+    "translation_uz": "kitob javoni"
+   },
+   {
+    "word": "lamp",
+    "translation_uz": "chiroq"
+   },
+   {
+    "word": "carpet",
+    "translation_uz": "gilam"
+   },
+   {
+    "word": "remote control",
+    "translation_uz": "pult"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How many armchairs are there?",
+    "options": [
+     "Four",
+     "Three",
+     "Two",
+     "One"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “a sofa and two armchairs”"
+   },
+   {
+    "question": "Where is the lamp?",
+    "options": [
+     "Next to the bookshelf",
+     "On the sofa",
+     "Under the table",
+     "On the carpet"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “There is a lamp next to the bookshelf”"
+   },
+   {
+    "question": "What does the father like to do on the sofa?",
+    "options": [
+     "Sleep",
+     "Read",
+     "Cook",
+     "Watch the radio"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My father likes to read on the sofa.”"
+   },
+   {
+    "question": "[True / False] The TV is on the wall.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The TV is on the wall” — demak True."
+   },
+   {
+    "question": "[True / False] The remote control is on the carpet.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “the remote control is on the table” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In the evening, we turn on the ___ and relax together.",
+    "correct_word": "TV",
+    "accept": [
+     "TVs"
+    ],
+    "explanation": "Matnda: “we turn on the TV and relax together”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u16b",
+  "title": "A Letter to Grandma",
+  "cefr": "A1",
+  "text": "Sevara writes a letter to her grandmother. She puts it in an envelope and writes the address. Then she puts a stamp on it and posts it in the letter box. Her grandmother does not have a computer, but she has a mobile phone. Sometimes Sevara sends her a text message, and on Sundays she makes a phone call.",
+  "key_words": [
+   {
+    "word": "letter",
+    "translation_uz": "xat"
+   },
+   {
+    "word": "envelope",
+    "translation_uz": "konvert"
+   },
+   {
+    "word": "address",
+    "translation_uz": "manzil"
+   },
+   {
+    "word": "stamp",
+    "translation_uz": "marka"
+   },
+   {
+    "word": "letter box",
+    "translation_uz": "pochta qutisi"
+   },
+   {
+    "word": "mobile phone",
+    "translation_uz": "mobil telefon"
+   },
+   {
+    "word": "phone call",
+    "translation_uz": "telefon qo'ng'irog'i"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Sevara write?",
+    "options": [
+     "A book",
+     "An email",
+     "A postcard",
+     "A letter"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Sevara writes a letter to her grandmother.”"
+   },
+   {
+    "question": "What does she put on the envelope?",
+    "options": [
+     "A key",
+     "A ticket",
+     "A stamp",
+     "A photo"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Then she puts a stamp on it”"
+   },
+   {
+    "question": "When does Sevara make a phone call?",
+    "options": [
+     "At night",
+     "On Mondays",
+     "On Sundays",
+     "Every day"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “on Sundays she makes a phone call”"
+   },
+   {
+    "question": "[True / False] Sevara's grandmother has a computer.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “does not have a computer” — demak False."
+   },
+   {
+    "question": "[True / False] Sevara's grandmother has a mobile phone.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “she has a mobile phone” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "She posts the letter in the letter ___.",
+    "correct_word": "box",
+    "accept": [
+     "boxs"
+    ],
+    "explanation": "Matnda: “posts it in the letter box”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u17b",
+  "title": "My New Phone",
+  "cefr": "A1",
+  "text": "I have a new phone. It has a big screen and a good camera. I take a lot of selfies with my friends. I download apps for games and for school. The battery is not very good, so I always carry my charger. My phone has a PIN, and nobody can unlock it. Sometimes the memory is full, so I delete old photos.",
+  "key_words": [
+   {
+    "word": "screen",
+    "translation_uz": "ekran"
+   },
+   {
+    "word": "camera",
+    "translation_uz": "kamera"
+   },
+   {
+    "word": "selfie",
+    "translation_uz": "selfi"
+   },
+   {
+    "word": "app",
+    "translation_uz": "ilova"
+   },
+   {
+    "word": "battery",
+    "translation_uz": "batareya"
+   },
+   {
+    "word": "charger",
+    "translation_uz": "zaryadlovchi"
+   },
+   {
+    "word": "delete",
+    "translation_uz": "o'chirmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the phone have?",
+    "options": [
+     "A small screen",
+     "A big screen and a good camera",
+     "No camera",
+     "Two batteries"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “It has a big screen and a good camera.”"
+   },
+   {
+    "question": "Why does the writer carry a charger?",
+    "options": [
+     "The battery is not very good",
+     "The camera is bad",
+     "The phone is old",
+     "The screen is small"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The battery is not very good, so I always carry my charger.”"
+   },
+   {
+    "question": "What does the writer do when the memory is full?",
+    "options": [
+     "Turns off the phone",
+     "Buys a new phone",
+     "Calls a friend",
+     "Deletes old photos"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “I delete old photos”"
+   },
+   {
+    "question": "[True / False] The writer takes selfies with friends.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I take a lot of selfies with my friends.” — demak True."
+   },
+   {
+    "question": "[True / False] Everybody can unlock the phone.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “nobody can unlock it” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "I download ___ for games and for school.",
+    "correct_word": "apps",
+    "accept": [
+     "app"
+    ],
+    "explanation": "Matnda: “I download apps for games and for school.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u18b",
+  "title": "A Summer Holiday",
+  "cefr": "A1",
+  "text": "We are on holiday by the sea. We go by plane. At the airport, we show our passports and tickets. Our luggage is in two big suitcases and a rucksack. The hotel is near the beach. Every day we swim, eat ice cream and sit in the sun. I write a postcard to my friend. \"The holiday is great,\" I write.",
+  "key_words": [
+   {
+    "word": "holiday",
+    "translation_uz": "ta'til"
+   },
+   {
+    "word": "passport",
+    "translation_uz": "pasport"
+   },
+   {
+    "word": "ticket",
+    "translation_uz": "chipta"
+   },
+   {
+    "word": "luggage",
+    "translation_uz": "yuk"
+   },
+   {
+    "word": "suitcase",
+    "translation_uz": "chamadon"
+   },
+   {
+    "word": "rucksack",
+    "translation_uz": "ryukzak"
+   },
+   {
+    "word": "postcard",
+    "translation_uz": "otkritka"
+   }
+  ],
+  "questions": [
+   {
+    "question": "How does the family go on holiday?",
+    "options": [
+     "By car",
+     "By ship",
+     "By train",
+     "By plane"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “We go by plane.”"
+   },
+   {
+    "question": "What do they show at the airport?",
+    "options": [
+     "Keys",
+     "Passports and tickets",
+     "Postcards",
+     "Suitcases"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “we show our passports and tickets”"
+   },
+   {
+    "question": "Who does the writer write a postcard to?",
+    "options": [
+     "A friend",
+     "The hotel",
+     "Grandmother",
+     "The teacher"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I write a postcard to my friend.”"
+   },
+   {
+    "question": "[True / False] The hotel is near the beach.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The hotel is near the beach.” — demak True."
+   },
+   {
+    "question": "[True / False] The luggage is in one small bag.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “in two big suitcases and a rucksack” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "We show our passports and ___ at the airport.",
+    "correct_word": "tickets",
+    "accept": [
+     "ticket"
+    ],
+    "explanation": "Matnda: “our passports and tickets”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u19b",
+  "title": "Shopping in Town",
+  "cefr": "A1",
+  "text": "On Saturday Ravshan goes shopping in the town centre. First he goes to the baker's and buys bread. Then he goes to the butcher's for meat. At the newsagent's he buys a newspaper. Then he goes to the post office and sends a letter. He pays in cash and gets a receipt in every shop. At the end, his bag is full.",
+  "key_words": [
+   {
+    "word": "baker",
+    "translation_uz": "novvoy"
+   },
+   {
+    "word": "butcher",
+    "translation_uz": "qassob"
+   },
+   {
+    "word": "newsagent",
+    "translation_uz": "gazeta do'koni"
+   },
+   {
+    "word": "post office",
+    "translation_uz": "pochta"
+   },
+   {
+    "word": "cash",
+    "translation_uz": "naqd pul"
+   },
+   {
+    "word": "receipt",
+    "translation_uz": "chek"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Ravshan buy at the baker's?",
+    "options": [
+     "Fish",
+     "Meat",
+     "Bread",
+     "A newspaper"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “goes to the baker's and buys bread”"
+   },
+   {
+    "question": "Where does he buy a newspaper?",
+    "options": [
+     "At the butcher's",
+     "At the newsagent's",
+     "At the baker's",
+     "At the post office"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “At the newsagent's he buys a newspaper.”"
+   },
+   {
+    "question": "How does he pay?",
+    "options": [
+     "In cash",
+     "By credit card",
+     "By phone",
+     "He does not pay"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “He pays in cash”"
+   },
+   {
+    "question": "[True / False] Ravshan goes shopping on Sunday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “On Saturday” — demak False."
+   },
+   {
+    "question": "[True / False] Ravshan sends a letter at the post office.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “he goes to the post office and sends a letter” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "He gets a ___ in every shop.",
+    "correct_word": "receipt",
+    "accept": [
+     "receipts"
+    ],
+    "explanation": "Matnda: “gets a receipt in every shop”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u20b",
+  "title": "Buying Online",
+  "cefr": "A1",
+  "text": "Malika wants a new bag. She does not go to a shop. She goes online. She looks at many bags and reads the reviews. Then she chooses a red bag and puts it in her basket. At the checkout, she writes her address. Her mother pays. The delivery is free, and the bag comes in three days.",
+  "key_words": [
+   {
+    "word": "online",
+    "translation_uz": "internetda"
+   },
+   {
+    "word": "review",
+    "translation_uz": "sharh / izoh"
+   },
+   {
+    "word": "basket",
+    "translation_uz": "savat"
+   },
+   {
+    "word": "checkout",
+    "translation_uz": "to'lov (kassa)"
+   },
+   {
+    "word": "delivery",
+    "translation_uz": "yetkazib berish"
+   },
+   {
+    "word": "free",
+    "translation_uz": "bepul"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Malika want?",
+    "options": [
+     "A new phone",
+     "A new dress",
+     "A new bag",
+     "A new bike"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Malika wants a new bag.”"
+   },
+   {
+    "question": "What colour is the bag?",
+    "options": [
+     "Green",
+     "Black",
+     "Blue",
+     "Red"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “she chooses a red bag”"
+   },
+   {
+    "question": "How long does the delivery take?",
+    "options": [
+     "Three days",
+     "A week",
+     "One month",
+     "One day"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “the bag comes in three days”"
+   },
+   {
+    "question": "[True / False] Malika goes to a shop.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “She does not go to a shop.” — demak False."
+   },
+   {
+    "question": "[True / False] The delivery is free.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “The delivery is free” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "At the checkout, she writes her ___.",
+    "correct_word": "address",
+    "accept": [
+     "addres"
+    ],
+    "explanation": "Matnda: “At the checkout, she writes her address.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u21b",
+  "title": "At the Hotel",
+  "cefr": "A1",
+  "text": "Mr and Mrs Brown arrive at the hotel at six o'clock. At reception, they talk to the receptionist. \"We have a reservation for a double room,\" says Mr Brown. The receptionist gives them a key and a form to sign. Their room is on the fifth floor, so they take the lift. There is a nice view of the sea. They order dinner by room service.",
+  "key_words": [
+   {
+    "word": "reception",
+    "translation_uz": "qabulxona"
+   },
+   {
+    "word": "reservation",
+    "translation_uz": "bron"
+   },
+   {
+    "word": "double room",
+    "translation_uz": "ikki kishilik xona"
+   },
+   {
+    "word": "key",
+    "translation_uz": "kalit"
+   },
+   {
+    "word": "lift",
+    "translation_uz": "lift"
+   },
+   {
+    "word": "view",
+    "translation_uz": "manzara"
+   },
+   {
+    "word": "room service",
+    "translation_uz": "xonaga xizmat"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What time do the Browns arrive?",
+    "options": [
+     "At seven o'clock",
+     "At six o'clock",
+     "At five o'clock",
+     "At nine o'clock"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “arrive at the hotel at six o'clock”"
+   },
+   {
+    "question": "What kind of room do they have?",
+    "options": [
+     "A small flat",
+     "A big house",
+     "A single room",
+     "A double room"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “a reservation for a double room”"
+   },
+   {
+    "question": "How do they go to their room?",
+    "options": [
+     "By taxi",
+     "By bus",
+     "By lift",
+     "By stairs"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “so they take the lift”"
+   },
+   {
+    "question": "[True / False] Their room is on the fifth floor.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Their room is on the fifth floor” — demak True."
+   },
+   {
+    "question": "[True / False] The room has a view of the mountains.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “There is a nice view of the sea.” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "They order dinner by room ___.",
+    "correct_word": "service",
+    "accept": [
+     "services"
+    ],
+    "explanation": "Matnda: “They order dinner by room service.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u22b",
+  "title": "Dinner at a Restaurant",
+  "cefr": "A1",
+  "text": "On Friday, Dilnoza and her parents go to a restaurant. The waiter brings the menu. Her father orders a steak with salad. Her mother is a vegetarian, so she orders vegetable soup. Dilnoza wants pasta for the main course and ice cream for dessert. The food is delicious. At the end, her father asks for the bill.",
+  "key_words": [
+   {
+    "word": "restaurant",
+    "translation_uz": "restoran"
+   },
+   {
+    "word": "waiter",
+    "translation_uz": "ofitsiant"
+   },
+   {
+    "word": "menu",
+    "translation_uz": "menyu"
+   },
+   {
+    "word": "vegetarian",
+    "translation_uz": "vegetarian (go'sht yemaydigan)"
+   },
+   {
+    "word": "main course",
+    "translation_uz": "asosiy taom"
+   },
+   {
+    "word": "dessert",
+    "translation_uz": "shirinlik"
+   },
+   {
+    "word": "bill",
+    "translation_uz": "hisob"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the father order?",
+    "options": [
+     "A steak with salad",
+     "Vegetable soup",
+     "Ice cream",
+     "Pasta"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Her father orders a steak with salad.”"
+   },
+   {
+    "question": "Why does the mother order vegetable soup?",
+    "options": [
+     "She is ill",
+     "She is not hungry",
+     "She likes soup",
+     "She is a vegetarian"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Her mother is a vegetarian, so she orders vegetable soup.”"
+   },
+   {
+    "question": "What does Dilnoza want for dessert?",
+    "options": [
+     "Salad",
+     "Ice cream",
+     "Soup",
+     "Pasta"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “ice cream for dessert”"
+   },
+   {
+    "question": "[True / False] The food is bad.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The food is delicious.” — demak False."
+   },
+   {
+    "question": "[True / False] The father asks for the bill.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “her father asks for the bill” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Dilnoza wants ___ for the main course.",
+    "correct_word": "pasta",
+    "accept": [
+     "pastas"
+    ],
+    "explanation": "Matnda: “Dilnoza wants pasta for the main course”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u24b",
+  "title": "A Night at the Cinema",
+  "cefr": "A1",
+  "text": "Jasur and his friends go to the cinema on Saturday. They want to see a new comedy. The film is very funny, and they laugh a lot. Jasur likes action films, but his friend Ali likes horror films. After the film, they talk about the film star and the director. Ali says, \"The next film must be a thriller!\"",
+  "key_words": [
+   {
+    "word": "cinema",
+    "translation_uz": "kinoteatr"
+   },
+   {
+    "word": "comedy",
+    "translation_uz": "komediya"
+   },
+   {
+    "word": "action film",
+    "translation_uz": "jangari film"
+   },
+   {
+    "word": "horror film",
+    "translation_uz": "qo'rqinchli film"
+   },
+   {
+    "word": "film star",
+    "translation_uz": "kino yulduzi"
+   },
+   {
+    "word": "director",
+    "translation_uz": "rejissyor"
+   },
+   {
+    "word": "thriller",
+    "translation_uz": "triller"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What do they see at the cinema?",
+    "options": [
+     "A western",
+     "A cartoon",
+     "A comedy",
+     "A horror film"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “They want to see a new comedy.”"
+   },
+   {
+    "question": "What kind of film does Jasur like?",
+    "options": [
+     "Action films",
+     "Cartoons",
+     "Musicals",
+     "Horror films"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Jasur likes action films”"
+   },
+   {
+    "question": "What do they talk about after the film?",
+    "options": [
+     "The weather",
+     "Their homework",
+     "The music",
+     "The film star and the director"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “they talk about the film star and the director”"
+   },
+   {
+    "question": "[True / False] The film is boring.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “The film is very funny” — demak False."
+   },
+   {
+    "question": "[True / False] Ali likes horror films.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “his friend Ali likes horror films” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "They go to the cinema on ___.",
+    "correct_word": "Saturday",
+    "accept": [
+     "Saturdays"
+    ],
+    "explanation": "Matnda: “go to the cinema on Saturday”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u25b",
+  "title": "A Quiet Sunday",
+  "cefr": "A1",
+  "text": "On Sunday, we stay at home. My father does the gardening and my mother cooks. I watch a programme on TV and then I read a comic. My sister listens to music with her headphones. In the afternoon, we have friends round. We drink tea, talk and play a game. In the evening, everybody relaxes.",
+  "key_words": [
+   {
+    "word": "gardening",
+    "translation_uz": "bog'dorchilik"
+   },
+   {
+    "word": "programme",
+    "translation_uz": "teledastur"
+   },
+   {
+    "word": "comic",
+    "translation_uz": "komiks"
+   },
+   {
+    "word": "headphones",
+    "translation_uz": "quloqchin"
+   },
+   {
+    "word": "have friends round",
+    "translation_uz": "mehmon qilmoq (do'stlarni chaqirmoq)"
+   },
+   {
+    "word": "relax",
+    "translation_uz": "dam olmoq"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does the father do on Sunday?",
+    "options": [
+     "The shopping",
+     "The gardening",
+     "The cooking",
+     "The washing"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “My father does the gardening”"
+   },
+   {
+    "question": "What does the sister do?",
+    "options": [
+     "Reads a comic",
+     "Watches TV",
+     "Listens to music",
+     "Plays a game"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “My sister listens to music with her headphones.”"
+   },
+   {
+    "question": "Who comes in the afternoon?",
+    "options": [
+     "Friends",
+     "The teacher",
+     "The neighbours",
+     "The doctor"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “we have friends round”"
+   },
+   {
+    "question": "[True / False] The family goes out on Sunday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “On Sunday, we stay at home.” — demak False."
+   },
+   {
+    "question": "[True / False] The writer reads a comic.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “then I read a comic” — demak True."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "In the evening, everybody ___.",
+    "correct_word": "relaxes",
+    "accept": [
+     "relaxe"
+    ],
+    "explanation": "Matnda: “In the evening, everybody relaxes.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u26b",
+  "title": "The Music Class",
+  "cefr": "A1",
+  "text": "Our music teacher is Mr Karimov. He plays the piano very well. In his class, we learn to play musical instruments. Bobur plays the guitar and Nodira plays the violin. I play the drums, and I am very loud! Next month there is a school concert. We are in a band and we play pop music. Mr Karimov says, \"I am proud of you.\"",
+  "key_words": [
+   {
+    "word": "musical instrument",
+    "translation_uz": "musiqa asbobi"
+   },
+   {
+    "word": "piano",
+    "translation_uz": "pianino"
+   },
+   {
+    "word": "guitar",
+    "translation_uz": "gitara"
+   },
+   {
+    "word": "violin",
+    "translation_uz": "skripka"
+   },
+   {
+    "word": "drums",
+    "translation_uz": "nog'ora (barabanlar)"
+   },
+   {
+    "word": "band",
+    "translation_uz": "guruh"
+   },
+   {
+    "word": "concert",
+    "translation_uz": "kontsert"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What does Mr Karimov play?",
+    "options": [
+     "The violin",
+     "The guitar",
+     "The drums",
+     "The piano"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “He plays the piano very well.”"
+   },
+   {
+    "question": "What does Nodira play?",
+    "options": [
+     "The drums",
+     "The piano",
+     "The violin",
+     "The guitar"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “Nodira plays the violin”"
+   },
+   {
+    "question": "When is the school concert?",
+    "options": [
+     "Next year",
+     "Next month",
+     "Next week",
+     "Tomorrow"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Next month there is a school concert.”"
+   },
+   {
+    "question": "[True / False] The writer plays the drums.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “I play the drums” — demak True."
+   },
+   {
+    "question": "[True / False] The band plays classical music.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “we play pop music” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Bobur plays the ___.",
+    "correct_word": "guitar",
+    "accept": [
+     "guitars"
+    ],
+    "explanation": "Matnda: “Bobur plays the guitar”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u27b",
+  "title": "Students from Many Countries",
+  "cefr": "A1",
+  "text": "In my English class, there are students from many countries. Anna is from Germany, so she is German. Marco is from Italy, so he is Italian. Yuki is from Japan, and she is Japanese. Li is Chinese. Raj is from India, so he is Indian. We all speak English in the class, and we talk about our countries and continents.",
+  "key_words": [
+   {
+    "word": "countries",
+    "translation_uz": "davlatlar"
+   },
+   {
+    "word": "continents",
+    "translation_uz": "qit'alar"
+   },
+   {
+    "word": "German",
+    "translation_uz": "nemis"
+   },
+   {
+    "word": "Italian",
+    "translation_uz": "italyalik"
+   },
+   {
+    "word": "Japanese",
+    "translation_uz": "yaponiyalik"
+   },
+   {
+    "word": "Chinese",
+    "translation_uz": "xitoylik"
+   },
+   {
+    "word": "Indian",
+    "translation_uz": "hindistonlik"
+   }
+  ],
+  "questions": [
+   {
+    "question": "Where is Anna from?",
+    "options": [
+     "India",
+     "Italy",
+     "Japan",
+     "Germany"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “Anna is from Germany”"
+   },
+   {
+    "question": "What nationality is Marco?",
+    "options": [
+     "French",
+     "Italian",
+     "German",
+     "Spanish"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Marco is from Italy, so he is Italian.”"
+   },
+   {
+    "question": "Which language do all the students speak in the class?",
+    "options": [
+     "English",
+     "Chinese",
+     "German",
+     "Italian"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “We all speak English in the class”"
+   },
+   {
+    "question": "[True / False] Yuki is Japanese.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “Yuki is from Japan, and she is Japanese.” — demak True."
+   },
+   {
+    "question": "[True / False] Raj is from China.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “Raj is from India” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "Li is ___.",
+    "correct_word": "Chinese",
+    "accept": [
+     "Chineses"
+    ],
+    "explanation": "Matnda: “Li is Chinese.”"
+   }
+  ]
+ },
+ {
+  "target": "eviu-elementary:u30b",
+  "title": "A Day in the Countryside",
+  "cefr": "A1",
+  "text": "We go to the countryside for a picnic. We walk on a path through the forest and climb a small hill. At the top there is a beautiful lake. We see a farmer in a field near the village. There is a river behind the hill, and some wild birds are on the water. We eat our picnic next to a big tree. It is a lovely day in nature.",
+  "key_words": [
+   {
+    "word": "countryside",
+    "translation_uz": "qishloq (tabiat qo'ni)"
+   },
+   {
+    "word": "forest",
+    "translation_uz": "o'rmon"
+   },
+   {
+    "word": "hill",
+    "translation_uz": "tepalik"
+   },
+   {
+    "word": "lake",
+    "translation_uz": "ko'l"
+   },
+   {
+    "word": "field",
+    "translation_uz": "dala"
+   },
+   {
+    "word": "village",
+    "translation_uz": "qishloq"
+   },
+   {
+    "word": "river",
+    "translation_uz": "daryo"
+   }
+  ],
+  "questions": [
+   {
+    "question": "What do they walk through?",
+    "options": [
+     "A town",
+     "A field",
+     "A forest",
+     "A village"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Matnda: “We walk on a path through the forest”"
+   },
+   {
+    "question": "What is at the top of the hill?",
+    "options": [
+     "A village",
+     "A lake",
+     "A farm",
+     "A river"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “At the top there is a beautiful lake.”"
+   },
+   {
+    "question": "Where do they eat the picnic?",
+    "options": [
+     "In a hotel",
+     "On a bus",
+     "In a restaurant",
+     "Next to a big tree"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "Matnda: “We eat our picnic next to a big tree.”"
+   },
+   {
+    "question": "[True / False] The farmer is in a field.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 0,
+    "explanation": "Matnda: “We see a farmer in a field near the village.” — demak True."
+   },
+   {
+    "question": "[True / False] The river is in front of the hill.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Matnda: “There is a river behind the hill” — demak False."
+   }
+  ],
+  "fill": [
+   {
+    "sentence_with_blank": "We climb a small ___.",
+    "correct_word": "hill",
+    "accept": [
+     "hills"
+    ],
+    "explanation": "Matnda: “climb a small hill”"
+   }
+  ]
+ }
+]

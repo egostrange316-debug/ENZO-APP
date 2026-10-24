@@ -12,6 +12,9 @@ const HomeworkSubmission = require('../models/HomeworkSubmission');
 const Homework = require('../models/Homework');
 const { publicUser, GROUPS } = require('./authController');
 const { endOfMonth, endOfLocalDay } = require('../lib/subscription');
+const CourseState = require('../models/CourseState');
+const { summarize, levelForCourseDay } = require('../lib/courseMerge');
+const COURSE_DAYS = 450;
 const { dayProgressForUsers, courseProgressPercent } = require('../services/progressService');
 const {
   TOTAL_DAYS,
@@ -271,12 +274,18 @@ const studentCard = async (req, res) => {
       if (it) hard.push({ day: p.day_number, wrong: p.wrong_total, question: it.question, answer: it.kind === 'mcq' ? it.options[it.correct_index] : it.correct_word });
     }
 
+    const cs = await CourseState.findOne({ user: student._id }).select('course_day days_done points accuracy week_points last_study_date state updatedAt override').lean();
+    const csDays = cs && cs.state && cs.state.d ? Object.entries(cs.state.d).filter(([, v]) => v && v.c).map(([k, v]) => ({ day: Number(k) + 1, test: v.t == null ? null : v.t })).sort((x, y) => y.day - x.day).slice(0, 30) : [];
+    const course = cs ? { course_day: cs.course_day, days_done: cs.days_done, points: cs.points, accuracy: cs.accuracy, week_points: cs.week_points, last_study_date: cs.last_study_date, synced_at: cs.updatedAt, recent_days: csDays, override_pending: !!cs.override } : null;
     res.status(200).json({
+      course,
       student: publicUser(student),
       payments: student.payments,
       attendance: {
         present: attRows.filter((a) => a.status === 'present').length,
         absent: attRows.filter((a) => a.status === 'absent').length,
+        late: attRows.filter((a) => a.status === 'late').length,
+        excused: attRows.filter((a) => a.status === 'excused').length,
         days: attRows.map((a) => ({ date: a.date, status: a.status })),
       },
       mastery: mastery.map((m) => ({ day: m.day_number, passes: m.passes, last_percent: m.last_percent, best_percent: m.best_percent, mastered: m.mastered, needs_teacher: m.needs_teacher, teacher_passed: m.teacher_passed })),
@@ -324,10 +333,17 @@ const setStudentDay = async (req, res) => {
     const student = await findStudent(req.params.id);
     if (!student || student.role !== 'student') return res.status(404).json({ message: "O'quvchi topilmadi" });
     const day = Number(req.body?.day);
-    if (!Number.isInteger(day) || day < 1 || day > TOTAL_DAYS + 1) return res.status(400).json({ message: `Kun 1 dan ${TOTAL_DAYS} gacha butun son bo'lishi kerak` });
-    await User.updateOne({ _id: student._id }, { $set: { current_day: day, level: levelForDay(Math.min(day, TOTAL_DAYS)), placement_pending: false, last_active_at: new Date() } });
-    await ExerciseProgress.deleteMany({ user: student._id, day_number: { $gte: day } });
-    res.status(200).json({ message: `Kun ${day} ga o'rnatildi`, student: publicUser(await User.findById(student._id)) });
+    if (!Number.isInteger(day) || day < 1 || day > COURSE_DAYS) return res.status(400).json({ message: `Kun 1 dan ${COURSE_DAYS} gacha butun son bo'lishi kerak` });
+    // 450 kunlik kurs: kun serverda saqlanadi, telefon internet bo'lganda qabul qiladi (o'tilgan kunlar va ballar o'chmaydi)
+    const cur = await CourseState.findOne({ user: student._id }).lean();
+    const state = { ...((cur && cur.state) || {}), u: day - 1 };
+    const sum = summarize(state);
+    const override = { day, id: String(Date.now()), at: new Date() };
+    await CourseState.updateOne({ user: student._id }, { $set: { state, ...sum, override } }, { upsert: true });
+    await User.updateOne({ _id: student._id }, { $set: {
+      course_day: day, current_day: day, level: levelForCourseDay(day), placement_pending: false, last_active_at: new Date(),
+    } });
+    res.status(200).json({ message: `Kun ${day} ga o'rnatildi. O'quvchi ilovani internet bilan ochganda qabul qiladi.`, student: publicUser(await User.findById(student._id)) });
   } catch (error) {
     console.error('setStudentDay xatosi:', error);
     res.status(500).json({ message: 'Server xatosi' });

@@ -21,6 +21,13 @@ async function setup() {
     });
     return { status: res.status, data: await res.json().catch(() => ({})) };
   }
+  async function form(method, path, { token, parts = [], fields = {} } = {}) {
+    const fd = new FormData();
+    for (const [k, v] of Object.entries(fields)) fd.append(k, v);
+    for (const p of parts) fd.append(p.name || 'files', new Blob([p.bytes], { type: p.type }), p.filename);
+    const res = await fetch(base + path, { method, headers: token ? { Authorization: `Bearer ${token}` } : {}, body: fd });
+    return { status: res.status, data: await res.json().catch(() => ({})) };
+  }
   async function teardown() {
     server.close();
     await mongoose.connection.dropDatabase();
@@ -35,7 +42,7 @@ async function setup() {
     const r = await call('POST', '/api/auth/register', { body: { full_name: name, password, group_name } });
     return r.data;
   }
-  return { call, teardown, makeAdmin, makeStudent };
+  return { call, form, teardown, makeAdmin, makeStudent };
 }
 
 const quiz = (n) => Array.from({ length: n }, (_, i) => ({
