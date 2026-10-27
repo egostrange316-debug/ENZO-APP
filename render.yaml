@@ -1,0 +1,26 @@
+# Render Blueprint: BITTA backend xizmati (eski/ortiqcha xizmatlarni o'chiring).
+# Maxfiy qiymatlar (MONGO_URI, JWT_SECRET, GEMINI_API_KEY) bu faylga YOZILMAYDI — Render panelida kiritiladi.
+services:
+  - type: web
+    name: enzo-backend
+    runtime: node
+    plan: starter
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: MONGO_URI
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: UPLOAD_DIR
+        value: /var/data/uploads
+    disk:
+      name: enzo-data
+      mountPath: /var/data
+      sizeGB: 1

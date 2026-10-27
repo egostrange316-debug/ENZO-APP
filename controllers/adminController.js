@@ -13,8 +13,11 @@ const Homework = require('../models/Homework');
 const { publicUser, GROUPS } = require('./authController');
 const { endOfMonth, endOfLocalDay } = require('../lib/subscription');
 const CourseState = require('../models/CourseState');
-const { summarize, levelForCourseDay } = require('../lib/courseMerge');
+const { summarize, levelForCourseDay, mockSummary } = require('../lib/courseMerge');
+const { topicTitle } = require('../lib/course450');
+const withTitles = (m) => ({ ...m, weak_topics: m.weak_topics.map((w) => ({ ...w, title: topicTitle(w.topic) })) });
 const COURSE_DAYS = 450;
+const { levelForDay: courseLevel } = require('../lib/course450');
 const { dayProgressForUsers, courseProgressPercent } = require('../services/progressService');
 const {
   TOTAL_DAYS,
@@ -32,18 +35,34 @@ async function findStudent(idParam) {
   return User.findOne({ legacy_id: idParam });
 }
 
+/** Kursdagi kunni serverda belgilaydi (450 kunlik tizim). Telefon internet bilan ochilganda qabul qiladi. */
+async function applyCourseDay(student, day) {
+  const cur = await CourseState.findOne({ user: student._id }).lean();
+  const state = { ...((cur && cur.state) || {}), u: day - 1 };
+  const sum = summarize(state);
+  const override = { day, id: String(Date.now()), at: new Date() };
+  await CourseState.updateOne({ user: student._id }, { $set: { state, ...sum, override } }, { upsert: true });
+  return { course_day: day, current_day: day, level: levelForCourseDay(day), placement_pending: false, last_active_at: new Date() };
+}
+
 /** GET /api/admin/students?group=1-guruh */
 const listStudents = async (req, res) => {
   try {
     const filter = { role: 'student' };
     if (req.query.group) filter.group_name = String(req.query.group);
     const students = await User.find(filter).select('-password_hash').sort({ full_name: 1 });
-    // O'qituvchi jadvali: har o'quvchi uchun joriy kun progressi (foiz, birinchi urinish aniqligi, xatolar) + to'lov holati
-    const progress = await dayProgressForUsers(students);
+    // Yangi (450 kunlik) tizim: progress kurs holatidan (course_* maydonlari) olinadi
+    const progress = await dayProgressForUsers(students.filter((u) => !(u.course_day > 0)));
     res.status(200).json({
       students: students.map((u) => {
-        const p = progress.get(String(u._id)) || null;
-        return { ...publicUser(u), today: p, course_percent: courseProgressPercent(u.current_day, p?.percent) };
+        const day = u.course_day > 0 ? u.course_day : u.current_day || 1;
+        return {
+          ...publicUser(u), course_day: u.course_day || 0, course_days_done: u.course_days_done || 0,
+          course_points: u.course_points || 0, course_accuracy: u.course_accuracy ?? null,
+          course_last_date: u.course_last_date || '', level_label: courseLevel(day),
+          today: u.course_day > 0 ? null : progress.get(String(u._id)) || null,
+          course_percent: u.course_day > 0 ? Math.round(((u.course_days_done || 0) / 450) * 100) : courseProgressPercent(u.current_day, (progress.get(String(u._id)) || {}).percent),
+        };
       }),
     });
   } catch (error) {
@@ -128,32 +147,7 @@ const approveSpeakingExam = async (req, res) => {
     const student = await findStudent(req.params.id);
     if (!student) return res.status(404).json({ message: "O'quvchi topilmadi" });
 
-    const day = student.current_day;
-    if (day > TOTAL_DAYS || deriveLessonType(day) !== 'final_exam') {
-      return res.status(400).json({ message: "O'quvchi hozir final_exam kunida emas" });
-    }
-
-    const updated = await advanceDay(student._id, day);
-    if (!updated) {
-      return res.status(409).json({ message: "Bu o'quvchi allaqachon tasdiqlangan yoki kuni o'zgargan" });
-    }
-
-    const plan = await StudyPlan.findOne({ day_number: day }).select('_id');
-    await ExamAttempt.create({
-      user: student._id,
-      study_plan_day: plan?._id,
-      day_number: day,
-      lesson_type: 'final_exam',
-      passed: true,
-      speaking_approved_by_admin: true,
-      speaking_approved_at: new Date(),
-      speaking_approved_by: req.user._id,
-    });
-
-    res.status(200).json({
-      message: "Speaking imtihoni tasdiqlandi. O'quvchi keyingi bosqichga o'tdi.",
-      student: publicUser(updated),
-    });
+    return res.status(410).json({ message: "450 kunlik tizimda Speaking tasdiqlash yo'q. Kunni o'quvchi kartasidagi 'Kunni o'rnatish' orqali o'zgartiring." });
   } catch (error) {
     console.error('approveSpeakingExam xatosi:', error);
     res.status(500).json({ message: 'Server xatosi' });
@@ -276,7 +270,7 @@ const studentCard = async (req, res) => {
 
     const cs = await CourseState.findOne({ user: student._id }).select('course_day days_done points accuracy week_points last_study_date state updatedAt override').lean();
     const csDays = cs && cs.state && cs.state.d ? Object.entries(cs.state.d).filter(([, v]) => v && v.c).map(([k, v]) => ({ day: Number(k) + 1, test: v.t == null ? null : v.t })).sort((x, y) => y.day - x.day).slice(0, 30) : [];
-    const course = cs ? { course_day: cs.course_day, days_done: cs.days_done, points: cs.points, accuracy: cs.accuracy, week_points: cs.week_points, last_study_date: cs.last_study_date, synced_at: cs.updatedAt, recent_days: csDays, override_pending: !!cs.override } : null;
+    const course = cs ? { course_day: cs.course_day, days_done: cs.days_done, points: cs.points, accuracy: cs.accuracy, week_points: cs.week_points, last_study_date: cs.last_study_date, synced_at: cs.updatedAt, recent_days: csDays, override_pending: !!cs.override, mock: withTitles(mockSummary(cs.state)) } : null;
     res.status(200).json({
       course,
       student: publicUser(student),
@@ -308,15 +302,7 @@ const passCurrentDay = async (req, res) => {
   try {
     const student = await findStudent(req.params.id);
     if (!student || student.role !== 'student') return res.status(404).json({ message: "O'quvchi topilmadi" });
-    const day = student.current_day;
-    if (day > TOTAL_DAYS || deriveLessonType(day) !== 'regular') {
-      return res.status(400).json({ message: "Bu kun oddiy dars emas (imtihon kunlari boshqacha o'tkaziladi)" });
-    }
-    const updated = await advanceDay(student._id, day);
-    if (!updated) return res.status(409).json({ message: "O'quvchining kuni allaqachon o'zgargan" });
-    await DayMastery.updateOne({ user: student._id, day_number: day }, { $set: { mastered: true, teacher_passed: true, needs_teacher: false, mastered_at: new Date() } }, { upsert: true });
-    await ExerciseProgress.deleteMany({ user: student._id, day_number: day });
-    res.status(200).json({ message: `${day}-kun o'qituvchi tomonidan o'tkazildi`, student: publicUser(updated) });
+    return res.status(410).json({ message: "450 kunlik tizimda kunni qo'lda o'tkazish 'Kunni o'rnatish' orqali bajariladi." });
   } catch (error) {
     console.error('passCurrentDay xatosi:', error);
     res.status(500).json({ message: 'Server xatosi' });
@@ -334,15 +320,7 @@ const setStudentDay = async (req, res) => {
     if (!student || student.role !== 'student') return res.status(404).json({ message: "O'quvchi topilmadi" });
     const day = Number(req.body?.day);
     if (!Number.isInteger(day) || day < 1 || day > COURSE_DAYS) return res.status(400).json({ message: `Kun 1 dan ${COURSE_DAYS} gacha butun son bo'lishi kerak` });
-    // 450 kunlik kurs: kun serverda saqlanadi, telefon internet bo'lganda qabul qiladi (o'tilgan kunlar va ballar o'chmaydi)
-    const cur = await CourseState.findOne({ user: student._id }).lean();
-    const state = { ...((cur && cur.state) || {}), u: day - 1 };
-    const sum = summarize(state);
-    const override = { day, id: String(Date.now()), at: new Date() };
-    await CourseState.updateOne({ user: student._id }, { $set: { state, ...sum, override } }, { upsert: true });
-    await User.updateOne({ _id: student._id }, { $set: {
-      course_day: day, current_day: day, level: levelForCourseDay(day), placement_pending: false, last_active_at: new Date(),
-    } });
+    await User.updateOne({ _id: student._id }, { $set: await applyCourseDay(student, day) });
     res.status(200).json({ message: `Kun ${day} ga o'rnatildi. O'quvchi ilovani internet bilan ochganda qabul qiladi.`, student: publicUser(await User.findById(student._id)) });
   } catch (error) {
     console.error('setStudentDay xatosi:', error);
@@ -361,16 +339,14 @@ const placeStudent = async (req, res) => {
     const set = { placement_pending: false };
     if (req.body?.group_name !== undefined) {
       const g = String(req.body.group_name || '').trim();
-      if (g && !GROUPS.includes(g)) return res.status(400).json({ message: "Guruh noto'g'ri" });
+      if (g && !(await require('../lib/groups').isValidGroup(g))) return res.status(400).json({ message: "Guruh noto'g'ri" });
       set.group_name = g || null;
     }
     const day = req.body?.day;
     if (day !== undefined && day !== null && day !== '') {
       const d = Number(day);
-      if (!Number.isInteger(d) || d < 1 || d > TOTAL_DAYS) return res.status(400).json({ message: `Kun 1 dan ${TOTAL_DAYS} gacha bo'lishi kerak` });
-      set.current_day = d;
-      set.level = levelForDay(d);
-      await ExerciseProgress.deleteMany({ user: student._id, day_number: { $gte: d } });
+      if (!Number.isInteger(d) || d < 1 || d > COURSE_DAYS) return res.status(400).json({ message: `Kun 1 dan ${COURSE_DAYS} gacha bo'lishi kerak` });
+      Object.assign(set, await applyCourseDay(student, d));
     }
     await User.updateOne({ _id: student._id }, { $set: set });
     res.status(200).json({ message: "O'quvchi joylandi", student: publicUser(await User.findById(student._id)) });

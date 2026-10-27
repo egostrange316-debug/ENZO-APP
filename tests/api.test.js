@@ -161,24 +161,8 @@ test('final_exam (70-kun): faqat Speaking; exam/submit rad; faqat admin tasdiqla
   assert.equal((await t.call('POST', '/api/student/exam/submit', { token: s.token, body: { day_number: 70, quiz_answers: [0, 1] } })).status, 400);
   assert.equal((await t.call('POST', '/api/student/lesson/complete', { token: s.token, body: { day_number: 70 } })).status, 400);
   assert.equal((await t.call('POST', `/api/admin/students/${s.user.id}/approve-speaking`, { token: s.token })).status, 403);
-
-  const ok = await t.call('POST', `/api/admin/students/${s.user.id}/approve-speaking`, { token: admin });
-  assert.equal(ok.status, 200);
-  assert.equal(ok.data.student.current_day, 71);
-  assert.equal(ok.data.student.level, 'elementary');
-
-  // ikkinchi marta bosish -> 71-kun final emas
-  assert.equal((await t.call('POST', `/api/admin/students/${s.user.id}/approve-speaking`, { token: admin })).status, 400);
-});
-
-test('646-kundan keyin kurs tugaydi', async () => {
-  const admin = await t.makeAdmin('Admin Three');
-  const s = await t.makeStudent('Graduate Kid');
-  await User.updateOne({ _id: s.user.id }, { current_day: 646 });
-  const ok = await t.call('POST', `/api/admin/students/${s.user.id}/approve-speaking`, { token: admin });
-  assert.equal(ok.data.student.current_day, 647);
-  const lesson = await t.call('GET', '/api/student/lesson/today', { token: s.token });
-  assert.equal(lesson.data.completed, true);
+  // 450 kunlik tizimda Speaking tasdiqlash yo'q
+  assert.equal((await t.call('POST', `/api/admin/students/${s.user.id}/approve-speaking`, { token: admin })).status, 410);
 });
 
 test('admin parse-unit: noto\'g\'ri kirish rad etiladi', async () => {

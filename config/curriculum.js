@@ -51,9 +51,9 @@ for (const level of LEVELS) {
 }
 
 const TOTAL_DAYS = cursor - 1; // 646
-const PASS_THRESHOLD_PERCENT = 70;
+const PASS_THRESHOLD_PERCENT = 80; // hamma joyda 80% (kun testi, mock, daraja imtihoni)
 // Mavzuni o'zlashtirish: birinchi urinishda to'g'ri javoblar ulushi shundan past bo'lsa mavzu qayta o'tiladi.
-const MASTERY_THRESHOLD_PERCENT = Number(process.env.MASTERY_THRESHOLD_PERCENT) || 70;
+const MASTERY_THRESHOLD_PERCENT = Number(process.env.MASTERY_THRESHOLD_PERCENT) || 80;
 // Shuncha marta qaytarilsa o'qituvchiga belgi tushadi (bola baribir o'tmaydi, o'qituvchi qo'lda o'tkaza oladi).
 const MASTERY_TEACHER_AFTER = 3;
 const SUBSCRIPTION_DAYS = 30;

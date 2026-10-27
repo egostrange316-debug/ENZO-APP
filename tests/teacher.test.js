@@ -29,11 +29,13 @@ test('bugungi mavzu paneli: kun, kitobdagi joy, grammatika va o\'quvchilar; o\'q
   const g1 = r.data.groups.find((g) => g.day === 1);
   assert.equal(g1.students.length, 1);
   assert.equal(g1.level, 'beginner');
-  assert.match(g1.book_ref.label, /1-unit/);
-  assert.equal(g1.grammar.title, 'to be');
+  assert.equal(g1.level_label, 'A1');
+  assert.match(g1.book_ref.label, /bet/);
+  assert.equal(g1.grammar.title, 'G01 · To be: am / is / are');
   const g7 = r.data.groups.find((g) => g.day === 7);
-  assert.equal(g7.lesson_type, 'mini_check');
+  assert.equal(g7.lesson_type, 'regular');
   assert.equal(r.data.levels.length, 5);
+  assert.deepEqual(r.data.levels.map((l) => l.label), ['A1', 'A2', 'B1', 'B2', 'C1']);
   assert.equal((await t.call('GET', '/api/admin/today', { token: s1.token })).status, 403);
 });
 

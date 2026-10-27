@@ -64,10 +64,8 @@ test('3 marta o\'zlashtirmasa o\'qituvchiga belgi tushadi; o\'qituvchi qo\'lda o
   assert.equal(st.retry, true);
   assert.equal(st.needs_teacher, true);
   assert.equal((await t.call('POST', `/api/admin/students/${u._id}/pass-day`, { token: s.token })).status, 403);
-  const pass = await t.call('POST', `/api/admin/students/${u._id}/pass-day`, { token: admin });
-  assert.equal(pass.status, 200);
-  assert.equal((await User.findById(u._id)).current_day, 3);
-  assert.equal((await DayMastery.findOne({ user: u._id, day_number: 2 })).teacher_passed, true);
+  // 450 kunlik tizimda qo'lda o'tkazish 'Kunni o'rnatish' orqali bajariladi
+  assert.equal((await t.call('POST', `/api/admin/students/${u._id}/pass-day`, { token: admin })).status, 410);
 });
 
 test('o\'quvchi kartochkasi: to\'lov, davomat, o\'zlashtirish, qiyin savollar', async () => {

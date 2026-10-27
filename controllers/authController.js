@@ -50,7 +50,7 @@ const registerStudent = async (req, res) => {
     if (password.length < 4) {
       return res.status(400).json({ message: "Parol kamida 4 ta belgidan iborat bo'lishi kerak" });
     }
-    if (group_name && !GROUPS.includes(group_name)) {
+    if (group_name && !(await require('../lib/groups').isValidGroup(group_name))) {
       return res.status(400).json({ message: "Guruh noto'g'ri tanlangan" });
     }
     if (!LEVELS.includes(level)) {

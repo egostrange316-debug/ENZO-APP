@@ -18,16 +18,16 @@ before(async () => {
 });
 after(async () => { await t.teardown(); });
 
-test('kurs jadvali: 646 kun, imtihon kunlari belgilangan, o\'quvchi ham ko\'radi, to\'lov ma\'lumoti yo\'q', async () => {
+test('kurs jadvali: 450 kun (A1–C1), imtihon kunlari belgilangan, o\'quvchi ham ko\'radi, to\'lov ma\'lumoti yo\'q', async () => {
   const a = await t.call('GET', '/api/admin/schedule', { token: admin });
   assert.equal(a.status, 200);
-  assert.equal(a.data.days.length, 646);
-  assert.equal(a.data.days[0].book_ref, '1-unit (1-qism)');
-  assert.equal(a.data.days[0].grammar, "to be — bo'lmoq");
+  assert.equal(a.data.days.length, 450);
+  assert.equal(a.data.days[0].level_label, 'A1');
+  assert.match(a.data.days[0].book_ref, /^Kitob: /);
+  assert.equal(a.data.days[0].grammar, 'G01 · To be: am / is / are');
   assert.equal(a.data.days[0].students_here, 1);
-  assert.equal(a.data.days[6].type, 'mini_check');
-  assert.equal(a.data.days[69].type, 'final_exam');
-  assert.deepEqual(a.data.levels.map((l) => l.total), [70, 70, 154, 170, 182]);
+  assert.equal(a.data.days[89].type, 'final_exam');
+  assert.deepEqual(a.data.levels.map((l) => l.total), [90, 84, 90, 108, 78]);
   const s = await t.call('GET', '/api/student/schedule', { token: s1.token });
   assert.equal(s.status, 200);
   assert.equal(s.data.current_day, 1);

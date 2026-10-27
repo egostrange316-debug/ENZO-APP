@@ -1,79 +1,51 @@
 /**
- * Kurs jadvali (646 kun) va naqd to'lovlar jadvali — ilovaning doimiy qismi.
+ * Kurs jadvali (450 kun, A1–C1) va naqd to'lovlar jadvali — ilovaning doimiy qismi.
  *  - GET /api/student/schedule : o'quvchi uchun kurs jadvali (to'lov ma'lumoti YO'Q)
  *  - GET /api/admin/schedule   : o'qituvchi uchun xuddi shu jadval + har kunda nechta o'quvchi turgani
  *  - GET /api/admin/payments   : faqat o'qituvchi: naqd to'lovlar jadvali
  */
 const User = require('../models/User');
-const StudyPlan = require('../models/StudyPlan');
-const BookMaterial = require('../models/BookMaterial');
 const { subscriptionInfo } = require('../lib/subscription');
-const { TOTAL_DAYS, LEVELS, LEVEL_LABELS, LEVEL_RANGES, levelForDay, deriveLessonType, examCoverage } = require('../config/curriculum');
+const C = require('../lib/course450');
 
 const wrap = (fn) => async (req, res) => {
   try { await fn(req, res); } catch (e) { console.error('scheduleController xatosi:', e); res.status(500).json({ message: 'Server xatosi' }); }
 };
 
-async function buildSchedule() {
-  const [plans, books] = await Promise.all([
-    StudyPlan.find().select('day_number unit_title').lean(),
-    BookMaterial.find({ assigned_day: { $ne: null }, status: 'ready' })
-      .select('assigned_day section_title book_ref writing.grammar.title writing.grammar.title_uz writing.grammar.explanation_uz writing.vocabulary').lean(),
-  ]);
-  const planBy = new Map(plans.map((p) => [p.day_number, p]));
-  const bookBy = new Map(books.map((b) => [b.assigned_day, b]));
-  const examNo = {};
-  const days = [];
-  for (let d = 1; d <= TOTAL_DAYS; d++) {
-    const level = levelForDay(d);
-    const type = deriveLessonType(d);
-    const row = { day: d, level, level_label: LEVEL_LABELS[level], type, title: null, book: null, book_ref: null, grammar: null, words: 0, ready: false };
-    if (type === 'regular') {
-      const b = bookBy.get(d);
-      if (b) {
-        const g = (b.writing?.grammar || []).find((x) => x.explanation_uz);
-        Object.assign(row, {
-          title: b.section_title || planBy.get(d)?.unit_title || null,
-          book: b.book_ref?.book || null,
-          book_ref: b.book_ref?.label ? b.book_ref.label.replace(`${b.book_ref.book}, `, '') : null,
-          grammar: g ? (g.title_uz ? `${g.title} — ${g.title_uz}` : g.title) : null,
-          words: (b.writing?.vocabulary || []).length,
-          ready: true,
-        });
-      }
-    } else {
-      examNo[level] = (examNo[level] || 0) + 1;
-      const cov = examCoverage(d);
-      row.title = type === 'final_exam' ? "Yakuniy Speaking imtihoni (o'qituvchi tasdiqlaydi)" : `${examNo[level]}-imtihon: ${cov[0]}–${cov[cov.length - 1]}-kunlar`;
-      row.ready = !!planBy.get(d);
-    }
-    days.push(row);
-  }
-  const levels = LEVELS.map((l) => {
-    const { from, to } = LEVEL_RANGES[l];
-    const slice = days.slice(from - 1, to);
+function buildSchedule() {
+  const days = C.DAYS.map((x) => {
+    const i = C.describeDay(x.d);
     return {
-      level: l, label: LEVEL_LABELS[l], from, to, total: slice.length,
-      lessons: slice.filter((x) => x.type === 'regular').length,
-      mini: slice.filter((x) => x.type === 'mini_check').length,
-      mid: slice.filter((x) => x.type === 'mid_check').length,
-      final: slice.filter((x) => x.type === 'final_exam').length,
-      book: slice.find((x) => x.book)?.book || null,
+      day: x.d, level: C.LEVEL_ID[x.l], level_label: x.l, type: i.type, week: x.w, week_title: x.wt,
+      title: i.title, book: null, book_ref: i.book_ref, grammar: x.g, vocab: x.v, reading: x.r, listening: x.a, writing: x.x,
+      words: 0, ready: true,
     };
   });
-  return { total_days: TOTAL_DAYS, levels, days };
+  const levels = C.LEVELS.map((l) => {
+    const { from, to } = C.LEVEL_RANGES[l];
+    const slice = days.slice(from - 1, to);
+    return {
+      level: C.LEVEL_ID[l], label: l, from, to, total: slice.length,
+      lessons: slice.filter((x) => x.type === 'regular').length,
+      mini: slice.filter((x) => x.type === 'mini_check').length,
+      mid: 0,
+      final: slice.filter((x) => x.type === 'final_exam').length,
+      book: null,
+    };
+  });
+  return { total_days: C.TOTAL_DAYS, levels, days };
 }
 
 const studentSchedule = wrap(async (req, res) => {
-  const s = await buildSchedule();
-  res.status(200).json({ ...s, current_day: req.user.current_day });
+  const s = buildSchedule();
+  res.status(200).json({ ...s, current_day: C.studentDay(req.user) || C.TOTAL_DAYS });
 });
 
 const adminSchedule = wrap(async (req, res) => {
-  const s = await buildSchedule();
-  const students = await User.find({ role: 'student' }).select('current_day').lean();
+  const s = buildSchedule();
+  const students = await User.find({ role: 'student' }).select('current_day course_day').lean();
   const count = new Map();
-  for (const u of students) count.set(u.current_day, (count.get(u.current_day) || 0) + 1);
+  for (const u of students) { const d = C.studentDay(u); if (d) count.set(d, (count.get(d) || 0) + 1); }
   for (const d of s.days) d.students_here = count.get(d.day) || 0;
   res.status(200).json(s);
 });

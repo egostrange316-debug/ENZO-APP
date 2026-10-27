@@ -40,6 +40,12 @@ router.get('/today', teacher.todayPanel);
 const sched = require('../controllers/scheduleController');
 router.get('/schedule', sched.adminSchedule);
 router.get('/payments', sched.paymentsTable);
+const grp = require('../controllers/groupController');
+router.get('/groups', grp.adminGroups);
+router.post('/groups', grp.createGroup);
+router.post('/groups/move', grp.moveStudents);
+router.patch('/groups/:id', grp.renameGroup);
+router.delete('/groups/:id', grp.deleteGroup);
 router.get('/books/:id/content', teacher.vocabOf);
 router.patch('/books/:id/vocab', teacher.editVocab);
 

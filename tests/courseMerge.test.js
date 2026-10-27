@@ -51,3 +51,22 @@ test('kun -> daraja (450 kunlik kurs)', () => {
   assert.equal(levelForCourseDay(373), 'upper-intermediate');
   assert.equal(levelForCourseDay(450), 'upper-intermediate');
 });
+
+test('mock natijalari (mk) ikki qurilmadan birlashadi, zaif mavzular hisoblanadi', () => {
+  const { mergeState, mockSummary } = require('../lib/courseMerge');
+  const assert = require('node:assert/strict');
+  const a = { u: 1, mk: { seen: { q1: 1 }, st: { G01: { n: 4, ok: 1 } }, hist: [{ d: 1, k: 'topic', L: 'A1', p: 50, n: 10 }], exam: { A1: 80 }, ex: [] } };
+  const b = { u: 2, mk: { seen: { q2: 1 }, st: { G01: { n: 5, ok: 2 }, G02: { n: 3, ok: 3 } }, hist: [{ d: 2, k: 'topic', L: 'A1', p: 90, n: 10 }, { d: 3, k: 'bank', L: 'A1', p: 10, n: 5 }], exam: { A1: 85 }, ex: [] }, bk: { 3: 1 }, ph: { x: 1 } };
+  const m = mergeState(a, b);
+  assert.deepEqual(Object.keys(m.mk.seen).sort(), ['q1', 'q2']);
+  assert.equal(m.mk.st.G01.n, 5);
+  assert.equal(m.mk.exam.A1, 85);
+  assert.equal(m.mk.hist.length, 3);
+  const s = mockSummary(m);
+  assert.equal(s.attempts, 2);
+  assert.equal(s.avg_last10, 70);
+  assert.deepEqual(s.weak_topics.map((w) => [w.topic, w.percent]), [['G01', 40]]);
+  assert.equal(s.book_ticks, 1);
+  assert.equal(s.phrases_learned, 1);
+  assert.equal(mockSummary({}).attempts, 0);
+});

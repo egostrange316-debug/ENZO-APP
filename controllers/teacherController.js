@@ -3,10 +3,8 @@
  */
 const mongoose = require('mongoose');
 const User = require('../models/User');
-const StudyPlan = require('../models/StudyPlan');
 const BookMaterial = require('../models/BookMaterial');
-const DayMastery = require('../models/DayMastery');
-const { TOTAL_DAYS, LEVEL_LABELS, levelForDay, deriveLessonType, LEVELS, levelRange } = require('../config/curriculum');
+const C = require('../lib/course450');
 
 const wrap = (fn) => async (req, res) => {
   try { await fn(req, res); } catch (e) { console.error('teacherController xatosi:', e); res.status(500).json({ message: 'Server xatosi' }); }
@@ -20,44 +18,29 @@ const wrap = (fn) => async (req, res) => {
 const todayPanel = wrap(async (req, res) => {
   const filter = { role: 'student' };
   if (req.query.group) filter.group_name = String(req.query.group);
-  const students = await User.find(filter).select('full_name group_name current_day status').sort({ full_name: 1 }).lean();
-  const days = [...new Set(students.filter((s) => s.current_day <= TOTAL_DAYS).map((s) => s.current_day))];
-  const [plans, books] = await Promise.all([
-    StudyPlan.find({ day_number: { $in: days } }).select('day_number unit_title').lean(),
-    BookMaterial.find({ assigned_day: { $in: days }, status: 'ready' }).select('assigned_day title book_ref writing.grammar.title writing.grammar.title_uz writing.grammar.explanation_uz').lean(),
-  ]);
-  // Qaysi o'quvchi joriy mavzuni qayta o'tmoqda (o'zlashtirmagan) — o'qituvchi ko'rib turishi uchun
-  const retries = await DayMastery.find({ user: { $in: students.map((s) => s._id) }, mastered: false, passes: { $gt: 0 } }).lean();
-  const retryBy = new Map(retries.map((m) => [`${m.user}|${m.day_number}`, m]));
-  const planBy = new Map(plans.map((p) => [p.day_number, p]));
-  const bookBy = new Map(books.map((b) => [b.assigned_day, b]));
+  const students = await User.find(filter).select('full_name group_name current_day course_day status').sort({ full_name: 1 }).lean();
   const groups = new Map();
   let finished = 0;
   for (const s of students) {
-    if (s.current_day > TOTAL_DAYS) { finished++; continue; }
-    const key = `${s.group_name || ''}|${s.current_day}`;
+    const day = C.studentDay(s);
+    if (!day) { finished++; continue; }
+    const key = `${s.group_name || ''}|${day}`;
     if (!groups.has(key)) {
-      const b = bookBy.get(s.current_day);
-      const card = (b?.writing?.grammar || []).find((g) => g.explanation_uz);
+      const i = C.describeDay(day);
       groups.set(key, {
-        group_name: s.group_name || null,
-        day: s.current_day,
-        level: levelForDay(s.current_day),
-        level_label: LEVEL_LABELS[levelForDay(s.current_day)],
-        lesson_type: deriveLessonType(s.current_day),
-        unit_title: planBy.get(s.current_day)?.unit_title || null,
-        book_ref: b?.book_ref?.label ? b.book_ref : null,
-        book_id: b?._id || null,
-        grammar: card ? { title: card.title, title_uz: card.title_uz } : null,
+        group_name: s.group_name || null, day, level: C.LEVEL_ID[i.level], level_label: i.level, lesson_type: i.type,
+        unit_title: i.week_title, book_ref: i.book_ref ? { label: i.book_ref.replace('Kitob: ', '') } : null, book_id: null,
+        grammar: i.grammar ? { title: i.grammar } : null, vocab: i.vocab, reading: i.reading, listening: i.listening,
         students: [],
       });
     }
-    const rm = retryBy.get(`${s._id}|${s.current_day}`);
-    groups.get(key).students.push({ id: s._id, full_name: s.full_name, blocked: s.status === 'blocked', retry: !!rm, retry_passes: rm?.passes || 0, last_percent: rm?.last_percent ?? null, needs_teacher: !!rm?.needs_teacher });
+    groups.get(key).students.push({ id: s._id, full_name: s.full_name, blocked: s.status === 'blocked', retry: false, retry_passes: 0, last_percent: null, needs_teacher: false });
   }
   const list = [...groups.values()].sort((a, b) => (a.group_name || '').localeCompare(b.group_name || '') || a.day - b.day);
-  // Daraja tablari uchun: har darajada nechta o'quvchi bor
-  const levelCounts = LEVELS.map((l) => ({ level: l, label: LEVEL_LABELS[l], ...levelRange(l), students: list.filter((g) => g.level === l).reduce((n, g) => n + g.students.length, 0) }));
+  const levelCounts = C.LEVELS.map((l) => ({
+    level: C.LEVEL_ID[l], label: l, ...C.LEVEL_RANGES[l],
+    students: list.filter((g) => g.level_label === l).reduce((n, g) => n + g.students.length, 0),
+  }));
   res.status(200).json({ groups: list, levels: levelCounts, finished });
 });
 
