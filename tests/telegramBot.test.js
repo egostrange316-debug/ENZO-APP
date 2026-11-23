@@ -50,7 +50,7 @@ test('ota-ona: /start -> ism -> tugma -> ulanadi, ustozga xabar ketadi', async (
   await bot.handleUpdate(msg(100, '/start'));
   await bot.handleUpdate(msg(100, 'ali valiyev'));
   const pick = w.sent.filter((x) => x.reply_markup).pop();
-  assert.match(pick.reply_markup.inline_keyboard[0][0].text, /Ali Valiyev · B1-2 · to'lov: 5-sana/);
+  assert.match(pick.reply_markup.inline_keyboard[0][0].text, /Ali Valiyev • B1-2 • 🗓 To'lov: 5-kun/);
   await bot.handleUpdate(cb(100, pick.reply_markup.inline_keyboard[0][0].callback_data));
   assert.deepEqual(A.parent_chats, ['100']);
   assert.ok(texts(w.sent, '100').some((t) => /Ulandi/.test(t)));
@@ -118,12 +118,14 @@ test('ota-ona "Sababli" -> ustozga; ustoz tasdiqlasa excused_dates ga yoziladi v
   const w = world({ students: [A] });
   const bot = createBot(w.deps);
   await bot.handleUpdate(cb(100, `excuse:${A._id}:${today}`));
-  assert.ok(texts(w.sent, 'T1').some((t) => /Tasdiq kerak/.test(t)));
+  assert.ok(texts(w.sent, '100').some((t) => /Sababni yozib yuboring/.test(t)));
+  await bot.handleUpdate(msg(100, 'Bugun shifokorga bordik'));
+  assert.ok(texts(w.sent, 'T1').some((t) => /Tasdiq kerak/.test(t) && /Bugun shifokorga bordik/.test(t)));
   await bot.handleUpdate(cb(999, `confirm:${A._id}:${today}`)); // ustoz emas
   assert.deepEqual(A.excused_dates, []);
   await bot.handleUpdate(cb('T1', `confirm:${A._id}:${today}`));
   assert.deepEqual(A.excused_dates, [today]);
-  assert.ok(texts(w.sent, '100').some((t) => /sababli deb tasdiqlandi/.test(t)));
+  assert.ok(texts(w.sent, '100').some((t) => /Sabab tasdiqlandi/.test(t)));
 });
 test('/uzish ota-onani ajratadi', async () => {
   const A = kid(mkId('a'), 'Ali', { parent_chats: ['100'] });

@@ -42,8 +42,8 @@ test('to\'lovga 3 kun qolganda ota-onaga xabar (summa bilan), qayta chaqirsa ikk
   const { bot, sent } = mk(kid(tk(2026, 11, 30, 23)), now);
   const r = await bot.runCheck(now);
   assert.equal(r.pay, 1);
-  const txt = sent.find((x) => x.chat_id === '100' && /to'lov/.test(x.text)).text;
-  assert.match(txt, /3 kundan keyin/); assert.match(txt, /300 000 so'm/);
+  const txt = sent.find((x) => x.chat_id === '100' && /to[‘']lov/i.test(x.text)).text;
+  assert.match(txt, /3 kun/); assert.match(txt, /300 000 so[‘']m/);
   assert.equal((await bot.runCheck(now)).pay, 0);
 });
 test('to\'lov kuni uzoq bo\'lsa xabar yo\'q; 10:00 dan oldin yo\'q', async () => {
@@ -65,7 +65,7 @@ test('yakshanba 19:00 dan keyin haftalik hisobot, bir marta', async () => {
   const { bot, sent } = mk(kid(null), now);
   const r = await bot.runCheck(now);
   assert.equal(r.weekly, 1);
-  assert.match(sent.find((x) => /haftalik hisobot/.test(x.text)).text, /Darslar: <b>0\/6<\/b>/);
+  assert.match(sent.find((x) => /haftalik hisobot/i.test(x.text)).text, /Darslar: <b>0\/6<\/b>/);
   assert.equal((await bot.runCheck(now)).weekly, 0);
   const mon = tk(2026, 11, 23, 20);
   assert.equal((await mk(kid(null), mon).bot.runCheck(mon)).weekly, 0);
