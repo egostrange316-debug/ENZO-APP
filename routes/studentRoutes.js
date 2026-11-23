@@ -49,6 +49,13 @@ router.post('/game/equip', protect, checkSubscription, gc.postEquip);
 const cc = require('../controllers/courseController');
 router.get('/course', protect, checkSubscription, cc.getCourse);
 router.put('/course', protect, checkSubscription, cc.putCourse);
+const tc = require('../controllers/testController');
+router.get('/day-tests', protect, checkSubscription, tc.getTests);
+router.put('/day-tests', protect, checkSubscription, tc.putTests);
+
+const kc = require('../controllers/kidsController');
+router.get('/kids', protect, checkSubscription, kc.getKids);
+router.put('/kids', protect, checkSubscription, kc.putKids);
 
 const pr = require('../controllers/practiceController');
 router.get('/practice', protect, checkSubscription, pr.summary);

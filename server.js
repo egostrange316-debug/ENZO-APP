@@ -54,6 +54,7 @@ app.use('/api/student', studentRoutes);
 app.use('/api/class', classRoutes);
 // Yuklangan rasmlar (avatar, uy vazifasi). Nomlar tasodifiy; faqat rasm baytlari qabul qilinadi.
 app.use('/uploads', express.static(UPLOAD_DIR, { index: false, dotfiles: 'deny', maxAge: '7d', setHeaders: (r) => r.setHeader('X-Content-Type-Options', 'nosniff') }));
+app.use('/api/telegram', require('./routes/telegramRoutes').makeRouter());
 app.use('/api/admin/books', bookRoutes);
 app.use('/api/admin/book-plans', bookPlanRoutes);
 app.use('/api/admin', adminRoutes);
@@ -71,7 +72,14 @@ app.use((err, req, res, next) => {
 const PORT = process.env.PORT || 5000;
 
 if (require.main === module) {
-  connectDB().then(() => app.listen(PORT, () => console.log(`Server ${PORT}-portda ishga tushdi`)));
+  connectDB().then(() => {
+    app.listen(PORT, () => console.log(`Server ${PORT}-portda ishga tushdi`));
+    // Ichki taymer (server uyg'oq bo'lsa). Uxlab qolsa — tashqi cron /api/telegram/cron ni chaqiradi.
+    if (process.env.TELEGRAM_BOT_TOKEN) {
+      const bot = require('./routes/telegramRoutes').buildBot();
+      setInterval(() => bot.runCheck().catch((e) => console.error('telegram taymer:', e.message)), 10 * 60 * 1000).unref();
+    }
+  });
 }
 
 module.exports = app;

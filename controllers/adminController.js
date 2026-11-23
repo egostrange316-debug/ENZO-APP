@@ -11,7 +11,10 @@ const PracticeItem = require('../models/PracticeItem');
 const HomeworkSubmission = require('../models/HomeworkSubmission');
 const Homework = require('../models/Homework');
 const { publicUser, GROUPS } = require('./authController');
-const { endOfMonth, endOfLocalDay } = require('../lib/subscription');
+const { endOfMonth, endOfLocalDay, newEndForPayment, clampPayDay } = require('../lib/subscription');
+const crypto = require('crypto');
+const KidsState = require('../models/KidsState');
+const { kidsSummary } = require('../lib/kidsMerge');
 const CourseState = require('../models/CourseState');
 const { summarize, levelForCourseDay, mockSummary } = require('../lib/courseMerge');
 const { topicTitle } = require('../lib/course450');
@@ -51,6 +54,8 @@ const listStudents = async (req, res) => {
     const filter = { role: 'student' };
     if (req.query.group) filter.group_name = String(req.query.group);
     const students = await User.find(filter).select('-password_hash').sort({ full_name: 1 });
+    const kidsIds = students.filter((u) => u.program === 'kids').map((u) => u._id);
+    const kidsMap = new Map((kidsIds.length ? await KidsState.find({ user: { $in: kidsIds } }).select('user done day updatedAt').lean() : []).map((k) => [String(k.user), k]));
     // Yangi (450 kunlik) tizim: progress kurs holatidan (course_* maydonlari) olinadi
     const progress = await dayProgressForUsers(students.filter((u) => !(u.course_day > 0)));
     res.status(200).json({
@@ -61,6 +66,7 @@ const listStudents = async (req, res) => {
           course_points: u.course_points || 0, course_accuracy: u.course_accuracy ?? null,
           course_last_date: u.course_last_date || '', level_label: courseLevel(day),
           today: u.course_day > 0 ? null : progress.get(String(u._id)) || null,
+          kids: u.program === 'kids' ? (({ done = 0, day = u.kids_start || 1, updatedAt = null } = kidsMap.get(String(u._id)) || {}) => ({ done, day, synced_at: updatedAt, percent: Math.round((done / 200) * 100) }))() : null,
           course_percent: u.course_day > 0 ? Math.round(((u.course_days_done || 0) / 450) * 100) : courseProgressPercent(u.current_day, (progress.get(String(u._id)) || {}).percent),
         };
       }),
@@ -127,6 +133,129 @@ const recordPayment = async (req, res) => {
     res.status(200).json({ message: "To'lov qayd etildi, obuna ochildi", student: publicUser(student) });
   } catch (error) {
     console.error('recordPayment xatosi:', error);
+    res.status(500).json({ message: 'Server xatosi' });
+  }
+};
+
+
+/**
+ * POST /api/admin/students/:id/payment   { amount?, paid_on?: 'YYYY-MM-DD', note? }
+ * ENG SODDA yo'l: "To'ladi" = bitta oylik davr qo'shiladi (o'quvchining to'lov kunidan keyingi to'lov kunigacha).
+ * paid_on bo'sh = bugun; kelajak sanasi rad etiladi, 90 kundan eski ham.
+ * Qo'sh bosishdan himoya: 60 soniya ichida ikkinchi to'lov rad etiladi; 70 kundan oldinga to'langan bo'lsa ham.
+ */
+/** To'lov yozuvi umuman yo'q va muddat ro'yxatdan o'tishdagi avtomatik sinov muddatidan oshmagan bo'lsa — true */
+const isTrialOnly = (student, live) => {
+  if ((student.payments || []).length || (live || []).length) return false;
+  const created = student.createdAt ? new Date(student.createdAt).getTime() : null;
+  const end = student.subscription_end_date ? new Date(student.subscription_end_date).getTime() : null;
+  if (!created || !end) return false;
+  return end - created <= 31 * 24 * 3600 * 1000;
+};
+
+const recordCyclePayment = async (req, res) => {
+  try {
+    const student = await findStudent(req.params.id);
+    if (!student) return res.status(404).json({ message: "O'quvchi topilmadi" });
+    const now = new Date();
+    let paidAt = now;
+    if (req.body?.paid_on !== undefined && req.body.paid_on !== null && req.body.paid_on !== '') {
+      const endOfDay = endOfLocalDay(req.body.paid_on);
+      if (!endOfDay) return res.status(400).json({ message: "Sana noto'g'ri. Format: YYYY-MM-DD" });
+      if (endOfDay.getTime() - 24 * 3600 * 1000 + 1 > now.getTime()) return res.status(400).json({ message: "To'lov sanasi kelajakda bo'lmasin" });
+      if (now.getTime() - endOfDay.getTime() > 90 * 24 * 3600 * 1000) return res.status(400).json({ message: "To'lov sanasi 90 kundan eski" });
+      paidAt = endOfDay.getTime() > now.getTime() ? now : new Date(endOfDay.getTime() - 12 * 3600 * 1000);
+    }
+    const live = (student.payments || []).filter((p) => !p.cancelled);
+    const lastLive = live[live.length - 1];
+    if (lastLive && lastLive.pid && now - new Date(lastLive.recorded_at || 0) < 60 * 1000) {
+      return res.status(409).json({ message: "Hozirgina to'lov yozilgan. Adashgan bo'lsangiz «Bekor qilish»ni bosing." });
+    }
+    const current = student.subscription_end_date;
+    if (student.status === 'active' && current && current.getTime() - now.getTime() > 70 * 24 * 3600 * 1000) {
+      return res.status(409).json({ message: "Obuna allaqachon 2 oydan ko'proqqa to'langan", subscription_end_date: current });
+    }
+    let amount;
+    const raw = req.body?.amount;
+    if (raw !== undefined && raw !== null && raw !== '') {
+      amount = Number(String(raw).replace(/\s/g, ''));
+      if (!Number.isFinite(amount) || amount < 0 || amount > 1e9) return res.status(400).json({ message: "Summa noto'g'ri" });
+    }
+    const note = req.body?.note ? String(req.body.note).replace(/[\u0000-\u001f\u007f]/g, ' ').trim().slice(0, 200) : undefined;
+
+    // Yangi o'quvchining avtomatik 30 kunlik sinov muddati: birinchi to'lov to'lov sanasidan hisoblanadi
+    // (sinov ustiga yana bir oy qo'shilib ketmasligi uchun). Eski / ko'chirilgan o'quvchilarga tegmaydi.
+    const trial = isTrialOnly(student, live);
+    // To'lov kuni hali belgilanmagan yangi o'quvchi: birinchi to'lov kuni = oylik to'lov kuni (28 dan oshmaydi)
+    if (trial && !student.pay_day) {
+      const loc = new Date(paidAt.getTime() + 5 * 3600 * 1000);
+      student.pay_day = Math.min(28, loc.getUTCDate());
+    }
+    const base = trial ? null : current;
+    const target = newEndForPayment(base, clampPayDay(student.pay_day), paidAt, now);
+    student.payments.push({
+      paid_at: paidAt, recorded_at: now, paid_through: target, kind: 'cycle', amount, note, by: req.user._id,
+      pid: crypto.randomBytes(6).toString('hex'), prev_end: current, prev_status: student.status,
+    });
+    student.status = 'active';
+    student.subscription_end_date = target;
+    if (amount > 0 && !student.monthly_fee) student.monthly_fee = amount; // birinchi summa = oylik narx
+    if (student.payments.length > 60) student.payments = student.payments.slice(-60);
+    await student.save();
+    res.status(200).json({ message: "To'lov qayd etildi", student: publicUser(student) });
+  } catch (error) {
+    console.error('recordCyclePayment xatosi:', error);
+    res.status(500).json({ message: 'Server xatosi' });
+  }
+};
+
+/**
+ * POST /api/admin/students/:id/payment/cancel   — OXIRGI to'lovni bekor qiladi (24 soat ichida).
+ * Obuna muddati va holat to'lovdan oldingi qiymatga qaytadi. Yozuv tarixda "bekor qilingan" bo'lib qoladi.
+ */
+const cancelLastPayment = async (req, res) => {
+  try {
+    const student = await findStudent(req.params.id);
+    if (!student) return res.status(404).json({ message: "O'quvchi topilmadi" });
+    const live = (student.payments || []).filter((p) => !p.cancelled && p.pid);
+    const last = live[live.length - 1];
+    if (!last) return res.status(404).json({ message: "Bekor qilinadigan to'lov yo'q" });
+    if (Date.now() - new Date(last.recorded_at || 0).getTime() > 24 * 3600 * 1000) {
+      return res.status(409).json({ message: "Bekor qilish faqat to'lovdan keyin 24 soat ichida mumkin" });
+    }
+    last.cancelled = true;
+    last.cancelled_at = new Date();
+    if (last.prev_end) student.subscription_end_date = last.prev_end;
+    if (last.prev_status) student.status = last.prev_status;
+    student.markModified('payments');
+    await student.save();
+    res.status(200).json({ message: "To'lov bekor qilindi", student: publicUser(student) });
+  } catch (error) {
+    console.error('cancelLastPayment xatosi:', error);
+    res.status(500).json({ message: 'Server xatosi' });
+  }
+};
+
+/** PATCH /api/admin/students/:id/billing   { pay_day?: 1..28, monthly_fee?: so'm }  — to'lov kuni va oylik narx */
+const setBilling = async (req, res) => {
+  try {
+    const student = await findStudent(req.params.id);
+    if (!student) return res.status(404).json({ message: "O'quvchi topilmadi" });
+    const { pay_day, monthly_fee } = req.body || {};
+    if (pay_day !== undefined) {
+      const d = Number(pay_day);
+      if (!Number.isInteger(d) || d < 1 || d > 28) return res.status(400).json({ message: "To'lov kuni 1 dan 28 gacha bo'lsin" });
+      student.pay_day = d;
+    }
+    if (monthly_fee !== undefined) {
+      const f = Number(String(monthly_fee).replace(/\s/g, ''));
+      if (!Number.isFinite(f) || f < 0 || f > 1e9) return res.status(400).json({ message: "Narx noto'g'ri" });
+      student.monthly_fee = f;
+    }
+    await student.save();
+    res.status(200).json({ message: 'Saqlandi', pay_day: student.pay_day || 1, monthly_fee: student.monthly_fee ?? null });
+  } catch (error) {
+    console.error('setBilling xatosi:', error);
     res.status(500).json({ message: 'Server xatosi' });
   }
 };
@@ -271,8 +400,11 @@ const studentCard = async (req, res) => {
     const cs = await CourseState.findOne({ user: student._id }).select('course_day days_done points accuracy week_points last_study_date state updatedAt override').lean();
     const csDays = cs && cs.state && cs.state.d ? Object.entries(cs.state.d).filter(([, v]) => v && v.c).map(([k, v]) => ({ day: Number(k) + 1, test: v.t == null ? null : v.t })).sort((x, y) => y.day - x.day).slice(0, 30) : [];
     const course = cs ? { course_day: cs.course_day, days_done: cs.days_done, points: cs.points, accuracy: cs.accuracy, week_points: cs.week_points, last_study_date: cs.last_study_date, synced_at: cs.updatedAt, recent_days: csDays, override_pending: !!cs.override, mock: withTitles(mockSummary(cs.state)) } : null;
+    const ks = student.program === 'kids' ? await KidsState.findOne({ user: student._id }).select('done day updatedAt').lean() : null;
+    const kids = student.program === 'kids' ? { done: ks ? ks.done : 0, day: ks ? ks.day : student.kids_start || 1, start: student.kids_start || 1, synced_at: ks ? ks.updatedAt : null } : null;
     res.status(200).json({
       course,
+      kids,
       student: publicUser(student),
       payments: student.payments,
       attendance: {
@@ -342,6 +474,18 @@ const placeStudent = async (req, res) => {
       if (g && !(await require('../lib/groups').isValidGroup(g))) return res.status(400).json({ message: "Guruh noto'g'ri" });
       set.group_name = g || null;
     }
+    // Dastur almashtirish: A1–C1 (main) yoki Kids 200 kun (kids) + Kids boshlanish kuni
+    const program = req.body?.program;
+    if (program !== undefined) {
+      if (!['main', 'kids'].includes(program)) return res.status(400).json({ message: "Dastur noto'g'ri" });
+      set.program = program;
+    }
+    const kd = req.body?.kids_day;
+    if (kd !== undefined && kd !== null && kd !== '') {
+      const k = Number(kd);
+      if (!Number.isInteger(k) || k < 1 || k > 200) return res.status(400).json({ message: "Kids kuni 1 dan 200 gacha bo'lishi kerak" });
+      set.kids_start = k;
+    }
     const day = req.body?.day;
     if (day !== undefined && day !== null && day !== '') {
       const d = Number(day);
@@ -349,6 +493,10 @@ const placeStudent = async (req, res) => {
       Object.assign(set, await applyCourseDay(student, d));
     }
     await User.updateOne({ _id: student._id }, { $set: set });
+    if (set.kids_start) {
+      const ks = await KidsState.findOne({ user: student._id }).select('data').lean();
+      if (ks) { let st = {}; try { st = JSON.parse(ks.data || '{}'); } catch (e) { st = {}; } await KidsState.updateOne({ _id: ks._id }, { $set: { day: kidsSummary(st, set.kids_start).day } }); }
+    }
     res.status(200).json({ message: "O'quvchi joylandi", student: publicUser(await User.findById(student._id)) });
   } catch (error) {
     console.error('placeStudent xatosi:', error);
@@ -373,4 +521,4 @@ const studentWritings = async (req, res) => {
   }
 };
 
-module.exports = { placeStudent, studentWritings, setStudentDay, studentCard, passCurrentDay, listStudents, recordPayment, unblockStudent, approveSpeakingExam, parseUnitWithAI, getStudentDetails, deleteStudent };
+module.exports = { _isTrialOnly: isTrialOnly, recordCyclePayment, cancelLastPayment, setBilling, placeStudent, studentWritings, setStudentDay, studentCard, passCurrentDay, listStudents, recordPayment, unblockStudent, approveSpeakingExam, parseUnitWithAI, getStudentDetails, deleteStudent };

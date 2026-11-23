@@ -5,7 +5,7 @@
  *  - GET /api/admin/payments   : faqat o'qituvchi: naqd to'lovlar jadvali
  */
 const User = require('../models/User');
-const { subscriptionInfo } = require('../lib/subscription');
+const { subscriptionInfo, localParts, startOfLocal, nextDueDate, clampPayDay } = require('../lib/subscription');
 const C = require('../lib/course450');
 
 const wrap = (fn) => async (req, res) => {
@@ -50,30 +50,49 @@ const adminSchedule = wrap(async (req, res) => {
   res.status(200).json(s);
 });
 
-/** Naqd to'lovlar jadvali: har o'quvchi uchun holat, oxirgi to'lov va tarix. Faqat o'qituvchi. */
+/**
+ * To'lovlar jadvali (faqat o'qituvchi): har o'quvchi uchun BITTA aniq holat.
+ *  paid  = To'lagan (muddat 3 kundan ko'p)      soon = Tez orada (3 kun yoki kam qoldi)
+ *  late  = To'lamagan (muddat o'tdi, muhlatda)   blocked = Bloklangan
+ */
 const paymentsTable = wrap(async (req, res) => {
-  const students = await User.find({ role: 'student' }).select('full_name group_name status subscription_end_date payments').sort({ full_name: 1 }).lean();
+  const students = await User.find({ role: 'student' })
+    .select('full_name group_name status subscription_end_date payments pay_day monthly_fee').sort({ full_name: 1 }).lean();
   const now = new Date();
-  const monthStart = new Date(now.getFullYear(), now.getMonth(), 1);
+  const lp = localParts(now);
+  const monthStart = startOfLocal(lp.y, lp.m, 1);
   let collected = 0;
   const rows = students.map((u) => {
-    const pays = (u.payments || []).slice().sort((a, b) => new Date(b.paid_at) - new Date(a.paid_at));
-    const last = pays[0] || null;
-    const total = pays.reduce((n, p) => n + (p.amount || 0), 0);
-    for (const p of pays) if (new Date(p.paid_at) >= monthStart) collected += p.amount || 0;
+    const all = (u.payments || []).slice().sort((a, b) => new Date(b.paid_at) - new Date(a.paid_at));
+    const live = all.filter((p) => !p.cancelled);
+    const last = live[0] || null;
+    const total = live.reduce((n, p) => n + (p.amount || 0), 0);
+    for (const p of live) if (new Date(p.paid_at) >= monthStart) collected += p.amount || 0;
     const info = subscriptionInfo(u, now);
+    const status = info.state === 'blocked' ? 'blocked' : info.state === 'grace' ? 'late' : info.days_left <= 3 ? 'soon' : 'paid';
+    // oxirgi yozilgan to'lov (bekor qilinmagan) 24 soat ichida bo'lsa — bekor qilish mumkin
+    const newest = live.filter((p) => p.pid).sort((a, b) => new Date(b.recorded_at || 0) - new Date(a.recorded_at || 0))[0];
+    const canCancel = !!newest && now - new Date(newest.recorded_at || 0) <= 24 * 3600 * 1000;
+    const h = (p) => ({ paid_at: p.paid_at, amount: p.amount ?? null, paid_through: p.paid_through, note: p.note || null, cancelled: !!p.cancelled });
     return {
       id: u._id, full_name: u.full_name, group_name: u.group_name || null,
-      state: info.state, end_date: info.end_date, days_left: info.days_left, grace_days_left: info.grace_days_left,
+      state: info.state, status, end_date: info.end_date, days_left: info.days_left, grace_days_left: info.grace_days_left,
+      next_due: nextDueDate(info.end_date),
+      pay_day: clampPayDay(u.pay_day), monthly_fee: u.monthly_fee ?? null,
       last_payment: last ? { paid_at: last.paid_at, amount: last.amount ?? null, paid_through: last.paid_through, note: last.note || null } : null,
+      can_cancel: canCancel,
       total_paid: total,
-      history: pays.map((p) => ({ paid_at: p.paid_at, amount: p.amount ?? null, paid_through: p.paid_through, note: p.note || null })),
+      history: all.map(h),
     };
   });
-  const count = (st) => rows.filter((r) => r.state === st).length;
+  const count = (st) => rows.filter((r) => r.status === st).length;
   res.status(200).json({
     rows,
-    summary: { paid: count('paid'), grace: count('grace'), blocked: count('blocked'), collected_this_month: collected, students: rows.length },
+    summary: {
+      paid: count('paid'), soon: count('soon'), late: count('late'), blocked: count('blocked'),
+      grace: count('late'), // eski ekranlar uchun
+      collected_this_month: collected, students: rows.length,
+    },
   });
 });
 

@@ -21,6 +21,8 @@ const userSchema = new mongoose.Schema(
     role: { type: String, enum: ['student', 'admin'], default: 'student' },
 
     group_name: { type: String, trim: true, default: null },
+    parent_chats: { type: [String], default: [] }, // ota-ona Telegram chat id'lari (ism bo'yicha ulangan)
+    excused_dates: { type: [String], default: [] }, // sababli kunlar (YYYY-MM-DD)
     avatar: { type: String, default: null },
     ball: { type: Number, default: 0 },
     words_count: { type: Number, default: 0 },
@@ -28,6 +30,9 @@ const userSchema = new mongoose.Schema(
     level: { type: String, enum: LEVELS, default: LEVELS[0] },
     placement_pending: { type: Boolean, default: false }, // yangi o'quvchi o'zi tanlagan daraja; o'qituvchi tasdiqlamaguncha true
     current_day: { type: Number, default: 1, min: 1 },
+    // Dastur: 'main' = A1–C1 (450 kun), 'kids' = "Husanboy bilan English" (200 kun). Faqat admin o'zgartiradi.
+    program: { type: String, enum: ['main', 'kids'], default: 'main' },
+    kids_start: { type: Number, default: 1, min: 1, max: 200 }, // admin belgilagan Kids boshlanish kuni
 
     status: { type: String, enum: ['active', 'blocked'], default: 'active' },
     subscription_end_date: {
@@ -36,6 +41,10 @@ const userSchema = new mongoose.Schema(
       default: () => new Date(Date.now() + SUBSCRIPTION_DAYS * 24 * 60 * 60 * 1000),
     },
 
+    // Oylik to'lov kuni (1..28) va oylik narx (so'm). Berilmagan = 1-kun (taqvim oyi), narx yo'q.
+    pay_day: { type: Number, min: 1, max: 28 },
+    monthly_fee: { type: Number, min: 0, max: 1e9 },
+
     // To'lovlar tarixi (faqat o'qituvchi ko'radi). Oxirgi 24 ta saqlanadi.
     payments: {
       type: [
@@ -43,7 +52,13 @@ const userSchema = new mongoose.Schema(
           _id: false,
           paid_at: { type: Date, default: Date.now },
           paid_through: Date, // obuna shu sanagacha ochilgan
-          kind: { type: String, enum: ['month', 'custom'] },
+          kind: { type: String, enum: ['month', 'custom', 'cycle'] },
+          recorded_at: { type: Date, default: Date.now }, // to'lov yozilgan lahza (paid_at qo'lda o'zgartirilishi mumkin)
+          pid: String, // to'lov identifikatori (bekor qilish uchun)
+          prev_end: Date, // to'lovdan oldingi obuna muddati (bekor qilsa qaytariladi)
+          prev_status: String,
+          cancelled: { type: Boolean, default: false },
+          cancelled_at: Date,
           months: Number,
           amount: Number, // naqd summa (so'm), ixtiyoriy — faqat o'qituvchi ko'radi
           note: String,

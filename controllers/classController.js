@@ -29,7 +29,7 @@ async function subtractBall(userId, n) {
 const roster = async (req, res) => {
   try {
     const rows = await User.find({ role: 'student' })
-      .select('full_name group_name avatar ball xp current_day level status createdAt placement_pending course_points course_days_done')
+      .select('full_name group_name avatar ball xp current_day level status createdAt placement_pending course_points course_days_done program kids_start')
       .lean();
     const admin = isAdmin(req);
     // Ko'rsatiladigan "ball" = o'yin tizimidagi XP + uy vazifasi bali (reyting va podium shunga qaraydi)
@@ -37,6 +37,7 @@ const roster = async (req, res) => {
       id: String(u._id), full_name: u.full_name, group_name: u.group_name, avatar: u.avatar,
       ball: (u.course_points || 0) + (u.xp || 0) + (u.ball || 0), xp: u.xp || 0, course_points: u.course_points || 0, course_days_done: u.course_days_done || 0, homework_ball: u.ball || 0,
       current_day: u.current_day, level: u.level, created_at: u.createdAt,
+      program: u.program || 'main', kids_start: u.kids_start || 1,
       ...(admin ? { blocked: u.status === 'blocked', placement_pending: !!u.placement_pending } : {}),
     }));
     list.sort((a, b) => b.ball - a.ball || new Date(a.created_at) - new Date(b.created_at) || a.id.localeCompare(b.id));

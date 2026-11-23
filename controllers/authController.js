@@ -23,6 +23,8 @@ function publicUser(u) {
     avatar: u.avatar,
     level: u.level,
     current_day: u.current_day,
+    program: u.program || 'main',
+    kids_start: u.kids_start || 1,
     status: u.status,
     subscription_end_date: u.subscription_end_date,
     // paid | grace (5 kun to'lov muddati) | blocked; ilova ogohlantirish uchun ishlatadi
