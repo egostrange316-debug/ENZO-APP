@@ -85,14 +85,15 @@ test('runCheck: bajarmagan -> ota-onaga va ustozga; bajargan -> "bajardi"; ikki 
   });
   const bot = createBot(w.deps);
   const r1 = await bot.runCheck();
-  if (hour < 8) return assert.deepEqual(r1, { done: 0, missed: 0, digest: 0, risk: 0, pay: 0, weekly: 0 }); // tun: hech narsa yubormaydi
+  if (hour < 8) return assert.deepEqual(r1, { done: 0, missed: 0, digest: 0, risk: 0, pay: 0, weekly: 0, distract: 0 }); // tun: hech narsa yubormaydi
   assert.equal(r1.done, 1); assert.equal(r1.missed, 1); assert.equal(r1.digest, 1);
   assert.ok(texts(w.sent, '100')[0].includes('bajardi'));
+  assert.ok(texts(w.sent, '100')[0].includes('Kechki ovqatda 1 ta savol'));
   assert.ok(texts(w.sent, '200')[0].includes('dars qilmadi'));
   assert.ok(texts(w.sent, 'T1')[0].includes('Dilnoza Karimova'));
   const n = w.sent.length;
   const r2 = await bot.runCheck();
-  assert.deepEqual(r2, { done: 0, missed: 0, digest: 0, risk: 0, pay: 0, weekly: 0 });
+  assert.deepEqual(r2, { done: 0, missed: 0, digest: 0, risk: 0, pay: 0, weekly: 0, distract: 0 });
   assert.equal(w.sent.length, n);
 });
 test('runCheck: dam kuni/dars yo\'q kunida ogohlantirish yo\'q', async () => {
@@ -187,4 +188,97 @@ test('FocusLog (oyinlar + boshqa ilovalar) va Maqtov tugmasi ota-ona xabarida is
   assert.equal(focusStore.get(String(A._id)).pending_praise, 1);
   const bMsg = w.sent.find((x) => String(x.chat_id) === '200' && /ruxsati/.test(x.text));
   assert.ok(bMsg, 'Dilnoza xabarida ruxsat ochirilgani ogohlantirishi chiqishi kerak');
+});
+
+test('15 daqiqa o\'yin yoki boshqa platformada o\'tirganda darhol ota-onaga ogohlantirish ketadi', async () => {
+  const A = kid(mkId('a'), 'Ali Valiyev', { parent_chats: ['100'] });
+  const B = kid(mkId('b'), 'Dilnoza Karimova', { parent_chats: ['200'] });
+  const w = world({
+    students: [A, B],
+    groups: [{ name: 'B1-2', deadline_hour: 22, lesson_days: [1, 2, 3, 4, 5, 6, 7] }],
+    pts: { [B._id]: { pts: { d1: { date: today, p: 5 } } } }, // Dilnoza darsni bajargan
+  });
+  const bot = createBot(w.deps);
+  const noon = new Date(`${today}T07:30:00.000Z`); // 12:30 Toshkent
+
+  // 14 daqiqa -> ogohlantirish ketmasligi kerak
+  const r14 = await bot.checkDistractionAlert(A, { usage_access: true, games_minutes: 6, other_apps_minutes: 8, total_distract_minutes: 14 }, noon);
+  assert.equal(r14, false);
+
+  // 15 daqiqa (o'yin + TikTok) -> darhol ota-onaga ketishi kerak
+  const r15 = await bot.checkDistractionAlert(
+    A,
+    {
+      usage_access: true,
+      games_minutes: 7,
+      other_apps_minutes: 8,
+      total_distract_minutes: 15,
+      top_games: [{ name: 'Brawl Stars', minutes: 7 }],
+      top_apps: [{ name: 'TikTok', minutes: 8 }],
+    },
+    noon
+  );
+  assert.equal(r15, true);
+  assert.ok(texts(w.sent, '100').some((t) => /15\+ daqiqa/.test(t) && /Brawl Stars/.test(t) && /TikTok/.test(t)));
+
+  // Ikkinchi marta o'sha kuni qayta yubormaydi
+  const rDup = await bot.checkDistractionAlert(A, { usage_access: true, total_distract_minutes: 25 }, noon);
+  assert.equal(rDup, false);
+
+  // Darsini bajargan bola (Dilnoza) uchun 15+ daqiqa ogohlantirish ketmaydi
+  const rDone = await bot.checkDistractionAlert(B, { usage_access: true, total_distract_minutes: 40 }, noon);
+  assert.equal(rDone, false);
+});
+
+test('Ota-ona Bosh Paneli (holat, telefon, reyting, to\'lov, maqtash) va chek yuborish -> rasmiy chek', async () => {
+  const futureEnd = new Date(Date.now() + 2 * 86400000);
+  const A = kid(mkId('a'), 'Ali Valiyev', { parent_chats: ['100'], monthly_fee: 450000, pay_day: 10, subscription_end_date: futureEnd, payments: [] });
+  const B = kid(mkId('b'), 'Vali Karimov', { parent_chats: ['200'] });
+  const w = world({
+    students: [A, B],
+    groups: [{ name: 'B1-2', deadline_hour: 22, lesson_days: [1, 2, 3, 4, 5, 6, 7] }],
+    pts: { [A._id]: { pts: 350, d: {} }, [B._id]: { pts: 120, d: {} } },
+  });
+  const bot = createBot(w.deps);
+
+  // 1. Ota-ona /start -> Bosh Panel keyboard chiqadi
+  await bot.handleUpdate(msg(100, '/start'));
+  const startReply = w.sent.find((x) => String(x.chat_id) === '100');
+  assert.ok(startReply.reply_markup && Array.isArray(startReply.reply_markup.keyboard), 'Parent reply keyboard chiqishi kerak');
+
+  // 2. Guruh reytingi
+  await bot.handleUpdate(msg(100, '🏆 Guruh reytingi'));
+  assert.ok(texts(w.sent, '100').some((t) => /1-o‘rin/.test(t) && /350/.test(t)));
+
+  // 3. To'lov holati -> Chek yuborish tugmasi bilan
+  await bot.handleUpdate(msg(100, '💳 To‘lov holati'));
+  const payCard = w.sent.find((x) => String(x.chat_id) === '100' && /To‘lov holati/.test(x.text));
+  assert.ok(payCard && payCard.reply_markup && payCard.reply_markup.inline_keyboard[0][0].callback_data === `receipt:${A._id}`);
+
+  // 4. Chek yuborish -> Ustoz tasdiqlaydi -> Ota-onaga RASMIY TO'LOV CHEKI boradi
+  await bot.handleUpdate(cb(100, `receipt:${A._id}`));
+  await bot.handleUpdate(msg(100, 'Click orqali 450 000 toladim'));
+  assert.ok(texts(w.sent, 'T1').some((t) => /to‘lov cheki keldi/i.test(t)));
+
+  await bot.handleUpdate(cb('T1', `payok:${A._id}`));
+  assert.ok(texts(w.sent, '100').some((t) => /RASMIY TO‘LOV CHEKI/.test(t) && /#ENZO-/.test(t) && /450 000/.test(t)));
+  assert.ok(A.payments.length >= 1, 'Payment history ga yozilishi kerak');
+});
+
+test('Ustoz "to\'landi Ali" yozsa -> tasdiqlash tugmasi -> ota-onaga rasmiy chek va umumiy e\'lon', async () => {
+  const A = kid(mkId('a'), 'Ali Valiyev', { parent_chats: ['100'], monthly_fee: 400000, pay_day: 5, payments: [] });
+  const w = world({ students: [A] });
+  const bot = createBot(w.deps);
+
+  await bot.handleUpdate(msg('T1', "to'landi Ali"));
+  const pickMsg = w.sent.find((x) => String(x.chat_id) === 'T1' && /To‘lovni tasdiqlash/.test(x.text));
+  assert.ok(pickMsg && pickMsg.reply_markup.inline_keyboard[0][0].callback_data === `payok:${A._id}`);
+
+  await bot.handleUpdate(cb('T1', `payok:${A._id}`));
+  assert.ok(texts(w.sent, '100').some((t) => /RASMIY TO‘LOV CHEKI/.test(t) && /400 000/.test(t)));
+
+  // Umumiy e'lon
+  await bot.handleUpdate(msg('T1', '📢 Ota-onalarga e’lon'));
+  await bot.handleUpdate(msg('T1', 'Ertaga ochiq dars soat 15:00 da!'));
+  assert.ok(texts(w.sent, '100').some((t) => /Enzo Academy e’loni/.test(t) && /ochiq dars/.test(t)));
 });

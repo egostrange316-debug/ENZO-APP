@@ -94,6 +94,21 @@ exports.putFocus = async (req, res) => {
     ).lean();
 
     res.status(200).json({ focus: doc });
+
+    // Real-vaqt 15+ daqiqa o'yin / boshqa platforma ogohlantirishi (ota-onaga fon rejimida)
+    if (process.env.TELEGRAM_BOT_TOKEN && usageAccess && mergedDistract >= 15) {
+      setImmediate(async () => {
+        try {
+          const { buildBot } = require('../routes/telegramRoutes');
+          const student = await User.findById(req.user._id)
+            .select('full_name group_name excused_dates createdAt parent_chats status')
+            .lean();
+          if (student && Array.isArray(student.parent_chats) && student.parent_chats.length) {
+            await buildBot().checkDistractionAlert(student, doc);
+          }
+        } catch (_) {}
+      });
+    }
   } catch (e) {
     console.error('putFocus xatosi:', e.message);
     res.status(500).json({ message: 'Server xatosi' });

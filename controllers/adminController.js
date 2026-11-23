@@ -126,9 +126,19 @@ const recordPayment = async (req, res) => {
       if (!Number.isFinite(amount) || amount < 0 || amount > 1e9) return res.status(400).json({ message: "Summa noto'g'ri" });
     }
     const note = req.body?.note ? String(req.body.note).replace(/[\u0000-\u001f\u007f]/g, ' ').trim().slice(0, 200) : undefined;
-    student.payments.push({ paid_at: now, paid_through: target, kind, months, amount, note, by: req.user._id });
+    const entry = { paid_at: now, paid_through: target, kind, months, amount, note, by: req.user._id };
+    student.payments.push(entry);
     if (student.payments.length > 60) student.payments = student.payments.slice(-60);
     await student.save();
+
+    if (process.env.TELEGRAM_BOT_TOKEN && Array.isArray(student.parent_chats) && student.parent_chats.length) {
+      setImmediate(async () => {
+        try {
+          const { buildBot } = require('../routes/telegramRoutes');
+          await buildBot().notifyPaymentReceipt(student, entry);
+        } catch (_) {}
+      });
+    }
 
     res.status(200).json({ message: "To'lov qayd etildi, obuna ochildi", student: publicUser(student) });
   } catch (error) {
@@ -193,15 +203,26 @@ const recordCyclePayment = async (req, res) => {
     }
     const base = trial ? null : current;
     const target = newEndForPayment(base, clampPayDay(student.pay_day), paidAt, now);
-    student.payments.push({
+    const entry = {
       paid_at: paidAt, recorded_at: now, paid_through: target, kind: 'cycle', amount, note, by: req.user._id,
       pid: crypto.randomBytes(6).toString('hex'), prev_end: current, prev_status: student.status,
-    });
+    };
+    student.payments.push(entry);
     student.status = 'active';
     student.subscription_end_date = target;
     if (amount > 0 && !student.monthly_fee) student.monthly_fee = amount; // birinchi summa = oylik narx
     if (student.payments.length > 60) student.payments = student.payments.slice(-60);
     await student.save();
+
+    if (process.env.TELEGRAM_BOT_TOKEN && Array.isArray(student.parent_chats) && student.parent_chats.length) {
+      setImmediate(async () => {
+        try {
+          const { buildBot } = require('../routes/telegramRoutes');
+          await buildBot().notifyPaymentReceipt(student, entry);
+        } catch (_) {}
+      });
+    }
+
     res.status(200).json({ message: "To'lov qayd etildi", student: publicUser(student) });
   } catch (error) {
     console.error('recordCyclePayment xatosi:', error);
