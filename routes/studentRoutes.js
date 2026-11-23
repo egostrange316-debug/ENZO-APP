@@ -57,6 +57,11 @@ const kc = require('../controllers/kidsController');
 router.get('/kids', protect, checkSubscription, kc.getKids);
 router.put('/kids', protect, checkSubscription, kc.putKids);
 
+const fc = require('../controllers/focusController');
+router.get('/focus', protect, fc.getFocus);
+router.put('/focus', protect, fc.putFocus);
+router.post('/praise/pop', protect, fc.popPraise);
+
 const pr = require('../controllers/practiceController');
 router.get('/practice', protect, checkSubscription, pr.summary);
 router.get('/practice/words', protect, checkSubscription, pr.words);

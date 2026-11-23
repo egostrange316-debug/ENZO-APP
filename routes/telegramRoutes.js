@@ -14,6 +14,7 @@ function buildBot() {
     teacherIds: String(process.env.TELEGRAM_TEACHER_IDS || '').split(',').map((s) => s.trim()),
     User: require('../models/User'), Group: require('../models/Group'), CourseState: require('../models/CourseState'),
     NotifyLog: require('../models/NotifyLog'), BotState: require('../models/BotState'),
+    FocusLog: require('../models/FocusLog'),
   });
 }
 

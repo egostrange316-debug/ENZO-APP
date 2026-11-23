@@ -11,7 +11,7 @@ const { subscriptionInfo, nextDueDate } = require('../lib/subscription');
 const { T, esc } = X;
 
 function createBot(deps) {
-  const { token, fetchFn = globalThis.fetch, User, Group, CourseState, NotifyLog, BotState } = deps;
+  const { token, fetchFn = globalThis.fetch, User, Group, CourseState, NotifyLog, BotState, FocusLog = null } = deps;
   const teacherIds = (deps.teacherIds || []).map(String).filter(Boolean);
   const isTeacher = (id) => teacherIds.includes(String(id));
 
@@ -143,6 +143,15 @@ function createBot(deps) {
     } else if (kind === 'call' && parentOf()) {
       await send(chat, T.parentCallSent);
       await toTeachers(T.teacherCall(student.full_name, student.group_name, who));
+    } else if (kind === 'praise' && parentOf()) {
+      if (FocusLog && typeof FocusLog.findOneAndUpdate === 'function') {
+        await FocusLog.findOneAndUpdate(
+          { user: student._id, date: date || today },
+          { $inc: { pending_praise: 1 } },
+          { upsert: true }
+        ).catch(() => {});
+      }
+      await send(chat, T.praiseSent);
     } else if (kind === 'confirm' && isTeacher(chat) && D.validDate(date)) {
       student.excused_dates = [...new Set([...(student.excused_dates || []), date])].sort();
       await student.save();
@@ -186,6 +195,10 @@ function createBot(deps) {
       .lean();
     const cs = await CourseState.find({ user: { $in: students.map((s) => s._id) } }).select('user state.pts state.d').lean();
     const by = new Map(cs.map((c) => [String(c.user), c.state]));
+    const fl = FocusLog && typeof FocusLog.find === 'function'
+      ? await FocusLog.find({ date: now.date, user: { $in: students.map((s) => s._id) } }).lean()
+      : [];
+    const focusBy = new Map(fl.map((f) => [String(f.user), f]));
     return students.map((s) => {
       const g = gBy.get(s.group_name) || null;
       const joined = s.createdAt ? D.tashkentNow(new Date(s.createdAt)).date : null;
@@ -193,6 +206,7 @@ function createBot(deps) {
         s,
         g,
         state: by.get(String(s._id)),
+        focus: focusBy.get(String(s._id)) || null,
         joined,
         r: D.studentStatus({ group: g, state: by.get(String(s._id)), excused_dates: s.excused_dates, today: now.date, hour: now.hour, joined }),
       };
@@ -242,7 +256,7 @@ function createBot(deps) {
     const all = allAll.filter((x) => x.s.status !== 'blocked');
     const okSend = (r) => !!(r && r.ok);
 
-    for (const { s, g, state, joined, r } of all) {
+    for (const { s, g, state, focus, joined, r } of all) {
       const parents = s.parent_chats || [];
       if (r.status === 'done' && parents.length) {
         const w = weeklyStats({ group: g, state, excused_dates: s.excused_dates, today: now.date, joined });
@@ -250,7 +264,16 @@ function createBot(deps) {
         if (
           await once(`done:${s._id}:${now.date}`, async () => {
             let any = false;
-            for (const p of parents) any = okSend(await send(p, T.done(s.full_name, s.group_name, streakVal, now.date))) || any;
+            for (const p of parents) {
+              any =
+                okSend(
+                  await send(
+                    p,
+                    T.done(s.full_name, s.group_name, streakVal, now.date, focus),
+                    kb([[['👏 Farzandimni maqtash', `praise:${s._id}:${now.date}`]]])
+                  )
+                ) || any;
+            }
             return any;
           })
         ) {
@@ -266,7 +289,7 @@ function createBot(deps) {
                 okSend(
                   await send(
                     p,
-                    T.missed(s.full_name, s.group_name, r.steps_done, r.missed_in_row, now.date),
+                    T.missed(s.full_name, s.group_name, r.steps_done, r.missed_in_row, now.date, focus),
                     kb([[['📝 Sabab kiritish', `excuse:${s._id}:${now.date}`], ["📞 Ustoz bog'lansin", `call:${s._id}`]]])
                   )
                 ) || any;
