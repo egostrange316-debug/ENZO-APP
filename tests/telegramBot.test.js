@@ -153,3 +153,38 @@ test('webhook: maxfiy kalitsiz 403, kalit bilan 200 va yangilanish botga berilad
   assert.equal((await call('/cron', {}, { key: 'yoq' })).c, 403);
   assert.equal((await call('/cron', {}, { key: 'cron123' })).c, 200);
 });
+
+test('FocusLog (oyinlar + boshqa ilovalar) va Maqtov tugmasi ota-ona xabarida ishlaydi', async () => {
+  if (D.tashkentNow().hour < 8) return;
+  const A = kid(mkId('a'), 'Ali Valiyev', { parent_chats: ['100'] });
+  const B = kid(mkId('b'), 'Dilnoza Karimova', { parent_chats: ['200'] });
+  const focusStore = new Map([
+    [String(A._id), { user: A._id, date: today, usage_access: true, study_minutes: 25, games_minutes: 30, other_apps_minutes: 20, left_count: 1, focus_score: 82, top_games: [{ name: 'PUBG Mobile', minutes: 30 }], top_apps: [{ name: 'YouTube', minutes: 20 }], pending_praise: 0 }],
+    [String(B._id), { user: B._id, date: today, usage_access: false, left_count: 3, pending_praise: 0 }],
+  ]);
+  const w = world({
+    students: [A, B],
+    groups: [{ name: 'B1-2', deadline_hour: 8, lesson_days: [1, 2, 3, 4, 5, 6, 7] }],
+    pts: { [A._id]: { pts: { d1: { date: today, p: 5 } } } },
+  });
+  w.deps.FocusLog = {
+    find: () => ({ lean: async () => [...focusStore.values()] }),
+    findOneAndUpdate: async (q, u) => {
+      const doc = focusStore.get(String(q.user)) || { user: q.user, date: q.date, pending_praise: 0 };
+      if (u.$inc && u.$inc.pending_praise) doc.pending_praise += u.$inc.pending_praise;
+      focusStore.set(String(q.user), doc);
+      return doc;
+    },
+  };
+  const bot = createBot(w.deps);
+  await bot.runCheck();
+  const aMsg = w.sent.find((x) => String(x.chat_id) === '100' && /PUBG Mobile/.test(x.text));
+  assert.ok(aMsg, 'Ali xabarida oyinlar tahlili chiqishi kerak');
+  assert.match(aMsg.text, /YouTube/);
+  assert.match(aMsg.text, /Diqqat bahosi/);
+  assert.ok(aMsg.reply_markup && /Maqtash|maqtash/.test(aMsg.reply_markup.inline_keyboard[0][0].text));
+  await bot.handleUpdate(cb(100, `praise:${A._id}:${today}`));
+  assert.equal(focusStore.get(String(A._id)).pending_praise, 1);
+  const bMsg = w.sent.find((x) => String(x.chat_id) === '200' && /ruxsati/.test(x.text));
+  assert.ok(bMsg, 'Dilnoza xabarida ruxsat ochirilgani ogohlantirishi chiqishi kerak');
+});
