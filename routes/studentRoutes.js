@@ -58,9 +58,11 @@ router.get('/kids', protect, checkSubscription, kc.getKids);
 router.put('/kids', protect, checkSubscription, kc.putKids);
 
 const fc = require('../controllers/focusController');
+const { aiChat } = require('../controllers/aiChatController');
 router.get('/focus', protect, fc.getFocus);
 router.put('/focus', protect, fc.putFocus);
 router.post('/praise/pop', protect, fc.popPraise);
+router.post('/ai-chat', protect, aiChat);
 
 const pr = require('../controllers/practiceController');
 router.get('/practice', protect, checkSubscription, pr.summary);
