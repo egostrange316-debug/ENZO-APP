@@ -126,4 +126,77 @@ const changePassword = async (req, res) => {
   }
 };
 
-module.exports = { changePassword, registerStudent, login, publicUser, GROUPS };
+// ==================== QR-KOD ORQALI KOMPYUTERDAN KIRISH ====================
+const QR_SESSIONS = new Map(); // code -> { status, createdAt, expiresAt, token?, user? }
+const QR_ALPHABET = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+
+function pruneQrSessions() {
+  const now = Date.now();
+  for (const [k, v] of QR_SESSIONS.entries()) {
+    if (v.expiresAt <= now) QR_SESSIONS.delete(k);
+  }
+  if (QR_SESSIONS.size > 500) {
+    const oldest = [...QR_SESSIONS.keys()].slice(0, QR_SESSIONS.size - 400);
+    oldest.forEach((k) => QR_SESSIONS.delete(k));
+  }
+}
+
+function makeQrCode() {
+  const bytes = crypto.randomBytes(6);
+  let out = '';
+  for (let i = 0; i < 6; i++) out += QR_ALPHABET[bytes[i] % QR_ALPHABET.length];
+  return out;
+}
+
+/** POST /api/auth/qr/create — kompyuter ekrani uchun 3 daqiqalik bir martalik QR-kod yaratadi */
+const qrCreate = async (_req, res) => {
+  pruneQrSessions();
+  let code = makeQrCode();
+  while (QR_SESSIONS.has(code)) code = makeQrCode();
+  const now = Date.now();
+  const expiresAt = now + 180 * 1000;
+  QR_SESSIONS.set(code, { status: 'pending', createdAt: now, expiresAt });
+  res.status(200).json({ code, qr_payload: `HTQR:${code}`, expires_in: 180 });
+};
+
+/** GET /api/auth/qr/status/:code — kompyuter har 2 soniyada tasdiqlanganini tekshiradi */
+const qrStatus = async (req, res) => {
+  pruneQrSessions();
+  const raw = String(req.params.code || '').replace(/^HTQR:/i, '').trim().toUpperCase();
+  const sess = QR_SESSIONS.get(raw);
+  if (!sess) return res.status(200).json({ status: 'expired' });
+  if (sess.status === 'approved' && sess.token && sess.user) {
+    QR_SESSIONS.delete(raw); // bir martalik — darhol o'chiriladi
+    return res.status(200).json({ status: 'approved', token: sess.token, user: sess.user });
+  }
+  return res.status(200).json({ status: 'pending', seconds_left: Math.max(0, Math.ceil((sess.expiresAt - Date.now()) / 1000)) });
+};
+
+/** POST /api/auth/qr/approve — telefondagi ilova (JWT bilan) kompyuter QR-kodini tasdiqlaydi */
+const qrApprove = async (req, res) => {
+  try {
+    pruneQrSessions();
+    const raw = String(req.body?.code || '').replace(/^HTQR:/i, '').trim().toUpperCase();
+    const sess = QR_SESSIONS.get(raw);
+    if (!sess || sess.status !== 'pending') {
+      return res.status(404).json({ message: 'QR-kod eskirgan yoki noto‘g‘ri. Kompyuterda yangilang.' });
+    }
+    const user = await User.findById(req.user._id);
+    if (!user) return res.status(404).json({ message: 'Foydalanuvchi topilmadi' });
+    if (user.role === 'student') {
+      const sub = await evaluateSubscription(user);
+      if (sub && sub.blocked) {
+        return res.status(403).json({ message: 'Hisobingiz bloklangan', blocked: true });
+      }
+    }
+    sess.status = 'approved';
+    sess.token = generateToken(user._id);
+    sess.user = publicUser(user);
+    return res.status(200).json({ message: '✅ Kompyuterda kirish tasdiqlandi!' });
+  } catch (error) {
+    console.error('qrApprove xatosi:', error);
+    return res.status(500).json({ message: 'Server xatosi' });
+  }
+};
+
+module.exports = { changePassword, registerStudent, login, publicUser, GROUPS, qrCreate, qrStatus, qrApprove };

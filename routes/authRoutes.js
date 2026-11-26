@@ -1,11 +1,14 @@
 const express = require('express');
 const router = express.Router();
-const { registerStudent, login, changePassword } = require('../controllers/authController');
+const { registerStudent, login, changePassword, qrCreate, qrStatus, qrApprove } = require('../controllers/authController');
 const { protect } = require('../middleware/auth');
 
 router.get('/groups', require('../controllers/groupController').publicGroups);
 router.post('/register', registerStudent);
 router.post('/login', login);
 router.post('/change-password', protect, changePassword);
+router.post('/qr/create', qrCreate);
+router.get('/qr/status/:code', qrStatus);
+router.post('/qr/approve', protect, qrApprove);
 
 module.exports = router;
