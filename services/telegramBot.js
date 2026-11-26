@@ -99,7 +99,8 @@ function createBot(deps) {
     const nextDueStr = due ? uzDate(new Date(due.getTime() + 5 * 3600000)) : '';
     const amountVal = (paymentObj && paymentObj.amount) || student.monthly_fee || 0;
     const receiptNo = makeReceiptNo(student._id, paidAt);
-    const text = T.paymentReceipt({
+    const bonusVal = paymentObj && Number(paymentObj.on_time_bonus) > 0 ? Number(paymentObj.on_time_bonus) : 0;
+    const baseText = T.paymentReceipt({
       fullName: student.full_name,
       groupName: student.group_name,
       amount: money(amountVal),
@@ -108,6 +109,9 @@ function createBot(deps) {
       receiptNo,
       note: paymentObj && paymentObj.note ? paymentObj.note : '',
     });
+    const text = bonusVal > 0
+      ? `${baseText}\n\n🎁 <b>O‘z vaqtida to‘lov bonusi:</b> Intizom uchun farzandingizga <b>+${bonusVal} Bonus ball</b> berildi! 🎉`
+      : baseText;
     let sentCount = 0;
     for (const p of parents) {
       const res = await send(p, text);

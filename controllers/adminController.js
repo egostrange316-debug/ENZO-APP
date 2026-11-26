@@ -601,4 +601,42 @@ const adjustBonusBall = async (req, res) => {
   }
 };
 
-module.exports = { _isTrialOnly: isTrialOnly, adjustBonusBall, recordCyclePayment, cancelLastPayment, setBilling, placeStudent, studentWritings, setStudentDay, studentCard, passCurrentDay, listStudents, recordPayment, unblockStudent, approveSpeakingExam, parseUnitWithAI, getStudentDetails, deleteStudent };
+/**
+ * POST /api/admin/students/:id/teacher-praise  { bonus?: 20 }
+ * Ustoz 1-klik bilan o'quvchiga bonus ball beradi va ota-onasining Telegram botiga maqtov xabari yuboradi.
+ */
+const teacherPraiseStudent = async (req, res) => {
+  try {
+    const student = await findStudent(req.params.id);
+    if (!student) return res.status(404).json({ message: "O'quvchi topilmadi" });
+    const bonus = Math.max(5, Math.min(100, Math.round(Number(req.body?.bonus) || 20)));
+    student.ball = (Number(student.ball) || 0) + bonus;
+    await student.save();
+
+    let notified = 0;
+    if (process.env.TELEGRAM_BOT_TOKEN && Array.isArray(student.parent_chats) && student.parent_chats.length) {
+      try {
+        const tg = require('../services/telegramService');
+        const msg = `🌟 <b>Husanboy Ustozdan Maqtov!</b>\n\nAssalomu alaykum! Ustoz bugun farzandingiz <b>${student.full_name}</b> ning darsdagi faolligi va harakatidan juda mamnun!\n\n🎁 Qo‘shimcha <b>+${bonus} Bonus ball</b> taqdim etildi! 🏆`;
+        for (const chatId of student.parent_chats) {
+          await tg.sendMessage(chatId, msg).catch(() => {});
+          notified++;
+        }
+      } catch (_) {}
+    }
+
+    res.status(200).json({
+      message: notified > 0
+        ? `🌟 +${bonus} Bonus ball berildi va ${notified} ta ota-onaga Telegram maqtov yuborildi!`
+        : `🌟 +${bonus} Bonus ball berildi! (Ota-ona hali botga ulanmagan)`,
+      bonus,
+      notified,
+      student: publicUser(student),
+    });
+  } catch (error) {
+    console.error('teacherPraiseStudent xatosi:', error);
+    res.status(500).json({ message: 'Server xatosi' });
+  }
+};
+
+module.exports = { _isTrialOnly: isTrialOnly, teacherPraiseStudent, adjustBonusBall, recordCyclePayment, cancelLastPayment, setBilling, placeStudent, studentWritings, setStudentDay, studentCard, passCurrentDay, listStudents, recordPayment, unblockStudent, approveSpeakingExam, parseUnitWithAI, getStudentDetails, deleteStudent };
