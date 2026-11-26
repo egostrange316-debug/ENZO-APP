@@ -201,15 +201,21 @@ const recordCyclePayment = async (req, res) => {
       const loc = new Date(paidAt.getTime() + 5 * 3600 * 1000);
       student.pay_day = Math.min(28, loc.getUTCDate());
     }
+    const onTime = student.status !== 'blocked' && (!current || paidAt.getTime() <= new Date(current).getTime());
+    const customBonus = req.body?.bonus_ball !== undefined ? Math.max(0, Math.min(500, Math.round(Number(req.body.bonus_ball) || 0))) : 50;
+    const onTimeBonus = onTime ? customBonus : 0;
+
     const base = trial ? null : current;
     const target = newEndForPayment(base, clampPayDay(student.pay_day), paidAt, now);
     const entry = {
       paid_at: paidAt, recorded_at: now, paid_through: target, kind: 'cycle', amount, note, by: req.user._id,
       pid: crypto.randomBytes(6).toString('hex'), prev_end: current, prev_status: student.status,
+      on_time_bonus: onTimeBonus,
     };
     student.payments.push(entry);
     student.status = 'active';
     student.subscription_end_date = target;
+    if (onTimeBonus > 0) student.ball = (Number(student.ball) || 0) + onTimeBonus;
     if (amount > 0 && !student.monthly_fee) student.monthly_fee = amount; // birinchi summa = oylik narx
     if (student.payments.length > 60) student.payments = student.payments.slice(-60);
     await student.save();
@@ -223,7 +229,13 @@ const recordCyclePayment = async (req, res) => {
       });
     }
 
-    res.status(200).json({ message: "To'lov qayd etildi", student: publicUser(student) });
+    res.status(200).json({
+      message: onTimeBonus > 0
+        ? `To'lov qayd etildi! O'z vaqtida to'lov uchun +${onTimeBonus} Bonus ball berildi 🎉`
+        : "To'lov qayd etildi",
+      on_time_bonus: onTimeBonus,
+      student: publicUser(student),
+    });
   } catch (error) {
     console.error('recordCyclePayment xatosi:', error);
     res.status(500).json({ message: 'Server xatosi' });
@@ -248,6 +260,7 @@ const cancelLastPayment = async (req, res) => {
     last.cancelled_at = new Date();
     if (last.prev_end) student.subscription_end_date = last.prev_end;
     if (last.prev_status) student.status = last.prev_status;
+    if (last.on_time_bonus > 0) student.ball = Math.max(0, (Number(student.ball) || 0) - last.on_time_bonus);
     student.markModified('payments');
     await student.save();
     res.status(200).json({ message: "To'lov bekor qilindi", student: publicUser(student) });
@@ -542,4 +555,50 @@ const studentWritings = async (req, res) => {
   }
 };
 
-module.exports = { _isTrialOnly: isTrialOnly, recordCyclePayment, cancelLastPayment, setBilling, placeStudent, studentWritings, setStudentDay, studentCard, passCurrentDay, listStudents, recordPayment, unblockStudent, approveSpeakingExam, parseUnitWithAI, getStudentDetails, deleteStudent };
+/**
+ * POST /api/admin/bonus-ball  { student_id?: string, group_name?: string, delta: number, reason?: string }
+ * O'qituvchi bitta o'quvchiga yoki butun guruhga bonus ball qo'shadi (+) yoki olib tashlaydi (-).
+ */
+const adjustBonusBall = async (req, res) => {
+  try {
+    const delta = Math.round(Number(req.body?.delta));
+    if (!Number.isFinite(delta) || delta === 0 || delta < -500 || delta > 500) {
+      return res.status(400).json({ message: 'Ball o‘zgarishi -500 dan +500 gacha (0 dan farqli) bo‘lishi kerak' });
+    }
+    const studentId = String(req.body?.student_id || '').trim();
+    const groupName = String(req.body?.group_name || '').trim();
+    if (!studentId && !groupName) {
+      return res.status(400).json({ message: 'O‘quvchi yoki guruh tanlanishi kerak' });
+    }
+
+    let targets = [];
+    if (studentId) {
+      const s = await findStudent(studentId);
+      if (!s) return res.status(404).json({ message: "O'quvchi topilmadi" });
+      targets = [s];
+    } else {
+      targets = await User.find({ role: 'student', group_name: groupName });
+      if (!targets.length) return res.status(404).json({ message: `"${groupName}" guruhida o‘quvchi topilmadi` });
+    }
+
+    let updated = 0;
+    for (const u of targets) {
+      const nextBall = Math.max(0, (Number(u.ball) || 0) + delta);
+      await User.updateOne({ _id: u._id }, { $set: { ball: nextBall } });
+      updated++;
+    }
+
+    res.status(200).json({
+      message: delta > 0
+        ? `✅ ${updated} ta o‘quvchiga +${delta} bonus ball qo‘shildi`
+        : `✅ ${updated} ta o‘quvchidan ${delta} ball olib tashlandi`,
+      updated,
+      delta,
+    });
+  } catch (error) {
+    console.error('adjustBonusBall xatosi:', error);
+    res.status(500).json({ message: 'Server xatosi' });
+  }
+};
+
+module.exports = { _isTrialOnly: isTrialOnly, adjustBonusBall, recordCyclePayment, cancelLastPayment, setBilling, placeStudent, studentWritings, setStudentDay, studentCard, passCurrentDay, listStudents, recordPayment, unblockStudent, approveSpeakingExam, parseUnitWithAI, getStudentDetails, deleteStudent };

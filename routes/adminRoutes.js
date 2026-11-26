@@ -18,6 +18,7 @@ const {
   setStudentDay,
   studentWritings,
   placeStudent,
+  adjustBonusBall,
 } = require('../controllers/adminController');
 
 const { courseMap } = require('../controllers/bookPlanController');
@@ -32,6 +33,7 @@ router.get('/students/:id/writings', studentWritings);
 router.post('/students/:id/placement', placeStudent);
 router.post('/students/:id/pass-day', passCurrentDay);
 router.post('/students/:id/set-day', setStudentDay);
+router.post('/bonus-ball', adjustBonusBall);
 router.delete('/students/:id', deleteStudent);
 router.post('/students/:id/pay', recordPayment);
 router.post('/students/:id/payment', recordCyclePayment);

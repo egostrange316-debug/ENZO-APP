@@ -282,10 +282,21 @@ function createBot(deps) {
       const kids = await linkedKids(chat);
       if (!kids.length) return void (await send(chat, T.noKids));
       const today = D.tashkentNow().date;
-      if (FocusLog && typeof FocusLog.findOneAndUpdate === 'function') {
+      let sentCount = 0;
+      if (FocusLog && typeof FocusLog.findOne === 'function' && typeof FocusLog.findOneAndUpdate === 'function') {
         for (const k of kids) {
-          await FocusLog.findOneAndUpdate({ user: k._id, date: today }, { $inc: { pending_praise: 1 } }, { upsert: true }).catch(() => {});
+          const existing = await FocusLog.findOne({ user: k._id, date: today }).lean().catch(() => null);
+          if (existing && existing.praised_today) continue;
+          await FocusLog.findOneAndUpdate(
+            { user: k._id, date: today },
+            { $inc: { pending_praise: 1 }, $set: { praised_today: true } },
+            { upsert: true }
+          ).catch(() => {});
+          sentCount++;
         }
+      }
+      if (sentCount === 0) {
+        return void (await send(chat, '✅ Bugun farzandingizga maqtov va +10 Bonus XP allaqachon yuborilgan.\nErtaga yana maqtashingiz mumkin!', null, PARENT_KB));
       }
       return void (await send(chat, T.praiseSent, null, PARENT_KB));
     }
